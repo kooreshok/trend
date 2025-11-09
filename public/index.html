@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Trend</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>Project Trend</h1>
+            <p>Your Daily Dose of What's Trending</p>
+        </div>
+    </header>
+
+    <nav>
+        <div class="container">
+            <button class="category-btn active" data-category="tech_news">Tech News</button>
+            <button class="category-btn" data-category="trending_movies">Trending Movies</button>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+            <p class="timestamp" id="last-updated">Loading...</p>
+            <div id="trend-list-container">
+                <!-- Trend items will be injected here by JavaScript -->
+            </div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
