@@ -9,7 +9,7 @@ NEWS_API_KEY = os.getenv('NEWS_API_KEY', '04b0c1441d4042cf9f5cc754da6ffb0d')
 TMDB_API_KEY = os.getenv('TMDB_API_KEY', '6532d7cbac8891884e5ccc4a2013138d')
 
 # Output path for the JSON file
-OUTPUT_PATH = os.path.join(os.path.dirname(__name__), '..', 'public', 'data', 'trends.json')
+OUTPUT_PATH = os.path.join(os.path.dirname(__name__), '..', 'docs', 'data', 'trends.json')
 NUM_ITEMS = 10
 
 # --- DATA FETCHING FUNCTIONS ---

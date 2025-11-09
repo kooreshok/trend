@@ -17,6 +17,9 @@ jobs:
     # The type of virtual machine to use. 'ubuntu-latest' is standard and free.
     runs-on: ubuntu-latest
 
+    permissions:      
+      contents: write
+
     # --- STEPS: The sequence of commands to run inside the virtual machine ---
     steps:
     # Step 1: Get a copy of the code
