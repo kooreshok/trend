@@ -1,69 +1,76 @@
 {
-  "last_updated": "November 10, 2025, 20:19 UTC",
+  "last_updated": "November 10, 2025, 21:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://assets-prd.ignimgs.com/2025/11/07/shepard-in-me3-1024x576-1762524493110.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Mass Effect TV Series Won't Retread Shepard's Story And Will Be Set After The Original Trilogy - IGN",
-        "description": "Amazon's upcoming Mass Effect TV adaptation will focus on an original story rather than rehashing BioWare's classic trilogy of video games starring Commander Shepard.",
-        "source_link": "https://www.ign.com/articles/mass-effect-tv-series-wont-retread-shepards-story-and-will-be-set-after-the-original-trilogy"
+        "image": "https://assetsio.gnwcdn.com/arc-raiders-2_Lnfc4S0.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Arc Raiders breaks another concurrent record as player count soars - Eurogamer",
+        "description": "Arc Raiders has once again smashed its own concurrent peak user count on Steam, topping 400,000 for the first time this\u2026",
+        "source_link": "https://www.eurogamer.net/arc-raiders-breaks-another-concurrent-record-as-player-count-soars"
       },
       {
         "rank": 2,
+        "image": "https://assetsio.gnwcdn.com/stalker-2-heart-of-chornobyl-review-5-noontide-patrol.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Stalker 2 dev strikes down copycat game Misery with DMCA claim - Eurogamer",
+        "description": "Stalker 2: Heart of Chornobyl developer GSC Game World has struck down co-op survival horror shooter Misery with a DMCA\u2026",
+        "source_link": "https://www.eurogamer.net/stalker-2-dev-strikes-down-copycat-game-misery-with-dmca-claim"
+      },
+      {
+        "rank": 3,
+        "image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/11/dispatchrobert.jpg?w=1600&h=900&fit=crop",
+        "title": "Dispatch Lead Developer Says The Team Will \"Think\" About Season 2 - TheGamer",
+        "description": "Season 1 isn't even over yet, but more Dispatch seems inevitable.",
+        "source_link": "https://www.thegamer.com/dispatch-adhoc-studios-co-founder-says-team-is-thinking-about-season-2/"
+      },
+      {
+        "rank": 4,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/02/Apple-iphone-16.jpg?resize=1200,853",
+        "title": "Apple reportedly plans ambitious satellite-powered iPhone features - TechCrunch",
+        "description": "While Apple\u2019s iPhone already supports texting, calling emergency services, and contacting roadside assistance via satellite connectivity, the company may have many more satellite-powered features in the works.",
+        "source_link": "https://techcrunch.com/2025/11/09/apple-reportedly-plans-ambitious-satellite-powered-iphone-features/"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/nuevo-paraiso-the-forgotten-frontier-rdr2-mod-coming-soon.jpg",
+        "title": "Massive Red Dead Redemption 2 mod \u201cNuevo Para\u00edso\u201d recreates RDR1\u2019s Mexico with expanded world and missions - Notebookcheck",
+        "description": "A new large-scale mod for Red Dead Redemption 2 titled Nuevo Para\u00edso \u2013 The Forgotten Frontier has been unveiled, aiming to expand the game\u2019s world by reintroducing Mexico, the long-missing region from Red Dead Redemption 1. The fan project is described as a b\u2026",
+        "source_link": "https://www.notebookcheck.net/Massive-Red-Dead-Redemption-2-mod-Nuevo-Paraiso-recreates-RDR1-s-Mexico-with-expanded-world-and-missions.1159232.0.html"
+      },
+      {
+        "rank": 6,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/illustration-of-the-google-gboard-and-multiple-clipboard-icons-floating-around-it.png?w=1600&h=900&fit=crop",
+        "title": "The little known Android keyboard shortcut I use every single day - Android Police",
+        "description": "Typing feels incomplete without it",
+        "source_link": "https://www.androidpolice.com/android-keyboard-shortcut-i-use-every-single-day/"
+      },
+      {
+        "rank": 7,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/google-home-gemini-ask-home-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Gemini has made Google Home incredibly smart, except for the dumb mistakes - 9to5Google",
+        "description": "Gemini for Google Home has arrived and, with it, a glimpse of Google\u2019s view of the future of the smart...",
+        "source_link": "http://9to5google.com/2025/11/09/gemini-google-home-impressions/"
+      },
+      {
+        "rank": 8,
         "image": "https://supercarblondie.com/wp-content/uploads/My-Dirty-Garage.webp",
         "title": "Mechanic goes to work on 1968 Mustang GT 390 4-Speed before making startling realization about the car - supercarblondie.com",
         "description": "This mechanic recently received a Mustang GT 390 to work on - before making an absolutely startling realization in the process",
         "source_link": "https://supercarblondie.com/mechanic-1968-mustang-gt-390-4-speed-startling-realization/"
       },
       {
-        "rank": 3,
+        "rank": 9,
+        "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/wm/2025/11/henry-from-kingdom-come-deliverance-2-next-to-ciri-from-the-witcher-4-composite.jpg?w=1600&h=900&fit=crop",
+        "title": "Kingdom Come: Deliverance 2 Veteran Joins The Witcher 4 Team - Game Rant",
+        "description": "A Warhorse Studios veteran who held several senior roles on Kingdom Come: Deliverance 2 joins The Witcher 4 team in a key position.",
+        "source_link": "https://gamerant.com/witcher-4-kingdom-come-deliverance-sr-quest-designer-dev-karel-kolmann/"
+      },
+      {
+        "rank": 10,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/VH_FirePhone_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "The tale of the Fire Phone, Amazon\u2019s very strange smartphone - The Verge",
         "description": "With a 3D screen, a lot of cameras, and some big ideas about smartphones, Amazon came roaring into the mobile game in 2014. By the end of the year, it was over.",
         "source_link": "https://www.theverge.com/podcast/816739/amazon-fire-phone-version-history"
-      },
-      {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/hallmark_xbox1_22023c.webp?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-        "title": "Deck out your tree with ornaments of retro consoles, movie moments, and more - The Verge",
-        "description": "You could put plain ornaments on your tree, but we\u2019ve found some great alternatives that tap into nostalgia and nerd culture.",
-        "source_link": "https://www.theverge.com/tech/811614/best-christmas-ornaments-2025"
-      },
-      {
-        "rank": 5,
-        "image": null,
-        "title": "Shigeru Miyamoto discusses his current involvement with Mario games and more - Nintendo Everything",
-        "description": null,
-        "source_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYS1WeXNGTzBjRjc3aWNuS0xCd0Z4Z25JeEh0Uy1jVGNPX05RV2xPUFFTVEFRYUx2ejNOeVpKUjdBQXJxT19TUWpxYV8xRmxyUS1EQ1Baa3BkN2NTTmhURmNCdFJ5QURQT0xYYmxqTVp4U2V0ZTR5SFUtUFplampabXA3MzVrSFFVSlpfeTJkcDJneHBaLThWX2RFYk9QZ2c3c21VclJTS0tSZ3oz?oc=5"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.phoronix.net/image.php?id=2025&image=ms_b",
-        "title": "The Linux Kernel Looks To \"Bite The Bullet\" In Enabling Microsoft C Extensions - Phoronix",
-        "description": "Two patches queued into the Linux kernel's build system development tree, kbuild-next, would enable the -fms-extensions compiler argument everywhere for allowing GCC and LLVM/Clang to use the Microsoft C Extensions when compiling the Linux kernel",
-        "source_link": "https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Fitbit-M3E-redesign-10.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Fitbit redesign brings Material 3 Expressive overhaul - 9to5Google",
-        "description": "Besides the AI-powered personal health coach, the Fitbit redesign introduces Material 3 Expressive to the Android app.",
-        "source_link": "http://9to5google.com/2025/11/09/fitbit-material-3-expressive/"
-      },
-      {
-        "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ss_d8de91e4a87f0e2c0fb70c84bd0f798bd4617eaf.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "65daysofstatic\u2019s new No Man\u2019s Sky album searches for humanity in an AI-filled world - The Verge",
-        "description": "65daysofstatic, the band behind the No Man\u2019s Sky soundtrack, has returned to the game with a new album called Journeys.",
-        "source_link": "https://www.theverge.com/report/816427/no-mans-sky-album-journeys-65daysofstatic"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/macbook-pro-m6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Report: OLED MacBook Pro redesign may be exclusive to M6 Pro and M6 Max models - 9to5Mac",
-        "description": "In today\u2019s edition of the Power On newsletter, Mark Gurman of Bloomberg reported a new key detail for the launch...",
-        "source_link": "https://9to5mac.com/2025/11/09/report-oled-macbook-pro-redesign-may-be-exclusive-to-m6-pro-and-m6-max-models/"
       }
     ],
     "trending_movies": [
@@ -76,24 +83,24 @@
       },
       {
         "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/sMybEeAn3aFXsIUUcWPSFXlS6qS.jpg",
         "title": "Predator: Badlands",
         "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
         "source_link": "https://www.themoviedb.org/movie/1242898"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/r83HIGA0mUiy7I9qVr17pF7SCDP.jpg",
         "title": "Good Fortune",
         "description": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist....",
         "source_link": "https://www.themoviedb.org/movie/1114967"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/xUWUODKPIilQoFUzjHM6wKJkP3Y.jpg",
-        "title": "Black Phone 2",
-        "description": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dr...",
-        "source_link": "https://www.themoviedb.org/movie/1197137"
       },
       {
         "rank": 5,
@@ -104,10 +111,10 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
+        "image": "https://image.tmdb.org/t/p/w200/xUWUODKPIilQoFUzjHM6wKJkP3Y.jpg",
+        "title": "Black Phone 2",
+        "description": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dr...",
+        "source_link": "https://www.themoviedb.org/movie/1197137"
       },
       {
         "rank": 7,
