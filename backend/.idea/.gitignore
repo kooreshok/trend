@@ -1,3 +1,10 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# IDE configuration files
+.idea/
+.backend/
+
+# Python cache files
+__pycache__/
