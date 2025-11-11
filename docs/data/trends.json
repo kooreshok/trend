@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 11, 2025, 07:16 UTC",
+  "last_updated": "November 11, 2025, 08:21 UTC",
   "categories": {
     "tech_news": [
       {
@@ -69,17 +69,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/v9NLaLBbrkDwq44qG51v8T6sPuI.jpg",
-        "title": "Frankenstein",
-        "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
-        "source_link": "https://www.themoviedb.org/movie/1062722"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/v9NLaLBbrkDwq44qG51v8T6sPuI.jpg",
+        "title": "Frankenstein",
+        "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
+        "source_link": "https://www.themoviedb.org/movie/1062722"
       },
       {
         "rank": 3,
@@ -97,17 +97,17 @@
       },
       {
         "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg",
+        "title": "Roofman",
+        "description": "A former Army Ranger and struggling father turns to robbing McDonald\u2019s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'...",
+        "source_link": "https://www.themoviedb.org/movie/1242419"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
         "title": "Now You See Me: Now You Don't",
         "description": "The Four Horsemen return along with a new generation of illusionists performing mind-melding twists, turns, surprises, and magic unlike anything ever ...",
         "source_link": "https://www.themoviedb.org/movie/425274"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
-        "title": "Wicked: For Good",
-        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
-        "source_link": "https://www.themoviedb.org/movie/967941"
       },
       {
         "rank": 7,
@@ -118,24 +118,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/xm5ER19nTk7iuWFaiNRUYe3Zlz.jpg",
-        "title": "Baramulla",
-        "description": "A cop's inquiry into child kidnappings unravels chilling secrets as supernatural events endanger his family and the peaceful town of Baramulla....",
-        "source_link": "https://www.themoviedb.org/movie/1561969"
+        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "title": "Wicked: For Good",
+        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
+        "source_link": "https://www.themoviedb.org/movie/967941"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg",
-        "title": "Roofman",
-        "description": "A former Army Ranger and struggling father turns to robbing McDonald\u2019s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'...",
-        "source_link": "https://www.themoviedb.org/movie/1242419"
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought whe...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
-        "title": "The Fantastic 4: First Steps",
-        "description": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the st...",
-        "source_link": "https://www.themoviedb.org/movie/617126"
+        "image": "https://image.tmdb.org/t/p/w200/bnGKTYXVkQp0TKWRfAvTTY1y2XC.jpg",
+        "title": "The Running Man",
+        "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
+        "source_link": "https://www.themoviedb.org/movie/798645"
       }
     ]
   }
