@@ -1,55 +1,55 @@
 {
-  "last_updated": "November 11, 2025, 22:15 UTC",
+  "last_updated": "November 11, 2025, 23:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.macrumors.com/t/tF1olB3pkzfl6m7zNg9Ywn-x_XA=/1920x/article-new/2020/11/m1-chip-slide.jpg",
+        "title": "Five Years of Apple Silicon: M1 to M5 Performance Comparison - MacRumors",
+        "description": "Today marks the fifth anniversary of the Apple silicon chip that replaced Intel chips in Apple's Mac lineup. The first Apple silicon chip, the...",
+        "source_link": "https://www.macrumors.com/2025/11/10/apple-silicon-m1-to-m5-comparison/"
+      },
+      {
+        "rank": 2,
+        "image": "https://techcrunch.com/wp-content/uploads/2024/08/Google-TV-Streamer-set-up.jpg?resize=1200,800",
+        "title": "Google brings Gemini to the Google TV Streamer - TechCrunch",
+        "description": "The tech giant says the change will enable users to use their voice more naturally to access content and more.",
+        "source_link": "https://techcrunch.com/2025/11/10/google-brings-gemini-to-the-google-tv-streamer/"
+      },
+      {
+        "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2025/11/2416100_23321-1200x675.jpg",
+        "title": "Goodnight Universe Is A Messier, More Ambitious Before Your Eyes - Kotaku",
+        "description": "Goodnight Universe is still pretty novel, but it\u2019s not as focused as the incredible Before Your Eyes",
+        "source_link": "https://kotaku.com/goodnight-universe-review-before-your-eyes-webcam-baby-2000642517"
+      },
+      {
+        "rank": 4,
         "image": "https://tii.imgix.net/production/articles/16047/dd2e9d3a-e6fa-4520-855a-10cb02a45996.png?fm=jpg&auto=compress&w=1200&frame=0",
         "title": "Apple Delays Release of Next iPhone Air Amid Weak Sales - The Information",
         "description": "Apple is delaying the release of next year\u2019s version of the iPhone Air, its thinnest smartphone, after the first model sold below expectations, according to three people involved in the project. Although the length of the delay remains uncertain, the product \u2026",
         "source_link": "https://www.theinformation.com/articles/apple-delays-release-next-iphone-air-amid-weak-sales"
       },
       {
-        "rank": 2,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/691235ad7df30f9652443c9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "Apple iOS 26.2: Major New iPhone Update Release Confirmed \u2014 Here\u2019s What\u2019s In It - Forbes",
-        "description": "Apple is usually very coy about when its iPhone updates will arrive. But the next major update is on its way and Apple, for once, has said when it\u2019s coming.",
-        "source_link": "https://www.forbes.com/sites/davidphelan/2025/11/10/apple-ios-262-next-key-iphone-update-release-date---apple-issues-rare-confirmation/"
+        "rank": 5,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25623454/DSCF0048.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Apple\u2019s AirPods 4 just hit their lowest price yet at $85 - The Verge",
+        "description": "Apple\u2019s AirPods 4 are $84.99 ($44 off). That marks a new low on Apple\u2019s entry-level earbuds, which offer improved sound and voice calls over the previous model.",
+        "source_link": "https://www.theverge.com/tech/817656/apple-airpods-4-early-black-friday-deal-sale"
       },
       {
-        "rank": 3,
-        "image": "https://images.pushsquare.com/a2448c77af540/large.jpg",
-        "title": "New Hollow Knight: Silksong Update Coming Soon to PS5, PS4 Makes a Fan Mod an Official Thing - Push Square",
-        "description": "Get all the patch notes here",
-        "source_link": "https://www.pushsquare.com/news/2025/11/new-hollow-knight-silksong-update-coming-soon-to-ps5-ps4-makes-a-fan-mod-an-official-thing"
-      },
-      {
-        "rank": 4,
+        "rank": 6,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/arxfatalis.png",
         "title": "New project brings strong Linux compatibility to more classic Windows games - Ars Technica",
         "description": "But author warns that Direct3D 7 \u201cis a land of highly cursed API inter-operability.\u201d\u2026",
         "source_link": "https://arstechnica.com/gaming/2025/11/new-project-brings-strong-linux-compatibility-to-more-classic-windows-games/"
       },
       {
-        "rank": 5,
-        "image": "https://assets-prd.ignimgs.com/2025/10/31/en-keyart-04-16x9-1761933893325.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "What\u2019s New in Enshrouded\u2019s Latest Update, Wake of the Water - IGN",
-        "description": null,
-        "source_link": "https://www.ign.com/articles/whats-new-in-enshroudeds-latest-update-wake-of-the-water"
-      },
-      {
-        "rank": 6,
+        "rank": 7,
         "image": "https://ep1.pinkbike.org/p4pb29005862/p4pb29005862.jpg",
         "title": "The BikeYoke Shifty 2 is a Mechanical Transmission Hop-Up Kit - Pinkbike",
         "description": "Big wins for fans of marginal gains.",
         "source_link": "https://www.pinkbike.com/news/the-bikeyoke-shifty-2-is-a-mechanical-transmission-hop-up-kit.html"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/Google-TV-Streamer-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Gemini starts rolling out to Google TV Streamer - 9to5Google",
-        "description": "After first debuting in September for one series of devices, Gemini for TV is now coming to the Google TV Streamer.",
-        "source_link": "http://9to5google.com/2025/11/10/gemini-google-tv-streamer-2/"
       },
       {
         "rank": 8,
@@ -60,17 +60,17 @@
       },
       {
         "rank": 9,
+        "image": "https://images.gamewatcherstatic.com/review/image/0/0e/13470/Anno-117-Pax-Romana-PC-Review-1.jpg",
+        "title": "Anno 117: Pax Romana Review - GameWatcher",
+        "description": "Outside of dealing with its clunky naval and land battles, Anno 117: Pax Romana is a more relaxed, measured city builder that makes a rather compelling argument to don the mantle of governor.",
+        "source_link": "https://www.gamewatcher.com/reviews/Anno-117-Pax-Romana-review/13470"
+      },
+      {
+        "rank": 10,
         "image": "https://images.ctfassets.net/rporu91m20dc/6hlCer1fEvKdCbhTIKmUkf/1139cc3a8dddf4617e6f0667c5a39ca7/Fallout4_LargeHero_AEAnnounce.png?fit=fill&w=1200&h=600",
         "title": "Fallout 4: Anniversary Edition Now Available - Bethesda.net",
         "description": "Step back into the Commonwealth with the definitive Fallout 4 experience, available now!",
         "source_link": "https://bethesda.net/en/article/3IN7gxAs893fv09b7ZJ3I0/fallout-4-anniversary-edition-now-available"
-      },
-      {
-        "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/samsung-galaxy-s26-plus-onleaks-renders-2.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-        "title": "Samsung Galaxy S26 Plus reappears in renders with a new camera island - The Verge",
-        "description": "The first leak renders of Samsung\u2019s Galaxy S26 Plus reveal a familiar phone with a fresh camera island, different to the Edge phone it\u2019s rumored to be replacing.",
-        "source_link": "https://www.theverge.com/news/817615/samsung-galaxy-s26-plus-renders-design-camera-island"
       }
     ],
     "trending_movies": [
@@ -104,17 +104,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-        "title": "Now You See Me: Now You Don't",
-        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
-        "source_link": "https://www.themoviedb.org/movie/425274"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/5iFpMQmUZ7cy5Hj1GjC2yt1irWs.jpg",
         "title": "Kiss of the Spider Woman",
         "description": "Valent\u00edn, a political prisoner, shares a cell with Molina, a window dresser convicted of public indecency. The two form an unlikely bond as Molina rec...",
         "source_link": "https://www.themoviedb.org/movie/1214684"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+        "title": "Now You See Me: Now You Don't",
+        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
+        "source_link": "https://www.themoviedb.org/movie/425274"
       },
       {
         "rank": 7,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/yhWKTCYa0LK9kS6zcKGYc5Dx9xQ.jpg",
-        "title": "The Running Man",
-        "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
-        "source_link": "https://www.themoviedb.org/movie/798645"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/ePpEZavm379yDhx92ekbDnpGa9a.jpg",
         "title": "Deathstalker",
         "description": "The warrior Deathstalker is tasked by an old witch lady to obtain and unite the three powers of creation \u2013 a chalice, an amulet, and a sword \u2013 lest th...",
         "source_link": "https://www.themoviedb.org/movie/1253000"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/yhWKTCYa0LK9kS6zcKGYc5Dx9xQ.jpg",
+        "title": "The Running Man",
+        "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
+        "source_link": "https://www.themoviedb.org/movie/798645"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/xUWUODKPIilQoFUzjHM6wKJkP3Y.jpg",
-        "title": "Black Phone 2",
-        "description": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dr...",
-        "source_link": "https://www.themoviedb.org/movie/1197137"
+        "image": "https://image.tmdb.org/t/p/w200/q9luDXycWh1xm6K4eN7IXitRMpp.jpg",
+        "title": "Toy Story 5",
+        "description": "Buzz, Woody, Jessie and the rest of the gang's jobs get exponentially harder when they go head to head with an all-new threat to playtime: tech....",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
       }
     ]
   }
