@@ -1,62 +1,69 @@
 {
-  "last_updated": "November 12, 2025, 16:21 UTC",
+  "last_updated": "November 12, 2025, 17:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0007.jpg?quality=90&strip=all&crop=0%2C7.9509095732762%2C100%2C78.534031413613&w=1200",
-        "title": "The LG G5 OLED TV sets a new performance standard - The Verge",
-        "description": "Thanks to the new Primary RGB Tandem display technology, the LG G5 OLED TV delivers stunning brightness and color.",
-        "source_link": "https://www.theverge.com/tech/817807/lg-g5-oled-tv-review"
+        "image": "https://assets-prd.ignimgs.com/2025/11/11/untitled-1-1762879136520.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "New Legend of Zelda: Ocarina of Time LEGO Set For 2026 Looks to Feature Ganon - IGN",
+        "description": "LEGO has teased a new Legend of Zelda set for 2026, featuring Link, Princess Zelda and... an ominous silhouette.",
+        "source_link": "https://www.ign.com/articles/new-legend-of-zelda-ocarina-of-time-lego-set-for-2026-looks-to-feature-ganon"
       },
       {
         "rank": 2,
+        "image": "https://variety.com/wp-content/uploads/2025/11/The-Game-Awards-2024.jpg?w=1000&h=563&crop=1",
+        "title": "The Game Awards 2025 to Stream on Prime Video in New Deal With Amazon - Variety",
+        "description": "The Game Awards will live stream on Amazon's Prime Video this December",
+        "source_link": "https://variety.com/2025/gaming/news/game-awards-streaming-amazon-prime-video-twitch-1236574939/"
+      },
+      {
+        "rank": 3,
+        "image": "https://assetsio.gnwcdn.com/playstation-state-of-play-november-bloodborne.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "PlayStation State of Play November 2025 live report - keep up with everything and pray for Bloodborne here - Eurogamer",
+        "description": "Happy Bloodborne remake day! Wait let's not get ahead of ourselves. Sony's delivering a State of Play broadcast this ev\u2026",
+        "source_link": "https://www.eurogamer.net/playstation-state-of-play-november-2025-live-report-keep-up-with-everything-and-pray-for-bloodborne-here"
+      },
+      {
+        "rank": 4,
+        "image": "https://images.nintendolife.com/76c3e51ee2cd8/large.jpg",
+        "title": "Reggie Is \"Surprised\" We Haven't Seen More Xbox Titles On Switch 2 - Nintendo Life",
+        "description": "\"I thought there would be much more\"",
+        "source_link": "https://www.nintendolife.com/news/2025/11/reggie-is-surprised-we-havent-seen-more-xbox-titles-on-switch-2"
+      },
+      {
+        "rank": 5,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-18-mockup-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Next year\u2019s iPhone 18 lineup sounds like a major overhaul for Apple - 9to5Mac",
         "description": "Rumors indicate that next year\u2019s iPhone 18 lineup could a major departure for Apple from its typical iPhone offerings.",
         "source_link": "https://9to5mac.com/2025/11/11/next-years-iphone-18-lineup-sounds-like-major-overhaul-for-apple/"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/25w46a_1170x500.jpg",
+        "title": "Minecraft Snapshot 25w46a - Minecraft",
+        "description": "Minecraft Snapshot 25w46a",
+        "source_link": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w46a"
+      },
+      {
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/sandisk-extreme-fit-1tb-plugged-in.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
         "title": "Sandisk\u2019s new 1TB USB-C SSD is so small you never need to take it out - The Verge",
         "description": "\ufeffThe Extreme Fit is designed to leave in your laptop wherever you go.",
         "source_link": "https://www.theverge.com/news/818405/sandisk-1tb-extreme-fit-usb-c-ssd"
       },
       {
-        "rank": 4,
+        "rank": 8,
+        "image": "https://assetsio.gnwcdn.com/Pok%C3%A9mon-Pokopia-%E2%80%93-Nintendo-Direct-9.12.2025-0-25-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Cosy spin-off Pok\u00e9mon Pokopia gets release date, but it's another controversial Switch 2 Game-Key Card release - Eurogamer",
+        "description": "Pok\u00e9mon Pokopia, the Animal Crossing meets Minecraft game with an anthropomorphised Ditto, now has a release date.",
+        "source_link": "https://www.eurogamer.net/cosy-spin-off-pokemon-pokopia-gets-release-date-but-its-another-controversial-switch-2-game-key-card-release"
+      },
+      {
+        "rank": 9,
         "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt8e5a3d9415c50d7d/69132f12b7f0b7cfd12f562c/Digiphile_Header.png?disable=upscale&width=1200&height=630&fit=crop",
         "title": "Digiphile is a new charitable discovery platform from a group of Humble Bundle veterans - Game Developer",
         "description": "Digiphile is being pitched as an intentionally curated storefront 'driven by people, not algorithms.'",
         "source_link": "https://www.gamedeveloper.com/business/digiphile-is-a-new-charitable-storefront-from-a-group-of-humble-bundle-veterans"
-      },
-      {
-        "rank": 5,
-        "image": "https://substackcdn.com/image/fetch/$s_!GDxw!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F178452212%2Fd35ad1f3-81ef-43ed-ba88-5b25d834d86a%2Ftranscoded-1762729800.png",
-        "title": "We interview Reggie Fils-Aim\u00e9 about Nintendo Switch 2, leadership and the console war - The Game Business",
-        "description": "\u201cI\u2019m surprised that Xbox has not yet fully embraced the Switch 2\u201d",
-        "source_link": "https://www.thegamebusiness.com/p/we-interview-reggie-fils-aime-about"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Lumines-Arise-screenshot-02_JOURNEY_Neon-Streets.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "Lumines Arise is an almost perfect zen puzzle game - The Verge",
-        "description": "Enhance Inc., the team behind Tetris Effect, has released a new puzzle game called Lumines Arise on the PS5 and Steam.",
-        "source_link": "https://www.theverge.com/games/817997/lumines-arise-review-ps5-steam"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.pushsquare.com/762c68acd8faf/large.jpg",
-        "title": "State of Play Announced for 11th November, Focus on Japanese PS5 Games - Push Square",
-        "description": "Over 40 minutes of news and reveals",
-        "source_link": "https://www.pushsquare.com/news/2025/11/state-of-play-announced-for-11th-november-focus-on-japanese-ps5-games"
-      },
-      {
-        "rank": 8,
-        "image": "https://assets1.ignimgs.com/2018/10/15/p001-1539586785236.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Pok\u00e9mon to Get First Permanent Theme Park in Tokyo February 2026 - IGN",
-        "description": "The Pok\u00e9mon Company announced today that it will open a Pok\u00e9mon theme park in Tokyo next year. Pok\u00e9Park KANTO will be the monster-catching series\u2019 first permanent outdoor attraction, and located inside Yomiuriland, Tokyo\u2019s largest theme park.",
-        "source_link": "https://www.ign.com/articles/pokemon-to-get-first-permanent-theme-park-in-tokyo-february-2026"
       }
     ],
     "trending_movies": [
@@ -69,17 +76,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/v9NLaLBbrkDwq44qG51v8T6sPuI.jpg",
-        "title": "Frankenstein",
-        "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
-        "source_link": "https://www.themoviedb.org/movie/1062722"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg",
         "title": "Roofman",
         "description": "A former Army Ranger and struggling father turns to robbing McDonald\u2019s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'...",
         "source_link": "https://www.themoviedb.org/movie/1242419"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/v9NLaLBbrkDwq44qG51v8T6sPuI.jpg",
+        "title": "Frankenstein",
+        "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
+        "source_link": "https://www.themoviedb.org/movie/1062722"
       },
       {
         "rank": 4,
@@ -104,17 +111,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/nLQcyl6XTu17CfT6g739PbsePDO.jpg",
-        "title": "Kiss of the Spider Woman",
-        "description": "Valent\u00edn, a political prisoner, shares a cell with Molina, a window dresser convicted of public indecency. The two form an unlikely bond as Molina rec...",
-        "source_link": "https://www.themoviedb.org/movie/1214684"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/yhWKTCYa0LK9kS6zcKGYc5Dx9xQ.jpg",
         "title": "The Running Man",
         "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
         "source_link": "https://www.themoviedb.org/movie/798645"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/nLQcyl6XTu17CfT6g739PbsePDO.jpg",
+        "title": "Kiss of the Spider Woman",
+        "description": "Valent\u00edn, a political prisoner, shares a cell with Molina, a window dresser convicted of public indecency. The two form an unlikely bond as Molina rec...",
+        "source_link": "https://www.themoviedb.org/movie/1214684"
       },
       {
         "rank": 9,
@@ -125,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/q9luDXycWh1xm6K4eN7IXitRMpp.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
+        "image": "https://image.tmdb.org/t/p/w200/u7WRnhwbTxUrhteyLaFWuV8DooX.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "A new movie based on the world of Super Mario Bros. that further broadens Mario's world with a bright and fun story. Plot TBA....",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
       }
     ]
   }
