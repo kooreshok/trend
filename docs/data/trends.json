@@ -1,69 +1,76 @@
 {
-  "last_updated": "November 12, 2025, 18:23 UTC",
+  "last_updated": "November 12, 2025, 19:13 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257917_Google_Pixel_10_review_AJohnson_0002.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "title": "Pixel phones are getting notification summaries - The Verge",
+        "description": "Google\u2019s latest feature drop will add AI summaries for long chat threads, hopefully avoiding some of the problems Apple ran into with its version.",
+        "source_link": "https://www.theverge.com/tech/817644/pixel-update-notification-summaries-image-remix-messages"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/HT012_google_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Google is introducing its own version of Apple\u2019s private AI cloud compute - The Verge",
+        "description": "Google is rolling out Private AI Compute to use the cloud for AI requests while keeping on-device levels of privacy, a similar feature to Apple.",
+        "source_link": "https://www.theverge.com/news/818364/google-private-ai-compute"
+      },
+      {
+        "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2025/11/PS5-Pro-1year-1200x675.jpg",
+        "title": "PS5 Pro One Year Later Review: Is It Worth Buying In 2025 - Kotaku",
+        "description": "Sony's pricey and powerful PlayStation 5 Pro probably ain't worth buying in 2025",
+        "source_link": "https://kotaku.com/ps5-pro-review-one-year-later-worth-it-price-4k-games-2000642988"
+      },
+      {
+        "rank": 4,
+        "image": "https://images.macrumors.com/t/TnRBQg6_KF5xtez0eVYDpx4-J7M=/2500x/article-new/2025/11/iOS-26.2-Glass-Feature.jpg",
+        "title": "iOS 26.2 Available Next Month With These 8 New Features - MacRumors",
+        "description": "Apple released the first iOS 26.2 beta last week. The upcoming update includes a handful of new features and changes on the iPhone, including a new...",
+        "source_link": "https://www.macrumors.com/2025/11/11/ios-26-2-features/"
+      },
+      {
+        "rank": 5,
         "image": "https://assets-prd.ignimgs.com/2025/11/11/untitled-1-1762879136520.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "New Legend of Zelda: Ocarina of Time LEGO Set For 2026 Looks to Feature Ganon - IGN",
         "description": "LEGO has teased a new Legend of Zelda set for 2026, featuring Link, Princess Zelda and... an ominous silhouette.",
         "source_link": "https://www.ign.com/articles/new-legend-of-zelda-ocarina-of-time-lego-set-for-2026-looks-to-feature-ganon"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://variety.com/wp-content/uploads/2025/11/The-Game-Awards-2024.jpg?w=1000&h=563&crop=1",
         "title": "The Game Awards 2025 to Stream on Prime Video in New Deal With Amazon - Variety",
         "description": "The Game Awards will live stream on Amazon's Prime Video this December",
         "source_link": "https://variety.com/2025/gaming/news/game-awards-streaming-amazon-prime-video-twitch-1236574939/"
       },
       {
-        "rank": 3,
+        "rank": 7,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Google-Photos-help-me-edit-iOS.jpg?quality=90&strip=all&crop=0%2C9.4013974757059%2C100%2C81.197205048588&w=1200",
+        "title": "Google Photos lets iPhone users edit images by describing changes - The Verge",
+        "description": "Google is rolling out several AI updates to Google Photos, including iOS support for conversational edits, more accurate facial editing, and new AI tools.",
+        "source_link": "https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update"
+      },
+      {
+        "rank": 8,
         "image": "https://assetsio.gnwcdn.com/playstation-state-of-play-november-bloodborne.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "PlayStation State of Play November 2025 live report - keep up with everything and pray for Bloodborne here - Eurogamer",
         "description": "Happy Bloodborne remake day! Wait let's not get ahead of ourselves. Sony's delivering a State of Play broadcast this ev\u2026",
         "source_link": "https://www.eurogamer.net/playstation-state-of-play-november-2025-live-report-keep-up-with-everything-and-pray-for-bloodborne-here"
       },
       {
-        "rank": 4,
+        "rank": 9,
         "image": "https://images.nintendolife.com/76c3e51ee2cd8/large.jpg",
         "title": "Reggie Is \"Surprised\" We Haven't Seen More Xbox Titles On Switch 2 - Nintendo Life",
         "description": "\"I thought there would be much more\"",
         "source_link": "https://www.nintendolife.com/news/2025/11/reggie-is-surprised-we-havent-seen-more-xbox-titles-on-switch-2"
       },
       {
-        "rank": 5,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-18-mockup-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Next year\u2019s iPhone 18 lineup sounds like a major overhaul for Apple - 9to5Mac",
-        "description": "Rumors indicate that next year\u2019s iPhone 18 lineup could a major departure for Apple from its typical iPhone offerings.",
-        "source_link": "https://9to5mac.com/2025/11/11/next-years-iphone-18-lineup-sounds-like-major-overhaul-for-apple/"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/25w46a_1170x500.jpg",
-        "title": "Minecraft Snapshot 25w46a - Minecraft",
-        "description": "Minecraft Snapshot 25w46a",
-        "source_link": "https://www.minecraft.net/en-us/article/minecraft-snapshot-25w46a"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/sandisk-extreme-fit-1tb-plugged-in.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-        "title": "Sandisk\u2019s new 1TB USB-C SSD is so small you never need to take it out - The Verge",
-        "description": "\ufeffThe Extreme Fit is designed to leave in your laptop wherever you go.",
-        "source_link": "https://www.theverge.com/news/818405/sandisk-1tb-extreme-fit-usb-c-ssd"
-      },
-      {
-        "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/Pok%C3%A9mon-Pokopia-%E2%80%93-Nintendo-Direct-9.12.2025-0-25-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Cosy spin-off Pok\u00e9mon Pokopia gets release date, but it's another controversial Switch 2 Game-Key Card release - Eurogamer",
-        "description": "Pok\u00e9mon Pokopia, the Animal Crossing meets Minecraft game with an anthropomorphised Ditto, now has a release date.",
-        "source_link": "https://www.eurogamer.net/cosy-spin-off-pokemon-pokopia-gets-release-date-but-its-another-controversial-switch-2-game-key-card-release"
-      },
-      {
-        "rank": 9,
-        "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt8e5a3d9415c50d7d/69132f12b7f0b7cfd12f562c/Digiphile_Header.png?disable=upscale&width=1200&height=630&fit=crop",
-        "title": "Digiphile is a new charitable discovery platform from a group of Humble Bundle veterans - Game Developer",
-        "description": "Digiphile is being pitched as an intentionally curated storefront 'driven by people, not algorithms.'",
-        "source_link": "https://www.gamedeveloper.com/business/digiphile-is-a-new-charitable-storefront-from-a-group-of-humble-bundle-veterans"
+        "rank": 10,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/Snapdragon-Elite-X-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Snapdragon X Elite chips from Windows laptops are reportedly being prepared for Android PCs - 9to5Google",
+        "description": "According to new findings, Qualcomm is preparing its Snapdragon X Elite chips for future Android PCs. Google and Qualcomm have...",
+        "source_link": "http://9to5google.com/2025/11/11/snapdragon-x-elite-chips-from-windows-laptops-are-reportedly-being-prepared-for-android-pcs/"
       }
     ],
     "trending_movies": [
@@ -90,52 +97,52 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/ujhEXh53ruKH4CcC5qo5wYljbmy.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "A new movie based on the world of Super Mario Bros. that further broadens Mario's world with a bright and fun story. Plot TBA....",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/q9luDXycWh1xm6K4eN7IXitRMpp.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
-        "title": "The Wolf of Wall Street",
-        "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infi...",
-        "source_link": "https://www.themoviedb.org/movie/106646"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/w4ytu75uJ1b0AgPd0wLm7iZMsWJ.jpg",
         "title": "A Merry Little Ex-Mas",
-        "description": "A recently separated couple attempts to have one last Christmas with their kids before the wife sells the family home to move and start fresh. But com...",
+        "description": "All Kate and Everett want for Christmas is an amicable divorce and one last holiday as a family, but new flames and old feelings complicate their plan...",
         "source_link": "https://www.themoviedb.org/movie/1401318"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/nLQcyl6XTu17CfT6g739PbsePDO.jpg",
-        "title": "Kiss of the Spider Woman",
-        "description": "Valent\u00edn, a political prisoner, shares a cell with Molina, a window dresser convicted of public indecency. The two form an unlikely bond as Molina rec...",
-        "source_link": "https://www.themoviedb.org/movie/1214684"
-      },
-      {
-        "rank": 9,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
         "title": "Now You See Me: Now You Don't",
         "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
         "source_link": "https://www.themoviedb.org/movie/425274"
       },
       {
-        "rank": 10,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/sMybEeAn3aFXsIUUcWPSFXlS6qS.jpg",
         "title": "Predator: Badlands",
         "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
         "source_link": "https://www.themoviedb.org/movie/1242898"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+        "title": "The Wolf of Wall Street",
+        "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infi...",
+        "source_link": "https://www.themoviedb.org/movie/106646"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/ePpEZavm379yDhx92ekbDnpGa9a.jpg",
+        "title": "Deathstalker",
+        "description": "The warrior Deathstalker is tasked by an old witch lady to obtain and unite the three powers of creation \u2013 a chalice, an amulet, and a sword \u2013 lest th...",
+        "source_link": "https://www.themoviedb.org/movie/1253000"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/q9luDXycWh1xm6K4eN7IXitRMpp.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/yhWKTCYa0LK9kS6zcKGYc5Dx9xQ.jpg",
+        "title": "The Running Man",
+        "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
+        "source_link": "https://www.themoviedb.org/movie/798645"
       }
     ]
   }
