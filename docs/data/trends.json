@@ -1,76 +1,76 @@
 {
-  "last_updated": "November 11, 2025, 23:14 UTC",
+  "last_updated": "November 12, 2025, 01:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets-prd.ignimgs.com/2025/11/10/samsungp9-1762812424511.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Samsung Releases Its Own MicroSD Express Cards at a Lower Price Than the Official Switch 2 Memory Card - IGN",
+        "description": "The official Switch 2 memory card is also manufactured by Samsung.",
+        "source_link": "https://www.ign.com/articles/samsung-releases-its-own-microsd-express-cards-at-a-lower-price-than-the-official-switch-2-memory-card"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/surprised_robot_2-1152x648.jpg",
+        "title": "Researchers isolate memorization from reasoning in AI neural networks - Ars Technica",
+        "description": "Basic arithmetic ability lives in the memorization pathways, not logic circuits.",
+        "source_link": "https://arstechnica.com/ai/2025/11/study-finds-ai-models-store-memories-and-logic-in-different-neural-regions/"
+      },
+      {
+        "rank": 3,
+        "image": "https://assets-prd.ignimgs.com/2025/09/12/the-super-mario-galaxy-movie-1757682782202.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Nintendo Direct to Deliver First The Super Mario Galaxy Movie Trailer Later This Week - IGN",
+        "description": "Nintendo has announced the first The Super Mario Galaxy Movie trailer will arrive as part of a Nintendo Direct later this week.",
+        "source_link": "https://www.ign.com/articles/nintendo-direct-to-deliver-first-the-super-mario-galaxy-movie-trailer-later-this-week"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Super-Mario-Odyssey.webp?quality=90&strip=all&crop=0,11.101688666028,100,77.796622667945",
+        "title": "Nintendo\u2019s upcoming Black Friday sale includes up to $30 off Switch classics - The Verge",
+        "description": "Nintendo has announced its Black Friday deals beginning November 20th, with up to 50 percent select first-party titles.",
+        "source_link": "https://www.theverge.com/gadgets/817944/nintendo-switch-2-black-friday-games-amiibo-deal-sale"
+      },
+      {
+        "rank": 5,
         "image": "https://images.macrumors.com/t/tF1olB3pkzfl6m7zNg9Ywn-x_XA=/1920x/article-new/2020/11/m1-chip-slide.jpg",
         "title": "Five Years of Apple Silicon: M1 to M5 Performance Comparison - MacRumors",
         "description": "Today marks the fifth anniversary of the Apple silicon chip that replaced Intel chips in Apple's Mac lineup. The first Apple silicon chip, the...",
         "source_link": "https://www.macrumors.com/2025/11/10/apple-silicon-m1-to-m5-comparison/"
       },
       {
-        "rank": 2,
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/dseifert_20210323_4485_0007.webp?quality=90&strip=all&crop=0,10.671533564388,100,78.656932871224",
+        "title": "Google says its confusing Gemini Home rollout is going just great - The Verge",
+        "description": "Google is slowly replacing Google Assistant on its Nest Hub smart displays and smart speakers.",
+        "source_link": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg",
+        "title": "CISA orders feds to patch Samsung zero-day used in spyware attacks - BleepingComputer",
+        "description": "CISA ordered U.S. federal agencies today to patch a critical Samsung vulnerability that has been exploited in zero-day attacks to deploy LandFall spyware on devices running WhatsApp.",
+        "source_link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-samsung-zero-day-used-in-spyware-attacks/"
+      },
+      {
+        "rank": 8,
         "image": "https://techcrunch.com/wp-content/uploads/2024/08/Google-TV-Streamer-set-up.jpg?resize=1200,800",
         "title": "Google brings Gemini to the Google TV Streamer - TechCrunch",
         "description": "The tech giant says the change will enable users to use their voice more naturally to access content and more.",
         "source_link": "https://techcrunch.com/2025/11/10/google-brings-gemini-to-the-google-tv-streamer/"
       },
       {
-        "rank": 3,
+        "rank": 9,
         "image": "https://kotaku.com/app/uploads/2025/11/2416100_23321-1200x675.jpg",
         "title": "Goodnight Universe Is A Messier, More Ambitious Before Your Eyes - Kotaku",
         "description": "Goodnight Universe is still pretty novel, but it\u2019s not as focused as the incredible Before Your Eyes",
         "source_link": "https://kotaku.com/goodnight-universe-review-before-your-eyes-webcam-baby-2000642517"
       },
       {
-        "rank": 4,
+        "rank": 10,
         "image": "https://tii.imgix.net/production/articles/16047/dd2e9d3a-e6fa-4520-855a-10cb02a45996.png?fm=jpg&auto=compress&w=1200&frame=0",
         "title": "Apple Delays Release of Next iPhone Air Amid Weak Sales - The Information",
         "description": "Apple is delaying the release of next year\u2019s version of the iPhone Air, its thinnest smartphone, after the first model sold below expectations, according to three people involved in the project. Although the length of the delay remains uncertain, the product \u2026",
         "source_link": "https://www.theinformation.com/articles/apple-delays-release-next-iphone-air-amid-weak-sales"
-      },
-      {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25623454/DSCF0048.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Apple\u2019s AirPods 4 just hit their lowest price yet at $85 - The Verge",
-        "description": "Apple\u2019s AirPods 4 are $84.99 ($44 off). That marks a new low on Apple\u2019s entry-level earbuds, which offer improved sound and voice calls over the previous model.",
-        "source_link": "https://www.theverge.com/tech/817656/apple-airpods-4-early-black-friday-deal-sale"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/arxfatalis.png",
-        "title": "New project brings strong Linux compatibility to more classic Windows games - Ars Technica",
-        "description": "But author warns that Direct3D 7 \u201cis a land of highly cursed API inter-operability.\u201d\u2026",
-        "source_link": "https://arstechnica.com/gaming/2025/11/new-project-brings-strong-linux-compatibility-to-more-classic-windows-games/"
-      },
-      {
-        "rank": 7,
-        "image": "https://ep1.pinkbike.org/p4pb29005862/p4pb29005862.jpg",
-        "title": "The BikeYoke Shifty 2 is a Mechanical Transmission Hop-Up Kit - Pinkbike",
-        "description": "Big wins for fans of marginal gains.",
-        "source_link": "https://www.pinkbike.com/news/the-bikeyoke-shifty-2-is-a-mechanical-transmission-hop-up-kit.html"
-      },
-      {
-        "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/wwm_JjzBG6m.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Believe it or not, upcoming open-world RPG Where Winds Meet has over 10 million pre-registrations, here's why you should care - Eurogamer",
-        "description": "Believe it or not, upcoming open-world RPG Where Winds Meet has over 10 million pre-registrations, here's why you should care.",
-        "source_link": "https://www.eurogamer.net/believe-it-or-not-upcoming-open-world-rpg-where-winds-meet-has-over-10-million-pre-registrations-heres-why-you-should-care"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.gamewatcherstatic.com/review/image/0/0e/13470/Anno-117-Pax-Romana-PC-Review-1.jpg",
-        "title": "Anno 117: Pax Romana Review - GameWatcher",
-        "description": "Outside of dealing with its clunky naval and land battles, Anno 117: Pax Romana is a more relaxed, measured city builder that makes a rather compelling argument to don the mantle of governor.",
-        "source_link": "https://www.gamewatcher.com/reviews/Anno-117-Pax-Romana-review/13470"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.ctfassets.net/rporu91m20dc/6hlCer1fEvKdCbhTIKmUkf/1139cc3a8dddf4617e6f0667c5a39ca7/Fallout4_LargeHero_AEAnnounce.png?fit=fill&w=1200&h=600",
-        "title": "Fallout 4: Anniversary Edition Now Available - Bethesda.net",
-        "description": "Step back into the Commonwealth with the definitive Fallout 4 experience, available now!",
-        "source_link": "https://bethesda.net/en/article/3IN7gxAs893fv09b7ZJ3I0/fallout-4-anniversary-edition-now-available"
       }
     ],
     "trending_movies": [
@@ -83,17 +83,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/v9NLaLBbrkDwq44qG51v8T6sPuI.jpg",
-        "title": "Frankenstein",
-        "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
-        "source_link": "https://www.themoviedb.org/movie/1062722"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg",
         "title": "Roofman",
         "description": "A former Army Ranger and struggling father turns to robbing McDonald\u2019s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'...",
         "source_link": "https://www.themoviedb.org/movie/1242419"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/v9NLaLBbrkDwq44qG51v8T6sPuI.jpg",
+        "title": "Frankenstein",
+        "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
+        "source_link": "https://www.themoviedb.org/movie/1062722"
       },
       {
         "rank": 4,
@@ -104,7 +104,7 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/5iFpMQmUZ7cy5Hj1GjC2yt1irWs.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/nLQcyl6XTu17CfT6g739PbsePDO.jpg",
         "title": "Kiss of the Spider Woman",
         "description": "Valent\u00edn, a political prisoner, shares a cell with Molina, a window dresser convicted of public indecency. The two form an unlikely bond as Molina rec...",
         "source_link": "https://www.themoviedb.org/movie/1214684"
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/q9luDXycWh1xm6K4eN7IXitRMpp.jpg",
-        "title": "Toy Story 5",
-        "description": "Buzz, Woody, Jessie and the rest of the gang's jobs get exponentially harder when they go head to head with an all-new threat to playtime: tech....",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
+        "image": "https://image.tmdb.org/t/p/w200/xUWUODKPIilQoFUzjHM6wKJkP3Y.jpg",
+        "title": "Black Phone 2",
+        "description": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dr...",
+        "source_link": "https://www.themoviedb.org/movie/1197137"
       }
     ]
   }
