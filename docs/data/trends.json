@@ -1,34 +1,34 @@
 {
-  "last_updated": "November 12, 2025, 01:15 UTC",
+  "last_updated": "November 12, 2025, 03:09 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/fa9dba6717b51/large.jpg",
+        "title": "Nintendo Switch 2 System Update 21.0.0 Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
+        "description": "Also available for Switch",
+        "source_link": "https://www.nintendolife.com/news/2025/11/nintendo-switch-2-system-update-21-0-0-is-now-live-here-are-the-full-patch-notes"
+      },
+      {
+        "rank": 2,
         "image": "https://assets-prd.ignimgs.com/2025/11/10/samsungp9-1762812424511.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Samsung Releases Its Own MicroSD Express Cards at a Lower Price Than the Official Switch 2 Memory Card - IGN",
         "description": "The official Switch 2 memory card is also manufactured by Samsung.",
         "source_link": "https://www.ign.com/articles/samsung-releases-its-own-microsd-express-cards-at-a-lower-price-than-the-official-switch-2-memory-card"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/surprised_robot_2-1152x648.jpg",
         "title": "Researchers isolate memorization from reasoning in AI neural networks - Ars Technica",
         "description": "Basic arithmetic ability lives in the memorization pathways, not logic circuits.",
         "source_link": "https://arstechnica.com/ai/2025/11/study-finds-ai-models-store-memories-and-logic-in-different-neural-regions/"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://assets-prd.ignimgs.com/2025/09/12/the-super-mario-galaxy-movie-1757682782202.png?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Nintendo Direct to Deliver First The Super Mario Galaxy Movie Trailer Later This Week - IGN",
         "description": "Nintendo has announced the first The Super Mario Galaxy Movie trailer will arrive as part of a Nintendo Direct later this week.",
         "source_link": "https://www.ign.com/articles/nintendo-direct-to-deliver-first-the-super-mario-galaxy-movie-trailer-later-this-week"
-      },
-      {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Super-Mario-Odyssey.webp?quality=90&strip=all&crop=0,11.101688666028,100,77.796622667945",
-        "title": "Nintendo\u2019s upcoming Black Friday sale includes up to $30 off Switch classics - The Verge",
-        "description": "Nintendo has announced its Black Friday deals beginning November 20th, with up to 50 percent select first-party titles.",
-        "source_link": "https://www.theverge.com/gadgets/817944/nintendo-switch-2-black-friday-games-amiibo-deal-sale"
       },
       {
         "rank": 5,
@@ -53,20 +53,13 @@
       },
       {
         "rank": 8,
-        "image": "https://techcrunch.com/wp-content/uploads/2024/08/Google-TV-Streamer-set-up.jpg?resize=1200,800",
-        "title": "Google brings Gemini to the Google TV Streamer - TechCrunch",
-        "description": "The tech giant says the change will enable users to use their voice more naturally to access content and more.",
-        "source_link": "https://techcrunch.com/2025/11/10/google-brings-gemini-to-the-google-tv-streamer/"
-      },
-      {
-        "rank": 9,
         "image": "https://kotaku.com/app/uploads/2025/11/2416100_23321-1200x675.jpg",
         "title": "Goodnight Universe Is A Messier, More Ambitious Before Your Eyes - Kotaku",
         "description": "Goodnight Universe is still pretty novel, but it\u2019s not as focused as the incredible Before Your Eyes",
         "source_link": "https://kotaku.com/goodnight-universe-review-before-your-eyes-webcam-baby-2000642517"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://tii.imgix.net/production/articles/16047/dd2e9d3a-e6fa-4520-855a-10cb02a45996.png?fm=jpg&auto=compress&w=1200&frame=0",
         "title": "Apple Delays Release of Next iPhone Air Amid Weak Sales - The Information",
         "description": "Apple is delaying the release of next year\u2019s version of the iPhone Air, its thinnest smartphone, after the first model sold below expectations, according to three people involved in the project. Although the length of the delay remains uncertain, the product \u2026",
@@ -76,45 +69,45 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg",
         "title": "Roofman",
         "description": "A former Army Ranger and struggling father turns to robbing McDonald\u2019s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'...",
         "source_link": "https://www.themoviedb.org/movie/1242419"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/v9NLaLBbrkDwq44qG51v8T6sPuI.jpg",
         "title": "Frankenstein",
         "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
         "source_link": "https://www.themoviedb.org/movie/1062722"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/sMybEeAn3aFXsIUUcWPSFXlS6qS.jpg",
-        "title": "Predator: Badlands",
-        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
-        "source_link": "https://www.themoviedb.org/movie/1242898"
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+        "title": "Now You See Me: Now You Don't",
+        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
+        "source_link": "https://www.themoviedb.org/movie/425274"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/nLQcyl6XTu17CfT6g739PbsePDO.jpg",
         "title": "Kiss of the Spider Woman",
         "description": "Valent\u00edn, a political prisoner, shares a cell with Molina, a window dresser convicted of public indecency. The two form an unlikely bond as Molina rec...",
         "source_link": "https://www.themoviedb.org/movie/1214684"
       },
       {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/sMybEeAn3aFXsIUUcWPSFXlS6qS.jpg",
+        "title": "Predator: Badlands",
+        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
+        "source_link": "https://www.themoviedb.org/movie/1242898"
+      },
+      {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-        "title": "Now You See Me: Now You Don't",
-        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
-        "source_link": "https://www.themoviedb.org/movie/425274"
+        "image": "https://image.tmdb.org/t/p/w200/ePpEZavm379yDhx92ekbDnpGa9a.jpg",
+        "title": "Deathstalker",
+        "description": "The warrior Deathstalker is tasked by an old witch lady to obtain and unite the three powers of creation \u2013 a chalice, an amulet, and a sword \u2013 lest th...",
+        "source_link": "https://www.themoviedb.org/movie/1253000"
       },
       {
         "rank": 7,
@@ -125,24 +118,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/ePpEZavm379yDhx92ekbDnpGa9a.jpg",
-        "title": "Deathstalker",
-        "description": "The warrior Deathstalker is tasked by an old witch lady to obtain and unite the three powers of creation \u2013 a chalice, an amulet, and a sword \u2013 lest th...",
-        "source_link": "https://www.themoviedb.org/movie/1253000"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/yhWKTCYa0LK9kS6zcKGYc5Dx9xQ.jpg",
         "title": "The Running Man",
         "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
         "source_link": "https://www.themoviedb.org/movie/798645"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/xUWUODKPIilQoFUzjHM6wKJkP3Y.jpg",
         "title": "Black Phone 2",
         "description": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dr...",
         "source_link": "https://www.themoviedb.org/movie/1197137"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/w04YxcQHGhTUgHPGGCjSIaya0V4.jpg",
+        "title": "Wicked: For Good",
+        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
+        "source_link": "https://www.themoviedb.org/movie/967941"
       }
     ]
   }
