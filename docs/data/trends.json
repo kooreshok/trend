@@ -1,69 +1,62 @@
 {
-  "last_updated": "November 12, 2025, 14:17 UTC",
+  "last_updated": "November 12, 2025, 15:18 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/iPad-Pro-2024-Selects-AKrales.jpg?quality=90&strip=all&crop=0%2C21.465968586387%2C100%2C78.534031413613&w=1200",
-        "title": "The iPad Pro at 10: a decade of unrealized potential - The Verge",
-        "description": "The iPad Pro launched in 2015, and has been one of Apple\u2019s most impressive devices since. Now, the company is finally embracing that it\u2019s a laptop.",
-        "source_link": "https://www.theverge.com/tech/817939/ipad-pro-laptop-computer-2025"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0007.jpg?quality=90&strip=all&crop=0%2C7.9509095732762%2C100%2C78.534031413613&w=1200",
+        "title": "The LG G5 OLED TV sets a new performance standard - The Verge",
+        "description": "Thanks to the new Primary RGB Tandem display technology, the LG G5 OLED TV delivers stunning brightness and color.",
+        "source_link": "https://www.theverge.com/tech/817807/lg-g5-oled-tv-review"
       },
       {
         "rank": 2,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-18-mockup-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Next year\u2019s iPhone 18 lineup sounds like a major overhaul for Apple - 9to5Mac",
+        "description": "Rumors indicate that next year\u2019s iPhone 18 lineup could a major departure for Apple from its typical iPhone offerings.",
+        "source_link": "https://9to5mac.com/2025/11/11/next-years-iphone-18-lineup-sounds-like-major-overhaul-for-apple/"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/sandisk-extreme-fit-1tb-plugged-in.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+        "title": "Sandisk\u2019s new 1TB USB-C SSD is so small you never need to take it out - The Verge",
+        "description": "\ufeffThe Extreme Fit is designed to leave in your laptop wherever you go.",
+        "source_link": "https://www.theverge.com/news/818405/sandisk-1tb-extreme-fit-usb-c-ssd"
+      },
+      {
+        "rank": 4,
+        "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt8e5a3d9415c50d7d/69132f12b7f0b7cfd12f562c/Digiphile_Header.png?disable=upscale&width=1200&height=630&fit=crop",
+        "title": "Digiphile is a new charitable discovery platform from a group of Humble Bundle veterans - Game Developer",
+        "description": "Digiphile is being pitched as an intentionally curated storefront 'driven by people, not algorithms.'",
+        "source_link": "https://www.gamedeveloper.com/business/digiphile-is-a-new-charitable-storefront-from-a-group-of-humble-bundle-veterans"
+      },
+      {
+        "rank": 5,
+        "image": "https://substackcdn.com/image/fetch/$s_!GDxw!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F178452212%2Fd35ad1f3-81ef-43ed-ba88-5b25d834d86a%2Ftranscoded-1762729800.png",
+        "title": "We interview Reggie Fils-Aim\u00e9 about Nintendo Switch 2, leadership and the console war - The Game Business",
+        "description": "\u201cI\u2019m surprised that Xbox has not yet fully embraced the Switch 2\u201d",
+        "source_link": "https://www.thegamebusiness.com/p/we-interview-reggie-fils-aime-about"
+      },
+      {
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Lumines-Arise-screenshot-02_JOURNEY_Neon-Streets.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "Lumines Arise is an almost perfect zen puzzle game - The Verge",
+        "description": "Enhance Inc., the team behind Tetris Effect, has released a new puzzle game called Lumines Arise on the PS5 and Steam.",
+        "source_link": "https://www.theverge.com/games/817997/lumines-arise-review-ps5-steam"
+      },
+      {
+        "rank": 7,
         "image": "https://images.pushsquare.com/762c68acd8faf/large.jpg",
         "title": "State of Play Announced for 11th November, Focus on Japanese PS5 Games - Push Square",
         "description": "Over 40 minutes of news and reveals",
         "source_link": "https://www.pushsquare.com/news/2025/11/state-of-play-announced-for-11th-november-focus-on-japanese-ps5-games"
       },
       {
-        "rank": 3,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
-        "title": "ClickFix may be the biggest security threat your family has never heard of - Ars Technica",
-        "description": "Relatively new technique can bypass many endpoint protections.",
-        "source_link": "https://arstechnica.com/security/2025/11/clickfix-may-be-the-biggest-security-threat-your-family-has-never-heard-of/"
-      },
-      {
-        "rank": 4,
-        "image": "https://images.macrumors.com/t/ifxwRcZgwvurs4DL1GejlAlvKQA=/1600x/article-new/2025/09/iPhone-17-Pro-Colors.jpg",
-        "title": "iPhone 18 Pro May Drop Rear Two-Tone Appearance for a Unified Look - MacRumors",
-        "description": "Apple's iPhone 18 Pro models could drop the current two-tone look of the rear casing found on the iPhone 17 Pro in favor of a more seamless...",
-        "source_link": "https://www.macrumors.com/2025/11/11/iphone-18-pro-drop-rear-two-tone-look/"
-      },
-      {
-        "rank": 5,
+        "rank": 8,
         "image": "https://assets1.ignimgs.com/2018/10/15/p001-1539586785236.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Pok\u00e9mon to Get First Permanent Theme Park in Tokyo February 2026 - IGN",
         "description": "The Pok\u00e9mon Company announced today that it will open a Pok\u00e9mon theme park in Tokyo next year. Pok\u00e9Park KANTO will be the monster-catching series\u2019 first permanent outdoor attraction, and located inside Yomiuriland, Tokyo\u2019s largest theme park.",
         "source_link": "https://www.ign.com/articles/pokemon-to-get-first-permanent-theme-park-in-tokyo-february-2026"
-      },
-      {
-        "rank": 6,
-        "image": "https://assetsio.gnwcdn.com/Destiny-2_-Renegades-_-New-Weapons-and-Gear-Trailer-0-6-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Destiny 2 hasn't reached Sony's expectations following $3.6bn Bungie acquisition, admits CFO - Eurogamer",
-        "description": "Destiny 2 has not reached expectations following Sony's $3.6bn acquisition of Bungie.",
-        "source_link": "https://www.eurogamer.net/destiny-2-hasnt-reached-sonys-expectations-following-36bn-bungie-acquisition-admits-cfo"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/Luigi's-Mansion-3-Switch-2-menu-with-new-physical-software-logo-above-it.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Nintendo's latest update for Switch consoles finally indicates if your games are digital or physical - Eurogamer",
-        "description": "Nintendo has issued an update for its Switch consoles.",
-        "source_link": "https://www.eurogamer.net/nintendos-latest-update-for-switch-consoles-finally-indicates-if-your-games-are-digital-or-physical"
-      },
-      {
-        "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/ghost-of-yotei-trailer-HD-scaled.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "PlayStation experiences H1 sales increase, PS5 reaches 84m in lifetime sales - GamesIndustry.biz",
-        "description": "Sony increases full-year forecast for games revenue, Ghost of Y\u014dtei sells 3.3 million copies in launch month",
-        "source_link": "https://www.gamesindustry.biz/playstation-experiences-h1-sales-increase-ps5-reaches-84m-in-lifetime-sales"
-      },
-      {
-        "rank": 9,
-        "image": "https://pokemongohub.net/wp-content/uploads/2025/08/GOWA2025_Global_Blog_1920x1080_sku.jpeg",
-        "title": "Pok\u00e9mon GO Wild Area 2025 Global Preparation Guide - Pok\u00e9mon GO Hub",
-        "description": "With Wild Area 2025 Global looming (November 15 - 16), now is the time to prep! Preparation is key to making sure you can optimise your time, items, and enjoyment at events like these, and there can be a lot more to think about that you might initially realis\u2026",
-        "source_link": "https://pokemongohub.net/post/guide/pokemon-go-wild-area-2025-global-preparation-guide/"
       }
     ],
     "trending_movies": [
@@ -97,17 +90,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/sMybEeAn3aFXsIUUcWPSFXlS6qS.jpg",
-        "title": "Predator: Badlands",
-        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
-        "source_link": "https://www.themoviedb.org/movie/1242898"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/iHBN6wA2cGbTPG1MqRoqmsuFw4a.jpg",
         "title": "A Merry Little Ex-Mas",
         "description": "A recently separated couple attempts to have one last Christmas with their kids before the wife sells the family home to move and start fresh. But com...",
         "source_link": "https://www.themoviedb.org/movie/1401318"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/sMybEeAn3aFXsIUUcWPSFXlS6qS.jpg",
+        "title": "Predator: Badlands",
+        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
+        "source_link": "https://www.themoviedb.org/movie/1242898"
       },
       {
         "rank": 7,
