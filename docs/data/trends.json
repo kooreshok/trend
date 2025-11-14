@@ -1,76 +1,69 @@
 {
-  "last_updated": "November 14, 2025, 18:23 UTC",
+  "last_updated": "November 14, 2025, 19:12 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/258282o585k1ka/e936732db7a9443655398440a5e3e0e894afc4f2.jpg",
+        "title": "Red Dead Redemption Coming to Netflix, iOS, Android, PS5, Xbox Series, and Nintendo Switch 2 - Rockstar Games",
+        "description": "On December 2, the epic Western adventures Red Dead Redemption and Undead Nightmare will be available for the latest mobile devices and on current generation consoles \u2014 with free upgrades, the ability to carry over game progress, and a number of...",
+        "source_link": "https://www.rockstargames.com/newswire/article/258282o585k1ka/red-dead-redemption-coming-to-netflix-ios-android-ps5-xbox-series-and"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2024/04/Google-Contacts-app-logo-1.jpg",
+        "title": "Android 17 is building a new Contacts Picker to keep your address book private - Android Authority",
+        "description": "Android 17 may finally let you share only specific contacts with apps thanks to a new Contacts Picker tool. Here's how it may work.",
+        "source_link": "https://www.androidauthority.com/android-17-contacts-picker-rumor-3615741/"
+      },
+      {
+        "rank": 3,
         "image": "https://techcrunch.com/wp-content/uploads/2025/11/Apple-iPhone-Pocket-and-ISSEY-MIYAKE-short-strap-colors_big.jpg.large_2x.jpg?resize=1200,900",
         "title": "In defense of Apple\u2019s $230 iPhone sock - TechCrunch",
         "description": "From the same label that made the iconic Steve Jobs mockneck, the iPhone Pocket could be the next Labubu... if you have the disposable income.",
         "source_link": "https://techcrunch.com/2025/11/13/in-defense-of-apples-230-iphone-sock/"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK093_Google_05.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Google\u2019s NotebookLM will now do \u2018deep research\u2019 - The Verge",
+        "description": "Google is adding the Gemini AI tool Deep Research to NotebookLM.",
+        "source_link": "https://www.theverge.com/news/820022/google-notebooklm-gemini-deep-research"
+      },
+      {
+        "rank": 5,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25744324/Boox_Palma_Hermano.jpg?quality=90&strip=all&crop=0%2C10.806933475316%2C100%2C78.386133049368&w=1200",
         "title": "The Boox Palma 2 e-book reader is now $84 off - The Verge",
         "description": "The small and handy e-book reader Boox Palma 2 can now be had for only $245. You can also save on a handy portable vac, a Lenovo tablet, and a handy power adapter.",
         "source_link": "https://www.theverge.com/tech/820046/boox-ebook-hoto-lenono-deals-sales"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-1152x648.jpg",
+        "title": "Valve says it\u2019s still waiting for better chips to power Steam Deck 2 - Ars Technica",
+        "description": "Even a 50 percent performance-per-watt improvement wouldn\u2019t be enough, engineer says.",
+        "source_link": "https://arstechnica.com/gaming/2025/11/valve-says-its-still-waiting-for-better-chips-to-power-steam-deck-2/"
+      },
+      {
+        "rank": 7,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/google-tv-homescreen-2025.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Here\u2019s a closer look at the Google TV homescreen redesign [Gallery] - 9to5Google",
+        "description": "While it\u2019s still not widely available, the Google TV homescreen redesign is rolling out to more users. Here\u2019s a closer...",
+        "source_link": "http://9to5google.com/2025/11/13/google-tv-homescreen-redesign-2025/"
+      },
+      {
+        "rank": 8,
         "image": "https://techcrunch.com/wp-content/uploads/2025/11/LinkedIn-search.jpg?resize=1200,685",
         "title": "LinkedIn adds AI-powered search to help users find people - TechCrunch",
         "description": "LinkedIn's AI-powered people search is rolling out to premium users in the U.S.",
         "source_link": "https://techcrunch.com/2025/11/13/linkedin-adds-ai-powered-search-to-help-users-find-people/"
       },
       {
-        "rank": 4,
-        "image": "https://images.macrumors.com/t/hMegQeZkHLO8aLxTcOQKOuWz5VY=/1960x/article-new/2025/06/CarPlay-Liquid-Glass-Dark.jpg",
-        "title": "iOS 26.2 Adds New CarPlay Setting - MacRumors",
-        "description": "iOS 26 extended pinned conversations in the Messages app to CarPlay, for quick access to your most frequent chats. However, some drivers may prefer...",
-        "source_link": "https://www.macrumors.com/2025/11/13/ios-26-2-adds-new-carplay-setting/"
-      },
-      {
-        "rank": 5,
-        "image": "https://assets-prd.ignimgs.com/2025/11/13/pokmon-pokopia-extended-trailer-00-11-12-1763043403695.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Pok\u00e9mon Pokopia Trailer Showcases Animal Crossing-Style Gameplay \u2014 Plus A Mysterious Pale Pikachu, Mossy Snorlax and Professor Tangrowth - IGN",
-        "description": "An extended trailer for Pok\u00e9mon Pokopia has offered a deep dive into the upcoming Animal Crossing-like life sim, and a curious first-look at some new Pok\u00e9mon designs.",
-        "source_link": "https://www.ign.com/articles/pokmon-pokopia-trailer-showcases-animal-crossing-style-gameplay-plus-a-mysterious-pale-pikachu-mossy-snorlax-and-professor-tangrowth"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258099_OnePlus_15_review_AJohnson_0006.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "title": "The OnePlus 15 is the phone to buy if you hate charging your phone - The Verge",
-        "description": "The OnePlus 15 offers one very appealing feature: incredible battery life thanks to its silicon-carbon tech.",
-        "source_link": "https://www.theverge.com/tech/818933/oneplus-15-review-battery-screen-camera"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Leaker-claims-poor-sales-of-the-iPhone-16e-as-iPhone-Air-production-ceases.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Leaker claims poor sales of the iPhone 16e as iPhone Air production ceases - 9to5Mac",
-        "description": "The leaker who first revealed the name of the iPhone 16e is now saying that demand for the device has...",
-        "source_link": "https://9to5mac.com/2025/11/13/leaker-claims-poor-sales-of-the-iphone-16e-as-iphone-air-production-ceases/"
-      },
-      {
-        "rank": 8,
-        "image": "https://techcrunch.com/wp-content/uploads/2019/09/google-search-app-ios.jpg?resize=1200,644",
-        "title": "Google augments AI shopping with conversational search, agentic checkout and an AI that calls stores for you - TechCrunch",
-        "description": "Google is expanding AI shopping with conversational search, agentic checkout and an AI that calls stores for you about local inventory.",
-        "source_link": "https://techcrunch.com/2025/11/13/google-expands-ai-shopping-with-conversational-search-agentic-checkout-and-an-ai-that-calls-stores-for-you/"
-      },
-      {
         "rank": 9,
-        "image": "https://www.cnet.com/a/img/resize/3d804c58a2221de65ffa984cd3a53d9350fed0d2/hub/2025/11/11/251362d0-d1b5-4977-9644-932db97a3ed6/pxl-20251028-200410853.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "TCL QM9K Review: The Brightest TV Yet Faces Off Against OLED - CNET",
-        "description": "The TCL QM9K shows what mini-LED TVs are capable of, and it can give OLEDs a run for their money.",
-        "source_link": "https://www.cnet.com/tech/home-entertainment/tcl-qm9k-review-brightest-tv-yet-faces-off-with-oled/"
-      },
-      {
-        "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/dji_neo2_1.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
-        "title": "DJI\u2019s Neo 2 selfie drone launches globally, but not in the US - The Verge",
-        "description": "\ufeffThe drone has new obstacle avoidance features, gesture controls, and a longer flight time, but no US availability.",
-        "source_link": "https://www.theverge.com/news/819109/dji-neo-2-selfie-drone-global-launch"
+        "image": "https://helios-i.mashable.com/imagery/articles/02gUdipVXeEvGtJFN53PTmx/hero-image.fill.size_1200x675.v1763047927.jpg",
+        "title": "Valve announces new Steam Machine console: Price, specs, release date - Mashable",
+        "description": "What's in the box?",
+        "source_link": "https://mashable.com/article/valve-steam-machine-console-specs-price-release-date"
       }
     ],
     "trending_movies": [
@@ -83,66 +76,66 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/uhXxW7EmzZIWFVpbF42r6L2g7Oh.jpg",
-        "title": "Roofman",
-        "description": "A former Army Ranger and struggling father turns to robbing McDonald\u2019s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'...",
-        "source_link": "https://www.themoviedb.org/movie/1242419"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/fGodXWqJkkkbSebPIlxLSygV8GY.jpg",
         "title": "Playdate",
         "description": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chase...",
         "source_link": "https://www.themoviedb.org/movie/1248226"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/np7ZzU2rmUqqIPQ4HtfcC8JLOvS.jpg",
         "title": "In Your Dreams",
         "description": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family....",
         "source_link": "https://www.themoviedb.org/movie/1117857"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
         "title": "Frankenstein",
         "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
         "source_link": "https://www.themoviedb.org/movie/1062722"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
-        "title": "The Running Man",
-        "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
-        "source_link": "https://www.themoviedb.org/movie/798645"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-        "title": "Now You See Me: Now You Don't",
-        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
-        "source_link": "https://www.themoviedb.org/movie/425274"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/ig00LBM2rv4fmCJOPATyRWOJnlL.jpg",
-        "title": "Tee Yai: Born to Be Bad",
-        "description": "In 1980s Bangkok, two criminals face rough times when a determined detective strains their bond and hunts down an infamous crew of robbers....",
-        "source_link": "https://www.themoviedb.org/movie/1429738"
-      },
-      {
-        "rank": 9,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/kGLgaDrYWmTAdRFzGP5pBquRnhO.jpg",
         "title": "A Very Jonas Christmas Movie",
         "description": "Kevin, Nick, and Joe Jonas face a series of escalating obstacles as they struggle to make it from London to New York in time to spend Christmas with t...",
         "source_link": "https://www.themoviedb.org/movie/1425122"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+        "title": "Now You See Me: Now You Don't",
+        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
+        "source_link": "https://www.themoviedb.org/movie/425274"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/uhXxW7EmzZIWFVpbF42r6L2g7Oh.jpg",
+        "title": "Roofman",
+        "description": "A former Army Ranger and struggling father turns to robbing McDonald\u2019s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'...",
+        "source_link": "https://www.themoviedb.org/movie/1242419"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg",
+        "title": "The Shadow's Edge",
+        "description": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves....",
+        "source_link": "https://www.themoviedb.org/movie/1419406"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/hH953zlL3xdEDpizAquISRrSm1P.jpg",
-        "title": "The Hand That Rocks the Cradle",
-        "description": "Suburban couple Caitlin and Miguel hire seemingly sweet Polly to take care of their newborn baby. But Polly's true motives have little to do with sing...",
-        "source_link": "https://www.themoviedb.org/movie/1362315"
+        "image": "https://image.tmdb.org/t/p/w200/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+        "title": "The Running Man",
+        "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
+        "source_link": "https://www.themoviedb.org/movie/798645"
       }
     ]
   }
