@@ -1,69 +1,69 @@
 {
-  "last_updated": "November 15, 2025, 04:18 UTC",
+  "last_updated": "November 15, 2025, 05:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/d5cc7d4d9aed9/large.jpg",
+        "title": "Kirby Air Riders: Global Test Ride Demo Updated To Version 1.0.1, Here Are The Full Patch Notes - Nintendo Life",
+        "description": "Join in on the fun this weekend",
+        "source_link": "https://www.nintendolife.com/news/2025/11/kirby-air-riders-global-test-ride-demo-updated-to-version-1-0-1-here-are-the-full-patch-notes"
+      },
+      {
+        "rank": 2,
         "image": "https://thegamepost.com/wp-content/uploads/2025/11/destiny-2-renegades-roadmap-74.jpg",
         "title": "Bungie Finally Reveals Destiny 2 Renegades Roadmap, Here\u2019s Everything Coming in December and Beyond - The Game Post",
         "description": "Bungie has finally released the long-awaited Destiny 2: Renegades roadmap after months of silence.",
         "source_link": "https://thegamepost.com/bungie-destiny-2-renegades-roadmap/"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://i.abcnewsfe.com/a/03e200cc-b18f-41bc-b452-89aaf08866ac/Apple-iPhone-Pocket-and-ISSEY-MIYAKE-short-strap-colors_1763060184851_hpMain_16x9.jpg?w=992",
         "title": "Apple launches new iPhone Pocket knit case designed by Issey Miyake - Good Morning America",
         "description": "Apple's new accessory offers a stylish way to carry your iPhone.",
         "source_link": "https://www.goodmorningamerica.com/shop/story/apple-launches-new-iphone-pocket-127486542"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/258282o585k1ka/e936732db7a9443655398440a5e3e0e894afc4f2.jpg",
         "title": "Red Dead Redemption Coming to Netflix, iOS, Android, PS5, Xbox Series, and Nintendo Switch 2 - Rockstar Games",
         "description": "On December 2, the epic Western adventures Red Dead Redemption and Undead Nightmare will be available for the latest mobile devices and on current generation consoles \u2014 with free upgrades, the ability to carry over game progress, and a number of...",
         "source_link": "https://www.rockstargames.com/newswire/article/258282o585k1ka/red-dead-redemption-coming-to-netflix-ios-android-ps5-xbox-series-and"
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Firefox-AI-Window-1920x1080-2.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "Mozilla announces an AI \u2018window\u2019 for Firefox - The Verge",
+        "description": "Mozilla says it is building an AI window for its Firefox browser.",
+        "source_link": "https://www.theverge.com/news/820196/mozilla-firefox-ai-window-browser"
+      },
+      {
+        "rank": 6,
         "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2199793091.jpg?w=1024",
         "title": "Google\u2019s NotebookLM adds \u2018Deep Research\u2019 tool, support for more file types - TechCrunch",
         "description": "The service is rolling out \"Deep Research,\" a tool that will automate and simplify complex online research.",
         "source_link": "https://techcrunch.com/2025/11/13/googles-notebooklm-adds-deep-research-tool-support-for-more-file-types/"
       },
       {
-        "rank": 5,
-        "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2084803237.jpg?resize=1200,675",
-        "title": "TikTok launches its own version of Instagram\u2019s broadcast channels - TechCrunch",
-        "description": "TikTok is rolling out \u201cbulletin board,\u201d a new one-to-many messaging feature that mirrors Instagram\u2019s broadcast channels. The tool lets creators and brands share text, images, and videos directly with followers.",
-        "source_link": "https://techcrunch.com/2025/11/13/tiktok-launches-its-own-version-of-instagrams-broadcast-channels/"
+        "rank": 7,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/691601d67a1de87097191686/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "\u2018ARC Raiders\u2019 Stella Montis Map Unlock Event Progressing After Goals Increase - Forbes",
+        "description": "ARC Raiders has started its new community event to unlock the new Stella Mortis map, but they had to increase the goals already.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2025/11/13/arc-raiders-stella-montis-map-unlock-event-progressing-after-goals-increase/"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://helios-i.mashable.com/imagery/articles/02gUdipVXeEvGtJFN53PTmx/hero-image.fill.size_1200x675.v1763047927.jpg",
         "title": "Valve announces new Steam Machine console: Price, specs, release date - Mashable",
         "description": "What's in the box?",
         "source_link": "https://mashable.com/article/valve-steam-machine-console-specs-price-release-date"
       },
       {
-        "rank": 7,
-        "image": "https://assets-prd.ignimgs.com/2025/11/13/pokmon-pokopia-extended-trailer-00-11-12-1763043403695.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Pok\u00e9mon Pokopia Trailer Showcases Animal Crossing-Style Gameplay \u2014 Plus A Mysterious Pale Pikachu, Mossy Snorlax and Professor Tangrowth - IGN",
-        "description": "An extended trailer for Pok\u00e9mon Pokopia has offered a deep dive into the upcoming Animal Crossing-like life sim, and a curious first-look at some new Pok\u00e9mon designs.",
-        "source_link": "https://www.ign.com/articles/pokmon-pokopia-trailer-showcases-animal-crossing-style-gameplay-plus-a-mysterious-pale-pikachu-mossy-snorlax-and-professor-tangrowth"
-      },
-      {
-        "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258099_OnePlus_15_review_AJohnson_0004.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "title": "The OnePlus 15 will go on sale in the US\u2026 sometime - The Verge",
-        "description": "OnePlus is ready to launch its latest flagship in the US, but the government shutdown is holding up its final FCC certifications.",
-        "source_link": "https://www.theverge.com/tech/819200/oneplus-15-on-sale-us-delay-fcc"
-      },
-      {
         "rank": 9,
-        "image": "https://storage.googleapis.com/pr-newsroom-wp/1/2025/11/Shuffle-Header-1-1024x583.png",
-        "title": "Spotify Updates Shuffle to Keep Your Playlists Feeling Fresh - Spotify",
-        "description": "This year, Spotify has introduced even more ways for users to take control of their listening experience. Whether you\u2019re refreshing your Discover Weekly with genre deep dives, excluding specific songs from your Taste Profile, or using the Snooze feature, thes\u2026",
-        "source_link": "https://newsroom.spotify.com/2025-11-13/shuffle-update-fewer-repeats/"
+        "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/3921419k23a552/a3e1dc80f43ee79a8e1cc58d55ef7230f94300bd.jpg",
+        "title": "Lay a Proper Foundation in New Listings - Rockstar Games",
+        "description": "There's a new entrant in the Los Santos high-end real estate scene, and they're making moves into some of the most exclusive neighborhoods. Prix Luxury Real Estate has ambitious plans, bringing new unrivaled mansion properties to this lucrative market...",
+        "source_link": "https://www.rockstargames.com/newswire/article/3921419k23a552/lay-a-proper-foundation-in-new-listings"
       }
     ],
     "trending_movies": [
