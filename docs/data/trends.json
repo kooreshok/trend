@@ -1,48 +1,48 @@
 {
-  "last_updated": "November 17, 2025, 01:16 UTC",
+  "last_updated": "November 17, 2025, 03:13 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/2ebe43bb32338/large.jpg",
+        "title": "Corpse Party Tetralogy Pack Switch Western Release Cancelled - Nintendo Life",
+        "description": "It did not comply with current platform guidelines",
+        "source_link": "https://www.nintendolife.com/news/2025/11/corpse-party-tetralogy-pack-switch-western-release-cancelled"
+      },
+      {
+        "rank": 2,
         "image": "https://assetsio.gnwcdn.com/Gzqy5izXIAA8T_K.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Escape From Tarkov players slam Steam launch: \"It is not a game. It is a cosmic punishment\" - Eurogamer",
         "description": "Escape from Tarkov is sitting on a Mostly Negative rating today after yesterday's eagerly-awaited Steam debuted to stab\u2026",
         "source_link": "https://www.eurogamer.net/escape-from-tarkov-players-slam-steam-launch-it-is-not-a-game-it-is-a-cosmic-punishment"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://i.pcmag.com/imagery/articles/0741lMVPv8LmwM7g7eRC4z8-1.fit_lim.size_1200x630.v1763072006.png",
+        "title": "This MacBook Air Is Only $195 Until November 16 - PCMag",
+        "description": "This new-to-you laptop is well-suited for productivity apps like Microsoft Office, but it may struggle with graphically demanding software, such as games or design applications.",
+        "source_link": "https://www.pcmag.com/deals/this-macbook-air-is-only-195-until-november-16"
+      },
+      {
+        "rank": 4,
+        "image": "https://assets.warhammer-community.com/preorders-nov15-1-feature-ndacmhgttn.jpg",
+        "title": "Saturday Pre-orders \u2013 Seize a Battleforce in time for Christmas - Warhammer Community",
+        "description": "Everything available to pre-order today.",
+        "source_link": "https://www.warhammer-community.com/articles/snmg8mvz/saturday-pre-orders-seize-a-battleforce-in-time-for-christmas"
+      },
+      {
+        "rank": 5,
         "image": "https://images.pushsquare.com/c223372de2fdf/large.jpg",
         "title": "Sony Trying to Silence Concord Revival Project After Fans Brought PS5, PC Disaster Back - Push Square",
         "description": "But why?",
         "source_link": "https://www.pushsquare.com/news/2025/11/sony-trying-to-silence-concord-revival-project-after-fans-brought-ps5-pc-disaster-back"
       },
       {
-        "rank": 3,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2025/11/OnePlus-15-overheating-when-running-3DMark-Wild-Life-Extreme-5.jpg",
-        "title": "OnePlus 15 Suffers From Overheating After Running 3DMark Wild Life Extreme For Just A Few Minutes, Forcing The Benchmark To Crash, Various Features Left Unusable - Wccftech",
-        "description": "The Snapdragon 8 Elite Gen 5 running in the OnePlus 15 runs extremely hot to the point that 3DMark Wild Life Extreme ended up crashing",
-        "source_link": "https://wccftech.com/oneplus-15-overheats-when-running-3dmark-wild-life-extreme-app-crashes/"
-      },
-      {
-        "rank": 4,
-        "image": "https://www.cnet.com/a/img/resize/defe5998328c4ae781aac5d9f9d62fa9097b2981/hub/2025/11/13/035c2607-1dde-4df2-9bda-6f34337ecfc2/p1008229-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Comparing the 2026 Phone Lineups From Apple, Samsung, Google and Everyone Else - CNET",
-        "description": "2026 is shaping up to be one of the most exciting years for smartphone launches. Here's what to expect.",
-        "source_link": "https://www.cnet.com/tech/mobile/comparing-the-2026-phone-lineups-from-apple-samsung-google-and-everyone-else/"
-      },
-      {
-        "rank": 5,
+        "rank": 6,
         "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/11/05/5b519d77-ec0f-4388-9b93-b82848550bb5/thumbnail/1200x630/187ac688cd2b211357d2081f8868f84a/img-2889.jpg",
         "title": "A mild symptom was bothering a young dad. He had Stage IV lung cancer. - CBS News",
         "description": "Ultramarathoner and dad Kevin Humphrey never expected his minor symptoms would be a life-threatening cancer.",
         "source_link": "https://www.cbsnews.com/news/ultramarathon-runner-lung-cancer-non-smoker-northwestern-medicine-michigan/"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/R6WsqDDQ.jpeg?quality=90&strip=all&crop=0%2C6.8753495455066%2C100%2C86.249300908987&w=1200",
-        "title": "The Steam Machine feels like the TV gaming PC I\u2019ve always wanted - The Verge",
-        "description": "Valve\u2019s Steam Machine looks like it will bring the console-like PC experience I\u2019ve wanted since getting a Steam Deck.",
-        "source_link": "https://www.theverge.com/games/818606/valve-steam-machine-tv-gaming-pc-wanted"
       },
       {
         "rank": 7,
@@ -60,17 +60,17 @@
       },
       {
         "rank": 9,
+        "image": "https://media.wired.com/photos/6917cd391c4203ada1732e0e/191:100/w_1280,c_limit/Steam%20Machine%20SOURCE%20Steam.png",
+        "title": "Gear News of the Week: Steam Makes a Home Console, and Apple Debuts a $230 Pouch for Your iPhone - WIRED",
+        "description": "Plus: Apple rolls out Digital IDs, Samsung\u2019s new monitor has wheels, DJI\u2019s latest drone has a display, and Insta360\u2019s action camera gets an add-on that turns it into an instant camera.",
+        "source_link": "https://www.wired.com/story/gear-news-of-the-week-steam-makes-a-home-console-and-apple-debuts-a-dollar230-pouch-for-your-iphone/"
+      },
+      {
+        "rank": 10,
         "image": "https://www.testingcatalog.com/content/images/size/w1200/2025/11/Robot-Google-Vids-11-15-2025_09_22_AM.jpg",
         "title": "Google to release Nano Banana Pro powered by Gemini 3 Pro next week - TestingCatalog",
         "description": "Google is set to launch Gemini 3 and Nano Banana Pro next week, with new image generation capabilities hinted at in the recent announcements.",
         "source_link": "https://www.testingcatalog.com/google-to-release-nano-banana-pro-powered-by-gemini-3-pro-next-week/"
-      },
-      {
-        "rank": 10,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/gemini-new-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Gemini for Android gets homepage redesign, black dark theme, & \u2018My Stuff\u2019 - 9to5Google",
-        "description": "Following the last redesign in September, the Gemini app has a new look for its homepage and conversations, starting on Android.",
-        "source_link": "http://9to5google.com/2025/11/14/gemini-android-homepage-redesign/"
       }
     ],
     "trending_movies": [
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
+        "image": "https://image.tmdb.org/t/p/w200/xUWUODKPIilQoFUzjHM6wKJkP3Y.jpg",
+        "title": "Black Phone 2",
+        "description": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dr...",
+        "source_link": "https://www.themoviedb.org/movie/1197137"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
-        "title": "The Running Man",
-        "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
-        "source_link": "https://www.themoviedb.org/movie/798645"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/kGLgaDrYWmTAdRFzGP5pBquRnhO.jpg",
         "title": "A Very Jonas Christmas Movie",
         "description": "Kevin, Nick, and Joe Jonas face a series of escalating obstacles as they struggle to make it from London to New York in time to spend Christmas with t...",
         "source_link": "https://www.themoviedb.org/movie/1425122"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
       }
     ]
   }
