@@ -1,69 +1,76 @@
 {
-  "last_updated": "November 17, 2025, 16:22 UTC",
+  "last_updated": "November 17, 2025, 17:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/VH_Limewire_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "How LimeWire ended the Napster music revolution - The Verge",
+        "description": "From Napster to Kazaa to Gnutella to The Pirate Bay, file sharing was a huge part of music culture. LimeWire was its last gasp \u2014 this is its story.",
+        "source_link": "https://www.theverge.com/podcast/820818/limewire-music-piracy-version-history"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258023_Asus_Falcata_CFaulkner_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "The Asus Falcata is an ambitious split ergo gaming keyboard that falls short - The Verge",
+        "description": "A wireless 75% Hall effect gaming board that\u2019s also a split ergonomic one. It\u2019s great for gaming but falls short on ergo options.",
+        "source_link": "https://www.theverge.com/tech/821355/asus-falcata-review-hall-effect-switches-split-ergo-gaming-keyboard"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.jalopnik.com/img/gallery/georgia-is-home-to-the-worlds-largest-classic-car-junkyard/l-intro-1762903820.jpg",
+        "title": "Georgia Is Home To The World's Largest Classic Car Junkyard - Jalopnik",
+        "description": "Old Car City, located in White, Georgia, was once the world's largest car junkyard. Now, it's an open-air museum where visitors can walk among rusted relics.",
+        "source_link": "https://www.jalopnik.com/2024139/worlds-largest-classic-car-junkyard/"
+      },
+      {
+        "rank": 4,
         "image": "https://assetsio.gnwcdn.com/Concord-review-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Sony slaps down fan-made Concord resurrection effort with copyright takedown and \"worrying legal action\" - Eurogamer",
         "description": "Sony has issued a number of DMCA notices against a fan project working to bring Concord back to life.",
         "source_link": "https://www.eurogamer.net/sony-slaps-down-fan-made-concord-resurrection-effort-with-copyright-takedown-and-worrying-legal-action"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iPhone-Air0001-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Bloomberg: Here\u2019s what\u2019s actually going on with the iPhone Air 2 - 9to5Mac",
         "description": "It\u2019s been a whirlwind of a week for iPhone Air fans. First, The Information reported that Apple had indefinitely delayed...",
         "source_link": "https://9to5mac.com/2025/11/16/iphone-air-to-features-release-date-latest/"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://images.macrumors.com/t/p-AheIGrWqRWNOv2yePiLFYSUa4=/2500x/article-new/2023/01/Mac-Pro-Feature-Blue.jpg",
+        "title": "Mac Pro Reportedly on 'Back Burner' and 'Largely Written Off' at Apple - MacRumors",
+        "description": "Apple's high-end Mac Pro desktop computer is currently \"on the back burner,\" according to the latest word from Bloomberg's Mark...",
+        "source_link": "https://www.macrumors.com/2025/11/16/mac-pro-on-back-burner-largely-written-off/"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/KUAL-launched-on-jailbroken-Kindle-scaled.jpg",
+        "title": "7 reasons you might want to jailbreak your Kindle - Android Authority",
+        "description": "Jailbreaking gave my old Kindle new life with faster menus, local games, and the freedom to customize everything.",
+        "source_link": "https://www.androidauthority.com/kindle-jailbreak-reasons-3614190/"
+      },
+      {
+        "rank": 8,
         "image": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2025/11/Best-Buy-Black-Friday-Doorbusters-Week-3-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Best Buy Week 3 Black Friday Doorbusters now live - 9to5Toys",
         "description": "Best Buy\u2019s new batch of Black Friday Doorbusters are now live. Every Friday of the month (starting in late October,...",
         "source_link": "http://9to5toys.com/2025/11/16/best-buy-week-3-black-friday-doorbusters-now-live/"
       },
       {
-        "rank": 4,
+        "rank": 9,
+        "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/11/Andover-Audio-SpinPlay-lead_1f3307.webp",
+        "title": "10 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
+        "description": "Catching you up on the past week\u2019s most notable product releases.",
+        "source_link": "https://www.gearpatrol.com/audio/best-new-tech-releases-11-16-2025/"
+      },
+      {
+        "rank": 10,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqUjcUL3IB2c/v1/1200x800.jpg",
         "title": "Apple\u2019s iPhone Overhaul Will Reduce Its Reliance on Annual Fall Spectacle - Bloomberg.com",
         "description": "Apple\u2019s iPhone is getting its biggest makeover yet \u2014 both to its features and release schedule. Here\u2019s what\u2019s happening to the company\u2019s flagship product. Also: The Mac Pro is on the back burner, and Tesla is finally adding support for CarPlay. Lastly, Apple\u2019\u2026",
         "source_link": "https://www.bloomberg.com/news/newsletters/2025-11-16/apple-s-iphone-road-map-iphone-air-2-iphone-18-mac-pro-future-tesla-carplay-mi1q4l2o"
-      },
-      {
-        "rank": 5,
-        "image": "https://assetsio.gnwcdn.com/Screenshot-2025-11-16-at-12.32.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Ubisoft admits AI-generated loading screen \"slipped through\" into final build of Anno 117: Pax Romana - Eurogamer",
-        "description": "Ubisoft has told Anno 117: Pax Romana fans that it will be replacing an AI-generated loading screen image, insisting it\u2026",
-        "source_link": "https://www.eurogamer.net/ubisoft-admits-ai-generated-loading-screen-slipped-through-into-final-build-of-anno-117-pax-romana"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2023/12/google-home-app-1-scaled.jpg",
-        "title": "I built my smart home with Google; here's how it fell apart - Android Authority",
-        "description": "In 2019, I thought I had my ideal smart home and it all relied on Google Home. Then it all started failing piece by piece.",
-        "source_link": "https://www.androidauthority.com/i-built-smart-home-with-google-it-fell-apart-3615955/"
-      },
-      {
-        "rank": 7,
-        "image": "https://media.wired.com/photos/691767db0aab2f501ca92d9c/191:100/w_1280,c_limit/gear-ai-organize-2149928167.jpg",
-        "title": "Use Google Gemini and ChatGPT to Organize Your Life With Scheduled Actions - WIRED",
-        "description": "The AI's latest trick is following the schedule you set for it.",
-        "source_link": "https://www.wired.com/story/google-gemini-and-chatgpt-scheduled-actions/"
-      },
-      {
-        "rank": 8,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6919b3417f81c3c826b4eef3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "iPhone Pocket: Exactly Why The Issey Miyake Collaboration Sold Out Super-Fast - Forbes",
-        "description": "The newest Apple release is the iPhone Pocket. Did you buy it? If not, you may be too late.",
-        "source_link": "https://www.forbes.com/sites/davidphelan/2025/11/16/apple-iphone-pocket-why-the-issey-miyake-collaboration-sold-out-in-hours/"
-      },
-      {
-        "rank": 9,
-        "image": "https://gizmodo.com/app/uploads/2025/11/Kennedyovaloffice-1200x675.jpg",
-        "title": "RFK Jr. Wants to Link Antidepressants Like SSRIs to Mass Shootings. Experts Aren\u2019t Buying It - Gizmodo",
-        "description": "Studies show that people who commit mass shootings aren't more likely to be taking antidepressants. But is RFK Jr. paying any attention?",
-        "source_link": "https://gizmodo.com/rfk-jr-wants-to-link-antidepressants-like-ssris-to-mass-shootings-experts-arent-buying-it-2000684870"
       }
     ],
     "trending_movies": [
@@ -90,17 +97,17 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg",
-        "title": "In Your Dreams",
-        "description": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family....",
-        "source_link": "https://www.themoviedb.org/movie/1117857"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
         "title": "Now You See Me: Now You Don't",
         "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
         "source_link": "https://www.themoviedb.org/movie/425274"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg",
+        "title": "In Your Dreams",
+        "description": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family....",
+        "source_link": "https://www.themoviedb.org/movie/1117857"
       },
       {
         "rank": 6,
@@ -118,17 +125,17 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
-        "title": "The Running Man",
-        "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
-        "source_link": "https://www.themoviedb.org/movie/798645"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+        "title": "The Running Man",
+        "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
+        "source_link": "https://www.themoviedb.org/movie/798645"
       },
       {
         "rank": 10,
