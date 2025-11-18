@@ -1,49 +1,113 @@
 {
-  "last_updated": "November 18, 2025, 14:16 UTC",
+  "last_updated": "November 18, 2025, 15:18 UTC",
   "categories": {
-    "tech_news": [],
-    "trending_movies": [
+    "tech_news": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
+        "image": "https://assetsio.gnwcdn.com/Official-Release-Trailer-_-OUT-NOW-I-Cities_-Skylines-II-0-46-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Paradox Interactive parts ways with Cities: Skylines studio after over 15 years, as publisher's misfortunes continue - Eurogamer",
+        "description": "Paradox Interactive has parted ways with Cities: Skylines developer Colossal Order in a mutual decision \"made thoughtfully and in the interest of both teams\".",
+        "source_link": "https://www.eurogamer.net/paradox-interactive-parts-ways-with-cities-skylines-studio-after-over-15-years-as-publishers-misfortunes-continue"
       },
       {
         "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2025/07/c6fe2ac031e2e4dc16c414acdd1c7662-1200x675.jpg",
+        "title": "Subnautica 2 Publisher Asked ChatGPT For Help Dumping Founders - Kotaku",
+        "description": "New filings accuse Krafton of engineering an illegal takeover to save money",
+        "source_link": "https://kotaku.com/subnautica-2-krafton-lawsuit-chatgpt-2000644792"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.videocardz.com/1/2025/11/RADEON-9000-TANOS-HERO.jpg",
+        "title": "AMD rumored to raise GPU prices just as Radeon RX 9070 XT finally reaches MSRP - VideoCardz.com",
+        "description": "AMD reportedly reacts to memory price increases A new post on the Chinese Board Channels forum claims that AMD has notified partners about a second price increase for its GPUs, this time tied directly to higher memory procurement costs. The post says AMD alre\u2026",
+        "source_link": "https://videocardz.com/newz/amd-rumored-to-raise-gpu-prices-just-as-radeon-rx-9070-xt-finally-reaches-msrp"
+      },
+      {
+        "rank": 4,
+        "image": "https://kotaku.com/app/uploads/2024/08/2ddab7250d4b768dbf40c8b0078548ee-1200x675.jpg",
+        "title": "Fans Bring Concord Back To Life As Sony Tries To Nuke The Evidence - Kotaku",
+        "description": "Fans are trying to rebuild the hero shooter, but Sony is taking down their YouTube videos",
+        "source_link": "https://kotaku.com/concord-revive-fan-servers-mod-sony-playstation-dmca-2000644800"
+      },
+      {
+        "rank": 5,
+        "image": "https://simscommunity.info/wp-content/uploads/2025/11/Sims-4-Remastered-FI.jpg",
+        "title": "RUMOR: EA Is Working on The Sims 4 Remastered - Sims Community",
+        "description": "The Sims 4 is rumored to be liberated from an outdated game engine that the game's been building upon for the last 11+ years. Talks about The Sims 4",
+        "source_link": "https://simscommunity.info/2025/11/17/the-sims-4-remastered-rumor/"
+      },
+      {
+        "rank": 6,
+        "image": null,
+        "title": "Exclusive Leak: Sony A7V Ditches HDMI port for Dual USB-C! - SonyAlphaRumors",
+        "description": "A newly leaked image shows the Sony A7V has dropped the Micro-USB port in favor of a second USB-C connection. UPDATE: I mistakenly told you it would ditch the HDMI port but instead it's ditching the Micro-USB in favor of an additional USB-C port! The full HDM\u2026",
+        "source_link": "https://www.sonyalpharumors.com/exclusive-leak-sony-a7v-ditches-hdmi-port-for-dual-usb-c/"
+      },
+      {
+        "rank": 7,
+        "image": "https://assets.warhammer-community.com/tow_chaosmaraudersnotes-nov17-1-feature-zgbkfmtu5r.jpg",
+        "title": "Old World Almanack \u2013 Chaos Marauders designers\u2019 notes - Warhammer Community",
+        "description": "The minds behind the new miniatures reveal all.",
+        "source_link": "https://www.warhammer-community.com/articles/5wik4apb/old-world-almanack-chaos-marauders-designers-notes"
+      },
+      {
+        "rank": 8,
+        "image": "https://assetsio.gnwcdn.com/Resident-Evil-Requiem---2nd-Trailer-2-9-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Don't worry, Resident Evil Requiem won't have PC woes like Monster Hunter Wilds, says Capcom - Eurogamer",
+        "description": "Capcom is working to ensure Resident Evil Requiem will perform well on PC, following a multitude of technical issues this year with Monster Hunter Wilds.",
+        "source_link": "https://www.eurogamer.net/dont-worry-resident-evil-requiem-wont-have-pc-woes-like-monster-hunter-wilds-says-capcom"
+      },
+      {
+        "rank": 9,
+        "image": "https://www.zdnet.com/a/img/resize/878e4ad44c0c697d9320e3007b1c165a7a6126bb/2025/04/04/8de7f619-6cf8-4045-b8a6-2cb48d5c7a2b/dsc05226.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "How to clear your Android phone cache (and wipe out lag for good) - ZDNET",
+        "description": "This simple tweak can noticeably boost speed and responsiveness on almost any device - no matter the brand. Here's how.",
+        "source_link": "https://www.zdnet.com/article/how-to-clear-your-android-phone-cache-and-wipe-out-lag-for-good/"
+      }
+    ],
+    "trending_movies": [
+      {
+        "rank": 1,
         "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "title": "Wicked: For Good",
         "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
         "source_link": "https://www.themoviedb.org/movie/967941"
       },
       {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
-        "title": "Frankenstein",
-        "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
-        "source_link": "https://www.themoviedb.org/movie/1062722"
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
         "title": "Now You See Me: Now You Don't",
         "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
         "source_link": "https://www.themoviedb.org/movie/425274"
       },
       {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/8Kpmnbbb8Rp1wG99thlcZ9JAUqo.jpg",
-        "title": "Moana",
-        "description": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches the island of an impetuous Chieftain, his willful daughter answers the Ocean's ca...",
-        "source_link": "https://www.themoviedb.org/movie/1108427"
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+        "title": "Frankenstein",
+        "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
+        "source_link": "https://www.themoviedb.org/movie/1062722"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
         "title": "The Running Man",
         "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
         "source_link": "https://www.themoviedb.org/movie/798645"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/gkIFK1HzqfgQg4v4ifeNKogHtPG.jpg",
+        "title": "If I Had Legs I'd Kick You",
+        "description": "With her life crashing down around her, Linda attempts to navigate her child's mysterious illness, her absent husband, a missing person, and an increa...",
+        "source_link": "https://www.themoviedb.org/movie/1160360"
       },
       {
         "rank": 7,
@@ -54,24 +118,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
+        "image": "https://image.tmdb.org/t/p/w200/8Kpmnbbb8Rp1wG99thlcZ9JAUqo.jpg",
+        "title": "Moana",
+        "description": "In Ancient Polynesia, when a terrible curse incurred by Maui reaches the island of an impetuous Chieftain, his willful daughter answers the Ocean's ca...",
+        "source_link": "https://www.themoviedb.org/movie/1108427"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/fGodXWqJkkkbSebPIlxLSygV8GY.jpg",
-        "title": "Playdate",
-        "description": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chase...",
-        "source_link": "https://www.themoviedb.org/movie/1248226"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought whe...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/fGodXWqJkkkbSebPIlxLSygV8GY.jpg",
+        "title": "Playdate",
+        "description": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chase...",
+        "source_link": "https://www.themoviedb.org/movie/1248226"
       }
     ]
   }
