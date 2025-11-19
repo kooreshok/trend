@@ -1,76 +1,69 @@
 {
-  "last_updated": "November 19, 2025, 22:15 UTC",
+  "last_updated": "November 19, 2025, 23:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_8465-2560x1440-1763486804.jpg",
-        "title": "The Analogue 3D is the modern N64 fans have been waiting for - Ars Technica",
-        "description": "Excellent design and display filters, but the lack of OpenFPGA support rankles.",
-        "source_link": "https://arstechnica.com/gaming/2025/11/the-analogue-3d-is-the-modern-n64-fans-have-been-waiting-for/"
+        "image": "https://assets-prd.ignimgs.com/2024/03/27/gamestop-1711539372505.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "GameStop Reveals Its Black Friday Ad for 2025 Alongside Early Deals - IGN",
+        "description": "Xbox deals are pretty much non-existent.",
+        "source_link": "https://www.ign.com/articles/gamestop-reveals-its-black-friday-ad-for-2025-alongside-early-deals"
       },
       {
         "rank": 2,
+        "image": "https://img.pastemagazine.com/wp-content/uploads/2025/10/07121622/rebecca_heineman_gofundme_main.jpg",
+        "title": "R.I.P. Rebecca Heineman, legendary game designer and trailblazer - AV Club",
+        "description": "Rebecca Heineman, a legendary game designer and 1980 national Space Invaders champion, has died after a short battle with cancer.",
+        "source_link": "https://www.avclub.com/rebecca-heineman-dies-games"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/MSFT_Holiday_copilot_Card_1-1152x648-1763493467.jpeg",
+        "title": "Microsoft tries to head off the \u201cnovel security risks\u201d of Windows 11 AI agents - Ars Technica",
+        "description": "Agents with read/write access to your files create big security, privacy issues.",
+        "source_link": "https://arstechnica.com/gadgets/2025/11/new-windows-11-ai-agents-can-work-in-the-background-but-create-new-security-risks/"
+      },
+      {
+        "rank": 4,
         "image": "https://www.the-race.com/content/images/2025/11/G6DKWtDXsAAek4K.jpeg",
         "title": "Why shock F1 26 game news should start a new era - The Race",
         "description": "There won't be a new official F1 game in 2026. Good, says Glenn Freeman, because sports gaming has become needlessly addicted to annual releases",
         "source_link": "https://www.the-race.com/gaming/why-shock-f1-26-game-news-should-start-a-new-era/"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iOS-26.2-public-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple releases iOS 26.2 public beta 2, here\u2019s what\u2019s new - 9to5Mac",
+        "description": "Want to try Apple\u2019s next iPhone software update before it comes out? Apple just dropped the released iOS 26.2 public...",
+        "source_link": "https://9to5mac.com/2025/11/18/apple-releases-ios-26-2-public-beta-2-heres-whats-new/"
+      },
+      {
+        "rank": 6,
         "image": "https://regmedia.co.uk/2025/11/18/shutterstock_754555399.jpg",
         "title": "Google Chrome bug exploited as an 0-day - patch now or risk full system compromise - theregister.com",
         "description": ": Seventh Chrome 0-day this year",
         "source_link": "https://www.theregister.com/2025/11/18/google_chrome_seventh_0_day/"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://assetsio.gnwcdn.com/TRDE-Screenshot-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Tomb Raider's 2013 reboot just shadow dropped on Switch and Switch 2 consoles - Eurogamer",
         "description": "Aspyr and Crystal Dynamics just shadow dropped Tomb Raider: Definitive Edition on Switch and Switch 2.",
         "source_link": "https://www.eurogamer.net/tomb-raiders-2013-reboot-just-shadow-dropped-on-switch-and-switch-2-consoles"
       },
       {
-        "rank": 5,
+        "rank": 8,
+        "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F11%2F18%2Fanalogue-3d-n64-nintendo-64-4k-officially-shipping-now-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+        "title": "The \u2018Analogue 3D\u2019 \u2013 An 'N64' Reimagined in 4K \u2013 Is Available Now - hypebeast.com",
+        "description": "It's finally here, two years after it was first announced.",
+        "source_link": "https://hypebeast.com/2025/11/analogue-3d-n64-nintendo-64-4k-officially-shipping-now"
+      },
+      {
+        "rank": 9,
         "image": "https://hodinkee.imgix.net/uploads/images/bbe83886-852b-4b35-9053-0965b0a01e99/20251023_OmegaPlanetOcean_005.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
         "title": "Introducing Omega Launches The Fourth Generation Seamaster 'Planet Ocean,' And It's A BIG Update (Live Pics) - Hodinkee",
         "description": "With a new case, updated movement for the core collection, and a new bracelet. New, new, new.",
         "source_link": "https://www.hodinkee.com/articles/introducing-omega-planet-ocean-gen4"
-      },
-      {
-        "rank": 6,
-        "image": null,
-        "title": "Jeff Bezos and Lauren Sanchez's Extravagant Renovations of $87 Million Billionaire Bunker Mansion Revealed - Realtor.com",
-        "description": null,
-        "source_link": "https://www.realtor.com/news/celebrity-real-estate/jeff-bezos-lauren-sanchez-billionaire-bunker-mansion-renovation/"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/VERGE-DEALS-DAILY-IMAGE-26.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "The Apple Watch Series 11 has plunged to a record low price - The Verge",
-        "description": "The Apple Watch Series 11 is $349.99 ($50 off) at Amazon. The Onn 4K Pro Streaming Device and Coway Airmega AP-1512HH is also on sale.",
-        "source_link": "https://www.theverge.com/tech/823052/apple-watch-series-11-onn-4k-pro-deal-sale"
-      },
-      {
-        "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/echo_aviation_1.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-        "title": "The Echo Aviation Controller puts a flight simulator in your hands - The Verge",
-        "description": "The Echo Aviation Controller packs a flight simulator\u2019s worth of controls into a $150 gamepad arriving later this year.",
-        "source_link": "https://www.theverge.com/news/823018/honeycomb-aeronautical-echo-aviation-controller-gamepad-pc-flight-simulator"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.nintendolife.com/0f120555a8911/1280x720.jpg",
-        "title": "Review: Demonschool (Switch) - Jokes, Gore, And '90s Vibes Set Necrosoft's Tactical RPG Apart - Nintendo Life",
-        "description": "School's out for the apocalypse",
-        "source_link": "https://www.nintendolife.com/reviews/switch-eshop/demonschool"
-      },
-      {
-        "rank": 10,
-        "image": "https://assetsio.gnwcdn.com/gw1-reforged-1920x1080-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Guild Wars Reforged, a free 20th anniversary revamp of the original Guild Wars, arrives this December - Rock Paper Shotgun",
-        "description": "Guild Wars developers ArenaNet have announced Reforged, an update making the original MMORPG easier to play on modern systems, will arrive this December.",
-        "source_link": "https://www.rockpapershotgun.com/guild-wars-reforged-a-free-20th-anniversary-revamp-of-the-original-guild-wars-arrives-this-december"
       }
     ],
     "trending_movies": [
@@ -104,10 +97,10 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
+        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+        "title": "Now You See Me: Now You Don't",
+        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
+        "source_link": "https://www.themoviedb.org/movie/425274"
       },
       {
         "rank": 6,
@@ -118,10 +111,10 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-        "title": "Now You See Me: Now You Don't",
-        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
-        "source_link": "https://www.themoviedb.org/movie/425274"
+        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
       },
       {
         "rank": 8,
@@ -132,17 +125,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought whe...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
         "title": "The Running Man",
         "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
         "source_link": "https://www.themoviedb.org/movie/798645"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought whe...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       }
     ]
   }
