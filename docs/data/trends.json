@@ -1,76 +1,76 @@
 {
-  "last_updated": "November 20, 2025, 18:24 UTC",
+  "last_updated": "November 20, 2025, 19:13 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.mos.cms.futurecdn.net/8DEeXvzaHefUspJ8aDbecH-2560-80.jpg",
+        "title": "Microsoft AI CEO pushes back against critics after recent Windows AI backlash \u2014 \"the fact that people are unimpressed ... is mindblowing to me\" - Windows Central",
+        "description": "Mustafa Suleyman says people that are unimpressed with AI's capabilities are mind blowing to him, after recent backlash around Copilot and Windows as an agentic OS.",
+        "source_link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-ai-ceo-pushes-back-against-critics-after-recent-windows-ai-backlash-the-fact-that-people-are-unimpressed-is-mindblowing-to-me"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/rebecca_heineman_1-1152x648.jpg",
+        "title": "Interplay co-founder and pioneering game developer Rebecca Heineman dies at 62 - Ars Technica",
+        "description": "The gaming community mourns a beloved mentor and LGBTQ+ advocate with a storied career.",
+        "source_link": "https://arstechnica.com/gadgets/2025/11/interplay-co-founder-and-pioneering-game-developer-rebecca-heineman-dies-at-62/"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-643999103-1152x648.jpg",
+        "title": "DeepMind\u2019s latest: An AI for handling mathematical proofs - Ars Technica",
+        "description": "AlphaProof can handle math challenges but needs a bit of help right now.",
+        "source_link": "https://arstechnica.com/ai/2025/11/deepminds-latest-an-ai-for-handling-mathematical-proofs/"
+      },
+      {
+        "rank": 4,
+        "image": "https://blog.tipranks.com/wp-content/uploads/2025/11/amdstock-9-750x406.jpg",
+        "title": "AMD Stock Rallies on New FSR Redstone Event Details - TipRanks",
+        "description": "AMD stock gained on Wednesday after the company announced an FSR Redstone event.",
+        "source_link": "https://www.tipranks.com/news/amd-stock-rallies-on-new-fsr-redstone-event-details"
+      },
+      {
+        "rank": 5,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Kirby-Air-Riders-1.1.1-update.jpg",
+        "title": "Kirby Air Riders gets big day one 1.1.1 update, patch notes - Nintendo Everything",
+        "description": "Kirby Air Riders has detailed a big day one version 1.1.1 update with new features added, and here are the patch notes.",
+        "source_link": "https://nintendoeverything.com/kirby-air-riders-gets-big-day-one-1-1-1-update-patch-notes/"
+      },
+      {
+        "rank": 6,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-18-mockup-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Next year\u2019s iPhone 18 decision could be very hard for almost everyone - 9to5Mac",
         "description": "The latest iPhone 18 rumors indicate next year\u2019s lineup could present an especially tough upgrade decision for almost all users.",
         "source_link": "https://9to5mac.com/2025/11/19/next-years-iphone-18-decision-could-be-very-hard-for-almost-everyone/"
       },
       {
-        "rank": 2,
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258079_AI_Cheating_pen_AKrales_0128_e2ad8b.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "This viral AI pen didn\u2019t help me cheat - The Verge",
         "description": "Viral YouTube videos of so-called AI-powered \u2018smart pens\u2019 are a scam.",
         "source_link": "https://www.theverge.com/report/822151/ai-smart-pen-for-cheating-tests"
       },
       {
-        "rank": 3,
+        "rank": 8,
         "image": "https://assets-prd.ignimgs.com/2025/11/18/dragonquest7reimagined-handson-blogroll-1763492058462.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Dragon Quest VII Reimagined Goes Much Farther Than the HD-2D Remakes - IGN",
         "description": "While many aspects of Dragon Quest VII Reimagined are still a mystery, all of those special little qualities and personalities that have kept this series going for almost 40 years are still on display. And its new visuals are certainly weird. Whether that's a\u2026",
         "source_link": "https://www.ign.com/articles/dragon-quest-vii-reimagined-goes-much-farther-than-the-hd-2d-remakes"
       },
       {
-        "rank": 4,
-        "image": "https://images.nintendolife.com/17dd7efc036ac/large.jpg",
-        "title": "Round Up: The Reviews Are In For Kirby Air Riders - Nintendo Life",
-        "description": "On Wednesdays we wear pink",
-        "source_link": "https://www.nintendolife.com/news/2025/11/round-up-the-reviews-are-in-for-kirby-air-riders"
-      },
-      {
-        "rank": 5,
+        "rank": 9,
         "image": "https://assets-prd.ignimgs.com/2025/11/19/pokmon-legends-z-a-mega-dimension-get-charged-up-with-mega-zeraora-00-00-37-1763562318532.png?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Pok\u00e9mon Legends: Z-A Mega Dimension DLC Debuts Mega Zeraora, Though Unlocking It 'Will Be a Little Difficult' - IGN",
         "description": "Fan-favorite Pok\u00e9mon Zeraora will gain a Mega Evolution in the upcoming Pok\u00e9mon Legends: Z-A Mega Dimension DLC. However, a fresh trailer revealing the creature's design has warned that it may be tough to unlock.",
         "source_link": "https://www.ign.com/articles/pokemon-legends-z-a-mega-dimension-dlc-debuts-mega-zeraora-though-unlocking-it-will-be-a-little-difficult"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://images.pushsquare.com/118589eab8efe/large.jpg",
         "title": "Huge Ghost of Yotei PS5 Patch Drops Next Week, Adds New Game+, Items, and More - Push Square",
         "description": "Available on 24th November",
         "source_link": "https://www.pushsquare.com/news/2025/11/huge-ghost-of-yotei-ps5-patch-drops-next-week-adds-new-gameplus-items-and-more"
-      },
-      {
-        "rank": 7,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Tales-of-Berseria-Remastered.jpg",
-        "title": "Tales of Berseria Remastered announced for Nintendo Switch - Nintendo Everything",
-        "description": "Bandai Namco isn\u2019t slowing down on its Tales of remasters, and has now revealed Tales of Berseria Remastered for Nintendo Switch. It\u2019s coming on February 26, 2026.",
-        "source_link": "https://nintendoeverything.com/tales-of-berseria-remastered-announced-for-nintendo-switch/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.apple.com/newsroom/images/2025/11/apple-announces-finalists-for-the-2025-app-store-awards/tile/Apple-App-Store-Awards-2025-hero-lp.jpg.og.jpg?202511191400",
-        "title": "Apple announces finalists for the 2025 App Store Awards - Apple",
-        "description": "Apple announced the finalists for the 2025 App Store Awards, recognizing 45 app and game developers for their achievements in innovation, user experience, and cultural impact.",
-        "source_link": "https://www.apple.com/newsroom/2025/11/apple-announces-finalists-for-the-2025-app-store-awards/"
-      },
-      {
-        "rank": 9,
-        "image": "https://assets-prd.ignimgs.com/2025/11/18/disneydreamlightvalley-wishblossomranch-blogroll-1763509485867.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Disney Dreamlight Valley: Wishblossom Ranch Review - IGN",
-        "description": "The latest expansion takes some welcome risks, but also lands on uneven footing with lots of bugs.",
-        "source_link": "https://www.ign.com/articles/disney-dreamlight-valley-wishblossom-ranch-review"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4607134-screenshot2025-11-19at8.41.41%E2%80%AFam.png",
-        "title": "Baldur's Gate 3 Studio Reacts To The Game Awards Nomination: \"What The F**k\" - GameSpot",
-        "description": "\"Honestly, what the f**k thanks guys.\"",
-        "source_link": "https://www.gamespot.com/articles/baldurs-gate-3-studio-reacts-to-the-game-awards-nomination-what-the-fk/1100-6536343/"
       }
     ],
     "trending_movies": [
@@ -90,59 +90,59 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-        "title": "Now You See Me: Now You Don't",
-        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
-        "source_link": "https://www.themoviedb.org/movie/425274"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "title": "Wicked: For Good",
         "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
         "source_link": "https://www.themoviedb.org/movie/967941"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/fFrD7rUXChaYhppVGOEoYPG4E3q.jpg",
         "title": "The Son of a Thousand Men",
         "description": "In a small village, a lonely fisherman yearning for a son is drawn to an ethereal light that links him to others and their long-buried secrets....",
         "source_link": "https://www.themoviedb.org/movie/1299209"
       },
       {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
+        "title": "No Other Choice",
+        "description": "After being laid off and humiliated by a ruthless job market, a veteran paper mill manager descends into violence in a desperate bid to reclaim his di...",
+        "source_link": "https://www.themoviedb.org/movie/639988"
+      },
+      {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/8DkQBVesn5ihgYSD66JE7gigzGt.jpg",
-        "title": "The Follies",
-        "description": "The human experience, portraying a single intense day. Examines how individuals are pushed to their limits as they defy constraints, whether from self...",
-        "source_link": "https://www.themoviedb.org/movie/1548092"
+        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/yFc6F5PmAIdqpAU9wReCqLHWwMm.jpg",
-        "title": "The Carman Family Deaths",
-        "description": "A young man's dramatic rescue at sea spirals into accusations he murdered two members of his wealthy New England family....",
-        "source_link": "https://www.themoviedb.org/movie/1363282"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/gkIFK1HzqfgQg4v4ifeNKogHtPG.jpg",
-        "title": "If I Had Legs I'd Kick You",
-        "description": "With her life crashing down around her, Linda attempts to navigate her child's mysterious illness, her absent husband, a missing person, and an increa...",
-        "source_link": "https://www.themoviedb.org/movie/1160360"
-      },
-      {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
         "title": "Frankenstein",
         "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
         "source_link": "https://www.themoviedb.org/movie/1062722"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/uXqqFkLcMPORg3TsQbK4upozZXB.jpg",
+        "title": "The Hand That Rocks the Cradle",
+        "description": "Suburban couple Caitlin and Miguel hire seemingly sweet Polly to take care of their newborn baby. But Polly's true motives have little to do with sing...",
+        "source_link": "https://www.themoviedb.org/movie/1362315"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought whe...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+        "title": "Now You See Me: Now You Don't",
+        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
+        "source_link": "https://www.themoviedb.org/movie/425274"
       }
     ]
   }
