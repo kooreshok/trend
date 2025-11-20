@@ -1,120 +1,127 @@
 {
-  "last_updated": "November 20, 2025, 01:14 UTC",
+  "last_updated": "November 20, 2025, 03:07 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ss_26ef3c27e69d2aea6467f7092cac4cef5b9120ee.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "EA will skip next year\u2019s F1 game and release update DLC instead - The Verge",
+        "description": "EA is planning to release a downloadable paid expansion update for F1 25 instead of releasing a full new game next year, with a \u201cfull\u201d refreshed experience coming in 2027.",
+        "source_link": "https://www.theverge.com/news/823675/ea-f1-25-2026-2027-dlc-expansion-update-game"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22461476/vpavic_4547_20210421_0131.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "The Apple deals worth shopping before Black Friday (and the discounts to expect) - The Verge",
+        "description": "Black Friday is still more than a week away, but the Apple deals are already trickling in. Here, we\u2019ve rounded up the best discounts on everything from AirPods to iPads.",
+        "source_link": "https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025"
+      },
+      {
+        "rank": 3,
+        "image": "https://gizmodo.com/app/uploads/2025/11/halo-infinite-hed-1200x675.jpg",
+        "title": "Goodbye, \u2018Halo Infinite\u2019 (2021-2025) - Gizmodo",
+        "description": "Despite the odds being stacked against it and a rough launch, 'Halo Infinite' grew into its own good thing over time.",
+        "source_link": "https://gizmodo.com/goodbye-halo-infinite-2021-2025-2000687712"
+      },
+      {
+        "rank": 4,
+        "image": "https://gizmodo.com/app/uploads/2025/11/DJI-Osmo-Action-6-Vlogging_Macro-Lens-1200x675.jpg",
+        "title": "DJI\u2019s New Action Camera Makes It Even Harder for GoPro to Catch Up - Gizmodo",
+        "description": "The Osmo Action 6 brings the action cam closer to the typical vlogging camera.",
+        "source_link": "https://gizmodo.com/dji-osmo-action-6-variable-aperture-lens-beats-gopro-hero-13-black-2000687756"
+      },
+      {
+        "rank": 5,
+        "image": "https://assets-prd.ignimgs.com/2025/10/06/megabonk-quickreview-blogroll-1759785792647.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Megabonk Developer Withdraws Game From The Game Awards, Saying It Doesn't Qualify for Debut Indie - IGN",
+        "description": "Vedinad, developer of Megabonk, has withdrawn his game from The Game Awards following its nomination for Best Debut Indie Game, saying it doesn't qualify for the category.",
+        "source_link": "https://www.ign.com/articles/megabonk-developer-withdraws-game-from-the-game-awards-saying-it-doesnt-qualify-for-debut-indie"
+      },
+      {
+        "rank": 6,
+        "image": "https://assetsio.gnwcdn.com/95340983_1759594331266761_r.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "\"Trailblazing\" Interplay co-founder Rebecca Heineman dies aged 62 - GamesIndustry.biz",
+        "description": "\"Trailblazing\" Interplay co-founder Rebecca Heineman has died of cancer aged 62.",
+        "source_link": "https://www.gamesindustry.biz/trailblazing-interplay-co-founder-rebecca-heineman-dies-aged-62"
+      },
+      {
+        "rank": 7,
         "image": "https://assets-prd.ignimgs.com/2024/03/27/gamestop-1711539372505.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "GameStop Reveals Its Black Friday Ad for 2025 Alongside Early Deals - IGN",
         "description": "Xbox deals are pretty much non-existent.",
         "source_link": "https://www.ign.com/articles/gamestop-reveals-its-black-friday-ad-for-2025-alongside-early-deals"
       },
       {
-        "rank": 2,
-        "image": "https://img.pastemagazine.com/wp-content/uploads/2025/10/07121622/rebecca_heineman_gofundme_main.jpg",
-        "title": "R.I.P. Rebecca Heineman, legendary game designer and trailblazer - AV Club",
-        "description": "Rebecca Heineman, a legendary game designer and 1980 national Space Invaders champion, has died after a short battle with cancer.",
-        "source_link": "https://www.avclub.com/rebecca-heineman-dies-games"
+        "rank": 8,
+        "image": "https://assets-prd.ignimgs.com/2025/11/18/alienwaresale-1763493642926.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "The Alienware Black Friday Sale Starts Early with Some Amazing Deals on Gaming PCs and Laptops - IGN",
+        "description": "This is a bona fide sale with the lowest prices I've seen all year.",
+        "source_link": "https://www.ign.com/articles/dell-alienware-early-black-friday-sale-2025-best-deals-on-gaming-pcs-and-laptops"
       },
       {
-        "rank": 3,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/MSFT_Holiday_copilot_Card_1-1152x648-1763493467.jpeg",
-        "title": "Microsoft tries to head off the \u201cnovel security risks\u201d of Windows 11 AI agents - Ars Technica",
-        "description": "Agents with read/write access to your files create big security, privacy issues.",
-        "source_link": "https://arstechnica.com/gadgets/2025/11/new-windows-11-ai-agents-can-work-in-the-background-but-create-new-security-risks/"
+        "rank": 9,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_8465-2560x1440-1763486804.jpg",
+        "title": "The Analogue 3D is the modern N64 fans have been waiting for - Ars Technica",
+        "description": "Excellent design and display filters, but the lack of OpenFPGA support rankles.",
+        "source_link": "https://arstechnica.com/gaming/2025/11/the-analogue-3d-is-the-modern-n64-fans-have-been-waiting-for/"
       },
       {
-        "rank": 4,
-        "image": "https://www.the-race.com/content/images/2025/11/G6DKWtDXsAAek4K.jpeg",
-        "title": "Why shock F1 26 game news should start a new era - The Race",
-        "description": "There won't be a new official F1 game in 2026. Good, says Glenn Freeman, because sports gaming has become needlessly addicted to annual releases",
-        "source_link": "https://www.the-race.com/gaming/why-shock-f1-26-game-news-should-start-a-new-era/"
-      },
-      {
-        "rank": 5,
+        "rank": 10,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iOS-26.2-public-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple releases iOS 26.2 public beta 2, here\u2019s what\u2019s new - 9to5Mac",
         "description": "Want to try Apple\u2019s next iPhone software update before it comes out? Apple just dropped the released iOS 26.2 public...",
         "source_link": "https://9to5mac.com/2025/11/18/apple-releases-ios-26-2-public-beta-2-heres-whats-new/"
-      },
-      {
-        "rank": 6,
-        "image": "https://regmedia.co.uk/2025/11/18/shutterstock_754555399.jpg",
-        "title": "Google Chrome bug exploited as an 0-day - patch now or risk full system compromise - theregister.com",
-        "description": ": Seventh Chrome 0-day this year",
-        "source_link": "https://www.theregister.com/2025/11/18/google_chrome_seventh_0_day/"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/TRDE-Screenshot-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Tomb Raider's 2013 reboot just shadow dropped on Switch and Switch 2 consoles - Eurogamer",
-        "description": "Aspyr and Crystal Dynamics just shadow dropped Tomb Raider: Definitive Edition on Switch and Switch 2.",
-        "source_link": "https://www.eurogamer.net/tomb-raiders-2013-reboot-just-shadow-dropped-on-switch-and-switch-2-consoles"
-      },
-      {
-        "rank": 8,
-        "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2025%2F11%2F18%2Fanalogue-3d-n64-nintendo-64-4k-officially-shipping-now-tw.jpg?w=1080&cbr=1&q=90&fit=max",
-        "title": "The \u2018Analogue 3D\u2019 \u2013 An 'N64' Reimagined in 4K \u2013 Is Available Now - hypebeast.com",
-        "description": "It's finally here, two years after it was first announced.",
-        "source_link": "https://hypebeast.com/2025/11/analogue-3d-n64-nintendo-64-4k-officially-shipping-now"
-      },
-      {
-        "rank": 9,
-        "image": "https://hodinkee.imgix.net/uploads/images/bbe83886-852b-4b35-9053-0965b0a01e99/20251023_OmegaPlanetOcean_005.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
-        "title": "Introducing Omega Launches The Fourth Generation Seamaster 'Planet Ocean,' And It's A BIG Update (Live Pics) - Hodinkee",
-        "description": "With a new case, updated movement for the core collection, and a new bracelet. New, new, new.",
-        "source_link": "https://www.hodinkee.com/articles/introducing-omega-planet-ocean-gen4"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
-        "title": "Harry Potter and the Prisoner of Azkaban",
-        "description": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts...",
-        "source_link": "https://www.themoviedb.org/movie/673"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "title": "Wicked: For Good",
         "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
         "source_link": "https://www.themoviedb.org/movie/967941"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/a66w2eVNFHMgevJlw0d6f4TTrrD.jpg",
         "title": "Champagne Problems",
         "description": "A driven American exec heads to Paris determined to acquire a champagne brand by Christmas \u2014 and accidentally falls for the heir to the bubbly empire....",
         "source_link": "https://www.themoviedb.org/movie/1323475"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/lxBiUIJDwSABoYZQFdpq52RbD84.jpg",
         "title": "The Son of a Thousand Men",
         "description": "In a small village, a lonely fisherman yearning for a son is drawn to an ethereal light that links him to others and their long-buried secrets....",
         "source_link": "https://www.themoviedb.org/movie/1299209"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
         "title": "Frankenstein",
         "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
         "source_link": "https://www.themoviedb.org/movie/1062722"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
         "title": "One Battle After Another",
         "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
         "source_link": "https://www.themoviedb.org/movie/1054867"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought whe...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "description": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts...",
+        "source_link": "https://www.themoviedb.org/movie/673"
       },
       {
         "rank": 8,
@@ -132,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/gkIFK1HzqfgQg4v4ifeNKogHtPG.jpg",
-        "title": "If I Had Legs I'd Kick You",
-        "description": "With her life crashing down around her, Linda attempts to navigate her child's mysterious illness, her absent husband, a missing person, and an increa...",
-        "source_link": "https://www.themoviedb.org/movie/1160360"
+        "image": "https://image.tmdb.org/t/p/w200/6Z4rtNUA51AegNjhJ2dKFcfsHE2.jpg",
+        "title": "The Hand That Rocks the Cradle",
+        "description": "Suburban couple Caitlin and Miguel hire seemingly sweet Polly to take care of their newborn baby. But Polly's true motives have little to do with sing...",
+        "source_link": "https://www.themoviedb.org/movie/1362315"
       }
     ]
   }
