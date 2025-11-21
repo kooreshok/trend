@@ -1,76 +1,76 @@
 {
-  "last_updated": "November 20, 2025, 23:15 UTC",
+  "last_updated": "November 21, 2025, 01:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://kotaku.com/app/uploads/2025/11/blops7-endgame-1200x675.jpg",
+        "title": "Black Ops 7\u2032 s Best Part Won\u2019t Be Locked Behind Its Worst Part For Much Longer - Kotaku",
+        "description": "You soon won't have to play the new Call of Duty's campaign to enjoy its open-world extraction-like mode",
+        "source_link": "https://kotaku.com/black-ops-7s-best-part-wont-be-locked-behind-its-worst-part-for-much-longer-2000645605"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/19/LinusTechTips-22disappointed22-Steam-Machine-wont-be-priced-like-a-console.jpg",
+        "title": "Linus Tech Tips \u201cdisappointed\u201d Steam Machine won\u2019t be priced like a console - Dexerto",
+        "description": "YouTube star LinusTechTips has revealed that Valve wasn\u2019t overly impressed with his suggestion of a $500 price tag for the dubbed Steam Console.",
+        "source_link": "https://www.dexerto.com/youtube/linus-tech-tips-disappointed-steam-machine-wont-be-priced-like-a-console-3284996/"
+      },
+      {
+        "rank": 3,
+        "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/11/19132249/zelda_empowerment_main_1920.jpg",
+        "title": "Princess Zelda reckons with her legacy and reclaims her legend in Hyrule Warriors: Age Of Imprisonment - AV Club",
+        "description": "Princess Zelda has always had power, but Age of Imprisonment gives her something just as valuable: self-awareness.",
+        "source_link": "https://www.avclub.com/zelda-empowerment-age-of-imprisonment"
+      },
+      {
+        "rank": 4,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257607_M4_MacBook_Air_ADiBenedetto_0041.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "For Black Friday, get the M4 MacBook Air that\u2019s only $150 more than the slower M1 model - The Verge",
         "description": "With the M4 model that has a better design and faster specs costing just $150 more, most shoppers should go that route.",
         "source_link": "https://www.theverge.com/gadgets/824237/m4-macbook-air-apple-m1-laptop-black-friday-deal-sale"
       },
       {
-        "rank": 2,
+        "rank": 5,
+        "image": "https://assetsio.gnwcdn.com/Megabonk.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Megabonk withdraws from The Game Awards: \"It's an honour but I don't think it qualifies for Debut Indie Game\" - GamesIndustry.biz",
+        "description": "Vedinad, the force behind Megabonk, has withdrawn from consideration as Best Debut Indie Game at next month's The Game \u2026",
+        "source_link": "https://www.gamesindustry.biz/megabonk-withdraws-from-the-game-awards-its-an-honour-but-i-dont-think-it-qualifies-for-debut-indie-game"
+      },
+      {
+        "rank": 6,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg",
         "title": "Critics scoff after Microsoft warns AI feature can infect machines and pilfer data - Ars Technica",
         "description": "Integration of Copilot Actions into Windows is off by default, but for how long?",
         "source_link": "https://arstechnica.com/security/2025/11/critics-scoff-after-microsoft-warns-ai-feature-can-infect-machines-and-pilfer-data/"
       },
       {
-        "rank": 3,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/IMG_3399-1152x648.jpeg",
-        "title": "Testing shows Apple N1 Wi-Fi chip improves on older Broadcom chips in every way - Ars Technica",
-        "description": "Apple\u2019s in-house Wi-Fi chip doesn\u2019t set records, but it\u2019s a reliable performer.",
-        "source_link": "https://arstechnica.com/gadgets/2025/11/testing-shows-apple-n1-wi-fi-chip-improves-on-older-broadcom-chips-in-every-way/"
+        "rank": 7,
+        "image": "https://tgp-us.b-cdn.net/wp-content/uploads/2025/11/destiny-2-renegades-all-exotic-armor-changes-detailed-76.jpg",
+        "title": "Destiny 2 Renegades: All Exotic Armor Changes Detailed - The Game Post",
+        "description": "Bungie has shared its full list of Exotic armor changes coming in the Renegades expansion.",
+        "source_link": "https://thegamepost.com/destiny-2-renegades-all-exotic-armor-changes-detailed/"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/11/youtube-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "YouTube tests bringing back direct messages, a \u2018top feature request\u2019 - 9to5Google",
         "description": "YouTube\u2019s latest test is preparing support for direct messages where users can share videos with each other and have conversations....",
         "source_link": "http://9to5google.com/2025/11/19/youtube-is-testing-a-revival-of-built-in-direct-messages-a-top-feature-request/"
       },
       {
-        "rank": 5,
+        "rank": 9,
+        "image": "https://assets-prd.ignimgs.com/2025/11/19/pny5070ti2-1763574428370.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "The GeForce RTX 5070 Ti Graphics Card Drops to the Lowest Price of the Year for Black Friday - IGN",
+        "description": "The RTX 5070 Ti is an excellent GPU for gaming in glorious 4K.",
+        "source_link": "https://www.ign.com/articles/pny-geforce-rtx-5070-ti-graphics-card-deal-amazon-early-black-friday-sale"
+      },
+      {
+        "rank": 10,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/04/Tim-Cook-opens-Apple-BKC.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple has five products coming next year that I\u2019m very excited for - 9to5Mac",
         "description": "Apple has a lot of new products coming next year, here are five rumored 2026 products that I\u2019m especially excited for.",
         "source_link": "https://9to5mac.com/2025/11/19/apple-has-five-products-coming-next-year-that-im-very-excited-for/"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4607172-ghostofyotei.jpg",
-        "title": "The Game Awards Nominees, Ranked By How Many Nominations They Received - GameSpot",
-        "description": "It's time to look at The Game Awards' top contenders, and the games that only have a single shot at coming home with an award.",
-        "source_link": "https://www.gamespot.com/gallery/the-game-awards-nominees-ranked-by-how-many-nominations-they-received/2900-7267/"
-      },
-      {
-        "rank": 7,
-        "image": "https://deadline.com/wp-content/uploads/2025/11/Amazon-Jack-Ryan-recap.png?w=1024",
-        "title": "Amazon Prime Video Adds Video Recap Feature In Latest AI-Powered Streaming Move - Deadline",
-        "description": "Amazon Prime Video is rolling out a video recap feature, aiming to help viewers recall key plot points from past seasons before they start newer ones.",
-        "source_link": "http://deadline.com/2025/11/amazon-prime-video-recap-button-ai-streaming-1236623440/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
-        "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
-        "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!",
-        "source_link": "https://www.marvelrivals.com/gameupdate/20251119/41548_1271711.html"
-      },
-      {
-        "rank": 9,
-        "image": "https://media.wired.com/photos/691d10d5c35ff0e735daa2d8/191:100/w_1280,c_limit/New-Home-Robot-Business-FB7DDC00-5A09-40CE-AB66-C3EF1E3524BF.jpg",
-        "title": "This Home Robot Clears Tables and Loads the Dishwasher All by Itself - WIRED",
-        "description": "Sunday Robotics has a new way to train robots to do common household tasks. The startup plans to put its fully autonomous robots in homes next year.",
-        "source_link": "https://www.wired.com/story/memo-sunday-robotics-home-robot/"
-      },
-      {
-        "rank": 10,
-        "image": "https://tgp-us.b-cdn.net/wp-content/uploads/2025/11/destiny-2-adding-sparrow-racing-unvaulted-campaigns-npc-gambit-survey-1.jpg",
-        "title": "Exclusive: Destiny 2 is considering adding Sparrow Racing League, unvaulted campaigns, NPC sidekicks, new Subclass abilities, new Gambit mode, and more, new survey reveals - The Game Post",
-        "description": "A new survey shows Destiny 2 is considering adding Sparrow Racing League, unvaulted campaigns, NPC sidekicks, new PvP and Gambit modes, and much more.",
-        "source_link": "https://thegamepost.com/destiny-2-adding-sparrow-racing-unvaulted-campaigns-npc-gambit-survey/"
       }
     ],
     "trending_movies": [
@@ -97,10 +97,10 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
+        "image": "https://image.tmdb.org/t/p/w200/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
+        "title": "No Other Choice",
+        "description": "After being laid off and humiliated by a ruthless job market, a veteran paper mill manager descends into violence in a desperate bid to reclaim his di...",
+        "source_link": "https://www.themoviedb.org/movie/639988"
       },
       {
         "rank": 5,
@@ -111,10 +111,10 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
-        "title": "No Other Choice",
-        "description": "After being laid off and humiliated by a ruthless job market, a veteran paper mill manager descends into violence in a desperate bid to reclaim his di...",
-        "source_link": "https://www.themoviedb.org/movie/639988"
+        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
       },
       {
         "rank": 7,
@@ -125,10 +125,10 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
-        "title": "The Running Man",
-        "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
-        "source_link": "https://www.themoviedb.org/movie/798645"
+        "image": "https://image.tmdb.org/t/p/w200/8DkQBVesn5ihgYSD66JE7gigzGt.jpg",
+        "title": "The Follies",
+        "description": "The human experience, portraying a single intense day. Examines how individuals are pushed to their limits as they defy constraints, whether from self...",
+        "source_link": "https://www.themoviedb.org/movie/1548092"
       },
       {
         "rank": 9,
