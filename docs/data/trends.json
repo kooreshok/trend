@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 21, 2025, 09:17 UTC",
+  "last_updated": "November 21, 2025, 10:17 UTC",
   "categories": {
     "tech_news": [
       {
@@ -118,17 +118,17 @@
       },
       {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
+        "title": "Train Dreams",
+        "description": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America....",
+        "source_link": "https://www.themoviedb.org/movie/1241983"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/a66w2eVNFHMgevJlw0d6f4TTrrD.jpg",
         "title": "Champagne Problems",
         "description": "A driven American exec heads to Paris determined to acquire a champagne brand by Christmas \u2014 and accidentally falls for the heir to the bubbly empire....",
         "source_link": "https://www.themoviedb.org/movie/1323475"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/fFrD7rUXChaYhppVGOEoYPG4E3q.jpg",
-        "title": "The Son of a Thousand Men",
-        "description": "In a small village, a lonely fisherman yearning for a son is drawn to an ethereal light that links him to others and their long-buried secrets....",
-        "source_link": "https://www.themoviedb.org/movie/1299209"
       },
       {
         "rank": 9,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
-        "title": "Frankenstein",
-        "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
-        "source_link": "https://www.themoviedb.org/movie/1062722"
+        "image": "https://image.tmdb.org/t/p/w200/fFrD7rUXChaYhppVGOEoYPG4E3q.jpg",
+        "title": "The Son of a Thousand Men",
+        "description": "In a small village, a lonely fisherman yearning for a son is drawn to an ethereal light that links him to others and their long-buried secrets....",
+        "source_link": "https://www.themoviedb.org/movie/1299209"
       }
     ]
   }
