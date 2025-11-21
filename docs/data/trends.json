@@ -1,92 +1,78 @@
 {
-  "last_updated": "November 21, 2025, 14:16 UTC",
+  "last_updated": "November 21, 2025, 15:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257943_Airpods_Pro3_AKrales_0145.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "AirPods\u2019 best features come to Android and Linux with free app - The Verge",
+        "description": "The best features of Apple\u2019s AirPods come to Android and Linux with the free LibrePods app, including ear detection and customizing transparency mode.",
+        "source_link": "https://www.theverge.com/news/824953/librepods-apple-airpods-wireless-headphones-android-linux"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "ChatGPT Atlas adds Arc-like vertical tabs - The Verge",
+        "description": "OpenAI is rolling out an update for its ChatGPT Atlas AI-powered browser that adds Arc-like vertical tabs and the ability to set Google as your default search engine.",
+        "source_link": "https://www.theverge.com/news/825036/openai-chatgpt-atlas-arc-vertical-tabs-update"
+      },
+      {
+        "rank": 3,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/11/GEMINI-Woodchuck.jpeg?resize=1200,655",
+        "title": "Google releases Nano Banana Pro, its latest image generation model - TechCrunch",
+        "description": "Google is upgrading its image generation model with new editing chops, higher resolutions, more accurate text rendering, and the ability to search the web.",
+        "source_link": "https://techcrunch.com/2025/11/20/google-releases-nano-banana-pro-its-latest-image-generation-model/"
+      },
+      {
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-26.2-favorite.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iOS 26.2 is coming: Here are my three favorite new features - 9to5Mac",
+        "description": "iOS 26.2 is launching next month, but I\u2019ve been using the update in beta already. Here are my three favorite new iOS 26.2 features so far.",
+        "source_link": "https://9to5mac.com/2025/11/20/ios-26-2-is-coming-here-are-my-three-favorite-new-features/"
+      },
+      {
+        "rank": 5,
+        "image": "https://assetsio.gnwcdn.com/silent-hill-2-remake-header_yTkym9T.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Silent Hill 2's brilliant remake surprise-launches on Xbox Series X/S with a massive discount ahead of tonight's showcase - Eurogamer",
+        "description": "Last year's stupendous Silent Hill 2 remake is finally available on Xbox Series X/S.",
+        "source_link": "https://www.eurogamer.net/silent-hill-2s-brilliant-remake-surprise-launches-on-xbox-series-xs-with-a-massive-discount-ahead-of-tonights-showcase"
+      },
+      {
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Screenshot-2025-11-19-at-2.53.35%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C0.13211659903138%2C100%2C99.735766801937&w=1200",
+        "title": "I\u2019m officially done with YouTube Kids - The Verge",
+        "description": "There are some good videos on YouTube Kids, but the proliferation of low-quality entertainment makes it hard to stomach.",
+        "source_link": "https://www.theverge.com/tech/824556/youtube-kids-videos-slop"
+      },
+      {
+        "rank": 7,
         "image": "https://www.plusnews.org/wp-content/uploads/2025/11/Jaw-Dropping-15-Trillion-Lithium-Find-in-an-Unlikely-US-Location.jpg",
         "title": "Jaw-Dropping $1.5 Trillion Lithium Find in an Unlikely U.S. Location - plusnews.org",
         "description": "A seismic find in a quiet corner of the West A team of geologists has confirmed a vast lithium deposit straddling the Oregon\u2013Nevada border, an unlikely landscape of volcanic plains and ranchlands. Valued at roughly $1.5 trillion, the resource could reshape Am\u2026",
         "source_link": "https://www.plusnews.org/jaw-dropping-1-5-trillion-lithium-find-in-an-unlikely-u-s-location/"
       },
       {
-        "rank": 2,
+        "rank": 8,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258109_Matter_adds_support_for_cameras_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Camera support could be the boost Matter needs - The Verge",
         "description": "From encrypted video streaming to new energy tools and garage door controls, this major update could finally make Matter useful for more than lights and smart plugs.",
         "source_link": "https://www.theverge.com/tech/821707/matter-smart-home-standard-supports-cameras-apple-ring-google-nest"
-      },
-      {
-        "rank": 3,
-        "image": "https://www.trueachievements.com/imgs/166944/xbox-game-pass-the-crew-motorfest-monsters-are-coming-rock-and-road.jpg",
-        "title": "Xbox Game Pass adds another Ubisoft game today - TrueAchievements",
-        "description": "Xbox Game Pass subscribers have two more games to check out today, including another Ubisoft game for the service, The Crew Motorfest.",
-        "source_link": "https://www.trueachievements.com/news/xbox-game-pass-the-crew-motorfest-monsters-are-coming-rock-and-road"
-      },
-      {
-        "rank": 4,
-        "image": "https://assetsio.gnwcdn.com/arc-raiders-ducks-ahoy.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Arc Raiders patch nerfs one of its most devastating weapons, floods your room with ducks - Eurogamer",
-        "description": "Arc Raiders patch nerfs one of its most devastating weapons, floods your room with ducks.",
-        "source_link": "https://www.eurogamer.net/arc-raiders-patch-nerfs-one-of-its-most-devastating-weapons-floods-your-room-with-ducks"
-      },
-      {
-        "rank": 5,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/emoticon_hero_2-1152x648.jpg",
-        "title": "In 1982, a physics joke gone wrong sparked the invention of the emoticon - Ars Technica",
-        "description": "A simple proposal on a 1982 electronic bulletin board helped sarcasm flourish online.",
-        "source_link": "https://arstechnica.com/gadgets/2025/11/in-1982-a-physics-joke-gone-wrong-sparked-the-invention-of-the-emoticon/"
-      },
-      {
-        "rank": 6,
-        "image": "https://assets-prd.ignimgs.com/2025/11/20/best-buy-black-friday-sale-is-live-ign-2025-1763639199731.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Best Buy's Official 2025 Black Friday Sale is Now Live - IGN",
-        "description": "Best Buy's 2025 Black Friday sale is officially live, and you can already save big on Apple AirPods Pro 3, PS5 games, 4K TVs, and more.",
-        "source_link": "https://www.ign.com/articles/best-buy-2025-black-friday-sale-is-now-live"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25501065/DSCF7721.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Windows on Arm is now ready for gaming thanks to some big changes - The Verge",
-        "description": "Microsoft and Qualcomm have made a lot of improvements to gaming on Windows on Arm. A new Snapdragon Control Panel includes drivers and optimizations.",
-        "source_link": "https://www.theverge.com/news/824783/windows-on-arm-snapdragon-control-panel-gaming-driver-compatibility-improvements"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.cnet.com/a/img/resize/30e4c336bef0bd5f232a2571e74b40a3a997b62f/hub/2025/11/19/ece34f01-6620-45ff-b25b-0b9499fad7e0/gettyimages-2049505272.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Experts Told Us Why Our Home LED Lights Die Out So Fast - CNET",
-        "description": "If your LED bulbs aren't living up to promises, we found out what may be going wrong -- and how to fix it.",
-        "source_link": "https://www.cnet.com/home/smart-home/experts-told-us-why-our-home-led-lights-die-out-so-fast/"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-store-shopping-event-black-friday.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple Black Friday deal: up to $250 gift card with purchase of Mac, iPhone, iPad and more - 9to5Mac",
-        "description": "The Apple Store today announced its Black Friday shopping event, which runs November 28 through December 1. Shoppers can get...",
-        "source_link": "https://9to5mac.com/2025/11/20/apple-black-friday-deal-gift-card-with-purchase/"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.nintendolife.com/641c0961adb52/large.jpg",
-        "title": "Pok\u00e9mon Legends: Z-A Ranked Battle Season 3 Start Date And Rewards Revealed - Nintendo Life",
-        "description": "The grass is greener",
-        "source_link": "https://www.nintendolife.com/news/2025/11/pokemon-legends-z-a-ranked-battle-season-3-start-date-and-rewards-revealed"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
-        "title": "After the Hunt",
-        "description": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and ...",
-        "source_link": "https://www.themoviedb.org/movie/1265063"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
         "title": "The Family Plan 2",
         "description": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own pla...",
         "source_link": "https://www.themoviedb.org/movie/1363123"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
+        "title": "After the Hunt",
+        "description": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and ...",
+        "source_link": "https://www.themoviedb.org/movie/1265063"
       },
       {
         "rank": 3,
@@ -139,10 +125,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/a66w2eVNFHMgevJlw0d6f4TTrrD.jpg",
-        "title": "Champagne Problems",
-        "description": "A driven American exec heads to Paris determined to acquire a champagne brand by Christmas \u2014 and accidentally falls for the heir to the bubbly empire....",
-        "source_link": "https://www.themoviedb.org/movie/1323475"
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought whe...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       }
     ]
   }
