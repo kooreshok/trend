@@ -1,76 +1,69 @@
 {
-  "last_updated": "November 22, 2025, 22:14 UTC",
+  "last_updated": "November 22, 2025, 23:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Switch2_KirbyAirRiders_scrn_03.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "In Kirby Air Riders, expression is more fun than racing - The Verge",
+        "description": "Kirby Air Riders on the Nintendo Switch 2, a sequel to the quirky GameCube racing game, has a robust suite of customization options that are fun to play with.",
+        "source_link": "https://www.theverge.com/games/826488/kirby-air-riders-nintendo-switch-2-vehicle-customization"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25184511/111323_PlayStation_Portal_ADiBenedetto_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Sony\u2019s PlayStation Portal just got a rare discount for Black Friday - The Verge",
+        "description": "Sony\u2019s PlayStation Portal rarely goes on sale, but now it\u2019s currently at an all-time low price thanks to this Black Friday sale.",
+        "source_link": "https://www.theverge.com/gadgets/825985/sony-playstation-portal-black-friday-deal-sale-2025"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.investors.com/wp-content/uploads/2025/11/sotd-for-11-21-2025-desktop-1.png",
+        "title": "Apple, IBD Stock Of The Day, Sets Up Before Holiday Season - Investor's Business Daily",
+        "description": "The consumer electronics giant prepares for a busy shopping season.",
+        "source_link": "https://www.investors.com/research/ibd-stock-of-the-day/apple-stock-aapl-holiday-season-forecast/"
+      },
+      {
+        "rank": 4,
+        "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5YY8eeQIZh8QolUZwzJOhF/8a826f0cfcca1a41dda148c808096435/Ubisoft_Teammates_XP_Sofia_and_Pablo.jpg",
+        "title": "Ubisoft Reveals Teammates \u2013 An AI Experiment to Change the Game - Ubisoft",
+        "description": "The team behind last year\u2019s Neo NPC is building on their experience to develop the future of generative play as an enhancement to gameplay with a new experimental experience already launched as a closed playtest.",
+        "source_link": "https://news.ubisoft.com/en-us/article/3mWlITIuWuu0MoVuR6o8ps/ubisoft-reveals-teammates-an-ai-experiment-to-change-the-game"
+      },
+      {
+        "rank": 5,
         "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/11/Xbox-Wire-FSE-Blog-Image-0c875350f0217148a2fa-scaled.jpg",
         "title": "Starting today, Full Screen Experience for Windows 11 PCs is available for Xbox Insiders! - Xbox Wire",
         "description": null,
         "source_link": "https://news.xbox.com/en-us/2025/11/21/the-full-screen-experience-is-available-for-xbox-insiders-starting-today/"
       },
       {
-        "rank": 2,
-        "image": "https://images.nintendolife.com/0a3f9e36f6e34/large.jpg",
-        "title": "Kirby Air Riders: The Best Custom Machines We've Seen So Far - Nintendo Life",
-        "description": "And how to make your own!",
-        "source_link": "https://www.nintendolife.com/guides/kirby-air-riders-the-best-custom-machines-weve-seen-so-far"
+        "rank": 6,
+        "image": "https://www.bleepstatic.com/content/hl-images/2025/02/07/Windows_11.jpg",
+        "title": "Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop - BleepingComputer",
+        "description": "Microsoft has released an out-of-band cumulative update to fix a known issue causing the November 2025 KB5068966 hotpatch update to reinstall on Windows 11 systems repeatedly.",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://assetsio.gnwcdn.com/Hornet-falls-through-the-air-in-Silksong.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Any future Hollow Knight games after Silksong would \"exist alongside\" the others as standalone entries, says Team Cherry - Eurogamer",
         "description": "Team Cherry has teased more Hollow Knight releases beyond Silksong.",
         "source_link": "https://www.eurogamer.net/any-future-hollow-knight-games-after-silksong-would-exist-alongside-the-others-as-standalone-entry-says-team-cherry"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/DSC06844.jpg?quality=90&strip=all&crop=0%2C10.806933475316%2C100%2C78.386133049368&w=1200",
         "title": "Apple\u2019s cheapest iPad is already $70 off for Black Friday - The Verge",
         "description": "Apple\u2019s 11th-gen iPad is down to a record low price of $279 ($70 off) for Black Friday. The latest iPad Pro and iPad Air are also on sale.",
         "source_link": "https://www.theverge.com/tech/825254/ipad-a16-black-friday-deal-sale-2025"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/analogue_3d.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
         "title": "The Analogue 3D will be available again next week, but with a $20 price bump - The Verge",
         "description": "\ufeffThe company is blaming tariffs for the price increase from $249.99 to $269.99.",
         "source_link": "https://www.theverge.com/news/826302/analogue-3d-console-nintendo-64-restock-price-increase"
-      },
-      {
-        "rank": 6,
-        "image": "https://regmedia.co.uk/2019/03/01/shutterstock_infuriated.jpg",
-        "title": "Google Workspace AI 'smart features' are on by default - theregister.com",
-        "description": ": Want out of those new 'smart features'? We\u2019ve got you covered",
-        "source_link": "https://www.theregister.com/2025/11/21/google_workspace_smart_features/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-17-pro-cosmic-orange-fernando-hold.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "New iPhone 18 Pro design will reportedly make two key changes - 9to5Mac",
-        "description": "Supply chain leaks keep coming for next year\u2019s iPhones, and the latest reporting says the new iPhone 18 Pro will have two key design changes.",
-        "source_link": "https://9to5mac.com/2025/11/21/new-iphone-18-pro-design-will-reportedly-make-two-key-changes/"
-      },
-      {
-        "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/VST_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "AI agents are invading your PC - The Verge",
-        "description": "Microsoft is making a big push to put agentic AI everywhere in your computer, plus our thoughts on Meta\u2019s big win in court and the latest from Brendan Carr\u2019s FCC.",
-        "source_link": "https://www.theverge.com/podcast/825979/ai-agents-are-invading-your-pc"
-      },
-      {
-        "rank": 9,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/11/starship-v3.jpg?resize=1200,847",
-        "title": "SpaceX\u2019s upgraded Starship suffers explosion during testing - TechCrunch",
-        "description": "It may not have been a massive fireball, but SpaceX now has more work to do before it can kick off this next-generation version of Starship.",
-        "source_link": "https://techcrunch.com/2025/11/21/spacexs-upgraded-starship-suffers-explosion-during-testing/"
-      },
-      {
-        "rank": 10,
-        "image": "https://assets-prd.ignimgs.com/2025/11/19/playstations-black-friday-sale-is-live-ign-2025-1763554094668.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "PlayStation's 2025 Black Friday Sale is Live: $100 Off PS5 Consoles, 33% Off PS Plus, and More - IGN",
-        "description": "PlayStation's official Black Friday 2025 sale is now live across all retailers. From Nov. 21 to Dec. 1, you can save $100 off PS5 consoles, $20 off DualSense Controllers, 33% off PS Plus, and more.",
-        "source_link": "https://www.ign.com/articles/playstation-black-friday-sale-is-officially-live-2025"
       }
     ],
     "trending_movies": [
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought whe...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
+        "image": "https://image.tmdb.org/t/p/w200/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg",
+        "title": "The Shadow's Edge",
+        "description": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves....",
+        "source_link": "https://www.themoviedb.org/movie/1419406"
       }
     ]
   }
