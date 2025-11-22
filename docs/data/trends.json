@@ -1,69 +1,76 @@
 {
-  "last_updated": "November 22, 2025, 03:01 UTC",
+  "last_updated": "November 22, 2025, 04:18 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://helios-i.mashable.com/imagery/articles/06p5xyMWkjc7AXM74NU6WDP/hero-image.fill.size_1200x675.v1763661459.jpg",
+        "title": "65+ best Black Friday deals 2025: Apple, Kindle, Ninja on sale - Mashable",
+        "description": "Some of the most sought-after products of the year are already on sale at record prices.",
+        "source_link": "https://mashable.com/article/best-early-black-friday-2025-deals"
+      },
+      {
+        "rank": 2,
+        "image": "https://helios-i.mashable.com/imagery/articles/03YS4gnfqPKyTQvvEZ7nKPS/hero-image.fill.size_1200x675.v1763680570.png",
+        "title": "75+ Black Friday deals at Best Buy that aren't cheaper anywhere else - Mashable",
+        "description": "Best Buy's official Black Friday sale started on Nov. 20, and you can find savings in every category.",
+        "source_link": "https://mashable.com/article/best-black-friday-best-buy-deals-2025"
+      },
+      {
+        "rank": 3,
         "image": "https://tgp-us.b-cdn.net/wp-content/uploads/2025/11/destiny-2-renegades-launch-trailer-leak-234.jpg",
         "title": "Destiny 2 Renegades launch trailer leaks early via YouTube ad ahead of developer livestream - The Game Post",
         "description": "A new Destiny 2 Renegades launch trailer leak has appeared via a YouTube ad, giving us our first look at new story cinematics, characters, and Star Wars-style ships ahead of Bungie\u2019s developer livestream.",
         "source_link": "https://thegamepost.com/destiny-2-renegades-launch-trailer-leaks-youtube-ad/"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-1293225672-1152x648-1763676677.jpg",
         "title": "HP and Dell disable HEVC support built into their laptops\u2019 CPUs - Ars Technica",
         "description": "HEVC licensing gets more expensive in January.",
         "source_link": "https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix9iH8m_72Rg/v0/1200x800.jpg",
         "title": "Google Launches Unauthorized Pixel-to-iPhone File Sharing With Apple\u2019s AirDrop - Bloomberg.com",
         "description": "Alphabet Inc.\u2019s Google said it has developed a way for its latest Pixel smartphones to exchange images and other files with iPhones using Apple Inc.\u2019s AirDrop protocol, a bold attempt to undermine the exclusivity of its rival\u2019s closely guarded ecosystem.",
         "source_link": "https://www.bloomberg.com/news/articles/2025-11-20/google-s-latest-pixel-phones-can-now-airdrop-with-iphones"
       },
       {
-        "rank": 4,
+        "rank": 6,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/06/copy-of-169-12.png?w=1600&h=900&fit=crop",
+        "title": "T-Mobile will now start charging for a perk that used to be free - Android Police",
+        "description": "Passing the cost on to you",
+        "source_link": "https://www.androidpolice.com/t-mobile-will-now-start-charging-for-a-perk-that-used-to-be-free/"
+      },
+      {
+        "rank": 7,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/The-most-impressive-thing-about-the-M5-chip-isnt-found-inside-the-MacBook-Pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple shows how much faster the M5 runs local LLMs compared to the M4 - 9to5Mac",
         "description": "A new post on Apple\u2019s Machine Learning Research blog shows how much the M5 improved over the M4 when it comes to running a local LLM.",
         "source_link": "https://9to5mac.com/2025/11/20/apple-shows-how-much-faster-the-m5-runs-local-llms-compared-to-the-m4/"
       },
       {
-        "rank": 5,
-        "image": "https://kotaku.com/app/uploads/2025/11/af6a7269f71e4ff5974bbb35cb78b65e.jpg",
-        "title": "Borderlands 4's First DLC Is Now Free And Out For Everyone - Kotaku",
-        "description": "Bounty Pack 1: How Rush Saved Mercenary Day is out now on all platforms and adds a new questline, guns, and cosmetics",
-        "source_link": "https://kotaku.com/borderlands-4s-first-dlc-free-smaller-fixes-gearbox-christmas-mercenary-day-pack-2000645909"
+        "rank": 8,
+        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4608008-borderlands4bountypack1.jpg",
+        "title": "Borderlands 4 Gets Free DLC Today - GameSpot",
+        "description": "Get into the holiday spirit with Borderlands 4's Bounty Pack 1, How Rush Saved Mercenary Day.",
+        "source_link": "https://www.gamespot.com/articles/borderlands-4-gets-free-dlc-today/1100-6536403/"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://images.nintendolife.com/30a1cdb77a175/large.jpg",
         "title": "Gallery: Hades 2's Switch 2 Physical Boasts A Stunning Reversible Cover - Nintendo Life",
         "description": "By the beard of Zeus!",
         "source_link": "https://www.nintendolife.com/news/2025/11/gallery-hades-2s-switch-2-physical-boasts-a-stunning-reversible-cover"
       },
       {
-        "rank": 7,
+        "rank": 10,
         "image": "https://kotaku.com/app/uploads/2025/11/image-2-1-1200x675.jpg",
         "title": "Open-World RPG Where Winds Meet Has It All: Evil Geese, AI Chatbots, And A $40,000 Skin - Kotaku",
         "description": "The wildly popular Wuxia game jams a lot into its world, to varying degrees of success",
         "source_link": "https://kotaku.com/where-winds-meet-game-reddit-steam-reviews-2000645900"
-      },
-      {
-        "rank": 8,
-        "image": "https://blog.tipranks.com/wp-content/uploads/2025/11/aaa-114-750x406.jpg",
-        "title": "In Time for the Holidays, Apple (AAPL) Launches the \u2018iPhone Pocket\u2019 - TipRanks",
-        "description": "The knitted strap comes with an expensive price tag.",
-        "source_link": "https://www.tipranks.com/news/in-time-for-the-holidays-apple-aapl-launches-the-iphone-pocket"
-      },
-      {
-        "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2025/11/zoopunk.jpg",
-        "title": "Zoopunk Was Used To Demonstrate Generative AI Assets - Kotaku",
-        "description": "Zoopunk was part of today's Xbox Partner Preview showcase",
-        "source_link": "https://kotaku.com/zoopunk-generative-ai-demo-trailer-xbox-showcase-2000645874"
       }
     ],
     "trending_movies": [
@@ -97,7 +104,7 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/6Qs0Wcupkdh3Svfcp7xbjPdUVRM.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/t3Rs1BeIDXhwjOt10iyjiFe7BpL.jpg",
         "title": "Nobody",
         "description": "The Little Pig Yao decides to leave Langlang Mountain to join the pilgrimage. On the journey west, what trials will the little monsters face? In the e...",
         "source_link": "https://www.themoviedb.org/movie/1304434"
@@ -118,17 +125,17 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought whe...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
         "title": "Frankenstein",
         "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
         "source_link": "https://www.themoviedb.org/movie/1062722"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought whe...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 10,
