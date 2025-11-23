@@ -1,27 +1,27 @@
 {
-  "last_updated": "November 23, 2025, 01:25 UTC",
+  "last_updated": "November 23, 2025, 03:24 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/screen1c-1152x648.jpg",
-        "title": "Return to the year 2000 with classic multiplayer DOS games in your browser - Ars Technica",
-        "description": "There are fan-made browser versions of Red Alert, Unreal Tournament, and more.",
-        "source_link": "https://arstechnica.com/gaming/2025/11/return-to-the-year-2000-with-classic-multiplayer-dos-games-in-your-browser/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK459_09.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Google denies \u2018misleading\u2019 reports of Gmail using your emails to train AI - The Verge",
+        "description": "Google is pushing back on posts claiming it has changed its policy to use your Gmail messages and attachments to train AI models, telling The Verge that it does not train Gmail content for training Gemini.",
+        "source_link": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out"
       },
       {
         "rank": 2,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/asus-router-1024x648.jpg",
-        "title": "How to know if your Asus router is one of thousands hacked by China-state hackers - arstechnica.com",
-        "description": "So far, the hackers are laying low, likely for later use.",
-        "source_link": "https://arstechnica.com/security/2025/11/thousands-of-hacked-asus-routers-are-under-control-of-suspected-china-state-hackers/"
+        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4608977-fallout4anniversaryedition.jpg",
+        "title": "Fallout 4 Gets New Update Following Anniversary Edition Backlash - GameSpot",
+        "description": "The Wasteland needs some help getting back on its feet after the fallout from the Anniversary edition of Fallout 4.",
+        "source_link": "https://www.gamespot.com/articles/fallout-4-gets-new-update-following-anniversary-edition-backlash/1100-6536446/"
       },
       {
         "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Xbox-Wire-FSE-Blog-Image-0c875350f0217148a2fa-2048x1152-1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "You can now try the Xbox Full Screen Experience on any PC, laptop, or tablet - The Verge",
-        "description": "Microsoft is bringing the Xbox Full Screen Experience (FSE) to laptops, desktops, and tablets. The new feature is rolling out as part of new Windows Insider builds.",
-        "source_link": "https://www.theverge.com/news/826695/microsoft-xbox-full-screen-experience-pc-laptop-tablet-windows-insider"
+        "image": "https://variety.com/wp-content/uploads/2025/11/Apple-TV.png?w=764&h=509&crop=1",
+        "title": "Apple TV Streaming Service Drops Price 54% in Black Friday Deal - Variety",
+        "description": "Apple on Friday introduced a new limited-time offer: New and returning Apple TV subscribers can sign up to get six months of the streaming service for $5.99 per month -- 54% off the regular price.",
+        "source_link": "https://variety.com/2025/tv/news/apple-tv-black-friday-deal-price-drop-1236588772/"
       },
       {
         "rank": 4,
@@ -39,31 +39,38 @@
       },
       {
         "rank": 6,
+        "image": "https://images.nintendolife.com/0a3f9e36f6e34/large.jpg",
+        "title": "Kirby Air Riders: The Best Custom Machines We've Seen So Far - Nintendo Life",
+        "description": "And how to make your own!",
+        "source_link": "https://www.nintendolife.com/guides/kirby-air-riders-the-best-custom-machines-weve-seen-so-far"
+      },
+      {
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Switch2_KirbyAirRiders_scrn_03.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
         "title": "In Kirby Air Riders, expression is more fun than racing - The Verge",
         "description": "Kirby Air Riders on the Nintendo Switch 2, a sequel to the quirky GameCube racing game, has a robust suite of customization options that are fun to play with.",
         "source_link": "https://www.theverge.com/games/826488/kirby-air-riders-nintendo-switch-2-vehicle-customization"
       },
       {
-        "rank": 7,
+        "rank": 8,
+        "image": "https://kotaku.com/app/uploads/2025/10/samsung-990-pro-ssd-2tb.jpg",
+        "title": "Samsung Is Going Nuts, 990 Pro 2TB SSD Going for Pennies When You Buy on Amazon - Kotaku",
+        "description": "7,450 MB/s speeds and 2TB capacity at the best value for money.",
+        "source_link": "https://kotaku.com/samsung-is-going-nuts-990-pro-2tb-ssd-going-for-pennies-when-you-buy-on-amazon-2000646246"
+      },
+      {
+        "rank": 9,
         "image": "https://www.investors.com/wp-content/uploads/2025/11/sotd-for-11-21-2025-desktop-1.png",
         "title": "Apple, IBD Stock Of The Day, Sets Up Before Holiday Season - Investor's Business Daily",
         "description": "The consumer electronics giant prepares for a busy shopping season.",
         "source_link": "https://www.investors.com/research/ibd-stock-of-the-day/apple-stock-aapl-holiday-season-forecast/"
       },
       {
-        "rank": 8,
+        "rank": 10,
         "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5YY8eeQIZh8QolUZwzJOhF/8a826f0cfcca1a41dda148c808096435/Ubisoft_Teammates_XP_Sofia_and_Pablo.jpg",
         "title": "Ubisoft Reveals Teammates \u2013 An AI Experiment to Change the Game - Ubisoft",
         "description": "The team behind last year\u2019s Neo NPC is building on their experience to develop the future of generative play as an enhancement to gameplay with a new experimental experience already launched as a closed playtest.",
         "source_link": "https://news.ubisoft.com/en-us/article/3mWlITIuWuu0MoVuR6o8ps/ubisoft-reveals-teammates-an-ai-experiment-to-change-the-game"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.bleepstatic.com/content/hl-images/2025/02/07/Windows_11.jpg",
-        "title": "Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop - BleepingComputer",
-        "description": "Microsoft has released an out-of-band cumulative update to fix a known issue causing the November 2025 KB5068966 hotpatch update to reinstall on Windows 11 systems repeatedly.",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/"
       }
     ],
     "trending_movies": [
@@ -111,10 +118,10 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/hrze9JXp2QJpc2WjLfSUtRxyYSb.jpg",
-        "title": "Afterburn",
-        "description": "Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was destroyed by a massive solar flare, leaving what life remains mutated...",
-        "source_link": "https://www.themoviedb.org/movie/507244"
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought whe...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 8,
@@ -132,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
+        "image": "https://image.tmdb.org/t/p/w200/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg",
+        "title": "The Shadow's Edge",
+        "description": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves....",
+        "source_link": "https://www.themoviedb.org/movie/1419406"
       }
     ]
   }
