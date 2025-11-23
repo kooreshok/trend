@@ -1,55 +1,55 @@
 {
-  "last_updated": "November 23, 2025, 20:18 UTC",
+  "last_updated": "November 23, 2025, 21:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://assetsio.gnwcdn.com/Black-Ops-7-Camos---Header.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Call of Duty: Black Ops 7 European sales are 63% down on Battlefield 6, and 50% down on Black Ops 6 - Eurogamer",
-        "description": "Call of Duty: Black Ops 7 has had a disappointing launch in Europe, with sales reportedly down 63 percent compared to B\u2026",
-        "source_link": "https://www.eurogamer.net/call-of-duty-black-ops-7-european-sales-are-63-down-on-battlefield-6-and-50-down-on-black-ops-6"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/How-To-Spotify-Playlists-Transfer.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "Spotify simplifies importing playlists from other streaming services - The Verge",
+        "description": "Spotify\u2019s mobile app now lets you import playlists from other streaming services using TuneMyMusic.",
+        "source_link": "https://www.theverge.com/news/825646/spotify-playlist-import"
       },
       {
         "rank": 2,
+        "image": "https://helios-i.mashable.com/imagery/articles/059eI6nm88qxPWPB08RWgGr/hero-image.fill.size_1200x675.v1763830281.jpg",
+        "title": "Google says it isn't using your Gmail to train AI - Mashable",
+        "description": "The company is denying viral claims that it's accessing users' emails to train AI models.",
+        "source_link": "https://mashable.com/article/google-training-ai-with-gmail-emails-smart-features-debunked"
+      },
+      {
+        "rank": 3,
+        "image": "https://helios-i.mashable.com/imagery/articles/02N9JHj4znSQIoFr3dpxTgF/hero-image.fill.size_1200x675.v1763668307.jpg",
+        "title": "Which headphones should I get? Bose QC Ultra (Gen 2), Sony XM6, and AirPods Max - Mashable",
+        "description": "One of these flagship models is the market\u2019s top pick \u2014 find out which.",
+        "source_link": "https://mashable.com/article/bose-qc-ultra-gen-2-vs-airpods-max-sony-xm6-headphones"
+      },
+      {
+        "rank": 4,
         "image": "https://www.cnet.com/a/img/resize/e50d1c601b1537ae286cf023845993bf61279944/hub/2025/11/21/641bea71-528a-4863-a89b-01511fc294b5/nano-banana-vt.png?auto=webp&fit=crop&height=675&width=1200",
         "title": "Google's Nano Banana Pro Makes Ultrarealistic AI Images. It Scares the Hell Out of Me - CNET",
         "description": "Google's new AI image model is so powerful that it erases what was left of the thin line between real and AI-generated imagery.",
         "source_link": "https://www.cnet.com/tech/services-and-software/googles-nano-banana-pro-makes-ultrarealistic-ai-images-it-scares-the-hell-out-of-me/"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://assetsio.gnwcdn.com/donlan_.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "My favourite thing about the Xbox 360, 20 years on? It did something no other console has managed since - Eurogamer",
         "description": "When I look back on most consoles, I'm largely looking back at the games. The PS3 is LittleBigPlanet and Metal Gear 4, \u2026",
         "source_link": "https://www.eurogamer.net/a-building-filled-with-dreamers-my-favourite-thing-about-the-xbox-360"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://images.nintendolife.com/4a54b07d44c8b/large.jpg",
         "title": "ICYMI: Metroid Prime 4: Beyond Estimated Switch 2 And Switch File Size Revealed - Nintendo Life",
         "description": "Make some space",
         "source_link": "https://www.nintendolife.com/news/2025/11/icymi-metroid-prime-4-beyond-estimated-switch-2-and-switch-file-size-revealed"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://images.timeextension.com/f48562fda5673/large.jpg",
         "title": "Analogue 3D Goes Back Up For Pre-Order Next Week, But There's A Catch - Time Extension",
         "description": "Price is jumping to $270",
         "source_link": "https://www.timeextension.com/news/2025/11/analogue-3d-goes-back-up-for-pre-order-next-week-but-theres-a-catch"
-      },
-      {
-        "rank": 6,
-        "image": "https://media.wired.com/photos/6920f1c8b8c618581c166ccd/191:100/w_1280,c_limit/SM_front_b.jpg",
-        "title": "Valve Says Steam Machine Isn't a Console\u2014but It Is - WIRED",
-        "description": "Consoles are good, actually.",
-        "source_link": "https://www.wired.com/story/valve-says-steam-machine-isnt-a-console-but-it-is/"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.nintendolife.com/7e16dd3ecb7b8/large.jpg",
-        "title": "New Limited-Time Pok\u00e9mon Scarlet And Violet Distribution Now Available - Nintendo Life",
-        "description": "Add a Whimsicott to your party",
-        "source_link": "https://www.nintendolife.com/news/2025/11/new-limited-time-pokemon-scarlet-and-violet-distribution-now-available"
       }
     ],
     "trending_movies": [
@@ -83,10 +83,10 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/n8Gn8xNIeOxAzHP6uusdGlUYu4s.jpg",
-        "title": "Altered",
-        "description": "In an alternate present, genetically enhanced humans dominate society. Outcasts Leon and Chloe fight for justice against corrupt politicians exploitin...",
-        "source_link": "https://www.themoviedb.org/movie/1309012"
+        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
       },
       {
         "rank": 6,
@@ -97,10 +97,10 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
+        "image": "https://image.tmdb.org/t/p/w200/n8Gn8xNIeOxAzHP6uusdGlUYu4s.jpg",
+        "title": "Altered",
+        "description": "In an alternate present, genetically enhanced humans dominate society. Outcasts Leon and Chloe fight for justice against corrupt politicians exploitin...",
+        "source_link": "https://www.themoviedb.org/movie/1309012"
       },
       {
         "rank": 8,
@@ -118,10 +118,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/sSdpXGBNt3mQzjZZVK6eV5NcPdc.jpg",
-        "title": "Anniversary",
-        "description": "When Ellen and Paul\u2019s son introduces his new girlfriend one lovely afternoon at their 25th anniversary party, no one suspects that it is the beginning...",
-        "source_link": "https://www.themoviedb.org/movie/1126336"
+        "image": "https://image.tmdb.org/t/p/w200/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg",
+        "title": "The Shadow's Edge",
+        "description": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves....",
+        "source_link": "https://www.themoviedb.org/movie/1419406"
       }
     ]
   }
