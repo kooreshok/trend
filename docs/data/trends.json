@@ -1,69 +1,69 @@
 {
-  "last_updated": "November 22, 2025, 23:15 UTC",
+  "last_updated": "November 23, 2025, 01:25 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/screen1c-1152x648.jpg",
+        "title": "Return to the year 2000 with classic multiplayer DOS games in your browser - Ars Technica",
+        "description": "There are fan-made browser versions of Red Alert, Unreal Tournament, and more.",
+        "source_link": "https://arstechnica.com/gaming/2025/11/return-to-the-year-2000-with-classic-multiplayer-dos-games-in-your-browser/"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/asus-router-1024x648.jpg",
+        "title": "How to know if your Asus router is one of thousands hacked by China-state hackers - arstechnica.com",
+        "description": "So far, the hackers are laying low, likely for later use.",
+        "source_link": "https://arstechnica.com/security/2025/11/thousands-of-hacked-asus-routers-are-under-control-of-suspected-china-state-hackers/"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Xbox-Wire-FSE-Blog-Image-0c875350f0217148a2fa-2048x1152-1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "You can now try the Xbox Full Screen Experience on any PC, laptop, or tablet - The Verge",
+        "description": "Microsoft is bringing the Xbox Full Screen Experience (FSE) to laptops, desktops, and tablets. The new feature is rolling out as part of new Windows Insider builds.",
+        "source_link": "https://www.theverge.com/news/826695/microsoft-xbox-full-screen-experience-pc-laptop-tablet-windows-insider"
+      },
+      {
+        "rank": 4,
+        "image": "https://assets-prd.ignimgs.com/2025/11/21/feature-image-56-1763750147224.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Early Black Friday Deals: Best Buy Has Upped Their Game, and So Has Amazon - IGN",
+        "description": "Best Buy and Amazon unleash massive Early Black Friday 2025 deals, including huge savings on gaming PCs, consoles, controllers, 3D printers, collectibles, handhelds, GPUs, and more.",
+        "source_link": "https://www.ign.com/articles/early-black-friday-deals-november-21"
+      },
+      {
+        "rank": 5,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/AirPods-Pro-3-review0002.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "AirPods Pro 3 and AirPods 4 drop to their best prices yet for Black Friday Week [Updated] - 9to5Mac",
+        "description": "Amazon drops AirPods Pro 3 to their best price ever, with AirPods 4 ANC also seeing a major Black Friday discount.",
+        "source_link": "https://9to5mac.com/2025/11/21/best-airpods-4-and-airpods-pro-deals-for-black-friday-week/"
+      },
+      {
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Switch2_KirbyAirRiders_scrn_03.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
         "title": "In Kirby Air Riders, expression is more fun than racing - The Verge",
         "description": "Kirby Air Riders on the Nintendo Switch 2, a sequel to the quirky GameCube racing game, has a robust suite of customization options that are fun to play with.",
         "source_link": "https://www.theverge.com/games/826488/kirby-air-riders-nintendo-switch-2-vehicle-customization"
       },
       {
-        "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25184511/111323_PlayStation_Portal_ADiBenedetto_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Sony\u2019s PlayStation Portal just got a rare discount for Black Friday - The Verge",
-        "description": "Sony\u2019s PlayStation Portal rarely goes on sale, but now it\u2019s currently at an all-time low price thanks to this Black Friday sale.",
-        "source_link": "https://www.theverge.com/gadgets/825985/sony-playstation-portal-black-friday-deal-sale-2025"
-      },
-      {
-        "rank": 3,
+        "rank": 7,
         "image": "https://www.investors.com/wp-content/uploads/2025/11/sotd-for-11-21-2025-desktop-1.png",
         "title": "Apple, IBD Stock Of The Day, Sets Up Before Holiday Season - Investor's Business Daily",
         "description": "The consumer electronics giant prepares for a busy shopping season.",
         "source_link": "https://www.investors.com/research/ibd-stock-of-the-day/apple-stock-aapl-holiday-season-forecast/"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5YY8eeQIZh8QolUZwzJOhF/8a826f0cfcca1a41dda148c808096435/Ubisoft_Teammates_XP_Sofia_and_Pablo.jpg",
         "title": "Ubisoft Reveals Teammates \u2013 An AI Experiment to Change the Game - Ubisoft",
         "description": "The team behind last year\u2019s Neo NPC is building on their experience to develop the future of generative play as an enhancement to gameplay with a new experimental experience already launched as a closed playtest.",
         "source_link": "https://news.ubisoft.com/en-us/article/3mWlITIuWuu0MoVuR6o8ps/ubisoft-reveals-teammates-an-ai-experiment-to-change-the-game"
       },
       {
-        "rank": 5,
-        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/11/Xbox-Wire-FSE-Blog-Image-0c875350f0217148a2fa-scaled.jpg",
-        "title": "Starting today, Full Screen Experience for Windows 11 PCs is available for Xbox Insiders! - Xbox Wire",
-        "description": null,
-        "source_link": "https://news.xbox.com/en-us/2025/11/21/the-full-screen-experience-is-available-for-xbox-insiders-starting-today/"
-      },
-      {
-        "rank": 6,
+        "rank": 9,
         "image": "https://www.bleepstatic.com/content/hl-images/2025/02/07/Windows_11.jpg",
         "title": "Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop - BleepingComputer",
         "description": "Microsoft has released an out-of-band cumulative update to fix a known issue causing the November 2025 KB5068966 hotpatch update to reinstall on Windows 11 systems repeatedly.",
         "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/Hornet-falls-through-the-air-in-Silksong.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Any future Hollow Knight games after Silksong would \"exist alongside\" the others as standalone entries, says Team Cherry - Eurogamer",
-        "description": "Team Cherry has teased more Hollow Knight releases beyond Silksong.",
-        "source_link": "https://www.eurogamer.net/any-future-hollow-knight-games-after-silksong-would-exist-alongside-the-others-as-standalone-entry-says-team-cherry"
-      },
-      {
-        "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/DSC06844.jpg?quality=90&strip=all&crop=0%2C10.806933475316%2C100%2C78.386133049368&w=1200",
-        "title": "Apple\u2019s cheapest iPad is already $70 off for Black Friday - The Verge",
-        "description": "Apple\u2019s 11th-gen iPad is down to a record low price of $279 ($70 off) for Black Friday. The latest iPad Pro and iPad Air are also on sale.",
-        "source_link": "https://www.theverge.com/tech/825254/ipad-a16-black-friday-deal-sale-2025"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/analogue_3d.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-        "title": "The Analogue 3D will be available again next week, but with a $20 price bump - The Verge",
-        "description": "\ufeffThe company is blaming tariffs for the price increase from $249.99 to $269.99.",
-        "source_link": "https://www.theverge.com/news/826302/analogue-3d-console-nintendo-64-restock-price-increase"
       }
     ],
     "trending_movies": [
@@ -83,17 +83,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
-        "title": "Wicked: For Good",
-        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
-        "source_link": "https://www.themoviedb.org/movie/967941"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
         "title": "After the Hunt",
         "description": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and ...",
         "source_link": "https://www.themoviedb.org/movie/1265063"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "title": "Wicked: For Good",
+        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
+        "source_link": "https://www.themoviedb.org/movie/967941"
       },
       {
         "rank": 5,
@@ -111,17 +111,17 @@
       },
       {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/hrze9JXp2QJpc2WjLfSUtRxyYSb.jpg",
+        "title": "Afterburn",
+        "description": "Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was destroyed by a massive solar flare, leaving what life remains mutated...",
+        "source_link": "https://www.themoviedb.org/movie/507244"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
         "title": "Frankenstein",
         "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
         "source_link": "https://www.themoviedb.org/movie/1062722"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
       },
       {
         "rank": 9,
@@ -132,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg",
-        "title": "The Shadow's Edge",
-        "description": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves....",
-        "source_link": "https://www.themoviedb.org/movie/1419406"
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
       }
     ]
   }
