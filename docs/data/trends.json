@@ -1,76 +1,76 @@
 {
-  "last_updated": "November 23, 2025, 04:30 UTC",
+  "last_updated": "November 23, 2025, 05:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.teslarati.com/wp-content/uploads/2025/11/SpaceX-Starship-V3-Booster-18-1000x600.jpeg",
+        "title": "SpaceX issues statement on Starship V3 Booster 18 anomaly - Teslarati",
+        "description": "The incident unfolded during gas-system pressure testing at the company\u2019s Massey facility in Starbase, Texas.",
+        "source_link": "https://www.teslarati.com/spacex-issues-statement-on-starship-v3-booster-18-anomaly/"
+      },
+      {
+        "rank": 2,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK459_09.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Google denies \u2018misleading\u2019 reports of Gmail using your emails to train AI - The Verge",
         "description": "Google is pushing back on posts claiming it has changed its policy to use your Gmail messages and attachments to train AI models, telling The Verge that it does not train Gmail content for training Gemini.",
         "source_link": "https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/screen1c-1152x648.jpg",
+        "title": "Return to the year 2000 with classic multiplayer DOS games in your browser - Ars Technica",
+        "description": "There are fan-made browser versions of Red Alert, Unreal Tournament, and more.",
+        "source_link": "https://arstechnica.com/gaming/2025/11/return-to-the-year-2000-with-classic-multiplayer-dos-games-in-your-browser/"
+      },
+      {
+        "rank": 4,
         "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4608977-fallout4anniversaryedition.jpg",
         "title": "Fallout 4 Gets New Update Following Anniversary Edition Backlash - GameSpot",
         "description": "The Wasteland needs some help getting back on its feet after the fallout from the Anniversary edition of Fallout 4.",
         "source_link": "https://www.gamespot.com/articles/fallout-4-gets-new-update-following-anniversary-edition-backlash/1100-6536446/"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://gizmodo.com/app/uploads/2025/11/Android-Auto-Gemini-1200x675.jpg",
+        "title": "Google Adds Gemini AI-Assistant to Android Auto - Gizmodo",
+        "description": "Gemini is spreading its tendrils to millions of additional vehicles.",
+        "source_link": "https://gizmodo.com/google-adds-gemini-ai-assistant-to-android-auto-2000689750"
+      },
+      {
+        "rank": 6,
         "image": "https://variety.com/wp-content/uploads/2025/11/Apple-TV.png?w=764&h=509&crop=1",
         "title": "Apple TV Streaming Service Drops Price 54% in Black Friday Deal - Variety",
         "description": "Apple on Friday introduced a new limited-time offer: New and returning Apple TV subscribers can sign up to get six months of the streaming service for $5.99 per month -- 54% off the regular price.",
         "source_link": "https://variety.com/2025/tv/news/apple-tv-black-friday-deal-price-drop-1236588772/"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://assets-prd.ignimgs.com/2025/11/21/feature-image-56-1763750147224.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Early Black Friday Deals: Best Buy Has Upped Their Game, and So Has Amazon - IGN",
         "description": "Best Buy and Amazon unleash massive Early Black Friday 2025 deals, including huge savings on gaming PCs, consoles, controllers, 3D printers, collectibles, handhelds, GPUs, and more.",
         "source_link": "https://www.ign.com/articles/early-black-friday-deals-november-21"
       },
       {
-        "rank": 5,
+        "rank": 8,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/AirPods-Pro-3-review0002.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "AirPods Pro 3 and AirPods 4 drop to their best prices yet for Black Friday Week [Updated] - 9to5Mac",
         "description": "Amazon drops AirPods Pro 3 to their best price ever, with AirPods 4 ANC also seeing a major Black Friday discount.",
         "source_link": "https://9to5mac.com/2025/11/21/best-airpods-4-and-airpods-pro-deals-for-black-friday-week/"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://images.nintendolife.com/0a3f9e36f6e34/large.jpg",
         "title": "Kirby Air Riders: The Best Custom Machines We've Seen So Far - Nintendo Life",
         "description": "And how to make your own!",
         "source_link": "https://www.nintendolife.com/guides/kirby-air-riders-the-best-custom-machines-weve-seen-so-far"
       },
       {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Switch2_KirbyAirRiders_scrn_03.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "In Kirby Air Riders, expression is more fun than racing - The Verge",
-        "description": "Kirby Air Riders on the Nintendo Switch 2, a sequel to the quirky GameCube racing game, has a robust suite of customization options that are fun to play with.",
-        "source_link": "https://www.theverge.com/games/826488/kirby-air-riders-nintendo-switch-2-vehicle-customization"
-      },
-      {
-        "rank": 8,
-        "image": "https://kotaku.com/app/uploads/2025/10/samsung-990-pro-ssd-2tb.jpg",
-        "title": "Samsung Is Going Nuts, 990 Pro 2TB SSD Going for Pennies When You Buy on Amazon - Kotaku",
-        "description": "7,450 MB/s speeds and 2TB capacity at the best value for money.",
-        "source_link": "https://kotaku.com/samsung-is-going-nuts-990-pro-2tb-ssd-going-for-pennies-when-you-buy-on-amazon-2000646246"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.investors.com/wp-content/uploads/2025/11/sotd-for-11-21-2025-desktop-1.png",
-        "title": "Apple, IBD Stock Of The Day, Sets Up Before Holiday Season - Investor's Business Daily",
-        "description": "The consumer electronics giant prepares for a busy shopping season.",
-        "source_link": "https://www.investors.com/research/ibd-stock-of-the-day/apple-stock-aapl-holiday-season-forecast/"
-      },
-      {
         "rank": 10,
-        "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5YY8eeQIZh8QolUZwzJOhF/8a826f0cfcca1a41dda148c808096435/Ubisoft_Teammates_XP_Sofia_and_Pablo.jpg",
-        "title": "Ubisoft Reveals Teammates \u2013 An AI Experiment to Change the Game - Ubisoft",
-        "description": "The team behind last year\u2019s Neo NPC is building on their experience to develop the future of generative play as an enhancement to gameplay with a new experimental experience already launched as a closed playtest.",
-        "source_link": "https://news.ubisoft.com/en-us/article/3mWlITIuWuu0MoVuR6o8ps/ubisoft-reveals-teammates-an-ai-experiment-to-change-the-game"
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1337403704/image_1337403704.jpg?io=getty-c-w630",
+        "title": "Google continues to test ads in AI Mode results (update) (GOOGL:NASDAQ) - Seeking Alpha",
+        "description": "Google (GOOG) (GOOGL) has started rolling out ads in AI mode for the first time ever. The company is now showing ads at the bottom of the results in AI Mode.",
+        "source_link": "https://seekingalpha.com/news/4525029-google-rolls-out-ads-in-ai-mode-results"
       }
     ],
     "trending_movies": [
