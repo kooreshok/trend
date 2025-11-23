@@ -1,76 +1,62 @@
 {
-  "last_updated": "November 23, 2025, 16:18 UTC",
+  "last_updated": "November 23, 2025, 17:13 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6921bfadfa186c6a61a92933/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "Google AI Has Erased Avengers: Doomsday, Fortnite And More Leaks Overnight - Forbes",
+        "description": "Google's new Nano Banana Pro image generation system is now so photorealistic that the entire concept of movie, TV and video game leaks has been destroyed overnight.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2025/11/22/google-ai-has-erased-avengers-doomsday-fortnite-and-more-leaks-overnight/"
+      },
+      {
+        "rank": 2,
         "image": "https://www.trueachievements.com/imgs/167069/xbox-black-friday-sale-2025-games-at-their-lowestever-price.jpg",
         "title": "Xbox Black Friday Sale 2025: Games at their lowest-ever price - TrueAchievements",
         "description": "To help you find the best bargains from the huge Xbox Black Friday 2025 Sale, we've listed out all the Xbox games on offer at their lowest-ever price.",
         "source_link": "https://www.trueachievements.com/news/xbox-black-friday-sale-2025-games-at-their-lowest-ever-price"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://assetsio.gnwcdn.com/Ubisoft_Teammates_XP_Sofia_and_Pablo.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Ubisoft announces AI \"experiment\" Teammates - a playable research project that's \"more than just talk\" - Eurogamer",
         "description": "Ubisoft has announced \"Teammates\", an \"AI experiment to change the game\" and \"deepen the player experience\".",
         "source_link": "https://www.eurogamer.net/ubisoft-announces-ai-experiment-teammates-a-playable-research-project-thats-more-than-just-talk"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://assetsio.gnwcdn.com/donlan_.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "My favourite thing about the Xbox 360, 20 years on? It did something no other console has managed since - Eurogamer",
         "description": "When I look back on most consoles, I'm largely looking back at the games. The PS3 is LittleBigPlanet and Metal Gear 4, \u2026",
         "source_link": "https://www.eurogamer.net/a-building-filled-with-dreamers-my-favourite-thing-about-the-xbox-360"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://images.nintendolife.com/4a54b07d44c8b/large.jpg",
         "title": "ICYMI: Metroid Prime 4: Beyond Estimated Switch 2 And Switch File Size Revealed - Nintendo Life",
         "description": "Make some space",
         "source_link": "https://www.nintendolife.com/news/2025/11/icymi-metroid-prime-4-beyond-estimated-switch-2-and-switch-file-size-revealed"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://images.timeextension.com/f48562fda5673/large.jpg",
         "title": "Analogue 3D Goes Back Up For Pre-Order Next Week, But There's A Catch - Time Extension",
         "description": "Price is jumping to $270",
         "source_link": "https://www.timeextension.com/news/2025/11/analogue-3d-goes-back-up-for-pre-order-next-week-but-theres-a-catch"
       },
       {
-        "rank": 6,
+        "rank": 7,
+        "image": "https://media.wired.com/photos/6920f1c8b8c618581c166ccd/191:100/w_1280,c_limit/SM_front_b.jpg",
+        "title": "Valve Says Steam Machine Isn't a Console\u2014but It Is - WIRED",
+        "description": "Consoles are good, actually.",
+        "source_link": "https://www.wired.com/story/valve-says-steam-machine-isnt-a-console-but-it-is/"
+      },
+      {
+        "rank": 8,
         "image": "https://images.nintendolife.com/7e16dd3ecb7b8/large.jpg",
         "title": "New Limited-Time Pok\u00e9mon Scarlet And Violet Distribution Now Available - Nintendo Life",
         "description": "Add a Whimsicott to your party",
         "source_link": "https://www.nintendolife.com/news/2025/11/new-limited-time-pokemon-scarlet-and-violet-distribution-now-available"
-      },
-      {
-        "rank": 7,
-        "image": "https://hackaday.com/wp-content/uploads/2023/11/zork.jpg",
-        "title": "Microsoft Open Sources Zork I, II And III - Hackaday",
-        "description": "The history of the game Zork is a long and winding one, starting with MUDs and kin on university mainframes \u2013 where students entertained themselves in between their studies \u2013 and ending\u2026",
-        "source_link": "https://hackaday.com/2025/11/21/microsoft-open-sources-zork-i-ii-and-iii/"
-      },
-      {
-        "rank": 8,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Tales-of-Berseria-Remastered-new-features-and-improvements.jpg",
-        "title": "Tales of Berseria Remastered receives full list of new features and improvements - Nintendo Everything",
-        "description": "Tales of Berseria Remastered has now been given a huge list of features added and improvements from Bandai Namco.",
-        "source_link": "https://nintendoeverything.com/tales-of-berseria-remastered-receives-full-list-of-new-features-and-improvements/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.teslarati.com/wp-content/uploads/2025/11/SpaceX-Starship-V3-Booster-18-1000x600.jpeg",
-        "title": "SpaceX issues statement on Starship V3 Booster 18 anomaly - Teslarati",
-        "description": "The incident unfolded during gas-system pressure testing at the company\u2019s Massey facility in Starbase, Texas.",
-        "source_link": "https://www.teslarati.com/spacex-issues-statement-on-starship-v3-booster-18-anomaly/"
-      },
-      {
-        "rank": 10,
-        "image": "https://frequentmiler.com/wp-content/uploads/2025/11/Oura-Ring-4.png",
-        "title": "Oura Ring sale for $249: get for $49 + tax with Amex Platinum benefit - Frequent Miler",
-        "description": "Oura has discounted the Oura Ring 4 to $249 for a Black Friday sale, meaning you can buy it for $49 + tax with the Amex Platinum benefit.",
-        "source_link": "https://frequentmiler.com/oura-ring-sale-for-249-get-for-49-tax-with-amex-platinum-benefit/"
       }
     ],
     "trending_movies": [
