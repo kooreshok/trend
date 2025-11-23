@@ -1,58 +1,51 @@
 {
-  "last_updated": "November 23, 2025, 18:21 UTC",
+  "last_updated": "November 23, 2025, 19:12 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6921bfadfa186c6a61a92933/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "Google AI Has Erased Avengers: Doomsday, Fortnite And More Leaks Overnight - Forbes",
-        "description": "Google's new Nano Banana Pro image generation system is now so photorealistic that the entire concept of movie, TV and video game leaks has been destroyed overnight.",
-        "source_link": "https://www.forbes.com/sites/paultassi/2025/11/22/google-ai-has-erased-avengers-doomsday-fortnite-and-more-leaks-overnight/"
+        "image": "https://assetsio.gnwcdn.com/Black-Ops-7-Camos---Header.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Call of Duty: Black Ops 7 European sales are 63% down on Battlefield 6, and 50% down on Black Ops 6 - Eurogamer",
+        "description": "Call of Duty: Black Ops 7 has had a disappointing launch in Europe, with sales reportedly down 63 percent compared to B\u2026",
+        "source_link": "https://www.eurogamer.net/call-of-duty-black-ops-7-european-sales-are-63-down-on-battlefield-6-and-50-down-on-black-ops-6"
       },
       {
         "rank": 2,
-        "image": "https://www.trueachievements.com/imgs/167069/xbox-black-friday-sale-2025-games-at-their-lowestever-price.jpg",
-        "title": "Xbox Black Friday Sale 2025: Games at their lowest-ever price - TrueAchievements",
-        "description": "To help you find the best bargains from the huge Xbox Black Friday 2025 Sale, we've listed out all the Xbox games on offer at their lowest-ever price.",
-        "source_link": "https://www.trueachievements.com/news/xbox-black-friday-sale-2025-games-at-their-lowest-ever-price"
+        "image": "https://www.cnet.com/a/img/resize/e50d1c601b1537ae286cf023845993bf61279944/hub/2025/11/21/641bea71-528a-4863-a89b-01511fc294b5/nano-banana-vt.png?auto=webp&fit=crop&height=675&width=1200",
+        "title": "Google's Nano Banana Pro Makes Ultrarealistic AI Images. It Scares the Hell Out of Me - CNET",
+        "description": "Google's new AI image model is so powerful that it erases what was left of the thin line between real and AI-generated imagery.",
+        "source_link": "https://www.cnet.com/tech/services-and-software/googles-nano-banana-pro-makes-ultrarealistic-ai-images-it-scares-the-hell-out-of-me/"
       },
       {
         "rank": 3,
-        "image": "https://assetsio.gnwcdn.com/Ubisoft_Teammates_XP_Sofia_and_Pablo.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Ubisoft announces AI \"experiment\" Teammates - a playable research project that's \"more than just talk\" - Eurogamer",
-        "description": "Ubisoft has announced \"Teammates\", an \"AI experiment to change the game\" and \"deepen the player experience\".",
-        "source_link": "https://www.eurogamer.net/ubisoft-announces-ai-experiment-teammates-a-playable-research-project-thats-more-than-just-talk"
-      },
-      {
-        "rank": 4,
         "image": "https://assetsio.gnwcdn.com/donlan_.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "My favourite thing about the Xbox 360, 20 years on? It did something no other console has managed since - Eurogamer",
         "description": "When I look back on most consoles, I'm largely looking back at the games. The PS3 is LittleBigPlanet and Metal Gear 4, \u2026",
         "source_link": "https://www.eurogamer.net/a-building-filled-with-dreamers-my-favourite-thing-about-the-xbox-360"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://images.nintendolife.com/4a54b07d44c8b/large.jpg",
         "title": "ICYMI: Metroid Prime 4: Beyond Estimated Switch 2 And Switch File Size Revealed - Nintendo Life",
         "description": "Make some space",
         "source_link": "https://www.nintendolife.com/news/2025/11/icymi-metroid-prime-4-beyond-estimated-switch-2-and-switch-file-size-revealed"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://images.timeextension.com/f48562fda5673/large.jpg",
         "title": "Analogue 3D Goes Back Up For Pre-Order Next Week, But There's A Catch - Time Extension",
         "description": "Price is jumping to $270",
         "source_link": "https://www.timeextension.com/news/2025/11/analogue-3d-goes-back-up-for-pre-order-next-week-but-theres-a-catch"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://media.wired.com/photos/6920f1c8b8c618581c166ccd/191:100/w_1280,c_limit/SM_front_b.jpg",
         "title": "Valve Says Steam Machine Isn't a Console\u2014but It Is - WIRED",
         "description": "Consoles are good, actually.",
         "source_link": "https://www.wired.com/story/valve-says-steam-machine-isnt-a-console-but-it-is/"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://images.nintendolife.com/7e16dd3ecb7b8/large.jpg",
         "title": "New Limited-Time Pok\u00e9mon Scarlet And Violet Distribution Now Available - Nintendo Life",
         "description": "Add a Whimsicott to your party",
@@ -76,59 +69,59 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
-        "title": "Frankenstein",
-        "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
-        "source_link": "https://www.themoviedb.org/movie/1062722"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg",
-        "title": "The Shadow's Edge",
-        "description": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves....",
-        "source_link": "https://www.themoviedb.org/movie/1419406"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought whe...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/n8Gn8xNIeOxAzHP6uusdGlUYu4s.jpg",
-        "title": "Altered",
-        "description": "In an alternate present, genetically enhanced humans dominate society. Outcasts Leon and Chloe fight for justice against corrupt politicians exploitin...",
-        "source_link": "https://www.themoviedb.org/movie/1309012"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-        "title": "Now You See Me: Now You Don't",
-        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
-        "source_link": "https://www.themoviedb.org/movie/425274"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "title": "Wicked: For Good",
         "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
         "source_link": "https://www.themoviedb.org/movie/967941"
       },
       {
-        "rank": 10,
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+        "title": "Frankenstein",
+        "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
+        "source_link": "https://www.themoviedb.org/movie/1062722"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/n8Gn8xNIeOxAzHP6uusdGlUYu4s.jpg",
+        "title": "Altered",
+        "description": "In an alternate present, genetically enhanced humans dominate society. Outcasts Leon and Chloe fight for justice against corrupt politicians exploitin...",
+        "source_link": "https://www.themoviedb.org/movie/1309012"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
+      },
+      {
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
         "title": "After the Hunt",
         "description": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and ...",
         "source_link": "https://www.themoviedb.org/movie/1265063"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg",
+        "title": "The Shadow's Edge",
+        "description": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves....",
+        "source_link": "https://www.themoviedb.org/movie/1419406"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought whe...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       }
     ]
   }
