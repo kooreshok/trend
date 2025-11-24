@@ -1,76 +1,69 @@
 {
-  "last_updated": "November 24, 2025, 14:17 UTC",
+  "last_updated": "November 24, 2025, 15:19 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/21699857/IMG_0620-1.0.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Sony\u2019s last-gen XM4 headphones are over 50 percent off for Black Friday - The Verge",
+        "description": "The noise-canceling WH-1000XM4 may be over five years old at this point, but they\u2019re still a great buy at nearly $200 off.",
+        "source_link": "https://www.theverge.com/gadgets/826784/sony-wh-1000xm4-noise-canceling-headphones-black-friday-deal-sale-2025"
+      },
+      {
+        "rank": 2,
+        "image": "https://assets-prd.ignimgs.com/2025/11/13/black-friday-2025-nintendo-sale-is-now-live-1-1763047483332.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Nintendo's 2025 Black Friday Sale is Officially Live - IGN",
+        "description": "Here's what's up for grabs now that Nintendo's official Black Friday 2025 sale is now live across all major retailers.",
+        "source_link": "https://www.ign.com/articles/nintendo-black-friday-sale-is-officially-live-2025"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/Pixel-Studio-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Pixel Studio adding image animations with GIF sharing, coming to Pixel 8 - 9to5Google",
+        "description": "Google looks to be bringing Pixel Studio to the Pixel 8 series with a new ability to animate images as GIFs.",
+        "source_link": "http://9to5google.com/2025/11/23/pixel-studio-gif/"
+      },
+      {
+        "rank": 4,
+        "image": "https://gizmodo.com/app/uploads/2025/11/google-nest-doorbell-wired-3rdgen-review-1-1200x675.jpg",
+        "title": "Google Nest Doorbell Cam (2025) Review: I\u2019m So Tired of Subscriptions - Gizmodo",
+        "description": "The latest Nest Doorbell is great hardware plagued by a bad subscription approach.",
+        "source_link": "https://gizmodo.com/google-nest-doorbell-cam-2025-review-im-so-tired-of-subscriptions-2000670300"
+      },
+      {
+        "rank": 5,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip1lYWmrGkIg/v0/1200x800.jpg",
         "title": "Apple iOS 27 to Be No-Frills \u2018Snow Leopard\u2019 Update, Other Than New AI - Bloomberg.com",
         "description": "Apple\u2019s next major iPhone software update \u2014 iOS 27 \u2014 will have two major elements: quality improvements and artificial intelligence features. Also: The report on Tim Cook\u2019s imminent departure as CEO is premature, and OpenAI continues poaching Apple engineers.\u2026",
         "source_link": "https://www.bloomberg.com/news/newsletters/2025-11-23/apple-ios-27-snow-leopard-like-quality-focus-ai-features-tim-cook-retirement-mibq7jv8"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Installer-106.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
         "title": "The app that will instantly improve your Windows PC - The Verge",
         "description": "Plus: Gemini 3, Deadpool VR, Kirby Air Riders, Ken Burns\u2019 American Revolution, and more in this week\u2019s Installer newsletter.",
         "source_link": "https://www.theverge.com/tech/826971/raycast-kirby-comet-deadpool-vr-installer"
       },
       {
-        "rank": 3,
+        "rank": 7,
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2025-11/23/12/thumb/3lYZRCp-a.jpg?crop=2500:1309;0,0%26downsize=1250:*",
+        "title": "18 People Who Completely, Totally, 100% Regret Literally Every Single Decision They Made Last Week - BuzzFeed",
+        "description": "That's gonna leave a mark.",
+        "source_link": "https://www.buzzfeed.com/daves4/tough-week-nov-23-2025"
+      },
+      {
+        "rank": 8,
         "image": "https://gizmodo.com/app/uploads/2025/01/samsung-galaxys25ultra-1200x675.jpg",
         "title": "Amazon Decided Profit Doesn't Matter on Galaxy S25 Ultra, Zero-Margin Gamble Crushes iPhone 17 Pro - Gizmodo",
         "description": "Enjoy Snapdragon 8 Elite chip, 512GB storage, built-in S Pen and all-day 5000mAh battery.",
         "source_link": "https://gizmodo.com/amazon-decided-profit-doesnt-matter-on-galaxy-s25-ultra-zero-margin-gamble-crushes-iphone-17-pro-2000690265"
       },
       {
-        "rank": 4,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/floating-google-keep-icons-surrounded-by-gemini-stars-on-a-colorful-blue-to-purple-gradient-background.png?w=1600&h=900&fit=crop",
-        "title": "I thought Google Keep was enough, then I paired it with Gemini - Android Police",
-        "description": "Create a productivity powerhouse",
-        "source_link": "https://www.androidpolice.com/google-keep-was-enough-until-paired-it-with-gemini/"
-      },
-      {
-        "rank": 5,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/a-google-pixel-10-in-front-of-large-bold-text-reading-don-t-trust-surrounded-by-red-warning-icons-with-exclamation-marks.png?w=1600&h=900&fit=crop",
-        "title": "I don't trust Pixel phones anymore \u2014 here's why - Android Police",
-        "description": "A privacy update revealed the weaknesses of Pixel phones",
-        "source_link": "https://www.androidpolice.com/i-dont-trust-pixel-phones-anymore/"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4609492-nintendoswitchblackfridaysale.jpg",
-        "title": "Super Mario And Zelda Games Are 50% Off In Amazon's Black Friday Sale - GameSpot",
-        "description": "Nintendo's official Black Friday Sale includes Paper Mario: The Thousand-Year Door, Super Mario Odyssey, Zelda: Echoes of Wisdom, and more great Switch exclusives.",
-        "source_link": "https://www.gamespot.com/articles/nintendo-black-friday-sale-switch-exclusive-game-deals/1100-6536453/"
-      },
-      {
-        "rank": 7,
-        "image": "https://helios-i.mashable.com/imagery/articles/07x5iU48yPDvqFd4PG40VeH/hero-image.fill.size_1200x675.v1763731594.jpg",
-        "title": "This credit-card\u2013sized tracker keeps tabs on your wallet, passport, and IDs \u2014 and now it\u2019s under $24 - Mashable",
-        "description": "Smart tracking for a small price.",
-        "source_link": "https://mashable.com/article/nov-23-keysmart-smartcard-works-with-apple-find-my-app"
-      },
-      {
-        "rank": 8,
-        "image": "https://kotaku.com/app/uploads/2025/09/airpods-pro-3.jpg",
-        "title": "Amazon Chose Market Share Over Margins, AirPods Pro 3 Crash to Record Low Days After Launch - Kotaku",
-        "description": "AirPods Pro 3 drop to $219 just weeks after launch.",
-        "source_link": "https://kotaku.com/amazon-chose-market-share-over-margins-airpods-pro-3-crash-to-record-low-days-after-launch-2000646557"
-      },
-      {
         "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2025/11/fitbit-charge-6.jpg",
-        "title": "Amazon Makes a Zero-Profit Play on Fitbit Charge 6, Pocket Change That Buries the Apple Watch - Kotaku",
-        "description": "One of the best trackers out there.",
-        "source_link": "https://kotaku.com/amazon-makes-a-zero-profit-play-on-fitbit-charge-6-pocket-change-that-buries-the-apple-watch-2000646578"
-      },
-      {
-        "rank": 10,
-        "image": "https://kotaku.com/app/uploads/2023/09/a09f5c4eba94a8375f45477e8a9a855c.jpg",
-        "title": "10 Incredible Xbox 360 Games Are All On Sale For Black Friday - Kotaku",
-        "description": "Xbox Series X/S backwards compatibility can save you a lot this Black Friday",
-        "source_link": "https://kotaku.com/xbox-360-black-friday-2025-best-games-backwards-compatible-2000646545"
+        "image": "https://www.ultimate-guitar.com/static/article/news/3/183083_0_wide_ver1763899828.jpg",
+        "title": "Sure, It Was an Absolutely Awful Video Game: However, It Helped Market One of Rock Music's Most Successful Albums - Ultimate Guitar",
+        "description": "Some will win, some will lose.",
+        "source_link": "https://www.ultimate-guitar.com/articles/features/sure-it-was-an-absolutely-awful-video-game-however-it-helped-market-one-of-rock-musics-most-successful-albums-183083"
       }
     ],
     "trending_movies": [
@@ -104,17 +97,17 @@
       },
       {
         "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
+        "title": "After the Hunt",
+        "description": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and ...",
+        "source_link": "https://www.themoviedb.org/movie/1265063"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
         "title": "Frankenstein",
         "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
         "source_link": "https://www.themoviedb.org/movie/1062722"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg",
-        "title": "The Shadow's Edge",
-        "description": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves....",
-        "source_link": "https://www.themoviedb.org/movie/1419406"
       },
       {
         "rank": 7,
@@ -125,24 +118,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
-        "title": "After the Hunt",
-        "description": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and ...",
-        "source_link": "https://www.themoviedb.org/movie/1265063"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/6QlAcGRaUrgHcZ4WTBh5lsPnzKx.jpg",
         "title": "Altered",
         "description": "In an alternate present, genetically enhanced humans dominate society. Outcasts Leon and Chloe fight for justice against corrupt politicians exploitin...",
         "source_link": "https://www.themoviedb.org/movie/1309012"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
         "title": "Now You See Me: Now You Don't",
         "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
         "source_link": "https://www.themoviedb.org/movie/425274"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg",
+        "title": "The Shadow's Edge",
+        "description": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves....",
+        "source_link": "https://www.themoviedb.org/movie/1419406"
       }
     ]
   }
