@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 24, 2025, 21:15 UTC",
+  "last_updated": "November 24, 2025, 22:15 UTC",
   "categories": {
     "tech_news": [
       {
@@ -55,24 +55,24 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
-        "title": "Train Dreams",
-        "description": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America....",
-        "source_link": "https://www.themoviedb.org/movie/1241983"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
         "title": "The Family Plan 2",
         "description": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own pla...",
         "source_link": "https://www.themoviedb.org/movie/1363123"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "title": "Wicked: For Good",
         "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
         "source_link": "https://www.themoviedb.org/movie/967941"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
+        "title": "Train Dreams",
+        "description": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America....",
+        "source_link": "https://www.themoviedb.org/movie/1241983"
       },
       {
         "rank": 4,
@@ -111,17 +111,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/6QlAcGRaUrgHcZ4WTBh5lsPnzKx.jpg",
-        "title": "Altered",
-        "description": "In an alternate present, genetically enhanced humans dominate society. Outcasts Leon and Chloe fight for justice against corrupt politicians exploitin...",
-        "source_link": "https://www.themoviedb.org/movie/1309012"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/6QlAcGRaUrgHcZ4WTBh5lsPnzKx.jpg",
+        "title": "Altered",
+        "description": "In an alternate present, genetically enhanced humans dominate society. Outcasts Leon and Chloe fight for justice against corrupt politicians exploitin...",
+        "source_link": "https://www.themoviedb.org/movie/1309012"
       }
     ]
   }
