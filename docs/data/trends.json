@@ -1,106 +1,113 @@
 {
-  "last_updated": "November 25, 2025, 06:26 UTC",
+  "last_updated": "November 25, 2025, 07:17 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.mos.cms.futurecdn.net/sgS7A4ihiCsrLSF67nBP9Q-2000-80.jpg",
+        "title": "Best Apple Black Friday deals live now \u2014 AirPods, MacBooks, iPads and more from $17 - Tom's Guide",
+        "description": "The best Apple Black Friday deals happening right now",
+        "source_link": "https://www.tomsguide.com/live/news/black-friday-apple-deals-2025"
+      },
+      {
+        "rank": 2,
+        "image": "https://hackaday.com/wp-content/uploads/2025/11/battery-balance-main.png",
+        "title": "Expensive Batteries Hide Cheap Tricks - Hackaday",
+        "description": "In our modern world full of planned obsolescence helping to fuel cycles of consumerism, the thing that really lets companies dial this up to the max is locked-down electronics and software. We all \u2026",
+        "source_link": "https://hackaday.com/2025/11/23/expensive-batteries-hide-cheap-tricks/"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/airdrop-quick-share-hero-14-scaled.jpg",
+        "title": "Jealous of Pixel's new AirDrop trick? Qualcomm hints it's coming to many more Android phones - Android Authority",
+        "description": "Qualcomm has said it's bringing Pixel 10-style AirDrop support to Snapdragon-powered phones in the near future.",
+        "source_link": "https://www.androidauthority.com/qualcomm-snapdragon-airdrop-quick-share-support-3618833/"
+      },
+      {
+        "rank": 4,
         "image": "https://hackaday.com/wp-content/uploads/2025/11/pocket-86-featured.jpg",
         "title": "A Couple Of New DOS PCs Appear - Hackaday",
         "description": "An interesting trend over the last year or two has been the emergence of modern retrocomputer PCs, recreations of classic PC hardware from back in the day taking advantage of modern parts alongside\u2026",
         "source_link": "https://hackaday.com/2025/11/23/a-couple-of-new-dos-pcs-appear/"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://www.zdnet.com/a/img/resize/8c22dcb9b3ef5b467574a1f6e01e849faca03c82/2025/11/23/4661ea33-1fbb-4cd5-902c-2b28241cc82e/gettyimages-1689920443.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "Google denies analyzing your emails for AI training - here's what happened - ZDNET",
         "description": "You can opt out of the features in question if you're still concerned. Here's how.",
         "source_link": "https://www.zdnet.com/article/google-denies-analyzing-your-emails-for-ai-training-heres-what-happened/"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://assets-prd.ignimgs.com/2025/11/23/wukong-header-1763914720953.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Save Over 20% On Black Myth Wukong at Amazon For Black Friday - IGN",
         "description": "Save over 20% on Black Myth Wukong and jump into the massive action-RPG for less - just in time for its latest patch.",
         "source_link": "https://www.ign.com/articles/black-myth-wukong-deal-at-amazon-for-black-friday-2025"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Logitech-Combo-Touch-iPad-A16.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "This $450 iPad setup is a better buy than most Chromebooks, here\u2019s why - 9to5Mac",
         "description": "Next year, Apple will be introducing an even more affordable MacBook model to better compete with Chromebooks. It\u2019s expected to...",
         "source_link": "https://9to5mac.com/2025/11/23/ipad-a16-vs-budget-chromebook-sub-500-comparison-black-friday-deal/"
       },
       {
-        "rank": 5,
+        "rank": 8,
         "image": "https://images.nintendolife.com/8000c8c8cbf8a/large.jpg",
         "title": "Metroid Prime 4: Beyond Demo Now Available At Switch 2 Kiosks (US) - Nintendo Life",
         "description": "Samus returns this December",
         "source_link": "https://www.nintendolife.com/news/2025/11/metroid-prime-4-beyond-demo-now-available-at-switch-2-kiosks-us"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://www.jalopnik.com/img/gallery/these-4-cylinder-engines-make-power-youd-expect-from-a-v8/l-intro-1763499206.jpg",
         "title": "These 4-Cylinder Engines Make Power You'd Expect From A V8 - Jalopnik",
         "description": "The Mercedes-AMG M 139, Mitsubishi 4B11T, and Volvo Twin Engine are four-cylinder engines that can make enough power to rival V8 power trains.",
         "source_link": "https://www.jalopnik.com/2030364/powerful-four-cylinder-engines/"
       },
       {
-        "rank": 7,
+        "rank": 10,
         "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2025/08/kirby_air_riders.jpg?fit=1715%2C965&ssl=1",
         "title": "UK charts: Kirby Air Riders debuts at No.12 - My Nintendo News",
         "description": "Kirby Air Riders launched to respectable reviews on Thursday and it has now been revealed that the charming game entered the UK physical software charts at No.12. The UK is the biggest game market in\u2026",
         "source_link": "https://mynintendonews.com/2025/11/23/uk-charts-kirby-air-riders-debuts-at-no-12/"
-      },
-      {
-        "rank": 8,
-        "image": "https://assets-prd.ignimgs.com/2022/04/27/maleniaer-1651056062753.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Elden Ring Is Under $20 Again for Black Friday - IGN",
-        "description": "Save big on trips to the Lands Between with Black Friday discounts on Elden Ring, its Shadow of the Erdtree Edition, and Nightreign.",
-        "source_link": "https://www.ign.com/articles/elden-ring-is-under-20-again-and-nightreign-has-a-big-discount-too-for-black-friday"
-      },
-      {
-        "rank": 9,
-        "image": "https://assets-prd.ignimgs.com/2025/11/23/super-mario-odyssey-header-1763913704362.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Super Mario Odyssey Gets a Big Black Friday Discount With a Free Switch 2 Upgrade - IGN",
-        "description": "Super Mario Odyssey got a 10 out of 10 from IGN, and it's arguably only got even better. It's also now half price at Amazon for Black Friday.",
-        "source_link": "https://www.ign.com/articles/super-mario-odyssey-black-friday-deal-2025"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
-        "title": "Wicked: For Good",
-        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
-        "source_link": "https://www.themoviedb.org/movie/967941"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought whe...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "title": "Wicked: For Good",
+        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
+        "source_link": "https://www.themoviedb.org/movie/967941"
+      },
+      {
         "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
+        "title": "The Family Plan 2",
+        "description": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own pla...",
+        "source_link": "https://www.themoviedb.org/movie/1363123"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
+        "title": "Train Dreams",
+        "description": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America....",
+        "source_link": "https://www.themoviedb.org/movie/1241983"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
         "title": "Now You See Me: Now You Don't",
         "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
         "source_link": "https://www.themoviedb.org/movie/425274"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
-        "title": "After the Hunt",
-        "description": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and ...",
-        "source_link": "https://www.themoviedb.org/movie/1265063"
       },
       {
         "rank": 6,
@@ -111,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
-        "title": "Train Dreams",
-        "description": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America....",
-        "source_link": "https://www.themoviedb.org/movie/1241983"
+        "image": "https://image.tmdb.org/t/p/w200/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
+        "title": "After the Hunt",
+        "description": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and ...",
+        "source_link": "https://www.themoviedb.org/movie/1265063"
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
-        "title": "The Family Plan 2",
-        "description": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own pla...",
-        "source_link": "https://www.themoviedb.org/movie/1363123"
+        "image": "https://image.tmdb.org/t/p/w200/6QlAcGRaUrgHcZ4WTBh5lsPnzKx.jpg",
+        "title": "Altered",
+        "description": "In an alternate present, genetically enhanced humans dominate society. Outcasts Leon and Chloe fight for justice against corrupt politicians exploitin...",
+        "source_link": "https://www.themoviedb.org/movie/1309012"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg",
-        "title": "The Shadow's Edge",
-        "description": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves....",
-        "source_link": "https://www.themoviedb.org/movie/1419406"
+        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
-        "title": "No Other Choice",
-        "description": "After being laid off and humiliated by a ruthless job market, a veteran paper mill manager descends into violence in a desperate bid to reclaim his di...",
-        "source_link": "https://www.themoviedb.org/movie/639988"
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
       }
     ]
   }
