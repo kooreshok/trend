@@ -1,85 +1,92 @@
 {
-  "last_updated": "November 26, 2025, 20:18 UTC",
+  "last_updated": "November 26, 2025, 21:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/Pixel-9-official-cases-21.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google\u2019s official Pixel cases and watch bands are on deep discount for Black Friday - 9to5Google",
-        "description": "You can already get Pixel phones at a huge discount for Black Friday 2025, but Google is also offering some...",
-        "source_link": "http://9to5google.com/2025/11/25/google-pixel-cases-watch-bands-black-friday-sales/"
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/plex1-1152x648.png",
+        "title": "Plex\u2019s crackdown on free remote streaming access starts this week - Ars Technica",
+        "description": "Roku users will be hit first.",
+        "source_link": "https://arstechnica.com/gadgets/2025/11/plexs-crackdown-on-free-remote-streaming-access-starts-this-week/"
       },
       {
         "rank": 2,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/SM_back_a-1152x648.jpg",
-        "title": "Valve\u2019s Steam Machine looks like a console, but don\u2019t expect it to be priced like one - Ars Technica",
-        "description": "Upcoming gaming box will be priced in line with a similarly specced PC, Valve says.",
-        "source_link": "https://arstechnica.com/gaming/2025/11/valves-steam-machine-looks-like-a-console-but-dont-expect-it-to-be-priced-like-one/"
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/product-ddr5-2up-angle_3-2-all-others-1152x648-1764100687.jpeg",
+        "title": "Spiking memory prices mean that it is once again a horrible time to build a PC - Ars Technica",
+        "description": "Some RAM kits are over three times as expensive as they were three months ago.",
+        "source_link": "https://arstechnica.com/gadgets/2025/11/spiking-memory-prices-mean-that-it-is-once-again-a-horrible-time-to-build-a-pc/"
       },
       {
         "rank": 3,
+        "image": "https://media.wired.com/photos/6925efe05663ef53825f5e81/191:100/w_1280,c_limit/The%20Nothing%20(1)%20Headset%20Is%20Discounted%20Early%20for%20Black%20Friday.png",
+        "title": "The Nothing (1) Headset Is Discounted Early for Black Friday - WIRED",
+        "description": "These over-ear headphones compete with the Airpods Max at a fraction of the price.",
+        "source_link": "https://www.wired.com/story/nothing-1-headset-deal-1125/"
+      },
+      {
+        "rank": 4,
+        "image": "https://pokemongohub.net/wp-content/uploads/2025/08/keldeo.png",
+        "title": "Your Complete PvE Guide to the Final Justice Pok\u00e9mon GO Event - Pok\u00e9mon GO Hub",
+        "description": "If you\u2019re ready to wrap up the Tales of Transformation season, the Final Justice event is where it all goes down in Pok\u00e9mon GO! Whether you\u2019re into powering up your raid squad or just hunting for shinies and candy, there\u2019s something for every kind of trainer \u2026",
+        "source_link": "https://pokemongohub.net/post/meta/your-complete-pve-guide-to-the-final-justice-pokemon-go-event/"
+      },
+      {
+        "rank": 5,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25623454/DSCF0048.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Apple\u2019s AirPods 4 are on sale starting at just $69 for Black Friday - The Verge",
+        "description": "The AirPods 4 are a great, inexpensive pair of wireless earbuds. And right now, they\u2019re on sale for an all-time low of just $69 ($60 off) for Black Friday.",
+        "source_link": "https://www.theverge.com/gadgets/828725/apple-airpods-4-anc-black-friday-deal-sale-2025"
+      },
+      {
+        "rank": 6,
+        "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt1c7cc91d72bb37cb/6925b75fe4a3b01909050b1c/Horses_Header.png?disable=upscale&width=1200&height=630&fit=crop",
+        "title": "'It is scary, humiliating, and patronizing:' Santa Ragione facing closure after Horses banned from Steam - Game Developer",
+        "description": "The Italian studio's upcoming horror title, Horses, has been barred from Steam ahead of its release in December.",
+        "source_link": "https://www.gamedeveloper.com/business/-it-is-scary-humiliating-and-patronising-santa-ragione-facing-closure-after-horses-barred-from-steam"
+      },
+      {
+        "rank": 7,
+        "image": "https://images.nintendolife.com/4ea10d5fecb8e/large.jpg",
+        "title": "Star Fox Programmer's Next Game May As Well Be A New Entry In Nintendo's Series - Nintendo Life",
+        "description": "New gameplay is more than Peppy",
+        "source_link": "https://www.nintendolife.com/news/2025/11/star-fox-programmers-next-game-may-as-well-be-a-new-entry-in-nintendos-series"
+      },
+      {
+        "rank": 8,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/06/onn_walmart_android_tv_4k_5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Walmart\u2019s $9 Google TV streaming stick is a Black Friday no-brainer - 9to5Google",
+        "description": "If you're looking for a Google TV device for the bedroom, guest room, or anywhere else, Walmart's option is a steal at $9.",
+        "source_link": "http://9to5google.com/2025/11/25/walmart-google-tv-streaming-stick-black-friday-deal/"
+      },
+      {
+        "rank": 9,
         "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/1.21.11-pre3-1170x500.jpg",
         "title": "Minecraft 1.21.11 Pre-Release 3 - Minecraft",
         "description": "Minecraft 1.21.11 Pre-Release 3",
         "source_link": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-3"
       },
       {
-        "rank": 4,
-        "image": "https://assetsio.gnwcdn.com/Metaphor_-ReFantazio_20240913164054.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Persona and Metaphor: ReFantazio creator wants to create \"JRPG 3.0\", so what does that mean for Persona 6? - Eurogamer",
-        "description": "Katsura Hashino, director of Metaphor: ReFantazio and the Persona games at Atlus, wants to create \"JRPG 3.0\" as the next evolutionary step of the genre.",
-        "source_link": "https://www.eurogamer.net/persona-and-metaphor-refantazio-creator-wants-to-create-jrpg-30-so-what-does-that-mean-for-persona-6"
-      },
-      {
-        "rank": 5,
-        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/11/03_Wire-Mobile-1920x1080-1-4170b96b3336528edc0a.jpg",
-        "title": "Xbox November Update: Gaming Copilot Available on Mobile, Full Screen Experience Out Now, and More - Xbox Wire",
-        "description": "The Xbox November Update is starting to roll out today, featuring Gaming Copilot (Beta) on the Xbox mobile app, full screen experience (FSE) on more Windows 11 devices, the expansion of Xbox Cloud Gaming into more countries, and more!",
-        "source_link": "https://news.xbox.com/en-us/2025/11/25/xbox-november-update-gaming-copilot-full-screen-experience/"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.nintendolife.com/f72779f8a3d85/large.jpg",
-        "title": "Hyrule Warriors: Age Of Imprisonment Adds New Weapons & Challenges In Free Update This Week - Nintendo Life",
-        "description": "Happy Thanksgiving from Zelda and co.!",
-        "source_link": "https://www.nintendolife.com/news/2025/11/hyrule-warriors-age-of-imprisonment-adds-new-weapons-and-challenges-in-free-update-this-week"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets.warhammer-community.com/sm2_update-nov25-1-feature-j6ilq8tumi.jpg",
-        "title": "Brave a void ship overrun with Tyranids in the next free update for Space Marine 2 - Warhammer Community",
-        "description": "Plus, new cosmetics for the Blood Angels and Salamanders are here.",
-        "source_link": "https://www.warhammer-community.com/articles/qtmimgx3/brave-a-void-ship-overrun-with-tyranids-in-the-next-free-update-for-space-marine-2"
-      },
-      {
-        "rank": 8,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6925c243d89758482e80639c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "\u2018Destiny 2: Renegades\u2019 Will Have Some Of The Game\u2019s Best Buffs In Years - Forbes",
-        "description": "Destiny 2's Renegades expansion is nearly here, and with it, we'll see some of the best buffs the game has had in a very long time.",
-        "source_link": "https://www.forbes.com/sites/paultassi/2025/11/25/destiny-2-renegades-will-have-some-of-the-games-best-buffs-in-years/"
-      },
-      {
-        "rank": 9,
-        "image": null,
-        "title": "The Nintendo Switch 2 just got a new update, and it seems to have finally fixed a troubling Bluetooth issue - Eurogamer",
-        "description": null,
-        "source_link": "https://www.eurogamer.net/the-nintendo-switch-2-just-got-a-new-update-and-it-seems-to-have-finally-fixed-a-troubling-bluetooth-issue"
+        "rank": 10,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0021.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "ROG Xbox Ally adds default game profiles to help you save battery - The Verge",
+        "description": "Microsoft is launching default game profiles on the ROG Xbox Ally handheld, which automatically optimize FPS and power consumption on 40 supported games.",
+        "source_link": "https://www.theverge.com/news/828775/microsoft-rog-xbox-ally-default-game-profiles"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
         "title": "Bugonia",
         "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
         "source_link": "https://www.themoviedb.org/movie/701387"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 3,
@@ -97,31 +104,31 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/AetJmEIrhww0xnfktYgNl6ztDrl.jpg",
-        "title": "Blue Moon",
-        "description": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi\u2019s bar as his former collaborator Ric...",
-        "source_link": "https://www.themoviedb.org/movie/1299655"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/nvqW8mOm818QDio3GKKmPLK8kXj.jpg",
         "title": "She Rides Shotgun",
         "description": "Newly released from prison and marked for death by unrelenting enemies, Nate must now protect his estranged 11-year-old daughter, Polly, at all costs....",
         "source_link": "https://www.themoviedb.org/movie/1196573"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/mZcwX1aN2RdCLwamxdkoINIhVAm.jpg",
-        "title": "Two Worlds One Wish",
-        "description": "Twenty-one years after a magical meeting at a children's hospital, Bilge and Can suddenly begin hearing each other's voices telepathically. What seems...",
-        "source_link": "https://www.themoviedb.org/movie/1522377"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/AetJmEIrhww0xnfktYgNl6ztDrl.jpg",
+        "title": "Blue Moon",
+        "description": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi\u2019s bar as his former collaborator Ric...",
+        "source_link": "https://www.themoviedb.org/movie/1299655"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "title": "Wicked: For Good",
         "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
         "source_link": "https://www.themoviedb.org/movie/967941"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/mZcwX1aN2RdCLwamxdkoINIhVAm.jpg",
+        "title": "Two Worlds One Wish",
+        "description": "Twenty-one years after a magical meeting at a children's hospital, Bilge and Can suddenly begin hearing each other's voices telepathically. What seems...",
+        "source_link": "https://www.themoviedb.org/movie/1522377"
       },
       {
         "rank": 9,
