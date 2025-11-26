@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 26, 2025, 19:13 UTC",
+  "last_updated": "November 26, 2025, 20:18 UTC",
   "categories": {
     "tech_news": [
       {
@@ -69,17 +69,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
-        "title": "Bugonia",
-        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
-        "source_link": "https://www.themoviedb.org/movie/701387"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "title": "Bugonia",
+        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
+        "source_link": "https://www.themoviedb.org/movie/701387"
       },
       {
         "rank": 3,
