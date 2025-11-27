@@ -1,76 +1,69 @@
 {
-  "last_updated": "November 27, 2025, 22:15 UTC",
+  "last_updated": "November 27, 2025, 23:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://s.yimg.com/ny/api/res/1.2/BIQCCfPAD7zfXgwzYyV17Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/3662adb0-cb0f-11f0-a5ff-6fa8fdcb1064",
+        "title": "Black Friday TV deals are live with huge discounts (and giant screens) from Samsung, Sony, Hisense and more \u2014 save up to 60% - Yahoo! Tech",
+        "description": "Sale prices start as low as $60 (really!) for the newest TVs, ready to stream you a world of entertainment and live sports.",
+        "source_link": "https://tech.yahoo.com/home-entertainment/tvs/deals/article/black-friday-tv-deals-are-live-with-huge-discounts-and-giant-screens-from-samsung-sony-hisense-and-more--save-up-to-60-224800957.html"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
+        "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
+        "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!",
+        "source_link": "https://www.marvelrivals.com/gameupdate/20251126/41548_1273366.html"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.cnet.com/a/img/resize/e327a33daf85eca2a4220f1dfb10ed0974f3e55f/hub/2025/11/24/6b077865-f4b0-4d2f-a279-c71edf6991f7/13-gaming-deals-mid.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "Black Friday Gaming Deals Are Here Early. Get 40+ Deals on Alienware, Xbox, PlayStation and Others - CNET",
+        "description": "It's time to shop. Black Friday deals are here, which means saving big on consoles, games and amazing accessories.",
+        "source_link": "https://www.cnet.com/deals/best-black-friday-gaming-deals-2025-11-26/"
+      },
+      {
+        "rank": 4,
         "image": "https://assets-prd.ignimgs.com/2025/11/26/untitled-design-4-1764127167708.png?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Every PS5 DualSense Controller Color and Limited Edition on Sale for Black Friday 2025 - IGN",
         "description": "Spoiler: it's literally every color.",
         "source_link": "https://www.ign.com/articles/every-ps5-dualsense-controller-deal-black-friday-2025"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://www.northjersey.com/gcdn/authoring/authoring-images/2025/11/02/PNJM/87050750007-simpsons-7.jpg?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
         "title": "Is Fortnite down? Gamers report issues Nov. 26. Epic Games response - Bergen Record",
         "description": "Gamers were reporting issues with the Epic Games battle royale video game during the afternoon of Wednesday, Nov. 26.",
         "source_link": "https://www.northjersey.com/story/tech/gaming/2025/11/26/is-fortnite-down-users-report-issues-nov-26-epic-games-response/87483797007/"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/5k/5KVTZL6WJ5KI1764170986833.png",
         "title": "Celebrate the Launch of Housing in World of Warcraft with Rewards Across Blizzard\u2019s Games - Blizzard News",
         "description": "Unlock gifts across multiple Blizzard titles by earning the \u201cWelcome Home\u201d achievement in World of Warcraft.",
         "source_link": "https://news.blizzard.com/en-us/article/24246294/celebrate-the-launch-of-housing-in-world-of-warcraft-with-rewards-across-blizzards-games"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257765_Microsoft_Surface_Laptop_13_2025_ADiBenedetto_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Microsoft\u2019s latest 13-inch Surface Laptop is down to $549.99, a new record low price - The Verge",
         "description": "The Surface Laptop 13-inch 1st Edition with Snapdragon is on sale for $549.99 ($350 off) at multiple retailers for Black Friday, which marks a new all-time low.",
         "source_link": "https://www.theverge.com/gadgets/830182/microsoft-surface-laptop-black-friday-2025-deal-sale"
       },
       {
-        "rank": 5,
+        "rank": 8,
         "image": "https://assetsio.gnwcdn.com/cyberpunk-header-image-V-phantom-liberty.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Cyberpunk 2077 has sold a lot more copies than you think - and faster than The Witcher 3 - Eurogamer",
         "description": "CD Projekt Red has just announced that Cyberpunk 2077 has passed 35m copies sold, and that it reached the milestone fas\u2026",
         "source_link": "https://www.eurogamer.net/cyberpunk-2077-has-sold-a-lot-more-copies-than-you-think-and-faster-than-the-witcher-3"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Google-Maps-Gemini-navigation-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google Maps starts rolling out Gemini for all navigation modes - 9to5Google",
         "description": "Following the announcement at the start of November, Google Maps is beginning to roll out navigation with Gemini. It joins...",
         "source_link": "http://9to5google.com/2025/11/26/google-maps-gemini-navigation-rollout/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4612497-psplusdecember.jpeg",
-        "title": "PlayStation Plus Free Games For December 2025 Revealed - GameSpot",
-        "description": "PS Plus subscribers can get these five games in December.",
-        "source_link": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-december-2025/1100-6536461/"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Second-Stage-1152x648.jpg",
-        "title": "Russia\u2019s Soyuz 5 will soon come alive. But will anyone want to fly on it? - Ars Technica",
-        "description": "After Russia\u2019s invasion of Ukraine, the Western market for satellite launches dried up.",
-        "source_link": "https://arstechnica.com/space/2025/11/after-a-decade-russias-native-built-soyuz-5-rocket-finally-reaches-the-launch-site/"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/M5-Vision-Pro-1152x648-1764105014.jpg",
-        "title": "Vision Pro M5 review: It\u2019s time for Apple to make some tough choices - Ars Technica",
-        "description": "A state of the union from someone who actually sort of uses the thing.",
-        "source_link": "https://arstechnica.com/gadgets/2025/11/where-apples-vision-pro-stands-today-post-m5-refresh/"
-      },
-      {
-        "rank": 10,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/ios-26-app-icons.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iOS 26.2 adds new features in six iPhone apps, here\u2019s what\u2019s coming - 9to5Mac",
-        "description": "iOS 26.2 is packed with a bunch of new features, including upgrades across six of Apple\u2019s preinstalled iPhone apps.",
-        "source_link": "https://9to5mac.com/2025/11/26/ios-26-2-adds-new-features-in-six-iphone-apps-heres-whats-coming/"
       }
     ],
     "trending_movies": [
@@ -104,24 +97,24 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/ykyRfv7JDofLxXLAwtLXaSuaFfM.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/6CAFMCvM1SBejTgfj6AUM5QGfNZ.jpg",
         "title": "Dracula",
         "description": "When a 15th-century prince denounces God after the devastating loss of his wife, he inherits an eternal curse: he becomes Dracula. Condemned to wander...",
         "source_link": "https://www.themoviedb.org/movie/1246049"
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
-        "title": "Wicked: For Good",
-        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
-        "source_link": "https://www.themoviedb.org/movie/967941"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/ujPYxfpnUiA9cF5iwameF5k1wfC.jpg",
         "title": "Wildcat",
         "description": "An ex-black ops team reunite to pull off a desperate heist in order to save the life of their leader\u2019s eight-year-old daughter....",
         "source_link": "https://www.themoviedb.org/movie/1448560"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "title": "Wicked: For Good",
+        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
+        "source_link": "https://www.themoviedb.org/movie/967941"
       },
       {
         "rank": 8,
