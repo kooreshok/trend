@@ -1,76 +1,76 @@
 {
-  "last_updated": "November 27, 2025, 01:14 UTC",
+  "last_updated": "November 27, 2025, 03:08 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.gematsu.com/wp-content/uploads/2025/11/Octopath-Traveler-0_2025_11-25-25_047.jpg",
+        "title": "Octopath Traveler 0 details more companions, path actions, amity levels, party chat, and adventures at sea - Gematsu",
+        "description": "Publisher and developer Square Enix, and developer Dokidoki Grooveworks have released new information and screenshots for Octopath Traveler 0, introducing three more companions, path actions, amity\u2026",
+        "source_link": "https://www.gematsu.com/2025/11/octopath-traveler-0-details-more-companions-path-actions-amity-levels-party-chat-and-adventures-at-sea"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.nintendolife.com/147d64c01a50e/large.jpg",
+        "title": "Nintendo Expands Switch Online's NES And Game Boy Library With Four More Titles - Nintendo Life",
+        "description": "Battletoads, Kid Icarus and more!",
+        "source_link": "https://www.nintendolife.com/news/2025/11/nintendo-expands-switch-onlines-nes-and-game-boy-library-with-four-more-titles"
+      },
+      {
+        "rank": 3,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/plex1-1152x648.png",
         "title": "Plex\u2019s crackdown on free remote streaming access starts this week - Ars Technica",
         "description": "Roku users will be hit first.",
         "source_link": "https://arstechnica.com/gadgets/2025/11/plexs-crackdown-on-free-remote-streaming-access-starts-this-week/"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/product-ddr5-2up-angle_3-2-all-others-1152x648-1764100687.jpeg",
         "title": "Spiking memory prices mean that it is once again a horrible time to build a PC - Ars Technica",
         "description": "Some RAM kits are over three times as expensive as they were three months ago.",
         "source_link": "https://arstechnica.com/gadgets/2025/11/spiking-memory-prices-mean-that-it-is-once-again-a-horrible-time-to-build-a-pc/"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+        "title": "ChatGPT\u2019s voice mode is no longer a separate interface - TechCrunch",
+        "description": "ChatGPT now lets you use voice and text in the same screen, making conversations feel more natural as responses and visuals appear in real time.",
+        "source_link": "https://techcrunch.com/2025/11/25/chatgpts-voice-mode-is-no-longer-a-separate-interface/"
+      },
+      {
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/wyze_window_cam_1.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
         "title": "Wyze\u2019s new security camera watches your yard from inside your home - The Verge",
         "description": "Wyze\u2019s new $35 Window Cam that sticks to a window inside your house so it can monitor what\u2019s going on outside is cheaper and simpler than an exterior camera.",
         "source_link": "https://www.theverge.com/news/829005/wyze-window-security-cam-hd-enhanced-night-vision"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://helios-i.mashable.com/imagery/articles/03ikXGtByhF6TKL0ZUeJfYl/hero-image.fill.size_1200x675.v1764093228.png",
         "title": "Everything to know about Best Buy Black Friday 2025: Doorbusters, top deals, ad highlights - Mashable",
         "description": "Whether you're shopping in store or online at Best Buy this Black Friday, we've got all the details you need to know beforehand.",
         "source_link": "https://mashable.com/article/best-buy-black-friday-2025-everything-to-know"
       },
       {
-        "rank": 5,
-        "image": "https://pokemongohub.net/wp-content/uploads/2025/08/keldeo.png",
-        "title": "Your Complete PvE Guide to the Final Justice Pok\u00e9mon GO Event - Pok\u00e9mon GO Hub",
-        "description": "If you\u2019re ready to wrap up the Tales of Transformation season, the Final Justice event is where it all goes down in Pok\u00e9mon GO! Whether you\u2019re into powering up your raid squad or just hunting for shinies and candy, there\u2019s something for every kind of trainer \u2026",
-        "source_link": "https://pokemongohub.net/post/meta/your-complete-pve-guide-to-the-final-justice-pokemon-go-event/"
+        "rank": 8,
+        "image": "https://assetsio.gnwcdn.com/HORSES_Steak.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Developer Santa Ragione claims it could close after Valve blocked game from Steam - GamesIndustry.biz",
+        "description": "The studio has funds for six months to support horror game Horses after its release, but after that, it is out of money",
+        "source_link": "https://www.gamesindustry.biz/developer-santa-ragione-claims-it-could-close-after-valve-blocked-game-from-steam"
       },
       {
-        "rank": 6,
+        "rank": 9,
+        "image": "https://pokemongohub.net/wp-content/uploads/2025/11/shiny-keldeo.jpg",
+        "title": "Pony Tales Masterwork Research: Shiny Keldeo - Pok\u00e9mon GO Hub",
+        "description": "Shiny Keldeo is debuting in Pok\u00e9mon GO via the Pony Tales Masterwork Research\u00a0that becomes available at the start of the Final Justice event. It's a paid Masterwork Research track that rewards encounters with Keldeo and related Pok\u00e9mon. The Masterwork Researc\u2026",
+        "source_link": "https://pokemongohub.net/post/guide/pony-tales-masterwork-research-shiny-keldeo/"
+      },
+      {
+        "rank": 10,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25623454/DSCF0048.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Apple\u2019s AirPods 4 are on sale starting at just $69 for Black Friday - The Verge",
         "description": "The AirPods 4 are a great, inexpensive pair of wireless earbuds. And right now, they\u2019re on sale for an all-time low of just $69 ($60 off) for Black Friday.",
         "source_link": "https://www.theverge.com/gadgets/828725/apple-airpods-4-anc-black-friday-deal-sale-2025"
-      },
-      {
-        "rank": 7,
-        "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt1c7cc91d72bb37cb/6925b75fe4a3b01909050b1c/Horses_Header.png?disable=upscale&width=1200&height=630&fit=crop",
-        "title": "'It is scary, humiliating, and patronizing:' Santa Ragione facing closure after Horses banned from Steam - Game Developer",
-        "description": "The Italian studio's upcoming horror title, Horses, has been barred from Steam ahead of its release in December.",
-        "source_link": "https://www.gamedeveloper.com/business/-it-is-scary-humiliating-and-patronising-santa-ragione-facing-closure-after-horses-barred-from-steam"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/Pixel-9-official-cases-21.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google\u2019s official Pixel cases and watch bands are on deep discount for Black Friday - 9to5Google",
-        "description": "You can already get Pixel phones at a huge discount for Black Friday 2025, but Google is also offering some...",
-        "source_link": "http://9to5google.com/2025/11/25/google-pixel-cases-watch-bands-black-friday-sales/"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/SM_back_a-1152x648.jpg",
-        "title": "Valve\u2019s Steam Machine looks like a console, but don\u2019t expect it to be priced like one - Ars Technica",
-        "description": "Upcoming gaming box will be priced in line with a similarly specced PC, Valve says.",
-        "source_link": "https://arstechnica.com/gaming/2025/11/valves-steam-machine-looks-like-a-console-but-dont-expect-it-to-be-priced-like-one/"
-      },
-      {
-        "rank": 10,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/06/onn_walmart_android_tv_4k_5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Walmart\u2019s $9 Google TV streaming stick is a Black Friday no-brainer - 9to5Google",
-        "description": "If you're looking for a Google TV device for the bedroom, guest room, or anywhere else, Walmart's option is a steal at $9.",
-        "source_link": "http://9to5google.com/2025/11/25/walmart-google-tv-streaming-stick-black-friday-deal/"
       }
     ],
     "trending_movies": [
@@ -132,10 +132,10 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
-        "title": "Predator: Badlands",
-        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
-        "source_link": "https://www.themoviedb.org/movie/1242898"
+        "image": "https://image.tmdb.org/t/p/w200/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
+        "title": "Train Dreams",
+        "description": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America....",
+        "source_link": "https://www.themoviedb.org/movie/1241983"
       },
       {
         "rank": 10,
