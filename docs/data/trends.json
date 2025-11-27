@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 27, 2025, 15:16 UTC",
+  "last_updated": "November 27, 2025, 16:20 UTC",
   "categories": {
     "tech_news": [
       {
@@ -90,31 +90,31 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
-        "title": "Wicked: For Good",
-        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
-        "source_link": "https://www.themoviedb.org/movie/967941"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/ujPYxfpnUiA9cF5iwameF5k1wfC.jpg",
         "title": "Wildcat",
         "description": "An ex-black ops team reunite to pull off a desperate heist in order to save the life of their leader\u2019s eight-year-old daughter....",
         "source_link": "https://www.themoviedb.org/movie/1448560"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "title": "Wicked: For Good",
+        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
+        "source_link": "https://www.themoviedb.org/movie/967941"
+      },
+      {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/6CAFMCvM1SBejTgfj6AUM5QGfNZ.jpg",
+        "title": "Dracula",
+        "description": "When a 15th-century prince denounces God after the devastating loss of his wife, he inherits an eternal curse: he becomes Dracula. Condemned to wander...",
+        "source_link": "https://www.themoviedb.org/movie/1246049"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
         "title": "Regretting You",
         "description": "Morgan Grant and her daughter Clara explore what's left behind after a devastating accident reveals a shocking betrayal and forces them to confront fa...",
         "source_link": "https://www.themoviedb.org/movie/1327862"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
-        "title": "The Wolf of Wall Street",
-        "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infi...",
-        "source_link": "https://www.themoviedb.org/movie/106646"
       },
       {
         "rank": 9,
@@ -125,10 +125,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/6CAFMCvM1SBejTgfj6AUM5QGfNZ.jpg",
-        "title": "Dracula",
-        "description": "When a 15th-century prince denounces God after the devastating loss of his wife, he inherits an eternal curse: he becomes Dracula. Condemned to wander...",
-        "source_link": "https://www.themoviedb.org/movie/1246049"
+        "image": "https://image.tmdb.org/t/p/w200/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+        "title": "The Wolf of Wall Street",
+        "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infi...",
+        "source_link": "https://www.themoviedb.org/movie/106646"
       }
     ]
   }
