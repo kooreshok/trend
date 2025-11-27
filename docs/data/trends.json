@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 27, 2025, 11:15 UTC",
+  "last_updated": "November 27, 2025, 12:35 UTC",
   "categories": {
     "tech_news": [
       {
@@ -118,17 +118,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
-        "title": "The Wolf of Wall Street",
-        "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infi...",
-        "source_link": "https://www.themoviedb.org/movie/106646"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "title": "Wicked: For Good",
         "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
         "source_link": "https://www.themoviedb.org/movie/967941"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+        "title": "Frankenstein",
+        "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
+        "source_link": "https://www.themoviedb.org/movie/1062722"
       },
       {
         "rank": 9,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/mZcwX1aN2RdCLwamxdkoINIhVAm.jpg",
-        "title": "Two Worlds One Wish",
-        "description": "Twenty-one years after a magical meeting at a children's hospital, Bilge and Can suddenly begin hearing each other's voices telepathically. What seems...",
-        "source_link": "https://www.themoviedb.org/movie/1522377"
+        "image": "https://image.tmdb.org/t/p/w200/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+        "title": "The Wolf of Wall Street",
+        "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infi...",
+        "source_link": "https://www.themoviedb.org/movie/106646"
       }
     ]
   }
