@@ -1,62 +1,69 @@
 {
-  "last_updated": "November 28, 2025, 20:18 UTC",
+  "last_updated": "November 28, 2025, 21:13 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Gemini-3-Nano-Banana-Pro-cover2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google changes Gemini 3 Pro free access limits due to \u2018high demand\u2019 - 9to5Google",
+        "description": "Since the launch of Gemini 3 Pro and Nano Banana Pro, Google looks to have limited what free users can access in response to high demand.",
+        "source_link": "http://9to5google.com/2025/11/27/gemini-3-pro-free-limits/"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25845508/236834_Ray_Ban_Meta_Smart_Glasses_AKrales_0818.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "The Ray-Ban Meta smart glasses are at their best-ever price for Black Friday - The Verge",
+        "description": "The Ray-Ban Meta (Gen 1) are matching their all-time low of around $239 for Black Friday, making it a great time to pick up the terrific pair of smart glasses.",
+        "source_link": "https://www.theverge.com/gadgets/829574/ray-ban-meta-smart-glasses-gen-1-black-friday-deal-sale-2025"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.mos.cms.futurecdn.net/fwnc3n4cjzgtmeTdenhVxQ-2000-80.jpg",
+        "title": "57+ Apple Black Friday deals LIVE: iPhone, AirPods, MacBooks and more - Tom's Guide",
+        "description": "The very best Apple deals right now",
+        "source_link": "https://www.tomsguide.com/live/news/apple-black-friday-deals-2025"
+      },
+      {
+        "rank": 4,
         "image": "https://tgp-us.b-cdn.net/wp-content/uploads/2025/11/destiny-2-renegades-all-armor-set-bonuses-142.jpg",
         "title": "Destiny 2 Renegades: All Armor Set Bonuses Explained - The Game Post",
         "description": "Destiny 2 Renegades adds new legendary armor sets that come with new set bonuses. Here is every known set bonus added with this expansion.",
         "source_link": "https://thegamepost.com/destiny-2-renegades-all-armor-set-bonuses/"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://assets-prd.ignimgs.com/2025/11/27/best-ps5-black-friday-deals-ign-2025-2-1764263915008.png?width=1280&format=jpg&auto=webp&quality=80",
         "title": "The Best PlayStation Deals for Black Friday 2025: Discounts on PS5 Consoles, Games, and More - IGN",
         "description": "PlayStation's official Black Friday 2025 sale is now live across all retailers. From Nov. 21 to Dec. 1, you can save $100 off PS5 consoles, $20 off DualSense Controllers, 33% off PS Plus, and more.",
         "source_link": "https://www.ign.com/articles/playstation-black-friday-2025-best-deals"
       },
       {
-        "rank": 3,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69261690c1015da9c77436eb/0x0.jpg?format=jpg&crop=1969,1106,x351,y240,safe&height=900&width=1600&fit=bounds",
-        "title": "Do Not Click\u2014This Porn Site Installs Malware On Your Device - Forbes",
-        "description": "If you see this message, it\u2019s an attack.",
-        "source_link": "https://www.forbes.com/sites/zakdoffman/2025/11/27/do-not-click-this-porn-site-installs-malware-on-your-device/"
-      },
-      {
-        "rank": 4,
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "How Microsoft\u2019s developers are using AI - The Verge",
         "description": "Microsoft is pushing its software developers to use AI internally. It\u2019s part of an effort to get more AI agents doing the boring developer tasks.",
         "source_link": "https://www.theverge.com/tech/831379/microsoft-developer-ai-usage-stats-notepad"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/arc-raiders-queen-blaze-grenade-trap.jpg?w=1600&h=900&fit=crop",
         "title": "Arc Raiders devs implement the funniest possible solution to combat cheaters - Polygon",
         "description": "Arc Raiders' latest update introduces a funny and appropriate punishment for players who use a glitch to get through a locked door.",
         "source_link": "https://www.polygon.com/arc-raiders-patch-notes-fire-trap-locked-doors/"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
         "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
         "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!",
         "source_link": "https://www.marvelrivals.com/announcements/20251127/40955_1273569.html"
       },
       {
-        "rank": 7,
-        "image": "https://cdn.mos.cms.futurecdn.net/msxdNEaTmbbZXvm83Ze3Yn-1920-80.jpg",
-        "title": "LIVE: Nintendo Switch 2 gets first (small) wave of discounts - Creative Bloq",
-        "description": "We've got years of experience seeking out the best Black Friday Switch deals, and these are the only ones we'd get right now.",
-        "source_link": "https://www.creativebloq.com/live/news/nintendo-switch-black-friday-2025"
-      },
-      {
-        "rank": 8,
-        "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/2583789kaao8aa/8d7cd056b52436e6decec9302654100c5a640c92.jpg",
-        "title": "Live A Superyacht Life with Lavish Rewards - Rockstar Games",
-        "description": "Float towards the horizon and chart a course for the next era of Los Santos luxury like a real mogul. Set sail in A Superyacht Life this week and be rewarded handsomely with 5X GTA$ and RP. Go to the bridge of your Galaxy Super Yacht or dial up Captain...",
-        "source_link": "https://www.rockstargames.com/newswire/article/2583789kaao8aa/live-a-superyacht-life-with-lavish-rewards"
+        "rank": 9,
+        "image": "https://assets-prd.ignimgs.com/2025/11/27/lgc5-1764259300258.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "I've Rounded Up All of the Best Black Friday OLED TV Deals From LG, Samsung, and Sony - IGN",
+        "description": "If you're going for image quality, OLED is the natural choice.",
+        "source_link": "https://www.ign.com/articles/best-black-friday-oled-tv-deals-2025-lg-samsung-sony"
       }
     ],
     "trending_movies": [
@@ -76,24 +83,24 @@
       },
       {
         "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+        "title": "The Wolf of Wall Street",
+        "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infi...",
+        "source_link": "https://www.themoviedb.org/movie/106646"
+      },
+      {
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/ykyRfv7JDofLxXLAwtLXaSuaFfM.jpg",
         "title": "Dracula",
         "description": "When a 15th-century prince denounces God after the devastating loss of his wife, he inherits an eternal curse: he becomes Dracula. Condemned to wander...",
         "source_link": "https://www.themoviedb.org/movie/1246049"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/rVOQF2Ucekug1B80A9crVx7Jn90.jpg",
         "title": "Jingle Bell Heist",
         "description": "Two down-on-their-luck hourly workers team up to rob a posh London department store on Christmas Eve. Will they steal each other's hearts along the wa...",
         "source_link": "https://www.themoviedb.org/movie/1218762"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
-        "title": "The Family Plan 2",
-        "description": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own pla...",
-        "source_link": "https://www.themoviedb.org/movie/1363123"
       },
       {
         "rank": 6,
@@ -104,31 +111,31 @@
       },
       {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
+        "title": "The Family Plan 2",
+        "description": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own pla...",
+        "source_link": "https://www.themoviedb.org/movie/1363123"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/nvqW8mOm818QDio3GKKmPLK8kXj.jpg",
         "title": "She Rides Shotgun",
         "description": "Newly released from prison and marked for death by unrelenting enemies, Nate must now protect his estranged 11-year-old daughter, Polly, at all costs....",
         "source_link": "https://www.themoviedb.org/movie/1196573"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
         "title": "Wildcat",
         "description": "An ex-black ops team reunite to pull off a desperate heist in order to save the life of their leader\u2019s eight-year-old daughter....",
         "source_link": "https://www.themoviedb.org/movie/1448560"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
-        "title": "The Wolf of Wall Street",
-        "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infi...",
-        "source_link": "https://www.themoviedb.org/movie/106646"
-      },
-      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/AetJmEIrhww0xnfktYgNl6ztDrl.jpg",
-        "title": "Blue Moon",
-        "description": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi\u2019s bar as his former collaborator Ric...",
-        "source_link": "https://www.themoviedb.org/movie/1299655"
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
       }
     ]
   }
