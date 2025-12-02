@@ -1,5 +1,5 @@
 {
-  "last_updated": "December 02, 2025, 14:18 UTC",
+  "last_updated": "December 02, 2025, 15:18 UTC",
   "categories": {
     "tech_news": [
       {
@@ -69,17 +69,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
-        "title": "TRON: Ares",
-        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
-        "source_link": "https://www.themoviedb.org/movie/533533"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
         "title": "Troll 2",
         "description": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet....",
         "source_link": "https://www.themoviedb.org/movie/1180831"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+        "title": "TRON: Ares",
+        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
+        "source_link": "https://www.themoviedb.org/movie/533533"
       },
       {
         "rank": 3,
