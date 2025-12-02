@@ -1,55 +1,76 @@
 {
-  "last_updated": "December 02, 2025, 18:27 UTC",
+  "last_updated": "December 02, 2025, 19:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/103cb09220c1bce460351a268c4be16bcf1ea28a-1920x1080.jpg?w=1200&h=630&fm=webp&fit=crop&crop=center",
-        "title": "/dev: Ranked 2026 - League of Legends",
-        "description": "Competitive changes for the new year.",
-        "source_link": "https://www.leagueoflegends.com/en-us/news/dev/dev-ranked-2026/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg?quality=90&strip=all&crop=0%2C10.806933475316%2C100%2C78.386133049368&w=1200",
+        "title": "Apple\u2019s smallest iPad just got its biggest price cut for Cyber Monday - The Verge",
+        "description": "The 128GB iPad Mini with Wi-Fi is on sale at Amazon and Best Buy starting at $349 ($150 off) for Cyber Monday. That\u2019s the tablet\u2019s lowest price ever.",
+        "source_link": "https://www.theverge.com/gadgets/834850/apple-ipad-mini-cyber-monday-deal-sale-2025"
       },
       {
         "rank": 2,
-        "image": null,
-        "title": "Minecraft 1.21.11 Pre-Release 4 - Minecraft",
-        "description": null,
-        "source_link": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-4"
+        "image": "https://kotaku.com/app/uploads/2025/12/rat.jpg",
+        "title": "Arc Raiders Fan Website Lets You Place Bounties On Players - Kotaku",
+        "description": "Ready to do some bounty hunting?",
+        "source_link": "https://kotaku.com/arc-raiders-pvp-betrayal-bounty-rat-camp-2000649163"
       },
       {
         "rank": 3,
+        "image": "https://images.nintendolife.com/f0e0b3f5824a5/large.jpg",
+        "title": "Here's Another Look At Elden Ring Running On Switch 2 - Nintendo Life",
+        "description": "Is that looking... less tarnished?",
+        "source_link": "https://www.nintendolife.com/news/2025/12/heres-another-look-at-elden-ring-running-on-switch-2"
+      },
+      {
+        "rank": 4,
+        "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/11/26154033/marvel-cosmic-invasion-main-5.jpg",
+        "title": "Marvel Cosmic Invasion is another mighty brawler from Dotemu - AV Club",
+        "description": "Marvel Cosmic Invasion is the latest beat 'em up from Tribute Games and Dotemu, and it packs a punch thanks to a superpowered tag system.",
+        "source_link": "https://www.avclub.com/marvel-cosmic-invasion-review"
+      },
+      {
+        "rank": 5,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/209728ebaf2c2af1d838bea73bf5a2451a43a102-1838x1034.jpg?w=1200&h=630&fm=webp&fit=crop&crop=center",
+        "title": "/dev: 2026 Season One Gameplay Preview - League of Legends",
+        "description": "A preview of the gameplay changes coming to Summoner\u2019s Rift in 2026.",
+        "source_link": "https://www.leagueoflegends.com/en-us/news/dev/dev-2026-season-one-gameplay-preview/"
+      },
+      {
+        "rank": 6,
+        "image": "https://assetsio.gnwcdn.com/Dan-Houser_-_The-Games-Were-So-Big%2C-'They're-Like-Novels!'_-_-GRAND-THEFT-AUTO-%26-RED-DEAD-REDEMPTION-3-30-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Execs pushing AI are \"not the most humane or creative people,\" says Rockstar co-founder, comparing the tech to \"mad cow disease\" - Eurogamer",
+        "description": "Rockstar co-founder Dan Houser has once again discussed the proliferation of AI, comparing the tech to \"mad cow disease\".",
+        "source_link": "https://www.eurogamer.net/execs-pushing-ai-not-humane-creative-rockstar-co-founder-mad-cow-disease"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/1.21.11-pre4-1170x500.png",
+        "title": "Minecraft 1.21.11 Pre-Release 4 - Minecraft",
+        "description": "Minecraft 1.21.11 Pre-Release 4",
+        "source_link": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-pre-release-4"
+      },
+      {
+        "rank": 8,
         "image": "https://helios-i.mashable.com/imagery/articles/0752T7R5LlZn69mCvlgmhvW/hero-image.fill.size_1200x675.v1764575486.png",
         "title": "Best Cyber Monday 2025 deals at Best Buy: AirPods Max, Windows laptops, and more - Mashable",
         "description": "The Cyber Monday competition is really intense this year, but I scrounged up some gems at Best Buy.",
         "source_link": "https://mashable.com/article/best-cyber-monday-best-buy-deals-live-2025"
       },
       {
-        "rank": 4,
-        "image": "https://cdn.mos.cms.futurecdn.net/QWHqyUtY3GwQs3yuaNH65-2000-80.jpg",
-        "title": "Best Cyber Monday iPad deals LIVE \u2014 snag the mini, Air, Pro and standard iPad at their lowest prices - Tom's Guide",
-        "description": "The best iPad sales are going strong with huge discounts",
-        "source_link": "https://www.tomsguide.com/live/news/cyber-monday-apple-ipad-deals-2025"
-      },
-      {
-        "rank": 5,
+        "rank": 9,
         "image": "https://assetsio.gnwcdn.com/Where-Winds-Meet-screenshot-showing-a-character-running-through-autumnal-coloured-leaves-next-to-a-screenshot-of-a-conversation-between-a-player-and-an-AI-NPC.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Where Winds Meet's side quests can be skipped by tricking the AI NPCs with infamous \"Solid Snake Method\" - Eurogamer",
         "description": "Where Winds Meet players are tricking the game's AI-powered NPCs into giving them rewards, simply by claiming they already have the answers needed.",
         "source_link": "https://www.eurogamer.net/where-winds-meets-side-quests-can-be-skipped-by-tricking-the-ai-npcs-with-infamous-solid-snake-method"
       },
       {
-        "rank": 6,
-        "image": "https://www.zdnet.com/a/img/resize/100ddf250e50e42258049e28efca00a0ada6e1c4/2025/11/04/2e24a002-8a77-4ab9-8bfd-28d5b08f894a/02-phone-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "I found the 15+ best Cyber Monday phone deals (and which carrier offers are actually worth it) - ZDNET",
-        "description": "Cyber Monday phone deals are live at carriers like T-Mobile, Verizon, and AT&T, and stores like Amazon and Walmart. Read on for the best discounts we've found.",
-        "source_link": "https://www.zdnet.com/article/cyber-monday-phone-deals-live-amazon-verizon-t-mobile-12-1/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i.pcmag.com/imagery/articles/05eO6CnIa0lVXactGwfmXmH-1.fit_lim.size_1200x630.v1764599924.png",
-        "title": "The Clock Is Ticking for These Cyber Monday Smartwatch and Fitness Tracker Deals From Apple, Garmin, Samsung, and More - PCMag",
-        "description": "Snag the Apple Watch Series 11 at its lowest price ever ($329), plus save $100 on the award-winning Garmin Venu Sq 2.",
-        "source_link": "https://www.pcmag.com/news/smartwatch-fitness-tracker-deals-cyber-monday-apple-garmin-fitbit-2025"
+        "rank": 10,
+        "image": "https://assetsio.gnwcdn.com/Two-character-in-Elden-Ring-Nightreign-walking-towards-the-camera-through-a-large-white-stoned-courtyard-like-area.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "New Elden Ring: Nightreign statistics prove people still love Artorias ahead of his appearance in upcoming DLC - Eurogamer",
+        "description": "New Elden Ring: Nightreign statistics proves people still love Artorias ahead of his appearance in upcoming DLC.",
+        "source_link": "https://www.eurogamer.net/new-elden-ring-nightreign-statistics-proves-people-still-love-artorias-ahead-of-his-appearance-in-upcoming-dlc"
       }
     ],
     "trending_movies": [
@@ -76,10 +97,10 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
+        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "title": "Bugonia",
+        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
+        "source_link": "https://www.themoviedb.org/movie/701387"
       },
       {
         "rank": 5,
@@ -90,17 +111,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/ulgKdif3ubMACDltr8VZy6fyVjW.jpg",
-        "title": "Troll",
-        "description": "When an explosion in the Norwegian mountains awakens an ancient troll, officials appoint a fearless paleontologist to stop it from wreaking deadly hav...",
-        "source_link": "https://www.themoviedb.org/movie/736526"
+        "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
-        "title": "Bugonia",
-        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
-        "source_link": "https://www.themoviedb.org/movie/701387"
+        "image": "https://image.tmdb.org/t/p/w200/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
         "rank": 8,
@@ -111,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
+        "image": "https://image.tmdb.org/t/p/w200/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg",
+        "title": "Trap House",
+        "description": "An undercover DEA agent and his partner embark on a game of cat and mouse with an audacious, and surprising group of thieves - their own rebellious te...",
+        "source_link": "https://www.themoviedb.org/movie/628847"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
+        "image": "https://image.tmdb.org/t/p/w200/ulgKdif3ubMACDltr8VZy6fyVjW.jpg",
+        "title": "Troll",
+        "description": "When an explosion in the Norwegian mountains awakens an ancient troll, officials appoint a fearless paleontologist to stop it from wreaking deadly hav...",
+        "source_link": "https://www.themoviedb.org/movie/736526"
       }
     ]
   }
