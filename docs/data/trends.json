@@ -1,5 +1,5 @@
 {
-  "last_updated": "December 04, 2025, 04:27 UTC",
+  "last_updated": "December 04, 2025, 05:16 UTC",
   "categories": {
     "tech_news": [
       {
@@ -11,10 +11,10 @@
       },
       {
         "rank": 2,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-16-1-1152x648.jpg",
-        "title": "Google announces second Android 16 release of 2025 is heading to Pixels - Ars Technica",
-        "description": "The update is rolling out to Pixels starting today.",
-        "source_link": "https://arstechnica.com/google/2025/12/google-announces-second-android-16-release-of-2025-is-heading-to-pixels/"
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/IMG_1114-1152x648.jpeg",
+        "title": "Testing shows why the Steam Machine\u2019s 8GB of graphics RAM could be a problem - Ars Technica",
+        "description": "Valve has work to do on the software side\u2014but some fixes are coming.",
+        "source_link": "https://arstechnica.com/gadgets/2025/12/steamos-has-problems-with-8gb-gpus-but-valve-is-working-on-it/"
       },
       {
         "rank": 3,
@@ -46,31 +46,17 @@
       },
       {
         "rank": 7,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/692f142b5fc797b19b9acd7c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "\u2018Destiny 2: Renegades\u2019 Begins The Strangest \u2018Star Wars\u2019 Experiment To Date - Forbes",
+        "description": "Destiny 2 is taking a huge swing with a licensed Star Wars expansion that does not actually function as a Star Wars game in Renegades.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2025/12/02/destiny-2-renegades-begins-the-strangest-star-wars-experiment-to-date/"
+      },
+      {
+        "rank": 8,
         "image": "https://images.ctfassets.net/rporu91m20dc/BiyeNkutdf2u83LVni427/18861fa1da21417826118ced377e6e8c/F76_Burning_Springs_LHERO.jpg?fit=fill&w=1200&h=600",
         "title": "Fallout 76: Burning Springs Release Notes - Bethesda.net",
         "description": "Grab your duster, hat, and your favorite weapon because it\u2019s time for some Bounty Hunting! Explore our largest map addition yet and hunt down some of the largest bounties Burning Springs has to offer.",
         "source_link": "https://bethesda.net/en/article/2tpInvSHR0w7C8GXqEEbrz/fallout-76-burning-springs-release-notes"
-      },
-      {
-        "rank": 8,
-        "image": "https://m-cdn.phonearena.com/images/article/176283-wide-two_1200/Wait-did-the-Galaxy-S26-Ultra-just-lose-TWO-of-its-only-real-upgrades-over-the-S25-Ultra.jpg",
-        "title": "Wait, did the Galaxy S26 Ultra just lose TWO of its only real upgrades over the S25 Ultra? - PhoneArena",
-        "description": "We were to get a 5,200 mAh battery \u2013 now that's history. Allegedly.",
-        "source_link": "https://www.phonearena.com/news/is-galaxy-s26-ultra-losing-real-upgrades-over-the-s25-ultra_id176283"
-      },
-      {
-        "rank": 9,
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/Screenshot-2025-12-02-at-100510-AM-e1764688008943.png?resize=1200,600",
-        "title": "Meet Amar Subramanya, the 46-year-old Google and Microsoft veteran who will steer Apple AI strategy - Fortune",
-        "description": "\u201cWe are pleased to welcome Amar to Craig\u2019s leadership team and to bring his extraordinary AI expertise to Apple,\u201d CEO Tim Cook said in a statement.",
-        "source_link": "https://fortune.com/2025/12/02/amar-subramanya-apple-ai-veteran-google-microsoft-career-research-education-machine-learning/"
-      },
-      {
-        "rank": 10,
-        "image": "https://assets-prd.ignimgs.com/2025/12/02/uk-pokmon-legends-z-a-mega-dimension-mega-lucario-z-reveal-trailer-00-00-35-1764687006129.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Pok\u00e9mon Legends: Z-A Mega Dimension DLC Trailer Reveals a Surprise Second Mega Evolution For a Fan-Favorite Pok\u00e9mon - ign.com",
-        "description": "A new trailer for Pok\u00e9mon Legends: Z-A has revealed a surprise new Mega Evolution for the fan-favorite Lucario, and announced a new side mission that will unlock an encounter with Mewtwo.",
-        "source_link": "https://www.ign.com/articles/pokemon-legends-z-a-mega-dimension-dlc-trailer-reveals-a-surprise-second-mega-evolution-for-a-fan-favorite-pokmon"
       }
     ],
     "trending_movies": [
@@ -111,17 +97,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
         "title": "Bugonia",
         "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
         "source_link": "https://www.themoviedb.org/movie/701387"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
         "rank": 8,
