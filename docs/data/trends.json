@@ -1,69 +1,76 @@
 {
-  "last_updated": "December 04, 2025, 14:18 UTC",
+  "last_updated": "December 04, 2025, 15:19 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.mos.cms.futurecdn.net/cDBqbRmrteweNF7mQWcM36-2560-80.jpg",
+        "title": "Red Dead Redemption's free remaster upgrade is now available on Xbox - Windows Central",
+        "description": "Relive the harrowing tale of John Marston with 60fps gameplay and 4K resolutions as Red Dead Redemption's Remaster is now live for current-gen home consoles.",
+        "source_link": "https://www.windowscentral.com/gaming/red-dead-redemption-remaster-with-4k-and-60fps-is-now-live-and-its-completely-free-for-owners-of-the-original-xbox-360-version-to-upgrade-to"
+      },
+      {
+        "rank": 2,
+        "image": "https://assetsio.gnwcdn.com/Samus-from-the-Metroid-Prime-4-Beyond-keyart-reaching-out-her-hand-with-a-purple-aura-overlaid-on-an-image-of-Blonde-Blazer-in-Dispatch-wearing-a-blue-mask.-Her-eyes-are-glowing-yellow.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Samus' death screams are no longer Jennifer Hale, as Dispatch actress takes over role for Metroid Prime 4: Beyond - Eurogamer",
+        "description": "Metroid Prime 4: Beyond has cast a new voice actress for Samus.",
+        "source_link": "https://www.eurogamer.net/samus-death-screams-are-no-longer-jennifer-hale-as-dispatch-actress-takes-over-role-for-metroid-prime-4-beyond"
+      },
+      {
+        "rank": 3,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1349412769-1152x648.jpg",
         "title": "Guitar amp sims have gotten astonishingly good - Ars Technica",
         "description": "There has never been a better time to be a guitarist.",
         "source_link": "https://arstechnica.com/culture/2025/12/guitar-amp-sims-have-gotten-astonishingly-good/"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/mirumi_1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
         "title": "Mirumi the furry companion robot is now available on Kickstarter - The Verge",
         "description": "Yukai Engineering\u2019s Mirumi robot that uses simple head movements to convey curiosity, interest, and bashfulness is now available for preorder.",
         "source_link": "https://www.theverge.com/news/836762/yukai-engineering-mirumi-furry-companion-robot-preorder-available-kickstarter"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://www.sammobile.com/wp-content/uploads/2025/09/Welcome-to-One-UI-8.5-1200x675.jpg",
+        "title": "One UI 8.5 full changelog just dropped, see what you're getting! - SamMobile",
+        "description": "In September, Samsung's next version of One UI for Galaxy phones and tablets, One UI 8.5, leaked online. The firmware revealed many of the visual and functional upgrades the new software will offer. Since then, we have tested many newer builds of One UI 8.5, \u2026",
+        "source_link": "https://www.sammobile.com/news/one-ui-8-5-full-changelog-features-improvements/"
+      },
+      {
+        "rank": 6,
         "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1333x750+133+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8e%2Fe4%2F965f7a604adc96b5f4fe201c77c8%2Fgames-we-love-20251126.jpg",
         "title": "The best games of 2025, picked by NPR's staff - NPR",
         "description": "From indies like Blue Prince to big console exclusives like Donkey Kong Bananza, NPR staff members and contributors round up their favorite games of 2025.",
         "source_link": "https://www.npr.org/2025/12/03/nx-s1-5627036/best-games-2025-npr"
       },
       {
-        "rank": 4,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2025/12/Exynos-2600-gets-unveiled.jpg",
-        "title": "Samsung Unveils Its Exynos 2600, Puts Out An Initial Trailer That Says \u2018In Silence, We Listened\u2019 And \u2018Refined At The Core\u2019 - Wccftech",
-        "description": "The Exynos 2600 has been announced by Samsung, with the company uploading a trailer that talks about many of the chipset\u2019s advanced attributes",
-        "source_link": "https://wccftech.com/samsung-exynos-2600-announced-company-showcases-first-trailer/"
-      },
-      {
-        "rank": 5,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/galaxy-buds-3-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Samsung just can\u2019t stop copying AirPods in latest Galaxy Buds 4 leaks - 9to5Google",
-        "description": "Samsung\u2019s upcoming Galaxy Buds 4 lineup will give the \u201cbase\u201d model a makeover too, as new leaks show off the...",
-        "source_link": "http://9to5google.com/2025/12/02/galaxy-buds-4-leak-copy-apple/"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0175_f1b8d7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "The Switch 2 is still on sale at multiple retailers if you missed out during Cyber Monday - The Verge",
-        "description": "The Switch 2 is still relatively new, so deals are rare. However, you can still get Nintendo\u2019s latest console with a free copy of Mario Kart World for a limited time.",
-        "source_link": "https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal"
-      },
-      {
         "rank": 7,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-Phone-urgent-Messages-leave-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google Phone adding \u2018Urgent\u2019 calling, Messages app getting \u2018Unknown\u2019 group chat alerts - 9to5Google",
-        "description": "In addition to Android 16 QPR2, Google is rolling out a pair of updates to the Messages (group chat warnings) and Phone (Urgent call reasons).",
-        "source_link": "http://9to5google.com/2025/12/02/google-phone-urgent-messages-unknown-group/"
+        "image": "https://assets-prd.ignimgs.com/2025/06/27/mk25best-blogroll-1751049126291.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Mario Kart World Update 1.4.0 Tweaks Track Layouts, Adds Custom Item Rules, Now Lets You See What Music is Playing - IGN",
+        "description": "Nintendo Switch 2 launch title Mario Kart World has just received a meaty update that finally adds custom item rules, and tweaks a long list of course layouts.",
+        "source_link": "https://www.ign.com/articles/mario-kart-world-update-140-tweaks-track-layouts-adds-custom-item-rules-now-lets-you-see-what-music-is-playing"
       },
       {
         "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/HORSES-Thumbnail-1.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Epic Games Store decides \"at the last minute\" not to distribute Horses - GamesIndustry.biz",
-        "description": "Epic Games Store is the latest online storefront to withdraw support for the provocative indie game, Horses.",
-        "source_link": "https://www.gamesindustry.biz/epic-games-store-decides-at-the-last-minute-not-to-distribute-horses"
+        "image": "https://www.androidauthority.com/wp-content/uploads/2023/02/Vivo-X90-Pro-Google-Discover-scaled-e1727974648135.jpg",
+        "title": "Google is replacing Discover news headlines with laughably awful AI-generated titles - Android Authority",
+        "description": "Google is replacing news headlines in Discover with AI-generated titles that are either boring, too clickbaity, or simply incorrect.",
+        "source_link": "https://www.androidauthority.com/google-discover-ai-headlines-3621603/"
       },
       {
         "rank": 9,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/12/RedDeadRedemption.jpg?w=1200",
-        "title": "Netflix launches a mobile-friendly version of Red Dead Redemption - TechCrunch",
-        "description": "Players with a Netflix subscription can now download the game, which features mobile-friendly controls, including touch-screen shooting and navigation. It's important to note that the game does not feature a multiplayer mode and players must be connected to t\u2026",
-        "source_link": "https://techcrunch.com/2025/12/02/netflix-launches-a-mobile-friendly-version-of-red-dead-redemption/"
+        "image": "https://images.nintendolife.com/12de99f7e2a05/large.jpg",
+        "title": "The First Review For Octopath Traveler 0 Is In - Nintendo Life",
+        "description": "Square Enix's new HD-2D RPG starring YOU",
+        "source_link": "https://www.nintendolife.com/news/2025/12/the-first-review-for-octopath-traveler-0-is-in"
+      },
+      {
+        "rank": 10,
+        "image": "https://www.zdnet.com/a/img/resize/6012f7dff8035362bd6da795419e79673fd9f2b9/2025/08/27/73057f5d-e105-4999-b3a3-4961bf6c377a/dsc07521.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "Google's new Android 16 upgrades make a strong case for sticking with Pixel or Samsung - ZDNET",
+        "description": "Android users are getting urgent call indicators, increased scam protection, pinned tabs in Chrome, and more.",
+        "source_link": "https://www.zdnet.com/article/googles-new-android-16-upgrades-make-a-strong-case-for-sticking-with-pixel-or-samsung/"
       }
     ],
     "trending_movies": [
