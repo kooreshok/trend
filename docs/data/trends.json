@@ -1,41 +1,41 @@
 {
-  "last_updated": "December 04, 2025, 16:23 UTC",
+  "last_updated": "December 04, 2025, 17:19 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iPhone 17 Pro lost key Camera app feature that iPhone 16 Pro had - 9to5Mac",
+        "description": "iPhone 17 Pro lacks a Camera app feature that was available on iPhone 16 Pro: Night mode photos are no longer available in Portrait mode",
+        "source_link": "https://9to5mac.com/2025/12/03/iphone-17-pro-lost-key-camera-app-feature-that-iphone-16-pro-had/"
+      },
+      {
+        "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2025/12/GMKtec-Mini-PC-Computers-N95Turbo-3.4GHz-1200x675.jpg",
+        "title": "Amazon Clears Out This Mac Mini Alternative Mini PC for Less Than Budget Earbuds, Preinstalled With Windows 11 Pro - Kotaku",
+        "description": "The GMKtec Nucbox G3S Mini PC runs dual 4K displays and cooks up to 3.4GHz while staying under $200 at Amazon.",
+        "source_link": "https://kotaku.com/windows-11-mini-pc-clearance-mac-mini-alternative-2000649739"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258077_ZSA_Voyager_AKrales_0179.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "This keyboard and trackball combo are for the tinkerers - The Verge",
+        "description": "ZSA launched the Navigator trackball to accompany its Voyager mechanical keyboard, and they are great desk upgrades if you love to tinker and customize.",
+        "source_link": "https://www.theverge.com/tech/819894/zsa-voyager-keyboard-navigator-trackball-mechanical-ergonomic"
+      },
+      {
+        "rank": 4,
         "image": "https://cdn.mos.cms.futurecdn.net/cDBqbRmrteweNF7mQWcM36-2560-80.jpg",
         "title": "Red Dead Redemption's free remaster upgrade is now available on Xbox - Windows Central",
         "description": "Relive the harrowing tale of John Marston with 60fps gameplay and 4K resolutions as Red Dead Redemption's Remaster is now live for current-gen home consoles.",
         "source_link": "https://www.windowscentral.com/gaming/red-dead-redemption-remaster-with-4k-and-60fps-is-now-live-and-its-completely-free-for-owners-of-the-original-xbox-360-version-to-upgrade-to"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://assetsio.gnwcdn.com/Samus-from-the-Metroid-Prime-4-Beyond-keyart-reaching-out-her-hand-with-a-purple-aura-overlaid-on-an-image-of-Blonde-Blazer-in-Dispatch-wearing-a-blue-mask.-Her-eyes-are-glowing-yellow.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Samus' death screams are no longer Jennifer Hale, as Dispatch actress takes over role for Metroid Prime 4: Beyond - Eurogamer",
         "description": "Metroid Prime 4: Beyond has cast a new voice actress for Samus.",
         "source_link": "https://www.eurogamer.net/samus-death-screams-are-no-longer-jennifer-hale-as-dispatch-actress-takes-over-role-for-metroid-prime-4-beyond"
-      },
-      {
-        "rank": 3,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1349412769-1152x648.jpg",
-        "title": "Guitar amp sims have gotten astonishingly good - Ars Technica",
-        "description": "There has never been a better time to be a guitarist.",
-        "source_link": "https://arstechnica.com/culture/2025/12/guitar-amp-sims-have-gotten-astonishingly-good/"
-      },
-      {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/mirumi_1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-        "title": "Mirumi the furry companion robot is now available on Kickstarter - The Verge",
-        "description": "Yukai Engineering\u2019s Mirumi robot that uses simple head movements to convey curiosity, interest, and bashfulness is now available for preorder.",
-        "source_link": "https://www.theverge.com/news/836762/yukai-engineering-mirumi-furry-companion-robot-preorder-available-kickstarter"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.sammobile.com/wp-content/uploads/2025/09/Welcome-to-One-UI-8.5-1200x675.jpg",
-        "title": "One UI 8.5 full changelog just dropped, see what you're getting! - SamMobile",
-        "description": "In September, Samsung's next version of One UI for Galaxy phones and tablets, One UI 8.5, leaked online. The firmware revealed many of the visual and functional upgrades the new software will offer. Since then, we have tested many newer builds of One UI 8.5, \u2026",
-        "source_link": "https://www.sammobile.com/news/one-ui-8-5-full-changelog-features-improvements/"
       },
       {
         "rank": 6,
@@ -53,24 +53,10 @@
       },
       {
         "rank": 8,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2023/02/Vivo-X90-Pro-Google-Discover-scaled-e1727974648135.jpg",
-        "title": "Google is replacing Discover news headlines with laughably awful AI-generated titles - Android Authority",
-        "description": "Google is replacing news headlines in Discover with AI-generated titles that are either boring, too clickbaity, or simply incorrect.",
-        "source_link": "https://www.androidauthority.com/google-discover-ai-headlines-3621603/"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.nintendolife.com/12de99f7e2a05/large.jpg",
-        "title": "The First Review For Octopath Traveler 0 Is In - Nintendo Life",
-        "description": "Square Enix's new HD-2D RPG starring YOU",
-        "source_link": "https://www.nintendolife.com/news/2025/12/the-first-review-for-octopath-traveler-0-is-in"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.zdnet.com/a/img/resize/6012f7dff8035362bd6da795419e79673fd9f2b9/2025/08/27/73057f5d-e105-4999-b3a3-4961bf6c377a/dsc07521.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Google's new Android 16 upgrades make a strong case for sticking with Pixel or Samsung - ZDNET",
-        "description": "Android users are getting urgent call indicators, increased scam protection, pinned tabs in Chrome, and more.",
-        "source_link": "https://www.zdnet.com/article/googles-new-android-16-upgrades-make-a-strong-case-for-sticking-with-pixel-or-samsung/"
+        "image": "https://images.pushsquare.com/ad920e7840c7f/large.jpg",
+        "title": "New PS5 Firmware Update Available from Today, Here's What It Does - Push Square",
+        "description": "Stability is the best ability",
+        "source_link": "https://www.pushsquare.com/news/2025/12/new-ps5-firmware-update-available-from-today-heres-what-it-does"
       }
     ],
     "trending_movies": [
@@ -97,17 +83,17 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
         "rank": 6,
@@ -125,17 +111,17 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
-        "title": "Predator: Badlands",
-        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
-        "source_link": "https://www.themoviedb.org/movie/1242898"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
+        "title": "Predator: Badlands",
+        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
+        "source_link": "https://www.themoviedb.org/movie/1242898"
       },
       {
         "rank": 10,
