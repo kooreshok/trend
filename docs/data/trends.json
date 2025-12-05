@@ -1,27 +1,27 @@
 {
-  "last_updated": "December 05, 2025, 08:22 UTC",
+  "last_updated": "December 05, 2025, 09:18 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/f2098453b26d0/large.jpg",
+        "title": "Random: Samus Is Joined By Doom Slayer's Voice Actor In Metroid Prime 4 - Nintendo Life",
+        "description": "The collab some fans have been waiting for",
+        "source_link": "https://www.nintendolife.com/news/2025/12/random-samus-is-joined-by-doom-slayers-voice-actor-in-metroid-prime-4"
+      },
+      {
+        "rank": 2,
         "image": "https://kotaku.com/app/uploads/2025/11/playstation-dualsense-edge-wireless-controller.jpg",
         "title": "Amazon Liquidates PlayStation's Elite Pro Controllers, DualSense Edge Selling at Record Low - Kotaku",
         "description": "Swap stick caps and reprogram back buttons without tools between gaming sessions.",
         "source_link": "https://kotaku.com/amazon-liquidates-playstations-elite-pro-controllers-dualsense-edge-selling-at-record-low-2000650140"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://techcrunch.com/wp-content/uploads/2022/09/AppleEvent.SEP07Keynote.Alan_.Dye_.jpg?resize=1200,675",
         "title": "Meta poaches Apple design exec Alan Dye to lead new creative studio in Reality Labs - TechCrunch",
         "description": "Dye led Apple's user interface team for the last decade.",
         "source_link": "https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye-to-lead-new-creative-studio-in-reality-labs/"
-      },
-      {
-        "rank": 3,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg",
-        "title": "Admins and defenders gird themselves against maximum-severity server vuln - Ars Technica",
-        "description": "Open source React executes malicious code with malformed HTML\u2014no authentication needed.",
-        "source_link": "https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/"
       },
       {
         "rank": 4,
@@ -64,6 +64,13 @@
         "title": "How to change your Google Pixel 10's lock screen widgets - Android Police",
         "description": "It's not as simple as it should be",
         "source_link": "https://www.androidpolice.com/how-to-change-pixel-10-lock-screen-widgets/"
+      },
+      {
+        "rank": 10,
+        "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
+        "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
+        "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!",
+        "source_link": "https://www.marvelrivals.com/gameupdate/20251203/41548_1274523.html"
       }
     ],
     "trending_movies": [
@@ -83,17 +90,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
         "rank": 5,
@@ -104,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
-        "title": "Troll 2",
-        "description": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet....",
-        "source_link": "https://www.themoviedb.org/movie/1180831"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
         "title": "Bugonia",
         "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
         "source_link": "https://www.themoviedb.org/movie/701387"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
+        "title": "Troll 2",
+        "description": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet....",
+        "source_link": "https://www.themoviedb.org/movie/1180831"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
         "title": "Muzzle: City of Wolves",
         "description": "LAPD officer Jake Rosser endeavors to lead a peaceful life with his family and retired K-9 officer, Socks. However, tranquility dissolves into chaos w...",
         "source_link": "https://www.themoviedb.org/movie/1439112"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
-        "title": "Predator: Badlands",
-        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
-        "source_link": "https://www.themoviedb.org/movie/1242898"
+        "image": "https://image.tmdb.org/t/p/w200/k1hST9Nw6oHSoZEygeqhUzanlcq.jpg",
+        "title": "Jay Kelly",
+        "description": "Famous movie actor Jay Kelly embarks on a journey of self-discovery, confronting both his past and present, accompanied by his devoted manager, Ron....",
+        "source_link": "https://www.themoviedb.org/movie/1069905"
       }
     ]
   }
