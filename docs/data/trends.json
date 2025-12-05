@@ -1,106 +1,99 @@
 {
-  "last_updated": "December 05, 2025, 06:26 UTC",
+  "last_updated": "December 05, 2025, 07:18 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-Fi-Web-Calls-cover-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "This is how Google Fi\u2019s new Web Calls and RCS system works, rolling out now - 9to5Google",
-        "description": "Google is introducing a new Fi Wireless \u201cwebcalls\u201d page, while RCS is now handled by Google Messages on the web.",
-        "source_link": "http://9to5google.com/2025/12/03/google-fi-web-calling-rcs/"
-      },
-      {
-        "rank": 2,
         "image": "https://kotaku.com/app/uploads/2025/11/playstation-dualsense-edge-wireless-controller.jpg",
         "title": "Amazon Liquidates PlayStation's Elite Pro Controllers, DualSense Edge Selling at Record Low - Kotaku",
         "description": "Swap stick caps and reprogram back buttons without tools between gaming sessions.",
         "source_link": "https://kotaku.com/amazon-liquidates-playstations-elite-pro-controllers-dualsense-edge-selling-at-record-low-2000650140"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "image": "https://techcrunch.com/wp-content/uploads/2022/09/AppleEvent.SEP07Keynote.Alan_.Dye_.jpg?resize=1200,675",
         "title": "Meta poaches Apple design exec Alan Dye to lead new creative studio in Reality Labs - TechCrunch",
         "description": "Dye led Apple's user interface team for the last decade.",
         "source_link": "https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye-to-lead-new-creative-studio-in-reality-labs/"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg",
         "title": "Admins and defenders gird themselves against maximum-severity server vuln - Ars Technica",
         "description": "Open source React executes malicious code with malformed HTML\u2014no authentication needed.",
         "source_link": "https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/"
       },
       {
+        "rank": 4,
+        "image": "https://cdn.mos.cms.futurecdn.net/DVQjMDXfotdTf8gEHsWjpi-1676-80.jpg",
+        "title": "Fans say Diablo 4\u2019s Season 11 timing is no accident - Windows Central",
+        "description": "Blizzard\u2019s Diablo 4 Season 11 release follows The Game Awards, sparking speculation about a deliberate strategy.",
+        "source_link": "https://www.windowscentral.com/gaming/xbox/diablo-4-season-11-launches-right-after-the-game-awards-and-fans-think-its-no-coincidence"
+      },
+      {
         "rank": 5,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4615971-escapefromtarkov.jpg",
-        "title": "Escape From Tarkov Players Are Finally Escaping From Tarkov - GameSpot",
-        "description": "Now that its possible, players are learning even more about how to Escape from Tarkov and get the best ending.",
-        "source_link": "https://www.gamespot.com/articles/escape-from-tarkov-players-are-finally-escaping-from-tarkov/1100-6536684/"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/google_chrome.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-        "title": "Google shares 10 of its favorite Chrome extensions from 2025. - The Verge",
-        "description": "",
-        "source_link": "https://www.theverge.com/news/837226/google-favorite-chrome-browser-extension-2025"
-      },
-      {
-        "rank": 7,
         "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/12/03/weapons-buffs-nerfs-warzone-black-ops-7-season-1.jpg",
         "title": "All weapon buffs & nerfs in Warzone & Black Ops 7 Season 1 - Dexerto",
         "description": "Here are all of the weapon buffs and nerfs in Warzone and Black Ops 7\u2019s Season 1 update, which are set to completely change the meta.",
         "source_link": "https://www.dexerto.com/call-of-duty/all-weapon-buffs-nerfs-in-warzone-black-ops-7-season-1-3289534/"
       },
       {
-        "rank": 8,
+        "rank": 6,
         "image": "https://static.wixstatic.com/media/a511ef_d8461c39dd41454db6f839c6914f911a~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/a511ef_d8461c39dd41454db6f839c6914f911a~mv2.jpg",
         "title": "Marvel Cosmic Invasion - Shitomatic Universe (Review) - The Jimquisition",
         "description": "Marvel Cosmic InvasionReleased: December 1st, 2025Developer:\u00a0Tribute GamesPublisher:\u00a0DotEmuSystems:\u00a0PC, PS4/5, Switch (reviewed), Switch 2 (reviewed), Xbox One/X/SI love a good brawler, and that can only mean one thing when it comes to Marvel Cosmic Invasion \u2026",
         "source_link": "https://www.thejimquisition.com/post/marvel-cosmic-invasion-shitomatic-universe-review"
       },
       {
-        "rank": 9,
+        "rank": 7,
         "image": "https://thegamepost.com/wp-content/uploads/2025/12/destiny-2-renegades-lowest-day-one-steam-peak-player-count-positive-reception-2.jpg",
         "title": "Destiny 2 Renegades launches with lowest day-one Steam player count in history despite positive early reviews - The Game Post",
         "description": "Destiny 2 Renegades is getting good early feedback from players, but new Steam data shows the expansion opened to the lowest day-one peak in the series\u2019 history.",
         "source_link": "https://thegamepost.com/destiny-2-renegades-lowest-day-one-steam-peak-player-count-positive-reception/"
       },
       {
-        "rank": 10,
+        "rank": 8,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-Watch-Series-11-display-250909_big.jpg.large_2x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "watchOS 26.2 has four changes for Apple Watch, here\u2019s everything new - 9to5Mac",
         "description": "watchOS 26.2 is almost here, and now we know everything new coming to Apple Watch in the next software update.",
         "source_link": "https://9to5mac.com/2025/12/03/watchos-26-2-has-four-changes-for-apple-watch-heres-everything-new/"
+      },
+      {
+        "rank": 9,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/pixel-10-lock-screen-widget.jpg?w=1600&h=900&fit=crop",
+        "title": "How to change your Google Pixel 10's lock screen widgets - Android Police",
+        "description": "It's not as simple as it should be",
+        "source_link": "https://www.androidpolice.com/how-to-change-pixel-10-lock-screen-widgets/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
         "title": "TRON: Ares",
         "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
         "source_link": "https://www.themoviedb.org/movie/533533"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/qynCyBKCJUUcj4wo4PE2aQVvote.jpg",
         "title": "Oh. What. Fun.",
         "description": "Claire Clauster is the glue that holds her chaotic, lovable family together at the holidays. But this year, after planning a special outing for them, ...",
         "source_link": "https://www.themoviedb.org/movie/1261825"
       },
       {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
+      },
+      {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
-        "title": "Troll 2",
-        "description": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet....",
-        "source_link": "https://www.themoviedb.org/movie/1180831"
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 5,
@@ -111,38 +104,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
+        "image": "https://image.tmdb.org/t/p/w200/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
+        "title": "Troll 2",
+        "description": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet....",
+        "source_link": "https://www.themoviedb.org/movie/1180831"
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg",
-        "title": "Roofman",
-        "description": "A former Army Ranger and struggling father turns to robbing McDonald\u2019s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'...",
-        "source_link": "https://www.themoviedb.org/movie/1242419"
+        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "title": "Bugonia",
+        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
+        "source_link": "https://www.themoviedb.org/movie/701387"
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
-        "title": "Predator: Badlands",
-        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
-        "source_link": "https://www.themoviedb.org/movie/1242898"
+        "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg",
-        "title": "Trap House",
-        "description": "An undercover DEA agent and his partner embark on a game of cat and mouse with an audacious, and surprising group of thieves - their own rebellious te...",
-        "source_link": "https://www.themoviedb.org/movie/628847"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
         "title": "Muzzle: City of Wolves",
         "description": "LAPD officer Jake Rosser endeavors to lead a peaceful life with his family and retired K-9 officer, Socks. However, tranquility dissolves into chaos w...",
         "source_link": "https://www.themoviedb.org/movie/1439112"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
+        "title": "Predator: Badlands",
+        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
+        "source_link": "https://www.themoviedb.org/movie/1242898"
       }
     ]
   }
