@@ -1,5 +1,5 @@
 {
-  "last_updated": "December 05, 2025, 17:16 UTC",
+  "last_updated": "December 05, 2025, 18:22 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,24 +76,24 @@
     "trending_movies": [
       {
         "rank": 1,
+        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+        "title": "TRON: Ares",
+        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
+        "source_link": "https://www.themoviedb.org/movie/533533"
+      },
+      {
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/lEXYpY9X17pGC7xYYy17Guv0L3J.jpg",
         "title": "Jay Kelly",
         "description": "Famous movie actor Jay Kelly embarks on a journey of self-discovery, confronting both his past and present, accompanied by his devoted manager, Ron....",
         "source_link": "https://www.themoviedb.org/movie/1069905"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
-        "title": "TRON: Ares",
-        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
-        "source_link": "https://www.themoviedb.org/movie/533533"
       },
       {
         "rank": 4,
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/n1YtLc6viVt93gOdU8SX7mnq22y.jpg",
-        "title": "The Night My Dad Saved Christmas 2",
-        "description": "When Santa vanishes during a chaotic Christmas, a quirky actor tries to replace him. A father, his teen son and special friends must rescue Santa to s...",
-        "source_link": "https://www.themoviedb.org/movie/1196207"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
         "title": "Troll 2",
         "description": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet....",
         "source_link": "https://www.themoviedb.org/movie/1180831"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/emcCjpC289NxAGuVwlItHCTrgT7.jpg",
-        "title": "Diary of a Wimpy Kid: The Last Straw",
-        "description": "When laidback Greg finds himself at odds with his dad's outsized expectations, pressure builds to turn his act around. After a series of hilarious nea...",
-        "source_link": "https://www.themoviedb.org/movie/1392796"
-      },
-      {
-        "rank": 10,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg",
         "title": "My Secret Santa",
         "description": "A single mom needs a job. A ski resort needs a Santa. Disguised as a St. Nick lookalike, can Taylor fool a charming hotel heir into ho-ho-hiring her?...",
         "source_link": "https://www.themoviedb.org/movie/1441563"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/n1YtLc6viVt93gOdU8SX7mnq22y.jpg",
+        "title": "The Night My Dad Saved Christmas 2",
+        "description": "When Santa vanishes during a chaotic Christmas, a quirky actor tries to replace him. A father, his teen son and special friends must rescue Santa to s...",
+        "source_link": "https://www.themoviedb.org/movie/1196207"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/emcCjpC289NxAGuVwlItHCTrgT7.jpg",
+        "title": "Diary of a Wimpy Kid: The Last Straw",
+        "description": "When laidback Greg finds himself at odds with his dad's outsized expectations, pressure builds to turn his act around. After a series of hilarious nea...",
+        "source_link": "https://www.themoviedb.org/movie/1392796"
       }
     ]
   }
