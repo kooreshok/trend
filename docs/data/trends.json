@@ -1,76 +1,62 @@
 {
-  "last_updated": "December 06, 2025, 16:18 UTC",
+  "last_updated": "December 06, 2025, 17:13 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://collive.com/wp-content/uploads/2025/12/obm-1.jpg",
+        "title": "Mrs. Rochel Reinitz, OBM - COLlive",
+        "description": "Mrs. Rochel Reinitz, matriarch of a Chabad family from Yerushalayim, Israel, passed away on Wednesday, 13 Kislev, 5786. Full Story",
+        "source_link": "https://collive.com/mrs-rochel-reinitz-obm/"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Sony-Astro-Bot-Joyful-DualSense-controller-for-PS5.png?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+        "title": "Sony\u2019s new PS5 DualSense controller might have way more battery life - The Verge",
+        "description": "A new CFI-ZCT2W version of the PS5 DualSense controller could nearly double the original\u2019s battery life, according to one modder\u2019s testing.",
+        "source_link": "https://www.theverge.com/news/838970/ps5-dualsense-battery-life-improvement"
+      },
+      {
+        "rank": 3,
+        "image": "https://assetsio.gnwcdn.com/Screenshot-from-Postal-Bullet-Paradise-reveal-trailer-showing-a-man-looking-at-a-screen-with-several-faces-showing-different-emotions-on-a-scale.-Overlaid-where-the-scale-marker-is-pointing-is-an-angry-face.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "\"Has caused extreme damage to our brand and our company reputation\" - Running with Scissors cancels Postal: Bullet Paradise over AI-generated assets... two days after reveal - Eurogamer",
+        "description": "After receiving pushback for its flagrant use of generative AI, Postal: Bullet Paradise has been cancelled\u2026 just two days after being revealed.",
+        "source_link": "https://www.eurogamer.net/has-caused-extreme-damage-to-our-brand-and-our-company-reputation-running-with-scissors-cancels-postal-bullet-paradise-over-ai-generated-assets-two-days-after-reveal"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/xteink_x4_1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+        "title": "This tiny magnetic e-reader sticks to the back of your iPhone - The Verge",
+        "description": "Xteink\u2019s X4 is a tiny e-reader with a 4.3-inch E Ink screen you can easily pocket or keep stuck to the back of another device.",
+        "source_link": "https://www.theverge.com/news/838885/xteink-x4-e-reader-magnetic-apple-iphone-google-pixel"
+      },
+      {
+        "rank": 5,
+        "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/51358a55o2o11o/ac1cee29ae3cba78556c6ca6a300ca678786900e.jpg",
+        "title": "GTA Online: A Safehouse in the Hills Coming December 10 - Rockstar Games",
+        "description": "Prime luxury real estate comes to GTA Online in A Safehouse in the Hills, the monumental new update arriving December 10 on PlayStation 5, PlayStation 4, Xbox Series X|S, Xbox One, and PC.",
+        "source_link": "https://www.rockstargames.com/newswire/article/51358a55o2o11o/gta-online-a-safehouse-in-the-hills-coming-december-10"
+      },
+      {
+        "rank": 6,
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2024-06/20/17/enhanced/92c15a80e478/original-5805-1718904598-2.jpg?crop=2988:1992;6,0&resize=1250:830",
+        "title": "\"I Hate It With Every Bone In My Body\": People Are Calling Out The Overrated Things They're Tired Of Being Told Are Amazing - BuzzFeed",
+        "description": "\"The number of people telling me I will regret not having a big wedding is wild...\"",
+        "source_link": "https://www.buzzfeed.com/claudiasantos/popular-things-that-are-not-good-fs"
+      },
+      {
+        "rank": 7,
+        "image": null,
+        "title": "Dragon Age Day Came And Went Without A Single Word From BioWare - Kotaku",
+        "description": null,
+        "source_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSURhREhZOEh1NkhsVThZOTU3amRHR0tzWEJxZnF1c2NRRkYwUEtHdmNtT1RQbDNrRWU3NFpRNE0wSllIZmdHVTF2RGtwWDA0Q3VRbUVyMElxQWdDUE5NR3ZUTVJUWnZzUHRRYkRZMVpYQW44YmlpT1prdFl6Q05pbjFQUmhsWERwbEVsR09n?oc=5"
+      },
+      {
+        "rank": 8,
         "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/1.21.11-rc2_1170x500.jpg",
         "title": "Minecraft 1.21.11 Release Candidate 2 - Minecraft",
         "description": "Minecraft 1.21.11 Release Candidate 2",
         "source_link": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-release-candidate-2"
-      },
-      {
-        "rank": 2,
-        "image": "https://images.pushsquare.com/c11dea10b4a69/large.jpg",
-        "title": "PS5 Sci-Fi Action RPG SOL Shogunate Is Samurai in Space, and It Looks Awesome - Push Square",
-        "description": "Moon knights",
-        "source_link": "https://www.pushsquare.com/news/2025/12/ps5-sci-fi-action-rpg-sol-shogunate-is-samurai-in-space-and-it-looks-awesome"
-      },
-      {
-        "rank": 3,
-        "image": "https://pokemongohub.net/wp-content/uploads/2025/11/2025-community-day-december.jpg",
-        "title": "Your Meta Guide to December Community Day - Pok\u00e9mon GO Hub",
-        "description": "Hello Trainers!. We are now in the month of December and with it comes the expected - Christmas, Holidays, soon to be made (but never fulfilled) New Year resolutions, and the year end Community Day. With all of 2025 Community Day Pok\u00e9mon featured in one weeke\u2026",
-        "source_link": "https://pokemongohub.net/post/guide/your-meta-guide-to-december-community-day/"
-      },
-      {
-        "rank": 4,
-        "image": "https://images.nintendolife.com/f11a2c4619fad/large.jpg",
-        "title": "Starship Troopers: Ultimate Bug War! Brings A \"New Retro FPS\" Experience To Switch 2 Next Year - Nintendo Life",
-        "description": "From the developers of Warhammer 40,000: Boltgun",
-        "source_link": "https://www.nintendolife.com/news/2025/12/starship-troopers-ultimate-bug-war-brings-a-new-retro-fps-experience-to-switch-2-next-year"
-      },
-      {
-        "rank": 5,
-        "image": "https://kotaku.com/app/uploads/2025/11/playstation-5-pro.jpg",
-        "title": "Ditch Your PS5 Slim, PlayStation 5 Pro at New Record Low If You Want to Play at Pro Level - Kotaku",
-        "description": "The GPU delivers 67% more compute power while AI upscaling maintains crisp 4K output.",
-        "source_link": "https://kotaku.com/ditch-your-ps5-slim-playstation-5-pro-at-new-record-low-if-you-want-to-play-at-pro-level-2000650592"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0175_f1b8d7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Nintendo\u2019s Switch 2 Mario Kart bundle is on sale at Amazon again for $50 off - The Verge",
-        "description": "The Switch 2 is still relatively new, so deals are rare. However, you can still get Nintendo\u2019s latest console with a free copy of Mario Kart World for a limited time.",
-        "source_link": "https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets.warhammer-community.com/dow_trailer-dec04-1-feature-oj9lvbjjwg.jpg",
-        "title": "The Blood Ravens are not alone in a new Warhammer 40,000: Dawn of War IV story trailer - Warhammer Community",
-        "description": "Reinforcements are on the way.",
-        "source_link": "https://www.warhammer-community.com/articles/amsujx55/the-blood-ravens-are-not-alone-in-a-new-warhammer-40000-dawn-of-war-iv-story-trailer"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/10/Apple-TV-4K-2022.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "tvOS 26.2 gets new RC for Apple TV 4K ahead of launch - 9to5Mac",
-        "description": "Apple has just debuted a revised RC (release candidate) build for tvOS 26.2, available both for developers and public beta users.",
-        "source_link": "https://9to5mac.com/2025/12/04/tvos-26-2-gets-new-rc-for-apple-tv-4k-ahead-of-launch/"
-      },
-      {
-        "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2025/12/Outer-Worlds-2.jpg",
-        "title": "The Outer Worlds 2 Gave Me Exactly What I Wanted From An RPG Inventory System And I Hated It - Kotaku",
-        "description": "An RPG without encumbrance seemed like the holy grail, but it didn\u2019t exactly turn out that way",
-        "source_link": "https://kotaku.com/outer-worlds-2-rpg-inventory-weight-encumbered-2000650641"
-      },
-      {
-        "rank": 10,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/sm1-1152x648.jpg",
-        "title": "Why won\u2019t Steam Machine support HDMI 2.1? Digging in on the display standard drama. - Ars Technica",
-        "description": "Valve tells Ars its \u201ctrying to unblock\u201d limits caused by open source driver issues.",
-        "source_link": "https://arstechnica.com/gaming/2025/12/why-wont-steam-machine-support-hdmi-2-1-digging-in-on-the-display-standard-drama/"
       }
     ],
     "trending_movies": [
@@ -104,17 +90,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
-        "title": "Bugonia",
-        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
-        "source_link": "https://www.themoviedb.org/movie/701387"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
         "title": "Five Nights at Freddy's 2",
         "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
         "source_link": "https://www.themoviedb.org/movie/1228246"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "title": "Bugonia",
+        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
+        "source_link": "https://www.themoviedb.org/movie/701387"
       },
       {
         "rank": 7,
@@ -125,24 +111,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
-        "title": "Marty Supreme",
-        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/emcCjpC289NxAGuVwlItHCTrgT7.jpg",
         "title": "Diary of a Wimpy Kid: The Last Straw",
         "description": "When laidback Greg finds himself at odds with his dad's outsized expectations, pressure builds to turn his act around. After a series of hilarious nea...",
         "source_link": "https://www.themoviedb.org/movie/1392796"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/n1YtLc6viVt93gOdU8SX7mnq22y.jpg",
         "title": "The Night My Dad Saved Christmas 2",
         "description": "When Santa vanishes during a chaotic Christmas, a quirky actor tries to replace him. A father, his teen son and special friends must rescue Santa to s...",
         "source_link": "https://www.themoviedb.org/movie/1196207"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+        "title": "Marty Supreme",
+        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       }
     ]
   }
