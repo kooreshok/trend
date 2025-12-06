@@ -1,62 +1,76 @@
 {
-  "last_updated": "December 06, 2025, 18:21 UTC",
+  "last_updated": "December 06, 2025, 19:12 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://collive.com/wp-content/uploads/2025/12/obm-1.jpg",
-        "title": "Mrs. Rochel Reinitz, OBM - COLlive",
-        "description": "Mrs. Rochel Reinitz, matriarch of a Chabad family from Yerushalayim, Israel, passed away on Wednesday, 13 Kislev, 5786. Full Story",
-        "source_link": "https://collive.com/mrs-rochel-reinitz-obm/"
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/IMG_2716-1152x648.jpeg",
+        "title": "SteamOS vs. Windows on dedicated GPUs: It\u2019s complicated, but Windows has an edge - Ars Technica",
+        "description": "Ars testing shows SteamOS fares better on iGPUs than powerful graphics cards.",
+        "source_link": "https://arstechnica.com/gadgets/2025/12/steamos-vs-windows-on-dedicated-gpus-its-complicated-but-windows-has-an-edge/"
       },
       {
         "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Sony-Astro-Bot-Joyful-DualSense-controller-for-PS5.png?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-        "title": "Sony\u2019s new PS5 DualSense controller might have way more battery life - The Verge",
-        "description": "A new CFI-ZCT2W version of the PS5 DualSense controller could nearly double the original\u2019s battery life, according to one modder\u2019s testing.",
-        "source_link": "https://www.theverge.com/news/838970/ps5-dualsense-battery-life-improvement"
+        "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o3285972548k19/27a5b0889f736ea5b25bc7b1efc99e5123e01742.jpg",
+        "title": "New at the Rockstar Store: Apparel, Collectibles, and More - Rockstar Games",
+        "description": "We\u2019re excited to announce that a haul of new official gear is now available on the Rockstar Store, featuring new apparel, fun accessories and collectibles, and more.",
+        "source_link": "https://www.rockstargames.com/newswire/article/o3285972548k19/new-at-the-rockstar-store-apparel-collectibles-and-more"
       },
       {
         "rank": 3,
-        "image": "https://assetsio.gnwcdn.com/Screenshot-from-Postal-Bullet-Paradise-reveal-trailer-showing-a-man-looking-at-a-screen-with-several-faces-showing-different-emotions-on-a-scale.-Overlaid-where-the-scale-marker-is-pointing-is-an-angry-face.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "\"Has caused extreme damage to our brand and our company reputation\" - Running with Scissors cancels Postal: Bullet Paradise over AI-generated assets... two days after reveal - Eurogamer",
-        "description": "After receiving pushback for its flagrant use of generative AI, Postal: Bullet Paradise has been cancelled\u2026 just two days after being revealed.",
-        "source_link": "https://www.eurogamer.net/has-caused-extreme-damage-to-our-brand-and-our-company-reputation-running-with-scissors-cancels-postal-bullet-paradise-over-ai-generated-assets-two-days-after-reveal"
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/tony-fadell-arm.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Tony Fadell, iPod co-creator, might want to be Apple\u2019s next CEO: report - 9to5Mac",
+        "description": "A new report offers an overview of possibilities for when Apple\u2019s CEO Tim Cook steps down, including Tony Fadell returning.",
+        "source_link": "https://9to5mac.com/2025/12/05/tony-fadell-ipod-co-creator-might-want-to-be-apples-next-ceo-report/"
       },
       {
         "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/xteink_x4_1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-        "title": "This tiny magnetic e-reader sticks to the back of your iPhone - The Verge",
-        "description": "Xteink\u2019s X4 is a tiny e-reader with a 4.3-inch E Ink screen you can easily pocket or keep stuck to the back of another device.",
-        "source_link": "https://www.theverge.com/news/838885/xteink-x4-e-reader-magnetic-apple-iphone-google-pixel"
+        "image": "https://kotaku.com/app/uploads/2025/12/morning-checkpoint-1200x675.jpg",
+        "title": "Used Xbox Consoles Cost More Than New Ones At Launch - Kotaku",
+        "description": "Also: A Call of Duty map has gone missing, a Dragon Ball Z fish, and Hytale ain't coming to Steam anytime soon",
+        "source_link": "https://kotaku.com/fans-cant-believe-how-much-microsoft-is-selling-used-xbox-consoles-for-2000650923"
       },
       {
         "rank": 5,
-        "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/51358a55o2o11o/ac1cee29ae3cba78556c6ca6a300ca678786900e.jpg",
-        "title": "GTA Online: A Safehouse in the Hills Coming December 10 - Rockstar Games",
-        "description": "Prime luxury real estate comes to GTA Online in A Safehouse in the Hills, the monumental new update arriving December 10 on PlayStation 5, PlayStation 4, Xbox Series X|S, Xbox One, and PC.",
-        "source_link": "https://www.rockstargames.com/newswire/article/51358a55o2o11o/gta-online-a-safehouse-in-the-hills-coming-december-10"
+        "image": "https://assetsio.gnwcdn.com/todd-ex33_xUoRTrj.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Bethesda boss and RPG lover Todd Howard names his 2025 Game of the Year, and it shouldn't come as a big surprise - Eurogamer",
+        "description": "Bethesda's Todd Howard, boss of the Elder Scrolls and Fallout series, has named his game of the year - it's Clair Obscur: Expedition 33.",
+        "source_link": "https://www.eurogamer.net/bethesda-boss-and-rpg-lover-todd-howard-names-his-2025-game-of-the-year-and-it-shouldnt-come-as-a-big-surprise"
       },
       {
         "rank": 6,
-        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2024-06/20/17/enhanced/92c15a80e478/original-5805-1718904598-2.jpg?crop=2988:1992;6,0&resize=1250:830",
-        "title": "\"I Hate It With Every Bone In My Body\": People Are Calling Out The Overrated Things They're Tired Of Being Told Are Amazing - BuzzFeed",
-        "description": "\"The number of people telling me I will regret not having a big wedding is wild...\"",
-        "source_link": "https://www.buzzfeed.com/claudiasantos/popular-things-that-are-not-good-fs"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25623449/DSCF0031.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "The Apple AirPods 4 with ANC are at their lowest price - The Verge",
+        "description": "Along with the Apple AirPods 4 with ANC, you can also save on a Lego PAC-MAN kit, a camera for spying on your pet, and a fun mechanical keyboard.",
+        "source_link": "https://www.theverge.com/gadgets/838493/apple-airpods-anc-lego-deal-sale"
       },
       {
         "rank": 7,
-        "image": null,
-        "title": "Dragon Age Day Came And Went Without A Single Word From BioWare - Kotaku",
-        "description": null,
-        "source_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSURhREhZOEh1NkhsVThZOTU3amRHR0tzWEJxZnF1c2NRRkYwUEtHdmNtT1RQbDNrRWU3NFpRNE0wSllIZmdHVTF2RGtwWDA0Q3VRbUVyMElxQWdDUE5NR3ZUTVJUWnZzUHRRYkRZMVpYQW44YmlpT1prdFl6Q05pbjFQUmhsWERwbEVsR09n?oc=5"
+        "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/12/chair-company-computer.png",
+        "title": "\u2018The Chair Company\u2019 Is A Show About How Fun It Is To Use The Computer - Defector",
+        "description": "Throughout the first season of The Chair Company, the protagonist Ron Trosper (Tim Robinson) goes to many places that he should not. He chases unsettling men and curious leads through parking lots, dingy apartment buildings, hoarder houses, government records\u2026",
+        "source_link": "https://defector.com/the-chair-company-is-a-show-about-how-fun-it-is-to-use-the-computer"
       },
       {
         "rank": 8,
-        "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/1.21.11-rc2_1170x500.jpg",
-        "title": "Minecraft 1.21.11 Release Candidate 2 - Minecraft",
-        "description": "Minecraft 1.21.11 Release Candidate 2",
-        "source_link": "https://www.minecraft.net/en-us/article/minecraft-1-21-11-release-candidate-2"
+        "image": "https://img.pastemagazine.com/wp-content/avuploads/2025/12/04131632/paxu_2025_1920.jpg",
+        "title": "What PAX Unplugged tells us about the future of tabletop gaming - AV Club",
+        "description": "Who knows what games await the tabletops of the world? Well, we kinda do, after attending PAX Unplugged in November.",
+        "source_link": "https://www.avclub.com/pax-unplugged-future-of-tabletop-games"
+      },
+      {
+        "rank": 9,
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2025-12/05/15/thumb/rrJh6XY9X.jpg?crop=2500:1309;0,103%26downsize=1250:*",
+        "title": "32 Pictures That ALWAYS Make Me Laugh Uncontrollably No Matter How Many Times I've Seen Them, Like, They're That Good - BuzzFeed",
+        "description": "You gotta check these out.",
+        "source_link": "https://www.buzzfeed.com/daves4/funny-and-random-pictures-collcetion-december-5"
+      },
+      {
+        "rank": 10,
+        "image": "https://assets-prd.ignimgs.com/2025/12/05/game-awards-blog-1764945951911.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "What to Expect From The Game Awards 2025 - IGN",
+        "description": "Our predictions for what new game reveals and announcements we might see on December 11 at The Game Awards 2025.",
+        "source_link": "https://www.ign.com/articles/what-to-expect-from-the-game-awards-2025"
       }
     ],
     "trending_movies": [
@@ -76,38 +90,38 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/qynCyBKCJUUcj4wo4PE2aQVvote.jpg",
-        "title": "Oh. What. Fun.",
-        "description": "Claire Clauster is the glue that holds her chaotic, lovable family together at the holidays. But this year, after planning a special outing for them, ...",
-        "source_link": "https://www.themoviedb.org/movie/1261825"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
-        "title": "Marty Supreme",
-        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
         "title": "TRON: Ares",
         "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
         "source_link": "https://www.themoviedb.org/movie/533533"
       },
       {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+        "title": "Marty Supreme",
+        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
+      },
+      {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
-        "title": "Predator: Badlands",
-        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
-        "source_link": "https://www.themoviedb.org/movie/1242898"
+        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "title": "Bugonia",
+        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
+        "source_link": "https://www.themoviedb.org/movie/701387"
       },
       {
         "rank": 8,
@@ -118,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
-        "title": "Muzzle: City of Wolves",
-        "description": "LAPD officer Jake Rosser endeavors to lead a peaceful life with his family and retired K-9 officer, Socks. However, tranquility dissolves into chaos w...",
-        "source_link": "https://www.themoviedb.org/movie/1439112"
+        "image": "https://image.tmdb.org/t/p/w200/qynCyBKCJUUcj4wo4PE2aQVvote.jpg",
+        "title": "Oh. What. Fun.",
+        "description": "Claire Clauster is the glue that holds her chaotic, lovable family together at the holidays. But this year, after planning a special outing for them, ...",
+        "source_link": "https://www.themoviedb.org/movie/1261825"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
+        "image": "https://image.tmdb.org/t/p/w200/emcCjpC289NxAGuVwlItHCTrgT7.jpg",
+        "title": "Diary of a Wimpy Kid: The Last Straw",
+        "description": "When laidback Greg finds himself at odds with his dad's outsized expectations, pressure builds to turn his act around. After a series of hilarious nea...",
+        "source_link": "https://www.themoviedb.org/movie/1392796"
       }
     ]
   }
