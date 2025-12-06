@@ -1,27 +1,27 @@
 {
-  "last_updated": "December 06, 2025, 08:20 UTC",
+  "last_updated": "December 06, 2025, 09:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/02/x-worst-android-malwares-of-all-time.jpg?w=1600&h=900&fit=crop",
-        "title": "A new Android malware sneakily wipes your bank account - Android Police",
-        "description": "Another banking malware has struck Androids yet again",
-        "source_link": "https://www.androidpolice.com/a-new-android-nalware-sneakily-wipes-your-bank-account/"
-      },
-      {
-        "rank": 2,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2207557317-900x648.jpg",
         "title": "Congress told there needs to be \u201cconsequences\u201d for NASA delays amid China\u2019s rise - Ars Technica",
         "description": "\u201cThe Artemis III mission and those beyond should be canceled.\u201d\u2026",
         "source_link": "https://arstechnica.com/space/2025/12/congress-told-there-needs-to-be-consequences-for-nasa-delays-amid-chinas-rise/"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "image": "https://images.purexbox.com/10cd979010697/large.jpg",
         "title": "Roundup: All The Xbox Reveals From The PC Gaming Show: Most Wanted 2025 - Pure Xbox",
         "description": "Over 15 of them!",
         "source_link": "https://www.purexbox.com/news/2025/12/roundup-all-the-xbox-reveals-from-the-pc-gaming-show-most-wanted-2025"
+      },
+      {
+        "rank": 3,
+        "image": "https://assets-prd.ignimgs.com/2025/12/04/wowscrnshot-120425-150753-1764883655299.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "World of Warcraft's Housing Feature Is Now Live, and Horde Players Are Desperately Trying to Reinvent Their Spiky Huts - IGN",
+        "description": "World of Warcraft's housing feature launched this week for everyone who purchased the upcoming Midnight expansion early. And Horde players in particular are really struggling to contend with one major issue: their house exteriors are ugly.",
+        "source_link": "https://www.ign.com/articles/world-of-warcrafts-housing-feature-is-now-live-and-horde-players-are-desperately-trying-to-reinvent-their-spiky-huts"
       },
       {
         "rank": 4,
@@ -67,10 +67,10 @@
       },
       {
         "rank": 10,
-        "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/12/04/DiscordCheckpoint.jpg",
-        "title": "How to get your 2025 Discord Checkpoint recap - Dexerto",
-        "description": "Discord has begun rolling out its first-ever recap feature for 2025, taking notes from the likes of Spotify and YouTube.",
-        "source_link": "https://www.dexerto.com/entertainment/how-to-get-your-2025-discord-checkpoint-recap-3290242/"
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/sm1-1152x648.jpg",
+        "title": "Why won\u2019t Steam Machine support HDMI 2.1? Digging in on the display standard drama. - Ars Technica",
+        "description": "Valve tells Ars its \u201ctrying to unblock\u201d limits caused by open source driver issues.",
+        "source_link": "https://arstechnica.com/gaming/2025/12/why-wont-steam-machine-support-hdmi-2-1-digging-in-on-the-display-standard-drama/"
       }
     ],
     "trending_movies": [
@@ -83,45 +83,45 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
-        "title": "TRON: Ares",
-        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
-        "source_link": "https://www.themoviedb.org/movie/533533"
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/emcCjpC289NxAGuVwlItHCTrgT7.jpg",
         "title": "Diary of a Wimpy Kid: The Last Straw",
         "description": "When laidback Greg finds himself at odds with his dad's outsized expectations, pressure builds to turn his act around. After a series of hilarious nea...",
         "source_link": "https://www.themoviedb.org/movie/1392796"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
-        "title": "Troll 2",
-        "description": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet....",
-        "source_link": "https://www.themoviedb.org/movie/1180831"
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+        "title": "TRON: Ares",
+        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
+        "source_link": "https://www.themoviedb.org/movie/533533"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
         "title": "Bugonia",
         "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
         "source_link": "https://www.themoviedb.org/movie/701387"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
+        "title": "Troll 2",
+        "description": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet....",
+        "source_link": "https://www.themoviedb.org/movie/1180831"
       },
       {
         "rank": 8,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/qynCyBKCJUUcj4wo4PE2aQVvote.jpg",
-        "title": "Oh. What. Fun.",
-        "description": "Claire Clauster is the glue that holds her chaotic, lovable family together at the holidays. But this year, after planning a special outing for them, ...",
-        "source_link": "https://www.themoviedb.org/movie/1261825"
+        "image": "https://image.tmdb.org/t/p/w200/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
+        "title": "Muzzle: City of Wolves",
+        "description": "LAPD officer Jake Rosser endeavors to lead a peaceful life with his family and retired K-9 officer, Socks. However, tranquility dissolves into chaos w...",
+        "source_link": "https://www.themoviedb.org/movie/1439112"
       }
     ]
   }
