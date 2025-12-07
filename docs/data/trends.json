@@ -1,76 +1,69 @@
 {
-  "last_updated": "December 07, 2025, 16:18 UTC",
+  "last_updated": "December 07, 2025, 17:13 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/glossypikmin4mainRAW.jpg?quality=90&strip=all&crop=0%2C10.741445188627%2C100%2C78.517109622746&w=1200",
+        "title": "The Nintendo Switch 2 and Ninja\u2019s Creami are the best deals of the week - The Verge",
+        "description": "For a limited time, Cyber Monday deals like $50 off Nintendo\u2019s Switch 2 and a bigger discount on Ninja\u2019s Creami ice cream maker are still happening.",
+        "source_link": "https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKB381_AURACAST2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "The tech world is sleeping on the most exciting Bluetooth feature in years - The Verge",
+        "description": "Auracast lets many devices tune into one Bluetooth broadcast. It\u2019s great for accessibility and noisy environments. Why don\u2019t more companies talk about it?",
+        "source_link": "https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google"
+      },
+      {
+        "rank": 3,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6934397b3ec9cde9de464555/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "How To Quickly Max A Faction In Destiny 2: Renegades For Tier 5 Loot - Forbes",
+        "description": "Destiny 2 is gatekeeping higher-tier loot in Renegades, but it's much easier to upgrade it than it was in Edge of Fate by maxing a faction. Here's how.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2025/12/06/how-to-quickly-max-a-faction-in-destiny-2-renegades-for-tier-5-loot/"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/09/Google-Pixel-10-Pro-XL-hero.jpg",
+        "title": "Tested: My Pixel 10 runs faster with the Android 16 QPR2 update - Android Authority",
+        "description": "My Pixel 10's performance appears to be better with Android 16 QPR2, in addition to all its new features. See the benchmark results.",
+        "source_link": "https://www.androidauthority.com/android-16-qpr2-performance-test-3622602/"
+      },
+      {
+        "rank": 5,
         "image": "https://www.cnet.com/a/img/resize/172db9216f9455c8676b0d6f847d321c5492a4a6/hub/2025/02/28/cade325e-9d82-48ce-a1ee-b84852f976e6/img-2485.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "Stop Charging Your Android Watch Daily. Here Are 7 Tips for Longer Battery Life - CNET",
         "description": "From Samsung's Galaxy Watch to Google's Pixel Watch and other Wear OS models, these settings can add hours of extra battery life for sleep and fitness tracking.",
         "source_link": "https://www.cnet.com/tech/mobile/stop-charging-your-android-watch-daily-here-are-7-tips-for-longer-battery-life/"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2022/12/netflix-grid-ap-hero.jpg?w=1600&h=900&fit=crop",
         "title": "Netflix is killing off a legacy streaming option, and I'm worried others are next - Android Police",
         "description": "Casting from Netflix is on its way out",
         "source_link": "https://www.androidpolice.com/netflix-killing-chromecast-others-next/"
       },
       {
-        "rank": 3,
+        "rank": 7,
+        "image": "https://regmedia.co.uk/2025/12/02/ms_ugly_sweater.jpg",
+        "title": "And the winner of the Microsoft Christmas sweater is... - theregister.com",
+        "description": ": Peak Microsoft is whatever you want it to be. Or not",
+        "source_link": "https://www.theregister.com/2025/12/06/microsoft_sweater_competition/"
+      },
+      {
+        "rank": 8,
+        "image": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2025/12/nest_google_smarthome.jpg",
+        "title": "What Google Just Did To Nest Is The One Thing No Company Should Ever Do - Inc.com",
+        "description": "Back in October, Google ended software support for the original and second-generation Nest Learning Thermostats. On the surface, that doesn\u2019t seem totally",
+        "source_link": "https://www.inc.com/jason-aten/what-google-just-did-to-nest-is-the-one-thing-no-company-should-ever-do/91275297"
+      },
+      {
+        "rank": 9,
         "image": "https://i.insider.com/6932041704d0f0a114f17336?width=1200&format=jpeg",
         "title": "How a 24-year-old Stanford Ph.D. dropout lured some of Meta's brightest minds to join her AI math startup - Business Insider",
         "description": "24-year-old Axiom Math founder Carina Hong wooed top Meta researchers in a competitive AI talent market.",
         "source_link": "https://www.businessinsider.com/axiom-math-stanford-dropout-meta-ai-researchers-startup-2025-12"
-      },
-      {
-        "rank": 4,
-        "image": "https://images.nintendolife.com/2365068ffb980/large.jpg",
-        "title": "Switch Online Holiday Icons, Super Mario Ornament And 2026 Calendar Now Available (US) - Nintendo Life",
-        "description": "Get them with your Platinum Points",
-        "source_link": "https://www.nintendolife.com/news/2025/12/switch-online-holiday-icons-super-mario-ornament-and-2026-calendar-now-available-us"
-      },
-      {
-        "rank": 5,
-        "image": "https://gizmodo.com/app/uploads/2025/08/macbook-deal-1200x675.jpg",
-        "title": "New MacBook Air M4 Is Now Cheaper Than Refurb M2, Amazon Liquidates Stock After Black Friday at Record Low - Gizmodo",
-        "description": "Apple never discounts new hardware this deeply.",
-        "source_link": "https://gizmodo.com/new-macbook-air-m4-is-now-cheaper-than-refurb-m2-amazon-liquidates-stock-after-black-friday-at-record-low-2000696077"
-      },
-      {
-        "rank": 6,
-        "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/12/Tesla-2025-holiday-update.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Tesla announces 2025 holiday update with a few cool features - Electrek",
-        "description": "Tesla has officially announced its 2025 Holiday Update, and this year, the automaker is not using the usually bigger update...",
-        "source_link": "http://electrek.co/2025/12/05/tesla-2025-holiday-update-few-cool-features/"
-      },
-      {
-        "rank": 7,
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/782a/live/fd350930-d20b-11f0-a892-01d657345866.jpg",
-        "title": "Apple Watch, Samsung Galaxy Watch: Am I addicted to my smartwatch? - BBC",
-        "description": "Do they do what they say they do, or are they just making us more stressed?",
-        "source_link": "https://www.bbc.com/news/articles/c8xdgwrrd0vo"
-      },
-      {
-        "rank": 8,
-        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2025-11/28/21/thumb/jwIqS5l52.jpg?crop=3000:1571;0,3%26downsize=1250:*",
-        "title": "I Spent *Hours* Scrolling TikTok To Find These 29 Elite Gifts So You Don\u2019t Have To - BuzzFeed",
-        "description": "Get the trendiest gifts without ever having to pick up your phone.",
-        "source_link": "https://www.buzzfeed.com/jessicahall2/elite-tiktok-gifts-2025"
-      },
-      {
-        "rank": 9,
-        "image": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FQI2VWU7HSRDC3DOAPKVLHIRQNM.jpeg?auth=a0675ac5fcd2daa63e4e7f8e9dad1c33b0bb1330ce5127c59f27dccd8a2285d6&width=1200&height=630&smart=true",
-        "title": "Cosmic rays are cause behind JetBlue flight suddenly plunging in the sky. This is why it happened - WSB-TV",
-        "description": "The plane suddenly lost altitude while traveling from Cancun to New Jersey in October.",
-        "source_link": "https://www.wsbtv.com/news/local/atlanta/cosmic-rays-are-cause-behind-jetblue-flight-suddenly-plunging-sky-this-is-why-it-happened/TV6KZQELXVFUVNLCQUAPETRT6E/"
-      },
-      {
-        "rank": 10,
-        "image": "https://kotaku.com/app/uploads/2025/12/metroid-vaginaas-1200x675.jpg",
-        "title": "Metroid Prime 4 Has A Lot Of Vaginal Doorways In It - Kotaku",
-        "description": "I mean, most of these doors look more like vulvas to me...",
-        "source_link": "https://kotaku.com/metroid-prime-4-players-discovering-vagina-vulva-doors-2000651050"
       }
     ],
     "trending_movies": [
@@ -97,17 +90,17 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
-        "title": "Troll 2",
-        "description": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet....",
-        "source_link": "https://www.themoviedb.org/movie/1180831"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
         "title": "Five Nights at Freddy's 2",
         "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
         "source_link": "https://www.themoviedb.org/movie/1228246"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
+        "title": "Troll 2",
+        "description": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet....",
+        "source_link": "https://www.themoviedb.org/movie/1180831"
       },
       {
         "rank": 6,
@@ -118,17 +111,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/qynCyBKCJUUcj4wo4PE2aQVvote.jpg",
-        "title": "Oh. What. Fun.",
-        "description": "Claire Clauster is the glue that holds her chaotic, lovable family together at the holidays. But this year, after planning a special outing for them, ...",
-        "source_link": "https://www.themoviedb.org/movie/1261825"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
         "title": "Predator: Badlands",
         "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
         "source_link": "https://www.themoviedb.org/movie/1242898"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/qynCyBKCJUUcj4wo4PE2aQVvote.jpg",
+        "title": "Oh. What. Fun.",
+        "description": "Claire Clauster is the glue that holds her chaotic, lovable family together at the holidays. But this year, after planning a special outing for them, ...",
+        "source_link": "https://www.themoviedb.org/movie/1261825"
       },
       {
         "rank": 9,
