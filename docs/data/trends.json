@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 09, 2025, 10:20 UTC",
+  "last_updated": "December 09, 2025, 11:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/Google-NameDrop-Contact-exchange-animation.jpg",
+        "title": "Here's your first look at the slick animation for Android\u2019s NameDrop-style contact sharing feature - Android Authority",
+        "description": "Here's an exclusive first look at the new animation for Google's upcoming NameDrop-style contact-sharing feature for Android.",
+        "source_link": "https://www.androidauthority.com/android-name-drop-contact-sharing-animation-3623020/"
+      },
+      {
+        "rank": 2,
         "image": "https://regmedia.co.uk/2024/04/01/ban_shutterstock.jpg",
         "title": "Block all AI browsers for the foreseeable future: Gartner - theregister.com",
         "description": ": Analysts worry lazy users could have agents complete mandatory infosec training, and attackers could do far nastier things",
         "source_link": "https://www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://i.insider.com/69329bd77ecd1d1da662fc63?width=1200&format=jpeg",
+        "title": "I tried OpenAI staff's 6 tips to get more out of ChatGPT \u2014 and the model felt far more useful - Business Insider",
+        "description": "OpenAI staff shared six tips for using ChatGPT better. I tested them, and several noticeably improved my experience.",
+        "source_link": "https://www.businessinsider.com/openai-staff-6-tips-chatgpt-model-smarter-2025-12"
+      },
+      {
+        "rank": 4,
         "image": "https://hackaday.com/wp-content/uploads/2025/11/Wave-Phoenix-Receiver.png",
         "title": "Wavebird Controller Soars Once More With Open Source Adapter - Hackaday",
         "description": "After scouring the second-hand shops and the endless pages of eBay for original video game hardware, a pattern emerges. The size of the accessory matters. If a relatively big controller originally \u2026",
         "source_link": "https://hackaday.com/2025/12/07/wavebird-controller-soars-once-more-with-open-source-adapter/"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://www.sciencealert.com/images/2025/11/Clock-Inside-Human-Brain-Illustration-.jpg",
         "title": "A Fasting-Style Diet Seems to Result in Dynamic Changes to Human Brains - ScienceAlert",
         "description": "Scientists looking to tackle our ongoing obesity crisis have made an important discovery: Intermittent calorie restriction leads to significant changes both in the gut and the brain, which may open up new options for maintaining a healthy weight.",
         "source_link": "https://www.sciencealert.com/a-fasting-style-diet-seems-to-result-in-dynamic-changes-to-human-brains"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://www.bgr.com/img/gallery/the-most-scientifically-accurate-sci-fi-movies-according-to-nasa/l-intro-1764953910.jpg",
         "title": "The Most Scientifically Accurate Sci-Fi Movies, According To NASA - bgr.com",
         "description": "Not all sci-fi movies are like \"2012.\" According to NASA scientists, films like Gattaca and even Jurassic Park are surprisingly accurate scientifically.",
         "source_link": "https://www.bgr.com/2044102/most-scientifically-accurate-sci-fi-movies-nasa/"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://gizmodo.com/app/uploads/2025/12/dead-space-hed2-1200x675.jpg",
         "title": "RIP, \u2018Dead Space\u2019\u2026.Again (2008-2023) - Gizmodo",
         "description": "Unless EA decides to sell off the 'Dead Space' IP to someone else, the sci-fi horror series has died a second death.",
         "source_link": "https://gizmodo.com/rip-dead-space-again-2000696495"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": null,
         "title": "Gravity-Defying Colorado Mansion Designed by a Rocket Scientist Hits the Market for $2.7 Million - Realtor.com",
         "description": null,
         "source_link": "https://www.realtor.com/news/unique-homes/colorado-rocket-scientist-home-sale-daryl-maus/"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://hackaday.com/wp-content/uploads/2025/12/USB-video-capture-devices-ALL-SUCK-but-theres-a-20-solution-0-21-screenshot.png",
         "title": "USB Video Capture Devices: Wow! They\u2019re All Bad!! - Hackaday",
         "description": "[VWestlife] purchased all kinds of USB video capture devices \u2014 many of them from the early 2000s \u2014 and put them through their paces in trying to digitize VHS classics like Instant Firep\u2026",
         "source_link": "https://hackaday.com/2025/12/07/usb-video-capture-devices-wow-theyre-all-bad/"
       },
       {
-        "rank": 8,
+        "rank": 10,
         "image": "https://a.fsdn.com/sd/topics/opensource_64.png",
         "title": "How Home Assistant Leads a 'Local-First Rebellion' - Slashdot",
         "description": "It runs locally, a free/open source home automation platform connecting all your devices together, regardless of brand.   And GitHub's senior developer calls it \"one of the most active, culturally important, and technically demanding open source ecosystems on\u2026",
         "source_link": "https://news.slashdot.org/story/25/12/07/1955259/how-home-assistant-leads-a-local-first-rebellion"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.phoronix.net/image.php?id=2025&image=gpib",
-        "title": "Linux GPIB Drivers Declared Stable - 53 Years After HP Introduced The Bus - Phoronix",
-        "description": "Merged to the mainline Linux kernel last year was GPIB drivers in the kernel's 'staging' area",
-        "source_link": "https://www.phoronix.com/news/GPIB-De-Staged-Linux-6.19"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.bgr.com/img/gallery/6-cheap-smart-tvs-to-avoid-at-all-costs-according-to-consumer-reports/l-intro-1764172327.jpg",
-        "title": "6 Cheap Smart TVs To Avoid At All Costs, According To Consumer Reports - bgr.com",
-        "description": "According to Consumer Reports, Vizio, Toshiba, TCL, and Hisense make some of the worst budget smart television sets on the market that you should avoid.",
-        "source_link": "https://www.bgr.com/2039725/cheap-smart-tvs-to-avoid-according-consumer-reports-2025/"
       }
     ],
     "trending_movies": [
@@ -97,17 +97,17 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/bKLm1xS9DsODWB4i1SxTEvLXab9.jpg",
-        "title": "Jay Kelly",
-        "description": "Famous movie actor Jay Kelly embarks on a journey of self-discovery, confronting both his past and present, accompanied by his devoted manager, Ron....",
-        "source_link": "https://www.themoviedb.org/movie/1069905"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/bKLm1xS9DsODWB4i1SxTEvLXab9.jpg",
+        "title": "Jay Kelly",
+        "description": "Famous movie actor Jay Kelly embarks on a journey of self-discovery, confronting both his past and present, accompanied by his devoted manager, Ron....",
+        "source_link": "https://www.themoviedb.org/movie/1069905"
       },
       {
         "rank": 6,
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
-        "title": "TRON: Ares",
-        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
-        "source_link": "https://www.themoviedb.org/movie/533533"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg",
         "title": "Keeper",
         "description": "Liz and Malcolm escape for a romantic anniversary weekend at a secluded cabin. When Malcolm suddenly returns to the city, Liz finds herself isolated a...",
         "source_link": "https://www.themoviedb.org/movie/1288072"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+        "title": "TRON: Ares",
+        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
+        "source_link": "https://www.themoviedb.org/movie/533533"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/jdd0Qv6V8AJ3V7Dr8aMIMUWxZ2c.jpg",
-        "title": "Wicked: For Good",
-        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
-        "source_link": "https://www.themoviedb.org/movie/967941"
+        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
       }
     ]
   }
