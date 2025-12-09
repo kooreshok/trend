@@ -1,76 +1,69 @@
 {
-  "last_updated": "December 09, 2025, 18:21 UTC",
+  "last_updated": "December 09, 2025, 19:12 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/img-0107.jpg?c=16x9&q=w_800,c_fill",
-        "title": "I tried Google\u2019s prototype smart glasses and it almost made me forget about my phone - CNN",
-        "description": "How often do you reach for your phone to get directions, answer a video call or Google something? Probably more times than you can count.",
-        "source_link": "https://www.cnn.com/2025/12/08/tech/google-glasses-ai-gemini"
+        "image": "https://www.bgr.com/img/gallery/the-reason-why-vizio-tvs-are-so-cheap/l-intro-1765224563.jpg",
+        "title": "The Reason Why Vizio TVs Are So Cheap - bgr.com",
+        "description": "Vizio is known for its affordability, so much so that users might doubt the quality of its devices. But there's a reason why those TVs are so cheap.",
+        "source_link": "https://www.bgr.com/2041063/why-vizio-tvs-so-cheap-explained/"
       },
       {
         "rank": 2,
-        "image": "https://images.pushsquare.com/f5c6d643a7c3b/large.jpg",
-        "title": "Bonus PS Plus Extra Game for December 2025 Available Now - Push Square",
-        "description": "Skate Story on the service now",
-        "source_link": "https://www.pushsquare.com/news/2025/12/bonus-ps-plus-extra-game-for-december-2025-available-now"
+        "image": "https://images.nintendolife.com/34644e3f34ad9/large.jpg",
+        "title": "Metroid Prime 4 On Switch 1 Impresses Digital Foundry - \"Nigh-Imperceptible Dips\" - Nintendo Life",
+        "description": "It's \"one of Switch 1's prettiest games yet\"",
+        "source_link": "https://www.nintendolife.com/news/2025/12/metroid-prime-4-on-switch-1-impresses-digital-foundry-nigh-imperceptible-dips"
       },
       {
         "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/analogue-3d-funtastic-announcement.png?quality=90&strip=all&crop=0%2C3.3533912961076%2C100%2C93.293217407785&w=1200",
-        "title": "Analogue is restocking its 4K N64 and making it more colorful - The Verge",
-        "description": "The Analogue 3D will soon be back in stock in \u201chighly limited\u201d transparent special editions inspired by the Funtastic N64 consoles, along with matching 8BitDo controllers.",
-        "source_link": "https://www.theverge.com/news/840068/analogue-3d-transparent-funtastic-limited-edition"
+        "image": "https://techcrunch.com/wp-content/uploads/2025/12/claude-code-slack.png?resize=1200,685",
+        "title": "Claude Code is coming to Slack, and that\u2019s a bigger deal than it sounds - TechCrunch",
+        "description": "Anthropic launches Claude Code in Slack, letting developers delegate coding tasks from chat threads. It's part of a shift toward AI-embedded collaboration that could reshape software workflows.",
+        "source_link": "https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/"
       },
       {
         "rank": 4,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/samsung-one-ui-8-5-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Here\u2019s everything new in Samsung\u2019s One UI 8.5 update [Gallery] - 9to5Google",
-        "description": "Samsung\u2019s latest major Galaxy update, One UI 8.5, has just debuted in beta. While the full rollout won\u2019t take place...",
-        "source_link": "http://9to5google.com/2025/12/08/samsung-galaxy-one-ui-8-5-update-everything-new/"
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/moto-tag-2-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "\u2018Moto Tag 2\u2019 leaks with new colors, mystery changes for Android\u2019s only UWB tracker - 9to5Google",
+        "description": "Android\u2019s Find Hub network has just one tracker equipped with the UWB capability found in Apple\u2019s AirTag, and now it\u2019s...",
+        "source_link": "http://9to5google.com/2025/12/08/moto-tag-2-android-find-hub-tracker-leak/"
       },
       {
         "rank": 5,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/ios-26.2-when.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iOS 26.2 launch appears imminent for iPhone, per leaker - 9to5Mac",
-        "description": "iOS 26.2\u2019s launch on iPhone appears imminent, perhaps arriving today, as a reputable leaker has just shared build numbers for the release.",
-        "source_link": "https://9to5mac.com/2025/12/08/ios-26-2-launch-appears-imminent-for-iphone-per-leaker/"
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Pro-XL-and-iPhone-17-Pro-Max-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google and Apple partner on better Android-iPhone switching - 9to5Google",
+        "description": "The latest Android Canary is available today and it features work by Apple and Google to make switching between Android and iPhone easier.",
+        "source_link": "http://9to5google.com/2025/12/08/android-iphone-switching/"
       },
       {
         "rank": 6,
-        "image": "https://assets-prd.ignimgs.com/2025/12/08/woot-video-game-sale-switch-1765203859464.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Woot\u2019s Video Game Mega Sale Is Stacked With Discounted Switch Games - IGN",
-        "description": "Woot\u2019s Video Game Mega Sale features a wide variety of Switch games that have been discounted, including The Legend of Zelda: Tears of the Kingdom, Pok\u00e9mon Legends: Z-A, and more.",
-        "source_link": "https://www.ign.com/articles/woots-video-game-mega-sale-is-stacked-with-discounted-switch-games"
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iOS-26.2-rc.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iOS 26.2 gets new RC for iPhone ahead of launch - 9to5Mac",
+        "description": "Apple has just released a second RC build of iOS 26.2 for developers and public beta testers alike, here\u2019s what that means.",
+        "source_link": "https://9to5mac.com/2025/12/08/ios-26-2-gets-new-rc-for-iphone-ahead-of-launch/"
       },
       {
         "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25783277/genki_moonbase1.jpg?quality=90&strip=all&crop=0%2C10.706788819073%2C100%2C78.586422361854&w=1200",
-        "title": "Genki\u2019s colorful, powerful power strip is 25 percent off - The Verge",
-        "description": "The Moonbase power strip with three AC plugs and four USB-C ports is $89.99 at Amazon. You can also snag the Apple Watch Ultra 2 for $250 off at Best Buy.",
-        "source_link": "https://www.theverge.com/gadgets/839820/genki-moonbase-apple-watch-ultra-2-rtx-5070-deal-sale"
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivNytzZUiU00/v1/1200x861.jpg",
+        "title": "Google Says First AI Glasses With Gemini Will Arrive in 2026 - Bloomberg.com",
+        "description": "Alphabet Inc.\u2019s Google said it\u2019s working to create two different categories of artificial intelligence-powered smart glasses to compete next year with existing models from Meta Platforms Inc.: one with screens, and another that\u2019s audio focused.",
+        "source_link": "https://www.bloomberg.com/news/articles/2025-12-08/google-says-first-ai-glasses-with-gemini-will-arrive-in-2026"
       },
       {
         "rank": 8,
-        "image": "https://gizmodo.com/app/uploads/2025/12/Xbox-Series-X-1-1200x675.jpg",
-        "title": "Yep, Xbox Is Bleeding Out - Gizmodo",
-        "description": "Microsoft really doesn\u2019t care about consoles anymore.",
-        "source_link": "https://gizmodo.com/xbox-is-bleeding-out-black-friday-2025-sales-2000696718"
+        "image": "https://assets-prd.ignimgs.com/2025/12/08/copy-of-mashable-black-friday-2025-product-backgrounds-26-1765201148133.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Deals for Today: Save $80 on Switch 2 + Mario Kart World - IGN",
+        "description": "Save $80 on the Switch 2 + Mario Kart World and check out every game dropping this holiday.",
+        "source_link": "https://www.ign.com/articles/deals-for-today-december-8"
       },
       {
         "rank": 9,
-        "image": "https://www.pcworld.com/wp-content/uploads/2025/12/shutterstock_2579696357.jpg?quality=50&strip=all&w=1024",
-        "title": "16 new features coming in Windows 11\u2019s huge December update - PCWorld",
-        "description": "The December update for Windows 11 will be huge. 16 new functions are to be included, including both visual changes and completely new features. It's all in there.",
-        "source_link": "https://www.pcworld.com/article/3003928/16-new-features-coming-in-windows-11s-huge-december-update.html"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.gtplanet.net/wp-content/uploads/2025/12/image-14.jpg",
-        "title": "Gran Turismo 7 Power Pack Includes Mid-Race Saves (Sort Of) - GTPlanet",
-        "description": "An unexpected and undocumented throwback feature has been discovered in the Gran Turismo 7 Power Pack DLC, with players reporting that it\u2019s actually possible to suspend and resume a race even if your PlayStation 5 powers off...",
-        "source_link": "https://www.gtplanet.net/gran-turismo-7-mid-race-saves-20251208/"
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/magsafe-wallets-lead-2-1.jpg?c=16x9&q=w_800,c_fill",
+        "title": "We found the 11 best MagSafe wallets that let you ditch your real one - CNN",
+        "description": "The best MagSafe wallets let you carry your cards, ID and cash on the go with ease, so we found 11 options from Apple, OtterBox, Pelican and more.",
+        "source_link": "https://www.cnn.com/cnn-underscored/electronics/best-magsafe-wallet"
       }
     ],
     "trending_movies": [
@@ -83,66 +76,66 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
         "title": "Die My Love",
         "description": "Grace and her partner Jackson move into an old country house. She pursues her dream of writing, and the couple welcome a baby soon after. However, wit...",
         "source_link": "https://www.themoviedb.org/movie/1033148"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
-        "title": "Bugonia",
-        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
-        "source_link": "https://www.themoviedb.org/movie/701387"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
-        "rank": 6,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg",
         "title": "Keeper",
         "description": "Liz and Malcolm escape for a romantic anniversary weekend at a secluded cabin. When Malcolm suddenly returns to the city, Liz finds herself isolated a...",
         "source_link": "https://www.themoviedb.org/movie/1288072"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/dYQ63YbeHgaukE7I2d3cC9Lnoor.jpg",
+        "title": "Christy",
+        "description": "Christy Martin never imagined life beyond her small-town roots in West Virginia\u2014until she discovered a knack for punching people. Fueled by grit, raw ...",
+        "source_link": "https://www.themoviedb.org/movie/1287322"
       },
       {
-        "rank": 8,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "title": "Bugonia",
+        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
+        "source_link": "https://www.themoviedb.org/movie/701387"
+      },
+      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/jdd0Qv6V8AJ3V7Dr8aMIMUWxZ2c.jpg",
-        "title": "Wicked: For Good",
-        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
-        "source_link": "https://www.themoviedb.org/movie/967941"
+        "image": "https://image.tmdb.org/t/p/w200/bKLm1xS9DsODWB4i1SxTEvLXab9.jpg",
+        "title": "Jay Kelly",
+        "description": "Famous movie actor Jay Kelly embarks on a journey of self-discovery, confronting both his past and present, accompanied by his devoted manager, Ron....",
+        "source_link": "https://www.themoviedb.org/movie/1069905"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/dYQ63YbeHgaukE7I2d3cC9Lnoor.jpg",
-        "title": "Christy",
-        "description": "Christy Martin never imagined life beyond her small-town roots in West Virginia\u2014until she discovered a knack for punching people. Fueled by grit, raw ...",
-        "source_link": "https://www.themoviedb.org/movie/1287322"
+        "image": "https://image.tmdb.org/t/p/w200/tXEtdZjoaHqjDjSxZJWwDVjIfx9.jpg",
+        "title": "The Carpenter's Son",
+        "description": "A remote village in Roman-era Egypt explodes into spiritual warfare when a carpenter, his wife and their child are targeted by supernatural forces....",
+        "source_link": "https://www.themoviedb.org/movie/1286185"
       }
     ]
   }
