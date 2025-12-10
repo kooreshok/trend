@@ -1,76 +1,69 @@
 {
-  "last_updated": "December 10, 2025, 14:19 UTC",
+  "last_updated": "December 10, 2025, 15:20 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets-prd.ignimgs.com/2025/12/08/cyberpunk-2077-ign-reveal-blogroll-art-1765189758278.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Exclusive: Cyberpunk: The Trading Card Game Revealed, Featuring Characters From 2077, Edgerunners, and More - IGN",
+        "description": "The team behind the Cyberpunk TCG reveals how the game is being built, showcasing early art, character choices, and insight into the collaboration with CD Projekt Red.",
+        "source_link": "https://www.ign.com/articles/cyberpunk-2077-tcg-revealed"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Index01-polished-silver-rocks-1152x648.jpg",
+        "title": "Pebble maker announces Index 01, a smart-ish ring for under $100 - Ars Technica",
+        "description": "The Pebble Index 01 isn\u2019t quite a smart ring, but it can do some smart things.",
+        "source_link": "https://arstechnica.com/gadgets/2025/12/resurrected-pebble-maker-announces-a-kind-of-smart-ring-for-capturing-audio-notes/"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.pcworld.com/wp-content/uploads/2025/12/shutterstock_2579696357-2.jpg?quality=50&strip=all&w=1024",
+        "title": "16 genuinely useful changes in Windows 11\u2019s December update - PCWorld",
+        "description": "The December update for Windows 11 will be huge. 16 new functions are to be included, including both visual changes and completely new features. It's all in there.",
+        "source_link": "https://www.pcworld.com/article/3003928/16-genuinely-useful-changes-in-windows-11s-december-update.html"
+      },
+      {
+        "rank": 4,
+        "image": "https://kotaku.com/app/uploads/2025/05/828c06e0ab8c6b9180517b3faee9370a-1200x675.jpg",
+        "title": "Overwatch 2 Commits Its Greatest Sin Yet - Kotaku",
+        "description": "The Fortnite-ification of Blizzard\u2019s hero shooter just hit a new low",
+        "source_link": "https://kotaku.com/overwatch-2-soldier-76-6-7-emote-season-20-release-date-2000651668"
+      },
+      {
+        "rank": 5,
+        "image": "https://assets.warhammer-community.com/grotmas9-dec09-1-feature-yxwyq0dyuq.jpg",
+        "title": "Grotmas Calendar Day 9 \u2013 The new Emperor\u2019s Children Detachment puts Fulgrim on his rightful pedestal - Warhammer Community",
+        "description": "Join the Daemon Primarch in battle.",
+        "source_link": "https://www.warhammer-community.com/articles/urg6llwf/grotmas-calendar-day-9-the-new-emperors-children-detachment-puts-fulgrim-on-his-rightful-pedestal"
+      },
+      {
+        "rank": 6,
+        "image": "https://images.ctfassets.net/rporu91m20dc/4BwA29KNStzgKi6bXz0Hqi/ec367b6d3bdc1ddf2c540e991ef2e517/TESV_LargeHero_Switch2Launch.png?fit=fill&w=1200&h=600",
+        "title": "The Elder Scrolls V: Skyrim Anniversary Edition Out Now on Nintendo Switch 2 - Bethesda.net",
+        "description": "The Elder Scrolls V: Skyrim Anniversary Edition is available now on Nintendo Switch 2, bringing the epic adventure to the next generation of portable systems with new technical enhancements!",
+        "source_link": "https://bethesda.net/en/article/fGtFCgI7J9FL3l6oi9j3B/the-elder-scrolls-v-skyrim-anniversary-edition-out-now-on-nintendo-switch-2"
+      },
+      {
+        "rank": 7,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/galaxy-s25-ultra-iphone-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Liquid Glass-like redesigns coming to your Samsung Galaxy phone next year [Gallery] - 9to5Google",
         "description": "Samsung\u2019s One UI 8.5 beta is here and, with it, a look at Samsung\u2019s updated design language. But there are...",
         "source_link": "http://9to5google.com/2025/12/09/samsung-one-ui-8-5-liquid-glass-inspiration/"
       },
       {
-        "rank": 2,
+        "rank": 8,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/design-liquid-glass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Even as a Liquid Glass fan, I\u2019m looking forward to a new Apple design era - 9to5Mac",
         "description": "You almost have to feel sorry for Alan Dye at this point. It was pretty clear he expected news of...",
         "source_link": "https://9to5mac.com/2025/12/09/even-as-a-liquid-glass-fan-im-looking-forward-to-a-new-apple-design-era/"
       },
       {
-        "rank": 3,
+        "rank": 9,
         "image": "https://www.trueachievements.com/imgs/168171/my-year-on-xbox-2025.jpg",
         "title": "Your Xbox stats for 2025 are now live with Xbox Wrapped - TrueAchievements",
         "description": "Want to know how many games you've played and achievements you've unlocked this year? Check out your Xbox Wrapped to find out!",
         "source_link": "https://www.trueachievements.com/news/announcing-my-year-on-xbox-2025"
-      },
-      {
-        "rank": 4,
-        "image": "https://assets-prd.ignimgs.com/2025/12/09/g7uethpbiaazzaq-1765283237391.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Confirmed: Leon S. Kennedy is in Resident Evil Requiem, PlayStation Store Leak Reveals - IGN",
-        "description": "At long last, Leon S. Kennedy has been confirmed to appear in Resident Evil Requiem \u2014 via a leaked image on the PlayStation Store.",
-        "source_link": "https://www.ign.com/articles/confirmed-leon-s-kennedy-is-in-resident-evil-requiem-playstation-store-leak-reveals"
-      },
-      {
-        "rank": 5,
-        "image": "https://assetsio.gnwcdn.com/FINAL-FANTASY-VII-REMAKE-INTERGRADE---Coming-to-Xbox-_-Xbox-Games-Showcase-2025-0-22-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "\"Is Square Enix really giving birth to something genuinely new?\" Major shareholder urges a fundamental reassessment of Final Fantasy maker's future - Eurogamer",
-        "description": "A major shareholder in Square Enix has released a 100-page document criticising the company for its poor sales and urging for a \"fundamental reassessment\".",
-        "source_link": "https://www.eurogamer.net/square-enix-major-shareholder-fundamental-reassessment-final-fantasy-future"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.videogamer.com/wp-content/uploads/Untitled-design-2025-12-09T165231.347.jpg",
-        "title": "The Game Awards\u2019 demon statue teases Divinity Original Sin 3, leaker claims - VideoGamer",
-        "description": "Geoff Keighley\u2019s mysterious demon statue for The Game Awards is allegedly teasing a reveal of Divinity Original Sin 3, according to Extas1s.",
-        "source_link": "https://www.videogamer.com/news/the-game-awards-demon-statue-divinity-original-sin-3/"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.nintendolife.com/2318cadf4e851/large.jpg",
-        "title": "UK Charts: Metroid Prime 4 Debuts Behind Mario Kart World And EA Sports FC 26 - Nintendo Life",
-        "description": "While Octopath Traveler 0 almost doesn't chart at all",
-        "source_link": "https://www.nintendolife.com/news/2025/12/uk-charts-metroid-prime-4-debuts-behind-mario-kart-world-and-ea-sports-fc-26"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2025/10/iPhone-17-Pro-vs-Pixel-10-Pro-XL-cameras-2.jpg",
-        "title": "Google and Apple team up to make switching between Android and iPhone easier - Android Authority",
-        "description": "Google and Apple have confirmed that they are collaborating to make switching between Android phones and iPhones more seamless.",
-        "source_link": "https://www.androidauthority.com/google-apple-android-iphone-switching-3623422/"
-      },
-      {
-        "rank": 9,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Switch-2-update-21.0.1.jpg",
-        "title": "Nintendo Switch 2 and Switch 21.1.0 update out now, patch notes - Nintendo Everything",
-        "description": "Another system update has been released for both the Nintendo Switch, and Nintendo Switch 2. Version 21.1.0 should be rolling out now. The big N has stricken once again with unspecified adjustments in this update, with the patch notes headliner being more sta\u2026",
-        "source_link": "https://nintendoeverything.com/nintendo-switch-2-and-switch-update-21-1-0-out-now-patch-notes/"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.nintendolife.com/9b24b1c2f2646/large.jpg",
-        "title": "Assassin's Creed Shadows Update To Resolve Switch 2 Crashes And Stability Issues - Nintendo Life",
-        "description": "It's scheduled for \"next week\"",
-        "source_link": "https://www.nintendolife.com/news/2025/12/assassins-creed-shadows-update-to-resolve-switch-2-crashes-and-stability-issues"
       }
     ],
     "trending_movies": [
@@ -83,17 +76,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
-        "title": "Die My Love",
-        "description": "Grace and her partner Jackson move into an old country house. She pursues her dream of writing, and the couple welcome a baby soon after. However, wit...",
-        "source_link": "https://www.themoviedb.org/movie/1033148"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/9yfwLB2BBBG5YSuJXtSRTaT8poS.jpg",
         "title": "Merv",
         "description": "When their beloved dog Merv loses his spark after their split, Anna and Russ are forced into the world's most awkward co-parenting arrangement. Hoping...",
         "source_link": "https://www.themoviedb.org/movie/1255775"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
+        "title": "Die My Love",
+        "description": "Grace and her partner Jackson move into an old country house. She pursues her dream of writing, and the couple welcome a baby soon after. However, wit...",
+        "source_link": "https://www.themoviedb.org/movie/1033148"
       },
       {
         "rank": 4,
@@ -104,17 +97,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
         "title": "Predator: Badlands",
         "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
         "source_link": "https://www.themoviedb.org/movie/1242898"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 7,
