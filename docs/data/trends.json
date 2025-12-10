@@ -1,20 +1,20 @@
 {
-  "last_updated": "December 09, 2025, 23:16 UTC",
+  "last_updated": "December 10, 2025, 01:19 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.unsplash.com/photo-1623018035231-ebe361a64c76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIwfHxzcG90aWZ5fGVufDB8fHx8MTc2NDkxMTQxN3ww&ixlib=rb-4.1.0&q=80&w=2000",
+        "title": "Ditching Spotify Has Been A Bleak Experience To Say The Least - aftermath.site",
+        "description": "It's bad out there",
+        "source_link": "https://aftermath.site/cancel-spotify-wrapped-ai-ceo-apple-music/"
+      },
+      {
+        "rank": 2,
         "image": "https://kotaku.com/app/uploads/2025/12/horses-review-1200x675.jpg",
         "title": "Horses Review: A Fine Game That Should\u2019ve Came And Went - Kotaku",
         "description": "The horror game was banned from Steam and Epic, and the resulting furor feels needlessly intense after playing it",
         "source_link": "https://kotaku.com/horses-review-steam-epic-games-ban-horror-ride-race-2000651442"
-      },
-      {
-        "rank": 2,
-        "image": "https://pokemongohub.net/wp-content/uploads/2025/12/friendship-trading.jpg",
-        "title": "Forever Friends and Remote Trading debut in major friendship update - Pok\u00e9mon GO Hub",
-        "description": "Trainers, get hyped for a whole new level of friendship in Pok\u00e9mon GO, with the introduction of a new Friendship level called Forever Friends that unlocks Remote Trading with your Forever Friends! Starting today, the Forever Friends feature will be rolling ou\u2026",
-        "source_link": "https://pokemongohub.net/post/news/forever-friends-and-remote-trading-debut-in-major-friendship-update/"
       },
       {
         "rank": 3,
@@ -39,38 +39,38 @@
       },
       {
         "rank": 6,
-        "image": "https://assets-ng.maxroll.gg/wordpress/Tier-List-for-Page-SEO-FI.webp",
-        "title": "Diablo 4 Season 11 Tier List Updates - Maxroll",
-        "description": "Season 11: Divine Intervention is coming in a few days! As usual, we've done a complete overhaul of our tier lists.",
-        "source_link": "https://maxroll.gg/d4/news/diablo-4-season-11-tier-list-updates"
-      },
-      {
-        "rank": 7,
         "image": "https://images.nintendolife.com/34644e3f34ad9/large.jpg",
         "title": "Metroid Prime 4 On Switch 1 Impresses Digital Foundry - \"Nigh-Imperceptible Dips\" - Nintendo Life",
         "description": "It's \"one of Switch 1's prettiest games yet\"",
         "source_link": "https://www.nintendolife.com/news/2025/12/metroid-prime-4-on-switch-1-impresses-digital-foundry-nigh-imperceptible-dips"
       },
       {
+        "rank": 7,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/12/claude-code-slack.png?resize=1200,685",
+        "title": "Claude Code is coming to Slack, and that\u2019s a bigger deal than it sounds - TechCrunch",
+        "description": "Anthropic launches Claude Code in Slack, letting developers delegate coding tasks from chat threads. It's part of a shift toward AI-embedded collaboration that could reshape software workflows.",
+        "source_link": "https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/"
+      },
+      {
         "rank": 8,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Apple-Watch-Series-11-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "The Apple Watch Series 11 just got a big $100 discount ahead of the holidays - The Verge",
+        "description": "The Apple Watch Series 11 has been discounted a few times since it launched, but it\u2019s now cheaper than ever at $299 ($200 off).",
+        "source_link": "https://www.theverge.com/gadgets/840161/apple-watch-series-11-holiday-deal-sale-2025"
+      },
+      {
+        "rank": 9,
         "image": "https://images.pushsquare.com/a516c2c924bf8/large.jpg",
         "title": "New Tomb Raider Reveal Confirmed for The Game Awards - Push Square",
         "description": "A \"look at the future\" of Tomb Raider",
         "source_link": "https://www.pushsquare.com/news/2025/12/new-tomb-raider-reveal-confirmed-for-the-game-awards"
       },
       {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469772/STK269_ANTHROPIC_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Anthropic is bringing Claude Code to Slack - The Verge",
-        "description": "A new update to the Claude app for Slack allows you to automatically route tasks to Claude Code by tagging the AI in coding-related messages.",
-        "source_link": "https://www.theverge.com/news/839817/anthropic-claude-code-slack-integration"
-      },
-      {
         "rank": 10,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Pro-XL-and-iPhone-17-Pro-Max-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google and Apple partner on better Android-iPhone switching - 9to5Google",
-        "description": "The latest Android Canary is available today and it features work by Apple and Google to make switching between Android and iPhone easier.",
-        "source_link": "http://9to5google.com/2025/12/08/android-iphone-switching/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/lenovolegionrollable.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Lenovo\u2019s next gaming laptop may have a rollable OLED screen that stretches ultrawide - The Verge",
+        "description": "Lenovo may reveal its Legion Pro Rollable, a gaming laptop hiding an ultrawide OLED screen, at CES 2026 in a few weeks.",
+        "source_link": "https://www.theverge.com/news/840124/lenovo-rollable-legion-pro-gaming-laptop-rumor"
       }
     ],
     "trending_movies": [
@@ -97,17 +97,17 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/dYQ63YbeHgaukE7I2d3cC9Lnoor.jpg",
         "title": "Christy",
         "description": "Christy Martin never imagined life beyond her small-town roots in West Virginia\u2014until she discovered a knack for punching people. Fueled by grit, raw ...",
         "source_link": "https://www.themoviedb.org/movie/1287322"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 6,
@@ -118,24 +118,24 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
         "title": "Bugonia",
         "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
         "source_link": "https://www.themoviedb.org/movie/701387"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
+      },
+      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
-        "title": "TRON: Ares",
-        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
-        "source_link": "https://www.themoviedb.org/movie/533533"
+        "image": "https://image.tmdb.org/t/p/w200/tXEtdZjoaHqjDjSxZJWwDVjIfx9.jpg",
+        "title": "The Carpenter's Son",
+        "description": "A remote village in Roman-era Egypt explodes into spiritual warfare when a carpenter, his wife and their child are targeted by supernatural forces....",
+        "source_link": "https://www.themoviedb.org/movie/1286185"
       },
       {
         "rank": 10,
