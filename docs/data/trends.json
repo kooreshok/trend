@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 10, 2025, 18:26 UTC",
+  "last_updated": "December 10, 2025, 19:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://kotaku.com/app/uploads/2024/12/59a743f042b3f7ed67bdc0d6d0f8f4c9-1200x675.jpg",
+        "title": "Geoff Keighley Explains Why His Game Awards Is Full Of Trailers - Kotaku",
+        "description": "The host talks about a difficult balancing act",
+        "source_link": "https://kotaku.com/geoff-keighley-game-awards-sales-balatro-clair-obscur-2000651728"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
+        "title": "Microsoft December 2025 Patch Tuesday fixes 3 zero-days, 57 flaws - BleepingComputer",
+        "description": "Microsoft's December 2025 Patch Tuesday fixes 57\u00a0flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities.",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2025-patch-tuesday-fixes-3-zero-days-57-flaws/"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Pixel-Watch-gestures-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Pixel Watch December 2025 update rolling out with Wear OS 6.1 - 9to5Google",
+        "description": "Following the announcement this morning, Google is rolling out the December 2025 update to the Pixel Watch 4, 3, and 2.",
+        "source_link": "http://9to5google.com/2025/12/09/pixel-watch-december-2025-update/"
+      },
+      {
+        "rank": 4,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-Pixel-Notification-Organizer-cover-a.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google rolling out Notification Organizer to Pixel - 9to5Google",
         "description": "Following AI Summaries last month, Google is rolling out the Notification Organizer to Pixel phones with Android 16 QPR2.",
         "source_link": "http://9to5google.com/2025/12/09/google-pixel-notification-organizer/"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://assetsio.gnwcdn.com/Indy-in-Indiana-Jones-and-the-Temple-of-Doom.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Indiana Jones and the Great Circle update adds an outfit suitable to eat chilled monkey brains in - Eurogamer",
         "description": "The team at MachineGames has issued a new update for Indiana Jones and the Great Circle.",
         "source_link": "https://www.eurogamer.net/indiana-jones-and-the-great-circle-update-adds-an-outfit-suitable-to-eat-chilled-monkey-brains-in"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://images.pushsquare.com/e761e301886f9/large.jpg",
         "title": "PlayStation Wrap-Up 2025 Live Now, Get Your Gaming Stats for the Year - Push Square",
         "description": "Track your playtime, Trophies, and more",
         "source_link": "https://www.pushsquare.com/news/2025/12/playstation-wrap-up-2025-live-now-get-your-gaming-stats-for-the-year"
       },
       {
-        "rank": 4,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/05/glasses_2745f1.jpg?resize=1200,716",
-        "title": "Google\u2019s first AI glasses expected next year - TechCrunch",
-        "description": "Google is working on various types of AI-powered glasses \u2014 one model is designed for screen-free assistance, using built-in speakers, microphones, and cameras to allow the user to communicate with Gemini and take photos. The other model has an in-lens display\u2026",
-        "source_link": "https://techcrunch.com/2025/12/09/googles-first-ai-glasses-expected-next-year/"
+        "rank": 7,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?resize=1200,800",
+        "title": "Facebook redesign focuses on friends, photos, Marketplace, and more - TechCrunch",
+        "description": "Meta's Facebook redesign elevates Marketplace, refreshes profiles, and aims to win back Gen Z users.",
+        "source_link": "https://techcrunch.com/2025/12/09/facebook-redesign-focuses-on-friends-photos-marketplace-and-more/"
       },
       {
-        "rank": 5,
-        "image": null,
+        "rank": 8,
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/68c3/live/ac839ec0-d512-11f0-bf05-2725f8fc0dac.png",
+        "title": "Google unveils plans to try again with smart glasses in 2026 - BBC",
+        "description": "It is a significant turnaround for the tech giant after its first attempt - Google Glass - was pulled in 2015.",
+        "source_link": "https://www.bbc.com/news/articles/cwyx83n00k6o"
+      },
+      {
+        "rank": 9,
+        "image": "https://images.nintendolife.com/ce9a64d835534/large.jpg",
         "title": "Assassin's Creed Black Flag Resynced Has Been Rated By PEGI - Nintendo Life",
-        "description": null,
+        "description": "Is a Switch 2 release on the cards?",
         "source_link": "https://www.nintendolife.com/news/2025/12/assassins-creed-black-flag-resynced-has-been-rated-by-pegi"
       },
       {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ikea_window.jpg?quality=90&strip=all&crop=0%2C10.761012141664%2C100%2C78.477975716672&w=1200",
-        "title": "Some of Ikea\u2019s Matter-compatible smart devices are now available in the US - The Verge",
-        "description": "We also finally know how some of the hardware will be priced in the US.",
-        "source_link": "https://www.theverge.com/news/840727/ikea-smart-home-matter-thread-sensors-now-available"
-      },
-      {
-        "rank": 7,
+        "rank": 10,
         "image": "https://assets-prd.ignimgs.com/2025/12/08/cyberpunk-2077-ign-reveal-blogroll-art-1765189758278.png?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Exclusive: Cyberpunk: The Trading Card Game Revealed, Featuring Characters From 2077, Edgerunners, and More - IGN",
         "description": "The team behind the Cyberpunk TCG reveals how the game is being built, showcasing early art, character choices, and insight into the collaboration with CD Projekt Red.",
         "source_link": "https://www.ign.com/articles/cyberpunk-2077-tcg-revealed"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2020/03/baftagames.jpg?w=1296&h=730&crop=1",
-        "title": "BAFTA Games Awards 2026 Longlists Unveiled - The Hollywood Reporter",
-        "description": "The BAFTA Games Awards ceremony will take place in London on April 17, with the longlists containing the likes of 'Indiana Jones and the Great Circle,' 'F1 25' and 'Jurassic World Evolution 3.'",
-        "source_link": "http://www.hollywoodreporter.com/news/general-news/bafta-games-awards-2026-longlists-1236445539/"
-      },
-      {
-        "rank": 9,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/12/Index01-polished-silver-hero.png?w=1024",
-        "title": "Pebble's founder introduces a $75 AI smart ring for recording brief notes with a press of a button - TechCrunch",
-        "description": "Named for the finger where the ring is meant to be worn, the new $75 Index 01 ring is not meant to be a competitor to the always-on, always-listening AI devices, like the AI pendant Friend, but instead offers a way to record quick notes and reminders with a p\u2026",
-        "source_link": "https://techcrunch.com/2025/12/09/pebbles-founder-introduces-a-75-ai-smart-ring-for-recording-brief-notes-with-a-press-of-a-button/"
-      },
-      {
-        "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/DSC08087.jpg.webp?quality=90&strip=all&crop=0,15.095986038394,100,69.808027923211",
-        "title": "Google extends free repairs to cover known Pixel 9 Pro and Pro Fold issues - The Verge",
-        "description": "Pixel 9 Pro and Pro XL smartphones with vertical lines on their display or flickering screens are now eligible for an extended repair program.",
-        "source_link": "https://www.theverge.com/news/840622/google-pixel-9-pro-xl-display-issues-repair-program-fold-extended-warranty"
       }
     ],
     "trending_movies": [
@@ -83,38 +83,38 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
-        "title": "Die My Love",
-        "description": "Grace and her partner Jackson move into an old country house. She pursues her dream of writing, and the couple welcome a baby soon after. However, wit...",
-        "source_link": "https://www.themoviedb.org/movie/1033148"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/9yfwLB2BBBG5YSuJXtSRTaT8poS.jpg",
         "title": "Merv",
         "description": "When their beloved dog Merv loses his spark after their split, Anna and Russ are forced into the world's most awkward co-parenting arrangement. Hoping...",
         "source_link": "https://www.themoviedb.org/movie/1255775"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg",
-        "title": "Keeper",
-        "description": "Liz and Malcolm escape for a romantic anniversary weekend at a secluded cabin. When Malcolm suddenly returns to the city, Liz finds herself isolated a...",
-        "source_link": "https://www.themoviedb.org/movie/1288072"
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
+        "title": "Die My Love",
+        "description": "Grace and her partner Jackson move into an old country house. She pursues her dream of writing, and the couple welcome a baby soon after. However, wit...",
+        "source_link": "https://www.themoviedb.org/movie/1033148"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
         "title": "Predator: Badlands",
         "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
         "source_link": "https://www.themoviedb.org/movie/1242898"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg",
+        "title": "Keeper",
+        "description": "Liz and Malcolm escape for a romantic anniversary weekend at a secluded cabin. When Malcolm suddenly returns to the city, Liz finds herself isolated a...",
+        "source_link": "https://www.themoviedb.org/movie/1288072"
       },
       {
         "rank": 7,
@@ -125,10 +125,10 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/utYjgQyGTMqPaHr0kdlGavc7mFq.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
+        "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
         "rank": 9,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
+        "image": "https://image.tmdb.org/t/p/w200/bKLm1xS9DsODWB4i1SxTEvLXab9.jpg",
+        "title": "Jay Kelly",
+        "description": "Famous movie actor Jay Kelly embarks on a journey of self-discovery, confronting both his past and present, accompanied by his devoted manager, Ron....",
+        "source_link": "https://www.themoviedb.org/movie/1069905"
       }
     ]
   }
