@@ -1,41 +1,41 @@
 {
-  "last_updated": "December 10, 2025, 08:23 UTC",
+  "last_updated": "December 10, 2025, 09:20 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://www.zdnet.com/a/img/resize/295251712d393283bf113184e6e64247da38ddb4/2025/12/08/f57dd81d-3bd0-4675-ae90-ce8c2e436b48/gettyimages-2189605779.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Does it matter which HDMI port you use on your TV? Short answer: Yes - ZDNET",
-        "description": "You may be missing out on optimal performance or sound. Here's how to check.",
-        "source_link": "https://www.zdnet.com/home-and-office/home-entertainment/which-hdmi-port-to-use-tv/"
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/08/google-pixel-10-pro-moonstone-xl-obsidian-6.jpg",
+        "title": "Your Google Play Points might be hiding a secret $200 Pixel 10 Pro discount - Android Authority",
+        "description": "Some Google Play Points users have discovered a secret $200 discount offer on the Pixel 10 Pro and 10 Pro XL hiding in the Perks section.",
+        "source_link": "https://www.androidauthority.com/google-play-points-pixel-10-pro-200-dollar-discount-3623406/"
       },
       {
         "rank": 2,
-        "image": "https://images.nintendolife.com/6d8c66cc0ad38/large.jpg",
-        "title": "Nintendo Switch 2 System Update 21.1.0 Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
-        "description": "Available for Switch as well",
-        "source_link": "https://www.nintendolife.com/news/2025/12/nintendo-switch-2-system-update-21-1-0-is-now-live-here-are-the-full-patch-notes"
+        "image": null,
+        "title": "Nintendo Switch 2 and Switch 21.1.0 update out now, patch notes - Nintendo Everything",
+        "description": null,
+        "source_link": "https://nintendoeverything.com/nintendo-switch-2-and-switch-update-21-1-0-out-now-patch-notes/"
       },
       {
         "rank": 3,
-        "image": "https://helios-i.mashable.com/imagery/articles/02bH0W5V0ferfCHST6HDZKW/hero-image.fill.size_1200x675.v1764950216.jpg",
-        "title": "The best video games of 2025 - Mashable",
-        "description": "Did your favorite game of the year make the cut?",
-        "source_link": "https://mashable.com/article/best-video-games-of-2025"
-      },
-      {
-        "rank": 4,
         "image": "https://images.nintendolife.com/9b24b1c2f2646/large.jpg",
         "title": "Assassin's Creed Shadows Update To Resolve Switch 2 Crashes And Stability Issues - Nintendo Life",
         "description": "It's scheduled for \"next week\"",
         "source_link": "https://www.nintendolife.com/news/2025/12/assassins-creed-shadows-update-to-resolve-switch-2-crashes-and-stability-issues"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://cdn.mos.cms.futurecdn.net/jd2sieUnmRvAkc2RnU8R5T-2560-80.jpg",
         "title": "Xbox architect hints at an exciting 2026 for Xbox - Windows Central",
         "description": "The Xbox Ally X gets a spotlight, but Jason Ronald\u2019s remarks about Xbox\u2019s legacy and the upcoming 25th anniversary give hope to more backwards compatible games.",
         "source_link": "https://www.windowscentral.com/gaming/xbox/xbox-jason-ronald-teases-big-things-for-2026"
+      },
+      {
+        "rank": 5,
+        "image": "https://assets-prd.ignimgs.com/2024/06/06/knight-of-the-old-republic-2-1280-1655778102191-1717711406700.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Star Wars: Knights of the Old Republic 2 Remake Plans Revealed as KOTOR 1 Reimagining Continues Development at Saber - IGN",
+        "description": "Saber Interactive\u2019s troubled Star Wars: Knights of the Old Republic remake is reportedly still in development \u2013 and a KOTOR 2 remake may be on the way, too.",
+        "source_link": "https://www.ign.com/articles/star-wars-knights-of-the-old-republic-2-remake-plans-revealed-as-kotor-1-reimagining-continues-development-at-saber"
       },
       {
         "rank": 6,
@@ -46,24 +46,24 @@
       },
       {
         "rank": 7,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/12/doppl.png?resize=1200,665",
+        "title": "Google\u2019s AI try-on app Doppl adds a shoppable discovery feed - TechCrunch",
+        "description": "The tech giant says the idea behind the new feed is to display recommendations so users can discover and virtually try on items. Nearly everything in the feed is shoppable, with direct links to merchants.",
+        "source_link": "https://techcrunch.com/2025/12/08/googles-ai-try-on-app-doppl-adds-a-shoppable-discovery-feed/"
+      },
+      {
+        "rank": 8,
         "image": "https://kotaku.com/app/uploads/2025/12/horses-review-1200x675.jpg",
         "title": "Horses Review: A Fine Game That Should\u2019ve Came And Went - Kotaku",
         "description": "The horror game was banned from Steam and Epic, and the resulting furor feels needlessly intense after playing it",
         "source_link": "https://kotaku.com/horses-review-steam-epic-games-ban-horror-ride-race-2000651442"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://kotaku.com/app/uploads/2023/01/37fde19552b92da82bb93097bbf638ed-1200x675.jpg",
         "title": "Halo Infinite Is Four Years Old Today And It\u2019s Bumming Me Out - Kotaku",
         "description": "Remember what Halo Infinite was supposed to be? I do",
         "source_link": "https://kotaku.com/halo-infinite-campaign-master-chief-release-date-2000651439"
-      },
-      {
-        "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/Poke%CC%81mon_TCG_Pocket_Trading_13.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Pok\u00e9mon TCG Pocket wins Apple's Best Game of the Year award - GamesIndustry.biz",
-        "description": "Pok\u00e9mon TCG Pocket, Dredge, Cyberpunk 2077, Porta Nubi, and What The Clash? all received recognition in Apple's year-en\u2026",
-        "source_link": "https://www.gamesindustry.biz/pokemon-tcg-pocket-wins-apples-best-game-of-the-year-award"
       }
     ],
     "trending_movies": [
@@ -97,17 +97,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/tXEtdZjoaHqjDjSxZJWwDVjIfx9.jpg",
         "title": "The Carpenter's Son",
         "description": "A remote village in Roman-era Egypt explodes into spiritual warfare when a carpenter, his wife and their child are targeted by supernatural forces....",
         "source_link": "https://www.themoviedb.org/movie/1286185"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 7,
