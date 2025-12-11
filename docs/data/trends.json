@@ -1,69 +1,76 @@
 {
-  "last_updated": "December 11, 2025, 12:37 UTC",
+  "last_updated": "December 11, 2025, 13:35 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2025/02/Samsung-Galaxy-S25-Ultra-with-magnetic-accessories.jpg",
-        "title": "Galaxy S26 leak reveals Samsung\u2019s big move into magnetic accessories - Android Authority",
-        "description": "Samsung\u2019s Galaxy S26 is reportedly set to debut a full lineup of Qi2-ready accessories, ranging from carbon and silicone to clear cases.",
-        "source_link": "https://www.androidauthority.com/samsung-galaxy-s26-magnetic-accessories-3623853/"
+        "image": "https://www.techpowerup.com/review/amd-fsr-4-redstone/images/title.jpg",
+        "title": "AMD FSR 4 Redstone Review - TechPowerUp",
+        "description": "AMD's FSR Redstone is finally here\u2014and it's more than just another FSR update. With ML-powered frame generation that can match (and sometimes beat) DLSS, smarter ray tracing cleanup, and excellent driver-level support, Redstone turns FSR into a competitive pe\u2026",
+        "source_link": "https://www.techpowerup.com/review/amd-fsr-4-redstone/"
       },
       {
         "rank": 2,
-        "image": "https://images.nintendolife.com/6633472ee5441/large.jpg",
-        "title": "Reminder: Virtual Boy For Switch And Switch 2 Are Available On The My Nintendo Store - Nintendo Life",
-        "description": "Seeing red",
-        "source_link": "https://www.nintendolife.com/news/2025/12/reminder-virtual-boy-for-switch-and-switch-2-are-available-on-the-my-nintendo-store"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Instagram-Reels-algorithm-customization.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Instagram gives you more control over your Reels algorithm - The Verge",
+        "description": "Instagram is launching a new AI-powered feature for fine-tuning which videos appear in your Reels tab.",
+        "source_link": "https://www.theverge.com/news/841399/instagram-reels-tune-algorithm-feature"
       },
       {
         "rank": 3,
+        "image": "https://media.wired.com/photos/69334fc7be928ef56cd3434d/191:100/w_1280,c_limit/wired_parkinsons-lejeune_rcj_9578_028.jpg",
+        "title": "Scientists Thought Parkinson\u2019s Was in Our Genes. It Might Be in the Water - WIRED",
+        "description": "Parkinson\u2019s disease has environmental toxic factors, not just genetic.",
+        "source_link": "https://www.wired.com/story/scientists-thought-parkinsons-was-in-our-genes-it-might-be-in-the-water/"
+      },
+      {
+        "rank": 4,
+        "image": "https://assets.warhammer-community.com/40k_balancedataslate-dec10-1-feature-knrzu2aczu.jpg",
+        "title": "The Warhammer 40,000 Quarterly Balance Update \u2013 December 2025 - Warhammer Community",
+        "description": "Find out what\u2019s changed for the factions of the 41st Millennium.",
+        "source_link": "https://www.warhammer-community.com/articles/aptyn7c9/the-warhammer-40000-quarterly-balance-update-december-2025"
+      },
+      {
+        "rank": 5,
+        "image": "https://assets.warhammer-community.com/grotmas10-dec10-1-feature-g6fwohgjn8.jpg",
+        "title": "Grotmas Calendar Day 10 \u2013 Unleash the Great Wolf in a ferocious new Space Wolves Detachment - Warhammer Community",
+        "description": "Logan Grimnar is ready to take heads.",
+        "source_link": "https://www.warhammer-community.com/articles/u1hmzoaa/grotmas-calendar-day-10-unleash-the-great-wolf-in-a-ferocious-new-space-wolves-detachment"
+      },
+      {
+        "rank": 6,
+        "image": "https://images.pushsquare.com/136f6d6e54a17/large.jpg",
+        "title": "3 PS Plus Extra, Premium Games for December 2025 Leaked Early - Push Square",
+        "description": "Just hours before the announcement",
+        "source_link": "https://www.pushsquare.com/news/2025/12/3-ps-plus-extra-premium-games-for-december-2025-leaked-early"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/12/gta-online-safehouse-hills-release-time-pcgamesn-featured-1.jpg",
+        "title": "GTA Online mansions update release time and all new cars - PCGamesN",
+        "description": "Grab some new cars in the Safehouse Hills expansion when the GTA Online mansions update release time arrives this December.",
+        "source_link": "https://www.pcgamesn.com/grand-theft-auto-5/mansions-update-release-time-safehouse-hills"
+      },
+      {
+        "rank": 8,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIBMHrpsvzLEHZ52J6HNP__PNJC-IjFnM5FpHLkAj5T5-cQN1siRI_E-jKO7T2SYs1XR4g4r5wvPt37dQoCWyqceTNKs1nz7mbnHBtydb4yGtRC4qyOAL4qCNuvCImdE6H62kqb3bUUj14qVg5BGzhywqFJioC3qBIlhFnTDejUFRQRjzXY201Ge2F-IA8/s790-rw-e365/windows-patch.jpg",
+        "title": "Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days - The Hacker News",
+        "description": "Microsoft fixed 56 Windows security flaws, including an actively exploited privilege-escalation bug and two new command-injection zero-days.",
+        "source_link": "https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html"
+      },
+      {
+        "rank": 9,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2025/03/Microsoft-DirectX-Raytracing-DXR.jpg",
+        "title": "Microsoft Promises Big Windows 11 PC & Handheld Gaming Updates: Power & Scheduling Improvements, Graphics Stack Optimizations, Background Workload Management, Advanced Shader Delivery For Additional Hardware & More - Wccftech",
+        "description": "Microsoft has announced that it is bringing big performance improvements and optimizations for PC gamers in the upcoming Windows 11 updates.",
+        "source_link": "https://wccftech.com/microsoft-promises-big-windows-11-pc-handheld-gaming-updates/"
+      },
+      {
+        "rank": 10,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ss_315eadbae30a21d15a2b4e87eee87525324f8edb.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
         "title": "Call of Duty won\u2019t release Modern Warfare or Black Ops back to back anymore - The Verge",
         "description": "Activision\u2019s future Call of Duty releases will no longer include back-to-back launches of Modern Warfare or Black Ops games.",
         "source_link": "https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back"
-      },
-      {
-        "rank": 4,
-        "image": "https://cdn.mos.cms.futurecdn.net/N3gYnzHgpSmHoWbq2mLGuE-1920-80.jpg",
-        "title": "Baldur's Gate 3 dev Larian says \"There aren't currently any plans\" for a Divinity: Original Sin 3 \u2014 but a new Definitive Edition for 2 just got leaked - Windows Central",
-        "description": "Larian's next game may not be Divinity: Original Sin 3, but a new version of 2 may be on the way.",
-        "source_link": "https://www.windowscentral.com/gaming/baldurs-gate-3-dev-larian-says-there-arent-currently-any-plans-for-a-divinity-original-sin-3-but-a-new-definitive-edition-for-2-just-got-leaked"
-      },
-      {
-        "rank": 5,
-        "image": "https://krebsonsecurity.com/wp-content/uploads/2022/07/winupdatedate.png",
-        "title": "Microsoft Patch Tuesday, December 2025 Edition - Krebs on Security",
-        "description": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed\u2026",
-        "source_link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.zdnet.com/a/img/resize/cec76fd07fcc22bae48e55c378811f3f728b2667/2025/12/08/ac16939e-c519-4ece-a5a7-e6d03282f19c/dsc08678.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "I wore Google's upcoming Android XR smart glasses, and it's a future I'd actually want to live in - ZDNET",
-        "description": "From multimodal AI glasses to immersive headsets, Google's Android XR vision is more ambitious - yet clearer - than ever.",
-        "source_link": "https://www.zdnet.com/article/android-xr-smart-glasses-hands-on-xreal-samsung/"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/square-enix_py5yD7P.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Square Enix investor calls for \"concrete countermeasures addressing critical management issues\" - GamesIndustry.biz",
-        "description": "Square Enix's third-largest investor, 3D Investment Partners, claims the firm has demonstrated a \"significant deteriora\u2026",
-        "source_link": "https://www.gamesindustry.biz/square-enix-investor-calls-for-concrete-countermeasures-addressing-critical-management-issues"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-fold-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iPhone Fold called \u2018game-changer\u2019 for next year, big impact predicted - 9to5Mac",
-        "description": "IDC projects huge 30% year-over-year foldable gains in 2026 driven by the \u201cgame-changer\u201d entry of the iPhone Fold.",
-        "source_link": "https://9to5mac.com/2025/12/09/iphone-fold-called-game-changer-for-next-year-big-impact-predicted/"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Apple-AirPods-Pro-3-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "The AirPods Pro 3 are back to their lowest price ahead of the holidays - The Verge",
-        "description": "Apple\u2019s AirPods Pro 3 are back down to their lowest price yet of $219.99 ($30 off). We also found deals on Silent Hill F and a great rechargeable flashlight.",
-        "source_link": "https://www.theverge.com/gadgets/841059/apple-airpods-pro-3-silent-hill-f-deal-sale"
       }
     ],
     "trending_movies": [
@@ -83,24 +90,24 @@
       },
       {
         "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+        "title": "The Running Man",
+        "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
+        "source_link": "https://www.themoviedb.org/movie/798645"
+      },
+      {
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
         "title": "Die My Love",
         "description": "Grace and her partner Jackson move into an old country house. She pursues her dream of writing, and the couple welcome a baby soon after. However, wit...",
         "source_link": "https://www.themoviedb.org/movie/1033148"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/i5vqegQa2v4eci1BJjYJPzAMXZ4.jpg",
-        "title": "Christy",
-        "description": "Christy Martin never imagined life beyond her small-town roots in West Virginia\u2014until she discovered a knack for punching people. Fueled by grit, raw ...",
-        "source_link": "https://www.themoviedb.org/movie/1287322"
-      },
-      {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/bKLm1xS9DsODWB4i1SxTEvLXab9.jpg",
-        "title": "Jay Kelly",
-        "description": "Famous movie actor Jay Kelly embarks on a journey of self-discovery, confronting both his past and present, accompanied by his devoted manager, Ron....",
-        "source_link": "https://www.themoviedb.org/movie/1069905"
+        "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
         "rank": 6,
@@ -111,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
         "title": "Predator: Badlands",
         "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
         "source_link": "https://www.themoviedb.org/movie/1242898"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
-        "title": "The Running Man",
-        "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
-        "source_link": "https://www.themoviedb.org/movie/798645"
-      },
-      {
-        "rank": 10,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg",
         "title": "Keeper",
         "description": "Liz and Malcolm escape for a romantic anniversary weekend at a secluded cabin. When Malcolm suddenly returns to the city, Liz finds herself isolated a...",
         "source_link": "https://www.themoviedb.org/movie/1288072"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/i5vqegQa2v4eci1BJjYJPzAMXZ4.jpg",
+        "title": "Christy",
+        "description": "Christy Martin never imagined life beyond her small-town roots in West Virginia\u2014until she discovered a knack for punching people. Fueled by grit, raw ...",
+        "source_link": "https://www.themoviedb.org/movie/1287322"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
       }
     ]
   }
