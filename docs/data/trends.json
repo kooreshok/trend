@@ -1,69 +1,76 @@
 {
-  "last_updated": "December 11, 2025, 18:24 UTC",
+  "last_updated": "December 11, 2025, 19:17 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://blog.tipranks.com/wp-content/uploads/2025/12/microsoft-shutterstock_2710273677-750x406.jpg",
+        "title": "Getting Personal With AI: Microsoft Stock (NASDAQ:MSFT) Slips as Users Turn to AI in Strange Ways - TipRanks",
+        "description": "Tech giant Microsoft ($MSFT) has clearly focused on artificial intelligence (AI) of late, even when the system does not work as well as you would hope. But as it tu...",
+        "source_link": "https://www.tipranks.com/news/getting-personal-with-ai-microsoft-stock-nasdaqmsft-slips-as-users-turn-to-ai-in-strange-ways"
+      },
+      {
+        "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2025/12/IMG_0782-1200x675.jpg",
+        "title": "Pok\u00e9mon Legends: Z-A\u2019s DLC Alleviates The Shiny Grind For $30 - Kotaku",
+        "description": "Mega Dimension has a roundabout way to find more Shinies if you drop the cash",
+        "source_link": "https://kotaku.com/pokemon-legends-za-mega-dimension-research-shiny-charm-2000652209"
+      },
+      {
+        "rank": 3,
+        "image": "https://assets-prd.ignimgs.com/2025/12/10/feature-image-85-1765377693859.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Deals for Today: Save Up to $15 on Pok\u00e9mon Legends Z-A + Mega Dimension DLC While Stocks Last - IGN",
+        "description": "Save $15 on Pok\u00e9mon Legends Z-A and its Mega Dimension DLC, plus huge discounts on first-party Nintendo Switch games, Cyberpunk 2077 gear, plushies, and more",
+        "source_link": "https://www.ign.com/articles/deals-for-today-save-up-to-15-on-pokmon-legends-z-a-mega-dimension-dlc-while-stocks-last"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/android-emergency-live-video-1.png?quality=90&strip=all&crop=0%2C3.579433208423%2C100%2C92.841133583154&w=1200",
+        "title": "Android users can now share a live video on 911 calls - The Verge",
+        "description": "Android phones are getting a new Emergency Live Video feature that allows them to share a video feed with 911 responders, mirroring a similar feature on iOS.",
+        "source_link": "https://www.theverge.com/news/841503/android-emergency-live-video"
+      },
+      {
+        "rank": 5,
+        "image": null,
+        "title": "9 PS Plus Extra, Premium Games for December 2025 Announced - Push Square",
+        "description": null,
+        "source_link": "https://www.pushsquare.com/news/2025/12/9-ps-plus-extra-premium-games-for-december-2025-announced"
+      },
+      {
+        "rank": 6,
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2025-12/10/16/thumb/mVaMVFXec.jpg?crop=2500:1309;0,226%26downsize=1250:*",
+        "title": "50 Absolutely Perfect Texts People Sent In 2025 That Make Me Laugh Uncontrollably Literally Every Single Time I Think About Them - BuzzFeed",
+        "description": "They have such a way with words.",
+        "source_link": "https://www.buzzfeed.com/daves4/funny-and-best-text-messages-2025"
+      },
+      {
+        "rank": 7,
         "image": "https://assetsio.gnwcdn.com/Nintendo-64-%E2%80%93-Nintendo-Classics-%E2%80%93-December-2025-Game-Updates-0-16-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Two classic N64 platformers join Nintendo Switch Online later this month - Eurogamer",
         "description": "Two classic N64 platformers are making their way to Nintendo Switch Online this month for subscribers.",
         "source_link": "https://www.eurogamer.net/two-classic-n64-platformers-join-nintendo-switch-online-later-this-month"
       },
       {
-        "rank": 2,
+        "rank": 8,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/02/Galaxy-S25-review-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Galaxy S26 cost-cutting reportedly killed a long overdue camera upgrade - 9to5Google",
+        "description": "According to a new report, Samsung\u2019s upcoming Galaxy S26 series will forgo a long overdue camera upgrade in the name...",
+        "source_link": "http://9to5google.com/2025/12/10/samsung-galaxy-s26-camera-upgrade-killed-report/"
+      },
+      {
+        "rank": 9,
+        "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/ak392a52o59o13/229964e39a2986e81bd2b72c2d4798a9ed0ddee7.jpg",
+        "title": "GTA Online: A Safehouse in the Hills Now Available - Rockstar Games",
+        "description": "Status is everything, and in GTA Online: A Safehouse in the Hills you can now revel in your rightful position amongst the city's elite with a lavish new mansion property.",
+        "source_link": "https://www.rockstargames.com/newswire/article/ak392a52o59o13/gta-online-a-safehouse-in-the-hills-now-available"
+      },
+      {
+        "rank": 10,
         "image": "https://wp.theringer.com/wp-content/uploads/2025/12/cropped-BestOfGames25_Getty-Ringer-scaled-1.jpg",
         "title": "The Best Video Games of 2025 - The Ringer",
         "description": "The games were good this year. These were the best of them.",
         "source_link": "https://www.theringer.com/2025/12/10/video-games/best-video-games-2025-top-10-ranking-games-of-the-year-goty"
-      },
-      {
-        "rank": 3,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGxMm2pBobSc/v1/1200x800.jpg",
-        "title": "Amazon Bets on Color and AI With Its Priciest Kindle to Date - Bloomberg.com",
-        "description": "Review: Amazon\u2019s $630 pen-enabled device is a tough sell for most people.",
-        "source_link": "https://www.bloomberg.com/news/features/2025-12-10/amazon-kindle-scribe-colorsoft-review-630-device-bets-big-on-ai-color-screen"
-      },
-      {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257587_AMD_RX_9700_and_9700_XT_TWarren_0004.jpg?quality=90&strip=all&crop=0%2C10.471204188482%2C100%2C79.057591623037&w=1200",
-        "title": "AMD FSR Redstone is an exciting and confusing upgrade for Radeon PC gamers - The Verge",
-        "description": "AMD FSR Redstone is here, absorbing FSR 4, to make your games speedier and/or look better with machine learning for AMD 9070, 9070 XT and 9060-series GPUs.",
-        "source_link": "https://www.theverge.com/games/841342/amd-fsr-redstone-is-an-exciting-and-confusing-upgrade-for-radeon-pc-gamers"
-      },
-      {
-        "rank": 5,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/12/PS_Make-Colors-More-Vibrant_16x9.jpeg?resize=1200,675",
-        "title": "Adobe brings Photoshop, Express and Acrobat features to ChatGPT - TechCrunch",
-        "description": "ChatGPT's 800 million plus userbase can now use Adobe's apps to modify images and PDFs",
-        "source_link": "https://techcrunch.com/2025/12/10/adobe-brings-photoshop-express-and-acrobat-features-to-chatgpt/"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/charitydrive2025-1152x648.jpg",
-        "title": "Win hardware, collectibles, and more in the 2025 Ars Technica Charity Drive - Ars Technica",
-        "description": "Help yourself to prizes by helping us raise money for good causes.",
-        "source_link": "https://arstechnica.com/gaming/2025/12/win-hardware-collectibles-and-more-in-the-2025-ars-technica-charity-drive/"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltaf7b3f55423961e6/693944610cef593b2a4afc92/Plus_Header.png",
-        "title": "Two New Free PlayStation Plus Games Leak Online Ahead of December Reveal - GAMINGbible",
-        "description": "Two more exciting games arriving to PS Plus have been leaked",
-        "source_link": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-free-games-876444-20251210"
-      },
-      {
-        "rank": 8,
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn4WUzO_P0sEPntxbBi-a6uO4dqk0arqJQMhRKYAYj7r8Dbsx3Y7PoeWrMLaEHxK7nMx4vNCTNWFYa6KYRiFFYE2i2Lg3WkD0DO63RN4Nxnt_MSOKAHmb9Z6vsIKaHVVBQLmBTVs0fgsSAomShvnBP25jt1DK11qLYEiqOg0_HsJakDdxnA45GzohEBYT7/s790-rw-e365/winrar.jpg",
-        "title": "Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups - The Hacker News",
-        "description": "CISA warns WinRAR CVE-2025-6218 is under active attack by multiple threat groups, requiring federal fixes by Dec. 30, 2025.",
-        "source_link": "https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html"
-      },
-      {
-        "rank": 9,
-        "image": "https://media.wired.com/photos/69334fc7be928ef56cd3434d/191:100/w_1280,c_limit/wired_parkinsons-lejeune_rcj_9578_028.jpg",
-        "title": "Scientists Thought Parkinson\u2019s Was in Our Genes. It Might Be in the Water - WIRED",
-        "description": "Parkinson\u2019s disease has environmental toxic factors, not just genetic.",
-        "source_link": "https://www.wired.com/story/scientists-thought-parkinsons-was-in-our-genes-it-might-be-in-the-water/"
       }
     ],
     "trending_movies": [
@@ -83,59 +90,59 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
-        "title": "Die My Love",
-        "description": "Grace and her partner Jackson move into an old country house. She pursues her dream of writing, and the couple welcome a baby soon after. However, wit...",
-        "source_link": "https://www.themoviedb.org/movie/1033148"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
         "title": "Chainsaw Man - The Movie: Reze Arc",
         "description": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest b...",
         "source_link": "https://www.themoviedb.org/movie/1218925"
       },
       {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/oByEpwQEU0gtSzVO8nVTyu8fmjm.jpg",
-        "title": "The Fakenapping",
-        "description": "Sattam is a young man plagued by bad luck, with every venture he's tried ending in failure. Now on the verge of losing his home to the ruthless Abu At...",
-        "source_link": "https://www.themoviedb.org/movie/1580353"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg",
-        "title": "Keeper",
-        "description": "Liz and Malcolm escape for a romantic anniversary weekend at a secluded cabin. When Malcolm suddenly returns to the city, Liz finds herself isolated a...",
-        "source_link": "https://www.themoviedb.org/movie/1288072"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 8,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
+        "title": "Die My Love",
+        "description": "Grace and her partner Jackson move into an old country house. She pursues her dream of writing, and the couple welcome a baby soon after. However, wit...",
+        "source_link": "https://www.themoviedb.org/movie/1033148"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+        "title": "Predator: Badlands",
+        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
+        "source_link": "https://www.themoviedb.org/movie/1242898"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg",
+        "title": "Keeper",
+        "description": "Liz and Malcolm escape for a romantic anniversary weekend at a secluded cabin. When Malcolm suddenly returns to the city, Liz finds herself isolated a...",
+        "source_link": "https://www.themoviedb.org/movie/1288072"
+      },
+      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/i5vqegQa2v4eci1BJjYJPzAMXZ4.jpg",
-        "title": "Christy",
-        "description": "Christy Martin never imagined life beyond her small-town roots in West Virginia\u2014until she discovered a knack for punching people. Fueled by grit, raw ...",
-        "source_link": "https://www.themoviedb.org/movie/1287322"
+        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "title": "Bugonia",
+        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
+        "source_link": "https://www.themoviedb.org/movie/701387"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
-        "title": "TRON: Ares",
-        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
-        "source_link": "https://www.themoviedb.org/movie/533533"
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
       }
     ]
   }
