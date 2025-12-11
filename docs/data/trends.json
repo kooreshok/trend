@@ -1,76 +1,69 @@
 {
-  "last_updated": "December 11, 2025, 16:25 UTC",
+  "last_updated": "December 11, 2025, 17:22 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://www.techpowerup.com/review/amd-fsr-4-redstone/images/title.jpg",
-        "title": "AMD FSR 4 Redstone Review - TechPowerUp",
-        "description": "AMD's FSR Redstone is finally here\u2014and it's more than just another FSR update. With ML-powered frame generation that can match (and sometimes beat) DLSS, smarter ray tracing cleanup, and excellent driver-level support, Redstone turns FSR into a competitive pe\u2026",
-        "source_link": "https://www.techpowerup.com/review/amd-fsr-4-redstone/"
+        "image": "https://assetsio.gnwcdn.com/Nintendo-64-%E2%80%93-Nintendo-Classics-%E2%80%93-December-2025-Game-Updates-0-16-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Two classic N64 platformers join Nintendo Switch Online later this month - Eurogamer",
+        "description": "Two classic N64 platformers are making their way to Nintendo Switch Online this month for subscribers.",
+        "source_link": "https://www.eurogamer.net/two-classic-n64-platformers-join-nintendo-switch-online-later-this-month"
       },
       {
         "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Instagram-Reels-algorithm-customization.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Instagram gives you more control over your Reels algorithm - The Verge",
-        "description": "Instagram is launching a new AI-powered feature for fine-tuning which videos appear in your Reels tab.",
-        "source_link": "https://www.theverge.com/news/841399/instagram-reels-tune-algorithm-feature"
+        "image": "https://wp.theringer.com/wp-content/uploads/2025/12/cropped-BestOfGames25_Getty-Ringer-scaled-1.jpg",
+        "title": "The Best Video Games of 2025 - The Ringer",
+        "description": "The games were good this year. These were the best of them.",
+        "source_link": "https://www.theringer.com/2025/12/10/video-games/best-video-games-2025-top-10-ranking-games-of-the-year-goty"
       },
       {
         "rank": 3,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGxMm2pBobSc/v1/1200x800.jpg",
+        "title": "Amazon Bets on Color and AI With Its Priciest Kindle to Date - Bloomberg.com",
+        "description": "Review: Amazon\u2019s $630 pen-enabled device is a tough sell for most people.",
+        "source_link": "https://www.bloomberg.com/news/features/2025-12-10/amazon-kindle-scribe-colorsoft-review-630-device-bets-big-on-ai-color-screen"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257587_AMD_RX_9700_and_9700_XT_TWarren_0004.jpg?quality=90&strip=all&crop=0%2C10.471204188482%2C100%2C79.057591623037&w=1200",
+        "title": "AMD FSR Redstone is an exciting and confusing upgrade for Radeon PC gamers - The Verge",
+        "description": "AMD FSR Redstone is here, absorbing FSR 4, to make your games speedier and/or look better with machine learning for AMD 9070, 9070 XT and 9060-series GPUs.",
+        "source_link": "https://www.theverge.com/games/841342/amd-fsr-redstone-is-an-exciting-and-confusing-upgrade-for-radeon-pc-gamers"
+      },
+      {
+        "rank": 5,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/12/PS_Make-Colors-More-Vibrant_16x9.jpeg?resize=1200,675",
+        "title": "Adobe brings Photoshop, Express and Acrobat features to ChatGPT - TechCrunch",
+        "description": "ChatGPT's 800 million plus userbase can now use Adobe's apps to modify images and PDFs",
+        "source_link": "https://techcrunch.com/2025/12/10/adobe-brings-photoshop-express-and-acrobat-features-to-chatgpt/"
+      },
+      {
+        "rank": 6,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/charitydrive2025-1152x648.jpg",
+        "title": "Win hardware, collectibles, and more in the 2025 Ars Technica Charity Drive - Ars Technica",
+        "description": "Help yourself to prizes by helping us raise money for good causes.",
+        "source_link": "https://arstechnica.com/gaming/2025/12/win-hardware-collectibles-and-more-in-the-2025-ars-technica-charity-drive/"
+      },
+      {
+        "rank": 7,
+        "image": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltaf7b3f55423961e6/693944610cef593b2a4afc92/Plus_Header.png",
+        "title": "Two New Free PlayStation Plus Games Leak Online Ahead of December Reveal - GAMINGbible",
+        "description": "Two more exciting games arriving to PS Plus have been leaked",
+        "source_link": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-free-games-876444-20251210"
+      },
+      {
+        "rank": 8,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn4WUzO_P0sEPntxbBi-a6uO4dqk0arqJQMhRKYAYj7r8Dbsx3Y7PoeWrMLaEHxK7nMx4vNCTNWFYa6KYRiFFYE2i2Lg3WkD0DO63RN4Nxnt_MSOKAHmb9Z6vsIKaHVVBQLmBTVs0fgsSAomShvnBP25jt1DK11qLYEiqOg0_HsJakDdxnA45GzohEBYT7/s790-rw-e365/winrar.jpg",
+        "title": "Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups - The Hacker News",
+        "description": "CISA warns WinRAR CVE-2025-6218 is under active attack by multiple threat groups, requiring federal fixes by Dec. 30, 2025.",
+        "source_link": "https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html"
+      },
+      {
+        "rank": 9,
         "image": "https://media.wired.com/photos/69334fc7be928ef56cd3434d/191:100/w_1280,c_limit/wired_parkinsons-lejeune_rcj_9578_028.jpg",
         "title": "Scientists Thought Parkinson\u2019s Was in Our Genes. It Might Be in the Water - WIRED",
         "description": "Parkinson\u2019s disease has environmental toxic factors, not just genetic.",
         "source_link": "https://www.wired.com/story/scientists-thought-parkinsons-was-in-our-genes-it-might-be-in-the-water/"
-      },
-      {
-        "rank": 4,
-        "image": "https://assets.warhammer-community.com/40k_balancedataslate-dec10-1-feature-knrzu2aczu.jpg",
-        "title": "The Warhammer 40,000 Quarterly Balance Update \u2013 December 2025 - Warhammer Community",
-        "description": "Find out what\u2019s changed for the factions of the 41st Millennium.",
-        "source_link": "https://www.warhammer-community.com/articles/aptyn7c9/the-warhammer-40000-quarterly-balance-update-december-2025"
-      },
-      {
-        "rank": 5,
-        "image": "https://assets.warhammer-community.com/grotmas10-dec10-1-feature-g6fwohgjn8.jpg",
-        "title": "Grotmas Calendar Day 10 \u2013 Unleash the Great Wolf in a ferocious new Space Wolves Detachment - Warhammer Community",
-        "description": "Logan Grimnar is ready to take heads.",
-        "source_link": "https://www.warhammer-community.com/articles/u1hmzoaa/grotmas-calendar-day-10-unleash-the-great-wolf-in-a-ferocious-new-space-wolves-detachment"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.pushsquare.com/136f6d6e54a17/large.jpg",
-        "title": "3 PS Plus Extra, Premium Games for December 2025 Leaked Early - Push Square",
-        "description": "Just hours before the announcement",
-        "source_link": "https://www.pushsquare.com/news/2025/12/3-ps-plus-extra-premium-games-for-december-2025-leaked-early"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2025/12/gta-online-safehouse-hills-release-time-pcgamesn-featured-1.jpg",
-        "title": "GTA Online mansions update release time and all new cars - PCGamesN",
-        "description": "Grab some new cars in the Safehouse Hills expansion when the GTA Online mansions update release time arrives this December.",
-        "source_link": "https://www.pcgamesn.com/grand-theft-auto-5/mansions-update-release-time-safehouse-hills"
-      },
-      {
-        "rank": 8,
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIBMHrpsvzLEHZ52J6HNP__PNJC-IjFnM5FpHLkAj5T5-cQN1siRI_E-jKO7T2SYs1XR4g4r5wvPt37dQoCWyqceTNKs1nz7mbnHBtydb4yGtRC4qyOAL4qCNuvCImdE6H62kqb3bUUj14qVg5BGzhywqFJioC3qBIlhFnTDejUFRQRjzXY201Ge2F-IA8/s790-rw-e365/windows-patch.jpg",
-        "title": "Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days - The Hacker News",
-        "description": "Microsoft fixed 56 Windows security flaws, including an actively exploited privilege-escalation bug and two new command-injection zero-days.",
-        "source_link": "https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2025/03/Microsoft-DirectX-Raytracing-DXR.jpg",
-        "title": "Microsoft Promises Big Windows 11 PC & Handheld Gaming Updates: Power & Scheduling Improvements, Graphics Stack Optimizations, Background Workload Management, Advanced Shader Delivery For Additional Hardware & More - Wccftech",
-        "description": "Microsoft has announced that it is bringing big performance improvements and optimizations for PC gamers in the upcoming Windows 11 updates.",
-        "source_link": "https://wccftech.com/microsoft-promises-big-windows-11-pc-handheld-gaming-updates/"
-      },
-      {
-        "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ss_315eadbae30a21d15a2b4e87eee87525324f8edb.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "Call of Duty won\u2019t release Modern Warfare or Black Ops back to back anymore - The Verge",
-        "description": "Activision\u2019s future Call of Duty releases will no longer include back-to-back launches of Modern Warfare or Black Ops games.",
-        "source_link": "https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back"
       }
     ],
     "trending_movies": [
@@ -132,17 +125,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/i5vqegQa2v4eci1BJjYJPzAMXZ4.jpg",
-        "title": "Christy",
-        "description": "Christy Martin never imagined life beyond her small-town roots in West Virginia\u2014until she discovered a knack for punching people. Fueled by grit, raw ...",
-        "source_link": "https://www.themoviedb.org/movie/1287322"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/oByEpwQEU0gtSzVO8nVTyu8fmjm.jpg",
         "title": "The Fakenapping",
         "description": "Sattam is a young man plagued by bad luck, with every venture he's tried ending in failure. Now on the verge of losing his home to the ruthless Abu At...",
         "source_link": "https://www.themoviedb.org/movie/1580353"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/i5vqegQa2v4eci1BJjYJPzAMXZ4.jpg",
+        "title": "Christy",
+        "description": "Christy Martin never imagined life beyond her small-town roots in West Virginia\u2014until she discovered a knack for punching people. Fueled by grit, raw ...",
+        "source_link": "https://www.themoviedb.org/movie/1287322"
       }
     ]
   }
