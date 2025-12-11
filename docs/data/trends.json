@@ -1,76 +1,69 @@
 {
-  "last_updated": "December 11, 2025, 01:19 UTC",
+  "last_updated": "December 11, 2025, 03:21 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://evogg-space.sfo3.cdn.digitaloceanspaces.com/3ec930a7a14068495b135822a617ec55.jpg",
+        "title": "Register for Last Vegas 2026 | Evo | The Ultimate Fighting Game Tournament - Evo.gg",
+        "description": "The biggest fighting game tournament in the world returns. Get all the details on Evo\u2019s three action-packed days plus the crowning of new World Champions.",
+        "source_link": "https://evo.gg/register/"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ss_315eadbae30a21d15a2b4e87eee87525324f8edb.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "Call of Duty won\u2019t release Modern Warfare or Black Ops back to back anymore - The Verge",
+        "description": "Activision\u2019s future Call of Duty releases will no longer include back-to-back launches of Modern Warfare or Black Ops games.",
+        "source_link": "https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back"
+      },
+      {
+        "rank": 3,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/youtube-tv-logo-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "YouTube TV has fixed \u2018restricted\u2019 problem that broke recorded content [U] - 9to5Google",
         "description": "An issue affecting YouTube TV subscribers today is leaving recorded content inaccessible, but YouTube TV has confirmed it is aware...",
         "source_link": "http://9to5google.com/2025/12/09/youtube-tv-restricted-recordings-issue/"
       },
       {
-        "rank": 2,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4619992-original.jpg",
-        "title": "Divinity Original Sin 3 Not Happening Now At Larian, Or Toilet Simulator - GameSpot",
-        "description": "\"I can confirm we aren't working on a toilet simulator at this moment.\"",
-        "source_link": "https://www.gamespot.com/articles/divinity-original-sin-3-not-happening-now-at-larian-or-toilet-simulator/1100-6536810/"
-      },
-      {
-        "rank": 3,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/Android-Game-Controller-Remapping-Hero-Image-scaled.jpeg",
-        "title": "First look: Android 17 may finally let you remap buttons on your game controller - Android Authority",
-        "description": "2026's big Android 17 update could bring some major new gaming features like support for remapping the buttons on your favorite gamepad.",
-        "source_link": "https://www.androidauthority.com/android-17-gamepad-remapping-rumor-3623718/"
-      },
-      {
         "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Screenshot-2025-12-09-at-8.51.41%E2%80%AFAM.png?quality=90&strip=all&crop=0%2C8.2337891187584%2C100%2C83.532421762483&w=1200",
-        "title": "I\u2019m obsessed with Redfin\u2019s AI search - The Verge",
-        "description": "Redfin\u2019s new AI-assisted search is unusually handy, whether you\u2019re actively house hunting or just window-shopping for your dream home.",
-        "source_link": "https://www.theverge.com/ai-artificial-intelligence/840190/redfin-ai-search-chatbot"
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/10/Pixel-Watch-4-Safety-Tools-scaled.jpg",
+        "title": "WearOS 6.1 hits Pixel Watch with new features in tow - Android Authority",
+        "description": "The December update for Pixel Watch 2, 3, and 4 includes a 'point' update to Wear OS, plus some new features for newer models.",
+        "source_link": "https://www.androidauthority.com/wear-os-6-1-pixel-watch-3623774/"
       },
       {
         "rank": 5,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-fold-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iPhone Fold called \u2018game-changer\u2019 for next year, big impact predicted - 9to5Mac",
+        "description": "IDC projects huge 30% year-over-year foldable gains in 2026 driven by the \u201cgame-changer\u201d entry of the iPhone Fold.",
+        "source_link": "https://9to5mac.com/2025/12/09/iphone-fold-called-game-changer-for-next-year-big-impact-predicted/"
+      },
+      {
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Apple-AirPods-Pro-3-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "The AirPods Pro 3 are back to their lowest price ahead of the holidays - The Verge",
+        "description": "Apple\u2019s AirPods Pro 3 are back down to their lowest price yet of $219.99 ($30 off). We also found deals on Silent Hill F and a great rechargeable flashlight.",
+        "source_link": "https://www.theverge.com/gadgets/841059/apple-airpods-pro-3-silent-hill-f-deal-sale"
+      },
+      {
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/nothing-phone-3a-community-edition-hero.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
         "title": "Nothing\u2019s community-designed Phone 3A adds some color and matching dice - The Verge",
         "description": "Nothing\u2019s Phone 3A Community Edition features a teal-tinted 90s-themed design and a matching dice set.",
         "source_link": "https://www.theverge.com/news/841019/nothing-phone-3a-community-edition"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://cdn.mos.cms.futurecdn.net/R9fj76rTfHoxg4GXCp3UzU-2560-80.jpg",
         "title": "Microsoft rounds off 2025 with one final Windows 11 feature update \u2014 here's what's new and fixed - Windows Central",
         "description": "The Windows 11 December 2025 Security Update is now rolling out, and alongside it comes a number of new features and changes to round off the year.",
         "source_link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-rounds-off-2025-with-one-final-windows-11-feature-update-heres-whats-new-and-fixed"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
         "title": "Microsoft December 2025 Patch Tuesday fixes 3 zero-days, 57 flaws - BleepingComputer",
         "description": "Microsoft's December 2025 Patch Tuesday fixes 57\u00a0flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities.",
         "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2025-patch-tuesday-fixes-3-zero-days-57-flaws/"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.mos.cms.futurecdn.net/q5n7WUEAt8xvP2eezsqBt8-1920-80.jpg",
-        "title": "Microsoft promises it will upgrade Windows 11 with better performance for gamers in 2026 \u2014 \"we\u2019re committed to making Windows the best place to play\" - Windows Central",
-        "description": "Windows 11 is set to gain a number of important improvements for gamers next year, all designed to allow games to run better and compete with SteamOS.",
-        "source_link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-promises-it-will-upgrade-windows-11-with-better-performance-for-gamers-in-2026-were-committed-to-making-windows-the-best-place-to-play"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-Pixel-Notification-Organizer-cover-a.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google rolling out Notification Organizer to Pixel - 9to5Google",
-        "description": "Following AI Summaries last month, Google is rolling out the Notification Organizer to Pixel phones with Android 16 QPR2.",
-        "source_link": "http://9to5google.com/2025/12/09/google-pixel-notification-organizer/"
-      },
-      {
-        "rank": 10,
-        "image": "https://assetsio.gnwcdn.com/Indy-in-Indiana-Jones-and-the-Temple-of-Doom.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Indiana Jones and the Great Circle update adds an outfit suitable to eat chilled monkey brains in - Eurogamer",
-        "description": "The team at MachineGames has issued a new update for Indiana Jones and the Great Circle.",
-        "source_link": "https://www.eurogamer.net/indiana-jones-and-the-great-circle-update-adds-an-outfit-suitable-to-eat-chilled-monkey-brains-in"
       }
     ],
     "trending_movies": [
@@ -104,45 +97,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/mbGHijUc0C3fcM12l6ro6FgxIvg.jpg",
         "title": "Keeper",
         "description": "Liz and Malcolm escape for a romantic anniversary weekend at a secluded cabin. When Malcolm suddenly returns to the city, Liz finds herself isolated a...",
         "source_link": "https://www.themoviedb.org/movie/1288072"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/drifZGvZ88vpg5bY6ed0cEOeZle.jpg",
         "title": "Christy",
         "description": "Christy Martin never imagined life beyond her small-town roots in West Virginia\u2014until she discovered a knack for punching people. Fueled by grit, raw ...",
         "source_link": "https://www.themoviedb.org/movie/1287322"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/bKLm1xS9DsODWB4i1SxTEvLXab9.jpg",
-        "title": "Jay Kelly",
-        "description": "Famous movie actor Jay Kelly embarks on a journey of self-discovery, confronting both his past and present, accompanied by his devoted manager, Ron....",
-        "source_link": "https://www.themoviedb.org/movie/1069905"
+        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "title": "Bugonia",
+        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
+        "source_link": "https://www.themoviedb.org/movie/701387"
       }
     ]
   }
