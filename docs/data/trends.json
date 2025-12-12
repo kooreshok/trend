@@ -1,69 +1,76 @@
 {
-  "last_updated": "December 12, 2025, 20:18 UTC",
+  "last_updated": "December 12, 2025, 21:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Disco-Pic.jpeg?quality=90&strip=all&crop=0%2C10.741211197804%2C100%2C78.517577604391&w=1200",
-        "title": "Google is building an experimental new browser and a new kind of web app - The Verge",
-        "description": "GenTabs bring Gemini 3\u2019s interactive powers to the overall web experience, with some new ideas about browsing.",
-        "source_link": "https://www.theverge.com/tech/842000/google-disco-browser-ai-experiment"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/akrales_191113_3779_0163.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Remember Google Stadia? Steam finally made its gamepad worth rescuing - The Verge",
+        "description": "December 31st is the deadline to save the Google Stadia Controller, and recent support in Steam makes it worthwhile.",
+        "source_link": "https://www.theverge.com/games/829631/save-google-stadia-gamepad-steam-deadline"
       },
       {
         "rank": 2,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/airtag-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "New AirTag 2 leak reveals five improved features coming - 9to5Mac",
-        "description": "When AirTag 2 finally arrives, a new leak has revealed five improved features that could be included with the long-awaited update.",
-        "source_link": "https://9to5mac.com/2025/12/11/new-airtag-2-leak-reveals-five-improved-features-coming/"
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/airpods-pro-3-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "New AirPods Pro 3 firmware just arrived, plus more - 9to5Mac",
+        "description": "Apple has just released brand new firmware updates for AirPods Pro 3 and AirPods Pro 2. Here are the details.",
+        "source_link": "https://9to5mac.com/2025/12/11/new-airpods-pro-3-firmware-just-arrived-plus-more/"
       },
       {
         "rank": 3,
+        "image": "https://gizmodo.com/app/uploads/2025/12/Fallout-Prime-Video-Amazon-1200x675.jpg",
+        "title": "Amazon\u2019s Official \u2018Fallout\u2019 Season 1 Recap Is AI Garbage Filled With Mistakes - Gizmodo",
+        "description": "Prime Video's latest needle-poke into generative AI's bubble comes on the heels of its anime dubbing debacle.",
+        "source_link": "https://gizmodo.com/fallout-ai-recap-prime-video-amazon-2000698573"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+        "title": "ChatGPT\u2019s \u2018adult mode\u2019 is expected to debut in Q1 2026 - The Verge",
+        "description": "OpenAI expects ChatGPT\u2019s \u201cadult mode\u201d will launch in the first quarter of 2026.",
+        "source_link": "https://www.theverge.com/news/842657/openai-chatgpt-adult-mode-debut-q1-2026"
+      },
+      {
+        "rank": 5,
+        "image": "https://techcrunch.com/wp-content/uploads/2017/04/gettyimages-592356083.jpg?resize=1200,675",
+        "title": "Google debuts \u2018Disco,\u2019 a Gemini-powered tool for making web apps from browser tabs - TechCrunch",
+        "description": "Google Labs is testing a product that will work with your browser tabs to make web apps for you.",
+        "source_link": "https://techcrunch.com/2025/12/11/google-debuts-disco-a-gemini-powered-tool-for-making-web-apps-from-browser-tabs/"
+      },
+      {
+        "rank": 6,
+        "image": "https://images.pushsquare.com/ba15628bbbd6b/large.jpg",
+        "title": "Deus Ex Remastered Delayed Indefinitely Following Fan Backlash - Push Square",
+        "description": "Full refunds incoming",
+        "source_link": "https://www.pushsquare.com/news/2025/12/deus-ex-remastered-delayed-indefinitely-following-fan-backlash"
+      },
+      {
+        "rank": 7,
+        "image": "https://images.nintendolife.com/a06dccc32ec29/large.jpg",
+        "title": "Hades 2 Dev Shares Adorable GOTY Nominee Artwork Ahead Of The Game Awards - Nintendo Life",
+        "description": "Now that's sweet",
+        "source_link": "https://www.nintendolife.com/news/2025/12/hades-2-dev-shares-adorable-goty-nominee-artwork-ahead-of-the-game-awards"
+      },
+      {
+        "rank": 8,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Gemini-Deep-Research-agent-cover2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Upgraded Deep Research coming to Gemini app, agent now available for devs - 9to5Google",
+        "description": "Google today announced a \u201csignificantly more powerful Gemini Deep Research agent\u201d that will soon be available in consumer apps.",
+        "source_link": "http://9to5google.com/2025/12/11/gemini-deep-research-agent/"
+      },
+      {
+        "rank": 9,
         "image": "https://pokemongohub.net/wp-content/uploads/2025/12/Grapploct-2.jpg",
         "title": "Grapploct in Pok\u00e9mon GO Meta: Worth the Grind? - Pok\u00e9mon GO Hub",
         "description": "Trainers! The Season of Precious Paths is underway, and with the new season we have debut of some new Pok\u00e9mon as well. The Well Armed event introduces two new Pok\u00e9mon to the game: The Tantrum Pok\u00e9mon, Clobbopus, and its evolution, The Jujitsu Pok\u00e9mon, Grapplo\u2026",
         "source_link": "https://pokemongohub.net/post/meta/grapploct-in-pokemon-go-meta-worth-the-grind/"
       },
       {
-        "rank": 4,
+        "rank": 10,
         "image": "https://draftsim.com/wp-content/uploads/2025/12/High-Perfect-Morcant-Illustration-by-Victor-Adame-Minguez.png",
         "title": "Lorwyn Eclipsed\u2019s Proliferating Elf Commander Might Put Lathril Out of Business - Draftsim",
         "description": "Christmas comes early for elf players with a brand new Golgari elf commander that brings back proliferation, -1/-1 counters, and introduces us to the new blight mechanic from Lorwyn Eclipsed!",
         "source_link": "https://draftsim.com/mtg-lorwyn-eclipsed-elf-commander/"
-      },
-      {
-        "rank": 5,
-        "image": "https://images.macrumors.com/t/X8mvSnERrmBAC2HcG_TEvf_Gkr8=/2500x/article-new/2025/11/iOS-26.2-Glass-Slider-Feature.jpg",
-        "title": "iOS 26.2 Coming Soon With These 8 New Features on Your iPhone - MacRumors",
-        "description": "Apple seeded the second iOS 26.2 Release Candidate to developers earlier this week, meaning the update will be released to the general public very...",
-        "source_link": "https://www.macrumors.com/2025/12/11/ios-26-2-features-coming-soon/"
-      },
-      {
-        "rank": 6,
-        "image": "https://fdn.gsmarena.com/imgroot/news/25/12/ayaneo-pocket-play-kickstarter/-952x498w6/gsmarena_000.jpg",
-        "title": "Ayaneo Pocket Play is a reincarnation of the Xperia Play - GSMArena.com news - GSMArena.com",
-        "description": "Ayaneo\u2019s first smartphone is set to launch soon. Ayaneo is entering the smartphone market, and its first device will take a different approach from the...",
-        "source_link": "https://www.gsmarena.com/ayaneo_pocket_play_is_a_reincarnation_of_the_xperia_play_-news-70668.php"
-      },
-      {
-        "rank": 7,
-        "image": "https://kotaku.com/app/uploads/2025/04/e2f40163eb8ef564310cae4b18fd6d56-1200x675.jpg",
-        "title": "Clair Obscur Wasn\u2019t Just Good, It Was Also Cheap To Develop - Kotaku",
-        "description": "Sandfall Interactive made a GOTY contender for a fraction of what most companies spend",
-        "source_link": "https://kotaku.com/clair-obscur-expedition-33-budget-cost-goty-sandfall-2000652590"
-      },
-      {
-        "rank": 8,
-        "image": "https://deadline.com/wp-content/uploads/2025/12/Disney-Google-logos.jpg?w=1024",
-        "title": "Disney Fires Off Cease-And-Desist Letter To Google Over AI Services - Deadline",
-        "description": "Disney has fired off a cease-and-desist letter to Google, claiming that its AI training models and services infringe on its copyrights on a \"massive scale.\"",
-        "source_link": "http://deadline.com/2025/12/disney-google-cease-and-desist-letter-1236645802/"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ATT-Connected-Life-home-security.png?quality=90&strip=all&crop=0%2C9.7634283498158%2C100%2C80.473143300368&w=1200",
-        "title": "AT&T\u2019s new home security system is powered by Google Home and Abode - The Verge",
-        "description": "AT&T is launching Connected Life, a new smart home security offering built around Google Home that keeps working during power or internet outages.",
-        "source_link": "https://www.theverge.com/news/842307/att-connected-life-smart-home-security-google-price"
       }
     ],
     "trending_movies": [
@@ -132,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
-        "title": "Die My Love",
-        "description": "Grace and her partner Jackson move into an old country house. She pursues her dream of writing, and the couple welcome a baby soon after. However, wit...",
-        "source_link": "https://www.themoviedb.org/movie/1033148"
+        "image": "https://image.tmdb.org/t/p/w200/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+        "title": "Hunting Season",
+        "description": "When a reclusive survivalist and his daughter rescue a mysterious, wounded woman from a river, they become entangled in a deadly web of violence and r...",
+        "source_link": "https://www.themoviedb.org/movie/1387382"
       }
     ]
   }
