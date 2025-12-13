@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 13, 2025, 20:17 UTC",
+  "last_updated": "December 13, 2025, 21:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257946_iPhone_17_AKrales_0063.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "iOS 26.2 is here with Liquid Glass, AirDrop, and Apple Music updates - The Verge",
-        "description": "iOS 26.2 gives iPhones a new way to reduce the Liquid Glass look and introduces AirDrop codes, new features in Apple Podcasts, and \u201curgent\u201d reminders.",
-        "source_link": "https://www.theverge.com/news/839534/apple-iphone-ipad-mac-update-26-2"
+        "image": "https://techcrunch.com/wp-content/uploads/2025/09/iphone-air.jpg?resize=1200,669",
+        "title": "With iOS 26.2, Apple lets you roll back Liquid Glass again \u2014 this time on the Lock Screen - TechCrunch",
+        "description": "Your iPhone clock doesn't have to be so \"glassy\" anymore, thanks to a new Apple software update.",
+        "source_link": "https://techcrunch.com/2025/12/12/with-ios-26-2-apple-lets-you-roll-back-liquid-glass-again-this-time-on-the-lock-screen/"
       },
       {
         "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2025/12/IMG_0791-1200x675.jpg",
+        "title": "Pok\u00e9mon Legends: Z-A\u2019s DLC Leaves One Mega Evolution Out - Kotaku",
+        "description": "There\u2019s one more Mega Stone players can\u2019t get yet, hiding in the game\u2019s code",
+        "source_link": "https://kotaku.com/pokemon-legends-za-garchomp-z-mega-dimension-stone-where-2000653068"
+      },
+      {
+        "rank": 3,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/google-translate-text-update-12-12-25.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
         "title": "Google Translate brings real-time speech translations to any headphones - The Verge",
         "description": "Google Translate will now let users hear live speech translations in any headphones on its Android app, expanding a feature that was once only available with Pixel Buds.",
         "source_link": "https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/05b5/live/8a737610-d77a-11f0-825e-eb4c8fb7e95e.jpg",
         "title": "Amazon pulls AI recap from Fallout TV show after it made several mistakes - BBC",
         "description": "The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.",
         "source_link": "https://www.bbc.com/news/articles/c3r77j5nze5o"
       },
       {
-        "rank": 4,
-        "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/sb/SBBH59XURANB1765327034677.jpg",
-        "title": "34.2.2 Patch Notes \u2014 Hearthstone - Blizzard News",
-        "description": "The latest balance update for Hearthstone and Battlegrounds is here.",
-        "source_link": "https://news.blizzard.com/en-us/article/24250382/34-2-2-patch-notes"
-      },
-      {
         "rank": 5,
-        "image": "https://fdn.gsmarena.com/imgroot/news/25/12/samsung-galaxy-z-trifold-sold-out/-952x498w6/gsmarena_001.jpg",
-        "title": "The $2,400 Samsung Galaxy Z TriFold sold out in minutes - GSMArena.com news - GSMArena.com",
-        "description": "It went on sale today in South Korea, which is the only country where it's being sold. The Samsung Galaxy Z TriFold, announced last week, went on sale in...",
-        "source_link": "https://www.gsmarena.com/samsung_galaxy_z_trifold_sold_out-news-70690.php"
-      },
-      {
-        "rank": 6,
         "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/MCV_MoM_CommunityChallange_Announce_DotNet_Original_DotNet_BlogEditorial_1170x500.jpg",
         "title": "Mounts of Mayhem challenges - Minecraft",
         "description": "Take on two challenges in the Mobs of Mayhem drop and earn dashing rewards! Defeat five mobs with a spear, or help the community spawn 75 million zombie horses! The challenges run from Friday Dec 12, 8:00 AM PT to Monday Dec 15, 10:00 AM PT.",
         "source_link": "https://www.minecraft.net/en-us/article/mounts-of-mayhem-challenges"
       },
       {
+        "rank": 6,
+        "image": "https://assetsio.gnwcdn.com/Resident-Evil-Requiem---3rd-Trailer-2-32-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Resident Evil Requiem's Leon and Grace will have differing gameplay like \"jumping into a cold bath after a hot sauna\" - Eurogamer",
+        "description": "Resident Evil Requiem's dual protagonists will represent two styles of gameplay, which its developers describe as \"jumping into a cold bath after a hot sauna\".",
+        "source_link": "https://www.eurogamer.net/resident-evil-requiem-leon-grace-differing-gameplay"
+      },
+      {
         "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/id-software-wall-to-wall-union-165-workers-vote-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Id Software devs form \"wall-to-wall\" union, with 165 workers at Doom studio the latest to vote in favour - Rock Paper Shotgun",
-        "description": "165 workers at Doom studio id Software have voted to unionise under the Communication Workers of America (CWA).",
-        "source_link": "https://www.rockpapershotgun.com/id-software-devs-form-wall-to-wall-union-with-165-workers-at-doom-studio-the-latest-to-vote-in-favour"
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/smart-dumb-tv-1152x648.jpg",
+        "title": "The Ars Technica guide to \u201cdumb\u201d TVs - Ars Technica",
+        "description": "Sick of smart TVs? Here are your best options.",
+        "source_link": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/"
       },
       {
         "rank": 8,
-        "image": "https://www.zdnet.com/a/img/resize/d9721ca033dbf1212e1663dc52a3f15ec0e9f702/2025/12/12/5f32a4e4-9f9c-484f-8cb6-e81b44431756/zdnet-breakthrough-awards-2025-black.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "The 5 most innovative tech products we tested this year (including a tri-fold surprise) - ZDNET",
-        "description": "From AI glasses with digital overlays to robot vacuums that can pick up your leftover laundry, here are ZDNET's Breakthrough Award winners for 2025.",
-        "source_link": "https://www.zdnet.com/article/zdnet-breakthrough-awards-2025/"
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/06/google-family-app-play-store-listing.jpg?w=1600&h=900&fit=crop",
+        "title": "Google quietly makes a major Play Store change Android users will hate - Android Police",
+        "description": "Google Play Store now gives you less freedom",
+        "source_link": "https://www.androidpolice.com/google-quietly-makes-a-major-play-store-change-android-users-will-hate/"
       },
       {
         "rank": 9,
-        "image": "https://www.phoronix.net/image.php?id=framework-16-ryzen-ai-300-series&image=framework_16_13",
-        "title": "Framework Raises DDR5 Memory Prices By 50% For DIY Laptops - Phoronix",
-        "description": "Framework Computer had worked to keep their memory prices lower than other laptop vendors amid the ongoing memory shortages throughput the industry worldwide",
-        "source_link": "https://www.phoronix.com/news/Framework-50p-DDR5-Memory"
-      },
-      {
-        "rank": 10,
         "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1200x675+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd9%2F68%2Fb24f195c4adcb0831ff416c7bd9b%2Ftrout-george-natcomm-091520-37-edit-1200x675.jpg",
         "title": "Amputees often feel disconnected from their bionic hands. AI could bridge the gap : Shots - Health News - NPR",
         "description": "Sensors and artificial intelligence help a prosthetic hand act more like a natural one, new research shows.",
         "source_link": "https://www.npr.org/sections/shots-health-news/2025/12/12/nx-s1-5639925/bionic-hand-prosthetic-artificial-intelligence"
+      },
+      {
+        "rank": 10,
+        "image": "https://www.sammyfans.com/wp-content/uploads/2025/12/s23-ultra-one-ui-8-5-img.jpg",
+        "title": "First look at One UI 8.5 on Galaxy S23 Ultra: What\u2019s new and what\u2019s missing - Sammy Fans",
+        "description": "Samsung has started working on One UI 8.5 for Galaxy S23 Ultra, which was confirmed through the software server\u2019s listing. The update will bring plenty of new features to the device, and the first hands-on video has just arrived. Folks over at SamMobile gaine\u2026",
+        "source_link": "https://www.sammyfans.com/2025/12/12/first-look-at-one-ui-8-5-on-galaxy-s23-ultra/"
       }
     ],
     "trending_movies": [
@@ -118,10 +118,10 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/zziixUT6aqMiy3WN3mnOes0SEWi.jpg",
-        "title": "Taylor Swift | The Eras Tour | The Final Show",
-        "description": "Filmed at the end of the tour in Vancouver, B.C., with the entire Tortured Poets Department set....",
-        "source_link": "https://www.themoviedb.org/movie/1562010"
+        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+        "title": "TRON: Ares",
+        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
+        "source_link": "https://www.themoviedb.org/movie/533533"
       },
       {
         "rank": 8,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
-        "title": "TRON: Ares",
-        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
-        "source_link": "https://www.themoviedb.org/movie/533533"
+        "image": "https://image.tmdb.org/t/p/w200/4DmmVlYv7r1tjlqn8RyIYkO84ZQ.jpg",
+        "title": "Turbulence",
+        "description": "Young married couple Zach and Emmy decide to take a hot air balloon trip across the Italian Dolomites to rekindle their relationship. When they and pi...",
+        "source_link": "https://www.themoviedb.org/movie/1401778"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
+        "image": "https://image.tmdb.org/t/p/w200/zziixUT6aqMiy3WN3mnOes0SEWi.jpg",
+        "title": "Taylor Swift | The Eras Tour | The Final Show",
+        "description": "Filmed at the end of the tour in Vancouver, B.C., with the entire Tortured Poets Department set....",
+        "source_link": "https://www.themoviedb.org/movie/1562010"
       }
     ]
   }
