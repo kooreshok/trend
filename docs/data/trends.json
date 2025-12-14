@@ -1,69 +1,69 @@
 {
-  "last_updated": "December 13, 2025, 23:15 UTC",
+  "last_updated": "December 14, 2025, 01:25 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://fdn.gsmarena.com/imgroot/news/25/12/oneplus-15r-selfie-camera/-952x498w6/gsmarena_000.jpg",
+        "title": "OnePlus 15R to have the best ever selfie camera on an R series device - GSMArena.com news - GSMArena.com",
+        "description": "The phone will be fully unveiled in just a few days. OnePlus is fully unveiling the 15R on December 17, and ahead of that the company has already revealed...",
+        "source_link": "https://www.gsmarena.com/oneplus_15r_to_have_the_best_ever_selfie_camera_on_an_r_series_device-news-70694.php"
+      },
+      {
+        "rank": 2,
         "image": "https://techcrunch.com/wp-content/uploads/2025/09/iphone-air.jpg?resize=1200,669",
         "title": "With iOS 26.2, Apple lets you roll back Liquid Glass again \u2014 this time on the Lock Screen - TechCrunch",
         "description": "Your iPhone clock doesn't have to be so \"glassy\" anymore, thanks to a new Apple software update.",
         "source_link": "https://techcrunch.com/2025/12/12/with-ios-26-2-apple-lets-you-roll-back-liquid-glass-again-this-time-on-the-lock-screen/"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Translate-app-1152x648.jpg",
+        "title": "Google Translate expands live translation to all earbuds on Android - Ars Technica",
+        "description": "Expanded live translation will come to iOS in the coming months.",
+        "source_link": "https://arstechnica.com/google/2025/12/google-translate-learns-slang-and-idioms-expands-live-translation-beyond-pixel-buds/"
+      },
+      {
+        "rank": 4,
         "image": "https://kotaku.com/app/uploads/2025/12/IMG_0791-1200x675.jpg",
         "title": "Pok\u00e9mon Legends: Z-A\u2019s DLC Leaves One Mega Evolution Out - Kotaku",
         "description": "There\u2019s one more Mega Stone players can\u2019t get yet, hiding in the game\u2019s code",
         "source_link": "https://kotaku.com/pokemon-legends-za-garchomp-z-mega-dimension-stone-where-2000653068"
       },
       {
-        "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/google-translate-text-update-12-12-25.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "Google Translate brings real-time speech translations to any headphones - The Verge",
-        "description": "Google Translate will now let users hear live speech translations in any headphones on its Android app, expanding a feature that was once only available with Pixel Buds.",
-        "source_link": "https://www.theverge.com/news/843483/google-translate-live-speech-translations-headphones"
-      },
-      {
-        "rank": 4,
+        "rank": 5,
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/05b5/live/8a737610-d77a-11f0-825e-eb4c8fb7e95e.jpg",
         "title": "Amazon pulls AI recap from Fallout TV show after it made several mistakes - BBC",
         "description": "The errors included getting dialogue wrong and incorrectly claiming a scene was set 100 years earlier than it was.",
         "source_link": "https://www.bbc.com/news/articles/c3r77j5nze5o"
       },
       {
-        "rank": 5,
+        "rank": 6,
+        "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/sb/SBBH59XURANB1765327034677.jpg",
+        "title": "34.2.2 Patch Notes \u2014 Hearthstone - Blizzard News",
+        "description": "The latest balance update for Hearthstone and Battlegrounds is here.",
+        "source_link": "https://news.blizzard.com/en-us/article/24250382/34-2-2-patch-notes"
+      },
+      {
+        "rank": 7,
         "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/MCV_MoM_CommunityChallange_Announce_DotNet_Original_DotNet_BlogEditorial_1170x500.jpg",
         "title": "Mounts of Mayhem challenges - Minecraft",
         "description": "Take on two challenges in the Mobs of Mayhem drop and earn dashing rewards! Defeat five mobs with a spear, or help the community spawn 75 million zombie horses! The challenges run from Friday Dec 12, 8:00 AM PT to Monday Dec 15, 10:00 AM PT.",
         "source_link": "https://www.minecraft.net/en-us/article/mounts-of-mayhem-challenges"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://assetsio.gnwcdn.com/Resident-Evil-Requiem---3rd-Trailer-2-32-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Resident Evil Requiem's Leon and Grace will have differing gameplay like \"jumping into a cold bath after a hot sauna\" - Eurogamer",
         "description": "Resident Evil Requiem's dual protagonists will represent two styles of gameplay, which its developers describe as \"jumping into a cold bath after a hot sauna\".",
         "source_link": "https://www.eurogamer.net/resident-evil-requiem-leon-grace-differing-gameplay"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/smart-dumb-tv-1152x648.jpg",
         "title": "The Ars Technica guide to \u201cdumb\u201d TVs - Ars Technica",
         "description": "Sick of smart TVs? Here are your best options.",
         "source_link": "https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/"
-      },
-      {
-        "rank": 8,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/06/google-family-app-play-store-listing.jpg?w=1600&h=900&fit=crop",
-        "title": "Google quietly makes a major Play Store change Android users will hate - Android Police",
-        "description": "Google Play Store now gives you less freedom",
-        "source_link": "https://www.androidpolice.com/google-quietly-makes-a-major-play-store-change-android-users-will-hate/"
-      },
-      {
-        "rank": 9,
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1200x675+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd9%2F68%2Fb24f195c4adcb0831ff416c7bd9b%2Ftrout-george-natcomm-091520-37-edit-1200x675.jpg",
-        "title": "Amputees often feel disconnected from their bionic hands. AI could bridge the gap : Shots - Health News - NPR",
-        "description": "Sensors and artificial intelligence help a prosthetic hand act more like a natural one, new research shows.",
-        "source_link": "https://www.npr.org/sections/shots-health-news/2025/12/12/nx-s1-5639925/bionic-hand-prosthetic-artificial-intelligence"
       },
       {
         "rank": 10,
@@ -90,24 +90,24 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/6Z37lW0JfLdeFcgH9yaTyg6B9A6.jpg",
-        "title": "Tell Me Softly",
-        "description": "Kamila has everything under control: studies, social life, her image... Everything except the unexpected return of her neighbors, the Di Bianco brothe...",
-        "source_link": "https://www.themoviedb.org/movie/1379963"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
         "title": "Chainsaw Man - The Movie: Reze Arc",
         "description": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest b...",
         "source_link": "https://www.themoviedb.org/movie/1218925"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/6Z37lW0JfLdeFcgH9yaTyg6B9A6.jpg",
+        "title": "Tell Me Softly",
+        "description": "Kamila has everything under control: studies, social life, her image... Everything except the unexpected return of her neighbors, the Di Bianco brothe...",
+        "source_link": "https://www.themoviedb.org/movie/1379963"
       },
       {
         "rank": 6,
@@ -118,17 +118,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
-        "title": "TRON: Ares",
-        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
-        "source_link": "https://www.themoviedb.org/movie/533533"
+        "image": "https://image.tmdb.org/t/p/w200/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
+        "title": "Die My Love",
+        "description": "Grace and her partner Jackson move into an old country house. She pursues her dream of writing, and the couple welcome a baby soon after. However, wit...",
+        "source_link": "https://www.themoviedb.org/movie/1033148"
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/hCQjAPmraF3ppv3KfNXA4lkBnbe.jpg",
-        "title": "The Mastermind",
-        "description": "In a sedate Massachusetts suburb circa 1970, unemployed family man and amateur art thief J.B. Mooney sets out on his first heist. With the museum case...",
-        "source_link": "https://www.themoviedb.org/movie/1352624"
+        "image": "https://image.tmdb.org/t/p/w200/6PdAODwR9amGEq5ER42FsuzV7op.jpg",
+        "title": "Turbulence",
+        "description": "Young married couple Zach and Emmy decide to take a hot air balloon trip across the Italian Dolomites to rekindle their relationship. When they and pi...",
+        "source_link": "https://www.themoviedb.org/movie/1401778"
       },
       {
         "rank": 9,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/4DmmVlYv7r1tjlqn8RyIYkO84ZQ.jpg",
-        "title": "Turbulence",
-        "description": "Young married couple Zach and Emmy decide to take a hot air balloon trip across the Italian Dolomites to rekindle their relationship. When they and pi...",
-        "source_link": "https://www.themoviedb.org/movie/1401778"
+        "image": "https://image.tmdb.org/t/p/w200/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+        "title": "Hunting Season",
+        "description": "When a reclusive survivalist and his daughter rescue a mysterious, wounded woman from a river, they become entangled in a deadly web of violence and r...",
+        "source_link": "https://www.themoviedb.org/movie/1387382"
       }
     ]
   }
