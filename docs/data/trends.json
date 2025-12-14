@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 14, 2025, 10:16 UTC",
+  "last_updated": "December 14, 2025, 11:13 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/671178ecc6294/large.jpg",
+        "title": "Video: Pragmata Hands-On Impressions Shared By Capcom - Nintendo Life",
+        "description": "See what it's all about",
+        "source_link": "https://www.nintendolife.com/news/2025/12/video-pragmata-hands-on-impressions-shared-by-capcom"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/AI_codehead_header-1152x648.jpg",
+        "title": "How OpenAI is using GPT-5 Codex to improve the AI tool itself - Ars Technica",
+        "description": "\u201cThe vast majority of Codex is built by Codex,\u201d OpenAI told us about its new AI coding agent.",
+        "source_link": "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/"
+      },
+      {
+        "rank": 3,
         "image": "https://www.cnet.com/a/img/resize/01aca5156ad8a5d6b5fe244096615355de8fe2c5/hub/2025/12/12/e798cf5f-5e98-4fa3-b815-97f10550642f/translate.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "Google Turns Ordinary Headphones Into Instant Language Interpreters - CNET",
         "description": "Google is rolling out a beta version of the Translate app with support for more than 70 languages.",
         "source_link": "https://www.cnet.com/tech/mobile/google-turns-ordinary-headphones-into-instant-language-interpreters/"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://gizmodo.com/app/uploads/2025/12/Fallout-Prime-Video-1200x675.jpg",
         "title": "Amazon Pulls AI Recap Video After \u2018Fallout\u2019 Mess - Gizmodo",
         "description": "Amazon is being forced to repeatedly learn a lesson: use AI slop, and get people yelling at you until you don't.",
         "source_link": "https://gizmodo.com/fallout-ai-recap-amazon-prime-video-anime-2000699210"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://robbreport.com/wp-content/uploads/2025/12/porsche-911-gt3-fa-porsche-7-e1765554011100.jpg?w=681&h=383&crop=1",
         "title": "Porsche Just Unveiled a New 911 GT3 Inspired by Ferdinand Alexander Porsche Himself - Robb Report",
         "description": "The new 911 GT3 90 F.A. Porsche will be limited to just 90 examples.",
         "source_link": "http://robbreport.com/motors/cars/porsche-911-gt3-ferdinand-alexander-porsche-1237410568/"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://techcrunch.com/wp-content/uploads/2025/09/iphone-air.jpg?resize=1200,669",
         "title": "With iOS 26.2, Apple lets you roll back Liquid Glass again \u2014 this time on the Lock Screen - TechCrunch",
         "description": "Your iPhone clock doesn't have to be so \"glassy\" anymore, thanks to a new Apple software update.",
         "source_link": "https://techcrunch.com/2025/12/12/with-ios-26-2-apple-lets-you-roll-back-liquid-glass-again-this-time-on-the-lock-screen/"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/02/samsung-galaxy-s25-ultra-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Samsung\u2019s new camera sensor could make motion blur issues a thing of the past - 9to5Google",
+        "description": "Samsung is working on a new camera sensor, and once it finds its way into a next-gen Galaxy S-series device,...",
+        "source_link": "http://9to5google.com/2025/12/12/samsung-new-camera-sensor-motion-blur-global-shutter/"
+      },
+      {
+        "rank": 8,
+        "image": "https://kotaku.com/app/uploads/2025/12/image-47-1200x675.jpg",
+        "title": "Highguard, The Game Awards\u2019 Final Trailer, Has Viewers Titled - Kotaku",
+        "description": "Highguard has some of the internet up in arms after closing out the awards ceremony, but is it merited?",
+        "source_link": "https://kotaku.com/game-awards-trailers-recap-highguard-titanfall-apex-2000653088"
+      },
+      {
+        "rank": 9,
         "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4622052-screenshot2025-12-12at2.23.43%E2%80%AFpm.png",
         "title": "New Tomb Raider Games Recast Lara Croft With A Gaming Veteran - GameSpot",
         "description": "Here's who is playing Lara Croft in the upcoming Tomb Raider games.",
         "source_link": "https://www.gamespot.com/articles/new-tomb-raider-games-recast-lara-croft-with-a-gaming-veteran/1100-6536948/"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://kotaku.com/app/uploads/2025/12/IMG_0791-1200x675.jpg",
         "title": "Pok\u00e9mon Legends: Z-A\u2019s DLC Leaves One Mega Evolution Out - Kotaku",
         "description": "There\u2019s one more Mega Stone players can\u2019t get yet, hiding in the game\u2019s code",
         "source_link": "https://kotaku.com/pokemon-legends-za-garchomp-z-mega-dimension-stone-where-2000653068"
-      },
-      {
-        "rank": 7,
-        "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/sb/SBBH59XURANB1765327034677.jpg",
-        "title": "34.2.2 Patch Notes \u2014 Hearthstone - Blizzard News",
-        "description": "The latest balance update for Hearthstone and Battlegrounds is here.",
-        "source_link": "https://news.blizzard.com/en-us/article/24250382/34-2-2-patch-notes"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/MCV_MoM_CommunityChallange_Announce_DotNet_Original_DotNet_BlogEditorial_1170x500.jpg",
-        "title": "Mounts of Mayhem challenges - Minecraft",
-        "description": "Take on two challenges in the Mobs of Mayhem drop and earn dashing rewards! Defeat five mobs with a spear, or help the community spawn 75 million zombie horses! The challenges run from Friday Dec 12, 8:00 AM PT to Monday Dec 15, 10:00 AM PT.",
-        "source_link": "https://www.minecraft.net/en-us/article/mounts-of-mayhem-challenges"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/galaxy-z-trifold-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Samsung\u2019s Galaxy Z TriFold already sold out in South Korea ahead of US launch - 9to5Google",
-        "description": "Samsung\u2019s long-awaited Galaxy Z TriFold will hit store shelves in the US early next year, but if its Korean launch...",
-        "source_link": "http://9to5google.com/2025/12/12/samsungs-galaxy-z-trifold-already-sold-out-in-south-korea-ahead-of-us-launch/"
-      },
-      {
-        "rank": 10,
-        "image": "https://assetsio.gnwcdn.com/Resident-Evil-Requiem---3rd-Trailer-2-32-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Resident Evil Requiem's Leon and Grace will have differing gameplay like \"jumping into a cold bath after a hot sauna\" - Eurogamer",
-        "description": "Resident Evil Requiem's dual protagonists will represent two styles of gameplay, which its developers describe as \"jumping into a cold bath after a hot sauna\".",
-        "source_link": "https://www.eurogamer.net/resident-evil-requiem-leon-grace-differing-gameplay"
       }
     ],
     "trending_movies": [
@@ -104,17 +104,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/6Z37lW0JfLdeFcgH9yaTyg6B9A6.jpg",
-        "title": "Tell Me Softly",
-        "description": "Kamila has everything under control: studies, social life, her image... Everything except the unexpected return of her neighbors, the Di Bianco brothe...",
-        "source_link": "https://www.themoviedb.org/movie/1379963"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/6PdAODwR9amGEq5ER42FsuzV7op.jpg",
         "title": "Turbulence",
         "description": "Young married couple Zach and Emmy decide to take a hot air balloon trip across the Italian Dolomites to rekindle their relationship. When they and pi...",
         "source_link": "https://www.themoviedb.org/movie/1401778"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/6Z37lW0JfLdeFcgH9yaTyg6B9A6.jpg",
+        "title": "Tell Me Softly",
+        "description": "Kamila has everything under control: studies, social life, her image... Everything except the unexpected return of her neighbors, the Di Bianco brothe...",
+        "source_link": "https://www.themoviedb.org/movie/1379963"
       },
       {
         "rank": 7,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/hCQjAPmraF3ppv3KfNXA4lkBnbe.jpg",
         "title": "The Mastermind",
         "description": "In a sedate Massachusetts suburb circa 1970, unemployed family man and amateur art thief J.B. Mooney sets out on his first heist. With the museum case...",
         "source_link": "https://www.themoviedb.org/movie/1352624"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
       }
     ]
   }
