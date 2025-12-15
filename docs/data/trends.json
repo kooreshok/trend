@@ -1,69 +1,76 @@
 {
-  "last_updated": "December 15, 2025, 22:17 UTC",
+  "last_updated": "December 15, 2025, 23:17 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Screenshot-2025-12-14-at-1.29.18%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C17.717453473536%2C100%2C64.565093052928&w=1200",
-        "title": "Absynth is back and weirder than ever after 16 years - The Verge",
-        "description": "Native Instruments revives the cult-classic Absynth with MPE and new presets from Brian Eno and Kaitlyn Aurelia Smith.",
-        "source_link": "https://www.theverge.com/entertainment/844432/native-instruments-absynth-6-mpe-brian-eno"
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/ottocast.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Ottocast launches new CarPlay AI Box plus wireless adapter with rear cabin monitoring - 9to5Mac",
+        "description": "If you\u2019ve been looking to upgrade your car\u2019s tech without breaking the bank on a new vehicle, Ottocast just dropped...",
+        "source_link": "https://9to5mac.com/2025/12/14/ottocast-launches-new-carplay-ai-box/"
       },
       {
         "rank": 2,
+        "image": "https://gizmodo.com/app/uploads/2025/12/shutterstock_2396034011-1200x675.jpg",
+        "title": "Grok Is Glitching and Spewing Misinformation About The Bondi Beach Shooting - Gizmodo",
+        "description": "Among other problems, the chatbot is spewing misinformation about the horrific Bondi Beach shooting in Australia.",
+        "source_link": "https://gizmodo.com/grok-is-glitching-and-spewing-misinformation-about-the-bondi-beach-shooting-2000699533"
+      },
+      {
+        "rank": 3,
         "image": "https://assets.warhammer-community.com/sundaypreview-dec14-1-feature-alc0lrovcw.jpg",
         "title": "Sunday Preview \u2013 A brief pause ahead of Christmas - Warhammer Community",
         "description": "There\u2019s still time to buy gifts!",
         "source_link": "https://www.warhammer-community.com/articles/qi7ljqqo/sunday-preview-a-brief-pause-ahead-of-christmas"
       },
       {
-        "rank": 3,
-        "image": "https://assetsio.gnwcdn.com/clair-obscur-expedition-33-lune-at-expedition-festival-with-gustave-and-maelle.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Clair Obscur: Expedition 33 fans can't get over just how difficult the Update's new bosses and challenges are now - Eurogamer",
-        "description": "Clair Obscur: Expedition 33's new patch shadow-dropped earlier this week, and Sandfall Interactive sure wasn't kidding \u2026",
-        "source_link": "https://www.eurogamer.net/clair-obscur-expedition-33-fans-cant-get-over-just-how-difficult-the-updates-new-bosses-and-challenges-are-now"
-      },
-      {
         "rank": 4,
-        "image": "https://www.phoronix.net/image.php?id=2025&image=lpc2025_famfs_1",
-        "title": "FamFS Hopes To Go Upstream In 2026 - Phoronix",
-        "description": "The FamFS file-system being developed by Micron hopes to go upstream for Linux in 'early-ish 2026'.",
-        "source_link": "https://www.phoronix.com/news/FamFS-2026-Upstream-Hopes"
+        "image": "https://www.techspot.com/images2/news/bigimage/2025/12/2025-12-14-image-7.jpg",
+        "title": "Nearly half of the 19,000 games released on Steam this year went almost unnoticed - TechSpot",
+        "description": "Those numbers point to a widening gap between output and engagement on the world's largest PC game marketplace. Steam's open publishing model has dramatically lowered the barrier...",
+        "source_link": "https://www.techspot.com/news/110592-nearly-half-19000-games-released-steam-year-went.html"
       },
       {
         "rank": 5,
+        "image": "https://www.sammobile.com/wp-content/uploads/2025/11/Galaxy-Z-Fold-7-One-UI-8.5-1-1200x675.jpg",
+        "title": "This is just one of the secret One UI 8.5 features that Samsung hasn't shown yet - SamMobile",
+        "description": "It's been about a week since Samsung launched the One UI 8.5 beta program, enabling users with eligible devices to take the new firmware for a spin. We've already put together a detailed video with all One UI 8.5 features, but it appears that there are still \u2026",
+        "source_link": "https://www.sammobile.com/news/this-is-just-one-of-the-secret-one-ui-8-5-features-that-samsung-hasnt-shown-yet/"
+      },
+      {
+        "rank": 6,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/09/iphone-16-pro-max-vs-galaxy-s24-ultra_-flatlining_-0-0-screenshot.png?w=1600&h=900&fit=crop",
+        "title": "Mobile's next big thing is unraveling, it's going to get messy, and it may already be too late to stop it - Android Police",
+        "description": "AI has a serious reputation problem at the end of 2025, and it needs to change in 2026",
+        "source_link": "https://www.androidpolice.com/mobile-ai-is-unraveling/"
+      },
+      {
+        "rank": 7,
+        "image": "https://kotaku.com/app/uploads/2025/12/Xbox-Series-X.jpg",
+        "title": "Xbox Series X Enters Holiday Clearance Mode After Skipping Black Friday Discounts, Includes a Wireless Controller - Kotaku",
+        "description": "Save 8% on the 1TB, 4K, 120fps gaming console from Microsoft for a limited time.",
+        "source_link": "https://kotaku.com/xbox-series-x-enters-holiday-clearance-mode-after-skipping-black-friday-discounts-includes-a-wireless-controller-2000653061"
+      },
+      {
+        "rank": 8,
+        "image": "https://www.bgr.com/img/gallery/5-free-apps-that-can-replace-your-microsoft-office-subscription/l-intro-1765280201.jpg",
+        "title": "5 Free Apps That Can Replace Your Microsoft Office Subscription - bgr.com",
+        "description": "If you are tired of paying a fortune for a Microsoft Office subscription, you must check out some alternative apps like Canva, Mailspring, and more.",
+        "source_link": "https://www.bgr.com/2047128/free-apps-replace-microsoft-office-subscription/"
+      },
+      {
+        "rank": 9,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-26.2-guide.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "iOS 26.2: All the new features now available on your iPhone - 9to5Mac",
         "description": "iOS 26.2 adds new features to your iPhone and is now available. There are new design features, Podcasts and Music features, and more.",
         "source_link": "https://9to5mac.com/2025/12/14/ios-26-2-new-features-iphone/"
       },
       {
-        "rank": 6,
-        "image": "https://assets.sfstandard.com/image/994911177489/image_s4s485cfst2rfeb6dvp8apk76c/-C100.00%25x78.71%25%2C0.00%25%2C11.08%25-FWEBP",
-        "title": "We think we found the most active Waymo rider in SF. Prove us wrong. - The San Francisco Standard",
-        "description": "A mystery rider hailed over 400 Waymos in 2025 and spent nearly eight days in the driverless vehicles.",
-        "source_link": "https://sfstandard.com/2025/12/14/think-found-active-waymo-rider-sf-prove-wrong/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.cnet.com/a/img/resize/b51b4d8531e36283e25f01e1c436bd251f9c89ea/hub/2025/10/28/a991ba6b-c65d-4b38-a71c-a67dcc6de077/fi-collar-pet-tech-main.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "CNET\u2019s Complete Pet Tech Roundup: We Tested Every Device With Our Pets - CNET",
-        "description": "CNET explored every kind of pet technology to see what we -- and our four-legged friends -- liked the most.",
-        "source_link": "https://www.cnet.com/home/smart-home/pet-tech-roundup-cnet-pet-owners-tested-devices-to-find-the-best/"
-      },
-      {
-        "rank": 8,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/693d2bc81607dd2aa1d99822/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "iOS 26.2\u2014Update Now Warning Issued To All iPhone Users - Forbes",
-        "description": "Apple has released iOS 26.2, fixing 26  iPhone flaws, two of which are already being used in real-life attacks. Here's what you need to know.",
-        "source_link": "https://www.forbes.com/sites/kateoflahertyuk/2025/12/14/ios-262-update-now-waning-issued-to-all-iphone-users/"
-      },
-      {
-        "rank": 9,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/12/android-music-apps.JPG?w=1600&h=900&fit=crop",
-        "title": "Android music apps are an embarrassment - Android Police",
-        "description": "Android is so far behind Apple, it shocked me",
-        "source_link": "https://www.androidpolice.com/android-music-apps-are-an-embarrassment/"
+        "rank": 10,
+        "image": "https://www.techspot.com/images2/news/bigimage/2025/12/2025-12-13-image-6.jpg",
+        "title": "Google is turning any headphones into real-time translation earbuds - TechSpot",
+        "description": "Starting today, Android device owners can begin testing live speech translation in the Google Translate app, which now relies on Gemini. The AI makes text translations sound...",
+        "source_link": "https://www.techspot.com/news/110589-google-turning-any-headphones-real-time-translation-earbuds.html"
       }
     ],
     "trending_movies": [
