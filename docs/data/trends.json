@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 16, 2025, 10:20 UTC",
+  "last_updated": "December 16, 2025, 11:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.bleepstatic.com/content/hl-images/2025/08/20/Windows.jpg",
+        "title": "Microsoft: December security updates cause Message Queuing failures - BleepingComputer",
+        "description": "Microsoft has confirmed that the December 2025 security updates are breaking Message Queuing (MSMQ) functionality, affecting enterprise applications and Internet Information Services (IIS) websites.",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.techpowerup.com/review/msi-meg-x870e-godlike-x-edition/images/title.jpg",
+        "title": "MSI MEG X870E Godlike X Edition Review - TechPowerUp",
+        "description": "MSI aims for the AMD motherboard crown with one of the most over the top halo tier models we've seen yet. You get a crazy specification with cutting edge features and an equally mad price. But has MSI done enough to beat the competition?",
+        "source_link": "https://www.techpowerup.com/review/msi-meg-x870e-godlike-x-edition/"
+      },
+      {
+        "rank": 3,
         "image": "https://www.sammobile.com/wp-content/uploads/2025/05/Galaxy-S23-Ultra-update-1200x675.jpg",
         "title": "New Galaxy S23 update makes it more secure - SamMobile",
         "description": "After the Galaxy S25 and the Galaxy S24, Samsung has now released the December 2025 security patch for the Galaxy S23 series, making the three devices in the lineup more secure. Currently, Samsung is rolling out the update in its home country, South Korea. Th\u2026",
         "source_link": "https://www.sammobile.com/news/new-galaxy-s23-update-makes-it-more-secure/"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4622644-4600144-megacharizardpokemontcgthumbnail.jpg",
+        "title": "Pokemon TCG Mega Charizard Ultra-Premium Collection Restocked With $50 Price Cut At Amazon - GameSpot",
+        "description": "Amazon also has a few of the new Pokemon Trading Card Game Premium Collections and Mega ex Boxes in stock.",
+        "source_link": "https://www.gamespot.com/articles/pokemon-trading-card-game-mega-charizard-x-ultra-premium-collection-amazon-best-price/1100-6536074/"
+      },
+      {
+        "rank": 5,
         "image": "https://images.nintendolife.com/4cfdac97e000f/large.jpg",
         "title": "Mortal Kombat: Legacy Kollection Switch 1 & 2 Physical Release Does Not Include Mortal Kombat 4 On The Game Card - Nintendo Life",
         "description": "Digital Eclipse and Atari confirm you'll need to \"download\" it",
         "source_link": "https://www.nintendolife.com/news/2025/12/mortal-kombat-legacy-kollection-switch-1-and-2-physical-release-does-not-include-mortal-kombat-4-on-the-game-card"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://www.phoronix.net/image.php?id=2025&image=steam_deck_data_collect",
         "title": "The Opt-In Proactive & Crash Time Data Collection On Valve's Steam Deck - Phoronix",
         "description": "Valve's Steam Deck with SteamOS features built-in crash data collection as well as for logging other system events worth having knowledge about like the split-lock detection and other events",
         "source_link": "https://www.phoronix.com/news/Steam-Deck-Crash-Data-Collect"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://helios-i.mashable.com/imagery/articles/06JkzRLZghJhiSnyNsp6K1C/hero-image.fill.size_1200x675.v1765532049.jpg",
         "title": "You can get a MacBook Pro for $400 if you act fast - Mashable",
         "description": "This MacBook Pro offer won't last long.",
         "source_link": "https://mashable.com/article/dec-14-apple-macbook-pro-i5-2ghz-2020"
       },
       {
-        "rank": 5,
+        "rank": 8,
         "image": "https://www.bgr.com/img/gallery/every-roku-streaming-device-ranked-from-worst-to-best/l-intro-1764732928.jpg",
         "title": "Every Roku Streaming Device, Ranked From Worst To Best - bgr.com",
         "description": "From the budget-friendly HD Stick to the Dolby Vision-ready Stick 4K and powerful Ultra, we ranked every Roku device from worst to best for your setup.",
         "source_link": "https://www.bgr.com/2048071/roku-streaming-devices-ranked/"
       },
       {
-        "rank": 6,
+        "rank": 9,
+        "image": "https://www.thetimes.com/imageserver/image/%2Fa9ae579a-8a81-424a-9a47-2242fd0dd06a.jpg?crop=5376%2C3024%2C0%2C280&resize=1200",
+        "title": "Hacker hijacks Amazon accounts via Kindle ebook - The Times",
+        "description": "An ethical hacker has warned Kindle users against downloading ebooks from third-party sites after discovering flaws that can expose credit cards",
+        "source_link": "https://www.thetimes.com/uk/technology-uk/article/kindle-amazon-e-book-hacking-t6wjhq80h"
+      },
+      {
+        "rank": 10,
         "image": "https://media.eventhubs.com/images/2025/12/13_dual-override-bnrt.webp",
         "title": "The Blue Bomber makes his long-awaited return to gaming with the announcement of Mega Man: Dual Override - EventHubs",
         "description": "The Game Awards 2025 presentation has come and gone. 2XKO, the Capcom Fighting Collection 2, Fatal Fury: City of the Wolves, Mortal Kombat: Legacy Kollection and Virtua Fighter 5 R.E.V.O. World Stage were all nominated for Best ...",
         "source_link": "https://www.eventhubs.com/news/2025/dec/14/mega-man-returns-dual-override/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.jalopnik.com/img/gallery/why-porsche-switched-from-air-cooled-to-water-cooled-engines/l-intro-1765285689.jpg",
-        "title": "Why Porsche Switched From Air-Cooled To Water-Cooled Engines - Jalopnik",
-        "description": "Porsche switched to water cooling to meet stricter emissions and noise rules, handle more power and heat, improve efficiency, and cut costs.",
-        "source_link": "https://www.jalopnik.com/2047202/why-porsche-switched-from-air-cooled-to-water-cooled-engines/"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.mos.cms.futurecdn.net/BKzZgQjzDX32QuyKAN7tGQ-2048-80.jpg",
-        "title": "The Galaxy Z TriFold embarks on a new horizon, but it kind of feels like Samsung missed the mark - Android Central",
-        "description": "It's very exciting to see that the Galaxy Z TriFold will be released in the U.S. However, we can't help but wonder if Samsung made the right decisions",
-        "source_link": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-z-trifold-my-biggest-concerns"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.motor1.com/images/mgl/0eEbXk/s1/corvette-zr1-canadian-motorsport-lap-record.jpg",
-        "title": "The Corvette ZR1 Won't Stop Breaking Lap Records: Video - Motor1.com",
-        "description": "The Magician of Mosport, Ron Fellows, sets a new lap record in the 2026 Corvette ZR1. He beat the prior record\u2014which he also set.",
-        "source_link": "https://www.motor1.com/news/781678/corvette-zr1-track-record-canada/"
-      },
-      {
-        "rank": 10,
-        "image": "https://cdn.videocardz.com/1/2025/12/ASUS-RTX-5060-SERIES-DUAL-EVO-HERO-1.jpg",
-        "title": "ASUS launches GeForce RTX 5060 DUAL Evo series, slimmer design and shorter PCIe interface - VideoCardz.com",
-        "description": "ASUS quietly lists Dual GeForce RTX 5060 EVO and RTX 5060 Ti EVO models ASUS has added new Dual GeForce RTX 5060 EVO and Dual GeForce RTX 5060 Ti EVO",
-        "source_link": "https://videocardz.com/newz/asus-launches-geforce-rtx-5060-dual-evo-series-slimmer-design-and-shorter-pcie-interface"
       }
     ],
     "trending_movies": [
@@ -125,17 +125,17 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
-        "title": "The Wolf of Wall Street",
-        "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infi...",
-        "source_link": "https://www.themoviedb.org/movie/106646"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
         "title": "Chainsaw Man - The Movie: Reze Arc",
         "description": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest b...",
         "source_link": "https://www.themoviedb.org/movie/1218925"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+        "title": "The Wolf of Wall Street",
+        "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infi...",
+        "source_link": "https://www.themoviedb.org/movie/106646"
       },
       {
         "rank": 10,
