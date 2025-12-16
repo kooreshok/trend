@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 16, 2025, 12:37 UTC",
+  "last_updated": "December 16, 2025, 13:35 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://www.bleepstatic.com/content/hl-images/2025/08/20/Windows.jpg",
-        "title": "Microsoft: December security updates cause Message Queuing failures - BleepingComputer",
-        "description": "Microsoft has confirmed that the December 2025 security updates are breaking Message Queuing (MSMQ) functionality, affecting enterprise applications and Internet Information Services (IIS) websites.",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/"
+        "image": "https://techcrunch.com/wp-content/uploads/2025/12/Mirelo-cofounders.jpg?resize=1200,800",
+        "title": "Mirelo raises $41M from Index and a16z to solve AI video\u2019s silent problem - TechCrunch",
+        "description": "Mirelo, a German startup that is building AI to add synced sound effects to videos, has raised a $41 million seed round led by Index Ventures and Andreessen Horowitz.",
+        "source_link": "https://techcrunch.com/2025/12/15/mirelo-raises-41m-from-index-and-a16z-to-solve-ai-videos-silent-problem/"
       },
       {
         "rank": 2,
-        "image": "https://www.techpowerup.com/review/msi-meg-x870e-godlike-x-edition/images/title.jpg",
-        "title": "MSI MEG X870E Godlike X Edition Review - TechPowerUp",
-        "description": "MSI aims for the AMD motherboard crown with one of the most over the top halo tier models we've seen yet. You get a crazy specification with cutting edge features and an equally mad price. But has MSI done enough to beat the competition?",
-        "source_link": "https://www.techpowerup.com/review/msi-meg-x870e-godlike-x-edition/"
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/Apple-and-Google-will-be-asked-to-block-nude-photos-unless-user-age-is-verified.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple and Google will be asked to block nude photos unless user age is verified - 9to5Mac",
+        "description": "A new report says that the British government will be asking Apple and Google to block the taking and sharing...",
+        "source_link": "https://9to5mac.com/2025/12/15/apple-and-google-will-be-asked-to-block-nude-photos-unless-user-age-is-verified/"
       },
       {
         "rank": 3,
-        "image": "https://www.sammobile.com/wp-content/uploads/2025/05/Galaxy-S23-Ultra-update-1200x675.jpg",
-        "title": "New Galaxy S23 update makes it more secure - SamMobile",
-        "description": "After the Galaxy S25 and the Galaxy S24, Samsung has now released the December 2025 security patch for the Galaxy S23 series, making the three devices in the lineup more secure. Currently, Samsung is rolling out the update in its home country, South Korea. Th\u2026",
-        "source_link": "https://www.sammobile.com/news/new-galaxy-s23-update-makes-it-more-secure/"
+        "image": "https://cdm.link/app/uploads/2025/12/flontheweb-1.jpeg",
+        "title": "Fruity Loops Web! FL Studio arrives in a browser beta, with full compatibility - CDM Create Digital Music",
+        "description": "Mark your calendar: in the year of our Lord 2025, FL Studio is the first \"legacy\" production software to arrive with a full Web version, complete with native FL plug-ins. Start projects in your browser, and complete them in FL desktop software. It's an instal\u2026",
+        "source_link": "https://cdm.link/fl-studio-on-the-web/"
       },
       {
         "rank": 4,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4622644-4600144-megacharizardpokemontcgthumbnail.jpg",
-        "title": "Pokemon TCG Mega Charizard Ultra-Premium Collection Restocked With $50 Price Cut At Amazon - GameSpot",
-        "description": "Amazon also has a few of the new Pokemon Trading Card Game Premium Collections and Mega ex Boxes in stock.",
-        "source_link": "https://www.gamespot.com/articles/pokemon-trading-card-game-mega-charizard-x-ultra-premium-collection-amazon-best-price/1100-6536074/"
+        "image": "https://www.phoronix.net/image.php?id=phoronix14-29-gpus&image=phoronix14_29gpus_2",
+        "title": "Kernel Graphics Driver Changes Already Begin Lining Up For Linux 6.20~7.0 - Phoronix",
+        "description": "Even before the Linux 6.19 merge window wrapped up this weekend with the Linux 6.19-rc1 release, there was already the first pull request to DRM-Next of the first batch of new material to be queued for Linux 6.19's successor.",
+        "source_link": "https://www.phoronix.com/news/Linux-DRM-Misc-Next-Post-6.19"
       },
       {
         "rank": 5,
-        "image": "https://images.nintendolife.com/4cfdac97e000f/large.jpg",
-        "title": "Mortal Kombat: Legacy Kollection Switch 1 & 2 Physical Release Does Not Include Mortal Kombat 4 On The Game Card - Nintendo Life",
-        "description": "Digital Eclipse and Atari confirm you'll need to \"download\" it",
-        "source_link": "https://www.nintendolife.com/news/2025/12/mortal-kombat-legacy-kollection-switch-1-and-2-physical-release-does-not-include-mortal-kombat-4-on-the-game-card"
+        "image": "https://cdn.videocardz.com/1/2025/12/SAPPHIRE-TOXIC-ED-CRISLER-HERO.jpg",
+        "title": "Sapphire asks AMD for more freedom in partner GPU designs: \u201cLet us go nuts\u201d - VideoCardz.com",
+        "description": "Sapphire wants more control over card designs, TOXIC GPUs may return\u00a0 In an interview with Hardware Unboxed, Ed Crisler (NA PR Manager at Sapphire",
+        "source_link": "https://videocardz.com/newz/sapphire-asks-amd-for-more-freedom-in-partner-gpu-designs-let-us-go-nuts"
       },
       {
         "rank": 6,
-        "image": "https://www.phoronix.net/image.php?id=2025&image=steam_deck_data_collect",
-        "title": "The Opt-In Proactive & Crash Time Data Collection On Valve's Steam Deck - Phoronix",
-        "description": "Valve's Steam Deck with SteamOS features built-in crash data collection as well as for logging other system events worth having knowledge about like the split-lock detection and other events",
-        "source_link": "https://www.phoronix.com/news/Steam-Deck-Crash-Data-Collect"
+        "image": "https://regmedia.co.uk/2018/03/22/shutterstock_scared_consultant.jpg",
+        "title": "Apple, Google forced to issue emergency 0-day patches - theregister.com",
+        "description": ": Both admit attackers were already exploiting the bugs, with scant detail and hints of spyware-grade abuse",
+        "source_link": "https://www.theregister.com/2025/12/15/apple_follows_google_by_emergency/"
       },
       {
         "rank": 7,
-        "image": "https://helios-i.mashable.com/imagery/articles/06JkzRLZghJhiSnyNsp6K1C/hero-image.fill.size_1200x675.v1765532049.jpg",
-        "title": "You can get a MacBook Pro for $400 if you act fast - Mashable",
-        "description": "This MacBook Pro offer won't last long.",
-        "source_link": "https://mashable.com/article/dec-14-apple-macbook-pro-i5-2ghz-2020"
+        "image": "https://assetsio.gnwcdn.com/Lara-Croft-in-Rise-of-the-Tomb-Raider-next-to-an-image-of-Camilla-Luddington-in-her-mocap-outfit.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Lara Croft actress Camilla Luddington bids farewell to Tomb Raider, as Alix Wilton Regan teases \"we're just getting started\" - Eurogamer",
+        "description": "Tomb Raider's Lara Croft actress Camilla Luddington has passed her bow and arrows to Alix Wilton Regan with a farewell post to the character.",
+        "source_link": "https://www.eurogamer.net/lara-croft-actress-camilla-luddington-bids-farewell-to-tomb-raider-as-alix-wilton-regan-teases-were-just-getting-started"
       },
       {
         "rank": 8,
-        "image": "https://www.bgr.com/img/gallery/every-roku-streaming-device-ranked-from-worst-to-best/l-intro-1764732928.jpg",
-        "title": "Every Roku Streaming Device, Ranked From Worst To Best - bgr.com",
-        "description": "From the budget-friendly HD Stick to the Dolby Vision-ready Stick 4K and powerful Ultra, we ranked every Roku device from worst to best for your setup.",
-        "source_link": "https://www.bgr.com/2048071/roku-streaming-devices-ranked/"
+        "image": "https://assets-prd.ignimgs.com/2025/12/15/macron-1765793459024.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "French President Emmanuel Macron Is Back on Instagram Celebrating Clair Obscur: Expedition 33, This Time for Winning Game of the Year - IGN",
+        "description": "Clair Obscur: Expedition 33's record-breaking performance at last week's The Game Awards has caught the eye of French president Emmanuel Macron, who celebrated the news of its Game of the Year award on Instagram over the weekend.",
+        "source_link": "https://www.ign.com/articles/french-president-emmanuel-macron-is-back-on-instagram-celebrating-clair-obscur-expedition-33-this-time-for-winning-game-of-the-year"
       },
       {
         "rank": 9,
-        "image": "https://www.thetimes.com/imageserver/image/%2Fa9ae579a-8a81-424a-9a47-2242fd0dd06a.jpg?crop=5376%2C3024%2C0%2C280&resize=1200",
-        "title": "Hacker hijacks Amazon accounts via Kindle ebook - The Times",
-        "description": "An ethical hacker has warned Kindle users against downloading ebooks from third-party sites after discovering flaws that can expose credit cards",
-        "source_link": "https://www.thetimes.com/uk/technology-uk/article/kindle-amazon-e-book-hacking-t6wjhq80h"
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2025/12/Resident_Evil_Code_Veronica_Zero-scaled.jpg",
+        "title": "The Next Resident Evil Remakes Are Code Veronica (2027) and Zero (2028), Says Leaker - Wccftech",
+        "description": "According to CAPCOM leaker Dusk Golem, the Resident Evil Code Veronica remake should launch in 2027, with the Zero remake due in 2028.",
+        "source_link": "https://wccftech.com/the-next-resident-evil-remakes-code-veronica-2027-zero-2028/"
       },
       {
         "rank": 10,
-        "image": "https://media.eventhubs.com/images/2025/12/13_dual-override-bnrt.webp",
-        "title": "The Blue Bomber makes his long-awaited return to gaming with the announcement of Mega Man: Dual Override - EventHubs",
-        "description": "The Game Awards 2025 presentation has come and gone. 2XKO, the Capcom Fighting Collection 2, Fatal Fury: City of the Wolves, Mortal Kombat: Legacy Kollection and Virtua Fighter 5 R.E.V.O. World Stage were all nominated for Best ...",
-        "source_link": "https://www.eventhubs.com/news/2025/dec/14/mega-man-returns-dual-override/"
+        "image": "https://blog.tipranks.com/wp-content/uploads/2025/03/quantum_computing_news_enhanced-750x406.webp",
+        "title": "Quantum Computing News: Google\u2019s Willow Chip, Microsoft\u2019s New Partner, and Western Digital Backs New Startup - TipRanks",
+        "description": "In this Monday edition of quantum computing news, we cover Google\u2019s ($GOOGL) new chip access deal in the UK, a tiny device that could help scale quantum systems, Mi...",
+        "source_link": "https://www.tipranks.com/news/quantum-computing-news-googles-willow-chip-microsofts-new-partner-and-western-digital-backs-new-startup"
       }
     ],
     "trending_movies": [
@@ -111,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/2HvVlaPGkM5TU1qbquRxTCf2THI.jpg",
-        "title": "Manitou's Canoe",
-        "description": "Abahachi, the Apache chief, and his white blood brother Ranger fight tirelessly for peace and justice - but a new, up-and-coming gang is making life p...",
-        "source_link": "https://www.themoviedb.org/movie/1233066"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
-        "title": "The Wolf of Wall Street",
-        "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infi...",
-        "source_link": "https://www.themoviedb.org/movie/106646"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
-        "rank": 10,
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/2HvVlaPGkM5TU1qbquRxTCf2THI.jpg",
+        "title": "Manitou's Canoe",
+        "description": "Abahachi, the Apache chief, and his white blood brother Ranger fight tirelessly for peace and justice - but a new, up-and-coming gang is making life p...",
+        "source_link": "https://www.themoviedb.org/movie/1233066"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+        "title": "The Wolf of Wall Street",
+        "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infi...",
+        "source_link": "https://www.themoviedb.org/movie/106646"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
         "title": "Chainsaw Man - The Movie: Reze Arc",
         "description": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest b...",
         "source_link": "https://www.themoviedb.org/movie/1218925"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
       }
     ]
   }
