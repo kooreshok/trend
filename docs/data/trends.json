@@ -1,92 +1,85 @@
 {
-  "last_updated": "December 16, 2025, 04:32 UTC",
+  "last_updated": "December 16, 2025, 05:19 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
+        "title": "Grok got crucial facts wrong about Bondi Beach shooting - TechCrunch",
+        "description": "Grok, the chatbot built by Elon Musk\u2019s xAI and popularized on his social media platform X, appears to have repeatedly spread misinformation about today\u2019s mass shooting at Bondi Beach in Australia.",
+        "source_link": "https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/"
+      },
+      {
+        "rank": 2,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/ottocast.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Ottocast launches new CarPlay AI Box plus wireless adapter with rear cabin monitoring - 9to5Mac",
         "description": "If you\u2019ve been looking to upgrade your car\u2019s tech without breaking the bank on a new vehicle, Ottocast just dropped...",
         "source_link": "https://9to5mac.com/2025/12/14/ottocast-launches-new-carplay-ai-box/"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://cdn.motor1.com/images/mgl/0eEbXk/s1/corvette-zr1-canadian-motorsport-lap-record.jpg",
         "title": "The Corvette ZR1 Won't Stop Breaking Lap Records: Video - Motor1.com",
         "description": "The Magician of Mosport, Ron Fellows, sets a new lap record in the 2026 Corvette ZR1. He beat the prior record\u2014which he also set.",
         "source_link": "https://www.motor1.com/news/781678/corvette-zr1-track-record-canada/"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/Anker-prime-20k.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Hands-on with Anker\u2019s new 20,100mAh battery bank: 220W output, compact design - 9to5Mac",
+        "description": "Anker is back at it again with a new 20,100mAh power bank, under its Anker Prime brand. This power bank...",
+        "source_link": "https://9to5mac.com/2025/12/14/hands-on-with-compact-anker-20k-battery-bank-for-iphone-and-macbook/"
+      },
+      {
+        "rank": 5,
         "image": "https://assets.warhammer-community.com/sundaypreview-dec14-1-feature-alc0lrovcw.jpg",
         "title": "Sunday Preview \u2013 A brief pause ahead of Christmas - Warhammer Community",
         "description": "There\u2019s still time to buy gifts!",
         "source_link": "https://www.warhammer-community.com/articles/qi7ljqqo/sunday-preview-a-brief-pause-ahead-of-christmas"
       },
       {
-        "rank": 4,
+        "rank": 6,
+        "image": "https://www.techpowerup.com/img/LyjhnECZ5Iamtqd9.jpg",
+        "title": "Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted - TechPowerUp",
+        "description": "Microsoft's Copilot AI chatbot is arguably one of the most controversial add-ons ever implemented in the Windows 11 operating system. However, the controversy doesn't stop at PC operating systems. It seems to extend to TVs as well. According to Reddit user u/\u2026",
+        "source_link": "https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted"
+      },
+      {
+        "rank": 7,
         "image": "https://www.techspot.com/images2/news/bigimage/2025/12/2025-12-14-image-7.jpg",
         "title": "Nearly half of the 19,000 games released on Steam this year went almost unnoticed - TechSpot",
         "description": "Those numbers point to a widening gap between output and engagement on the world's largest PC game marketplace. Steam's open publishing model has dramatically lowered the barrier...",
         "source_link": "https://www.techspot.com/news/110592-nearly-half-19000-games-released-steam-year-went.html"
       },
       {
-        "rank": 5,
+        "rank": 8,
+        "image": "https://cdn.mos.cms.futurecdn.net/DURbXEDnrPobsa3EEL3v6e-2000-80.jpg",
+        "title": "Watch Atlas V rocket launch 27 of Amazon's internet satellites to orbit early Dec. 15 - Space",
+        "description": "Liftoff is scheduled for 3:49 a.m. ET on Monday (Dec. 15).",
+        "source_link": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-rocket-launch-amazon-leo-4"
+      },
+      {
+        "rank": 9,
         "image": "https://www.bgr.com/img/gallery/can-you-use-a-roku-without-internet/l-intro-1765229017.jpg",
         "title": "Can You Use A Roku Without Internet? - bgr.com",
         "description": "Using a Roku streaming device doesn't require much more than an internet connection. But does this mean that when your Wi-Fi is down, your device is useless?",
         "source_link": "https://www.bgr.com/2046701/can-you-use-roku-without-internet/"
-      },
-      {
-        "rank": 6,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/09/iphone-16-pro-max-vs-galaxy-s24-ultra_-flatlining_-0-0-screenshot.png?w=1600&h=900&fit=crop",
-        "title": "Mobile's next big thing is unraveling, it's going to get messy, and it may already be too late to stop it - Android Police",
-        "description": "AI has a serious reputation problem at the end of 2025, and it needs to change in 2026",
-        "source_link": "https://www.androidpolice.com/mobile-ai-is-unraveling/"
-      },
-      {
-        "rank": 7,
-        "image": "https://kotaku.com/app/uploads/2025/12/Xbox-Series-X.jpg",
-        "title": "Xbox Series X Enters Holiday Clearance Mode After Skipping Black Friday Discounts, Includes a Wireless Controller - Kotaku",
-        "description": "Save 8% on the 1TB, 4K, 120fps gaming console from Microsoft for a limited time.",
-        "source_link": "https://kotaku.com/xbox-series-x-enters-holiday-clearance-mode-after-skipping-black-friday-discounts-includes-a-wireless-controller-2000653061"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.bgr.com/img/gallery/5-free-apps-that-can-replace-your-microsoft-office-subscription/l-intro-1765280201.jpg",
-        "title": "5 Free Apps That Can Replace Your Microsoft Office Subscription - bgr.com",
-        "description": "If you are tired of paying a fortune for a Microsoft Office subscription, you must check out some alternative apps like Canva, Mailspring, and more.",
-        "source_link": "https://www.bgr.com/2047128/free-apps-replace-microsoft-office-subscription/"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-26.2-guide.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iOS 26.2: All the new features now available on your iPhone - 9to5Mac",
-        "description": "iOS 26.2 adds new features to your iPhone and is now available. There are new design features, Podcasts and Music features, and more.",
-        "source_link": "https://9to5mac.com/2025/12/14/ios-26-2-new-features-iphone/"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.techspot.com/images2/news/bigimage/2025/12/2025-12-13-image-6.jpg",
-        "title": "Google is turning any headphones into real-time translation earbuds - TechSpot",
-        "description": "Starting today, Android device owners can begin testing live speech translation in the Google Translate app, which now relies on Gemini. The AI makes text translations sound...",
-        "source_link": "https://www.techspot.com/news/110589-google-turning-any-headphones-real-time-translation-earbuds.html"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
-        "title": "Wake Up Dead Man: A Knives Out Mystery",
-        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
-        "source_link": "https://www.themoviedb.org/movie/812583"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
         "title": "Now You See Me: Now You Don't",
         "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
         "source_link": "https://www.themoviedb.org/movie/425274"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
+        "source_link": "https://www.themoviedb.org/movie/812583"
       },
       {
         "rank": 3,
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
+        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+        "title": "TRON: Ares",
+        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
+        "source_link": "https://www.themoviedb.org/movie/533533"
       }
     ]
   }
