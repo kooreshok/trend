@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 16, 2025, 22:16 UTC",
+  "last_updated": "December 16, 2025, 23:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/iOS-26.3-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple releases first iOS 26.3 beta for iPhone - 9to5Mac",
-        "description": "Apple has released the first iOS 26.3 developer beta for iPhone. One change we already expect is a joint collaboration...",
-        "source_link": "https://9to5mac.com/2025/12/15/apple-releases-first-ios-26-3-beta-for-iphone/"
+        "image": "https://images.macrumors.com/t/sJR4ML-uwT8mRNH0yIK6zAfSCG8=/2048x/article-new/2024/09/Apple-Logo-Top-Half.jpeg",
+        "title": "Early iOS 26 Software Leak Uncovers Dozens of Upcoming Apple Features - MacRumors",
+        "description": "Software from an iPhone prototype running an early build of iOS 26 leaked last week, giving us a glimpse at future Apple devices and iOS features. We...",
+        "source_link": "https://www.macrumors.com/2025/12/15/ios-software-leak-apple-features/"
       },
       {
         "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/2025_DEC_Marathon_Press_Kit_Compressed_003.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "Bungie\u2019s delayed shooter Marathon launches in March - The Verge",
-        "description": "Bungie\u2019s new Marathon extraction shooter is going to launch in March 2026 with a target price of $39.99.",
-        "source_link": "https://www.theverge.com/news/844780/bungie-marathon-march-launch-delay"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK069_APPLE_TV_C.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
+        "title": "Apple TV adds Google Cast streaming, but only on Android - The Verge",
+        "description": "The Android version of Apple TV finally has support for Google Cast, making it easier to watch shows like Pluribus on a nearby TV.",
+        "source_link": "https://www.theverge.com/news/844867/apple-tv-google-cast-android"
       },
       {
         "rank": 3,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-app-logo-circle-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google letting you customize Discover using prompts with \u2018Tailor your feed\u2019 Lab - 9to5Google",
-        "description": "Google is testing a new \"Tailor your feed\" Labs experiment that lets you tell Discover exactly \u201cwhat you want to see.\"",
-        "source_link": "http://9to5google.com/2025/12/15/google-discover-tailor-prompts/"
+        "image": "https://gizmodo.com/app/uploads/2024/03/a6135004851ed2794406c3031437f116.jpg",
+        "title": "LG TVs Get Unremovable Microsoft Copilot App - Gizmodo",
+        "description": "Users are not thrilled.",
+        "source_link": "https://gizmodo.com/lg-tvs-get-unremovable-microsoft-copilot-app-2000699870"
       },
       {
         "rank": 4,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/google-logo-1152x648.jpg",
-        "title": "Google will end dark web reports that alerted users to leaked data - Ars Technica",
-        "description": "Google says the reports lacked \u201chelpful next steps.\u201d\u2026",
-        "source_link": "https://arstechnica.com/gadgets/2025/12/google-is-shutting-down-dark-web-reports-in-january-because-they-werent-helpful/"
+        "image": "https://techcrunch.com/wp-content/uploads/2023/03/Screenshot-2023-03-07-at-4.03.05-PM.png?resize=1171,1200",
+        "title": "Google\u2019s \u2018dark web report\u2019 feature will no longer be available starting in February - TechCrunch",
+        "description": "Launched initially about a year and a half ago, this tool aimed to help users monitor their personal information on the dark web.",
+        "source_link": "https://techcrunch.com/2025/12/15/googles-dark-web-report-feature-will-no-longer-be-available-starting-in-february/"
       },
       {
         "rank": 5,
+        "image": "https://assetsio.gnwcdn.com/marathon-trailer-crop-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Six months after being delayed indefinitely, Bungie's troubled Marathon finally gets release window and price - Eurogamer",
+        "description": "Bungie has announced a release window and price for its troubled extraction shooter Marathon.",
+        "source_link": "https://www.eurogamer.net/six-months-after-being-delayed-indefinitely-bungies-troubled-marathon-finally-gets-release-window-and-price"
+      },
+      {
+        "rank": 6,
+        "image": "https://images.macrumors.com/t/xLosFUpamTTG6O8V3ejjWJu-Akc=/2500x/article-new/2025/12/iOS-26.3-Feature.jpg",
+        "title": "Apple Seeds First Betas of iOS 26.3 and iPadOS 26.3 to Developers - MacRumors",
+        "description": "Apple today seeded the first betas of upcoming iOS 26.3 and iPadOS 26.3 updates to developers for testing purposes, with the software coming just a...",
+        "source_link": "https://www.macrumors.com/2025/12/15/apple-seeds-ios-26-3-beta-1/"
+      },
+      {
+        "rank": 7,
+        "image": "https://techcrunch.com/wp-content/uploads/2022/12/gift-guide-22-favorite-things-hub.jpg?resize=1200,645",
+        "title": "Gift guide: TechCrunch\u2019s favorite things - TechCrunch",
+        "description": "As tech journalists we have a lot of opinions. So if we really like something, it's probably good!",
+        "source_link": "https://techcrunch.com/2025/12/15/gift-guide-techcrunchs-favorite-things/"
+      },
+      {
+        "rank": 8,
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXHTpJtgXoQfYQN62WgKv5VQG11DDmx38k3E0UeuLONeGHcNFQXzppCq-HGBEG9kJNyW_2O5q7VAuvoR7aEzUpW1i3iC4PWFxF31qypiXtp8zJqKVCDF6FyxVU8_UTZUU2OKeO6lA-KkXXOk6ASt3KVG4jQ0vuwldlLYHrkeZyoVVr64i5o_nC3Jkpcqyt/s790-rw-e365/chat-stealer.jpg",
         "title": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats - The Hacker News",
         "description": "Urban VPN extensions collect AI prompts, responses, and browsing data from millions through hidden code.",
         "source_link": "https://thehackernews.com/2025/12/featured-chrome-browser-extension.html"
       },
       {
-        "rank": 6,
-        "image": "https://assetsio.gnwcdn.com/stalker-2-ferris.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Stalker 2 is adding \"hours\" of new quests in a major free update coming very, very soon - Eurogamer",
-        "description": "Stalker 2: Heart of Chornobyl 2 is getting a free update promising \"hours\" of new quests very soon.",
-        "source_link": "https://www.eurogamer.net/stalker-2-is-adding-hours-of-new-quests-in-a-major-free-update-coming-very-very-soon"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.macrumors.com/t/utojh2KSAyPpmL2zSSHd0_hnVQQ=/2500x/article-new/2025/08/Apple-Foldable-Thumb.jpg",
-        "title": "Leak Reveals Foldable iPhone Details - MacRumors",
-        "description": "The first foldable iPhone will feature a series of design and hardware firsts for Apple, according to details shared by the Weibo leaker known as...",
-        "source_link": "https://www.macrumors.com/2025/12/15/leak-reveals-foldable-iphone-details/"
-      },
-      {
-        "rank": 8,
-        "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3tVIKMpP5E1xzuH9mFVtSc/c45835878b477a2d6169d6b4c4b88a33/MoG_Keyart_01_Header.jpg",
-        "title": "Ubisoft Acquires March of Giants From Amazon - Ubisoft",
-        "description": "The Montreal-based team behind March of Giants joins Ubisoft to continue development on the free-to-play 4v4 MOBA game where players take on the role of giant combatants.",
-        "source_link": "https://news.ubisoft.com/en-us/article/6TYgLsRkVYP97hVH0Rhzn7/ubisoft-acquires-march-of-giants-from-amazon"
-      },
-      {
         "rank": 9,
-        "image": "https://images.purexbox.com/6730b2dd92ea7/large.jpg",
-        "title": "Metacritic Reveals The 10 Worst-Rated Video Games Of 2025 - Pure Xbox",
-        "description": "We think #1 is harsh!",
-        "source_link": "https://www.purexbox.com/news/2025/12/metacritic-reveals-the-10-worst-rated-video-games-of-2025"
+        "image": "https://assets-prd.ignimgs.com/2024/12/06/pokemon-gifts-2024-blogroll-under-50-1733529372154.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "The Best Pokemon Gift Ideas for 2025 - IGN",
+        "description": "From TCG sets with rare cards to video games that explore the Pok\u00e9mon world in new ways, there's something here for every type of trainer and fan.",
+        "source_link": "https://www.ign.com/articles/best-pokemon-gift-ideas-2025"
       },
       {
         "rank": 10,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4619799-bestpclarge.jpeg",
-        "title": "The Best PC Games Of 2025 - GameSpot",
-        "description": "More games than ever are being released on PC, but we've narrowed down that sizable number to the 10 best we played this year.",
-        "source_link": "https://www.gamespot.com/gallery/the-best-pc-games-of-2025/2900-7326/"
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69403b7a0966d61bc8db7616/0x0.jpg?format=jpg&crop=2160,1215,x0,y10,safe&height=900&width=1600&fit=bounds",
+        "title": "Notion Kicks Off Employee Share Sale At $11 Billion Valuation As AI Accelerates Its Growth - Forbes",
+        "description": "The company, which sells a popular productivity software application and now wants to be an \u2018AI everything\u2019 app, recently passed $600 million in annual recurring revenue.",
+        "source_link": "https://www.forbes.com/sites/annatong/2025/12/15/notion-kicks-off-employee-share-sale-at-11-billion-valuation-as-ai-accelerates-its-growth/"
       }
     ],
     "trending_movies": [
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "title": "Bugonia",
+        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
+        "source_link": "https://www.themoviedb.org/movie/701387"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
-        "title": "Chainsaw Man - The Movie: Reze Arc",
-        "description": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest b...",
-        "source_link": "https://www.themoviedb.org/movie/1218925"
       }
     ]
   }
