@@ -1,5 +1,5 @@
 {
-  "last_updated": "December 16, 2025, 17:20 UTC",
+  "last_updated": "December 16, 2025, 18:26 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,17 +76,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",
-        "title": "Sisu: Road to Revenge",
-        "description": "Returning to the house where his family was brutally murdered during the war, 'the man who refuses to die' dismantles it, loads it on a truck, and is ...",
-        "source_link": "https://www.themoviedb.org/movie/1223601"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
         "title": "Now You See Me: Now You Don't",
         "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
         "source_link": "https://www.themoviedb.org/movie/425274"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",
+        "title": "Sisu: Road to Revenge",
+        "description": "Returning to the house where his family was brutally murdered during the war, 'the man who refuses to die' dismantles it, loads it on a truck, and is ...",
+        "source_link": "https://www.themoviedb.org/movie/1223601"
       },
       {
         "rank": 3,
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+        "title": "The Wolf of Wall Street",
+        "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infi...",
+        "source_link": "https://www.themoviedb.org/movie/106646"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/2HvVlaPGkM5TU1qbquRxTCf2THI.jpg",
         "title": "Manitou's Canoe",
         "description": "Abahachi, the Apache chief, and his white blood brother Ranger fight tirelessly for peace and justice - but a new, up-and-coming gang is making life p...",
         "source_link": "https://www.themoviedb.org/movie/1233066"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
         "title": "Chainsaw Man - The Movie: Reze Arc",
         "description": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest b...",
         "source_link": "https://www.themoviedb.org/movie/1218925"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
-      },
-      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
-        "title": "The Wolf of Wall Street",
-        "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infi...",
-        "source_link": "https://www.themoviedb.org/movie/106646"
+        "image": "https://image.tmdb.org/t/p/w200/ym6EJ3It4N7Ox5PLWJAgcDNBsg0.jpg",
+        "title": "The SpongeBob Movie: Search for SquarePants",
+        "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman \u2013 a mysterious swashbuckling ghost pi...",
+        "source_link": "https://www.themoviedb.org/movie/991494"
       }
     ]
   }
