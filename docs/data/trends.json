@@ -1,92 +1,92 @@
 {
-  "last_updated": "December 16, 2025, 20:20 UTC",
+  "last_updated": "December 16, 2025, 21:17 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/iOS-26.3-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple releases first iOS 26.3 beta for iPhone - 9to5Mac",
+        "description": "Apple has released the first iOS 26.3 developer beta for iPhone. One change we already expect is a joint collaboration...",
+        "source_link": "https://9to5mac.com/2025/12/15/apple-releases-first-ios-26-3-beta-for-iphone/"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/2025_DEC_Marathon_Press_Kit_Compressed_003.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "Bungie\u2019s delayed shooter Marathon launches in March - The Verge",
+        "description": "Bungie\u2019s new Marathon extraction shooter is going to launch in March 2026 with a target price of $39.99.",
+        "source_link": "https://www.theverge.com/news/844780/bungie-marathon-march-launch-delay"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-app-logo-circle-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google letting you customize Discover using prompts with \u2018Tailor your feed\u2019 Lab - 9to5Google",
+        "description": "Google is testing a new \"Tailor your feed\" Labs experiment that lets you tell Discover exactly \u201cwhat you want to see.\"",
+        "source_link": "http://9to5google.com/2025/12/15/google-discover-tailor-prompts/"
+      },
+      {
+        "rank": 4,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/google-logo-1152x648.jpg",
+        "title": "Google will end dark web reports that alerted users to leaked data - Ars Technica",
+        "description": "Google says the reports lacked \u201chelpful next steps.\u201d\u2026",
+        "source_link": "https://arstechnica.com/gadgets/2025/12/google-is-shutting-down-dark-web-reports-in-january-because-they-werent-helpful/"
+      },
+      {
+        "rank": 5,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXHTpJtgXoQfYQN62WgKv5VQG11DDmx38k3E0UeuLONeGHcNFQXzppCq-HGBEG9kJNyW_2O5q7VAuvoR7aEzUpW1i3iC4PWFxF31qypiXtp8zJqKVCDF6FyxVU8_UTZUU2OKeO6lA-KkXXOk6ASt3KVG4jQ0vuwldlLYHrkeZyoVVr64i5o_nC3Jkpcqyt/s790-rw-e365/chat-stealer.jpg",
+        "title": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats - The Hacker News",
+        "description": "Urban VPN extensions collect AI prompts, responses, and browsing data from millions through hidden code.",
+        "source_link": "https://thehackernews.com/2025/12/featured-chrome-browser-extension.html"
+      },
+      {
+        "rank": 6,
         "image": "https://assetsio.gnwcdn.com/stalker-2-ferris.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Stalker 2 is adding \"hours\" of new quests in a major free update coming very, very soon - Eurogamer",
         "description": "Stalker 2: Heart of Chornobyl 2 is getting a free update promising \"hours\" of new quests very soon.",
         "source_link": "https://www.eurogamer.net/stalker-2-is-adding-hours-of-new-quests-in-a-major-free-update-coming-very-very-soon"
       },
       {
-        "rank": 2,
-        "image": null,
+        "rank": 7,
+        "image": "https://images.macrumors.com/t/utojh2KSAyPpmL2zSSHd0_hnVQQ=/2500x/article-new/2025/08/Apple-Foldable-Thumb.jpg",
         "title": "Leak Reveals Foldable iPhone Details - MacRumors",
-        "description": null,
-        "source_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UblNSTm9fSklpRWNSMUlFZnN3N2hqdmhjTlBPam5KUXIwUThCSXR3ZEM2d2ZYakRrZE12bEZkbnZHVlhhUlJ4QjVmSTFZTW11MHMxNG84WGx0dm84Vl9ZSlBuN0pUYTdDX2s3Z0pCUHlSX3FZazhaVEwyZDllZDQ?oc=5"
+        "description": "The first foldable iPhone will feature a series of design and hardware firsts for Apple, according to details shared by the Weibo leaker known as...",
+        "source_link": "https://www.macrumors.com/2025/12/15/leak-reveals-foldable-iphone-details/"
       },
       {
-        "rank": 3,
+        "rank": 8,
+        "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3tVIKMpP5E1xzuH9mFVtSc/c45835878b477a2d6169d6b4c4b88a33/MoG_Keyart_01_Header.jpg",
+        "title": "Ubisoft Acquires March of Giants From Amazon - Ubisoft",
+        "description": "The Montreal-based team behind March of Giants joins Ubisoft to continue development on the free-to-play 4v4 MOBA game where players take on the role of giant combatants.",
+        "source_link": "https://news.ubisoft.com/en-us/article/6TYgLsRkVYP97hVH0Rhzn7/ubisoft-acquires-march-of-giants-from-amazon"
+      },
+      {
+        "rank": 9,
+        "image": "https://images.purexbox.com/6730b2dd92ea7/large.jpg",
+        "title": "Metacritic Reveals The 10 Worst-Rated Video Games Of 2025 - Pure Xbox",
+        "description": "We think #1 is harsh!",
+        "source_link": "https://www.purexbox.com/news/2025/12/metacritic-reveals-the-10-worst-rated-video-games-of-2025"
+      },
+      {
+        "rank": 10,
         "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4619799-bestpclarge.jpeg",
         "title": "The Best PC Games Of 2025 - GameSpot",
         "description": "More games than ever are being released on PC, but we've narrowed down that sizable number to the 10 best we played this year.",
         "source_link": "https://www.gamespot.com/gallery/the-best-pc-games-of-2025/2900-7326/"
-      },
-      {
-        "rank": 4,
-        "image": null,
-        "title": "Tearing Down Walmart\u2019s $12 Keychain Camera - Hackaday",
-        "description": null,
-        "source_link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uSUd1dzF5RXRVcEx6ZjN3b1V4ZWpiNXo3bE1IMWdnQ0VsTDR5N3dJdmQwdV9lclNSZW5zckNhNmJxM0dMMm1lUVZHRVh1SWJxQ1Itak1QajcxQVZHVDZqdmtZWmgtS2txa0k0QndaSVNBUkFjanRhREkwLUtQdw?oc=5"
-      },
-      {
-        "rank": 5,
-        "image": null,
-        "title": "The Game Awards reveals that blew up on Steam - Substack",
-        "description": null,
-        "source_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kbk8tbkRfRzJtV1Y3aU0tdzhSakFuQjh2QlF0Q2NfWk1ZcFNmMmxocjc2N1B3aWR2T3k0djRoZW1GLU5fSlJHYzFQc3I3MWJwSzgyNElzQk9uV1FYR2tvZHdaWHJqa2sza1NqZDIwemhfdHNfaHRfZTA0Z3o?oc=5"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.ctfassets.net/s5n2t79q9icq/7DhY9KjneCVytViD0M958h/b421027efc93dd9580c96163712f389c/EVE_Figure_of_Destiny_960x540.jpg",
-        "title": "Playing to Lorwyn, Part 2 - Magic: The Gathering",
-        "description": "Mark discusses the mechanics of the Lorwyn block, their reception, and prepares the audience for Lorwyn Eclipsed.",
-        "source_link": "https://magic.wizards.com/en/news/making-magic/playing-to-lorwyn-part-2"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "GNOME bans AI-generated extensions - The Verge",
-        "description": "The Gnome Shell Extensions store has banned AI-generated extensions after receiving an influx of messy vibe-coded submissions.",
-        "source_link": "https://www.theverge.com/news/844655/gnome-linux-ai-shell-extensions-ban"
-      },
-      {
-        "rank": 8,
-        "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/12/15/27fcc77c/tomb%20raider%20legacy%20of%20atlantis%201.png.webp",
-        "title": "Tomb Raider Devs Explain Series Timeline, Lara Croft's New Voice, And Links Between Catalyst And Legacy Of Atlantis - Game Informer",
-        "description": "A Q&A after the Game Awards shed some more light on Lara Croft's upcoming adventures.",
-        "source_link": "https://gameinformer.com/2025/12/15/tomb-raider-devs-explain-series-timeline-lara-crofts-new-voice-and-links-between"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/05/Google-Account-Page.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google is shutting down its \u2018Dark web report\u2019 tool after just over a year - 9to5Google",
-        "description": "One of the lesser-known features that Google offers is a \u201cDark Web Report\u201d monitoring tool, but it\u2019s about to shut...",
-        "source_link": "http://9to5google.com/2025/12/15/google-dark-web-report-shutting-down/"
-      },
-      {
-        "rank": 10,
-        "image": "https://assetsio.gnwcdn.com/divinity-original-sin-2.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Days after Larian's big The Game Awards announcement, 2017's Divinity: Original Sin 2 receives current gen upgrade for Switch 2, PS5, and Xbox Series X/S - Eurogamer",
-        "description": "Divinity: Original Sin 2 now has current gen versions available for Switch 2, PS5, and Xbox Series X/S.",
-        "source_link": "https://www.eurogamer.net/days-after-larians-big-the-game-awards-announcement-2017s-divinity-original-sin-2-receives-current-gen-upgrade-for-switch-2-ps5-and-xbox-series-xs"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-        "title": "Now You See Me: Now You Don't",
-        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
-        "source_link": "https://www.themoviedb.org/movie/425274"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",
         "title": "Sisu: Road to Revenge",
         "description": "Returning to the house where his family was brutally murdered during the war, 'the man who refuses to die' dismantles it, loads it on a truck, and is ...",
         "source_link": "https://www.themoviedb.org/movie/1223601"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+        "title": "Now You See Me: Now You Don't",
+        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
+        "source_link": "https://www.themoviedb.org/movie/425274"
       },
       {
         "rank": 3,
@@ -111,24 +111,24 @@
       },
       {
         "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+        "title": "Disclosure Day",
+        "description": "If you found out we weren\u2019t alone in the universe, would that frighten you?...",
+        "source_link": "https://www.themoviedb.org/movie/1275779"
+      },
+      {
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/2HvVlaPGkM5TU1qbquRxTCf2THI.jpg",
         "title": "Manitou's Canoe",
         "description": "Abahachi, the Apache chief, and his white blood brother Ranger fight tirelessly for peace and justice - but a new, up-and-coming gang is making life p...",
         "source_link": "https://www.themoviedb.org/movie/1233066"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-        "title": "Disclosure Day",
-        "description": "If you found out we weren\u2019t alone in the universe, would that frighten you?...",
-        "source_link": "https://www.themoviedb.org/movie/1275779"
       },
       {
         "rank": 9,
