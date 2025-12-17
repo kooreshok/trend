@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 16, 2025, 23:15 UTC",
+  "last_updated": "December 17, 2025, 01:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Mario-Kart-World-1.4.1-update.jpg",
+        "title": "Mario Kart World 1.4.1 update out now, patch notes - Nintendo Everything",
+        "description": "Nintendo releases new version 1.4.1 update for Mario Kart World and here are the official patch notes.",
+        "source_link": "https://nintendoeverything.com/mario-kart-world-1-4-1-update-out-now-patch-notes/"
+      },
+      {
+        "rank": 2,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Holow-Knight-Silksong-Sea-of-Sorrow-DLC.jpg",
+        "title": "Holow Knight: Silksong \u2013 Sea of Sorrow DLC revealed - Nintendo Everything",
+        "description": "Holow Knight: Silksong has just revealed brand new DLC, which is known as Sea of Sorrow. Team Cherry is prepping it for a 2026 debut. Sea of Sorrow will feature new areas, bosses, tools, and more. Team Cherry teases: \u201cHornet\u2019s adventures continue in our nauti\u2026",
+        "source_link": "https://nintendoeverything.com/holow-knight-silksong-sea-of-sorrow-dlc-revealed/"
+      },
+      {
+        "rank": 3,
+        "image": "https://media.wired.com/photos/69409cfc0b71868f273ffce7/191:100/w_1280,c_limit/OpenAI-Loses-Chief-Communications-Officer-Business-2218358100.jpg",
+        "title": "OpenAI\u2019s Chief Communications Officer Is Leaving the Company - WIRED",
+        "description": "Hannah Wong told staff she is moving on to her \u201cnext chapter.\u201d The company will be running an executive search to find a replacement, according to a memo.",
+        "source_link": "https://www.wired.com/story/openai-chief-communications-officer-hannah-wong-leaves/"
+      },
+      {
+        "rank": 4,
         "image": "https://images.macrumors.com/t/sJR4ML-uwT8mRNH0yIK6zAfSCG8=/2048x/article-new/2024/09/Apple-Logo-Top-Half.jpeg",
         "title": "Early iOS 26 Software Leak Uncovers Dozens of Upcoming Apple Features - MacRumors",
         "description": "Software from an iPhone prototype running an early build of iOS 26 leaked last week, giving us a glimpse at future Apple devices and iOS features. We...",
         "source_link": "https://www.macrumors.com/2025/12/15/ios-software-leak-apple-features/"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK069_APPLE_TV_C.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
         "title": "Apple TV adds Google Cast streaming, but only on Android - The Verge",
         "description": "The Android version of Apple TV finally has support for Google Cast, making it easier to watch shows like Pluribus on a nearby TV.",
         "source_link": "https://www.theverge.com/news/844867/apple-tv-google-cast-android"
       },
       {
-        "rank": 3,
-        "image": "https://gizmodo.com/app/uploads/2024/03/a6135004851ed2794406c3031437f116.jpg",
-        "title": "LG TVs Get Unremovable Microsoft Copilot App - Gizmodo",
-        "description": "Users are not thrilled.",
-        "source_link": "https://gizmodo.com/lg-tvs-get-unremovable-microsoft-copilot-app-2000699870"
-      },
-      {
-        "rank": 4,
-        "image": "https://techcrunch.com/wp-content/uploads/2023/03/Screenshot-2023-03-07-at-4.03.05-PM.png?resize=1171,1200",
-        "title": "Google\u2019s \u2018dark web report\u2019 feature will no longer be available starting in February - TechCrunch",
-        "description": "Launched initially about a year and a half ago, this tool aimed to help users monitor their personal information on the dark web.",
-        "source_link": "https://techcrunch.com/2025/12/15/googles-dark-web-report-feature-will-no-longer-be-available-starting-in-february/"
-      },
-      {
-        "rank": 5,
-        "image": "https://assetsio.gnwcdn.com/marathon-trailer-crop-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Six months after being delayed indefinitely, Bungie's troubled Marathon finally gets release window and price - Eurogamer",
-        "description": "Bungie has announced a release window and price for its troubled extraction shooter Marathon.",
-        "source_link": "https://www.eurogamer.net/six-months-after-being-delayed-indefinitely-bungies-troubled-marathon-finally-gets-release-window-and-price"
-      },
-      {
         "rank": 6,
+        "image": "https://www.bgr.com/img/gallery/8-rare-vintage-tech-products-worth-thousands-that-might-be-hiding-in-your-attic/l-intro-1765544277.jpg",
+        "title": "8 Rare Vintage Tech Products Worth Thousands That Might Be Hiding In Your Attic - bgr.com",
+        "description": "Collectible tech is a lot newer than most other kinds of vintage items, which might take hundreds of years to become interesting. Nostalgia plays a big part.",
+        "source_link": "https://www.bgr.com/2050118/rare-vintage-tech-worth-thousands-hiding-attic/"
+      },
+      {
+        "rank": 7,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/mistriah-1152x648.png",
+        "title": "Microsoft takes down mod that re-created Halo 3 in Counter-Strike 2 - Ars Technica",
+        "description": "Project Misriah creator vows to use new experience \u201cto cook up something else.\u201d\u2026",
+        "source_link": "https://arstechnica.com/gaming/2025/12/microsoft-takes-down-mod-that-recreated-halo-3-in-counter-strike-2/"
+      },
+      {
+        "rank": 8,
+        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4623035-clairobscurexpedition33.jpg",
+        "title": "All The Game Awards Game Of The Year Winners To Date - GameSpot",
+        "description": "From Dragon Age: Inquisition to Clair Obscur: Expedition 33, these are all of the Game of the Year winners at The Game Awards.",
+        "source_link": "https://www.gamespot.com/gallery/all-the-game-awards-game-of-the-year-winners-to-date/2900-7352/"
+      },
+      {
+        "rank": 9,
         "image": "https://images.macrumors.com/t/xLosFUpamTTG6O8V3ejjWJu-Akc=/2500x/article-new/2025/12/iOS-26.3-Feature.jpg",
         "title": "Apple Seeds First Betas of iOS 26.3 and iPadOS 26.3 to Developers - MacRumors",
         "description": "Apple today seeded the first betas of upcoming iOS 26.3 and iPadOS 26.3 updates to developers for testing purposes, with the software coming just a...",
         "source_link": "https://www.macrumors.com/2025/12/15/apple-seeds-ios-26-3-beta-1/"
       },
       {
-        "rank": 7,
-        "image": "https://techcrunch.com/wp-content/uploads/2022/12/gift-guide-22-favorite-things-hub.jpg?resize=1200,645",
-        "title": "Gift guide: TechCrunch\u2019s favorite things - TechCrunch",
-        "description": "As tech journalists we have a lot of opinions. So if we really like something, it's probably good!",
-        "source_link": "https://techcrunch.com/2025/12/15/gift-guide-techcrunchs-favorite-things/"
-      },
-      {
-        "rank": 8,
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXHTpJtgXoQfYQN62WgKv5VQG11DDmx38k3E0UeuLONeGHcNFQXzppCq-HGBEG9kJNyW_2O5q7VAuvoR7aEzUpW1i3iC4PWFxF31qypiXtp8zJqKVCDF6FyxVU8_UTZUU2OKeO6lA-KkXXOk6ASt3KVG4jQ0vuwldlLYHrkeZyoVVr64i5o_nC3Jkpcqyt/s790-rw-e365/chat-stealer.jpg",
-        "title": "Featured Chrome Browser Extension Caught Intercepting Millions of Users' AI Chats - The Hacker News",
-        "description": "Urban VPN extensions collect AI prompts, responses, and browsing data from millions through hidden code.",
-        "source_link": "https://thehackernews.com/2025/12/featured-chrome-browser-extension.html"
-      },
-      {
-        "rank": 9,
-        "image": "https://assets-prd.ignimgs.com/2024/12/06/pokemon-gifts-2024-blogroll-under-50-1733529372154.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "The Best Pokemon Gift Ideas for 2025 - IGN",
-        "description": "From TCG sets with rare cards to video games that explore the Pok\u00e9mon world in new ways, there's something here for every type of trainer and fan.",
-        "source_link": "https://www.ign.com/articles/best-pokemon-gift-ideas-2025"
-      },
-      {
         "rank": 10,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69403b7a0966d61bc8db7616/0x0.jpg?format=jpg&crop=2160,1215,x0,y10,safe&height=900&width=1600&fit=bounds",
-        "title": "Notion Kicks Off Employee Share Sale At $11 Billion Valuation As AI Accelerates Its Growth - Forbes",
-        "description": "The company, which sells a popular productivity software application and now wants to be an \u2018AI everything\u2019 app, recently passed $600 million in annual recurring revenue.",
-        "source_link": "https://www.forbes.com/sites/annatong/2025/12/15/notion-kicks-off-employee-share-sale-at-11-billion-valuation-as-ai-accelerates-its-growth/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/2025_DEC_Marathon_Press_Kit_Compressed_003.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "Bungie\u2019s delayed shooter Marathon launches in March - The Verge",
+        "description": "Bungie\u2019s new Marathon extraction shooter is going to launch in March 2026 with a target price of $39.99.",
+        "source_link": "https://www.theverge.com/news/844780/bungie-marathon-march-launch-delay"
       }
     ],
     "trending_movies": [
@@ -78,7 +78,7 @@
         "rank": 1,
         "image": "https://image.tmdb.org/t/p/w200/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",
         "title": "Sisu: Road to Revenge",
-        "description": "Returning to the house where his family was brutally murdered during the war, 'the man who refuses to die' dismantles it, loads it on a truck, and is ...",
+        "description": "Returning to the house where his family was brutally murdered during the war, \u2018the man who refuses to die\u2019 dismantles it, loads it on a truck, and is ...",
         "source_link": "https://www.themoviedb.org/movie/1223601"
       },
       {
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/2HvVlaPGkM5TU1qbquRxTCf2THI.jpg",
-        "title": "Manitou's Canoe",
-        "description": "Abahachi, the Apache chief, and his white blood brother Ranger fight tirelessly for peace and justice - but a new, up-and-coming gang is making life p...",
-        "source_link": "https://www.themoviedb.org/movie/1233066"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/2HvVlaPGkM5TU1qbquRxTCf2THI.jpg",
+        "title": "Manitou's Canoe",
+        "description": "Abahachi, the Apache chief, and his white blood brother Ranger fight tirelessly for peace and justice - but a new, up-and-coming gang is making life p...",
+        "source_link": "https://www.themoviedb.org/movie/1233066"
+      },
+      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
-        "title": "Bugonia",
-        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
-        "source_link": "https://www.themoviedb.org/movie/701387"
+        "image": "https://image.tmdb.org/t/p/w200/yXGM0cg3mPZlB2kJkFVJo1crrWs.jpg",
+        "title": "The Housemaid",
+        "description": "A woman with a troubled past accepts a job as a live-in maid for a wealthy, seemingly perfect family....",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
+        "image": "https://image.tmdb.org/t/p/w200/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+        "title": "The Wolf of Wall Street",
+        "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infi...",
+        "source_link": "https://www.themoviedb.org/movie/106646"
       }
     ]
   }
