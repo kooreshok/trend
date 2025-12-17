@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 17, 2025, 20:19 UTC",
+  "last_updated": "December 17, 2025, 21:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/1l/1LZOK4QGH2JA1765834981315.png",
-        "title": "Goblins and Gifts Galore in Goblin Greedings \u2014 Diablo IV - Blizzard News",
-        "description": "Goblin Greedings descends on Sanctuary as Treasure Goblin variants roam in increased numbers and bountiful spoils. Earn bonus Whisper Caches and claim free holiday cosmetics.",
-        "source_link": "https://news.blizzard.com/en-us/article/24243642/goblins-and-gifts-galore-in-goblin-greedings"
+        "image": "https://s.yimg.com/ny/api/res/1.2/cuFIuf.uUlkKTsZH6S37uA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ7Y2Y9d2VicA--/https://media.zenfs.com/en/jalopnik_622/4f753c0ec34c6912f8048711561ca7ea",
+        "title": "Space Force Uses Magic: The Gathering-Style Cards To Announce The War Names For Its Satellites - Yahoo",
+        "description": "You've really got to see the cards to believe them.",
+        "source_link": "https://www.jalopnik.com/2053881/space-force-magic-the-gathering-cards/"
       },
       {
         "rank": 2,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/iMac-Pro-front-scaled-1-1152x648.jpeg",
+        "title": "Leaked debug kit suggests Apple is testing a new \u201ciMac Pro,\u201d among many other Macs - Ars Technica",
+        "description": "Resurrected high-end all-in-one could be a worthy successor to 2017\u2019s iMac Pro.",
+        "source_link": "https://arstechnica.com/gadgets/2025/12/leaked-debug-kit-suggests-apple-is-testing-a-new-imac-pro-among-many-other-macs/"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-Labs-CC-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google Labs testing \u2018CC\u2019 productivity AI agent that connects to Gmail & Drive, waitlist open - 9to5Google",
+        "description": "Google Labs today announced a \u201cnew experimental AI productivity agent\u201d called \u201cCC.\u201d\u00a0It will generate and send a \u201cYour Day Ahead\u201d briefing...",
+        "source_link": "http://9to5google.com/2025/12/16/google-labs-cc/"
+      },
+      {
+        "rank": 4,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/12/Conversation-Focus_Social-Share.webp?resize=1200,675",
+        "title": "Meta\u2019s AI glasses can now help you hear conversations better - TechCrunch",
+        "description": "Conversation focus uses the AI glasses' open-ear speakers to amplify the voice of the person you're talking to, says Meta.",
+        "source_link": "https://techcrunch.com/2025/12/16/metas-ai-glasses-can-now-help-you-hear-conversations-better/"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/marketplace/MobMaze_.Net_1170x500.jpg",
+        "title": "Enter the Mob Maze - Minecraft",
+        "description": "Step into Mob Maze, a roguelite multiplayer adventure with SUPER-SIZED environments and scaled-up obstacles, available through the Server list in Minecraft: Bedrock Edition! Do you have what it takes to conquer this colossal place with your unique abilities, \u2026",
+        "source_link": "https://www.minecraft.net/en-us/article/mob-maze"
+      },
+      {
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Sony-WH-1000XM5-headphones-and-Sony-WF-C700N-earbuds.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Sony\u2019s XM5 over-ear headphones are cheaper than ever \u2014 and they come with free wireless earbuds - The Verge",
+        "description": "Sony\u2019s noise-canceling WH-1000XM5 headphones are currently at an all-time low price, and come with free wireless earbuds you can gift to someone for the holidays.",
+        "source_link": "https://www.theverge.com/gadgets/845527/sony-wh-1000xm5-wf-c700n-dualsense-deal-sale"
+      },
+      {
+        "rank": 7,
         "image": "https://assets-prd.ignimgs.com/2025/12/15/divinity-main-1765800153528.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Larian CEO Responds to Divinity Gen AI Backlash: 'We Are Neither Releasing a Game With Any AI Components, Nor Are We Looking at Trimming Down Teams to Replace Them With AI' - IGN",
         "description": "This morning, the news broke that Larian Studios, developer of Baldur's Gate 3 and the upcoming, just-announced Divinity, is apparently using generative AI behind the scenes. The backlash has been swift, and now Larian founder and game director Swen Vincke is\u2026",
         "source_link": "https://www.ign.com/articles/larian-ceo-responds-to-divinity-gen-ai-backlash-we-are-neither-releasing-a-game-with-any-ai-components-nor-are-we-looking-at-trimming-down-teams-to-replace-them-with-ai"
       },
       {
-        "rank": 3,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/693eddc7a1a220985d13f65b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "Warning: Apple\u2019s iOS 26.2 Update Is Quietly Altering A Key iPhone Feature - Forbes",
-        "description": "The latest iPhone update is here, and it\u2019s already proving controversial, with some users finding an unrequested change being made. Here\u2019s what to do.",
-        "source_link": "https://www.forbes.com/sites/davidphelan/2025/12/16/warning-apples-ios-262-update-is-quietly-changing-a-key-iphone-feature-for-some-users/"
+        "rank": 8,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-AI-Mode-homepage-Dec-2025.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google updates AI Mode homepage with new model switcher, greeting - 9to5Google",
+        "description": "After adding a \u2018plus\u2019 menu to the homepage, Google is updating the AI Mode UI on desktop web with a new greeting and model switcher.",
+        "source_link": "http://9to5google.com/2025/12/16/google-ai-mode-greeting/"
       },
       {
-        "rank": 4,
+        "rank": 9,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/024-1152x648-1740609184.jpg",
         "title": "Reporter suggests Half-Life 3 will be a Steam Machine launch title - Ars Technica",
         "description": "\u201cEverybody I\u2019ve talked to are still adamant,\u201d even after previous rumors didn\u2019t pan out.",
         "source_link": "https://arstechnica.com/gaming/2025/12/journalist-insists-half-life-3-will-launch-with-steam-machine-in-spring-2026/"
       },
       {
-        "rank": 5,
-        "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/12/08/cabb9eef/374-elderscrolls.jpg.webp",
-        "title": "Bethesda Gives Us An Update On The Elder Scrolls VI Development - Game Informer",
-        "description": "We get an update from Bethesda leadership on the long-awaited Elder Scrolls VI.",
-        "source_link": "https://gameinformer.com/interview/2025/12/16/bethesda-gives-us-an-update-on-the-elder-scrolls-vi-development"
-      },
-      {
-        "rank": 6,
-        "image": "https://tii.imgix.net/production/articles/16260/5b38c8e5-e1f8-4e46-8c4f-a99ac91814b4.png?fm=jpg&auto=compress&w=1200&frame=0",
-        "title": "Inside Apple\u2019s iPhone Road Map, From Foldable Screens to Curved Glass Cases - The Information",
-        "description": "The iPhone family is growing again. Over the next two years, Apple is planning a major expansion of its smartphone product line that could see it selling at least seven new models of its flagship device by fall 2027, up from five iPhone models today, accordin\u2026",
-        "source_link": "https://www.theinformation.com/articles/inside-apples-iphone-road-map-foldable-screens-curved-glass-cases"
-      },
-      {
-        "rank": 7,
-        "image": "https://c02.purpledshub.com/uploads/sites/39/2025/12/grx-open-pic.jpeg?w=1200",
-        "title": "Shimano\u2019s new GRX RX717 brings wireless gravel Di2 to the masses - BikeRadar",
-        "description": "Shimano have launched a more affordable RX717 fully wireless range of components, which will finally see the Japanese component specialists compete with SRAM's Rival AXS XPLR.",
-        "source_link": "https://www.bikeradar.com/news/shimano-new-grx-rx717"
-      },
-      {
-        "rank": 8,
-        "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/Audi_Tribute_TS2X.jpg",
-        "title": "Audi\u2019s Inline-Five Engine Is 50 Years Old And Still Weird - The Autopian",
-        "description": "When I think about Audi in racing, only one thing comes to mind: Group B rally, where the company\u2019s Quattro all-wheel drive system and turbo five-cylinder engine revolutionized the sport with its incredible traction advantages, leading to 24 victories and fou\u2026",
-        "source_link": "https://www.theautopian.com/audis-inline-five-engine-is-50-years-old-and-still-weird/"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.macrumors.com/t/HEuHuvcC5_M2ULjnvnp0paqpmS8=/2250x/article-new/2022/12/iMac-Pro-Mock-Graphic-Feature.jpg",
-        "title": "Apple Developing iMac Pro With M5 Max Chip - MacRumors",
-        "description": "Apple is developing a high-end iMac featuring the M5 Max chip, according to information from leaked internal software.   The finding comes from...",
-        "source_link": "https://www.macrumors.com/2025/12/16/apple-developing-imac-with-m5-max/"
-      },
-      {
         "rank": 10,
-        "image": "https://www.bgr.com/img/gallery/12-common-windows-apps-you-should-uninstall-immediately-according-to-experts/l-intro-1765554241.jpg",
-        "title": "12 Common Windows Apps You Should Uninstall Immediately, According To Experts - bgr.com",
-        "description": "According to experts, Windows apps such as Sound Recorder, Microsoft To Do, Microsoft Clipchamp, and Media Player don't serve much purpose and eat up resources.",
-        "source_link": "https://www.bgr.com/2050297/common-windows-apps-should-uninstall-according-experts/"
+        "image": "https://assets-prd.ignimgs.com/2025/12/09/the-best-nintendo-game-2025-1765291782492.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "The Best Nintendo Game of 2025 - IGN",
+        "description": "From Mario Kart's roadtrip across an open world, to Donkey Kong's groundbreaking new adventure, these are the best Nintendo Switch games of 2025.",
+        "source_link": "https://www.ign.com/articles/the-best-nintendo-game-of-2025"
       }
     ],
     "trending_movies": [
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/18Kbb0qeCxwzna0W6a9gEMZuizF.jpg",
-        "title": "Bugonia",
-        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
-        "source_link": "https://www.themoviedb.org/movie/701387"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/yXGM0cg3mPZlB2kJkFVJo1crrWs.jpg",
         "title": "The Housemaid",
         "description": "A woman with a troubled past accepts a job as a live-in maid for a wealthy, seemingly perfect family....",
         "source_link": "https://www.themoviedb.org/movie/1368166"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/18Kbb0qeCxwzna0W6a9gEMZuizF.jpg",
+        "title": "Bugonia",
+        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
+        "source_link": "https://www.themoviedb.org/movie/701387"
       }
     ]
   }
