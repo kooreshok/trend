@@ -1,5 +1,5 @@
 {
-  "last_updated": "December 17, 2025, 06:27 UTC",
+  "last_updated": "December 17, 2025, 07:19 UTC",
   "categories": {
     "tech_news": [
       {
@@ -18,45 +18,52 @@
       },
       {
         "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/LG-Micro-RGB-evo.jpg?quality=90&strip=all&crop=0%2C7.037692781137%2C100%2C85.924614437726&w=1200",
+        "title": "A new Micro RGB TV is coming from LG - The Verge",
+        "description": "LG\u2019s first ever Micro RGB TV will debut at CES 2026 with 75-, 86-, and 100-inch sizes.",
+        "source_link": "https://www.theverge.com/news/844885/lg-micro-rgb-evo-led-tv-ces-2026"
+      },
+      {
+        "rank": 4,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Mous-Pixel-Watch-4-charger.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "New Mous Pixel Watch 4 Charger is the first 3rd-party dock with \u2018official\u2019 hardware - 9to5Google",
         "description": "Mous has released the first official, third-party dock for the Pixel Watch 4. It comes just over two months after the wearable launched.",
         "source_link": "http://9to5google.com/2025/12/15/mous-pixel-watch-4-charger/"
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "image": "https://images.nintendolife.com/29a336570c9d2/large.jpg",
+        "title": "Assassin's Creed Shadows Title Update 1.1.7 Out This Week On Switch 2, Here Are The Patch Notes - Nintendo Life",
+        "description": "Switch 2 version resolves crashes and stability issues",
+        "source_link": "https://www.nintendolife.com/news/2025/12/assassins-creed-shadows-title-update-1-1-7-out-this-week-on-switch-2-here-are-the-patch-notes"
+      },
+      {
+        "rank": 6,
+        "image": "https://images.macrumors.com/t/xLosFUpamTTG6O8V3ejjWJu-Akc=/2500x/article-new/2025/12/iOS-26.3-Feature.jpg",
+        "title": "iOS 26.3 Beta 1 Features: What's New So Far - MacRumors",
+        "description": "Apple is testing iOS 26.3, the next version of iOS 26 that will launch around January. Since iOS 26.3's testing is happening over the holidays,...",
+        "source_link": "https://www.macrumors.com/2025/12/15/ios-26-3-beta-1-features/"
+      },
+      {
+        "rank": 7,
         "image": "https://images.macrumors.com/t/sJR4ML-uwT8mRNH0yIK6zAfSCG8=/2048x/article-new/2024/09/Apple-Logo-Top-Half.jpeg",
         "title": "Early iOS 26 Software Leak Uncovers Dozens of Upcoming Apple Features - MacRumors",
         "description": "Software from an iPhone prototype running an early build of iOS 26 leaked last week, giving us a glimpse at future Apple devices and iOS features. We...",
         "source_link": "https://www.macrumors.com/2025/12/15/ios-software-leak-apple-features/"
       },
       {
-        "rank": 5,
+        "rank": 8,
         "image": "https://supercarblondie.com/wp-content/uploads/Fake-iPhone-17.webp",
         "title": "Canada man buys a fake iPhone 17 Pro Max and is left stunned at what turns up - supercarblondie.com",
         "description": "This Canadian tech guru unboxed the latest fake iPhone 17 Pro Max on the market, and is left stunned at a juicier battery but a sub-par product",
         "source_link": "https://supercarblondie.com/fake-iphone-17-pro-max-left-man-stunned-at-what-turns-up/"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://helios-i.mashable.com/imagery/articles/03swsdeMMQegS0OOiyUnlUK/hero-image.fill.size_1200x675.v1765814247.jpg",
         "title": "Meet \u2018Fuzozo,\u2019 the AI emotional companion debuting at CES 2026 - Mashable",
         "description": "You can carry it around like a Labubu.",
         "source_link": "https://mashable.com/article/fuzozo-ai-emotional-companion-ces-2026"
-      },
-      {
-        "rank": 7,
-        "image": "https://futurism.com/wp-content/uploads/2025/12/amazon-deletes-ai-recap-fallout.jpg?w=1200",
-        "title": "Amazon Deletes AI-Generated Recap of \"Fallout\" Season 1 After It's Called Out for Being Full of Errors - Futurism",
-        "description": "Amazon's AI video recap tool has already made an enormous mess by bungling up the details of its hit show, \"Fallout.\"",
-        "source_link": "http://futurism.com/artificial-intelligence/amazon-deletes-ai-recap-fallout"
-      },
-      {
-        "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK069_APPLE_TV_C.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
-        "title": "Apple TV adds Google Cast streaming, but only on Android - The Verge",
-        "description": "The Android version of Apple TV finally has support for Google Cast, making it easier to watch shows like Pluribus on a nearby TV.",
-        "source_link": "https://www.theverge.com/news/844867/apple-tv-google-cast-android"
       }
     ],
     "trending_movies": [
@@ -90,17 +97,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
-        "title": "The Running Man",
-        "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
-        "source_link": "https://www.themoviedb.org/movie/798645"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
         "title": "Disclosure Day",
         "description": "If you found out we weren\u2019t alone in the universe, would that frighten you?...",
         "source_link": "https://www.themoviedb.org/movie/1275779"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+        "title": "The Running Man",
+        "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
+        "source_link": "https://www.themoviedb.org/movie/798645"
       },
       {
         "rank": 7,
@@ -111,24 +118,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
-        "title": "It Was Just an Accident",
-        "description": "Vahid, an Azerbaijani auto mechanic, was once imprisoned by Iranian authorities. During his sentence, he was interrogated blindfolded. One day, a man ...",
-        "source_link": "https://www.themoviedb.org/movie/1456349"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/j3kM0tMW7EQaOrit0JW9NvoPPrp.jpg",
         "title": "The Thing with Feathers",
         "description": "After a tragic loss, a grieving father tries to raise his young sons whilst dealing with an unlikely, unpredictable, and uninvited houseguest....",
         "source_link": "https://www.themoviedb.org/movie/1127628"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
+        "title": "Chainsaw Man - The Movie: Reze Arc",
+        "description": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest b...",
+        "source_link": "https://www.themoviedb.org/movie/1218925"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/ygO9lowFMXWymATCrhoQXd6gCEh.jpg",
-        "title": "Sisu",
-        "description": "When an ex-soldier who discovers gold in the Lapland wilderness tries to take the loot into the city, German soldiers led by a brutal SS officer battl...",
-        "source_link": "https://www.themoviedb.org/movie/840326"
+        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "title": "Bugonia",
+        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
+        "source_link": "https://www.themoviedb.org/movie/701387"
       }
     ]
   }
