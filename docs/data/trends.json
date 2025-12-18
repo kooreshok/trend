@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 18, 2025, 10:19 UTC",
+  "last_updated": "December 18, 2025, 11:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://ep1.pinkbike.org/p4pb29138562/p4pb29138562.jpg",
+        "title": "Product of the Year Nominees - Pinkbike",
+        "description": "The products that raised the bar the highest in their own categories.",
+        "source_link": "https://www.pinkbike.com/news/2025-pinkbike-awards-product-of-the-year-nominees.html"
+      },
+      {
+        "rank": 2,
         "image": "https://static.tweaktown.com/news/1/0/109388_1_steam-replay-2025-is-here-so-you-can-see-what-youve-been-playing-throughout-the-year_full.jpg",
         "title": "Steam Replay 2025 shows that only 14% of all user playtime was spent playing new PC games - TweakTown",
         "description": "Steam Replay 2025 is here, and in addition to seeing all of your PC gaming stats for the year we learn some interesting things about PC gaming in 2025.",
         "source_link": "https://www.tweaktown.com/news/109388/steam-replay-2025-shows-that-only-14-percent-of-all-user-playtime-was-spent-playing-new-pc-games/index.html"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/07/pixel-launcher-home-screen.jpg?w=1600&h=900&fit=crop",
+        "title": "Google swaps Pixel Launcher search for something worse - Android Police",
+        "description": "All to push AI mode",
+        "source_link": "https://www.androidpolice.com/google-swaps-pixel-launcher-search-for-something-worse/"
+      },
+      {
+        "rank": 4,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/1000013524.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
         "title": "Arcade1Up isn\u2019t dead, maybe - The Verge",
         "description": "Toy company Basic Fun is acquiring \u201cselect assets\u201d of Arcade1Up, according to a statement. Last week, a rumor surfaced that Arcade1Up would be \u201cclosing operations.\u201d",
         "source_link": "https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://images.macrumors.com/t/UrX3EJ-eB5hMT9fNxaS9N4ln1Gg=/2000x/article-new/2025/06/apple-beta-26-lineup.jpg",
+        "title": "Apple's 2026 and 2027 Product Roadmap: Foldable iPhone, iPhone 18 Pro, M5 Macs, and More - MacRumors",
+        "description": "There has been a whirlwind of rumors over the last few days, sourced from leaked internal software designed for the iPhone and the Mac, and news...",
+        "source_link": "https://www.macrumors.com/2025/12/16/apple-product-roadmap-2026/"
+      },
+      {
+        "rank": 6,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6941f0a4b9cd4755963b3a7c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "Where To Find Candleberries In \u2018Arc Raiders\u2019 During The Cold Snap Event And What They\u2019re Used For - Forbes",
+        "description": "Everything you need to know about candleberries in Arc Raiders during the Cold Snap event.",
+        "source_link": "https://www.forbes.com/sites/erikkain/2025/12/16/arc-raiders-cold-snap-candleberries-guide/"
+      },
+      {
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Screenshot-2025-12-16-at-9.00.12%E2%80%AFAM.png?quality=90&strip=all&crop=0,34.601780904843,100,64.463751775413",
         "title": "Alexa Plus\u2019 website is live for some users - The Verge",
         "description": "The website for Amazon\u2019s AI-powered voice assistant previously redirected to an information page. For some users, it\u2019s now more like an Alexa Plus web interface.",
         "source_link": "https://www.theverge.com/news/845678/alexa-dot-com-alexa-plus-website-live"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/R95H_PERS.jpg?quality=90&strip=all&crop=0%2C8.248787127266%2C100%2C83.502425745468&w=1200",
         "title": "Samsung\u2019s 2026 Micro RGB LED TVs can actually fit in your living room - The Verge",
         "description": "The new TVs will range in size from 55 to 100 inches, but pricing details are yet to be released.",
         "source_link": "https://www.theverge.com/news/845760/samsung-micro-rgb-led-ces-2026"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://media.cnn.com/api/v1/images/stellar/prod/chirp-halo-massager-cnnu-04.jpg?c=16x9&q=w_800,c_fill",
         "title": "I finally found an at-home device that alleviates my arthritis in just 20 minutes. Here\u2019s how it works - CNN",
         "description": "I tested the Chirp Halo wireless muscle stimulator for two months. Here\u2019s how the at-home EMS and TENS device helped with my chronic pain, plus my honest opinion about it.",
         "source_link": "https://www.cnn.com/cnn-underscored/reviews/chirp-halo-wireless-muscle-stimulator"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/kensington_trackball1.jpg?quality=90&strip=all&crop=0,10.711277816849,100,78.577444366301",
         "title": "Kensington is pausing production of its Expert Mouse TB800 EQ trackball. - The Verge",
         "description": "",
         "source_link": "https://www.theverge.com/news/845902/kensington-expert-mouse-tb800-eq-trackball-pause-production-sensor-issue"
-      },
-      {
-        "rank": 7,
-        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/trailer-screenshots_07.jpg?w=1600&h=900&fit=crop",
-        "title": "BG3 studio Larian says it's using genAI for Divinity, but not 'looking at trimming down teams to replace them' - Polygon",
-        "description": "Divinity, the next game from Baldur's Gate 3 devs Larian, employs AI and machine learning, but not at the expense of creators, Swen Vincke says.",
-        "source_link": "https://www.polygon.com/divinity-larian-studios-generative-ai-swen-vincke/"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/NotebookLM-tiers-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "NotebookLM rolls out chat history, adds AI Ultra tier - 9to5Google",
-        "description": "After announcing in October, NotebookLM has fully rolled out chat history, while Google AI Ultra subscribers now have expanded usage limits.",
-        "source_link": "http://9to5google.com/2025/12/16/notebooklm-chat-history/"
-      },
-      {
-        "rank": 9,
-        "image": "https://s.yimg.com/ny/api/res/1.2/zH..V8DHh5QhbxaZglRA1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-12/58ec51b0-d9f6-11f0-8d76-cef3b4d7193c",
-        "title": "Apple headphones don't get cheaper than this: EarPods are down to just $11 - Yahoo! Tech",
-        "description": "Tired of charging things? These corded headphones will work with iPhones and iPads both old and new.",
-        "source_link": "https://tech.yahoo.com/audio/deals/article/apple-headphones-dont-get-cheaper-than-this-earpods-are-down-to-just-11-200052019.html"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.bgr.com/img/gallery/4-electronics-you-should-only-buy-from-amazon/l-intro-1765480543.jpg",
-        "title": "4 Electronics You Should Only Buy From Amazon - bgr.com",
-        "description": "Consumers should buy smart TVs, Kindle devices, laptops, and Amazon Basics products from Amazon before any competitors, based on price and return policies.",
-        "source_link": "https://www.bgr.com/2049731/electronics-only-buy-amazon/"
       }
     ],
     "trending_movies": [
@@ -111,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
       },
       {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/hyDL02uwMkJDUVcggnvQi6ND85n.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/iQOIOz8BZ2QLMyFJ7Leo9izSyti.jpg",
+        "title": "10DANCE",
+        "description": "Two dancers, opposites in all but their art, agree to train together for a competition. At first, they clash, but soon become drawn to each other....",
+        "source_link": "https://www.themoviedb.org/movie/1400032"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/hW93OYJnnHwGaGa4S2mNxlEhgsF.jpg",
         "title": "Murder in Monaco",
         "description": "Monaco, 1999. One of the world's richest men dies in his penthouse. This documentary unpacks the mysterious murder of billionaire banker, Edmond Safra...",
         "source_link": "https://www.themoviedb.org/movie/1584619"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
         "title": "Bugonia",
         "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
         "source_link": "https://www.themoviedb.org/movie/701387"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/iQOIOz8BZ2QLMyFJ7Leo9izSyti.jpg",
-        "title": "10DANCE",
-        "description": "Two dancers, opposites in all but their art, agree to train together for a competition. At first, they clash, but soon become drawn to each other....",
-        "source_link": "https://www.themoviedb.org/movie/1400032"
       }
     ]
   }
