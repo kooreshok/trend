@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 18, 2025, 14:18 UTC",
+  "last_updated": "December 18, 2025, 15:18 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Gemini 3 Flash is here, bringing a \u2018huge\u2019 upgrade to the Gemini app - The Verge",
+        "description": "Google is launching Gemini 3 Flash, a more efficient version of its flagship AI model. Gemini 3 Flash will replace the default AI model in the Gemini app and Google\u2019s AI Mode.",
+        "source_link": "https://www.theverge.com/news/845741/gemini-3-flash-google-ai-mode-launch"
+      },
+      {
+        "rank": 2,
+        "image": "https://ep1.pinkbike.org/p4pb28316367/p4pb28316367.jpg",
+        "title": "10 Things I Loved in 2025: Mike Kazimer - Pinkbike",
+        "description": "Everything from powerful brakes to good books (and more).",
+        "source_link": "https://www.pinkbike.com/news/10-things-i-loved-in-2025-mike-kazimer.html"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZZVUDV5TJIFCWNIX6UKH2N4VXE_size-normalized.jpg&w=1440",
+        "title": "Rebuking a Trump climate report, study shows U.S. sea-level rise is accelerating - The Washington Post",
+        "description": "\u201cIt\u2019s not politics. That\u2019s what the data say,\u201d said the study\u2019s author, who examined 70 tide gauges around the country.",
+        "source_link": "https://www.washingtonpost.com/climate-environment/2025/12/17/sea-level-rise-doubling-trump-report/"
+      },
+      {
+        "rank": 4,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/07/Google-Opal.jpg?resize=1200,675",
+        "title": "Google\u2019s vibe-coding tool Opal comes to Gemini - TechCrunch",
+        "description": "The company on Wednesday said it is integrating the tool, which lets you build AI-powered mini apps, inside the Gemini web app, allowing users to create their own custom apps.",
+        "source_link": "https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/"
+      },
+      {
+        "rank": 5,
+        "image": "https://assetsio.gnwcdn.com/redfall-artwork.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "\"Creative efforts are unpredictable\" - Deus Ex designer and former Arkane studio director reflects on its closure after Redfall's disastrous launch - Eurogamer",
+        "description": "Arkane Studios' Harvey Smith has reflected on Microsoft's closure of the studio last year, describing it as \"a shock\" after its run of successes.",
+        "source_link": "https://www.eurogamer.net/deus-ex-designer-former-arkane-studio-director-reflects-on-closure-redfall-disastrous-launch"
+      },
+      {
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258207_OnePlus_15R_review_AJohnson_0002.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "title": "OnePlus 15R review: unbeatable battery life, beatable value - The Verge",
+        "description": "The 15R can go days on a single charge, but its lackluster camera and comparatively high $699 price make it hard to recommend.",
+        "source_link": "https://www.theverge.com/tech/846012/oneplus-15r-review-battery-camera-performance"
+      },
+      {
+        "rank": 7,
         "image": "https://assets-prd.ignimgs.com/2023/11/16/best-consoles-1700170299771.png?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Video Game Physical Software and Hardware Sales Just Had the Worst November in the U.S. Since 1995 - IGN",
         "description": "Last month, November, was a shockingly terrible month for video game sales in the U.S. While we traditionally think of November as a huge sales month what with Black Friday and all, November 2025 was the worst November in video game hardware unit sales, and t\u2026",
         "source_link": "https://www.ign.com/articles/video-game-physical-software-and-hardware-sales-just-had-the-worst-november-in-the-us-since-1995"
       },
       {
-        "rank": 2,
-        "image": "https://ep1.pinkbike.org/p4pb29138562/p4pb29138562.jpg",
-        "title": "Product of the Year Nominees - Pinkbike",
-        "description": "The products that raised the bar the highest in their own categories.",
-        "source_link": "https://www.pinkbike.com/news/2025-pinkbike-awards-product-of-the-year-nominees.html"
-      },
-      {
-        "rank": 3,
-        "image": "https://assets-prd.ignimgs.com/2025/12/17/er-1765970261981.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Elden Ring: Nightreign Update 1.03.1 Is a Big One, Makes Key Balance Changes and Adds New Content for the Forsaken Hollows DLC - IGN",
-        "description": null,
-        "source_link": "https://www.ign.com/articles/elden-ring-nightreign-update-1031-is-a-big-one-makes-key-balance-changes-and-adds-new-content-for-the-forsaken-hollows-dlc"
-      },
-      {
-        "rank": 4,
-        "image": "https://imgeucdn.gamespress.com/cdn/files/Games%20Press/2025/12/170929-9dccec56/key_art.jpg?w=360&mode=max&otf=y&quality=90&format=jpg&bgcolor=white&sky=3616396728d0b78c54469ff40522d333c0ce831d2374adb67b36ea6b923f821e",
-        "title": "MicroProse and Geoff Crammond Reunite to Revive a Racing Legend - Games Press",
-        "description": "Updated versions of legendary racing games to return from the 1990s and early 2000s.",
-        "source_link": "https://www.gamespress.com/MicroProse-and-Geoff-Crammond-Reunite-to-Revive-a-Racing-Legend"
-      },
-      {
-        "rank": 5,
-        "image": "https://assetsio.gnwcdn.com/Coven-of-the-Chicken-Foot---Announcement-Trailer-1-42-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Generative AI is \"a snake eating its own tail\" says The Last of Us co-director, but the term AI is easily misinterpreted - Eurogamer",
-        "description": "The Last of Us co-director Bruce Straley has described generative AI as \"a snake eating its own tail\", discussing how use of the tech can be misinterpreted.",
-        "source_link": "https://www.eurogamer.net/generative-ai-is-a-snake-eating-its-own-tail-says-the-last-of-us-co-director-but-the-term-ai-is-easily-misinterpreted"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.timeextension.com/91fd1d23f5fb3/large.jpg",
-        "title": "30 Years On, Namco's Smash Bros Precursor 'The Outfoxies' Is Finally Coming To Consoles - Time Extension",
-        "description": "Joins the Arcade Archives range this week",
-        "source_link": "https://www.timeextension.com/news/2025/12/30-years-on-namcos-smash-bros-precursor-the-outfoxies-is-finally-coming-to-consoles"
-      },
-      {
-        "rank": 7,
-        "image": "https://static.tweaktown.com/news/1/0/109388_1_steam-replay-2025-is-here-so-you-can-see-what-youve-been-playing-throughout-the-year_full.jpg",
-        "title": "Steam Replay 2025 shows that only 14% of all user playtime was spent playing new PC games - TweakTown",
-        "description": "Steam Replay 2025 is here, and in addition to seeing all of your PC gaming stats for the year we learn some interesting things about PC gaming in 2025.",
-        "source_link": "https://www.tweaktown.com/news/109388/steam-replay-2025-shows-that-only-14-percent-of-all-user-playtime-was-spent-playing-new-pc-games/index.html"
-      },
-      {
         "rank": 8,
-        "image": "https://www.deseret.com/resizer/v2/TSU2ZBUXN5FKLBVHWOQYZQBJ34.jpeg?focal=2036%2C1878&auth=b1bc8eb5a8c752a1baa6c17bc365abb81b8dc5a546db153aa6c77cb1e57d3f50&width=630",
-        "title": "The hidden cost of \u2018just checking\u2019 your smartphone - Deseret News",
-        "description": "From the first buzz in the morning to the last ping at night, nonstop alerts are linked to more mental slips, stress, lost sleep and addictive behavior.",
-        "source_link": "https://www.deseret.com/business/2025/12/16/phone-pickups/"
+        "image": "https://assetsio.gnwcdn.com/ai-vo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "\"The effect is, frankly, catastrophic\" - the voice actors and unions fighting back against gaming's controversial use of AI - Eurogamer",
+        "description": "Developers are increasingly experimenting with AI technology, but what does that mean for the profession of voice acting?",
+        "source_link": "https://www.eurogamer.net/video-game-publishers-developers-normalise-ai-tools-voice-work-ethical-unions-actors-fighting-back"
       },
       {
         "rank": 9,
-        "image": "https://images.nintendolife.com/c5d8d1c8f2a4c/large.jpg",
-        "title": "Pikmin 4 Has Been Updated To Version 1.1.1, Here Are The Full Patch Notes - Nintendo Life",
-        "description": "Download it today",
-        "source_link": "https://www.nintendolife.com/news/2025/12/pikmin-4-has-been-updated-to-version-1-1-1-here-are-the-full-patch-notes"
+        "image": "https://www.gtplanet.net/wp-content/uploads/2025/12/image-28.jpg",
+        "title": "Forza Motorsport Placed on Life Support as Microsoft Confirms No More Updates Planned - GTPlanet",
+        "description": "The official Forza website has confirmed what we all-but knew already in its year-end round-up for the franchise: Forza Motorsport is just about dead, with no more updates planned for the title...",
+        "source_link": "https://www.gtplanet.net/forza-motorsport-placed-on-life-support-as-microsoft-confirms-no-more-updates-planned/"
       },
       {
         "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/1000013524.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-        "title": "Arcade1Up isn\u2019t dead, maybe - The Verge",
-        "description": "Toy company Basic Fun is acquiring \u201cselect assets\u201d of Arcade1Up, according to a statement. Last week, a rumor surfaced that Arcade1Up would be \u201cclosing operations.\u201d",
-        "source_link": "https://www.theverge.com/news/846034/arcade1up-basic-fun-dead-home-arcade"
+        "image": "https://pyxis.nymag.com/v1/imgs/b80/a90/281fca254411e67db1346864703d6419ee-NYMAG-NANNY.1x.rsocial.w1200.jpg",
+        "title": "New York City Nannies Have Had It - The Cut",
+        "description": "New York City families have always been demanding, but a new generation of insecure, controlling parents, especially those influenced by gentle parenting, is too much to handle.",
+        "source_link": "http://www.thecut.com/article/nyc-nannies-are-fed-up.html"
       }
     ],
     "trending_movies": [
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
-        "title": "Bugonia",
-        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
-        "source_link": "https://www.themoviedb.org/movie/701387"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/yXGM0cg3mPZlB2kJkFVJo1crrWs.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quic...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "title": "Bugonia",
+        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
+        "source_link": "https://www.themoviedb.org/movie/701387"
       }
     ]
   }
