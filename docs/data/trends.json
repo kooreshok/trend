@@ -1,62 +1,76 @@
 {
-  "last_updated": "December 20, 2025, 18:21 UTC",
+  "last_updated": "December 20, 2025, 19:12 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://ep1.pinkbike.org/p4pb29138562/p4pb29138562.jpg",
+        "title": "Mountain Bike of the Year Nominees - Pinkbike",
+        "description": "This year's contenders include everything from a World Cup winning DH machine to a fast and friendly trail bike.",
+        "source_link": "https://www.pinkbike.com/news/2025-pinkbike-awards-mountain-bike-of-the-year-nominees.html"
+      },
+      {
+        "rank": 2,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/12/imgi_11_asset_morphing.webp?w=747",
+        "title": "Netflix acquires gaming avatar maker Ready Player Me - TechCrunch",
+        "description": "The gaming startup will allow Netflix subscribers to create avatars that can extend across gaming titles.",
+        "source_link": "https://techcrunch.com/2025/12/19/netflix-acquires-gaming-avatar-maker-ready-player-me/"
+      },
+      {
+        "rank": 3,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJ4oKPD.8xt0/v0/1200x675.jpg",
+        "title": "Blizzard President Talks Culture, Bonuses and Releasing More Games - Bloomberg.com",
+        "description": "Johanna Faries, who took over as president of Blizzard in 2024, reveals what\u2019s coming from the storied studio",
+        "source_link": "https://www.bloomberg.com/news/newsletters/2025-12-19/blizzard-president-johanna-faries-on-culture-bonuses-and-releasing-more-games"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vrg_illo_trump_phone_np.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Who owns Trump Mobile? - The Verge",
+        "description": "Which part of the Trump empire owns Trump Mobile, and how does a former FBI agent in Florida fit in?",
+        "source_link": "https://www.theverge.com/tech/848029/trump-mobile-ownership-structure-licensing"
+      },
+      {
+        "rank": 5,
+        "image": "https://images.ctfassets.net/s5n2t79q9icq/2TrbDYagjAJtfhcuXZS8fC/c2bdcac1520ff78c5401031fd8eebae3/ECL_Sygg__Wanderwine_Wisdom_960x540.jpg",
+        "title": "Where to Find Lorwyn Eclipsed Previews - Magic: The Gathering",
+        "description": "Our return to the plane of Lorwyn-Shadowmoor is here! Prepare for a pastoral preview season when Lorwyn Eclipsed debuts on January 5, 2026.",
+        "source_link": "https://magic.wizards.com/en/news/announcements/where-to-find-lorwyn-eclipsed-previews"
+      },
+      {
+        "rank": 6,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/ugreen-magflow-qi2-pixel-10-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "UGreen\u2019s Qi2 25W wireless charger is a perfectly portable Pixel 10 travel dock [Gallery] - 9to5Google",
+        "description": "There are literally countless Qi2 charging docks available for the Pixel 10 series, each one with a different type of...",
+        "source_link": "http://9to5google.com/2025/12/19/ugreen-qi2-25w-charger-google-pixel-10-review/"
+      },
+      {
+        "rank": 7,
+        "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/12/the-backlog-cyberp2077-2.jpg",
+        "title": "\u2018Cyberpunk 2077\u2019 Walked A Long Road To Redemption - Defector",
+        "description": "Welcome to The Backlog, a series in which we will take a look back at 12 games from 2020 that, in one way or another, had a lasting impact on the video game industry. When I first started ruminating on a video game series for Defector, I was playing Cyberpunk\u2026",
+        "source_link": "https://defector.com/cyberpunk-2077-walked-a-long-road-to-redemption"
+      },
+      {
+        "rank": 8,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/ios-26-2-settings.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple might be requiring iPhone users to install iOS 26 for security fixes - 9to5Mac",
+        "description": "Apple released iOS 26.2 last week with important security fixes. At the same time, it also shipped iOS 18.7.3 for...",
+        "source_link": "https://9to5mac.com/2025/12/19/ios-26-2-iios-18-7-3-update-options-security/"
+      },
+      {
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_PHONES.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Phones were fashionable again in 2025 - The Verge",
         "description": "From the wooden-back Motorola Razr Ultra to the iPhone 17 Pro\u2019s vibrant turn in Cosmic Orange, phones made more fashion statements than usual in 2025.",
         "source_link": "https://www.theverge.com/tech/842190/2025-smartphones-design-color-fashion"
       },
       {
-        "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/bmx-magsafe.jpeg?quality=90&strip=all&crop=0%2C11.384641737356%2C100%2C77.230716525288&w=1200",
-        "title": "Semi-solid state MagSafe power banks arrive from the founder of Hyper - The Verge",
-        "description": "BMX SolidSafe semi-solid state MagSafe power banks from the founder of Hyper are now available. They\u2019re safer and last longer than typical Li-ion power banks.",
-        "source_link": "https://www.theverge.com/news/847925/bmx-hyper-semi-solid-state-power-banks"
-      },
-      {
-        "rank": 3,
-        "image": "https://media.wired.com/photos/69407f7b10528e02715b1990/191:100/w_1280,c_limit/gear-streaming-2249574853.jpg",
-        "title": "How to Quickly Find Out What's Streaming on Multiple Services at Once - WIRED",
-        "description": "Build a watchlist of all the movies and shows you want to watch, no matter where they\u2019re streaming.",
-        "source_link": "https://www.wired.com/story/how-to-find-out-whats-streaming-and-where/"
-      },
-      {
-        "rank": 4,
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLwTg7kTeuQORUcne_nRd81FBUZhq23jpa3MWAlljTHtPVTIRdA7VHw-j7xnc1nOqq5c2Zvz2sr8bO7rrhaUsXAxTAJKudyNugxcmD0oDX3buOXTDb2apFV99fEii14gDwpnVm5-Vi4GMG_nWYrkTn_s4mjPYFAXqShWw8dKa8-ZiMTHkfzea1LQDys4yj/s790-rw-e365/watchgaurd.jpg",
-        "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability - The Hacker News",
-        "description": "WatchGuard fixed CVE-2025-14733, a critical Fireware OS VPN flaw with CVSS 9.3 that is actively exploited in the wild.",
-        "source_link": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html"
-      },
-      {
-        "rank": 5,
-        "image": "https://media.wired.com/photos/694312c6108a5ce71b476925/191:100/w_1280,c_limit/This-Chrome-Extension-Turns-LinkedIn-Posts-About-AI%20Into%20Facts-About-Allen-Iverson-Gear-1258965952.jpg",
-        "title": "This Chrome Extension Turns LinkedIn Posts About AI Into Facts About Allen Iverson - WIRED",
-        "description": "The developers of a browser tool that changes AI-centric LinkedIn posts to Allen Iverson facts want to help \u201ctake back control of your experience of the internet.\u201d",
-        "source_link": "https://www.wired.com/story/chrome-extension-linkedin-allen-iverson/"
-      },
-      {
-        "rank": 6,
-        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/10/ROG-Xbox-Ally-Reveal-Dual-Device-c1c12539215c0138853f.jpg",
-        "title": "Welcome to Your New ROG Xbox Ally: Essential Tips for Getting Started - Xbox Wire",
-        "description": "Picking up a new ROG Xbox Ally or ROG Xbox Ally X? To help you hit the ground running, we\u2019ve pulled together some must-know tips to make the most out of your new handheld.",
-        "source_link": "https://news.xbox.com/en-us/2025/12/18/rog-xbox-ally-handheld-essential-tips-getting-started/"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets-prd.ignimgs.com/2025/12/18/feature-image-100-1766074134059.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Deals for Today: Last Chance MTG Deals and a Bargain 2025 Apple iPad Air - IGN",
-        "description": "Deals for Today brings last-chance MTG savings, a discounted 2025 Apple iPad Air, and an RTX 5070 Ti gaming laptop now cheaper than Black Friday.",
-        "source_link": "https://www.ign.com/articles/deals-for-today-last-chance-mtg-deals-and-a-bargain-2025-apple-ipad-air"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.cnet.com/a/img/resize/1889040886d5110174d5d07e45fa38f4af5eb344/hub/2025/12/09/83eab485-4731-4a32-83f5-cc7882b4ac73/google-pixel-10.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Google Introduces New Android Features in Pixel Beta Update - CNET",
-        "description": "Participants in the Android Beta Program get first dibs on the next update, which is set to land in official form next year",
-        "source_link": "https://www.cnet.com/tech/mobile/google-introduces-new-android-features-in-pixel-beta-update/"
+        "rank": 10,
+        "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/realms/javarealms_dec25_header.jpg",
+        "title": "New on Java Realms: Celebrate Java Realms Day, C\u2019mon! - Minecraft",
+        "description": "The latest batch of featured maps is here! Grab your Realms-nog, kick-back, and enjoy the December 2025 edition of New on Java Realms!",
+        "source_link": "https://www.minecraft.net/en-us/article/new-on-java-realms-december-20250"
       }
     ],
     "trending_movies": [
@@ -76,10 +90,10 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",
-        "title": "Sisu: Road to Revenge",
-        "description": "Returning to the house where his family was brutally murdered during the war, \u2018the man who refuses to die\u2019 dismantles it, loads it on a truck, and is ...",
-        "source_link": "https://www.themoviedb.org/movie/1223601"
+        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
+        "source_link": "https://www.themoviedb.org/movie/812583"
       },
       {
         "rank": 4,
@@ -90,45 +104,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
-        "title": "Wake Up Dead Man: A Knives Out Mystery",
-        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
-        "source_link": "https://www.themoviedb.org/movie/812583"
+        "image": "https://image.tmdb.org/t/p/w200/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",
+        "title": "Sisu: Road to Revenge",
+        "description": "Returning to the house where his family was brutally murdered during the war, \u2018the man who refuses to die\u2019 dismantles it, loads it on a truck, and is ...",
+        "source_link": "https://www.themoviedb.org/movie/1223601"
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
-        "title": "Die My Love",
-        "description": "Grace and her partner Jackson move into an old country house. She pursues her dream of writing, and the couple welcome a baby soon after. However, wit...",
-        "source_link": "https://www.themoviedb.org/movie/1033148"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/qKKG22O5pFxqglG0oMjWTjQWCNl.jpg",
         "title": "A Time for Bravery",
         "description": "A psychoanalyst on community service aids an agent shattered by infidelity; together, they will confront danger and discover second chances....",
         "source_link": "https://www.themoviedb.org/movie/1589891"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
-      },
-      {
-        "rank": 9,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
         "title": "The Running Man",
         "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
         "source_link": "https://www.themoviedb.org/movie/798645"
       },
       {
-        "rank": 10,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
         "title": "The Long Walk",
         "description": "In a dystopian, alternate-America ruled by a totalitarian regime, fifty teenage boys take part in a deadly annual walking contest, forced to maintain ...",
         "source_link": "https://www.themoviedb.org/movie/604079"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/sLNy9Npu1YoK1ednpXUlUt9vCBj.jpg",
+        "title": "10DANCE",
+        "description": "Two dancers, opposites in all but their art, agree to train together for a competition. At first, they clash, but soon become drawn to each other....",
+        "source_link": "https://www.themoviedb.org/movie/1400032"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
+        "title": "Die My Love",
+        "description": "Grace and her partner Jackson move into an old country house. She pursues her dream of writing, and the couple welcome a baby soon after. However, wit...",
+        "source_link": "https://www.themoviedb.org/movie/1033148"
       }
     ]
   }
