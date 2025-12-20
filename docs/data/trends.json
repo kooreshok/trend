@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 20, 2025, 20:17 UTC",
+  "last_updated": "December 20, 2025, 21:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/12/Google-Assistant.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Gemini will replace Google Assistant on Android in 2026 - 9to5Google",
+        "description": "Back in March, Google said Gemini would replace Assistant on Android phones this year. That \u201cupgrade\u201d is now set for 2026.",
+        "source_link": "http://9to5google.com/2025/12/19/google-assistant-gemini-2026/"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2193480664-1152x648.jpg",
+        "title": "Strava puts popular \u201cYear in Sport\u201d recap behind an $80 paywall - Ars Technica",
+        "description": "Strava\u2019s most viral feature is suddenly locked away.",
+        "source_link": "https://arstechnica.com/culture/2025/12/strava-puts-popular-year-in-sport-recap-behind-an-80-paywall/"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/ai-gpu-minsweeper-1152x648.jpg",
+        "title": "We asked four AI coding agents to rebuild Minesweeper \u2014the results were explosive - Ars Technica",
+        "description": "How do four modern LLMs do at re-creating a simple Windows gaming classic?",
+        "source_link": "https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/"
+      },
+      {
+        "rank": 4,
+        "image": "https://helios-i.mashable.com/imagery/articles/01Tc7kOybAWcE3ovKlhxXKn/hero-image.fill.size_1200x675.v1766090610.jpg",
+        "title": "ChatGPT launches Apps beta: 8 big apps you can try right away - Mashable",
+        "description": "Is this the start of an eventual competitor to the Google and Apple app stores?",
+        "source_link": "https://mashable.com/article/chatgpt-apps-beta-apps-to-try"
+      },
+      {
+        "rank": 5,
+        "image": "https://assets.2k.com/1a6ngf98576c/4zXpfbA9xO397sI262TrDm/6bbefd7d76850e74bcfda880dd76cf10/BL4_KA.png",
+        "title": "Free goodies for the 12 Days of Mercenary Day! - Borderlands | Official Website",
+        "description": "Celebrate the season with a series of festive Borderlands 4 freebies on our social channels!",
+        "source_link": "https://borderlands.2k.com/borderlands-4/news/12-days-of-mercenary-day/"
+      },
+      {
+        "rank": 6,
         "image": "https://ep1.pinkbike.org/p4pb29138562/p4pb29138562.jpg",
         "title": "Mountain Bike of the Year Nominees - Pinkbike",
         "description": "This year's contenders include everything from a World Cup winning DH machine to a fast and friendly trail bike.",
         "source_link": "https://www.pinkbike.com/news/2025-pinkbike-awards-mountain-bike-of-the-year-nominees.html"
       },
       {
-        "rank": 2,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/12/imgi_11_asset_morphing.webp?w=747",
-        "title": "Netflix acquires gaming avatar maker Ready Player Me - TechCrunch",
-        "description": "The gaming startup will allow Netflix subscribers to create avatars that can extend across gaming titles.",
-        "source_link": "https://techcrunch.com/2025/12/19/netflix-acquires-gaming-avatar-maker-ready-player-me/"
-      },
-      {
-        "rank": 3,
+        "rank": 7,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJ4oKPD.8xt0/v0/1200x675.jpg",
         "title": "Blizzard President Talks Culture, Bonuses and Releasing More Games - Bloomberg.com",
         "description": "Johanna Faries, who took over as president of Blizzard in 2024, reveals what\u2019s coming from the storied studio",
         "source_link": "https://www.bloomberg.com/news/newsletters/2025-12-19/blizzard-president-johanna-faries-on-culture-bonuses-and-releasing-more-games"
       },
       {
-        "rank": 4,
+        "rank": 8,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/youtube-shorts-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "YouTube Shorts is testing a new location and fresh phrasing for its Dislike button - 9to5Google",
+        "description": "Google is testing out new ways to improve dislikes on YouTube Shorts, and it could come with hiding the button in a new menu.",
+        "source_link": "http://9to5google.com/2025/12/19/youtube-shorts-testing-new-location-fresh-phrasing-dislike-button/"
+      },
+      {
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vrg_illo_trump_phone_np.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Who owns Trump Mobile? - The Verge",
         "description": "Which part of the Trump empire owns Trump Mobile, and how does a former FBI agent in Florida fit in?",
         "source_link": "https://www.theverge.com/tech/848029/trump-mobile-ownership-structure-licensing"
       },
       {
-        "rank": 5,
+        "rank": 10,
         "image": "https://images.ctfassets.net/s5n2t79q9icq/2TrbDYagjAJtfhcuXZS8fC/c2bdcac1520ff78c5401031fd8eebae3/ECL_Sygg__Wanderwine_Wisdom_960x540.jpg",
         "title": "Where to Find Lorwyn Eclipsed Previews - Magic: The Gathering",
         "description": "Our return to the plane of Lorwyn-Shadowmoor is here! Prepare for a pastoral preview season when Lorwyn Eclipsed debuts on January 5, 2026.",
         "source_link": "https://magic.wizards.com/en/news/announcements/where-to-find-lorwyn-eclipsed-previews"
-      },
-      {
-        "rank": 6,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/ugreen-magflow-qi2-pixel-10-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "UGreen\u2019s Qi2 25W wireless charger is a perfectly portable Pixel 10 travel dock [Gallery] - 9to5Google",
-        "description": "There are literally countless Qi2 charging docks available for the Pixel 10 series, each one with a different type of...",
-        "source_link": "http://9to5google.com/2025/12/19/ugreen-qi2-25w-charger-google-pixel-10-review/"
-      },
-      {
-        "rank": 7,
-        "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2025/12/the-backlog-cyberp2077-2.jpg",
-        "title": "\u2018Cyberpunk 2077\u2019 Walked A Long Road To Redemption - Defector",
-        "description": "Welcome to The Backlog, a series in which we will take a look back at 12 games from 2020 that, in one way or another, had a lasting impact on the video game industry. When I first started ruminating on a video game series for Defector, I was playing Cyberpunk\u2026",
-        "source_link": "https://defector.com/cyberpunk-2077-walked-a-long-road-to-redemption"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/ios-26-2-settings.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple might be requiring iPhone users to install iOS 26 for security fixes - 9to5Mac",
-        "description": "Apple released iOS 26.2 last week with important security fixes. At the same time, it also shipped iOS 18.7.3 for...",
-        "source_link": "https://9to5mac.com/2025/12/19/ios-26-2-iios-18-7-3-update-options-security/"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_PHONES.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Phones were fashionable again in 2025 - The Verge",
-        "description": "From the wooden-back Motorola Razr Ultra to the iPhone 17 Pro\u2019s vibrant turn in Cosmic Orange, phones made more fashion statements than usual in 2025.",
-        "source_link": "https://www.theverge.com/tech/842190/2025-smartphones-design-color-fashion"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/realms/javarealms_dec25_header.jpg",
-        "title": "New on Java Realms: Celebrate Java Realms Day, C\u2019mon! - Minecraft",
-        "description": "The latest batch of featured maps is here! Grab your Realms-nog, kick-back, and enjoy the December 2025 edition of New on Java Realms!",
-        "source_link": "https://www.minecraft.net/en-us/article/new-on-java-realms-december-20250"
       }
     ],
     "trending_movies": [
@@ -111,17 +111,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/qKKG22O5pFxqglG0oMjWTjQWCNl.jpg",
-        "title": "A Time for Bravery",
-        "description": "A psychoanalyst on community service aids an agent shattered by infidelity; together, they will confront danger and discover second chances....",
-        "source_link": "https://www.themoviedb.org/movie/1589891"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
         "title": "The Running Man",
         "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
         "source_link": "https://www.themoviedb.org/movie/798645"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/qKKG22O5pFxqglG0oMjWTjQWCNl.jpg",
+        "title": "A Time for Bravery",
+        "description": "A psychoanalyst on community service aids an agent shattered by infidelity; together, they will confront danger and discover second chances....",
+        "source_link": "https://www.themoviedb.org/movie/1589891"
       },
       {
         "rank": 8,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
         "title": "Die My Love",
         "description": "Grace and her partner Jackson move into an old country house. She pursues her dream of writing, and the couple welcome a baby soon after. However, wit...",
         "source_link": "https://www.themoviedb.org/movie/1033148"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/sLNy9Npu1YoK1ednpXUlUt9vCBj.jpg",
-        "title": "10DANCE",
-        "description": "Two dancers, opposites in all but their art, agree to train together for a competition. At first, they clash, but soon become drawn to each other....",
-        "source_link": "https://www.themoviedb.org/movie/1400032"
       }
     ]
   }
