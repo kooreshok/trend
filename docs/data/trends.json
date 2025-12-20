@@ -1,62 +1,62 @@
 {
-  "last_updated": "December 20, 2025, 14:14 UTC",
+  "last_updated": "December 20, 2025, 15:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_PHONES.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Phones were fashionable again in 2025 - The Verge",
+        "description": "From the wooden-back Motorola Razr Ultra to the iPhone 17 Pro\u2019s vibrant turn in Cosmic Orange, phones made more fashion statements than usual in 2025.",
+        "source_link": "https://www.theverge.com/tech/842190/2025-smartphones-design-color-fashion"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/bmx-magsafe.jpeg?quality=90&strip=all&crop=0%2C11.384641737356%2C100%2C77.230716525288&w=1200",
+        "title": "Semi-solid state MagSafe power banks arrive from the founder of Hyper - The Verge",
+        "description": "BMX SolidSafe semi-solid state MagSafe power banks from the founder of Hyper are now available. They\u2019re safer and last longer than typical Li-ion power banks.",
+        "source_link": "https://www.theverge.com/news/847925/bmx-hyper-semi-solid-state-power-banks"
+      },
+      {
+        "rank": 3,
+        "image": "https://media.wired.com/photos/69407f7b10528e02715b1990/191:100/w_1280,c_limit/gear-streaming-2249574853.jpg",
+        "title": "How to Quickly Find Out What's Streaming on Multiple Services at Once - WIRED",
+        "description": "Build a watchlist of all the movies and shows you want to watch, no matter where they\u2019re streaming.",
+        "source_link": "https://www.wired.com/story/how-to-find-out-whats-streaming-and-where/"
+      },
+      {
+        "rank": 4,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLwTg7kTeuQORUcne_nRd81FBUZhq23jpa3MWAlljTHtPVTIRdA7VHw-j7xnc1nOqq5c2Zvz2sr8bO7rrhaUsXAxTAJKudyNugxcmD0oDX3buOXTDb2apFV99fEii14gDwpnVm5-Vi4GMG_nWYrkTn_s4mjPYFAXqShWw8dKa8-ZiMTHkfzea1LQDys4yj/s790-rw-e365/watchgaurd.jpg",
+        "title": "WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability - The Hacker News",
+        "description": "WatchGuard fixed CVE-2025-14733, a critical Fireware OS VPN flaw with CVSS 9.3 that is actively exploited in the wild.",
+        "source_link": "https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html"
+      },
+      {
+        "rank": 5,
+        "image": "https://media.wired.com/photos/694312c6108a5ce71b476925/191:100/w_1280,c_limit/This-Chrome-Extension-Turns-LinkedIn-Posts-About-AI%20Into%20Facts-About-Allen-Iverson-Gear-1258965952.jpg",
+        "title": "This Chrome Extension Turns LinkedIn Posts About AI Into Facts About Allen Iverson - WIRED",
+        "description": "The developers of a browser tool that changes AI-centric LinkedIn posts to Allen Iverson facts want to help \u201ctake back control of your experience of the internet.\u201d",
+        "source_link": "https://www.wired.com/story/chrome-extension-linkedin-allen-iverson/"
+      },
+      {
+        "rank": 6,
         "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2025/10/ROG-Xbox-Ally-Reveal-Dual-Device-c1c12539215c0138853f.jpg",
         "title": "Welcome to Your New ROG Xbox Ally: Essential Tips for Getting Started - Xbox Wire",
         "description": "Picking up a new ROG Xbox Ally or ROG Xbox Ally X? To help you hit the ground running, we\u2019ve pulled together some must-know tips to make the most out of your new handheld.",
         "source_link": "https://news.xbox.com/en-us/2025/12/18/rog-xbox-ally-handheld-essential-tips-getting-started/"
       },
       {
-        "rank": 2,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/Exynos-2600-announced.jpg",
-        "title": "Samsung announces Exynos 2600: World's first 2nm smartphone chip that might power the Galaxy S26 - Android Authority",
-        "description": "Samsung has announced the Exynos 2600 chip, promising notable gains in performance, efficiency, and thermal behavior.",
-        "source_link": "https://www.androidauthority.com/samsung-exynos-2600-announced-3626595/"
-      },
-      {
-        "rank": 3,
-        "image": "https://www.techpowerup.com/img/m93g66UuSpA86zgv.jpg",
-        "title": "Firefox Dev Clarifies New AI Feature Killswitch: \"I Hope We Can (Re)gain Your Trust Here\" - TechPowerUp",
-        "description": "When Mozilla's new CEO stepped in, and the company announced its pivot to becoming a \"modern AI browser,\" many Firefox users took to the internet to vent both their frustrations and concerns. And rightfully so\u2014Firefox has a history of questionable decisions w\u2026",
-        "source_link": "https://www.techpowerup.com/344245/firefox-dev-clarifies-new-ai-feature-killswitch-i-hope-we-can-re-gain-your-trust-here"
-      },
-      {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/DJI_20251218130832_0158_D.jpg?quality=90&strip=all&crop=4%2C5.3228621291448%2C96%2C89.35427574171&w=1200",
-        "title": "Oh snap, I have a new favorite phone grip - The Verge",
-        "description": "In the war of double-sided magnetic phone grips, Syncwire and OhSnap Snap Grip 5 are the best I\u2019ve tried.",
-        "source_link": "https://www.theverge.com/gadgets/847777/oh-snap-i-have-a-new-favorite-phone-grip"
-      },
-      {
-        "rank": 5,
-        "image": "https://petapixel.com/assets/uploads/2025/12/benro-ne1-1.jpg",
-        "title": "Benro\u2019s Electronic Variable ND Filter Automatically Changes its Strength - PetaPixel",
-        "description": "Benro's upcoming electronic VND filter looks intriguing for photo and video.",
-        "source_link": "https://petapixel.com/2025/12/18/benros-electronic-variable-nd-filter-automatically-changes-its-strength/"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Instagram wants to limit hashtag spam - The Verge",
-        "description": "Instagram will now cap hashtags to five per post, according to Instagram chief Adam Mosseri.",
-        "source_link": "https://www.theverge.com/news/847739/instagram-hashtag-spam-limit"
-      },
-      {
         "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/google-ai-generated-videos-in-the-gemini-app.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "Google\u2019s Gemini app can check videos to see if they were made with Google AI - The Verge",
-        "description": "Google launched a verification feature to its Gemini app that can check if a video was made using Google\u2019s own AI.",
-        "source_link": "https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos"
+        "image": "https://assets-prd.ignimgs.com/2025/12/18/feature-image-100-1766074134059.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Deals for Today: Last Chance MTG Deals and a Bargain 2025 Apple iPad Air - IGN",
+        "description": "Deals for Today brings last-chance MTG savings, a discounted 2025 Apple iPad Air, and an RTX 5070 Ti gaming laptop now cheaper than Black Friday.",
+        "source_link": "https://www.ign.com/articles/deals-for-today-last-chance-mtg-deals-and-a-bargain-2025-apple-ipad-air"
       },
       {
         "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/unigen-15.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple builds single AI model that can see, create and edit images - 9to5Mac",
-        "description": "Apple researchers presented UniGen 1.5, a system that can handle image understanding, generation, and editing within a single model.",
-        "source_link": "https://9to5mac.com/2025/12/18/apple-builds-single-ai-model-that-can-see-create-and-edit-images/"
+        "image": "https://www.cnet.com/a/img/resize/1889040886d5110174d5d07e45fa38f4af5eb344/hub/2025/12/09/83eab485-4731-4a32-83f5-cc7882b4ac73/google-pixel-10.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "Google Introduces New Android Features in Pixel Beta Update - CNET",
+        "description": "Participants in the Android Beta Program get first dibs on the next update, which is set to land in official form next year",
+        "source_link": "https://www.cnet.com/tech/mobile/google-introduces-new-android-features-in-pixel-beta-update/"
       }
     ],
     "trending_movies": [
@@ -76,31 +76,31 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",
-        "title": "Sisu: Road to Revenge",
-        "description": "Returning to the house where his family was brutally murdered during the war, \u2018the man who refuses to die\u2019 dismantles it, loads it on a truck, and is ...",
-        "source_link": "https://www.themoviedb.org/movie/1223601"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/qKKG22O5pFxqglG0oMjWTjQWCNl.jpg",
-        "title": "A Time for Bravery",
-        "description": "A psychoanalyst on community service aids an agent shattered by infidelity; together, they will confront danger and discover second chances....",
-        "source_link": "https://www.themoviedb.org/movie/1589891"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
         "title": "Wake Up Dead Man: A Knives Out Mystery",
         "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
         "source_link": "https://www.themoviedb.org/movie/812583"
       },
       {
-        "rank": 6,
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",
+        "title": "Sisu: Road to Revenge",
+        "description": "Returning to the house where his family was brutally murdered during the war, \u2018the man who refuses to die\u2019 dismantles it, loads it on a truck, and is ...",
+        "source_link": "https://www.themoviedb.org/movie/1223601"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
         "title": "Now You See Me: Now You Don't",
         "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
         "source_link": "https://www.themoviedb.org/movie/425274"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/qKKG22O5pFxqglG0oMjWTjQWCNl.jpg",
+        "title": "A Time for Bravery",
+        "description": "A psychoanalyst on community service aids an agent shattered by infidelity; together, they will confront danger and discover second chances....",
+        "source_link": "https://www.themoviedb.org/movie/1589891"
       },
       {
         "rank": 7,
@@ -111,24 +111,24 @@
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
+        "title": "Die My Love",
+        "description": "Grace and her partner Jackson move into an old country house. She pursues her dream of writing, and the couple welcome a baby soon after. However, wit...",
+        "source_link": "https://www.themoviedb.org/movie/1033148"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
         "title": "The Long Walk",
         "description": "In a dystopian, alternate-America ruled by a totalitarian regime, fifty teenage boys take part in a deadly annual walking contest, forced to maintain ...",
         "source_link": "https://www.themoviedb.org/movie/604079"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/8EpDSwnjMBc9dmTPEYBF4Bixmwf.jpg",
         "title": "Raat Akeli Hai: The Bansal Murders",
         "description": "When members of the Bansal family are found murdered, Inspector Jatil Yadav uncovers a trail of greed, betrayal and secrets tied to a deadly conspirac...",
         "source_link": "https://www.themoviedb.org/movie/1415974"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
-        "title": "Die My Love",
-        "description": "Grace and her partner Jackson move into an old country house. She pursues her dream of writing, and the couple welcome a baby soon after. However, wit...",
-        "source_link": "https://www.themoviedb.org/movie/1033148"
       }
     ]
   }
