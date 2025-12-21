@@ -1,113 +1,113 @@
 {
-  "last_updated": "December 21, 2025, 06:25 UTC",
+  "last_updated": "December 21, 2025, 07:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK452_Google_Antitrust__Monopoly_Kristen_Radtke.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Want to link from Google\u2019s app store to your app? That\u2019ll be $2\u20134 per install - The Verge",
-        "description": "Google will charge fees when Android developers link outside of the Play Store, or use alternative billing systems, and says it\u2019s complying with the Epic injunction.",
-        "source_link": "https://www.theverge.com/news/848540/google-app-fees-external-link-downloads-alternative-payments"
-      },
-      {
-        "rank": 2,
         "image": "https://lifehacker.com/imagery/articles/01KCW499Y2PHAV93MM8A9HFXJT/hero-image.fill.size_1200x675.png",
         "title": "This Tool Can Tell You If Your Home Network Has Been Compromised - Lifehacker",
         "description": "IP Check tells you if your address is involved in malicious scanning.",
         "source_link": "https://lifehacker.com/tech/tool-checks-for-compromised-home-internet"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/NotebookLM-Data-Tables-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "NotebookLM now uses Gemini 3, adds new \u2018Data Tables\u2019 output - 9to5Google",
         "description": "NotebookLM is getting in a few more features before the holidays, including an upgrade to Gemini 3 and Data Tables.",
         "source_link": "http://9to5google.com/2025/12/19/notebooklm-gemini-3-data-tables/"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/DSC09345_processed.webp?quality=90&strip=all&crop=0%2C11.11593343362%2C100%2C77.76813313276&w=1200",
         "title": "Gemini isn\u2019t replacing Google Assistant on Android just yet - The Verge",
         "description": "Google is pushing back its timeline for replacing Google Assistant with Gemini on Android, as it now says it will continue upgrading devices into 2026, rather than by the end of 2025.",
         "source_link": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026"
       },
       {
-        "rank": 5,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4626286-nintendoswitch2logo.jpg",
-        "title": "Nintendo Might Change The Switch 2 Feature Players Complain About Most - GameSpot",
-        "description": "This may be a welcome development for Nintendo Switch 2 players who hate Game-Key Cards.",
-        "source_link": "https://www.gamespot.com/articles/nintendo-might-change-the-switch-2-feature-players-complain-about-most/1100-6537120/"
-      },
-      {
-        "rank": 6,
+        "rank": 4,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/riot-valorant-vanguard-1152x648-1766172890.jpg",
         "title": "Riot Games is making an anti-cheat change that could be rough on older PCs - Ars Technica",
         "description": "BIOS checks will only affect a limited subset of Valorant players for now.",
         "source_link": "https://arstechnica.com/gadgets/2025/12/some-valorant-players-need-to-update-their-pc-bios-to-keep-anti-cheat-software-happy/"
       },
       {
-        "rank": 7,
+        "rank": 5,
         "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/12/19/65429ed8/term2header.jpg.webp",
         "title": "Terminator 2D: No Fate Review - Yesterday\u2019s Battle For Tomorrow - Game Informer",
         "description": "No Fate is a strong retro adaptation of a beloved film, but it is not without some design annoyances that we\u2019ve moved beyond.",
         "source_link": "https://gameinformer.com/review/terminator-2d-no-fate/yesterdays-battle-for-tomorrow"
       },
       {
-        "rank": 8,
-        "image": "https://helios-i.mashable.com/imagery/articles/01Tc7kOybAWcE3ovKlhxXKn/hero-image.fill.size_1200x675.v1766090610.jpg",
-        "title": "ChatGPT launches Apps beta: 8 big apps you can try right away - Mashable",
-        "description": "Is this the start of an eventual competitor to the Google and Apple app stores?",
-        "source_link": "https://mashable.com/article/chatgpt-apps-beta-apps-to-try"
+        "rank": 6,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/xcode-apple-silicon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "You can now watch Stanford\u2019s 2025 SwiftUI development lectures for free - 9to5Mac",
+        "description": "All 16 videos and supporting material from the Spring 2025 version of Stanford's CS193p course are now online, for free.",
+        "source_link": "https://9to5mac.com/2025/12/19/watch-stanford-university-2025-cs193p-ios-development-course/"
       },
       {
-        "rank": 9,
+        "rank": 7,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK072-05.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Netflix is acquiring an avatar company as it moves into party games - The Verge",
+        "description": "Netflix is acquiring avatar company Ready Player Me so that users will be able to build avatars to use in Netflix\u2019s games.",
+        "source_link": "https://www.theverge.com/news/848252/netflix-avatar-company-ready-player-me-acquisition"
+      },
+      {
+        "rank": 8,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2193480664-1152x648.jpg",
         "title": "Strava puts popular \u201cYear in Sport\u201d recap behind an $80 paywall - Ars Technica",
         "description": "Strava\u2019s most viral feature is suddenly locked away.",
         "source_link": "https://arstechnica.com/culture/2025/12/strava-puts-popular-year-in-sport-recap-behind-an-80-paywall/"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/ai-gpu-minsweeper-1152x648.jpg",
         "title": "We asked four AI coding agents to rebuild Minesweeper \u2014the results were explosive - Ars Technica",
         "description": "How do four modern LLMs do at re-creating a simple Windows gaming classic?",
         "source_link": "https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/"
+      },
+      {
+        "rank": 10,
+        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4626250-ds2.jpg",
+        "title": "Kojima On AI: \"We Can't Go Back\" - GameSpot",
+        "description": "\"I think there isn't any point in saying 'We shouldn't use AI' or 'AI is useless.'\"",
+        "source_link": "https://www.gamespot.com/articles/kojima-on-ai-we-cant-go-back/1100-6537112/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/1tUOZQDgZaGqZtrB21MieiXARL2.jpg",
-        "title": "The Great Flood",
-        "description": "When a raging flood traps a researcher and her young son, a call to a crucial mission puts their escape \u2014 and the future of humanity \u2014 on the line....",
-        "source_link": "https://www.themoviedb.org/movie/982843"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",
-        "title": "Sisu: Road to Revenge",
-        "description": "Returning to the house where his family was brutally murdered during the war, \u2018the man who refuses to die\u2019 dismantles it, loads it on a truck, and is ...",
-        "source_link": "https://www.themoviedb.org/movie/1223601"
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/1tUOZQDgZaGqZtrB21MieiXARL2.jpg",
+        "title": "The Great Flood",
+        "description": "When a raging flood traps a researcher and her young son, a call to a crucial mission puts their escape \u2014 and the future of humanity \u2014 on the line....",
+        "source_link": "https://www.themoviedb.org/movie/982843"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
         "title": "Now You See Me: Now You Don't",
         "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
         "source_link": "https://www.themoviedb.org/movie/425274"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
         "title": "Wake Up Dead Man: A Knives Out Mystery",
         "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
         "source_link": "https://www.themoviedb.org/movie/812583"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",
+        "title": "Sisu: Road to Revenge",
+        "description": "Returning to the house where his family was brutally murdered during the war, \u2018the man who refuses to die\u2019 dismantles it, loads it on a truck, and is ...",
+        "source_link": "https://www.themoviedb.org/movie/1223601"
       },
       {
         "rank": 6,
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
-        "title": "Chainsaw Man - The Movie: Reze Arc",
-        "description": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest b...",
-        "source_link": "https://www.themoviedb.org/movie/1218925"
+        "image": "https://image.tmdb.org/t/p/w200/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
+        "title": "The Long Walk",
+        "description": "In a dystopian, alternate-America ruled by a totalitarian regime, fifty teenage boys take part in a deadly annual walking contest, forced to maintain ...",
+        "source_link": "https://www.themoviedb.org/movie/604079"
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
-        "title": "Die My Love",
-        "description": "Grace and her partner Jackson move into an old country house. She pursues her dream of writing, and the couple welcome a baby soon after. However, wit...",
-        "source_link": "https://www.themoviedb.org/movie/1033148"
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
+        "image": "https://image.tmdb.org/t/p/w200/qKKG22O5pFxqglG0oMjWTjQWCNl.jpg",
+        "title": "A Time for Bravery",
+        "description": "A psychoanalyst on community service aids an agent shattered by infidelity; together, they will confront danger and discover second chances....",
+        "source_link": "https://www.themoviedb.org/movie/1589891"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/sZNQmsAjeY2EomhT2xxJeqKMl2w.jpg",
-        "title": "731: Evil Unbound",
-        "description": "Based on true events set during WWII in Northeast China, an ordinary man is thrust into a turbulent fate against the backdrop of the inhumane bacteria...",
-        "source_link": "https://www.themoviedb.org/movie/1321624"
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       }
     ]
   }
