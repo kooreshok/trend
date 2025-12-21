@@ -1,48 +1,48 @@
 {
-  "last_updated": "December 21, 2025, 14:15 UTC",
+  "last_updated": "December 21, 2025, 15:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://gizmodo.com/app/uploads/2025/12/Examples-of-AI-convergences-CREDIT-Hintze-et-al.-Patterns-1200x675.jpg",
+        "title": "AI Image Generators Default to the Same 12 Photo Styles, Study Finds - Gizmodo",
+        "description": "Anything your imagination desires, as long as it's one of just a few options.",
+        "source_link": "https://gizmodo.com/ai-image-generators-default-to-the-same-12-photo-styles-study-finds-2000702012"
+      },
+      {
+        "rank": 2,
+        "image": "https://helios-i.mashable.com/imagery/articles/03mGD9s636lwyLun7UqLYdo/hero-image.fill.size_1200x675.v1766159733.jpg",
+        "title": "Today's Hurdle hints and answers for December 20, 2025 - Mashable",
+        "description": "Everything you need to win.",
+        "source_link": "https://mashable.com/article/hurdle-hints-answers-december-20-2025"
+      },
+      {
+        "rank": 3,
         "image": "https://lifehacker.com/imagery/articles/01KCW499Y2PHAV93MM8A9HFXJT/hero-image.fill.size_1200x675.png",
         "title": "This Tool Can Tell You If Your Home Network Has Been Compromised - Lifehacker",
         "description": "IP Check tells you if your address is involved in malicious scanning.",
         "source_link": "https://lifehacker.com/tech/tool-checks-for-compromised-home-internet"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/Pixel-7-Pro-and-9-Pro-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google releases factory, OTA images for second Pixel December 2025 update - 9to5Google",
         "description": "On Wednesday, Google started rolling out a second December 2025 update for Pixel phones, with factory and OTA images now available.",
         "source_link": "http://9to5google.com/2025/12/19/second-pixel-december-2025-update/"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/NotebookLM-Data-Tables-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "NotebookLM now uses Gemini 3, adds new \u2018Data Tables\u2019 output - 9to5Google",
         "description": "NotebookLM is getting in a few more features before the holidays, including an upgrade to Gemini 3 and Data Tables.",
         "source_link": "http://9to5google.com/2025/12/19/notebooklm-gemini-3-data-tables/"
       },
       {
-        "rank": 4,
-        "image": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/blte23aada9c50f8949/69455322b53df8d9ce1d13f4/The_Legend_of_Heroes_Trails_beyond_the_Horizon.png",
-        "title": "Steam Drops Early Free Slice of Stunning 2026 RPG, Play Now - GAMINGbible",
-        "description": "The Legend of Heroes: Trails beyond the Horizon is an upcoming RPG that has just dropped a free demo for players to try on Steam.",
-        "source_link": "https://www.gamingbible.com/news/platform/steam/legend-of-heroes-demo-pc-047715-20251219"
-      },
-      {
-        "rank": 5,
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/DSC09345_processed.webp?quality=90&strip=all&crop=0%2C11.11593343362%2C100%2C77.76813313276&w=1200",
         "title": "Gemini isn\u2019t replacing Google Assistant on Android just yet - The Verge",
         "description": "Google is pushing back its timeline for replacing Google Assistant with Gemini on Android, as it now says it will continue upgrading devices into 2026, rather than by the end of 2025.",
         "source_link": "https://www.theverge.com/news/848455/google-assistant-gemini-upgrade-2026"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/switch2gkc-1152x648-1766176952.png",
-        "title": "Switch 2 pub backs off Game Key Cards after leaking lower-cost cartridge options - Ars Technica",
-        "description": "Inin suggests new low-cost options allowed it to \u201crecalculate production\u201d for full cartridge.",
-        "source_link": "https://arstechnica.com/gaming/2025/12/cheaper-lower-capacity-switch-2-cartridges-could-mean-fewer-game-key-cards/"
       },
       {
         "rank": 7,
@@ -64,13 +64,6 @@
         "title": "You can now watch Stanford\u2019s 2025 SwiftUI development lectures for free - 9to5Mac",
         "description": "All 16 videos and supporting material from the Spring 2025 version of Stanford's CS193p course are now online, for free.",
         "source_link": "https://9to5mac.com/2025/12/19/watch-stanford-university-2025-cs193p-ios-development-course/"
-      },
-      {
-        "rank": 10,
-        "image": "https://gizmodo.com/app/uploads/2025/12/falcon-9-launches-starlink-satellites-1200x675.jpeg",
-        "title": "A Starlink Satellite Is Tumbling Toward Earth After a Strange Anomaly in Orbit - Gizmodo",
-        "description": "The satellite suffered a sudden drop in altitude, suggesting there may have been a small explosion.",
-        "source_link": "https://gizmodo.com/a-starlink-satellite-is-tumbling-toward-earth-after-a-strange-anomaly-in-orbit-2000701874"
       }
     ],
     "trending_movies": [
@@ -90,17 +83,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-        "title": "Now You See Me: Now You Don't",
-        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
-        "source_link": "https://www.themoviedb.org/movie/425274"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
         "title": "Wake Up Dead Man: A Knives Out Mystery",
         "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
         "source_link": "https://www.themoviedb.org/movie/812583"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+        "title": "Now You See Me: Now You Don't",
+        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
+        "source_link": "https://www.themoviedb.org/movie/425274"
       },
       {
         "rank": 5,
@@ -118,17 +111,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/qKKG22O5pFxqglG0oMjWTjQWCNl.jpg",
-        "title": "A Time for Bravery",
-        "description": "A psychoanalyst on community service aids an agent shattered by infidelity; together, they will confront danger and discover second chances....",
-        "source_link": "https://www.themoviedb.org/movie/1589891"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/qKKG22O5pFxqglG0oMjWTjQWCNl.jpg",
+        "title": "A Time for Bravery",
+        "description": "A psychoanalyst on community service aids an agent shattered by infidelity; together, they will confront danger and discover second chances....",
+        "source_link": "https://www.themoviedb.org/movie/1589891"
       },
       {
         "rank": 9,
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
-        "title": "Avatar",
-        "description": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecti...",
-        "source_link": "https://www.themoviedb.org/movie/19995"
+        "image": "https://image.tmdb.org/t/p/w200/pHyxb2RV5wLlboAwm9ZJ9qTVEDw.jpg",
+        "title": "Chainsaw Man - The Movie: Reze Arc",
+        "description": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest b...",
+        "source_link": "https://www.themoviedb.org/movie/1218925"
       }
     ]
   }
