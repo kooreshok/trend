@@ -1,62 +1,69 @@
 {
-  "last_updated": "December 22, 2025, 12:35 UTC",
+  "last_updated": "December 22, 2025, 13:31 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Installer-110.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+        "title": "Our favorite stuff of 2025 - The Verge",
+        "description": "From Claude Code to the Switch 2, from Puzzmo to Good Hang, here are our favorite things from 2025.",
+        "source_link": "https://www.theverge.com/tech/848567/best-tech-movies-gadgets-2025-installer"
+      },
+      {
+        "rank": 2,
         "image": "https://images.nintendolife.com/563f12a46789a/large.jpg",
         "title": "Nintendo Fans Might Get The Entire Tomb Raider Survivor Trilogy Thanks To Their \"Passionate Response\" - Nintendo Life",
         "description": "But Aspyr \"can't announce anything at the moment\"",
         "source_link": "https://www.nintendolife.com/news/2025/12/nintendo-fans-might-get-the-entire-tomb-raider-survivor-trilogy-thanks-to-their-passionate-response"
       },
       {
-        "rank": 2,
-        "image": "https://images.nintendolife.com/b44c514125efb/large.jpg",
-        "title": "PSA: Skyrim's 'Anniversary Edition' Bundle Is Currently 60% Off, Includes Free Switch 2 Upgrade (Europe) - Nintendo Life",
-        "description": "Must resist...",
-        "source_link": "https://www.nintendolife.com/news/2025/12/psa-skyrims-anniversary-edition-bundle-is-currently-60percent-off-includes-free-switch-2-upgrade-europe"
+        "rank": 3,
+        "image": "https://images.pushsquare.com/67ce16574774f/large.jpg",
+        "title": "Embattled Divinity Dev to Host Q&A with Fans After Tough Week - Push Square",
+        "description": "\"A lot has become lost in translation\"",
+        "source_link": "https://www.pushsquare.com/news/2025/12/embattled-divinity-dev-to-host-qanda-with-fans-after-tough-week"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "image": "https://cdn.mos.cms.futurecdn.net/N9LJcRfBPJ2QoAUzFMPmDF-1548-80.jpg",
+        "title": "Forget sit-ups \u2014 I tried the sprinter bridge instead to boost my core strength, and here's what happened - Tom's Guide",
+        "description": "Mix up your core routine with the sprinter bridge",
+        "source_link": "https://www.tomsguide.com/wellness/fitness/forget-sit-ups-i-tried-the-sprinter-bridge-instead-to-boost-my-core-strength-and-heres-what-happened"
+      },
+      {
+        "rank": 5,
         "image": "https://cdn.mos.cms.futurecdn.net/T4hDRXz2R2Y2hk3hF4LrPR-2560-80.jpg",
         "title": "I\u2019ve been doing this standing exercise for six months and it\u2019s transformed my core strength - Fit&Well",
         "description": "Swap sit-ups for this functional move",
         "source_link": "https://www.fitandwell.com/exercise/strength-workouts/ive-been-doing-this-standing-exercise-for-six-months-and-its-transformed-my-core-strength"
       },
       {
-        "rank": 4,
+        "rank": 6,
+        "image": "https://nintendoeverything.com/wp-content/uploads/prime-4.jpeg",
+        "title": "EDGE #419 review scores \u2013 Metroid Prime 4: Beyond, Kirby Air Riders, more - Nintendo Everything",
+        "description": "EDGE #419 review scores released with some tough verdicts for Metroid Prime 4: Beyond, Kirby Air Riders, and more.",
+        "source_link": "https://nintendoeverything.com/edge-419-review-scores-metroid-prime-4-beyond-kirby-air-riders-more/"
+      },
+      {
+        "rank": 7,
         "image": "https://m-cdn.phonearena.com/images/article/176774-wide-two_1200/Month-and-location-of-Galaxy-S26-series-unveiling-leaked.jpg",
         "title": "Month and location of Galaxy S26 series' unveiling leaked - PhoneArena",
         "description": "You might be surprised by the leaked date of Samsung's next Unpacked event for its flagship phone line.",
         "source_link": "https://www.phonearena.com/news/month-location-galaxy-s26-series-unveiling-leaked_id176774"
       },
       {
-        "rank": 5,
+        "rank": 8,
         "image": "https://assets-prd.ignimgs.com/2025/12/03/best-nintendo-switch-2-console-deal-ign-2-1764771799037.png?width=1280&format=jpg&auto=webp&quality=80",
         "title": "The Best Deals Today: Nintendo Switch 2 + Mario Kart World Bundle, PS5 Pro, and More - IGN",
         "description": null,
         "source_link": "https://www.ign.com/articles/best-deals-for-december-20-2025"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/04/esquie-meeting-the-party-in-clair-obscur-expedition-33.png?w=1600&h=900&fit=crop",
         "title": "Clair Obscur Is Having Its Indie Game Game Of The Year Award Stripped Away Due To AI Use - TheGamer",
         "description": "The Indie Game Awards are disqualifying Expedition 33 and stripping the title and its developer of all its wins.",
         "source_link": "https://www.thegamer.com/clair-obscur-expedition-33-indie-game-awards-goty-stripped-ai-use/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/youtube-music-logo-circle-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "YouTube Music might be settling on this Now Playing redesign - 9to5Google",
-        "description": "For over a year now, YouTube Music has been testing various Now Playing screen redesigns on Android and iOS.",
-        "source_link": "http://9to5google.com/2025/12/20/youtube-music-2025-now-playing-redesign/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjExMTQwNjIwNzI1NTI4MDUy/renpho-heating-pad-amazon-sale-2024.jpg",
-        "title": "Amazon is selling a Samsung Galaxy tablet for $140 - thestreet.com",
-        "description": "Shoppers say it is \"sleek, lightweight, and packed with power.\"",
-        "source_link": "https://www.thestreet.com/deals/samsung-galaxy-tab-a9-11-inch-tablet-amazon-sale"
       }
     ],
     "trending_movies": [
@@ -104,10 +111,10 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
+        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "title": "The Housemaid",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
         "rank": 8,
@@ -118,17 +125,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/534y0Pt72VEAUTV3THKpMxzCoB3.jpg",
-        "title": "Dave Chappelle: The Unstoppable...",
-        "description": "Facing a world gone sideways, comedy icon Dave Chappelle delivers bold truths and potent punchlines in this no-holds-barred special....",
-        "source_link": "https://www.themoviedb.org/movie/1601195"
+        "image": "https://image.tmdb.org/t/p/w200/n92wqmgHhMU0Mzc49AzRUhyhQ65.jpg",
+        "title": "The SpongeBob Movie: Search for SquarePants",
+        "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman \u2013 a mysterious swashbuckling ghost pi...",
+        "source_link": "https://www.themoviedb.org/movie/991494"
       }
     ]
   }
