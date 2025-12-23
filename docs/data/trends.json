@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 22, 2025, 23:16 UTC",
+  "last_updated": "December 23, 2025, 01:19 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/IMG_6545.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "MacBook Pro \u2018overhaul\u2019 launching as soon as next year: Here are five upgrades to expect - 9to5Mac",
+        "description": "Rumors strongly suggest that Apple will be overhauling the MacBook Pro as soon as next year, marking five years since...",
+        "source_link": "https://9to5mac.com/2025/12/21/apple-redesigned-macbook-pro-oled-touch-screen-2026-rumors/"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.jalopnik.com/img/gallery/mazdas-suitcase-car-couldve-had-us-playing-real-life-mario-kart-at-the-airport/l-intro-1766089317.jpg",
+        "title": "Mazda's Suitcase Car Could've Had Us Playing Real-Life Mario Kart At The Airport - Jalopnik",
+        "description": "Built into a standard Samsonite suitcase, these little karts could transform in one minute, then let you zip around at a blazing 19 mph.",
+        "source_link": "https://www.jalopnik.com/2055770/mazda-suitcase-car-real-life-mario-kart/"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.bgr.com/img/gallery/can-your-usb-c-laptop-charger-also-charge-your-phone/l-intro-1765991867.jpg",
+        "title": "Can Your USB-C Laptop Charger Also Charge Your Phone? - bgr.com",
+        "description": "As it turns out, there's no need to carry around two chargers, as you can almost always use the same USB-C charger that powers your laptop to charge your phone.",
+        "source_link": "https://www.bgr.com/2054757/laptop-charger-usb-c-phone-compatible/"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.phoronix.net/image.php?id=2022&image=mpv",
+        "title": "MPV 0.41 Released With Wayland Improvements, Vulkan Hardware Decoding Preferred - Phoronix",
+        "description": "MPV 0.41 is out today as the newest feature release for this MPlayer/mplayer2-derived open-source video player",
+        "source_link": "https://www.phoronix.com/news/MPV-0.41-Released"
+      },
+      {
+        "rank": 5,
+        "image": "https://cdn.videocardz.com/1/2025/12/GPU-TWEAK-3-HERO.jpg",
+        "title": "ASUS GPU Tweak III stable released, fixes NVIDIA driver issues and adds 1% low and 0.1% low metrics - VideoCardz.com",
+        "description": "GPU Tweak 3 stable released ASUS GPU Tweak III hit a rough patch in early December, after some users reported the app would not launch once they installed",
+        "source_link": "https://videocardz.com/pixel/asus-gpu-tweak-iii-stable-released-fixes-nvidia-driver-issues-and-adds-1-low-and-0-1-low-metrics"
+      },
+      {
+        "rank": 6,
         "image": "https://assets.warhammer-community.com/sundaypreview-dec21-1-feature-wsxwnenhuz.jpg",
         "title": "Sunday Preview \u2013 Lay Siege with Cataphractii Terminators - Warhammer Community",
         "description": "Everything available to pre-order next week.",
         "source_link": "https://www.warhammer-community.com/articles/p7zknfqy/sunday-preview-lay-siege-with-cataphractii-terminators"
       },
       {
-        "rank": 2,
+        "rank": 7,
         "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2022/10/google-translate-ap-hero.jpg?w=1600&h=900&fit=crop",
         "title": "Google Translate just added a feature that solves the tool's biggest problem - Android Police",
         "description": "Google Translate now understands context and idioms",
         "source_link": "https://www.androidpolice.com/google-translate-is-better-than-ever-but-is-it-the-best/"
       },
       {
-        "rank": 3,
-        "image": "https://cdn.videocardz.com/1/2025/12/RTX-3080TI-20GB-HERO.jpg",
-        "title": "User accidentally buys GeForce RTX 3080 Ti 20GB engineering samples - VideoCardz.com",
-        "description": "GeForce RTX 3080 Ti 20GB engineering sample shows up on Reddit, needs patched drivers to work A Redditor \"Tommyjones91\" says he bought what looked like",
-        "source_link": "https://videocardz.com/newz/user-accidentally-buys-geforce-rtx-3080-ti-20gb-engineering-samples"
-      },
-      {
-        "rank": 4,
+        "rank": 8,
         "image": "https://img.buzzfeed.com/buzzfeed-static/static/2024-07/15/20/enhanced/e2e86a2d84ad/original-1664-1721073893-3.png?crop=1032:688;0,29&resize=1250:830",
         "title": "These 14 Facebook Moms Take Toxicity, Ignorance, And Inappropriateness To The Next Level - BuzzFeed",
         "description": "I hadn't heard the term \"cupcaked\" until today, and I wish I still didn't know about it.",
         "source_link": "https://www.buzzfeed.com/daniellaemanuel/facebook-moms-toxicity-fs"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://cdn.mos.cms.futurecdn.net/KMvBtEgVHyrAzdUVq346k3-2559-80.jpg",
         "title": "The Surface Laptop 7 is $699.99 [Deal Over] - Windows Central",
         "description": "Don't settle for a coal-powered PC. Grab the Snapdragon X Elite Surface Laptop 7 for just $699.99 while it can still ship before the 25th.",
         "source_link": "https://www.windowscentral.com/hardware/surface/the-surface-laptop-7-with-a-snapdragon-x-elite-is-down-to-usd699-99-and-you-can-still-get-it-before-christmas"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://nintendoeverything.com/wp-content/uploads/Super-Mario-Bros-Hideo-Kojima.jpg",
         "title": "Hideo Kojima credits Super Mario Bros. for getting him to the industry, felt games \"would one day surpass movies\" because of it - Nintendo Everything",
         "description": "Metal Gear Solid and Death Stranding creator Hideo Kojima speaks about his appreciation for Super Mario Bros.",
         "source_link": "https://nintendoeverything.com/super-mario-bros-hideo-kojima/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.bgr.com/img/gallery/5-unexpected-uses-for-your-old-power-banks/l-intro-1765902957.jpg",
-        "title": "5 Unexpected Uses For Your Old Power Banks - bgr.com",
-        "description": "Old power banks can still be used as emergency backups to power phones, flashlights, and in some cases, even car batteries in need of a boost.",
-        "source_link": "https://www.bgr.com/2053604/uses-for-your-old-power-banks/"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.mos.cms.futurecdn.net/9imZSsvU3J7vSthk99CP7A-1030-80.png",
-        "title": "Steam finally drops a full 64\u2011bit Windows client \u2014 here\u2019s what it changes - Windows Central",
-        "description": "Valve\u2019s latest Steam update modernises the Windows client with full 64 bit support while also delivering quality-of-life improvements.",
-        "source_link": "https://www.windowscentral.com/gaming/pc-gaming/steams-december-update-finally-brings-a-fully-64-bit-client-to-windows-modernizing-the-platform-after-years-of-partial-support"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.mos.cms.futurecdn.net/7ZenpschZkAvNa6sFp9LTX-2560-80.png",
-        "title": "Bazzite explodes in usage \u2014 here\u2019s why gamers are switching from Windows - Windows Central",
-        "description": "Bazzite\u2019s steady growth highlights a growing appetite for simpler, console-like PC gaming experiences built around Steam.",
-        "source_link": "https://www.windowscentral.com/gaming/pc-gaming/gamers-are-installing-bazzite-instead-of-sticking-with-windows"
-      },
-      {
-        "rank": 10,
-        "image": "https://assetsio.gnwcdn.com/Clair-Obscur_-Expedition-33_20250418213837.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Indie Game Awards disqualifies Game of the Year winner Clair Obscur: Expedition 33 for using AI - Eurogamer",
-        "description": "The Indie Game Awards has withdrawn two awards previously given to Clair Obscur: Expedition 33, not because of the deba\u2026",
-        "source_link": "https://www.eurogamer.net/indie-game-awards-disqualifies-game-of-the-year-winner-clair-obscur-expedition-33-for-using-ai"
       }
     ],
     "trending_movies": [
@@ -90,59 +90,59 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
-        "title": "Springsteen: Deliver Me from Nowhere",
-        "description": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past....",
-        "source_link": "https://www.themoviedb.org/movie/1230368"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
-        "title": "Wake Up Dead Man: A Knives Out Mystery",
-        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
-        "source_link": "https://www.themoviedb.org/movie/812583"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-        "title": "Now You See Me: Now You Don't",
-        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
-        "source_link": "https://www.themoviedb.org/movie/425274"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
-        "rank": 7,
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+        "title": "Now You See Me: Now You Don't",
+        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
+        "source_link": "https://www.themoviedb.org/movie/425274"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/pe5cCoX5iIb5IWKPsbPkCwjLFHt.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary Greek king of Ithaca, embarks on a long and perilous journey home following the Trojan War, chronicling his encounters with my...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
-        "rank": 8,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
-        "rank": 9,
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
+        "source_link": "https://www.themoviedb.org/movie/812583"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",
         "title": "Sisu: Road to Revenge",
         "description": "Returning to the house where his family was brutally murdered during the war, \u2018the man who refuses to die\u2019 dismantles it, loads it on a truck, and is ...",
         "source_link": "https://www.themoviedb.org/movie/1223601"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+        "title": "The Running Man",
+        "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
+        "source_link": "https://www.themoviedb.org/movie/798645"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
+        "image": "https://image.tmdb.org/t/p/w200/n92wqmgHhMU0Mzc49AzRUhyhQ65.jpg",
+        "title": "The SpongeBob Movie: Search for SquarePants",
+        "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman \u2013 a mysterious swashbuckling ghost pi...",
+        "source_link": "https://www.themoviedb.org/movie/991494"
       }
     ]
   }
