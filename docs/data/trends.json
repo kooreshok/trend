@@ -1,76 +1,69 @@
 {
-  "last_updated": "December 23, 2025, 20:18 UTC",
+  "last_updated": "December 23, 2025, 21:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://media.nbclosangeles.com/2025/12/GettyImages-2227244106-e1766425139493.jpg?quality=85&strip=all&resize=1200%2C675",
-        "title": "Vince Zampella, video game developer behind \u2018Call of Duty,' killed in Ferrari crash - NBC Los Angeles",
-        "description": "Vince Zampella, former CEO of the studio behind the wildly successful \"Call of Duty\" franchise, was killed in a Ferrari crash in the LA mountains.",
-        "source_link": "https://www.nbclosangeles.com/news/local/video-game-developer-vince-zampella-crash-call-of-duty/3819576/"
+        "image": "https://gizmodo.com/app/uploads/2025/12/magnetic-cloack-ruiz-et-al-1200x675.jpg",
+        "title": "Proposed Magnetic Cloak Could Make Sensitive Tech Practically Invisible - Gizmodo",
+        "description": "The cloak can shield objects of any shape from unwanted noise, the researchers say.",
+        "source_link": "https://gizmodo.com/proposed-magnetic-cloak-could-make-sensitive-tech-practically-invisible-2000702571"
       },
       {
         "rank": 2,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Find-Hub-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Find Hub app rolling out map layers support on Android - 9to5Google",
+        "description": "Following last week\u2019s quiet release of Find Hub for Wear OS, Google is rolling out support for map layers on Android.",
+        "source_link": "http://9to5google.com/2025/12/22/find-hub-map-layers/"
+      },
+      {
+        "rank": 3,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/12/YYWC-Hero.png?resize=960,1200",
+        "title": "ChatGPT launches a year-end review like Spotify Wrapped - TechCrunch",
+        "description": "The experience includes awards, poems, and pictures referencing your year in chat.",
+        "source_link": "https://techcrunch.com/2025/12/22/chatgpt-launches-a-year-end-review-like-spotify-wrapped/"
+      },
+      {
+        "rank": 4,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/ss_483a27df5072beb3a4650634a764bda750fbcb82.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
         "title": "Indie Game Awards retracts Expedition 33 prizes due to generative AI - The Verge",
         "description": "The Indie Game Awards retracted the Game of the Year award given to Clair Obscur: Expedition 33, as well as an award from a game sold by ModRetro.",
         "source_link": "https://www.theverge.com/news/849144/indie-game-awards-game-of-the-year-expedition-33-generative-ai-chantey-modretro"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/nest-cam-usb-c-adapter-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Gemini for Home camera updates improve Familiar Face, animal detection, more - 9to5Google",
         "description": "The latest Gemini for Home updates are focused on camera improvements for Nest and other compatible devices.",
         "source_link": "http://9to5google.com/2025/12/22/gemini-home-familiar-face-updates/"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/tim-cook-iphone-event-apple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple will launch 20+ new products next year, here\u2019s what\u2019s coming - 9to5Mac",
         "description": "Apple has a packed product lineup for 2026, as rumors indicate up to 25 new products will launch. Here\u2019s what\u2019s coming.",
         "source_link": "https://9to5mac.com/2025/12/22/apple-will-launch-20-new-products-next-year-heres-whats-coming/"
       },
       {
-        "rank": 5,
-        "image": "https://gizmodo.com/app/uploads/2025/12/steamdecklcd2-1200x675.jpg",
-        "title": "It\u2019s Game Over for the Steam Deck LCD (RIP 2022-2025) - Gizmodo",
-        "description": "The best bang-for-buck handheld is no more.",
-        "source_link": "https://gizmodo.com/its-game-over-for-the-steam-deck-lcd-rip-2022-2025-2000702545"
+        "rank": 7,
+        "image": "https://www.phoronix.net/image.php?id=2025&image=lua",
+        "title": "Lua 5.5 Released With Declarations For Global Variables, Garbage Collection Improvements - Phoronix",
+        "description": "Five years after releasing Lua 5.4, Lua 5.5 debuted today as the newest version of this lightweight and embeddable scripting language.",
+        "source_link": "https://www.phoronix.com/news/Lua-5.5-Released"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://imageio.forbes.com/specials-images/imageserve/6947ba5e47225f252cdb6d03/0x0.jpg?format=jpg&crop=1363,766,x1603,y654,safe&height=900&width=1600&fit=bounds",
         "title": "Android Attacks\u2014Google Confirms No Fix For 30% Of All Phones - Forbes",
         "description": "You have been warned: Check your phone now \u2014 attacks have started.",
         "source_link": "https://www.forbes.com/sites/zakdoffman/2025/12/22/android-attacks-google-confirms-no-fix-for-30-of-all-phones/"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": null,
         "title": "Nintendo News: Spread Nintendo Cheer with the Hits for the Holidays Sale! - Business Wire",
         "description": null,
         "source_link": "https://www.businesswire.com/news/home/20251222542446/en/Nintendo-News-Spread-Nintendo-Cheer-with-the-Hits-for-the-Holidays-Sale"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4624582-mc-ps5-main.jpg",
-        "title": "The Best PS5 Games Of 2025 According To Metacritic - GameSpot",
-        "description": "The best PS5 games of 2025 saw players escape to feudal Japan, post-apocalyptic worlds, and superhero drama.",
-        "source_link": "https://www.gamespot.com/gallery/the-best-ps5-games-of-2025-according-to-metacritic/2900-7358/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
-        "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
-        "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!",
-        "source_link": "https://www.marvelrivals.com/announcements/20251222/40955_1277962.html"
-      },
-      {
-        "rank": 10,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/12/splat-2025-12-22-at-11.34.26-AM.jpg?resize=1200,607",
-        "title": "Splat\u2019s app uses AI to turn your photos into coloring pages for kids - TechCrunch",
-        "description": "The app turns your own photos into pages for your kids to color, via AI.",
-        "source_link": "https://techcrunch.com/2025/12/22/splats-app-uses-ai-to-turn-your-photos-into-coloring-pages-for-kids/"
       }
     ],
     "trending_movies": [
@@ -97,17 +90,17 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
-        "title": "Springsteen: Deliver Me from Nowhere",
-        "description": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past....",
-        "source_link": "https://www.themoviedb.org/movie/1230368"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg",
         "title": "Nuremberg",
         "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a compl...",
         "source_link": "https://www.themoviedb.org/movie/1214931"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
+        "title": "Springsteen: Deliver Me from Nowhere",
+        "description": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past....",
+        "source_link": "https://www.themoviedb.org/movie/1230368"
       },
       {
         "rank": 6,
@@ -118,17 +111,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/1tUOZQDgZaGqZtrB21MieiXARL2.jpg",
-        "title": "The Great Flood",
-        "description": "When a raging flood traps a researcher and her young son, a call to a crucial mission puts their escape \u2014 and the future of humanity \u2014 on the line....",
-        "source_link": "https://www.themoviedb.org/movie/982843"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
         "title": "Anaconda",
         "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
         "source_link": "https://www.themoviedb.org/movie/1234731"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/1tUOZQDgZaGqZtrB21MieiXARL2.jpg",
+        "title": "The Great Flood",
+        "description": "When a raging flood traps a researcher and her young son, a call to a crucial mission puts their escape \u2014 and the future of humanity \u2014 on the line....",
+        "source_link": "https://www.themoviedb.org/movie/982843"
       },
       {
         "rank": 9,
