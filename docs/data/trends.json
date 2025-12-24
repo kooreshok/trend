@@ -1,5 +1,5 @@
 {
-  "last_updated": "December 24, 2025, 07:20 UTC",
+  "last_updated": "December 24, 2025, 08:24 UTC",
   "categories": {
     "tech_news": [
       {
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
-        "title": "Avengers: Doomsday",
-        "description": "The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight against Doctor Doom. Plot TBA....",
-        "source_link": "https://www.themoviedb.org/movie/1003596"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
         "title": "Anaconda",
         "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
         "source_link": "https://www.themoviedb.org/movie/1234731"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+        "title": "Avengers: Doomsday",
+        "description": "The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight against Doctor Doom. Plot TBA....",
+        "source_link": "https://www.themoviedb.org/movie/1003596"
       }
     ]
   }
