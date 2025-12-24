@@ -1,5 +1,5 @@
 {
-  "last_updated": "December 24, 2025, 11:15 UTC",
+  "last_updated": "December 24, 2025, 12:35 UTC",
   "categories": {
     "tech_news": [
       {
@@ -97,17 +97,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
         "title": "Springsteen: Deliver Me from Nowhere",
         "description": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past....",
         "source_link": "https://www.themoviedb.org/movie/1230368"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/7bLr0xljlMz8Xa8sufcZFhg8gh6.jpg",
+        "title": "The Great Flood",
+        "description": "When a raging flood traps a researcher and her young son, a call to a crucial mission puts their escape \u2014 and the future of humanity \u2014 on the line....",
+        "source_link": "https://www.themoviedb.org/movie/982843"
       },
       {
         "rank": 7,
@@ -118,24 +118,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/7bLr0xljlMz8Xa8sufcZFhg8gh6.jpg",
-        "title": "The Great Flood",
-        "description": "When a raging flood traps a researcher and her young son, a call to a crucial mission puts their escape \u2014 and the future of humanity \u2014 on the line....",
-        "source_link": "https://www.themoviedb.org/movie/982843"
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
-        "title": "Goodbye June",
-        "description": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season....",
-        "source_link": "https://www.themoviedb.org/movie/1435092"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
         "title": "Anaconda",
         "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
         "source_link": "https://www.themoviedb.org/movie/1234731"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+        "title": "Avengers: Doomsday",
+        "description": "The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight against Doctor Doom. Plot TBA....",
+        "source_link": "https://www.themoviedb.org/movie/1003596"
       }
     ]
   }
