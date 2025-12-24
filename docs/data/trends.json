@@ -1,5 +1,5 @@
 {
-  "last_updated": "December 24, 2025, 05:20 UTC",
+  "last_updated": "December 24, 2025, 06:28 UTC",
   "categories": {
     "tech_news": [
       {
@@ -69,17 +69,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/o8pg20G67BGmQvRkXwstNre062J.jpg",
-        "title": "Eternity",
-        "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her li...",
-        "source_link": "https://www.themoviedb.org/movie/1259102"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
         "title": "Five Nights at Freddy's 2",
         "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
         "source_link": "https://www.themoviedb.org/movie/1228246"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/o8pg20G67BGmQvRkXwstNre062J.jpg",
+        "title": "Eternity",
+        "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her li...",
+        "source_link": "https://www.themoviedb.org/movie/1259102"
       },
       {
         "rank": 3,
@@ -97,10 +97,10 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
-        "title": "Springsteen: Deliver Me from Nowhere",
-        "description": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past....",
-        "source_link": "https://www.themoviedb.org/movie/1230368"
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 6,
@@ -111,31 +111,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
         "title": "Now You See Me: Now You Don't",
         "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
         "source_link": "https://www.themoviedb.org/movie/425274"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
+        "title": "Anaconda",
+        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
+        "source_link": "https://www.themoviedb.org/movie/1234731"
+      },
+      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/1tUOZQDgZaGqZtrB21MieiXARL2.jpg",
-        "title": "The Great Flood",
-        "description": "When a raging flood traps a researcher and her young son, a call to a crucial mission puts their escape \u2014 and the future of humanity \u2014 on the line....",
-        "source_link": "https://www.themoviedb.org/movie/982843"
+        "image": "https://image.tmdb.org/t/p/w200/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "title": "The Dark Knight",
+        "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the rema...",
+        "source_link": "https://www.themoviedb.org/movie/155"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
-        "title": "Avengers: Doomsday",
-        "description": "The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight against Doctor Doom. Plot TBA....",
-        "source_link": "https://www.themoviedb.org/movie/1003596"
+        "image": "https://image.tmdb.org/t/p/w200/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
+        "title": "Springsteen: Deliver Me from Nowhere",
+        "description": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past....",
+        "source_link": "https://www.themoviedb.org/movie/1230368"
       }
     ]
   }
