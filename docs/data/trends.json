@@ -1,76 +1,69 @@
 {
-  "last_updated": "December 23, 2025, 23:15 UTC",
+  "last_updated": "December 24, 2025, 01:18 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/09cf/live/c3c06b50-df84-11f0-b89f-11674143d4d8.jpg",
+        "title": "Vince Zampella, Call of Duty co-creator, dies in California car crash - BBC",
+        "description": "The influential video game developer died after his car crashed and caught fire on a highway in Los Angeles.",
+        "source_link": "https://www.bbc.com/news/articles/cx25rled0ylo"
+      },
+      {
+        "rank": 2,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
         "title": "ChatGPT\u2019s yearly recap sums up your conversations with the chatbot - The Verge",
         "description": "ChatGPT is rolling out a new \u201cYear in Review\u201d feature that will give you a rundown of how you used the app this year.",
         "source_link": "https://www.theverge.com/news/849348/openai-chatgpt-2025-year-in-review-wrapped"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://gizmodo.com/app/uploads/2025/12/magnetic-cloack-ruiz-et-al-1200x675.jpg",
         "title": "Proposed Magnetic Cloak Could Make Sensitive Tech Practically Invisible - Gizmodo",
         "description": "The cloak can shield objects of any shape from unwanted noise, the researchers say.",
         "source_link": "https://gizmodo.com/proposed-magnetic-cloak-could-make-sensitive-tech-practically-invisible-2000702571"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/farthest_frontier_key_art_1080px.jpg?w=1600&h=900&fit=crop",
         "title": "Steam user asks devs to fix game, gets blasted for pirating it - Polygon",
         "description": "One bold Farthest Frontier fan thought they could complain about the city builder to Crate Entertainment, only to be met with a harsh reality",
         "source_link": "https://www.polygon.com/steam-game-piracy-farthest-frontier-city-builder-fan/"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Find-Hub-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Find Hub app rolling out map layers support on Android - 9to5Google",
         "description": "Following last week\u2019s quiet release of Find Hub for Wear OS, Google is rolling out support for map layers on Android.",
         "source_link": "http://9to5google.com/2025/12/22/find-hub-map-layers/"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://personacentral.com/wp-content/uploads/2023/12/Persona-3-Reload-Screenshots-9.jpg",
         "title": "Persona 3 Reload for Nintendo Switch 2 Performance Update Released - Persona Central",
         "description": "Atlus has released the Version 1.0.3 update for the Switch 2 edition of\u00a0Persona 3 Reload bringing performance improvements to the game",
         "source_link": "https://personacentral.com/p3r-switch-update/"
       },
       {
-        "rank": 6,
+        "rank": 7,
+        "image": null,
+        "title": "Tim Cook\u2019s \u2018top priority\u2019 product could finally take shape next year - 9to5Mac",
+        "description": null,
+        "source_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY25xRURnVE1wak54LXBQZThTVHlHR1ZkN0hqWjRLYXVKZjB2aXJrTUJmbWJjdWR5cTdQdXB2bjdZNnpfSkg1RmlidnY4OUJnOHNsZ3c4VThtQ2VCcjhzOTRESWNNaUF1bVJyU05HUlhQNXZYeDJQaFdnZVd0Z3VRUUZaYWJTR2kwZS1Ld2c4cWt3eEp3X2hSSXljbllndw?oc=5"
+      },
+      {
+        "rank": 8,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/nest-cam-usb-c-adapter-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Gemini for Home camera updates improve Familiar Face, animal detection, more - 9to5Google",
         "description": "The latest Gemini for Home updates are focused on camera improvements for Nest and other compatible devices.",
         "source_link": "http://9to5google.com/2025/12/22/gemini-home-familiar-face-updates/"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://scx2.b-cdn.net/gfx/news/hires/2020/1-electron.jpg",
         "title": "Anything-goes 'anyons' may be at the root of surprising quantum experiments - Phys.org",
         "description": "In the past year, two separate experiments in two different materials captured the same confounding scenario: the coexistence of superconductivity and magnetism. Scientists had assumed that these two quantum states are mutually exclusive; the presence of one \u2026",
         "source_link": "https://phys.org/news/2025-12-anyons-root-quantum.html"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/tim-cook-iphone-event-apple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple will launch 20+ new products next year, here\u2019s what\u2019s coming - 9to5Mac",
-        "description": "Apple has a packed product lineup for 2026, as rumors indicate up to 25 new products will launch. Here\u2019s what\u2019s coming.",
-        "source_link": "https://9to5mac.com/2025/12/22/apple-will-launch-20-new-products-next-year-heres-whats-coming/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.phoronix.net/image.php?id=2025&image=lua",
-        "title": "Lua 5.5 Released With Declarations For Global Variables, Garbage Collection Improvements - Phoronix",
-        "description": "Five years after releasing Lua 5.4, Lua 5.5 debuted today as the newest version of this lightweight and embeddable scripting language.",
-        "source_link": "https://www.phoronix.com/news/Lua-5.5-Released"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4624582-mc-ps5-main.jpg",
-        "title": "The Best PS5 Games Of 2025 According To Metacritic - GameSpot",
-        "description": "The best PS5 games of 2025 saw players escape to feudal Japan, post-apocalyptic worlds, and superhero drama.",
-        "source_link": "https://www.gamespot.com/gallery/the-best-ps5-games-of-2025-according-to-metacritic/2900-7358/"
       }
     ],
     "trending_movies": [
@@ -111,38 +104,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
-        "title": "Wake Up Dead Man: A Knives Out Mystery",
-        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
-        "source_link": "https://www.themoviedb.org/movie/812583"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
-        "title": "Anaconda",
-        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
-        "source_link": "https://www.themoviedb.org/movie/1234731"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/1tUOZQDgZaGqZtrB21MieiXARL2.jpg",
         "title": "The Great Flood",
         "description": "When a raging flood traps a researcher and her young son, a call to a crucial mission puts their escape \u2014 and the future of humanity \u2014 on the line....",
         "source_link": "https://www.themoviedb.org/movie/982843"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
+        "source_link": "https://www.themoviedb.org/movie/812583"
       },
       {
-        "rank": 10,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
         "title": "Now You See Me: Now You Don't",
         "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
         "source_link": "https://www.themoviedb.org/movie/425274"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
+        "title": "Anaconda",
+        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
+        "source_link": "https://www.themoviedb.org/movie/1234731"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       }
     ]
   }
