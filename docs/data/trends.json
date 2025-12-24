@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 24, 2025, 16:20 UTC",
+  "last_updated": "December 24, 2025, 17:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://helios-i.mashable.com/imagery/articles/02V7MIU7uU55Sn877FFfcKm/hero-image.fill.size_1200x675.v1766449786.png",
+        "title": "ChatGPT recapped your personal AI habits in 2025. Here's how to see yours. - Mashable",
+        "description": "Reflect on your generative AI use this year.",
+        "source_link": "https://mashable.com/article/chatgpt-year-review-wrap-up-2025-how-to-view"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/google-photos-new-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google Photos brings person and pet \u2018face shortcuts\u2019 back to search - 9to5Google",
+        "description": "Face grouping and search is perhaps one of the best parts of Google Photos, but the pivot to focus more...",
+        "source_link": "http://9to5google.com/2025/12/23/google-photos-brings-person-and-pet-face-shortcuts-back-to-search/"
+      },
+      {
+        "rank": 3,
+        "image": "https://assets.warhammer-community.com/rumourengine-dec23-1-feature-hcm08ebgca.jpg",
+        "title": "The Rumour Engine \u2013 23rd of December - Warhammer Community",
+        "description": "What could it be?",
+        "source_link": "https://www.warhammer-community.com/articles/tvveavmu/the-rumour-engine-23rd-of-december"
+      },
+      {
+        "rank": 4,
+        "image": "https://media.dcrainmaker.com/images/2025/12/Fenix8BetaYT2.jpg",
+        "title": "Big Garmin Public Beta Update Adds 25 New Features to 2025 Watches - DC Rainmaker",
+        "description": "A complete recap of the Dec 2025 public beta for Garmin watches, including all the new features.",
+        "source_link": "https://www.dcrainmaker.com/2025/12/garmin-features-watches.html"
+      },
+      {
+        "rank": 5,
+        "image": "https://assetsio.gnwcdn.com/battlefield-6-phantom-skins.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Battlefield 6 players suspect AI cosmetics have been snuck into the game, despite EA saying that wouldn't happen - Eurogamer",
+        "description": "Battlefield 6 players have found what they believe to be an generative AI sticker in the game, causing outrage.",
+        "source_link": "https://www.eurogamer.net/battlefield-6-ai-sticker-backlash"
+      },
+      {
+        "rank": 6,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/unnamed-1-1152x648.jpg",
         "title": "The Splay is a subpar monitor but an exciting portable projector - Ars Technica",
         "description": "Splay can be a monitor and takes a lot of the stress out of projectors, too.",
         "source_link": "https://arstechnica.com/gadgets/2025/12/the-splay-is-a-subpar-monitor-but-an-exciting-portable-projector/"
       },
       {
-        "rank": 2,
+        "rank": 7,
         "image": "https://regmedia.co.uk/2025/11/07/shutterstock_2264049837.jpg",
         "title": "UNIX V4 tape successfully recovered: First ever version of UNIX written in C is running again - theregister.com",
         "description": ": Crucial early evolutionary step found, imaged, and ... amazingly ... works",
         "source_link": "https://www.theregister.com/2025/12/23/unix_v4_tape_successfully_recovered/"
       },
       {
-        "rank": 3,
+        "rank": 8,
         "image": "https://hackaday.com/wp-content/uploads/2025/12/libxml2-unmaintained-message.jpg",
         "title": "Libxml2 Narrowly Avoids Becoming Unmaintained - Hackaday",
         "description": "In an excellent example of one of the most overused XKCD images, the libxml2 library has for a little while lost its only maintainer, with [Nick Wellnhofer] making good on his plan to step down by \u2026",
         "source_link": "https://hackaday.com/2025/12/23/libxml2-narrowly-avoids-becoming-unmaintained/"
       },
       {
-        "rank": 4,
+        "rank": 9,
         "image": "https://media.wired.com/photos/69498505d904ee60304dcde0/191:100/w_1280,c_limit/gear-chatbot-bikini-1246865275.jpg",
         "title": "Google\u2019s and OpenAI\u2019s Chatbots Can Strip Women in Photos Down to Bikinis - WIRED",
         "description": "Users of AI image generators are offering each other instructions on how to use the tech to alter pictures of women into realistic, revealing deepfakes.",
         "source_link": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/"
       },
       {
-        "rank": 5,
+        "rank": 10,
         "image": "https://images.macrumors.com/t/WFIz_Es_0cOhxfTQhGSr4bljbiI=/1986x/article-new/2021/12/checking-flight-iphone.jpeg",
         "title": "Track a Flight on Your iPhone - MacRumors",
         "description": "Flight tracker apps are a popular way to keep tabs on planes in the sky, because when you're preparing to fly or when someone you know is on...",
         "source_link": "https://www.macrumors.com/how-to/track-a-flight-on-your-iphone/"
-      },
-      {
-        "rank": 6,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6947c7600a7c619d4488927e/0x0.jpg?format=jpg&crop=1832,1031,x810,y186,safe&height=900&width=1600&fit=bounds",
-        "title": "Apple\u2019s Upgrade Decision\u2014Hundreds Of Millions Of iPhones Affected - Forbes",
-        "description": "Millions of iPhone owners will not like Apple's decision \u2014 but there's no turning back now.",
-        "source_link": "https://www.forbes.com/sites/zakdoffman/2025/12/23/apples-upgrade-decision-hundreds-of-millions-of-iphones-affected/"
-      },
-      {
-        "rank": 7,
-        "image": "https://ychef.files.bbci.co.uk/624x351/p0mq6h6n.jpg",
-        "title": "What does a huge festive meal do to your brain? - BBC",
-        "description": "Many of us with throw modesty out the window when it comes to Christmas lunch. But what do these blow-out festive meals do to our body and brain?",
-        "source_link": "https://www.bbc.com/future/article/20251222-what-does-a-huge-festive-meal-do-to-your-brain"
-      },
-      {
-        "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/year-in-numbers-2025-header_rbhzSLM.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "GamesIndustry.biz presents... the Year In Numbers 2025 | Year in Review - GamesIndustry.biz",
-        "description": "Our annual compilation of the headline numbers, top games and top content in the games industry.",
-        "source_link": "https://www.gamesindustry.biz/gamesindustrybiz-presents-the-year-in-numbers-2025-year-in-review"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.eatingwell.com/thmb/R-ZOgj7-3UvioPulRrys_fPTo2w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Should-You-Use-the-Shiny-or-Dull-Side-of-Foil-24491f0849044a8384fcaeb9f4e123ab.jpg",
-        "title": "Should You Use the Shiny or Dull Side of Foil? Reynolds Settles the Debate - EatingWell",
-        "description": "While it doesn't matter which side of the foil you cook on, there is a reason one side is shiny and the other is dull. Read on to learn more.",
-        "source_link": "https://www.eatingwell.com/should-you-use-the-shiny-or-dull-side-of-foil-11863457"
-      },
-      {
-        "rank": 10,
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/09cf/live/c3c06b50-df84-11f0-b89f-11674143d4d8.jpg",
-        "title": "Vince Zampella, Call of Duty co-creator, dies in California car crash - BBC",
-        "description": "The influential video game developer died after his car crashed and caught fire on a highway in Los Angeles.",
-        "source_link": "https://www.bbc.com/news/articles/cx25rled0ylo"
       }
     ],
     "trending_movies": [
@@ -90,17 +90,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
         "title": "Goodbye June",
         "description": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season....",
         "source_link": "https://www.themoviedb.org/movie/1435092"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
         "rank": 5,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/7bLr0xljlMz8Xa8sufcZFhg8gh6.jpg",
         "title": "The Great Flood",
         "description": "When a raging flood traps a researcher and her young son, a call to a crucial mission puts their escape \u2014 and the future of humanity \u2014 on the line....",
         "source_link": "https://www.themoviedb.org/movie/982843"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       }
     ]
   }
