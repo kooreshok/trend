@@ -1,5 +1,5 @@
 {
-  "last_updated": "December 25, 2025, 17:15 UTC",
+  "last_updated": "December 25, 2025, 18:24 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,17 +76,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/o8pg20G67BGmQvRkXwstNre062J.jpg",
-        "title": "Eternity",
-        "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her li...",
-        "source_link": "https://www.themoviedb.org/movie/1259102"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/o8pg20G67BGmQvRkXwstNre062J.jpg",
+        "title": "Eternity",
+        "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her li...",
+        "source_link": "https://www.themoviedb.org/movie/1259102"
       },
       {
         "rank": 3,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
-        "title": "Springsteen: Deliver Me from Nowhere",
-        "description": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past....",
-        "source_link": "https://www.themoviedb.org/movie/1230368"
+        "image": "https://image.tmdb.org/t/p/w200/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
+        "title": "Predator: Badlands",
+        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
+        "source_link": "https://www.themoviedb.org/movie/1242898"
       }
     ]
   }
