@@ -1,65 +1,72 @@
 {
-  "last_updated": "December 25, 2025, 12:35 UTC",
+  "last_updated": "December 25, 2025, 13:29 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://blog.tipranks.com/wp-content/uploads/2025/12/shutterstock_2501054697-768x457.jpg",
+        "title": "Serpent Lake Leak Reveals First Intel-Nvidia Chip after $5 Billion Partnership - TipRanks",
+        "description": "Intel ($INTC) and Nvidia ($NVDA) are developing a new laptop chip called Serpent Lake that integrates their technologies, according to leaked information provided b...",
+        "source_link": "https://www.tipranks.com/news/serpent-lake-leak-reveals-first-intel-nvidia-chip-after-5-billion-partnership"
+      },
+      {
+        "rank": 2,
         "image": "https://regmedia.co.uk/2020/04/28/shutterstock_rust_logo.jpg",
         "title": "Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030 - theregister.com",
         "description": ": Plans move to Rust, with help from AI",
         "source_link": "https://www.theregister.com/2025/12/24/microsoft_rust_codebase_migration/"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://www.uploadvr.com/content/images/size/w1200/2025/12/ss_268a72678199155abea2581049788e88cdc82557.1920x1080-1.jpg",
         "title": "UploadVR's Best of VR 2025 Awards \u2013 Game Of The Year, Hardware & Most Anticipated Of 2026 - UploadVR",
         "description": "And finally, here are UploadVR's Best of VR 2025 Awards, featuring our picks for Game of the Year, New Hardware, and Most Anticipated.\n\nFind all of our winners here.",
         "source_link": "https://www.uploadvr.com/best-of-vr-2025-awards/"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://deadline.com/wp-content/uploads/2025/12/james-bond-007-first-light-delayed.jpg?w=1024",
         "title": "IOI Delays James Bond Video Game '007: First Light' Release Date \"To Further Polish And Refine The Experience\" - Deadline",
         "description": "IO Interactive has pushed the release date of the James Bond video game\u00a0007: First Light\u00a0back by two months.",
         "source_link": "http://deadline.com/2025/12/ioi-james-bond-video-game-007-first-light-release-date-1236656156/"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://hackaday.com/wp-content/uploads/2025/12/esp32-c3_super_mini_boards_hacker_university_youtube.jpg",
         "title": "Be Wary Of Flash-less ESP32-C3 Super Mini Boards - Hackaday",
         "description": "Everyone loves tiny microcontroller boards, and the ESP32-C3 Super Mini boards are no exception. Unfortunately if you just casually stroll over to your nearest online purveyor of such goods to purc\u2026",
         "source_link": "https://hackaday.com/2025/12/23/be-wary-of-flash-less-esp32-c3-super-mini-boards/"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://www.slashgear.com/img/gallery/ipad-pro-vs-ipad-air-3-differences-most-users-dont-know-about/l-intro-1766091073.jpg",
         "title": "iPad Pro Vs iPad Air: 3 Differences Most Users Don't Know About - SlashGear",
         "description": "Key differences between the iPad Pro and iPad Air include OLED vs LCD displays, Thunderbolt support, and upgraded speakers and microphones.",
         "source_link": "https://www.slashgear.com/2055816/ipad-pro-vs-air-little-known-differences/"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://www.techpowerup.com/img/b2JGQfsMZdNe1oA4.jpg",
         "title": "AMD Prepares EXPO v1.2 for Better Memory OC Profiles - TechPowerUp",
         "description": "AMD's Extended Profiles for Overclocking (EXPO) technology is receiving an update with version 1.2. According to the latest HWiNFO v8.35-5890 Beta, this tool has added support for AMD EXPO 1.2, even though AMD has not officially released this version yet. Cur\u2026",
         "source_link": "https://www.techpowerup.com/344378/amd-prepares-expo-v1-2-for-better-memory-oc-profiles"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/12/19/502568bf/fo4.jpg.webp",
         "title": "Bethesda Talks Fallout's Future And Lessons Learned - Game Informer",
         "description": "Todd Howard, Angela Browder, Emil Pagliarulo, and Istvan Pely discuss what a hypothetical Fallout 5 could accomplish.",
         "source_link": "https://gameinformer.com/exclusive-interview/2025/12/23/bethesda-talks-fallouts-future-and-lessons-learned"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://images.macrumors.com/t/tRyi6be_nH3YfYIKMeYwHL6L7mA=/2000x/article-new/2025/12/iphone-fold-3d-print.jpg",
         "title": "Have a 3D Printer? You Can Make Your Own iPhone Fold Dummy - MacRumors",
         "description": "Apple is working on a foldable iPhone that's set to come out in September 2026, and rumors suggest that it will have a display that's around...",
         "source_link": "https://www.macrumors.com/2025/12/23/have-a-3d-printer-you-can-make-your-own-iphone-fold-dummy/"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-One-2026-offer-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google One discounting annual 2 TB and AI Pro plans by 50% - 9to5Google",
         "description": "Google One is running a \u201climited time\u201d discount for 2026 where new subscribers can get 50% off 2 TB and AI Pro annual plans.",
@@ -69,31 +76,31 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
         "title": "Goodbye June",
         "description": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season....",
         "source_link": "https://www.themoviedb.org/movie/1435092"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/o8pg20G67BGmQvRkXwstNre062J.jpg",
         "title": "Eternity",
         "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her li...",
         "source_link": "https://www.themoviedb.org/movie/1259102"
       },
       {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg",
-        "title": "Nuremberg",
-        "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a compl...",
-        "source_link": "https://www.themoviedb.org/movie/1214931"
+        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
+        "source_link": "https://www.themoviedb.org/movie/812583"
       },
       {
         "rank": 5,
@@ -104,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
-        "title": "Wake Up Dead Man: A Knives Out Mystery",
-        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
-        "source_link": "https://www.themoviedb.org/movie/812583"
+        "image": "https://image.tmdb.org/t/p/w200/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg",
+        "title": "Nuremberg",
+        "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a compl...",
+        "source_link": "https://www.themoviedb.org/movie/1214931"
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-        "title": "Now You See Me: Now You Don't",
-        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
-        "source_link": "https://www.themoviedb.org/movie/425274"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
         "title": "Anaconda",
         "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
         "source_link": "https://www.themoviedb.org/movie/1234731"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
-        "title": "The Running Man",
-        "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
-        "source_link": "https://www.themoviedb.org/movie/798645"
+        "image": "https://image.tmdb.org/t/p/w200/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
+        "title": "Springsteen: Deliver Me from Nowhere",
+        "description": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past....",
+        "source_link": "https://www.themoviedb.org/movie/1230368"
       }
     ]
   }
