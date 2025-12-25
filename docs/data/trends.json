@@ -1,41 +1,41 @@
 {
-  "last_updated": "December 25, 2025, 14:16 UTC",
+  "last_updated": "December 25, 2025, 15:17 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i.pcmag.com/imagery/articles/03FOkWQnfZZTcBnjV4AM6JL-1.fit_lim.size_1200x630.v1766571965.jpg",
+        "title": "Nvidia GeForce Now\u2019s Time Limit Will Stop Gamers After 100 Hours Each Month - PCMag",
+        "description": "The game streaming service will make almost all of its users pay extra for extended access.",
+        "source_link": "https://www.pcmag.com/news/nvidia-geforce-nows-time-limit-will-stop-gamers-after-100-hours-each-month"
+      },
+      {
+        "rank": 2,
         "image": "https://blog.tipranks.com/wp-content/uploads/2025/12/shutterstock_2501054697-768x457.jpg",
         "title": "Serpent Lake Leak Reveals First Intel-Nvidia Chip after $5 Billion Partnership - TipRanks",
         "description": "Intel ($INTC) and Nvidia ($NVDA) are developing a new laptop chip called Serpent Lake that integrates their technologies, according to leaked information provided b...",
         "source_link": "https://www.tipranks.com/news/serpent-lake-leak-reveals-first-intel-nvidia-chip-after-5-billion-partnership"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://regmedia.co.uk/2020/04/28/shutterstock_rust_logo.jpg",
         "title": "Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030 - theregister.com",
         "description": ": Plans move to Rust, with help from AI",
         "source_link": "https://www.theregister.com/2025/12/24/microsoft_rust_codebase_migration/"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://www.uploadvr.com/content/images/size/w1200/2025/12/ss_268a72678199155abea2581049788e88cdc82557.1920x1080-1.jpg",
         "title": "UploadVR's Best of VR 2025 Awards \u2013 Game Of The Year, Hardware & Most Anticipated Of 2026 - UploadVR",
         "description": "And finally, here are UploadVR's Best of VR 2025 Awards, featuring our picks for Game of the Year, New Hardware, and Most Anticipated.\n\nFind all of our winners here.",
         "source_link": "https://www.uploadvr.com/best-of-vr-2025-awards/"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://deadline.com/wp-content/uploads/2025/12/james-bond-007-first-light-delayed.jpg?w=1024",
         "title": "IOI Delays James Bond Video Game '007: First Light' Release Date \"To Further Polish And Refine The Experience\" - Deadline",
         "description": "IO Interactive has pushed the release date of the James Bond video game\u00a0007: First Light\u00a0back by two months.",
         "source_link": "http://deadline.com/2025/12/ioi-james-bond-video-game-007-first-light-release-date-1236656156/"
-      },
-      {
-        "rank": 5,
-        "image": "https://hackaday.com/wp-content/uploads/2025/12/esp32-c3_super_mini_boards_hacker_university_youtube.jpg",
-        "title": "Be Wary Of Flash-less ESP32-C3 Super Mini Boards - Hackaday",
-        "description": "Everyone loves tiny microcontroller boards, and the ESP32-C3 Super Mini boards are no exception. Unfortunately if you just casually stroll over to your nearest online purveyor of such goods to purc\u2026",
-        "source_link": "https://hackaday.com/2025/12/23/be-wary-of-flash-less-esp32-c3-super-mini-boards/"
       },
       {
         "rank": 6,
@@ -46,31 +46,31 @@
       },
       {
         "rank": 7,
-        "image": "https://www.techpowerup.com/img/b2JGQfsMZdNe1oA4.jpg",
-        "title": "AMD Prepares EXPO v1.2 for Better Memory OC Profiles - TechPowerUp",
-        "description": "AMD's Extended Profiles for Overclocking (EXPO) technology is receiving an update with version 1.2. According to the latest HWiNFO v8.35-5890 Beta, this tool has added support for AMD EXPO 1.2, even though AMD has not officially released this version yet. Cur\u2026",
-        "source_link": "https://www.techpowerup.com/344378/amd-prepares-expo-v1-2-for-better-memory-oc-profiles"
+        "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/12/23/49dbc47d/2025_rpg_top.jpg.webp",
+        "title": "The Best Tabletop RPGs Of 2025 - Game Informer",
+        "description": "No matter your preference for setting and style, there\u2019s likely a role-playing game from 2025 that will delight your party.",
+        "source_link": "https://gameinformer.com/tabletop/2025/12/23/the-best-tabletop-rpgs-of-2025"
       },
       {
         "rank": 8,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/galaxy-z-trifold-first-look-supersaf-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Galaxy Z TriFold is probably durable enough, hinge gives way after 150,000 folds in torture test [Video] - 9to5Google",
+        "description": "Samsung\u2019s brand new Galaxy Z TriFold form factor has arrived and, of course, one of the big questions around it...",
+        "source_link": "http://9to5google.com/2025/12/23/galaxy-z-trifold-hinge-torture-test/"
+      },
+      {
+        "rank": 9,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2024/11/Android-16-logo-on-smartphone-04.jpg",
+        "title": "Check your stocking: Google just released Android 16 QPR3 Beta 1.1 - Android Authority",
+        "description": "Apps been crashing on you since installing the last Beta? Be sure to check out the fixes in today's Android 16 QPR3 Beta 1.1 release.",
+        "source_link": "https://www.androidauthority.com/android-16-qpr3-beta-1-1-3627665/"
+      },
+      {
+        "rank": 10,
         "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/12/19/502568bf/fo4.jpg.webp",
         "title": "Bethesda Talks Fallout's Future And Lessons Learned - Game Informer",
         "description": "Todd Howard, Angela Browder, Emil Pagliarulo, and Istvan Pely discuss what a hypothetical Fallout 5 could accomplish.",
         "source_link": "https://gameinformer.com/exclusive-interview/2025/12/23/bethesda-talks-fallouts-future-and-lessons-learned"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.macrumors.com/t/tRyi6be_nH3YfYIKMeYwHL6L7mA=/2000x/article-new/2025/12/iphone-fold-3d-print.jpg",
-        "title": "Have a 3D Printer? You Can Make Your Own iPhone Fold Dummy - MacRumors",
-        "description": "Apple is working on a foldable iPhone that's set to come out in September 2026, and rumors suggest that it will have a display that's around...",
-        "source_link": "https://www.macrumors.com/2025/12/23/have-a-3d-printer-you-can-make-your-own-iphone-fold-dummy/"
-      },
-      {
-        "rank": 10,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-One-2026-offer-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google One discounting annual 2 TB and AI Pro plans by 50% - 9to5Google",
-        "description": "Google One is running a \u201climited time\u201d discount for 2026 where new subscribers can get 50% off 2 TB and AI Pro annual plans.",
-        "source_link": "http://9to5google.com/2025/12/23/google-one-2026-offer/"
       }
     ],
     "trending_movies": [
@@ -97,52 +97,52 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
-        "title": "Wake Up Dead Man: A Knives Out Mystery",
-        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
-        "source_link": "https://www.themoviedb.org/movie/812583"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
         "title": "Five Nights at Freddy's 2",
         "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
         "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg",
-        "title": "Nuremberg",
-        "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a compl...",
-        "source_link": "https://www.themoviedb.org/movie/1214931"
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
+        "source_link": "https://www.themoviedb.org/movie/812583"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
         "title": "Anaconda",
         "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
         "source_link": "https://www.themoviedb.org/movie/1234731"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
-        "title": "Springsteen: Deliver Me from Nowhere",
-        "description": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past....",
-        "source_link": "https://www.themoviedb.org/movie/1230368"
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg",
+        "title": "Nuremberg",
+        "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a compl...",
+        "source_link": "https://www.themoviedb.org/movie/1214931"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
+        "title": "Springsteen: Deliver Me from Nowhere",
+        "description": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past....",
+        "source_link": "https://www.themoviedb.org/movie/1230368"
       }
     ]
   }
