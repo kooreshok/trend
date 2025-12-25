@@ -1,92 +1,92 @@
 {
-  "last_updated": "December 25, 2025, 08:23 UTC",
+  "last_updated": "December 25, 2025, 09:19 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://www.zdnet.com/a/img/resize/a5801854b91088edd0bf8e34e538572da8c9ff3c/2025/10/14/76eeb9fc-99fe-4847-83aa-a50245616c52/bose-quietcomfort-ultra-earbuds-2-233341.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "What is Bluetooth 6.0? Why the newest audio connectivity standard is such a big deal - ZDNET",
-        "description": "The widespread adoption of Bluetooth 6 is progressing in audio products, with plenty of features to look forward to once the hardware catches up.",
-        "source_link": "https://www.zdnet.com/article/what-is-bluetooth-6-0/"
+        "image": "https://regmedia.co.uk/2020/04/28/shutterstock_rust_logo.jpg",
+        "title": "Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030 - theregister.com",
+        "description": ": Plans move to Rust, with help from AI",
+        "source_link": "https://www.theregister.com/2025/12/24/microsoft_rust_codebase_migration/"
       },
       {
         "rank": 2,
+        "image": "https://www.uploadvr.com/content/images/size/w1200/2025/12/ss_268a72678199155abea2581049788e88cdc82557.1920x1080-1.jpg",
+        "title": "UploadVR's Best of VR 2025 Awards \u2013 Game Of The Year, Hardware & Most Anticipated Of 2026 - UploadVR",
+        "description": "And finally, here are UploadVR's Best of VR 2025 Awards, featuring our picks for Game of the Year, New Hardware, and Most Anticipated.\n\nFind all of our winners here.",
+        "source_link": "https://www.uploadvr.com/best-of-vr-2025-awards/"
+      },
+      {
+        "rank": 3,
         "image": "https://deadline.com/wp-content/uploads/2025/12/james-bond-007-first-light-delayed.jpg?w=1024",
         "title": "IOI Delays James Bond Video Game '007: First Light' Release Date \"To Further Polish And Refine The Experience\" - Deadline",
         "description": "IO Interactive has pushed the release date of the James Bond video game\u00a0007: First Light\u00a0back by two months.",
         "source_link": "http://deadline.com/2025/12/ioi-james-bond-video-game-007-first-light-release-date-1236656156/"
       },
       {
-        "rank": 3,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/android-16-qpr3-location-dot-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google rolling out Android 16 QPR3 Beta 1.1 patch - 9to5Google",
-        "description": "Following last week\u2019s release, Android 16 QPR3 Beta 1.1 is rolling out with one fix for Pixel devices. This update fixes...",
-        "source_link": "http://9to5google.com/2025/12/23/android-16-qpr3-beta-1-1/"
+        "rank": 4,
+        "image": "https://hackaday.com/wp-content/uploads/2025/12/esp32-c3_super_mini_boards_hacker_university_youtube.jpg",
+        "title": "Be Wary Of Flash-less ESP32-C3 Super Mini Boards - Hackaday",
+        "description": "Everyone loves tiny microcontroller boards, and the ESP32-C3 Super Mini boards are no exception. Unfortunately if you just casually stroll over to your nearest online purveyor of such goods to purc\u2026",
+        "source_link": "https://hackaday.com/2025/12/23/be-wary-of-flash-less-esp32-c3-super-mini-boards/"
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "image": "https://www.slashgear.com/img/gallery/ipad-pro-vs-ipad-air-3-differences-most-users-dont-know-about/l-intro-1766091073.jpg",
+        "title": "iPad Pro Vs iPad Air: 3 Differences Most Users Don't Know About - SlashGear",
+        "description": "Key differences between the iPad Pro and iPad Air include OLED vs LCD displays, Thunderbolt support, and upgraded speakers and microphones.",
+        "source_link": "https://www.slashgear.com/2055816/ipad-pro-vs-air-little-known-differences/"
+      },
+      {
+        "rank": 6,
         "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/12/19/502568bf/fo4.jpg.webp",
         "title": "Bethesda Talks Fallout's Future And Lessons Learned - Game Informer",
         "description": "Todd Howard, Angela Browder, Emil Pagliarulo, and Istvan Pely discuss what a hypothetical Fallout 5 could accomplish.",
         "source_link": "https://gameinformer.com/exclusive-interview/2025/12/23/bethesda-talks-fallouts-future-and-lessons-learned"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://images.macrumors.com/t/tRyi6be_nH3YfYIKMeYwHL6L7mA=/2000x/article-new/2025/12/iphone-fold-3d-print.jpg",
         "title": "Have a 3D Printer? You Can Make Your Own iPhone Fold Dummy - MacRumors",
         "description": "Apple is working on a foldable iPhone that's set to come out in September 2026, and rumors suggest that it will have a display that's around...",
         "source_link": "https://www.macrumors.com/2025/12/23/have-a-3d-printer-you-can-make-your-own-iphone-fold-dummy/"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-One-2026-offer-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google One discounting annual 2 TB and AI Pro plans by 50% - 9to5Google",
         "description": "Google One is running a \u201climited time\u201d discount for 2026 where new subscribers can get 50% off 2 TB and AI Pro annual plans.",
         "source_link": "http://9to5google.com/2025/12/23/google-one-2026-offer/"
       },
       {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Google-Pixel-10-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "The Pixel 10, our favorite Android phone, is nearly 50 percent off right now - The Verge",
-        "description": "The Google Pixel 10 is already a great value at its regular $799 price. But you can now snag the smartphone on Amazon for just $449, which is a record-low price.",
-        "source_link": "https://www.theverge.com/gadgets/836995/google-pixel-10-pro-xl-amazon-deal-sale-2025"
-      },
-      {
-        "rank": 8,
-        "image": "https://helios-i.mashable.com/imagery/articles/01zpMhjhzAqKnGoCjahRKJf/hero-image.fill.size_1200x675.v1766508035.jpg",
-        "title": "iPhone storage full? Check your System Data. - Mashable",
-        "description": "Apple's System Data can take up\u2026how much storage space?!",
-        "source_link": "https://mashable.com/article/apple-iphone-ios-system-data-storage-space"
-      },
-      {
         "rank": 9,
-        "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/12/best-watch-brand-2025-lead.webp",
-        "title": "My Pick for the Top Watch Brand of 2025 May Surprise You - Gear Patrol",
-        "description": "Choosing the year's top watch brand is obviously subjective, but in 2025, the choice was surprisingly obvious.",
-        "source_link": "https://www.gearpatrol.com/watches/best-watch-brand-2025/"
+        "image": "https://cdn.mos.cms.futurecdn.net/7zB2gJcAAcv5NLKgnL3SzE-2133-80.jpg",
+        "title": "These are the 10 most expensive Lego Star Wars sets you can get - Space",
+        "description": "If you've ever wondered how many credits a Lego Star Wars set could set you back, you should check out our round-up of the 10 most expensive models out there.",
+        "source_link": "https://www.space.com/entertainment/space-toys-lego/10-most-expensive-lego-star-wars-sets-available-right-now"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
         "title": "Goodbye June",
         "description": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season....",
         "source_link": "https://www.themoviedb.org/movie/1435092"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/o8pg20G67BGmQvRkXwstNre062J.jpg",
         "title": "Eternity",
         "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her li...",
         "source_link": "https://www.themoviedb.org/movie/1259102"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
         "rank": 4,
@@ -118,17 +118,17 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
-        "title": "Anaconda",
-        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
-        "source_link": "https://www.themoviedb.org/movie/1234731"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
+        "title": "Anaconda",
+        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
+        "source_link": "https://www.themoviedb.org/movie/1234731"
       },
       {
         "rank": 10,
