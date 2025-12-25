@@ -1,82 +1,75 @@
 {
-  "last_updated": "December 25, 2025, 20:18 UTC",
+  "last_updated": "December 25, 2025, 21:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Pixel-Camera-Panorama-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Pixel Camera brings Photo Sphere-esque Panorama mode to Pixel 8 - 9to5Google",
+        "description": "With the Pixel 9, Google introduced a new Panorama mode, and the latest Camera update brought it to the Pixel 8 series.",
+        "source_link": "http://9to5google.com/2025/12/24/pixel-8-camera-new-panorama-mode/"
+      },
+      {
+        "rank": 2,
+        "image": "https://scx2.b-cdn.net/gfx/news/2025/new-image-sensor-break.jpg",
+        "title": "New image sensor breaks optical limits - Phys.org",
+        "description": "Imaging technology has transformed how we observe the universe\u2014from mapping distant galaxies with radio telescope arrays to unlocking microscopic details inside living cells. Yet despite decades of innovation, a fundamental barrier has persisted: capturing hi\u2026",
+        "source_link": "https://phys.org/news/2025-12-image-sensor-optical-limits.html"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2025/06/Kingston-FURY-Renegade-PCIe-NVMe-Gen-5-SSD.jpg",
+        "title": "With Native NVMe Driver, NVMe SSDs Deliver Double-Digit Gains In Random Read/Write On Windows 11 - Wccftech",
+        "description": "Some users have gained drastic improvements in SSD performance on Windows 11 after using the NVMe driver from Windows Server 2025.",
+        "source_link": "https://wccftech.com/with-native-nvme-driver-nvme-ssds-deliver-double-digit-gains-in-random-read-write-on-windows-11/"
+      },
+      {
+        "rank": 4,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/12/gmail-android-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google says it is \u2018gradually rolling out\u2019 option to change your @gmail.com address - 9to5Google",
         "description": "Google says on a support page that it is \"gradually rolling out\" a new change allowing users to change their Gmail address.",
         "source_link": "http://9to5google.com/2025/12/24/google-change-gmail-addresses/"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
         "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
         "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!",
         "source_link": "https://www.marvelrivals.com/gameupdate/20251224/41548_1278404.html"
       },
       {
-        "rank": 3,
-        "image": "https://images.ctfassets.net/umhrp0op95v1/6p09MCpJ3shThp7AQLewQ6/abe756d2f320ba25ebe22dbcb7b20022/LA_Team_Update_Final_580x330_CT-000019266.jpg",
-        "title": "Team Update - Balance Patches - Lost Ark",
-        "description": "We've seen significant discussion in the community following recent roadmap announcements, particularly regarding the timing of balance patches. We'd like to provide clarity on what happened and share how we're addressing this.",
-        "source_link": "https://www.playlostark.com/en-us/news/articles/team-update-balance-patches"
-      },
-      {
-        "rank": 4,
-        "image": "https://www.phoronix.net/image.php?id=snapdragon-x-elite-linux-eoy2025&image=x1_elite_2025_1",
-        "title": "Snadragon X Elite Laptop Performance On Linux Ends 2025 Disappointing - Phoronix",
-        "description": "As part of my various end-of-year benchmarking comparison articles for looking at the performance evolution of Linux is a fresh look at the Qualcomm Snapdragon X Elite laptop experience when using Ubuntu 25.10 with the latest X1E Concept packages, which inclu\u2026",
-        "source_link": "https://www.phoronix.com/review/snapdragon-x-elite-linux-eoy2025"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.bleepstatic.com/content/hl-images/2025/12/23/mongoDB.jpg",
-        "title": "MongoDB warns admins to patch severe RCE flaw immediately - BleepingComputer",
-        "description": "MongoDB has warned IT admins to immediately patch a high-severity vulnerability that can be exploited in remote code execution (RCE) attacks targeting vulnerable servers.",
-        "source_link": "https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-rce-flaw-immediately/"
-      },
-      {
         "rank": 6,
-        "image": "https://futurism.com/wp-content/uploads/2025/12/ai-psychosis-startup-images.jpg?w=1200",
-        "title": "Woman Suffers AI Psychosis After Obsessively Generating AI Images of Herself - Futurism",
-        "description": "A woman working for a generative AI image startup says the tech led her into a manic bipolar episode, which triggered psychosis.",
-        "source_link": "http://futurism.com/health-medicine/ai-psychosis-startup-images"
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/OnePlus-15-in-black-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "OnePlus \u2018Turbo\u2019 certainly looks like a phone with a big battery in leaked images [Gallery] - 9to5Google",
+        "description": "OnePlus has already confirmed its plans to launch a new \u201cTurbo\u201d series of devices, and a leak offers up a...",
+        "source_link": "http://9to5google.com/2025/12/24/oneplus-turbo-certainly-looks-like-a-phone-with-a-big-battery-in-leaked-images-gallery/"
       },
       {
         "rank": 7,
-        "image": "https://www.404media.co/content/images/size/w1200/2025/12/IMG_5739.jpeg",
-        "title": "Why I Quit Streaming And Got Back Into Cassettes - 404 Media",
-        "description": "In the age of Spotify and AI slop, tapes remind us what we\u2019re missing when we stop taking risks.",
-        "source_link": "https://www.404media.co/why-i-quit-streaming-and-got-back-into-cassettes/"
+        "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
+        "title": "My Nintendo December Wrap-Up - News - Nintendo Official Site - Nintendo",
+        "description": "The holiday season is upon us and the Metroid Prime\u2122 4: Beyond game is available now on Nintendo Switch\u2122 2 and Nintendo Switch! To celebrate, My Nintendo offered some out-of-this-world rewards in December. Please check them out and enjoy the holiday\u2026",
+        "source_link": "https://www.nintendo.com/us/whatsnew/my-nintendo-december-wrap-up-2025/"
       },
       {
         "rank": 8,
-        "image": "https://assets.warhammer-community.com/grotmas24-dec24-1-feature-3wuqutna53.jpg",
-        "title": "Grotmas Calendar Day 24 \u2013 Da Red Gobbo\u2019s big heist - Warhammer Community",
-        "description": "Will you be naughty or nice in this free battleplan?",
-        "source_link": "https://www.warhammer-community.com/articles/qskksauw/grotmas-calendar-day-24-da-red-gobbos-big-heist"
+        "image": "https://techcrunch.com/wp-content/uploads/2024/12/waymo2.jpg?resize=1200,800",
+        "title": "Waymo is testing Gemini as an in-car AI assistant in its robotaxis - TechCrunch",
+        "description": "Waymo is testing a Gemini-powered in-car AI assistant, per findings from a 1,200-line system prompt. The assistant can answer general knowledge questions, control certain in-cabin features, and more.",
+        "source_link": "https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/"
       },
       {
         "rank": 9,
-        "image": "https://media.wired.com/photos/694af0f4ed8906beb022ac52/191:100/w_1280,c_limit/How%20to%20Choose%20a%20Computer%20Monitor%20top%20art%20122025%20SOURCE%20Best%20Buy.jpg",
-        "title": "Stop Treating Your Monitor Like a Printer. Here\u2019s How to Buy One You\u2019ll Actually Like - WIRED",
-        "description": "Monitors are cheaper, faster, and more beautiful than ever. Here\u2019s how to choose one that will suit your needs and budget.",
-        "source_link": "https://www.wired.com/story/how-to-choose-a-computer-monitor/"
-      },
-      {
-        "rank": 10,
-        "image": "https://monochrome-watches.com/app/uploads/2025/05/Bovet-Recital-30-worldtimer-DST-system-review-1.jpg",
-        "title": "Recap: The Best GMT Watches & World Timers of 2025 - Monochrome Watches",
-        "description": "Travel the world and the seven seas with MONOCHROME's selection of the best World Timer and GMT watches of 2025.",
-        "source_link": "https://monochrome-watches.com/best-gmt-watches-and-world-timers-of-2025-monochrome-team/"
+        "image": "https://sequentialplanet.com/wp-content/uploads/2025/12/71823e178b163c0816e6fb63322e2749f30a19f1e1f519266f1590e79aa1c7ed.jpeg",
+        "title": "Over 60 Nintendo eShop Games You Might Have Missed In 2025 - Sequential Planet",
+        "description": "Looking for the best indie games on the Nintendo Switch tha you didn't even know about? Here are the standouts from 2025.",
+        "source_link": "https://sequentialplanet.com/60-nintendo-eshop-games-you-might-have-missed-in-2025/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
@@ -104,24 +97,24 @@
       },
       {
         "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
         "title": "Five Nights at Freddy's 2",
         "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
         "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
         "title": "Anaconda",
         "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
         "source_link": "https://www.themoviedb.org/movie/1234731"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 8,
