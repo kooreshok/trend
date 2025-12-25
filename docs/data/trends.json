@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 25, 2025, 04:34 UTC",
+  "last_updated": "December 25, 2025, 05:21 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://hackaday.com/wp-content/uploads/2025/12/esp32-c3_super_mini_boards_hacker_university_youtube.jpg",
-        "title": "Be Wary Of Flash-less ESP32-C3 Super Mini Boards - Hackaday",
-        "description": "Everyone loves tiny microcontroller boards, and the ESP32-C3 Super Mini boards are no exception. Unfortunately if you just casually stroll over to your nearest online purveyor of such goods to purc\u2026",
-        "source_link": "https://hackaday.com/2025/12/23/be-wary-of-flash-less-esp32-c3-super-mini-boards/"
+        "image": "https://deadline.com/wp-content/uploads/2025/12/james-bond-007-first-light-delayed.jpg?w=1024",
+        "title": "IOI Delays James Bond Video Game '007: First Light' Release Date \"To Further Polish And Refine The Experience\" - Deadline",
+        "description": "IO Interactive has pushed the release date of the James Bond video game\u00a0007: First Light\u00a0back by two months.",
+        "source_link": "http://deadline.com/2025/12/ioi-james-bond-video-game-007-first-light-release-date-1236656156/"
       },
       {
         "rank": 2,
+        "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/12/23/49dbc47d/2025_rpg_top.jpg.webp",
+        "title": "The Best Tabletop RPGs Of 2025 - Game Informer",
+        "description": "No matter your preference for setting and style, there\u2019s likely a role-playing game from 2025 that will delight your party.",
+        "source_link": "https://gameinformer.com/tabletop/2025/12/23/the-best-tabletop-rpgs-of-2025"
+      },
+      {
+        "rank": 3,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/android-16-qpr3-location-dot-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google rolling out Android 16 QPR3 Beta 1.1 patch - 9to5Google",
         "description": "Following last week\u2019s release, Android 16 QPR3 Beta 1.1 is rolling out with one fix for Pixel devices. This update fixes...",
         "source_link": "http://9to5google.com/2025/12/23/android-16-qpr3-beta-1-1/"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/12/19/502568bf/fo4.jpg.webp",
         "title": "Bethesda Talks Fallout's Future And Lessons Learned - Game Informer",
         "description": "Todd Howard, Angela Browder, Emil Pagliarulo, and Istvan Pely discuss what a hypothetical Fallout 5 could accomplish.",
         "source_link": "https://gameinformer.com/exclusive-interview/2025/12/23/bethesda-talks-fallouts-future-and-lessons-learned"
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "image": "https://images.macrumors.com/t/tRyi6be_nH3YfYIKMeYwHL6L7mA=/2000x/article-new/2025/12/iphone-fold-3d-print.jpg",
+        "title": "Have a 3D Printer? You Can Make Your Own iPhone Fold Dummy - MacRumors",
+        "description": "Apple is working on a foldable iPhone that's set to come out in September 2026, and rumors suggest that it will have a display that's around...",
+        "source_link": "https://www.macrumors.com/2025/12/23/have-a-3d-printer-you-can-make-your-own-iphone-fold-dummy/"
+      },
+      {
+        "rank": 6,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-One-2026-offer-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google One discounting annual 2 TB and AI Pro plans by 50% - 9to5Google",
         "description": "Google One is running a \u201climited time\u201d discount for 2026 where new subscribers can get 50% off 2 TB and AI Pro annual plans.",
         "source_link": "http://9to5google.com/2025/12/23/google-one-2026-offer/"
       },
       {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Google-Pixel-10-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "The Pixel 10, our favorite Android phone, is nearly 50 percent off right now - The Verge",
-        "description": "The Google Pixel 10 is already a great value at its regular $799 price. But you can now snag the smartphone on Amazon for just $449, which is a record-low price.",
-        "source_link": "https://www.theverge.com/gadgets/836995/google-pixel-10-pro-xl-amazon-deal-sale-2025"
-      },
-      {
-        "rank": 6,
+        "rank": 7,
         "image": "https://helios-i.mashable.com/imagery/articles/01zpMhjhzAqKnGoCjahRKJf/hero-image.fill.size_1200x675.v1766508035.jpg",
         "title": "iPhone storage full? Check your System Data. - Mashable",
         "description": "Apple's System Data can take up\u2026how much storage space?!",
         "source_link": "https://mashable.com/article/apple-iphone-ios-system-data-storage-space"
       },
       {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/James-Bond-in-007-First-Light-wearing-sunglasses-in-a-sunny-resort.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Merry Christmas, James Bond game 007 First Light has been delayed - Eurogamer",
-        "description": "The promising James Bond game 007 First Light has been delayed. Danish developer IO Interactive announced the release d\u2026",
-        "source_link": "https://www.eurogamer.net/merry-christmas-james-bond-game-007-first-light-has-been-delayed"
+        "rank": 8,
+        "image": "https://media.wired.com/photos/694af41b580097bbe4e87205/191:100/w_1280,c_limit/Best%20Unlimited%20Plans%20top%20art%20122025%20SOURCE%20Getty%20Images.jpg",
+        "title": "Which Is Better, T-Mobile, Verizon, or AT&T? There Is an Answer - WIRED",
+        "description": "We sifted through the fine print to figure out how to score the best deal on all the major carriers.",
+        "source_link": "https://www.wired.com/story/best-unlimited-phone-plans/"
       },
       {
-        "rank": 8,
+        "rank": 9,
+        "image": "https://images.macrumors.com/t/mhXeR5xMiuNEVboGJ_gnmJZkjNk=/2250x/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-Search.jpg",
+        "title": "Samsung Developing 'Wide Fold' With iPhone Fold-Like Design Ahead of Apple's 2026 Launch - MacRumors",
+        "description": "Samsung is working on a new foldable smartphone that's wider and shorter than the models that it's released before, according to Korean news...",
+        "source_link": "https://www.macrumors.com/2025/12/23/samsung-wide-fold-device/"
+      },
+      {
+        "rank": 10,
         "image": "https://assets-prd.ignimgs.com/2025/12/23/mtg-daily-deals-blogroll-dec-23-1766512168053.png?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Deals for Today: MTG Deals Delivered Before Christmas at Amazon - IGN",
         "description": "Magic: The Gathering Christmas deals are still live!",
         "source_link": "https://www.ign.com/articles/deals-for-today-december-23"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/12/chargebikehead-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "We\u2019ve been lied to \u2013 electric bike motors CAN do regen, at least with this genius trick - Electrek",
-        "description": "If you\u2019ve covered e-bikes as long as I have, you\u2019ll know two things about them: they\u2019re an awesome way to...",
-        "source_link": "http://electrek.co/2025/12/23/weve-been-lied-to-electric-bike-motors-can-do-regen-at-least-with-this-genius-trick/"
-      },
-      {
-        "rank": 10,
-        "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/12/GM-EV-feature.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "GM is inviting EV owners to test this feature that should be standard for all vehicles - Electrek",
-        "description": "If you haven\u2019t used one yet, a Digital Key is life-changing. It should be a given on all new vehicles...",
-        "source_link": "http://electrek.co/2025/12/23/gm-inviting-ev-owners-test-long-awaited-feature/"
       }
     ],
     "trending_movies": [
@@ -118,17 +118,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
-        "title": "Anaconda",
-        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
-        "source_link": "https://www.themoviedb.org/movie/1234731"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
+        "title": "Anaconda",
+        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
+        "source_link": "https://www.themoviedb.org/movie/1234731"
       },
       {
         "rank": 9,
