@@ -1,69 +1,76 @@
 {
-  "last_updated": "December 25, 2025, 01:19 UTC",
+  "last_updated": "December 25, 2025, 03:23 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://hackaday.com/wp-content/uploads/2025/12/esp32-c3_super_mini_boards_hacker_university_youtube.jpg",
+        "title": "Be Wary Of Flash-less ESP32-C3 Super Mini Boards - Hackaday",
+        "description": "Everyone loves tiny microcontroller boards, and the ESP32-C3 Super Mini boards are no exception. Unfortunately if you just casually stroll over to your nearest online purveyor of such goods to purc\u2026",
+        "source_link": "https://hackaday.com/2025/12/23/be-wary-of-flash-less-esp32-c3-super-mini-boards/"
+      },
+      {
+        "rank": 2,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/android-16-qpr3-location-dot-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google rolling out Android 16 QPR3 Beta 1.1 patch - 9to5Google",
         "description": "Following last week\u2019s release, Android 16 QPR3 Beta 1.1 is rolling out with one fix for Pixel devices. This update fixes...",
         "source_link": "http://9to5google.com/2025/12/23/android-16-qpr3-beta-1-1/"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/12/19/502568bf/fo4.jpg.webp",
         "title": "Bethesda Talks Fallout's Future And Lessons Learned - Game Informer",
         "description": "Todd Howard, Angela Browder, Emil Pagliarulo, and Istvan Pely discuss what a hypothetical Fallout 5 could accomplish.",
         "source_link": "https://gameinformer.com/exclusive-interview/2025/12/23/bethesda-talks-fallouts-future-and-lessons-learned"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-One-2026-offer-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google One discounting annual 2 TB and AI Pro plans by 50% - 9to5Google",
         "description": "Google One is running a \u201climited time\u201d discount for 2026 where new subscribers can get 50% off 2 TB and AI Pro annual plans.",
         "source_link": "http://9to5google.com/2025/12/23/google-one-2026-offer/"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Google-Pixel-10-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "The Pixel 10, our favorite Android phone, is nearly 50 percent off right now - The Verge",
         "description": "The Google Pixel 10 is already a great value at its regular $799 price. But you can now snag the smartphone on Amazon for just $449, which is a record-low price.",
         "source_link": "https://www.theverge.com/gadgets/836995/google-pixel-10-pro-xl-amazon-deal-sale-2025"
       },
       {
-        "rank": 5,
+        "rank": 6,
+        "image": "https://helios-i.mashable.com/imagery/articles/01zpMhjhzAqKnGoCjahRKJf/hero-image.fill.size_1200x675.v1766508035.jpg",
+        "title": "iPhone storage full? Check your System Data. - Mashable",
+        "description": "Apple's System Data can take up\u2026how much storage space?!",
+        "source_link": "https://mashable.com/article/apple-iphone-ios-system-data-storage-space"
+      },
+      {
+        "rank": 7,
         "image": "https://assetsio.gnwcdn.com/James-Bond-in-007-First-Light-wearing-sunglasses-in-a-sunny-resort.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Merry Christmas, James Bond game 007 First Light has been delayed - Eurogamer",
         "description": "The promising James Bond game 007 First Light has been delayed. Danish developer IO Interactive announced the release d\u2026",
         "source_link": "https://www.eurogamer.net/merry-christmas-james-bond-game-007-first-light-has-been-delayed"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://assets-prd.ignimgs.com/2025/12/23/mtg-daily-deals-blogroll-dec-23-1766512168053.png?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Deals for Today: MTG Deals Delivered Before Christmas at Amazon - IGN",
         "description": "Magic: The Gathering Christmas deals are still live!",
         "source_link": "https://www.ign.com/articles/deals-for-today-december-23"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/12/chargebikehead-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "We\u2019ve been lied to \u2013 electric bike motors CAN do regen, at least with this genius trick - Electrek",
         "description": "If you\u2019ve covered e-bikes as long as I have, you\u2019ll know two things about them: they\u2019re an awesome way to...",
         "source_link": "http://electrek.co/2025/12/23/weve-been-lied-to-electric-bike-motors-can-do-regen-at-least-with-this-genius-trick/"
       },
       {
-        "rank": 8,
+        "rank": 10,
         "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2025/12/GM-EV-feature.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "GM is inviting EV owners to test this feature that should be standard for all vehicles - Electrek",
         "description": "If you haven\u2019t used one yet, a Digital Key is life-changing. It should be a given on all new vehicles...",
         "source_link": "http://electrek.co/2025/12/23/gm-inviting-ev-owners-test-long-awaited-feature/"
-      },
-      {
-        "rank": 9,
-        "image": "https://monochrome-watches.com/app/uploads/2025/09/Audemars-Piguet-Royal-Oak-Jumbo-Extra-Thin-Selfwinding-Flying-Tourbillon-Chronograph-RD5-150th-Anniversary-video-review-1.jpg",
-        "title": "Recap: The Best Chronograph Watches of 2025 - Monochrome Watches",
-        "description": "A fan favourite and one of the most productive catagories of the watch industry, here are the best chronographs of 2025 for MONOCHROME.",
-        "source_link": "https://monochrome-watches.com/recap-best-chronograph-watches-of-2025-monochrome-team-audemars-rd5-angelus-minerva-breguet-monaco-carbon/"
       }
     ],
     "trending_movies": [
@@ -76,66 +83,66 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
-        "title": "Goodbye June",
-        "description": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season....",
-        "source_link": "https://www.themoviedb.org/movie/1435092"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
+        "title": "Goodbye June",
+        "description": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season....",
+        "source_link": "https://www.themoviedb.org/movie/1435092"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg",
         "title": "Nuremberg",
         "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a compl...",
         "source_link": "https://www.themoviedb.org/movie/1214931"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
-        "title": "Anaconda",
-        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
-        "source_link": "https://www.themoviedb.org/movie/1234731"
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
         "title": "Wake Up Dead Man: A Knives Out Mystery",
         "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
         "source_link": "https://www.themoviedb.org/movie/812583"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
+        "title": "Anaconda",
+        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
+        "source_link": "https://www.themoviedb.org/movie/1234731"
+      },
+      {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/7bLr0xljlMz8Xa8sufcZFhg8gh6.jpg",
+        "title": "The Great Flood",
+        "description": "When a raging flood traps a researcher and her young son, a call to a crucial mission puts their escape \u2014 and the future of humanity \u2014 on the line....",
+        "source_link": "https://www.themoviedb.org/movie/982843"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
         "title": "Springsteen: Deliver Me from Nowhere",
         "description": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past....",
         "source_link": "https://www.themoviedb.org/movie/1230368"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
       }
     ]
   }
