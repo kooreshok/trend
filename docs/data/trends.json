@@ -1,5 +1,5 @@
 {
-  "last_updated": "December 25, 2025, 10:18 UTC",
+  "last_updated": "December 25, 2025, 11:15 UTC",
   "categories": {
     "tech_news": [
       {
@@ -39,54 +39,54 @@
       },
       {
         "rank": 6,
+        "image": "https://www.techpowerup.com/img/b2JGQfsMZdNe1oA4.jpg",
+        "title": "AMD Prepares EXPO v1.2 for Better Memory OC Profiles - TechPowerUp",
+        "description": "AMD's Extended Profiles for Overclocking (EXPO) technology is receiving an update with version 1.2. According to the latest HWiNFO v8.35-5890 Beta, this tool has added support for AMD EXPO 1.2, even though AMD has not officially released this version yet. Cur\u2026",
+        "source_link": "https://www.techpowerup.com/344378/amd-prepares-expo-v1-2-for-better-memory-oc-profiles"
+      },
+      {
+        "rank": 7,
         "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/12/19/502568bf/fo4.jpg.webp",
         "title": "Bethesda Talks Fallout's Future And Lessons Learned - Game Informer",
         "description": "Todd Howard, Angela Browder, Emil Pagliarulo, and Istvan Pely discuss what a hypothetical Fallout 5 could accomplish.",
         "source_link": "https://gameinformer.com/exclusive-interview/2025/12/23/bethesda-talks-fallouts-future-and-lessons-learned"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://images.macrumors.com/t/tRyi6be_nH3YfYIKMeYwHL6L7mA=/2000x/article-new/2025/12/iphone-fold-3d-print.jpg",
         "title": "Have a 3D Printer? You Can Make Your Own iPhone Fold Dummy - MacRumors",
         "description": "Apple is working on a foldable iPhone that's set to come out in September 2026, and rumors suggest that it will have a display that's around...",
         "source_link": "https://www.macrumors.com/2025/12/23/have-a-3d-printer-you-can-make-your-own-iphone-fold-dummy/"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-One-2026-offer-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google One discounting annual 2 TB and AI Pro plans by 50% - 9to5Google",
         "description": "Google One is running a \u201climited time\u201d discount for 2026 where new subscribers can get 50% off 2 TB and AI Pro annual plans.",
         "source_link": "http://9to5google.com/2025/12/23/google-one-2026-offer/"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.mos.cms.futurecdn.net/7zB2gJcAAcv5NLKgnL3SzE-2133-80.jpg",
-        "title": "These are the 10 most expensive Lego Star Wars sets you can get - Space",
-        "description": "If you've ever wondered how many credits a Lego Star Wars set could set you back, you should check out our round-up of the 10 most expensive models out there.",
-        "source_link": "https://www.space.com/entertainment/space-toys-lego/10-most-expensive-lego-star-wars-sets-available-right-now"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
-        "title": "Goodbye June",
-        "description": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season....",
-        "source_link": "https://www.themoviedb.org/movie/1435092"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/gDVgC9jd917NdAcqBdRRDUYi4Tq.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/o8pg20G67BGmQvRkXwstNre062J.jpg",
         "title": "Eternity",
         "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her li...",
         "source_link": "https://www.themoviedb.org/movie/1259102"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
+        "title": "Goodbye June",
+        "description": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season....",
+        "source_link": "https://www.themoviedb.org/movie/1435092"
       },
       {
         "rank": 4,
@@ -132,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/1tUOZQDgZaGqZtrB21MieiXARL2.jpg",
-        "title": "The Great Flood",
-        "description": "When a raging flood traps a researcher and her young son, a call to a crucial mission puts their escape \u2014 and the future of humanity \u2014 on the line....",
-        "source_link": "https://www.themoviedb.org/movie/982843"
+        "image": "https://image.tmdb.org/t/p/w200/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
+        "title": "Springsteen: Deliver Me from Nowhere",
+        "description": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past....",
+        "source_link": "https://www.themoviedb.org/movie/1230368"
       }
     ]
   }
