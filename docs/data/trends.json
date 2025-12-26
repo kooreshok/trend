@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 26, 2025, 22:16 UTC",
+  "last_updated": "December 26, 2025, 23:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://personacentral.com/wp-content/uploads/2025/12/ex-33.jpg",
+        "title": "Top Games of 2025 for Three Atlus Staff Members - Persona Central",
+        "description": "Weekly Famitsu issue 1929 includes the magazine's annual feature on the most popular games played in 2025, featuring Atlus staff favorites.",
+        "source_link": "https://personacentral.com/famitsu-popular-games-2025/"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.phoronix.net/image.php?id=amd-strix-halo-linux-7&image=strixhalo_linux_2",
+        "title": "Arch Linux Powered CachyOS To Develop A Server Edition - Phoronix",
+        "description": "The Arch Linux based CachyOS has been quite popular with Linux gamers and enthusiasts for offering leading out-of-the-box performance, especially following the shutdown of Intel's Clear Linux",
+        "source_link": "https://www.phoronix.com/news/CachyOS-Server-Edition-Coming"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Galaxy-Z-TriFold-durability-test-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Galaxy Z TriFold suffers horrific defeat in durability test; there\u2019s just more to break - 9to5Google",
+        "description": "Unlike its less impressive successor, the Galaxy Z TriFold just can\u2019t stand up to the same sort of bend abuse...",
+        "source_link": "http://9to5google.com/2025/12/25/galaxy-z-trifold-durability-test/"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.techspot.com/images2/news/bigimage/2025/12/2025-12-25-image-8.jpg",
+        "title": "This Windows registry hack can boost NVMe SSD performance by up to 80%, but there's a catch - TechSpot",
+        "description": "One developer who successfully activated the feature in Windows 11 (version 25H2) claims it works pretty good on his computer. He provided a step-by-step guide on how...",
+        "source_link": "https://www.techspot.com/news/110711-windows-registry-hack-can-boost-nvme-ssd-performance.html"
+      },
+      {
+        "rank": 5,
         "image": "https://www.jalopnik.com/img/gallery/my-most-anticipated-video-game-of-2026-might-be-this-simple-vibes-based-lanesplitting-indie/l-intro-1766427628.jpg",
         "title": "My Most Anticipated Video Game Of 2026 Might Be This Simple Vibes-Based Lanesplitting Indie - Jalopnik",
         "description": "\"LANESPLIT\" is a simple game from a one-person developer, and at my advanced age of 29 that's the kind of game I have the time and energy to play after work.",
         "source_link": "https://www.jalopnik.com/2058433/simple-vibes-based-lanesplitting-indie-game/"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://techcrunch.com/wp-content/uploads/2016/11/robotbutterfly.jpg?resize=1200,849",
         "title": "How a Spanish virus brought Google to M\u00e1laga - TechCrunch",
         "description": "Spanish entrepreneur Bernardo Quintero, whose company is at the root of Google's M\u00e1laga cybersecurity hub, identified the author of the computer virus that influenced his career.",
         "source_link": "https://techcrunch.com/2025/12/25/how-a-spanish-virus-brought-google-to-malaga/"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://hackaday.com/wp-content/uploads/2025/12/I-Built-An-On-Call-Pager-_-ESP32-1-13-screenshot.png",
         "title": "MQTT Pager Build Is Bringing Beepers Back - Hackaday",
         "description": "Pagers were once a great way to get a message to someone out in public; they just had to be cool enough to have one. These days, they\u2019re mostly the preserve of doctors and a few other niche o\u2026",
         "source_link": "https://hackaday.com/2025/12/25/mqtt-pager-build-is-bringing-beepers-back/"
       },
       {
-        "rank": 4,
+        "rank": 8,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilE7Msp1lYJM1W-49tumH5rIeNglY-r28Gn3JM7ojFKfftXyQI-H3ika3-APi-7s39ndeBuPq0kwT930n03eCbJL_lK_58a0wsNRL7SEXMRKEQsRpuY4msq6GXLqoN_wS9yalbdiqEfitLAP-ATqC_fw0itRvqs9lGUqucW1uZRKbjNbFA9__VHzjGI6bv/s16000/Change%20Gmail%20Address.webp",
+        "title": "Google Now Allows Users to Change Their @gmail.com Email Address - CybersecurityNews",
+        "description": "For years, one of the most persistent frustrations for Google users has been the inability to alter their primary email address without creating an entirely new account. Whether you are stuck with an unprofessional handle created in high school or simply want\u2026",
+        "source_link": "https://cybersecuritynews.com/change-gmail-address/"
+      },
+      {
+        "rank": 9,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/12/nicolas-j-leclercq-SZ6Uc4chfCo-unsplash.jpg?resize=1200,800",
+        "title": "The best distraction blockers to jumpstart your focus in the new year - TechCrunch",
+        "description": "Whether you need to limit social media scrolling or block off time to be productive, there are different tools that can help you stay on task",
+        "source_link": "https://techcrunch.com/2025/12/25/the-best-distraction-blockers-to-jumpstart-your-focus-in-the-new-year/"
+      },
+      {
+        "rank": 10,
         "image": "https://assets.warhammer-community.com/1-feature-1ru5xrlbyi.jpg",
         "title": "Grotmas Calendar Day 25 \u2013 Huron Blackheart strides forth from the Maelstrom - Warhammer Community",
         "description": "Witness the dark glory of the Christmas Day reveal!",
         "source_link": "https://www.warhammer-community.com/articles/dusvlufn/grotmas-calendar-day-25-huron-blackheart-strides-forth-from-the-maelstrom"
-      },
-      {
-        "rank": 5,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Stardew-Valley-Switch-2-released.jpg",
-        "title": "Stardew Valley \u2013 Nintendo Switch 2 Edition has just released - Nintendo Everything",
-        "description": "Just before the end of the new year, Stardew Valley \u2013 Nintendo Switch 2 Edition has released. You can grab it digitally right now. Stardew Valley \u2013 Nintendo Switch 2 Edition is largely the same game as the original, but with some extras. It features mouse con\u2026",
-        "source_link": "https://nintendoeverything.com/stardew-valley-nintendo-switch-2-edition-has-just-released/"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.videocardz.com/1/2025/12/12V2x6-CABLE-DEBATE-HERO.jpg",
-        "title": "Nine brands responded on whether it\u2019s better to use a native 12V-2\u00d76 cable or the bundled GPU adapter - VideoCardz.com",
-        "description": "Nine brands on 12V-2x6 power cables and adapters - opinions are split Tech Overwrite had an interesting idea for a video: ask GPU and PSU brands directly",
-        "source_link": "https://videocardz.com/newz/nine-brands-responded-on-whether-its-better-to-use-a-native-12v-2x6-cable-or-the-bundled-gpu-adapter"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.phoronix.net/image.php?id=radeon-radv-amdvlk-final&image=amdvlk_final_1",
-        "title": "Final Benchmarks Of AMDVLK vs. RADV AMD Radeon Vulkan Drivers - Phoronix",
-        "description": "One of the pleasant surprises this year was AMD ending the AMDVLK driver development with AMD dropping their proprietary OpenGL and Vulkan driver components on Linux at long last for their Radeon Software for Linux packages.",
-        "source_link": "https://www.phoronix.com/review/radeon-radv-amdvlk-final"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.videocardz.com/1/2025/12/INTEL-CORE-ULTRA-200K-PLUS-HERO2.jpg",
-        "title": "Intel Core Ultra 200K Plus series reportedly aiming at \"more for the same price\" approach - VideoCardz.com",
-        "description": "Rumor: Intel Core Ultra 200S Plus (Arrow Lake Refresh) may add more E cores, keep LGA1851 Board Channel sources claim Intel will leverage a more mature",
-        "source_link": "https://videocardz.com/newz/intel-core-ultra-200k-plus-series-reportedly-aiming-at-more-for-the-same-price-approach"
-      },
-      {
-        "rank": 9,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/hand-holding-a-google-pixel-phone-next-to-a-qi2-wireless-charger-separated-by-a-red-warning-exclamation-mark.png?w=1600&h=900&fit=crop",
-        "title": "Google's Qi2 implementation is a disaster for anyone who owns an old charger - Android Police",
-        "description": "Google's Qi2 rollout breaks wireless charging for millions",
-        "source_link": "https://www.androidpolice.com/googles-qi2-charging-problem/"
-      },
-      {
-        "rank": 10,
-        "image": "https://cdn.thenewstack.io/media/2025/12/66987595-donald-knuth-total-number-of-knights-tour-solutions-screenshot-from-christmas-lecture-2025-via-stanford-online-youtube-channel-1.png",
-        "title": "Donald Knuth\u2019s 2025 Christmas Lecture: The Knight\u2019s Tours - The New Stack",
-        "description": "This year, Knuth took a detour, sharing his recent breakthroughs in classifying and counting the trillions of ways a knight can visit every square on a chessboard.",
-        "source_link": "https://thenewstack.io/donald-knuths-2025-christmas-lecture-the-knights-tours/"
       }
     ],
     "trending_movies": [
@@ -97,7 +97,7 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/6eA1sUOhxAOQvCSClLsBLzmZzdK.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
         "title": "Marty Supreme",
         "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
