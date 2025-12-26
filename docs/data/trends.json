@@ -1,78 +1,85 @@
 {
-  "last_updated": "December 26, 2025, 14:16 UTC",
+  "last_updated": "December 26, 2025, 15:17 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/android-robot-search.png?w=1600&h=900&fit=crop",
-        "title": "I refuse to use a new Android phone without installing this free app first - Android Police",
-        "description": "It fixes Android's biggest everyday usability gap",
-        "source_link": "https://www.androidpolice.com/i-refuse-to-use-new-android-phone-without-installing-this-free-app-first/"
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Pixel-10-Pro-XL-in-sunlight.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Got a new Google Pixel? Here are the first settings you should change - 9to5Google",
+        "description": "The Pixel series is one of the best Android devices available. Even though Android\u2019s guided setup process does a fine...",
+        "source_link": "http://9to5google.com/first-settings-to-change-on-a-new-google-pixel/"
       },
       {
         "rank": 2,
+        "image": "https://blog.tipranks.com/wp-content/uploads/2025/12/shutterstock_2699525661-750x406.jpg",
+        "title": "AI Boom Sparks RAM Crisis: PC and Phone Makers Slash Memory Specs - TipRanks",
+        "description": "A severe shortage in DRAM chips is pushing memory prices to record highs. The trend is forcing companies that build laptops and smartphones to cut memory in new mod...",
+        "source_link": "https://www.tipranks.com/news/ai-boom-sparks-ram-crisis-pc-and-phone-makers-slash-memory-specs"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.cnet.com/a/img/resize/e2d69a3894f68bfc90e6794eab969bf3df1d51a5/hub/2025/12/22/c888e367-b84c-465c-a585-5ea0a976585f/screenshot-2025-12-22-at-10-47-48am.png?auto=webp&fit=crop&height=675&width=1200",
+        "title": "This Two-Faced Watch Band Lets You Hide an Apple Watch Under Your Rolex - CNET",
+        "description": "The $418 Smartlet literally bridges the gap between your elegant analogy and your nerdy smartwatch.",
+        "source_link": "https://www.cnet.com/tech/mobile/this-two-faced-watch-band-lets-you-hide-an-apple-watch-under-your-rolex/"
+      },
+      {
+        "rank": 4,
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe96ebd43-6d06-4dca-877c-17baa0546699.jpg?source=next-barrier-page",
+        "title": "AI \u2018world models\u2019 promise to reshape $190bn video games industry - Financial Times",
+        "description": "Google DeepMind and Fei-Fei Li\u2019s World Labs target gaming with AI-generated 3D environments",
+        "source_link": "https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112"
+      },
+      {
+        "rank": 5,
+        "image": "https://fwmedia.fandomwire.com/wp-content/uploads/2025/12/25043635/linkedin-games-dec-25-2025.jpg",
+        "title": "All LinkedIn Games Solutions for Today (December 25, 2025) - FandomWire",
+        "description": "LinkedIn Games offers you plenty of interesting puzzles, like Zip, Queens, Mini Sudoku, etc., to solve! And for us, we offer you answers for them!",
+        "source_link": "https://fandomwire.com/all-linkedin-games-solutions-for-today-december-25-2025/"
+      },
+      {
+        "rank": 6,
         "image": "https://hackaday.com/wp-content/uploads/2025/12/How-To-Build-the-BEST-3D-Printed-sim-racing-SHIFTER-Supercar-feeling-for-CHEAP-8-20-screenshot.png",
         "title": "Building A High-Performance Shifter For Sim Racing - Hackaday",
         "description": "These days, sim racing is more realistic than ever. There are better screens, better headsets, and better steering wheels with better force-feedback, all of which help make you feel like you\u2019\u2026",
         "source_link": "https://hackaday.com/2025/12/25/building-a-high-performance-shifter-for-sim-racing/"
       },
       {
-        "rank": 3,
-        "image": "https://cdn.80.lv/api/upload/meta/46088/images/694ce58574fc3/contain_1200x630.jpg",
-        "title": "Twitter/X Now Lets Anyone AI-Edit Your Images, And There's No Opting Out - 80 Level",
-        "description": "There's one method to \"opt out,\" but it's awful to say the least.",
-        "source_link": "https://80.lv/articles/twitter-x-now-lets-anyone-ai-edit-your-images-and-there-s-no-opting-out"
+        "rank": 7,
+        "image": "https://cdn.mos.cms.futurecdn.net/PSpzazPsDVbiEZ6MaD3QpX-1920-80.jpg",
+        "title": "Turns out AI is even less creative than we thought - Creative Bloq",
+        "description": "Research shows how it reverts to \u201cvisual elevator music\".",
+        "source_link": "https://www.creativebloq.com/ai/turns-out-ai-is-even-less-creative-than-we-thought"
       },
       {
-        "rank": 4,
+        "rank": 8,
+        "image": "https://hackaday.com/wp-content/uploads/2025/12/rotoforge_tool_head.png",
+        "title": "Printing With Metal On The Ender 3 Using Only A Friction Wheel - Hackaday",
+        "description": "Printing metal as easily as it is to printed with thermoplastics has been a dream for a very long time, with options for hobbyists being very scarce. This is something which [Rotoforge] seeks to ch\u2026",
+        "source_link": "https://hackaday.com/2025/12/24/printing-with-metal-on-the-ender-3-using-only-a-friction-wheel/"
+      },
+      {
+        "rank": 9,
         "image": "https://www.travelandleisure.com/thmb/epAlM5Kj5h1PkQCnP61Ay8YWfHw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tal-after-christmas-sale-tout-f01aeab6d5d1407086a321d057792036.jpg",
         "title": "Amazon\u2019s After-Christmas Sale Is Stocked With Outdoor Gear Deals Up to 70% Off\u2014Shop Cotopaxi, Osprey, and More - Travel + Leisure",
         "description": "Amazon's after-Christmas sale is filled with incredible deals on hiking and camping gear from Osprey, Cotopaxi, The North Face, and more top brands up to 70 percent off. Upgrade your outdoor gear with high-quality tents, camping chairs, hiking boots, and more\u2026",
         "source_link": "https://www.travelandleisure.com/best-amazon-after-christmas-sale-hiking-camping-deals-2025-11868099"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.hindustantimes.com/ht-img/img/2025/12/25/1600x900/logo/AWS_down_1766634077321_1766634077491.JPG",
-        "title": "AWS servers down: ARC Raiders, Fortnite, Rocket League, Epic Games - Full list of games affected | Hindustan Times - Hindustan Times",
-        "description": "An Amazon Web Services (AWS) outage is disrupting multiple online gaming services, including ARC Raiders, Fortnite, Rocket League",
-        "source_link": "https://www.hindustantimes.com/world-news/us-news/aws-servers-down-arc-raiders-fortnite-rocket-league-epic-games-playstation-steam-embark-amazon-web-services-101766633418025.html"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.gematsu.com/wp-content/uploads/2025/12/Exist-Archive-Delisting_12-25-25.jpg",
-        "title": "Exist Archive: The Other Side of the Sky to be delisted on January 1, 2026 for PS4 in Japan, January 5 for PS Vita - Gematsu",
-        "description": "Spike Chunsoft will delist the digital version of tri-Ace-developed RPG Exist Archive: The Other Side of the Sky for PlayStation 4 on January 1, 2026 at 00:00 JST in Japan, and for PS Vita on Janua\u2026",
-        "source_link": "https://www.gematsu.com/2025/12/exist-archive-the-other-side-of-the-sky-to-be-delisted-on-january-1-2026-for-ps4-in-japan-january-5-for-ps-vita"
-      },
-      {
-        "rank": 7,
-        "image": "https://hackaday.com/wp-content/uploads/2025/12/This-DIY-3D-Printed-Camera-Lens-Creates-Pixel-Art-1-7-screenshot.png",
-        "title": "Mesh \u201cLens\u201d Lets Your Camera Make Weird Pixel Art - Hackaday",
-        "description": "We seldom talk about 3D printing lenses because most techniques can\u2019t possibly produce transparent parts of optical quality. However, you can 3D print something\u00a0like a lens, as [Luke Edwin] d\u2026",
-        "source_link": "https://hackaday.com/2025/12/24/mesh-lens-lets-your-camera-make-weird-pixel-art/"
-      },
-      {
-        "rank": 8,
-        "image": "https://hackaday.com/wp-content/uploads/2025/03/CELL_BE_processor_PS3_board.jpg",
-        "title": "Abusing X86 SIMD Instructions To Optimize PlayStation 3 Emulation - Hackaday",
-        "description": "Key to efficient hardware emulation is an efficient mapping to the underlying CPU\u2019s opcodes. Here one is free to target opcodes that may or may not have been imagined for that particular use.\u2026",
-        "source_link": "https://hackaday.com/2025/12/24/abusing-x86-simd-instructions-to-optimize-playstation-3-emulation/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 3,
@@ -104,31 +111,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
-        "title": "Anaconda",
-        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
-        "source_link": "https://www.themoviedb.org/movie/1234731"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg",
-        "title": "Nuremberg",
-        "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a compl...",
-        "source_link": "https://www.themoviedb.org/movie/1214931"
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
+        "title": "Anaconda",
+        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
+        "source_link": "https://www.themoviedb.org/movie/1234731"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/6eA1sUOhxAOQvCSClLsBLzmZzdK.jpg",
         "title": "Marty Supreme",
         "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg",
+        "title": "Nuremberg",
+        "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a compl...",
+        "source_link": "https://www.themoviedb.org/movie/1214931"
       }
     ]
   }
