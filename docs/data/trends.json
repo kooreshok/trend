@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 26, 2025, 20:17 UTC",
+  "last_updated": "December 26, 2025, 21:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.jalopnik.com/img/gallery/my-most-anticipated-video-game-of-2026-might-be-this-simple-vibes-based-lanesplitting-indie/l-intro-1766427628.jpg",
+        "title": "My Most Anticipated Video Game Of 2026 Might Be This Simple Vibes-Based Lanesplitting Indie - Jalopnik",
+        "description": "\"LANESPLIT\" is a simple game from a one-person developer, and at my advanced age of 29 that's the kind of game I have the time and energy to play after work.",
+        "source_link": "https://www.jalopnik.com/2058433/simple-vibes-based-lanesplitting-indie-game/"
+      },
+      {
+        "rank": 2,
+        "image": "https://techcrunch.com/wp-content/uploads/2016/11/robotbutterfly.jpg?resize=1200,849",
+        "title": "How a Spanish virus brought Google to M\u00e1laga - TechCrunch",
+        "description": "Spanish entrepreneur Bernardo Quintero, whose company is at the root of Google's M\u00e1laga cybersecurity hub, identified the author of the computer virus that influenced his career.",
+        "source_link": "https://techcrunch.com/2025/12/25/how-a-spanish-virus-brought-google-to-malaga/"
+      },
+      {
+        "rank": 3,
+        "image": "https://hackaday.com/wp-content/uploads/2025/12/I-Built-An-On-Call-Pager-_-ESP32-1-13-screenshot.png",
+        "title": "MQTT Pager Build Is Bringing Beepers Back - Hackaday",
+        "description": "Pagers were once a great way to get a message to someone out in public; they just had to be cool enough to have one. These days, they\u2019re mostly the preserve of doctors and a few other niche o\u2026",
+        "source_link": "https://hackaday.com/2025/12/25/mqtt-pager-build-is-bringing-beepers-back/"
+      },
+      {
+        "rank": 4,
         "image": "https://assets.warhammer-community.com/1-feature-1ru5xrlbyi.jpg",
         "title": "Grotmas Calendar Day 25 \u2013 Huron Blackheart strides forth from the Maelstrom - Warhammer Community",
         "description": "Witness the dark glory of the Christmas Day reveal!",
         "source_link": "https://www.warhammer-community.com/articles/dusvlufn/grotmas-calendar-day-25-huron-blackheart-strides-forth-from-the-maelstrom"
       },
       {
-        "rank": 2,
+        "rank": 5,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Stardew-Valley-Switch-2-released.jpg",
+        "title": "Stardew Valley \u2013 Nintendo Switch 2 Edition has just released - Nintendo Everything",
+        "description": "Just before the end of the new year, Stardew Valley \u2013 Nintendo Switch 2 Edition has released. You can grab it digitally right now. Stardew Valley \u2013 Nintendo Switch 2 Edition is largely the same game as the original, but with some extras. It features mouse con\u2026",
+        "source_link": "https://nintendoeverything.com/stardew-valley-nintendo-switch-2-edition-has-just-released/"
+      },
+      {
+        "rank": 6,
+        "image": "https://cdn.videocardz.com/1/2025/12/12V2x6-CABLE-DEBATE-HERO.jpg",
+        "title": "Nine brands responded on whether it\u2019s better to use a native 12V-2\u00d76 cable or the bundled GPU adapter - VideoCardz.com",
+        "description": "Nine brands on 12V-2x6 power cables and adapters - opinions are split Tech Overwrite had an interesting idea for a video: ask GPU and PSU brands directly",
+        "source_link": "https://videocardz.com/newz/nine-brands-responded-on-whether-its-better-to-use-a-native-12v-2x6-cable-or-the-bundled-gpu-adapter"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.phoronix.net/image.php?id=radeon-radv-amdvlk-final&image=amdvlk_final_1",
+        "title": "Final Benchmarks Of AMDVLK vs. RADV AMD Radeon Vulkan Drivers - Phoronix",
+        "description": "One of the pleasant surprises this year was AMD ending the AMDVLK driver development with AMD dropping their proprietary OpenGL and Vulkan driver components on Linux at long last for their Radeon Software for Linux packages.",
+        "source_link": "https://www.phoronix.com/review/radeon-radv-amdvlk-final"
+      },
+      {
+        "rank": 8,
         "image": "https://cdn.videocardz.com/1/2025/12/INTEL-CORE-ULTRA-200K-PLUS-HERO2.jpg",
         "title": "Intel Core Ultra 200K Plus series reportedly aiming at \"more for the same price\" approach - VideoCardz.com",
         "description": "Rumor: Intel Core Ultra 200S Plus (Arrow Lake Refresh) may add more E cores, keep LGA1851 Board Channel sources claim Intel will leverage a more mature",
         "source_link": "https://videocardz.com/newz/intel-core-ultra-200k-plus-series-reportedly-aiming-at-more-for-the-same-price-approach"
       },
       {
-        "rank": 3,
-        "image": "https://www.phoronix.net/image.php?id=2025&image=phoenix_x",
-        "title": "Phoenix: A New X Server Written From Scratch With Zig - Phoronix",
-        "description": "For X11/X.Org fans there is a new Christmas surprise: Phoenix as an in-development X Server written from scratch using the Zig programming language.",
-        "source_link": "https://www.phoronix.com/news/Phoenix-X-Server"
-      },
-      {
-        "rank": 4,
+        "rank": 9,
         "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/hand-holding-a-google-pixel-phone-next-to-a-qi2-wireless-charger-separated-by-a-red-warning-exclamation-mark.png?w=1600&h=900&fit=crop",
         "title": "Google's Qi2 implementation is a disaster for anyone who owns an old charger - Android Police",
         "description": "Google's Qi2 rollout breaks wireless charging for millions",
         "source_link": "https://www.androidpolice.com/googles-qi2-charging-problem/"
       },
       {
-        "rank": 5,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Pixel-10-Pro-XL-in-sunlight.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Got a new Google Pixel? Here are the first settings you should change - 9to5Google",
-        "description": "The Pixel series is one of the best Android devices available. Even though Android\u2019s guided setup process does a fine...",
-        "source_link": "http://9to5google.com/first-settings-to-change-on-a-new-google-pixel/"
-      },
-      {
-        "rank": 6,
-        "image": "https://blog.tipranks.com/wp-content/uploads/2025/12/shutterstock_2699525661-750x406.jpg",
-        "title": "AI Boom Sparks RAM Crisis: PC and Phone Makers Slash Memory Specs - TipRanks",
-        "description": "A severe shortage in DRAM chips is pushing memory prices to record highs. The trend is forcing companies that build laptops and smartphones to cut memory in new mod...",
-        "source_link": "https://www.tipranks.com/news/ai-boom-sparks-ram-crisis-pc-and-phone-makers-slash-memory-specs"
-      },
-      {
-        "rank": 7,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2025/12/Exynos-2500-2.jpg",
-        "title": "Samsung\u2019s Exynos 2800 Reportedly Features The Company\u2019s In-House GPU And Is Scheduled To Launch In 2027; SoC Can Be Found In Applications Beyond Smartphones - Wccftech",
-        "description": "The Exynos 2800 is reported to be Samsung\u2019s first chipset featuring the company\u2019s in-house graphics processor and could launch in 2027",
-        "source_link": "https://wccftech.com/exynos-2800-to-feature-samsung-in-house-gpu-to-be-used-in-more-than-just-smartphones/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.cnet.com/a/img/resize/e2d69a3894f68bfc90e6794eab969bf3df1d51a5/hub/2025/12/22/c888e367-b84c-465c-a585-5ea0a976585f/screenshot-2025-12-22-at-10-47-48am.png?auto=webp&fit=crop&height=675&width=1200",
-        "title": "This Two-Faced Watch Band Lets You Hide an Apple Watch Under Your Rolex - CNET",
-        "description": "The $418 Smartlet literally bridges the gap between your elegant analogy and your nerdy smartwatch.",
-        "source_link": "https://www.cnet.com/tech/mobile/this-two-faced-watch-band-lets-you-hide-an-apple-watch-under-your-rolex/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.phoronix.net/image.php?id=2023&image=intel_more_optimizations",
-        "title": "The Death Of Clear Linux, Other Intel Linux Engineering Setbacks In 2025 - Phoronix",
-        "description": "When it came to the most viewed AMD Linux/open-source news of 2025 there were a lot of accomplishments for the company this year both on the CPU and graphics side of the house and from consumer to server hardware",
-        "source_link": "https://www.phoronix.com/news/Intel-Linux-News-2025"
-      },
-      {
         "rank": 10,
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe96ebd43-6d06-4dca-877c-17baa0546699.jpg?source=next-barrier-page",
-        "title": "AI \u2018world models\u2019 promise to reshape $190bn video games industry - Financial Times",
-        "description": "Google DeepMind and Fei-Fei Li\u2019s World Labs target gaming with AI-generated 3D environments",
-        "source_link": "https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112"
+        "image": "https://cdn.thenewstack.io/media/2025/12/66987595-donald-knuth-total-number-of-knights-tour-solutions-screenshot-from-christmas-lecture-2025-via-stanford-online-youtube-channel-1.png",
+        "title": "Donald Knuth\u2019s 2025 Christmas Lecture: The Knight\u2019s Tours - The New Stack",
+        "description": "This year, Knuth took a detour, sharing his recent breakthroughs in classifying and counting the trillions of ways a knight can visit every square on a chessboard.",
+        "source_link": "https://thenewstack.io/donald-knuths-2025-christmas-lecture-the-knights-tours/"
       }
     ],
     "trending_movies": [
@@ -97,10 +97,10 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
+        "image": "https://image.tmdb.org/t/p/w200/6eA1sUOhxAOQvCSClLsBLzmZzdK.jpg",
+        "title": "Marty Supreme",
+        "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
         "rank": 5,
@@ -111,10 +111,10 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/6eA1sUOhxAOQvCSClLsBLzmZzdK.jpg",
-        "title": "Marty Supreme",
-        "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
+        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
         "rank": 7,
@@ -125,17 +125,17 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg",
-        "title": "Nuremberg",
-        "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a compl...",
-        "source_link": "https://www.themoviedb.org/movie/1214931"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg",
+        "title": "Nuremberg",
+        "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a compl...",
+        "source_link": "https://www.themoviedb.org/movie/1214931"
       },
       {
         "rank": 10,
