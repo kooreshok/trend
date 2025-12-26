@@ -1,69 +1,76 @@
 {
-  "last_updated": "December 26, 2025, 18:24 UTC",
+  "last_updated": "December 26, 2025, 19:13 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets.warhammer-community.com/1-feature-1ru5xrlbyi.jpg",
+        "title": "Grotmas Calendar Day 25 \u2013 Huron Blackheart strides forth from the Maelstrom - Warhammer Community",
+        "description": "Witness the dark glory of the Christmas Day reveal!",
+        "source_link": "https://www.warhammer-community.com/articles/dusvlufn/grotmas-calendar-day-25-huron-blackheart-strides-forth-from-the-maelstrom"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.videocardz.com/1/2025/12/INTEL-CORE-ULTRA-200K-PLUS-HERO2.jpg",
+        "title": "Intel Core Ultra 200K Plus series reportedly aiming at \"more for the same price\" approach - VideoCardz.com",
+        "description": "Rumor: Intel Core Ultra 200S Plus (Arrow Lake Refresh) may add more E cores, keep LGA1851 Board Channel sources claim Intel will leverage a more mature",
+        "source_link": "https://videocardz.com/newz/intel-core-ultra-200k-plus-series-reportedly-aiming-at-more-for-the-same-price-approach"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.phoronix.net/image.php?id=2025&image=phoenix_x",
+        "title": "Phoenix: A New X Server Written From Scratch With Zig - Phoronix",
+        "description": "For X11/X.Org fans there is a new Christmas surprise: Phoenix as an in-development X Server written from scratch using the Zig programming language.",
+        "source_link": "https://www.phoronix.com/news/Phoenix-X-Server"
+      },
+      {
+        "rank": 4,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/hand-holding-a-google-pixel-phone-next-to-a-qi2-wireless-charger-separated-by-a-red-warning-exclamation-mark.png?w=1600&h=900&fit=crop",
+        "title": "Google's Qi2 implementation is a disaster for anyone who owns an old charger - Android Police",
+        "description": "Google's Qi2 rollout breaks wireless charging for millions",
+        "source_link": "https://www.androidpolice.com/googles-qi2-charging-problem/"
+      },
+      {
+        "rank": 5,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Pixel-10-Pro-XL-in-sunlight.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Got a new Google Pixel? Here are the first settings you should change - 9to5Google",
         "description": "The Pixel series is one of the best Android devices available. Even though Android\u2019s guided setup process does a fine...",
         "source_link": "http://9to5google.com/first-settings-to-change-on-a-new-google-pixel/"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://blog.tipranks.com/wp-content/uploads/2025/12/shutterstock_2699525661-750x406.jpg",
         "title": "AI Boom Sparks RAM Crisis: PC and Phone Makers Slash Memory Specs - TipRanks",
         "description": "A severe shortage in DRAM chips is pushing memory prices to record highs. The trend is forcing companies that build laptops and smartphones to cut memory in new mod...",
         "source_link": "https://www.tipranks.com/news/ai-boom-sparks-ram-crisis-pc-and-phone-makers-slash-memory-specs"
       },
       {
-        "rank": 3,
+        "rank": 7,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2025/12/Exynos-2500-2.jpg",
+        "title": "Samsung\u2019s Exynos 2800 Reportedly Features The Company\u2019s In-House GPU And Is Scheduled To Launch In 2027; SoC Can Be Found In Applications Beyond Smartphones - Wccftech",
+        "description": "The Exynos 2800 is reported to be Samsung\u2019s first chipset featuring the company\u2019s in-house graphics processor and could launch in 2027",
+        "source_link": "https://wccftech.com/exynos-2800-to-feature-samsung-in-house-gpu-to-be-used-in-more-than-just-smartphones/"
+      },
+      {
+        "rank": 8,
         "image": "https://www.cnet.com/a/img/resize/e2d69a3894f68bfc90e6794eab969bf3df1d51a5/hub/2025/12/22/c888e367-b84c-465c-a585-5ea0a976585f/screenshot-2025-12-22-at-10-47-48am.png?auto=webp&fit=crop&height=675&width=1200",
         "title": "This Two-Faced Watch Band Lets You Hide an Apple Watch Under Your Rolex - CNET",
         "description": "The $418 Smartlet literally bridges the gap between your elegant analogy and your nerdy smartwatch.",
         "source_link": "https://www.cnet.com/tech/mobile/this-two-faced-watch-band-lets-you-hide-an-apple-watch-under-your-rolex/"
       },
       {
-        "rank": 4,
+        "rank": 9,
+        "image": "https://www.phoronix.net/image.php?id=2023&image=intel_more_optimizations",
+        "title": "The Death Of Clear Linux, Other Intel Linux Engineering Setbacks In 2025 - Phoronix",
+        "description": "When it came to the most viewed AMD Linux/open-source news of 2025 there were a lot of accomplishments for the company this year both on the CPU and graphics side of the house and from consumer to server hardware",
+        "source_link": "https://www.phoronix.com/news/Intel-Linux-News-2025"
+      },
+      {
+        "rank": 10,
         "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe96ebd43-6d06-4dca-877c-17baa0546699.jpg?source=next-barrier-page",
         "title": "AI \u2018world models\u2019 promise to reshape $190bn video games industry - Financial Times",
         "description": "Google DeepMind and Fei-Fei Li\u2019s World Labs target gaming with AI-generated 3D environments",
         "source_link": "https://www.ft.com/content/9b1b1bc3-6573-451d-892b-e6abb819a112"
-      },
-      {
-        "rank": 5,
-        "image": "https://fwmedia.fandomwire.com/wp-content/uploads/2025/12/25043635/linkedin-games-dec-25-2025.jpg",
-        "title": "All LinkedIn Games Solutions for Today (December 25, 2025) - FandomWire",
-        "description": "LinkedIn Games offers you plenty of interesting puzzles, like Zip, Queens, Mini Sudoku, etc., to solve! And for us, we offer you answers for them!",
-        "source_link": "https://fandomwire.com/all-linkedin-games-solutions-for-today-december-25-2025/"
-      },
-      {
-        "rank": 6,
-        "image": "https://hackaday.com/wp-content/uploads/2025/12/How-To-Build-the-BEST-3D-Printed-sim-racing-SHIFTER-Supercar-feeling-for-CHEAP-8-20-screenshot.png",
-        "title": "Building A High-Performance Shifter For Sim Racing - Hackaday",
-        "description": "These days, sim racing is more realistic than ever. There are better screens, better headsets, and better steering wheels with better force-feedback, all of which help make you feel like you\u2019\u2026",
-        "source_link": "https://hackaday.com/2025/12/25/building-a-high-performance-shifter-for-sim-racing/"
-      },
-      {
-        "rank": 7,
-        "image": "https://cdn.mos.cms.futurecdn.net/PSpzazPsDVbiEZ6MaD3QpX-1920-80.jpg",
-        "title": "Turns out AI is even less creative than we thought - Creative Bloq",
-        "description": "Research shows how it reverts to \u201cvisual elevator music\".",
-        "source_link": "https://www.creativebloq.com/ai/turns-out-ai-is-even-less-creative-than-we-thought"
-      },
-      {
-        "rank": 8,
-        "image": "https://hackaday.com/wp-content/uploads/2025/12/rotoforge_tool_head.png",
-        "title": "Printing With Metal On The Ender 3 Using Only A Friction Wheel - Hackaday",
-        "description": "Printing metal as easily as it is to printed with thermoplastics has been a dream for a very long time, with options for hobbyists being very scarce. This is something which [Rotoforge] seeks to ch\u2026",
-        "source_link": "https://hackaday.com/2025/12/24/printing-with-metal-on-the-ender-3-using-only-a-friction-wheel/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.travelandleisure.com/thmb/epAlM5Kj5h1PkQCnP61Ay8YWfHw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tal-after-christmas-sale-tout-f01aeab6d5d1407086a321d057792036.jpg",
-        "title": "Amazon\u2019s After-Christmas Sale Is Stocked With Outdoor Gear Deals Up to 70% Off\u2014Shop Cotopaxi, Osprey, and More - Travel + Leisure",
-        "description": "Amazon's after-Christmas sale is filled with incredible deals on hiking and camping gear from Osprey, Cotopaxi, The North Face, and more top brands up to 70 percent off. Upgrade your outdoor gear with high-quality tents, camping chairs, hiking boots, and more\u2026",
-        "source_link": "https://www.travelandleisure.com/best-amazon-after-christmas-sale-hiking-camping-deals-2025-11868099"
       }
     ],
     "trending_movies": [
@@ -83,59 +90,59 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg",
-        "title": "Nuremberg",
-        "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a compl...",
-        "source_link": "https://www.themoviedb.org/movie/1214931"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/o8pg20G67BGmQvRkXwstNre062J.jpg",
         "title": "Eternity",
         "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her li...",
         "source_link": "https://www.themoviedb.org/movie/1259102"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
         "title": "Five Nights at Freddy's 2",
         "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
         "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
         "title": "Anaconda",
         "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
         "source_link": "https://www.themoviedb.org/movie/1234731"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/1tUOZQDgZaGqZtrB21MieiXARL2.jpg",
-        "title": "The Great Flood",
-        "description": "When a raging flood traps a researcher and her young son, a call to a crucial mission puts their escape \u2014 and the future of humanity \u2014 on the line....",
-        "source_link": "https://www.themoviedb.org/movie/982843"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/6eA1sUOhxAOQvCSClLsBLzmZzdK.jpg",
+        "title": "Marty Supreme",
+        "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
         "title": "Goodbye June",
         "description": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season....",
         "source_link": "https://www.themoviedb.org/movie/1435092"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
-        "title": "Springsteen: Deliver Me from Nowhere",
-        "description": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past....",
-        "source_link": "https://www.themoviedb.org/movie/1230368"
-      },
-      {
-        "rank": 10,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
         "title": "Wake Up Dead Man: A Knives Out Mystery",
         "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
         "source_link": "https://www.themoviedb.org/movie/812583"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg",
+        "title": "Nuremberg",
+        "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a compl...",
+        "source_link": "https://www.themoviedb.org/movie/1214931"
       }
     ]
   }
