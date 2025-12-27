@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 27, 2025, 12:32 UTC",
+  "last_updated": "December 27, 2025, 13:25 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://compote.slate.com/images/3b29367d-6c49-49e5-82ac-a62569ea9afb.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+        "title": "Tech Companies Love Using This Tiny Symbol. It\u2019s More Insidious Than You Think. - Slate",
+        "description": "No, chatbots aren\u2019t magic\u2014but this symbol makes you think they are.",
+        "source_link": "https://slate.com/technology/2025/12/artificial-intelligence-tools-icon-google-gemini-chatgpt-design.html"
+      },
+      {
+        "rank": 2,
         "image": "https://image.cnbcfm.com/api/v1/image/108231458-1764050689057-gettyimages-2246202362-3h4a0159_jgqqwm01.jpeg?v=1766735037&w=1920&h=1080",
         "title": "Google is rolling out a new feature allowing users to change their Gmail address - CNBC",
         "description": "Google says it is rolling out a feature that lets users change their Gmail addresses in a long-requested update to their email policy.",
         "source_link": "https://www.cnbc.com/2025/12/26/google-gmail-change-email-address-without-new-account-india-hindi-support.html"
       },
       {
-        "rank": 2,
-        "image": "https://images.nintendolife.com/c313fa1ca82e6/large.jpg",
-        "title": "Surprise! Stardew Valley - Nintendo Switch 2 Edition Is Now Available - Nintendo Life",
-        "description": "A free update for existing Switch players",
-        "source_link": "https://www.nintendolife.com/news/2025/12/surprise-stardew-valley-nintendo-switch-2-edition-is-now-available"
+        "rank": 3,
+        "image": "https://www.gematsu.com/wp-content/uploads/2025/12/Dear-Mirror-Flower_12-25-25.jpg",
+        "title": "Dear Mirror Flower for Switch launches April 30, 2026 in Japan - Gematsu",
+        "description": "The Switch version of Japanese-style fantasy visual novel Dear Mirror Flower will launch on April 30, 2026, developer Kogado Studio announced.",
+        "source_link": "https://www.gematsu.com/2025/12/dear-mirror-flower-for-switch-launches-april-30-2026-in-japan"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "image": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltb55383942eb129f1/6945392f7541365913005fcf/immortals.jpg",
+        "title": "PlayStation Plus Free Game Is an Underrated 25-Hour Open-World RPG - GAMINGbible",
+        "description": "This underrated PlayStation Plus open-world RPG could be the perfect thing to play this festive break, lasting 25 hours.",
+        "source_link": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-free-game-underrated-open-world-rpg-370800-20251219"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.yankodesign.com/images/design_news/2025/12/draft-best-of-2025/yd_best_designs_of_2025_1.jpeg",
+        "title": "10 Best Editor-Picked Designs From 2025 Show How Nostalgia Beat Every Tech Trend - Yanko Design",
+        "description": "I read somewhere that Nostalgia sells harder than Innovation and it really made me do a double-take. Does it make sense? Well, not really, considering how fast",
+        "source_link": "https://www.yankodesign.com/2025/12/25/10-best-editor-picked-designs-from-2025-show-how-nostalgia-beat-every-tech-trend/"
+      },
+      {
+        "rank": 6,
         "image": "https://www.slashgear.com/img/gallery/how-does-androids-new-airdrop-style-feature-actually-work/l-intro-1766379334.jpg",
         "title": "How Does Android's New AirDrop-Style Feature Actually Work? - SlashGear",
         "description": "Android's new AirDrop feature is built in Rust for better security, stems from an EU ruling that required Apple to open up AirDrop to third-party devices.",
         "source_link": "https://www.slashgear.com/2057701/how-does-androids-new-airdrop-style-feature-actually-work/"
       },
       {
-        "rank": 4,
-        "image": "https://www.bgr.com/img/gallery/5-of-the-best-electric-vehicles-under-50k-according-to-consumer-reports/l-intro-1766165944.jpg",
-        "title": "5 Of The Best Electric Vehicles Under $50k, According To Consumer Reports - bgr.com",
-        "description": "Cars like the Hyundai Ioniq 6, Mustang Mach\u2011E, and Nissan Ariya are among the best electric vehicles under $50,000, as shown by reviews from Consumer Reports.",
-        "source_link": "https://www.bgr.com/2056354/best-electric-vehicles-under-50000-according-consumer-reports-2025/"
+        "rank": 7,
+        "image": "https://helios-i.mashable.com/imagery/articles/01iQKMy5khWzCxvRI5LDdvY/hero-image.fill.size_1200x675.v1765781218.jpg",
+        "title": "This $40 Microsoft bundle makes an old PC feel brand new - Mashable",
+        "description": "Spoil an old PC with this bundle.",
+        "source_link": "https://mashable.com/article/dec-25-the-ultimate-microsoft-office-professional-2021-for-windows"
       },
       {
-        "rank": 5,
-        "image": "https://helios-i.mashable.com/imagery/articles/00jevOyHALEc78yV2PmK12b/hero-image.fill.size_1200x675.v1765805954.jpg",
-        "title": "Make your aging computer feel brand new with Windows 11 Pro, now just $10 - Mashable",
-        "description": "Yes, it's only $10.",
-        "source_link": "https://mashable.com/article/dec-25-microsoft-windows-11-pro"
+        "rank": 8,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Metroid-Prime-4-open-world.jpg",
+        "title": "Nintendo discusses its approach to Metroid Prime 4, talks why it isn\u2019t open-world - Nintendo Everything",
+        "description": "Nintendo has shared some interesting insight into how it approached Metroid Prime 4 and has discussed why the game isn\u2019t open-world. It seems the company noticed at least some fan interest in seeing the franchise adopt that approach. However, rather than goin\u2026",
+        "source_link": "https://nintendoeverything.com/nintendo-discusses-its-approach-to-metroid-prime-4-and-why-it-isnt-open-world/"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/penn-and-umich-create.jpg",
         "title": "Researchers create world's smallest programmable, autonomous robots - Tech Xplore",
         "description": "Researchers at the University of Pennsylvania and University of Michigan have created the world's smallest fully programmable, autonomous robots: microscopic swimming machines that can independently sense and respond to their surroundings, operate for months \u2026",
         "source_link": "https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html"
       },
       {
-        "rank": 7,
-        "image": "https://personacentral.com/wp-content/uploads/2025/12/ex-33.jpg",
-        "title": "Top Games of 2025 for Three Atlus Staff Members - Persona Central",
-        "description": "Weekly Famitsu issue 1929 includes the magazine's annual feature on the most popular games played in 2025, featuring Atlus staff favorites.",
-        "source_link": "https://personacentral.com/famitsu-popular-games-2025/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.phoronix.net/image.php?id=amd-strix-halo-linux-7&image=strixhalo_linux_2",
-        "title": "Arch Linux Powered CachyOS To Develop A Server Edition - Phoronix",
-        "description": "The Arch Linux based CachyOS has been quite popular with Linux gamers and enthusiasts for offering leading out-of-the-box performance, especially following the shutdown of Intel's Clear Linux",
-        "source_link": "https://www.phoronix.com/news/CachyOS-Server-Edition-Coming"
-      },
-      {
-        "rank": 9,
-        "image": "https://petapixel.com/assets/uploads/2025/12/fujifilm-2025-recap-featured.jpg",
-        "title": "Fujifilm in 2025: High Highs and Low Lows - PetaPixel",
-        "description": "The GFX100RF and X-E5 are obvious standouts.",
-        "source_link": "https://petapixel.com/2025/12/25/fujifilm-in-2025-high-highs-and-low-lows/"
-      },
-      {
         "rank": 10,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Galaxy-Z-TriFold-durability-test-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Galaxy Z TriFold suffers horrific defeat in durability test; there\u2019s just more to break - 9to5Google",
-        "description": "Unlike its less impressive successor, the Galaxy Z TriFold just can\u2019t stand up to the same sort of bend abuse...",
-        "source_link": "http://9to5google.com/2025/12/25/galaxy-z-trifold-durability-test/"
+        "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-guy-using-a-gaming-pc-with-a-launcher-and-an-illustration-of-a-rocket-falling-down.jpg?w=1600&h=900&fit=crop",
+        "title": "The most common PC performance issue takes just five seconds to fix - How-To Geek",
+        "description": "Your graphics card might be sitting idle.",
+        "source_link": "https://www.howtogeek.com/the-most-common-pc-performance-issue-takes-seconds-fix/"
       }
     ],
     "trending_movies": [
@@ -104,31 +104,31 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
-        "title": "Goodbye June",
-        "description": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season....",
-        "source_link": "https://www.themoviedb.org/movie/1435092"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
         "title": "Five Nights at Freddy's 2",
         "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
         "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
-        "title": "TRON: Ares",
-        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
-        "source_link": "https://www.themoviedb.org/movie/533533"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
+        "source_link": "https://www.themoviedb.org/movie/812583"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+        "title": "TRON: Ares",
+        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
+        "source_link": "https://www.themoviedb.org/movie/533533"
       },
       {
         "rank": 9,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
-        "title": "Wake Up Dead Man: A Knives Out Mystery",
-        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
-        "source_link": "https://www.themoviedb.org/movie/812583"
+        "image": "https://image.tmdb.org/t/p/w200/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
+        "title": "Goodbye June",
+        "description": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season....",
+        "source_link": "https://www.themoviedb.org/movie/1435092"
       }
     ]
   }
