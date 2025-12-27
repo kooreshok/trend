@@ -1,76 +1,62 @@
 {
-  "last_updated": "December 27, 2025, 20:18 UTC",
+  "last_updated": "December 27, 2025, 21:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://personacentral.com/wp-content/uploads/2025/06/Persona-4-Revival-Screenshot-3.jpg",
+        "title": "Atlus 2026 Aspirations Tease Upcoming Persona 30th Anniversary Announcements - Persona Central",
+        "description": "4Gamer has published their annual feature for 2026 aspirations of Japanese game developers, including 7 from Atlus.",
+        "source_link": "https://personacentral.com/atlus-2026-aspirations-tease/"
+      },
+      {
+        "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2025/12/maxresdefault-1200x675.jpg",
+        "title": "Level-5 CEO Wants People To Stop Demonizing Generative AI - Kotaku",
+        "description": "Level-5 CEO Akihiro Hino has shared further thoughts on AI after a past interview of his went viral online",
+        "source_link": "https://kotaku.com/professor-layton-boss-wants-people-to-stop-demonizing-generative-ai-2000655721"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/pdfriender-2pad-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "This clever car charger delivers fast charging while using wired Android Auto & CarPlay [Gallery] - 9to5Google",
+        "description": "As crucial as\u00a0Android Auto\u00a0and CarPlay have become to daily driving, the core problem remains. Wired connections charge your phone slowly,...",
+        "source_link": "http://9to5google.com/2025/12/26/android-auto-carplay-wired-fast-charging-adapter/"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://podcast.posttv.com/series/20251223/t_1766519264091_name_LDMKVZQQORE2VFTKUAET2VDRTU.jpg&w=1440",
+        "title": "This school banned phones. Remarkable things happened. - The Washington Post",
+        "description": "After Ballard High School banned phones, they saw a 67 percent increase in students checking out library books. We hear from psychologist Jean Twenge about what phone bans can do for kids.",
+        "source_link": "https://www.washingtonpost.com/podcasts/post-reports/this-school-banned-phones-remarkable-things-happened/"
+      },
+      {
+        "rank": 5,
+        "image": "https://monochrome-watches.com/app/uploads/2025/12/best-luxury-sports-watches-2025-integrated-bracelet.jpg",
+        "title": "Recap: The Best Integrated and Elegant Sports Watches of 2025 - Monochrome Watches",
+        "description": "From accessible steel to haute horlogerie, the integrated sports watch evolves again. And here are the best ones of 2025.",
+        "source_link": "https://monochrome-watches.com/best-integrated-bracelet-and-luxury-sports-watches-of-2025-recap-monochrome/"
+      },
+      {
+        "rank": 6,
         "image": "https://ep1.pinkbike.org/p4pb29138562/p4pb29138562.jpg",
         "title": "Mountain Bike of the Year Winner - Pinkbike",
         "description": "And the winner is...",
         "source_link": "https://www.pinkbike.com/news/2025-pinkbike-awards-mountain-bike-of-the-year-winner.html"
       },
       {
-        "rank": 2,
+        "rank": 7,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/blackhole4-1152x648-1760991049.jpg",
         "title": "Embark on a visual voyage of art inspired by black holes - Ars Technica",
         "description": "Art and science converge in Lynn Gamwell's book, Conjuring the Void: The Art of Black Holes...",
         "source_link": "https://arstechnica.com/science/2025/12/embark-on-a-visual-voyage-of-art-inspired-by-black-holes/"
       },
       {
-        "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/cyberpunk.avif?quality=90&strip=all&crop=0,3.4908443405002,100,93.018311319",
-        "title": "Cyberpunk 2077: Ultimate Edition and other Switch games are up to 50 percent off - The Verge",
-        "description": "Along with Nintendo\u2019s discounts on many of its games, there are major discounts on Amazon smart speakers, a powerful Anker charger, and Apple Airtags",
-        "source_link": "https://www.theverge.com/gadgets/850279/cyberpunk-2077-ultimate-edition-and-other-nintendo-games-are-up-to-50-percent-off"
-      },
-      {
-        "rank": 4,
-        "image": "https://gizmodo.com/app/uploads/2022/08/e6c38dc9e957b2589afe5c693a199858.jpg",
-        "title": "Google May Finally Let Users Change Embarrassing Old Gmail Addresses - Gizmodo",
-        "description": "Updated support pages in multiple languages suggest a long-requested feature is quietly rolling out worldwide.",
-        "source_link": "https://gizmodo.com/google-may-finally-let-users-change-embarrassing-old-gmail-addresses-2000703487"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UL5PBS5HCKWL4TSQZAZCJKGSCY.jpg&w=1440",
-        "title": "Leaked documents show Instagram\u2019s plan to win back teens - The Washington Post",
-        "description": "Instagram has pursued a yearslong strategy to win teens back to the  app after its critics said the platform wasn\u2019t safe for them, documents obtained by The Post show.",
-        "source_link": "https://www.washingtonpost.com/technology/2025/12/26/meta-instagram-teen-strategy/"
-      },
-      {
-        "rank": 6,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-15-at-11.50.52-AM.png?resize=1200,836",
-        "title": "Treat yourself: The best smart glasses to buy with your holiday gift money - TechCrunch",
-        "description": "Whether you\u2019re looking to get a pair yourself or just want to explore what\u2019s available on the market today, we\u2019ve compiled a list of the most compelling pairs available.",
-        "source_link": "https://techcrunch.com/2025/12/26/treat-yourself-the-best-smart-glasses-to-buy-with-your-holiday-gift-money/"
-      },
-      {
-        "rank": 7,
-        "image": "https://cdn.videocardz.com/1/2025/12/EXYNOS-2600-HERO.jpg",
-        "title": "Samsung Exynos 2600 Xclipse 960 GPU said to use AMD RDNA4-derived architecture - VideoCardz.com",
-        "description": "Report claims Exynos 2600 uses MGFX4 RDNA4-derived graphics Samsung's Exynos 2600 is the first Exynos chip said to use an AMD RDNA4-based GPU",
-        "source_link": "https://videocardz.com/newz/samsung-exynos-2600-xclipse-960-gpu-said-to-use-amd-rdna4-derived-architecture"
-      },
-      {
         "rank": 8,
-        "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/12/26/5387f398/Stardew%20Valley.jpg.webp",
-        "title": "Stardew Valley Nintendo Switch 2 Edition Out Now With Mouse Controls, Local Split-Screen, And More - Game Informer",
-        "description": "With Game Share, you only need one copy to play with friends.",
-        "source_link": "https://gameinformer.com/2025/12/26/stardew-valley-nintendo-switch-2-edition-out-now-with-mouse-controls-local-split-screen"
-      },
-      {
-        "rank": 9,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6929c6d57e4cd8e193b25a70/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "Destiny 2\u2019s Renegades Is Great But Not Changing Its Playercount Trend - Forbes",
-        "description": "Destiny 2's new Renegades expansion is excellent, but does not seem to be the shot in the arm the game needs.",
-        "source_link": "https://www.forbes.com/sites/paultassi/2025/12/26/destiny-2s-renegades-is-great-but-not-changing-its-playercount-trend/"
-      },
-      {
-        "rank": 10,
-        "image": "https://gizmodo.com/app/uploads/2025/12/foldableiphone-1200x675.jpg",
-        "title": "Leaker Who Apple Is Suing Says \u2018Screw It,\u2019 Here\u2019s the Foldable iPhone Early - Gizmodo",
-        "description": "The YouTuber doesn't seem fazed by Apple's threats.",
-        "source_link": "https://gizmodo.com/leaker-who-apple-is-suing-says-screw-it-heres-the-foldable-iphone-early-2000703449"
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/airpods-pro3-holiday.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Just unwrap new AirPods Pro? Here are the must-try features - 9to5Mac",
+        "description": "Did you just unwrap new AirPods Pro? If so, it\u2019s key that you know there is a lot more to...",
+        "source_link": "https://9to5mac.com/2025/12/26/new-airpods-pro-features-tricks-tips/"
       }
     ],
     "trending_movies": [
@@ -90,38 +76,38 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
-        "title": "Anaconda",
-        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
-        "source_link": "https://www.themoviedb.org/movie/1234731"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/o8pg20G67BGmQvRkXwstNre062J.jpg",
         "title": "Eternity",
         "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her li...",
         "source_link": "https://www.themoviedb.org/movie/1259102"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
         "title": "Five Nights at Freddy's 2",
         "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
         "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
-        "title": "TRON: Ares",
-        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
-        "source_link": "https://www.themoviedb.org/movie/533533"
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
+        "title": "Anaconda",
+        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
+        "source_link": "https://www.themoviedb.org/movie/1234731"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
         "title": "Wake Up Dead Man: A Knives Out Mystery",
         "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
         "source_link": "https://www.themoviedb.org/movie/812583"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+        "title": "TRON: Ares",
+        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
+        "source_link": "https://www.themoviedb.org/movie/533533"
       },
       {
         "rank": 8,
@@ -139,10 +125,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-        "title": "Now You See Me: Now You Don't",
-        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
-        "source_link": "https://www.themoviedb.org/movie/425274"
+        "image": "https://image.tmdb.org/t/p/w200/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+        "title": "The Running Man",
+        "description": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly c...",
+        "source_link": "https://www.themoviedb.org/movie/798645"
       }
     ]
   }
