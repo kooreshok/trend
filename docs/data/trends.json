@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 27, 2025, 01:17 UTC",
+  "last_updated": "December 27, 2025, 03:20 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://helios-i.mashable.com/imagery/articles/00jevOyHALEc78yV2PmK12b/hero-image.fill.size_1200x675.v1765805954.jpg",
+        "title": "Make your aging computer feel brand new with Windows 11 Pro, now just $10 - Mashable",
+        "description": "Yes, it's only $10.",
+        "source_link": "https://mashable.com/article/dec-25-microsoft-windows-11-pro"
+      },
+      {
+        "rank": 2,
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2025/penn-and-umich-create.jpg",
+        "title": "Researchers create world's smallest programmable, autonomous robots - Tech Xplore",
+        "description": "Researchers at the University of Pennsylvania and University of Michigan have created the world's smallest fully programmable, autonomous robots: microscopic swimming machines that can independently sense and respond to their surroundings, operate for months \u2026",
+        "source_link": "https://techxplore.com/news/2025-12-world-smallest-programmable-autonomous-robots.html"
+      },
+      {
+        "rank": 3,
         "image": "https://personacentral.com/wp-content/uploads/2025/12/ex-33.jpg",
         "title": "Top Games of 2025 for Three Atlus Staff Members - Persona Central",
         "description": "Weekly Famitsu issue 1929 includes the magazine's annual feature on the most popular games played in 2025, featuring Atlus staff favorites.",
         "source_link": "https://personacentral.com/famitsu-popular-games-2025/"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://www.phoronix.net/image.php?id=amd-strix-halo-linux-7&image=strixhalo_linux_2",
         "title": "Arch Linux Powered CachyOS To Develop A Server Edition - Phoronix",
         "description": "The Arch Linux based CachyOS has been quite popular with Linux gamers and enthusiasts for offering leading out-of-the-box performance, especially following the shutdown of Intel's Clear Linux",
         "source_link": "https://www.phoronix.com/news/CachyOS-Server-Edition-Coming"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://petapixel.com/assets/uploads/2025/12/fujifilm-2025-recap-featured.jpg",
+        "title": "Fujifilm in 2025: High Highs and Low Lows - PetaPixel",
+        "description": "The GFX100RF and X-E5 are obvious standouts.",
+        "source_link": "https://petapixel.com/2025/12/25/fujifilm-in-2025-high-highs-and-low-lows/"
+      },
+      {
+        "rank": 6,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Galaxy-Z-TriFold-durability-test-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Galaxy Z TriFold suffers horrific defeat in durability test; there\u2019s just more to break - 9to5Google",
         "description": "Unlike its less impressive successor, the Galaxy Z TriFold just can\u2019t stand up to the same sort of bend abuse...",
         "source_link": "http://9to5google.com/2025/12/25/galaxy-z-trifold-durability-test/"
       },
       {
-        "rank": 4,
-        "image": "https://www.techspot.com/images2/news/bigimage/2025/12/2025-12-25-image-8.jpg",
-        "title": "This Windows registry hack can boost NVMe SSD performance by up to 80%, but there's a catch - TechSpot",
-        "description": "One developer who successfully activated the feature in Windows 11 (version 25H2) claims it works pretty good on his computer. He provided a step-by-step guide on how...",
-        "source_link": "https://www.techspot.com/news/110711-windows-registry-hack-can-boost-nvme-ssd-performance.html"
-      },
-      {
-        "rank": 5,
+        "rank": 7,
         "image": "https://www.jalopnik.com/img/gallery/my-most-anticipated-video-game-of-2026-might-be-this-simple-vibes-based-lanesplitting-indie/l-intro-1766427628.jpg",
         "title": "My Most Anticipated Video Game Of 2026 Might Be This Simple Vibes-Based Lanesplitting Indie - Jalopnik",
         "description": "\"LANESPLIT\" is a simple game from a one-person developer, and at my advanced age of 29 that's the kind of game I have the time and energy to play after work.",
         "source_link": "https://www.jalopnik.com/2058433/simple-vibes-based-lanesplitting-indie-game/"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://techcrunch.com/wp-content/uploads/2016/11/robotbutterfly.jpg?resize=1200,849",
         "title": "How a Spanish virus brought Google to M\u00e1laga - TechCrunch",
         "description": "Spanish entrepreneur Bernardo Quintero, whose company is at the root of Google's M\u00e1laga cybersecurity hub, identified the author of the computer virus that influenced his career.",
         "source_link": "https://techcrunch.com/2025/12/25/how-a-spanish-virus-brought-google-to-malaga/"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://hackaday.com/wp-content/uploads/2025/12/I-Built-An-On-Call-Pager-_-ESP32-1-13-screenshot.png",
         "title": "MQTT Pager Build Is Bringing Beepers Back - Hackaday",
         "description": "Pagers were once a great way to get a message to someone out in public; they just had to be cool enough to have one. These days, they\u2019re mostly the preserve of doctors and a few other niche o\u2026",
         "source_link": "https://hackaday.com/2025/12/25/mqtt-pager-build-is-bringing-beepers-back/"
       },
       {
-        "rank": 8,
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilE7Msp1lYJM1W-49tumH5rIeNglY-r28Gn3JM7ojFKfftXyQI-H3ika3-APi-7s39ndeBuPq0kwT930n03eCbJL_lK_58a0wsNRL7SEXMRKEQsRpuY4msq6GXLqoN_wS9yalbdiqEfitLAP-ATqC_fw0itRvqs9lGUqucW1uZRKbjNbFA9__VHzjGI6bv/s16000/Change%20Gmail%20Address.webp",
-        "title": "Google Now Allows Users to Change Their @gmail.com Email Address - CybersecurityNews",
-        "description": "For years, one of the most persistent frustrations for Google users has been the inability to alter their primary email address without creating an entirely new account. Whether you are stuck with an unprofessional handle created in high school or simply want\u2026",
-        "source_link": "https://cybersecuritynews.com/change-gmail-address/"
-      },
-      {
-        "rank": 9,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/12/nicolas-j-leclercq-SZ6Uc4chfCo-unsplash.jpg?resize=1200,800",
-        "title": "The best distraction blockers to jumpstart your focus in the new year - TechCrunch",
-        "description": "Whether you need to limit social media scrolling or block off time to be productive, there are different tools that can help you stay on task",
-        "source_link": "https://techcrunch.com/2025/12/25/the-best-distraction-blockers-to-jumpstart-your-focus-in-the-new-year/"
-      },
-      {
         "rank": 10,
-        "image": "https://assets.warhammer-community.com/1-feature-1ru5xrlbyi.jpg",
-        "title": "Grotmas Calendar Day 25 \u2013 Huron Blackheart strides forth from the Maelstrom - Warhammer Community",
-        "description": "Witness the dark glory of the Christmas Day reveal!",
-        "source_link": "https://www.warhammer-community.com/articles/dusvlufn/grotmas-calendar-day-25-huron-blackheart-strides-forth-from-the-maelstrom"
+        "image": "https://www.slashgear.com/img/gallery/5-things-to-never-plug-into-your-chromebooks-usb-ports/l-intro-1765860805.jpg",
+        "title": "5 Things To Never Plug Into Your Chromebook's USB Ports - SlashGear",
+        "description": "Your Chromebook's USB ports may be vulnerable to number of these items.",
+        "source_link": "https://www.slashgear.com/2056845/things-to-never-plug-into-chromebook-usb-ports/"
       }
     ],
     "trending_movies": [
@@ -97,24 +97,24 @@
       },
       {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
         "title": "Anaconda",
         "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
         "source_link": "https://www.themoviedb.org/movie/1234731"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
         "title": "Wake Up Dead Man: A Knives Out Mystery",
         "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
         "source_link": "https://www.themoviedb.org/movie/812583"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
         "rank": 7,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
         "title": "Goodbye June",
         "description": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season....",
         "source_link": "https://www.themoviedb.org/movie/1435092"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg",
+        "title": "Fackham Hall",
+        "description": "A new porter embarks on an unlikely relationship with the youngest daughter of a prominent English family. Simultaneously, rivalries are spilling over...",
+        "source_link": "https://www.themoviedb.org/movie/1175174"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg",
-        "title": "Nuremberg",
-        "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a compl...",
-        "source_link": "https://www.themoviedb.org/movie/1214931"
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
       }
     ]
   }
