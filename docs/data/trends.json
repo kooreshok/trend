@@ -1,13 +1,13 @@
 {
-  "last_updated": "December 28, 2025, 08:21 UTC",
+  "last_updated": "December 28, 2025, 09:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://images.nintendolife.com/243eef77e0dca/large.jpg",
-        "title": "Switch Online's 'Missions And Rewards' Brings Back Previous 2025 Icons - Nintendo Life",
-        "description": "Get them while you can!",
-        "source_link": "https://www.nintendolife.com/news/2025/12/switch-onlines-missions-and-rewards-brings-back-previous-2025-icons"
+        "image": "https://www.phoronix.net/image.php?id=2025&image=qnx_desktop_os",
+        "title": "QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop - Phoronix",
+        "description": "Announced earlier in December but flying under the radar until now is the initial reoease of a QNX Self-Hosted Developer Desktop",
+        "source_link": "https://www.phoronix.com/news/QNX-Self-Hosted-Dev-Desktop"
       },
       {
         "rank": 2,
@@ -60,10 +60,10 @@
       },
       {
         "rank": 9,
-        "image": "https://scx2.b-cdn.net/gfx/news/2025/detecting-the-hidden-m.jpg",
-        "title": "Detecting the hidden magnetism of altermagnets - Phys.org",
-        "description": "Altermagnets are a newly recognized class of antiferromagnets whose magnetic structure behaves very differently from what is found in conventional systems. In conventional antiferromagnets, the sublattices are linked by simple inversion or translation, result\u2026",
-        "source_link": "https://phys.org/news/2025-12-hidden-magnetism-altermagnets.html"
+        "image": "https://hackaday.com/wp-content/uploads/2025/12/Composite-video-test-pattern-generator-1.png",
+        "title": "Pocket-sized Test Pattern Generator Helps Check Those CRTs - Hackaday",
+        "description": "[Nicholas Murray]\u2019s Composite Test Pattern Generator is a beautifully-made, palm-sized tool that uses an ESP32-based development board to output different test patterns in PAL/NTSC. If one is\u2026",
+        "source_link": "https://hackaday.com/2025/12/26/pocket-sized-test-pattern-generator-helps-check-those-crts/"
       }
     ],
     "trending_movies": [
@@ -97,17 +97,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
-        "title": "Wake Up Dead Man: A Knives Out Mystery",
-        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
-        "source_link": "https://www.themoviedb.org/movie/812583"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
+        "source_link": "https://www.themoviedb.org/movie/812583"
       },
       {
         "rank": 7,
@@ -118,24 +118,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
-        "title": "TRON: Ares",
-        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
-        "source_link": "https://www.themoviedb.org/movie/533533"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
         "title": "Marty Supreme",
         "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
         "title": "Now You See Me: Now You Don't",
         "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
         "source_link": "https://www.themoviedb.org/movie/425274"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+        "title": "TRON: Ares",
+        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
+        "source_link": "https://www.themoviedb.org/movie/533533"
       }
     ]
   }
