@@ -1,76 +1,76 @@
 {
-  "last_updated": "December 29, 2025, 16:21 UTC",
+  "last_updated": "December 29, 2025, 17:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://hackaday.com/wp-content/uploads/2025/12/real_photo-16-9.png",
+        "title": "Cheetah MX4 Mini: A Pint-Sized 3D Printer Controller - Hackaday",
+        "description": "There\u2019s a seemingly unending list of modifications or upgrades you can make to a 3D printer. Most revolve around the mechanical side of things, many are simple prints or small add-ons. This upgrade\u2026",
+        "source_link": "https://hackaday.com/2025/12/28/cheetah-mx4-mini-a-pint-sized-3d-printer-controller/"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2024/09/Windows-11-728x410.png",
+        "title": "Microsoft Rolling Out An Update To Reduce RAM Usage In Windows 11 File Explorer Search Feature - Wccftech",
+        "description": "Microsoft is working on reducing the RAM usage in Windows 11 Build 26220.07523 for users who use the search feature in file Explorer.",
+        "source_link": "https://wccftech.com/microsoft-rolling-out-an-update-to-reduce-ram-usage-in-windows-11-file-explorer-search-feature/"
+      },
+      {
+        "rank": 3,
         "image": "https://www.jalopnik.com/img/gallery/in-the-porsche-718-cayman-gt4-rs-getting-lost-is-the-best-part-of-the-drive/l-intro-1766427018.jpg",
         "title": "In The Porsche 718 Cayman GT4 RS, Getting Lost Is The Best Part Of The Drive - Jalopnik",
         "description": "This is a car dedicated to driving, all other things be damned, and it's probably one of the last that'll ever do it quite like this.",
         "source_link": "https://www.jalopnik.com/2058413/porsche-718-cayman-gt4-rs-getting-lost-review/"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/12/victorinox-synergy-alox-gp100-macro.webp",
+        "title": "Victorinox Has Never Made a Swiss Army Knife as Modern and Handy as This One Before - Gear Patrol",
+        "description": "The stylish Synergy Alox boasts two user-friendly features you rarely find on SAKs, especially those of the urban EDC variety.",
+        "source_link": "https://www.gearpatrol.com/outdoors/victorinox-synergy-alox-gp100/"
+      },
+      {
+        "rank": 5,
         "image": "https://cdn.videocardz.com/1/2025/12/4TB-MEMORY-CORVETTE.jpg",
         "title": "This 4 TB DDR5 RDIMM kit is now more expensive than a sports car - VideoCardz.com",
         "description": "This 4 TB DDR5 kit just hit $76,999 The kit is sold by NEMIX and is built for servers and workstations, not gaming rigs. It is a 16-stick set, with 16x",
         "source_link": "https://videocardz.com/newz/this-4-tb-ddr5-rdimm-kit-is-now-more-expensive-than-a-sports-car"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_PLAYSTATION.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "The best PS5 games from 2025 - The Verge",
         "description": "The PS5 had a great year in 2025 with games like Death Stranding 2, Ghost of Y\u014dtei, and Final Fantasy Tactics.",
         "source_link": "https://www.theverge.com/games/846828/ps5-best-games-2025"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://cdn.videocardz.com/1/2025/12/ITMEDIA-GPU-JAPAN.jpg",
         "title": "Japan retailers impose purchase limits as 16GB RTX 5060 Ti and RX 9600 XT stock tightens - VideoCardz.com",
         "description": "High VRAM GPU restocks look shaky in Japan as memory costs rise A report from ITMedia claims that a Japanese retailer has started restricting graphics",
         "source_link": "https://videocardz.com/newz/japan-retailers-impose-purchase-limits-as-16gb-rtx-5060-ti-and-rx-9600-xt-stock-tightens"
       },
       {
-        "rank": 5,
+        "rank": 8,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/hands-typing-on-a-gboard-keyboard-correcting-the-word-typpo-flanked-by-a-google-logo-and-a-undo-icon.png?w=1600&h=900&fit=crop",
+        "title": "How an underrated Gboard feature fixed my biggest typing fear on Android - Android Police",
+        "description": "One small button, but a big relief",
+        "source_link": "https://www.androidpolice.com/underrated-gboard-feature-fixed-biggest-typing-fear-on-android/"
+      },
+      {
+        "rank": 9,
         "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2550x1434+0+37/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2Fcb%2Fe6930aae4194aa1d81d15e00b18b%2Fap101105125088.jpg",
         "title": "Memory loss: As AI gobbles up chips, prices for devices may rise - NPR",
         "description": "Demand for memory chips currently exceeds supply and there's very little chance of that changing any time soon. More chips for AI means less available for other products such as computers and phones and that could drive up those prices too.",
         "source_link": "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram"
       },
       {
-        "rank": 6,
-        "image": "https://monochrome-watches.com/app/uploads/2025/01/2025-Vacheron-Constantin-222-steel-blue-dial-Vacheron-Historiques-222-Steel-review-12.jpg",
-        "title": "Recap: The Best Vintage-Inspired Watches of 2025 - Monochrome Watches",
-        "description": "From jumping hours to high-frequency, here are this year\u2019s best revivals, as we're looking at the best vintage-inspired watches of 2025.",
-        "source_link": "https://monochrome-watches.com/best-vintage-inspired-watches-of-2025-cartier-chronoswiss-longines-omega-vacheron-zenith/"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.nintendolife.com/d10822e8c4072/large.jpg",
-        "title": "\"If Mario Starts To Show Up On PlayStation, That's The Apocalypse, Right?\" - Ex-PlayStation Boss Thinks Console Exclusives Are Still Important - Nintendo Life",
-        "description": "\"If you do exclusives you can push every lever to 11 in that platform\"",
-        "source_link": "https://www.nintendolife.com/news/2025/12/if-mario-starts-to-show-up-on-playstation-thats-the-apocalypse-right-ex-playstation-boss-thinks-console-exclusives-are-still-important"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.mos.cms.futurecdn.net/W57mUsc3HwtbtcX37Ej9YV-1376-80.jpg",
-        "title": "Our top picks of 3D scanners and 3D printers all have discounts in the 2025 holiday sales - Creative Bloq",
-        "description": "Professional-grade scanning and printing technology just got seriously affordable in these end of year deals.",
-        "source_link": "https://www.creativebloq.com/3d/3d-printing/our-top-picks-of-3d-scanners-and-3d-printers-all-have-discounts-in-the-2025-holiday-sales"
-      },
-      {
-        "rank": 9,
-        "image": "https://media.wired.com/photos/693fddfac50190c987e8c8fc/191:100/w_1280,c_limit/What-is-a-Manifold-cr-Mark-Belan-Lede-2.jpeg",
-        "title": "Behold the Manifold, the Concept that Changed How Mathematicians View Space - WIRED",
-        "description": "In the mid-19th century, Bernhard Riemann conceived of a new way to think about mathematical spaces, providing the foundation for modern geometry and physics.",
-        "source_link": "https://www.wired.com/story/behold-the-manifold-the-concept-that-changed-how-mathematicians-view-space/"
-      },
-      {
         "rank": 10,
-        "image": "https://www.wrestlezone.com/wp-content/uploads/sites/8/2025/12/jetspeed-speedball-mike-bailey-kevin-knight.jpg?resize=1200,630",
-        "title": "AEW Star Wears The Wrong Ring Gear At AEW Worlds End - Wrestlezone",
-        "description": "Speedball Mike Bailey looked a bit different at AEW Worlds End, as he was wearing his partner Kevin Knight's ring gear.",
-        "source_link": "https://www.wrestlezone.com/news/1599578-aew-star-wears-the-wrong-ring-gear-aew-worlds-end"
+        "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2025/12/ulysse-nardin-diver-air-gp100-lead.webp",
+        "title": "The Year\u2019s Most Impressive Dive Watch Comes from a Brand You Wouldn\u2019t Expect - Gear Patrol",
+        "description": "Ulysse Nardin launched the Diver Air in 2025, the lightest mechanical dive watch ever made at just 46 grams.",
+        "source_link": "https://www.gearpatrol.com/watches/ulysse-nardin-diver-air-gp100/"
       }
     ],
     "trending_movies": [
@@ -83,38 +83,38 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
-        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-        "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
-        "source_link": "https://www.themoviedb.org/movie/1311031"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
+        "source_link": "https://www.themoviedb.org/movie/1311031"
+      },
+      {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
+        "source_link": "https://www.themoviedb.org/movie/812583"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/o8pg20G67BGmQvRkXwstNre062J.jpg",
         "title": "Eternity",
         "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her li...",
         "source_link": "https://www.themoviedb.org/movie/1259102"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
-        "title": "Wake Up Dead Man: A Knives Out Mystery",
-        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
-        "source_link": "https://www.themoviedb.org/movie/812583"
       },
       {
         "rank": 7,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
+        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+        "title": "Marty Supreme",
+        "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       }
     ]
   }
