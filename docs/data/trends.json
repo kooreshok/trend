@@ -1,113 +1,113 @@
 {
-  "last_updated": "December 30, 2025, 06:27 UTC",
+  "last_updated": "December 30, 2025, 07:19 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://hackaday.com/wp-content/uploads/2025/12/streaming-tape-main.jpg",
+        "title": "Streaming Music To Cassette - Hackaday",
+        "description": "In almost every measurable way, a lossless digital audio file is superior to any analog media. This doesn\u2019t mean that analog audio isn\u2019t valuable though; plenty of people appreciate the\u2026",
+        "source_link": "https://hackaday.com/2025/12/28/streaming-music-to-cassette/"
+      },
+      {
+        "rank": 2,
         "image": "https://www.phoronix.net/image.php?id=ubuntu-2504-kde-gnome-way&image=ubuntu_2504_kde_2",
         "title": "KDE Plasma's Wayland Transition \"Nears Completion\" In Ending Out 2025 - Phoronix",
         "description": "In addition to today's blog post calling out the need for others to takeover the This Week In Plasma series, KDE developer Nate Graham also published another blog post to highlight the successes of the Plasma desktop over 2025",
         "source_link": "https://www.phoronix.com/news/KDE-Plasma-2025-Wayland-Success"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://comicbook.com/wp-content/uploads/sites/4/2024/12/p-l-a-y-s-t-a-t-i-o-n_5569bc.png?resize=2000,1125",
+        "title": "Sony Removes Free Game From the Library of PlayStation Users - ComicBook.com",
+        "description": "Sony has removed a game from the library of PlayStation users who took advantage of an exploit to download it for free two months ago.",
+        "source_link": "http://comicbook.com/gaming/news/sony-removes-free-game-from-the-library-of-playstation-users/"
+      },
+      {
+        "rank": 4,
         "image": "https://helios-i.mashable.com/imagery/articles/04a1JBIEMzP5LGiAQBbWCD6/hero-image.fill.size_1200x675.v1765967199.jpg",
         "title": "Microsoft Office 2019 drops to $29.97 for a lifetime Windows license - Mashable",
         "description": "A one-time purchase that gets the job done.",
         "source_link": "https://mashable.com/article/dec-28-microsoft-office-professional-plus-2019-for-windows"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/12/sudo-winget-command-on-windows-terminal.JPG?w=1600&h=900&fit=crop",
         "title": "You can use \u201csudo\u201d on Windows 11 now \u2014 and it's more useful than I thought - MakeUseOf",
         "description": "Windows 11 now has sudo, and it\u2019s surprisingly useful.",
         "source_link": "https://www.makeuseof.com/sudo-on-windows-11-more-useful-than-thought/"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/2026_LG-UltraGear_CES_main.jpg?quality=90&strip=all&crop=0%2C3.0630619098213%2C100%2C93.873876180357&w=1200",
         "title": "LG announces new UltraGear evo gaming monitors with AI upscaling - The Verge",
         "description": "Even your gaming monitor isn\u2019t safe from the buzz of AI.",
         "source_link": "https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
         "title": "You may soon be able to change your Gmail address - TechCrunch",
         "description": "Good news for anyone tired of or embarrassed by their current Gmail address.",
         "source_link": "https://techcrunch.com/2025/12/28/you-may-soon-be-able-to-change-your-gmail-address/"
       },
       {
-        "rank": 6,
-        "image": "https://hackaday.com/wp-content/uploads/2020/07/hackaday-logo-with-text-opengraph-default-image.jpg",
-        "title": "Photographing Cosmic Rays With A Consumer Camera - Hackaday",
-        "description": "The reason photographic darkrooms are needed is because almost any amount of light can ruin the film or the photographic paper before they are fixed. Until then these things are generally kept in s\u2026",
-        "source_link": "https://hackaday.com/2025/12/28/photographing-cosmic-rays-with-a-consumer-camera/"
-      },
-      {
-        "rank": 7,
+        "rank": 8,
         "image": "https://cdn.videocardz.com/1/2025/12/INTEL-JAGUAR-SHORES-HERO.jpg",
         "title": "Intel Jaguar Shores reportedly set to use HBM4E memory - VideoCardz.com",
         "description": "Next-Gen Gaudi successor to use HBM4E Leaker claims Intel Jaguar Shores may jump to HBM4E, not HBM4 Intel's next data center accelerator platform, Jaguar",
         "source_link": "https://videocardz.com/newz/intel-jaguar-shores-reportedly-set-to-use-hbm4e-memory"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://techcrunch.com/wp-content/uploads/2025/09/Apple-Watch-SE-3-hero-250909_big.jpg.large_2x.jpg?resize=1200,800",
         "title": "A guide to choosing the right Apple Watch - TechCrunch",
         "description": "The gap between Apple's standard and budget smart watches has never felt smaller.",
         "source_link": "https://techcrunch.com/2025/12/28/is-the-apple-watch-se-3-a-good-deal/"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://i0.wp.com/tmo.report/wp-content/uploads/2025/07/tmobileappletvplusfeatured.png?fit=1280%2C720&ssl=1",
         "title": "Don\u2019t Forget, Apple TV Costs $3 For T-Mobile Customers Soon - The Mobile Report",
         "description": "The Apple TV \u201cOn Us\u201d benefit, which was originally free with some T-Mobile postpaid accounts, will now cost an extra $3 per month on your T-Mobile bill unless cancelled.",
         "source_link": "https://tmo.report/2025/12/dont-forget-apple-tv-costs-3-for-t-mobile-customers-soon/"
-      },
-      {
-        "rank": 10,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69403e0955487165a822d485/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "From Startup To Clients Like Taylor Swift And Elon Musk, Riverside\u2019s Rise Has Been Truly Remarkable - Forbes",
-        "description": "In just five years, Riveside has gone from a startup to a major force in podcasting and content creation thanks to the high quality video and audio the platform offers.",
-        "source_link": "https://www.forbes.com/sites/marksparrow/2025/12/28/from-startup-to-clients-like-taylor-swift-and-elon-musk-riversides-rise-has-been-truly-remarkable/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
         "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
         "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
         "source_link": "https://www.themoviedb.org/movie/1311031"
       },
       {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/n0fnflUWcwzbQ5x32G8zx0INs3G.jpg",
+        "title": "Marty Supreme",
+        "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
+        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
+        "source_link": "https://www.themoviedb.org/movie/812583"
       },
       {
         "rank": 6,
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
-        "title": "Wake Up Dead Man: A Knives Out Mystery",
-        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
-        "source_link": "https://www.themoviedb.org/movie/812583"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
-        "title": "The SpongeBob Movie: Search for SquarePants",
-        "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman \u2013 a mysterious swashbuckling ghost pi...",
-        "source_link": "https://www.themoviedb.org/movie/991494"
-      },
-      {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/n0fnflUWcwzbQ5x32G8zx0INs3G.jpg",
-        "title": "Marty Supreme",
-        "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
         "title": "Anaconda",
         "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
         "source_link": "https://www.themoviedb.org/movie/1234731"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "title": "Wicked: For Good",
+        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
+        "source_link": "https://www.themoviedb.org/movie/967941"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "title": "The Housemaid",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
       }
     ]
   }
