@@ -1,120 +1,120 @@
 {
-  "last_updated": "December 30, 2025, 12:36 UTC",
+  "last_updated": "December 30, 2025, 13:33 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Windows on Arm had another good year - The Verge",
+        "description": "Windows Arm laptops with Qualcomm chips saw compatibility and emulation improvements in 2025. They could get even better in 2026, but also see stiffer competition.",
+        "source_link": "https://www.theverge.com/gadgets/850074/2025-windows-arm-laptops-qualcomm-intel-amd-nvidia"
+      },
+      {
+        "rank": 2,
+        "image": "https://assetsio.gnwcdn.com/dispatch-games-of-2025.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Penises set Dispatch apart, and I mean that quite sincerely - Eurogamer",
+        "description": "Why Dispatch was one of our favourite games of 2025.",
+        "source_link": "https://www.eurogamer.net/games-of-2025-dispatch"
+      },
+      {
+        "rank": 3,
+        "image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2025/12/screenshot-2025-12-29-164831.jpg?w=1600&h=900&fit=crop",
+        "title": "We've Got Our First Clair Obscur-like, And It's A Chinese Game Called Sword And Fairy 4: Remake - TheGamer",
+        "description": "Some shots almost looks like a Clair Obscur DLC.",
+        "source_link": "https://www.thegamer.com/clair-obscur-expedition-33-clone-sword-and-fairy-4-remake/"
+      },
+      {
+        "rank": 4,
+        "image": "https://media.wired.com/photos/694978bcd440f25f26616df1/191:100/w_1280,c_limit/gear-android-2230409281.jpg",
+        "title": "3 New Tricks to Try With Google Gemini Live After Its Latest Major Upgrade - WIRED",
+        "description": "Google's AI is now even smarter, and more versatile.",
+        "source_link": "https://www.wired.com/story/3-tricks-google-gemini-live-latest-major-upgrade/"
+      },
+      {
+        "rank": 5,
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b1f5/live/f6b281d0-e491-11f0-a06d-4903df3f724c.png",
         "title": "James Bond game 007 First Light delayed to May 2026 - BBC",
         "description": "Dexter Original Sin actor Patrick Gibson will star as the British spy when the game releases on 27 May.",
         "source_link": "https://www.bbc.com/news/articles/c1lrlm9ydgno"
       },
       {
-        "rank": 2,
-        "image": "https://images.pushsquare.com/613d48c60c7ae/large.jpg",
-        "title": "Silent Hill Producer Aims to Release One New Game Per Year - Push Square",
-        "description": "Series back with a bang",
-        "source_link": "https://www.pushsquare.com/news/2025/12/silent-hill-producer-aims-to-release-one-new-game-per-year"
-      },
-      {
-        "rank": 3,
+        "rank": 6,
         "image": "https://cdn.videocardz.com/1/2025/12/DELL-ALIENWARE51-RYZEN-9850X3D-HERO.jpg",
         "title": "Dell confirms Ryzen 7 9850X3D update for Alienware Area-51 PC set to launch in February 2026 - VideoCardz.com",
         "description": "Dell Alienware PC gets confirmation on AMD unannounced CPU option Dell has published a press release confirming an AMD Ryzen 7 9850X3D CPU option for its",
         "source_link": "https://videocardz.com/newz/dell-confirms-ryzen-7-9850x3d-update-for-alienware-area-51-pc-set-to-launch-in-february-2026"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://supercarblondie.com/wp-content/uploads/Apple-Watch-Fake-China.webp",
         "title": "Man builds his own Apple Watch from scratch in just one week while in the world's largest electronics market in China - supercarblondie.com",
         "description": "After building his own iPhone 17, YouTube tech guru Strange Parts has now built his own DIY Apple Watch from scratch in China's tech marketplace",
         "source_link": "https://supercarblondie.com/man-builds-diy-apple-watch-from-scratch/"
       },
       {
-        "rank": 5,
+        "rank": 8,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOVx7Mct3FFc/v0/1200x630.jpg",
         "title": "Japan\u2019s Viral Horse-Racing Video Game Has Players Flocking to Real-Life Stables - Bloomberg.com",
         "description": "With more than 30 million downloads, Umamusume: Pretty Derby has generated anime adaptations, live concerts and a new legion of racetrack fans.",
         "source_link": "https://www.bloomberg.com/news/articles/2025-12-29/-umamusume-pretty-derby-horse-racing-video-game-sends-players-to-stables"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://hackaday.com/wp-content/uploads/2025/12/streaming-tape-main.jpg",
         "title": "Streaming Music To Cassette - Hackaday",
         "description": "In almost every measurable way, a lossless digital audio file is superior to any analog media. This doesn\u2019t mean that analog audio isn\u2019t valuable though; plenty of people appreciate the\u2026",
         "source_link": "https://hackaday.com/2025/12/28/streaming-music-to-cassette/"
       },
       {
-        "rank": 7,
+        "rank": 10,
         "image": "https://www.phoronix.net/image.php?id=ubuntu-2504-kde-gnome-way&image=ubuntu_2504_kde_2",
         "title": "KDE Plasma's Wayland Transition \"Nears Completion\" In Ending Out 2025 - Phoronix",
         "description": "In addition to today's blog post calling out the need for others to takeover the This Week In Plasma series, KDE developer Nate Graham also published another blog post to highlight the successes of the Plasma desktop over 2025",
         "source_link": "https://www.phoronix.com/news/KDE-Plasma-2025-Wayland-Success"
-      },
-      {
-        "rank": 8,
-        "image": "https://hackaday.com/wp-content/uploads/2025/12/SCR-banner.jpg",
-        "title": "Retro Semiconductors: The Silicon Controlled Rectifier - Hackaday",
-        "description": "Over on YouTube [Lockdown Electronics] reviews an old bit of kit known as the Silicon Controlled Rectifier (SCR). Invented in the 1950s the SCR is a type of thyristor and they were popular back in \u2026",
-        "source_link": "https://hackaday.com/2025/12/28/retro-semiconductors-the-silicon-controlled-rectifier/"
-      },
-      {
-        "rank": 9,
-        "image": "https://helios-i.mashable.com/imagery/articles/04a1JBIEMzP5LGiAQBbWCD6/hero-image.fill.size_1200x675.v1765967199.jpg",
-        "title": "Microsoft Office 2019 drops to $29.97 for a lifetime Windows license - Mashable",
-        "description": "A one-time purchase that gets the job done.",
-        "source_link": "https://mashable.com/article/dec-28-microsoft-office-professional-plus-2019-for-windows"
-      },
-      {
-        "rank": 10,
-        "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2025/12/26191133/Samsung-TVs-and-Displays-Samsung-TVs-Google-Photos_Thumb932F.jpg",
-        "title": "Samsung Plans To Bring Google Photos to Samsung AI TV Lineup, Helping Users Relive Their Favorite Memories on the Big Screen - samsung.com",
-        "description": "Samsung Electronics today announced that they are working to bring Google Photos to Samsung TVs to give users a seamless way to enjoy the moments that matter most, from trips and hobbies to everyday memories with loved ones \u2014 now on an immersive and larger sc\u2026",
-        "source_link": "https://news.samsung.com/global/samsung-plans-to-bring-google-photos-to-samsung-ai-tv-lineup-helping-users-relive-their-favorite-memories-on-the-big-screen"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/u7x3I5V9aP4tMZACmM8ClY8lK6K.jpg",
         "title": "Wicked: For Good",
         "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
         "source_link": "https://www.themoviedb.org/movie/967941"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
         "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
         "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
         "source_link": "https://www.themoviedb.org/movie/1311031"
       },
       {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
-        "title": "Anaconda",
-        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
-        "source_link": "https://www.themoviedb.org/movie/1234731"
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "title": "The Housemaid",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/o8pg20G67BGmQvRkXwstNre062J.jpg",
         "title": "Eternity",
         "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her li...",
         "source_link": "https://www.themoviedb.org/movie/1259102"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 7,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg",
-        "title": "Nuremberg",
-        "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a compl...",
-        "source_link": "https://www.themoviedb.org/movie/1214931"
+        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+        "title": "Now You See Me: Now You Don't",
+        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
+        "source_link": "https://www.themoviedb.org/movie/425274"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
+        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "title": "Bugonia",
+        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
+        "source_link": "https://www.themoviedb.org/movie/701387"
       }
     ]
   }
