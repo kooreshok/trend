@@ -1,69 +1,76 @@
 {
-  "last_updated": "December 30, 2025, 04:36 UTC",
+  "last_updated": "December 30, 2025, 05:21 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-Pixel-apps-2025.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Recap: New Pixel apps and major updates in 2025 - 9to5Google",
-        "description": "The portfolio of Pixel-exclusive apps grew in 2025 in a trend that will only continue as Google works to differentiate its experience.",
-        "source_link": "http://9to5google.com/2025/12/28/pixel-apps-2025/"
+        "image": "https://www.phoronix.net/image.php?id=ubuntu-2504-kde-gnome-way&image=ubuntu_2504_kde_2",
+        "title": "KDE Plasma's Wayland Transition \"Nears Completion\" In Ending Out 2025 - Phoronix",
+        "description": "In addition to today's blog post calling out the need for others to takeover the This Week In Plasma series, KDE developer Nate Graham also published another blog post to highlight the successes of the Plasma desktop over 2025",
+        "source_link": "https://www.phoronix.com/news/KDE-Plasma-2025-Wayland-Success"
       },
       {
         "rank": 2,
+        "image": "https://helios-i.mashable.com/imagery/articles/04a1JBIEMzP5LGiAQBbWCD6/hero-image.fill.size_1200x675.v1765967199.jpg",
+        "title": "Microsoft Office 2019 drops to $29.97 for a lifetime Windows license - Mashable",
+        "description": "A one-time purchase that gets the job done.",
+        "source_link": "https://mashable.com/article/dec-28-microsoft-office-professional-plus-2019-for-windows"
+      },
+      {
+        "rank": 3,
         "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/12/sudo-winget-command-on-windows-terminal.JPG?w=1600&h=900&fit=crop",
         "title": "You can use \u201csudo\u201d on Windows 11 now \u2014 and it's more useful than I thought - MakeUseOf",
         "description": "Windows 11 now has sudo, and it\u2019s surprisingly useful.",
         "source_link": "https://www.makeuseof.com/sudo-on-windows-11-more-useful-than-thought/"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/2026_LG-UltraGear_CES_main.jpg?quality=90&strip=all&crop=0%2C3.0630619098213%2C100%2C93.873876180357&w=1200",
         "title": "LG announces new UltraGear evo gaming monitors with AI upscaling - The Verge",
         "description": "Even your gaming monitor isn\u2019t safe from the buzz of AI.",
         "source_link": "https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
         "title": "You may soon be able to change your Gmail address - TechCrunch",
         "description": "Good news for anyone tired of or embarrassed by their current Gmail address.",
         "source_link": "https://techcrunch.com/2025/12/28/you-may-soon-be-able-to-change-your-gmail-address/"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://hackaday.com/wp-content/uploads/2020/07/hackaday-logo-with-text-opengraph-default-image.jpg",
         "title": "Photographing Cosmic Rays With A Consumer Camera - Hackaday",
         "description": "The reason photographic darkrooms are needed is because almost any amount of light can ruin the film or the photographic paper before they are fixed. Until then these things are generally kept in s\u2026",
         "source_link": "https://hackaday.com/2025/12/28/photographing-cosmic-rays-with-a-consumer-camera/"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://cdn.videocardz.com/1/2025/12/INTEL-JAGUAR-SHORES-HERO.jpg",
         "title": "Intel Jaguar Shores reportedly set to use HBM4E memory - VideoCardz.com",
         "description": "Next-Gen Gaudi successor to use HBM4E Leaker claims Intel Jaguar Shores may jump to HBM4E, not HBM4 Intel's next data center accelerator platform, Jaguar",
         "source_link": "https://videocardz.com/newz/intel-jaguar-shores-reportedly-set-to-use-hbm4e-memory"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://techcrunch.com/wp-content/uploads/2025/09/Apple-Watch-SE-3-hero-250909_big.jpg.large_2x.jpg?resize=1200,800",
         "title": "A guide to choosing the right Apple Watch - TechCrunch",
         "description": "The gap between Apple's standard and budget smart watches has never felt smaller.",
         "source_link": "https://techcrunch.com/2025/12/28/is-the-apple-watch-se-3-a-good-deal/"
       },
       {
-        "rank": 8,
+        "rank": 9,
+        "image": "https://i0.wp.com/tmo.report/wp-content/uploads/2025/07/tmobileappletvplusfeatured.png?fit=1280%2C720&ssl=1",
+        "title": "Don\u2019t Forget, Apple TV Costs $3 For T-Mobile Customers Soon - The Mobile Report",
+        "description": "The Apple TV \u201cOn Us\u201d benefit, which was originally free with some T-Mobile postpaid accounts, will now cost an extra $3 per month on your T-Mobile bill unless cancelled.",
+        "source_link": "https://tmo.report/2025/12/dont-forget-apple-tv-costs-3-for-t-mobile-customers-soon/"
+      },
+      {
+        "rank": 10,
         "image": "https://imageio.forbes.com/specials-images/imageserve/69403e0955487165a822d485/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "From Startup To Clients Like Taylor Swift And Elon Musk, Riverside\u2019s Rise Has Been Truly Remarkable - Forbes",
         "description": "In just five years, Riveside has gone from a startup to a major force in podcasting and content creation thanks to the high quality video and audio the platform offers.",
         "source_link": "https://www.forbes.com/sites/marksparrow/2025/12/28/from-startup-to-clients-like-taylor-swift-and-elon-musk-riversides-rise-has-been-truly-remarkable/"
-      },
-      {
-        "rank": 9,
-        "image": "https://helios-i.mashable.com/imagery/articles/03jw5mC54KSeUIJfRaXJJbX/hero-image.fill.size_1200x675.v1766946353.png",
-        "title": "Did the foldable iPhone just get leaked? Seems like it. - Mashable",
-        "description": "YouTuber Jon Prosser is being sued by Apple for his previous leaks. Now he dropped a new one.",
-        "source_link": "https://mashable.com/article/foldable-iphone-leaked"
       }
     ],
     "trending_movies": [
@@ -90,24 +97,24 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/n0fnflUWcwzbQ5x32G8zx0INs3G.jpg",
         "title": "Marty Supreme",
         "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
-        "title": "Wake Up Dead Man: A Knives Out Mystery",
-        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
-        "source_link": "https://www.themoviedb.org/movie/812583"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
         "title": "Anaconda",
         "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
         "source_link": "https://www.themoviedb.org/movie/1234731"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
+        "source_link": "https://www.themoviedb.org/movie/812583"
       },
       {
         "rank": 7,
