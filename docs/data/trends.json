@@ -1,69 +1,76 @@
 {
-  "last_updated": "December 30, 2025, 20:19 UTC",
+  "last_updated": "December 30, 2025, 21:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2025-12/19/16/thumb/MesXpURhJ.jpg?crop=1250:654;0,75%26downsize=1250:*",
+        "title": "71 Hysterical Fails From This Year That Made Me Laugh So Hard I Forgot 2025 Was Hell on Earth - BuzzFeed",
+        "description": "Feeling like I have a LOT to be grateful for in 2025 after seeing how badly some folks put their feet in their mouths this year.",
+        "source_link": "https://www.buzzfeed.com/kelley_greene/best-internet-fails-from-2025"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/leonardo1CROP-1152x648-1767021942.jpg",
+        "title": "Leonardo\u2019s wood charring method predates Japanese practice - Ars Technica",
+        "description": "Yakisugi, a Japanese technique of burning wood surfaces, creates a protective carbonized layer...",
+        "source_link": "https://arstechnica.com/science/2025/12/did-one-line-in-a-leonardo-codex-anticipate-yakisugi/"
+      },
+      {
+        "rank": 3,
+        "image": "https://gizmodo.com/app/uploads/2025/12/GettyImages-2242191978-1200x675.jpg",
+        "title": "Legendary Dev Loses His Mind Over AI Agent\u2019s Unsolicited \u2018Act of Kindness\u2019 - Gizmodo",
+        "description": "Just fuck you. Fuck you all.",
+        "source_link": "https://gizmodo.com/legendary-dev-loses-his-mind-over-ai-agents-unsolicited-act-of-kindness-2000704001"
+      },
+      {
+        "rank": 4,
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2025/12/117991431.jpg?quality=75&strip=all&w=1200",
+        "title": "Disneyland\u2019s most expensive drink has shot up in price \u2014 and it could disappear soon - New York Post",
+        "description": "Disneyland\u2019s most expensive drink has shot up in price \u2014 and it\u2019s only available for a few more days.",
+        "source_link": "https://nypost.com/2025/12/29/us-news/disneylands-250-cookie-shot-has-shot-up-in-price-in-2022/"
+      },
+      {
+        "rank": 5,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/epilogue_sn_operator.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
         "title": "Turn your PC into a Super Nintendo with Epilogue\u2019s new USB dock - The Verge",
         "description": "Turn your PC into a Super Nintendo with Epilogue\u2019s new SN Operator that can play and backup your original SNES cartridges.",
         "source_link": "https://www.theverge.com/news/850793/epilogue-sn-operator-super-nintendo-snes-cartridge-slot-backup-emulator"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://podcast.posttv.com/series/20251223/t_1766503389842_name_LOYMVD3V7VBUDPZ2NYIXCPO4QU.jpg&w=1440",
         "title": "Want to live longer? Try fartleks. - The Washington Post",
         "description": "Today, we revisit one of our favorite episodes from the past year: how fartlek training \u2013 or \u201cspeed play\u201d \u2013 can help you exercise more joyfully and more frequently.",
         "source_link": "https://www.washingtonpost.com/podcasts/post-reports/want-to-live-longer-try-fartleks-/"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/touchscreen-cellular-mac.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Next year, the Mac could finally get two features I\u2019ve long wished for - 9to5Mac",
         "description": "There are two Mac upgrades rumored for 2026 that could go a long way toward moving me away from the iPad: cellular and touch support.",
         "source_link": "https://9to5mac.com/2025/12/29/next-year-the-mac-could-finally-get-two-features-ive-long-wished-for/"
       },
       {
-        "rank": 4,
+        "rank": 8,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258182_How_to_tweak_your_algorithm_on_all_the_platforms_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "How to tweak your online platform algorithms - The Verge",
+        "description": "Everythiing you need to know about adjusting what content is recommended to you on facebook, Instagram, X, TikTok, YouTube, and more.",
+        "source_link": "https://www.theverge.com/tech/849742/how-to-tune-algorithms-recommendations-online-platforms"
+      },
+      {
+        "rank": 9,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/01/stadia-controller-bluetooth-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google seems ready to kill the last of Stadia; go convert your controller now - 9to5Google",
+        "description": "As the three-year anniversary of Stadia\u2019s death approaches, the final \u201cactive\u201d part of Google\u2019s short-lived venture into cloud gaming appears...",
+        "source_link": "http://9to5google.com/2025/12/29/google-stadia-controller-website-near-death/"
+      },
+      {
+        "rank": 10,
         "image": "https://www.cdprojekt.com/en/wp-content/uploads-en/2025/12/zrzut-ekranu-2025-12-29-o-171832.png",
         "title": "CD PROJEKT co-founder Micha\u0142 Kici\u0144ski acquires GOG from CD PROJEKT - cdprojekt.com",
         "description": "Micha\u0142 Kici\u0144ski, co-founder of CD PROJEKT and one of its major shareholders, has acquired 100% of the shares in GOG, formerly part of the CD PROJEKT Group. GOG is the leading DRM-free games digital distribution",
         "source_link": "https://www.cdprojekt.com/en/media/news/cd-projekt-co-founder-michal-kicinski-acquires-gog-from-cd-projekt/"
-      },
-      {
-        "rank": 5,
-        "image": "https://cdn.videocardz.com/1/2025/12/HP-OMEN-HYPRX-OLED-MONITORS-CES-2026-HERO.jpg",
-        "title": "HyperX OMEN OLED gaming monitor leaked ahead of CES 2026 reveal - VideoCardz.com",
-        "description": "HP HyperX Omen gaming monitors Windows Latest sources say that these are 'the best gaming monitors HP has ever created'. HyperX is preparing a new OMEN",
-        "source_link": "https://videocardz.com/newz/hyperx-omen-oled-gaming-monitor-leaked-ahead-of-ces-2026-reveal"
-      },
-      {
-        "rank": 6,
-        "image": "https://assets.warhammer-community.com/motyresults-dec30-1-feature-w8qhsvqzhv.jpg",
-        "title": "Warhammer Miniature of the Year 2025 \u2013 The winners revealed - Warhammer Community",
-        "description": "The best miniatures of the year, voted for by you.",
-        "source_link": "https://www.warhammer-community.com/articles/j9nqbfym/warhammer-miniature-of-the-year-2025-the-winners-revealed"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.purexbox.com/a2067193cd502/large.jpg",
-        "title": "Report: Xbox & PlayStation Could Delay Next-Gen Consoles Due To RAM Price Increases - Pure Xbox",
-        "description": "\"The industry as a whole is concerned about RAM availability\"",
-        "source_link": "https://www.purexbox.com/news/2025/12/report-xbox-and-playstation-could-delay-next-gen-consoles-due-to-ram-price-increases"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.phoronix.net/image.php?id=epyc-cachyos-server-preview&image=cachyos_epyc_1",
-        "title": "The Performance Of Arch Linux Powered CachyOS On AMD EPYC Servers - Phoronix",
-        "description": "One of the more interesting announcements over the holiday period thus far is that moving into 2026, CachyOS is looking to develop a server edition for their Arch Linux based operating system.",
-        "source_link": "https://www.phoronix.com/review/epyc-cachyos-server-preview"
-      },
-      {
-        "rank": 9,
-        "image": "https://assets.warhammer-community.com/millionminis-dec29-1-feature-ip3hdb66jn.jpg",
-        "title": "Introduce new people to Warhammer, and help us reach a target of one million miniatures painted in 2026 - Warhammer Community",
-        "description": "Contribute and collect gifts at your local store.",
-        "source_link": "https://www.warhammer-community.com/articles/zuyx9b9b/introduce-new-people-to-warhammer-and-help-us-reach-a-target-of-one-million-miniatures-painted-in-2026"
       }
     ],
     "trending_movies": [
@@ -83,59 +90,59 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
-        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-        "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
-        "source_link": "https://www.themoviedb.org/movie/1311031"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
         "title": "Marty Supreme",
         "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
-      },
-      {
-        "rank": 6,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
         "title": "One Battle After Another",
         "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
         "source_link": "https://www.themoviedb.org/movie/1054867"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
-        "title": "Wake Up Dead Man: A Knives Out Mystery",
-        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
-        "source_link": "https://www.themoviedb.org/movie/812583"
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
-        "rank": 8,
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
+        "source_link": "https://www.themoviedb.org/movie/1311031"
+      },
+      {
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
         "title": "Bugonia",
         "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
         "source_link": "https://www.themoviedb.org/movie/701387"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
+        "source_link": "https://www.themoviedb.org/movie/812583"
+      },
+      {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "title": "The Housemaid",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/o8pg20G67BGmQvRkXwstNre062J.jpg",
         "title": "Eternity",
         "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her li...",
         "source_link": "https://www.themoviedb.org/movie/1259102"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
       }
     ]
   }
