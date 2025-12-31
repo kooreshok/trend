@@ -1,69 +1,76 @@
 {
-  "last_updated": "December 31, 2025, 06:27 UTC",
+  "last_updated": "December 31, 2025, 07:20 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/5a6ceee95033b/large.jpg",
+        "title": "Nintendo Comments On Metroid Prime 4's Placement In The Metroid Timeline - Nintendo Life",
+        "description": "Take a guess",
+        "source_link": "https://www.nintendolife.com/news/2025/12/nintendo-comments-on-metroid-prime-4s-placement-in-the-metroid-timeline"
+      },
+      {
+        "rank": 2,
+        "image": "https://hackaday.com/wp-content/uploads/2025/12/casio_scientific_calculators_another_roof_youtube.jpg",
+        "title": "The Rise Of Fake Casio Scientific Calculators - Hackaday",
+        "description": "Scientific calculators are an amazing invention that take pocket calculators from being merely basic arithmetic machines to being pocket computers that can handle everything from statistics to alge\u2026",
+        "source_link": "https://hackaday.com/2025/12/29/the-rise-of-fake-casio-scientific-calculators/"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/lg-gallery-tv-lifestyle.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "LG officially enters the art TV category with the Gallery TV - The Verge",
+        "description": "The LG Gallery TV will compete with Samsung\u2019s The Frame as well as the Hisense CanvasTV and TCL Nxtvision art TVs.",
+        "source_link": "https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026"
+      },
+      {
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-Store-NY-2026-deals.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google Store New Year\u2019s deals discount Pixel Watch 4 - 9to5Google",
+        "description": "With the previous round of offers ending last week, the Google Store is running New Year\u2019s deals ahead of 2026.",
+        "source_link": "http://9to5google.com/2025/12/29/google-store-new-years-2026-deals/"
+      },
+      {
+        "rank": 5,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "What\u2019s new in Android\u2019s December 2025 Google System Updates [U] - 9to5Google",
         "description": "The monthly \u201cGoogle System Release Notes\u201d primarily detail what\u2019s new in Play services, Play Store, and Play system update across...",
         "source_link": "http://9to5google.com/2025/12/29/december-2025-google-system-updates/"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://gizmodo.com/app/uploads/2025/12/music-studio-5-1200x675.jpg",
         "title": "Samsung\u2019s New Wi-Fi Speaker Has Big Monolith Energy - Gizmodo",
         "description": "Playing the theme to '2001: A Space Odyssey' on this thing might feel a little too on-the-nose.",
         "source_link": "https://gizmodo.com/samsungs-new-wi-fi-speaker-has-big-monolith-energy-2000703920"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://images.mansionglobal.com/im-57339130/social",
         "title": "Billionaire Bill Koch Sells Banking Scion Paul Mellon\u2019s Former Cape Cod House for $20 Million - Mansion Global",
         "description": "Koch has closed on a 7.4-acre slice of the former Mellon property in Osterville, Massachusetts, that includes the 1950s main house",
         "source_link": "https://www.mansionglobal.com/articles/billionaire-bill-koch-sells-banking-scion-paul-mellons-former-cape-cod-house-for-20-million-1c863e5c"
       },
       {
-        "rank": 4,
-        "image": "https://gizmodo.com/app/uploads/2025/12/Birdfy-Feeder-3-Vista-2-1200x675.jpg",
-        "title": "No Avian Will Escape This 360-Camera Bird Feeder - Gizmodo",
-        "description": "Why miss a single second of your local birds' feeding frenzy?",
-        "source_link": "https://gizmodo.com/no-avian-will-escape-this-360-camera-bird-feeder-2000704031"
-      },
-      {
-        "rank": 5,
+        "rank": 8,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/01/bixby-galaxy-s24.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Samsung\u2019s Bixby reboot shows up early with Perplexity in tow - 9to5Google",
         "description": "Samsung hasn\u2019t been particularly quiet about its coming Perplexity partnership, and now we\u2019re getting a first look at the Bixby...",
         "source_link": "http://9to5google.com/2025/12/29/samsungs-bixby-reboot-shows-up-early-with-perplexity-in-tow/"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/Here-are-the-things-I-love-most-about-iOS-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "iOS 26 has three new iPhone features I\u2019ve been really loving - 9to5Mac",
         "description": "Here are three new iOS 26 features I\u2019ve been especially loving on my iPhone after nearly six months using the software.",
         "source_link": "https://9to5mac.com/2025/12/29/ios-26-has-three-new-iphone-features-ive-been-really-loving/"
       },
       {
-        "rank": 7,
-        "image": "https://www.bgr.com/img/gallery/you-can-turn-on-your-iphones-flashlight-without-touching-it-heres-how/l-intro-1767009909.jpg",
-        "title": "You Can Turn On Your iPhone's Flashlight Without Touching It - Here's How - bgr.com",
-        "description": "The flashlight function built in to every iPhone is a handy tool with lots of configuration options, including two  hands-free ways to turn it on and off",
-        "source_link": "https://www.bgr.com/2062542/how-to-turn-on-iphone-flashlight-voice-command-guide/"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.motor1.com/images/mgl/0eEnmp/s1/mclaren-technology-centre.jpg",
-        "title": "Why McLaren's Headquarters Keeps Showing Up in Hit Movies - Motor1.com",
-        "description": "McLaren\u2019s Woking HQ has become a Hollywood filming hotspot, appearing in blockbuster franchises and the \"F1\" movie.",
-        "source_link": "https://www.motor1.com/news/782996/mclaren-hq-linked-hollywood-franchises/"
-      },
-      {
-        "rank": 9,
-        "image": "https://krebsonsecurity.com/wp-content/uploads/2025/12/xlabs-littlegossip.png",
-        "title": "Happy 16th Birthday, KrebsOnSecurity.com! - Krebs on Security",
-        "description": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark\u2026",
-        "source_link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/"
+        "rank": 10,
+        "image": "https://gizmodo.com/app/uploads/2025/11/cyberpunk-2077-hed-1200x675.jpg",
+        "title": "CD Projekt Co-Founder Buys Steam Rival GOG - Gizmodo",
+        "description": "New owner, still DRM-free.",
+        "source_link": "https://gizmodo.com/cd-projekt-co-founder-buys-steam-rival-gog-2000704077"
       }
     ],
     "trending_movies": [
@@ -83,59 +90,59 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
-        "title": "Anaconda",
-        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
-        "source_link": "https://www.themoviedb.org/movie/1234731"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/6unXI876M8kUamB3XuVM4Xid7DI.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
         "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
         "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
         "source_link": "https://www.themoviedb.org/movie/1311031"
       },
       {
-        "rank": 8,
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/6unXI876M8kUamB3XuVM4Xid7DI.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "title": "Bugonia",
+        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
+        "source_link": "https://www.themoviedb.org/movie/701387"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+        "title": "Marty Supreme",
+        "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
         "title": "Wake Up Dead Man: A Knives Out Mystery",
         "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
         "source_link": "https://www.themoviedb.org/movie/812583"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
+      },
+      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
-        "title": "Weapons",
-        "description": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what...",
-        "source_link": "https://www.themoviedb.org/movie/1078605"
+        "image": "https://image.tmdb.org/t/p/w200/o8pg20G67BGmQvRkXwstNre062J.jpg",
+        "title": "Eternity",
+        "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her li...",
+        "source_link": "https://www.themoviedb.org/movie/1259102"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
-        "title": "Marty Supreme",
-        "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
+        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "title": "The Housemaid",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
       }
     ]
   }
