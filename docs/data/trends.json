@@ -1,76 +1,62 @@
 {
-  "last_updated": "December 31, 2025, 12:35 UTC",
+  "last_updated": "December 31, 2025, 13:30 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://wp.theringer.com/wp-content/uploads/2025/12/cropped-CoDFlop_Getty-ElectronicArts-Activision-EmbarkStudios-Ringer-scaled-1.jpg",
+        "title": "How \u2018Call of Duty\u2019 Got Dethroned in 2025 - The Ringer",
+        "description": "\u2018Battlefield,\u2019 \u2018ARC Raiders,\u2019 and the juggernaut franchise\u2019s own failings knocked \u2018Black Ops 7\u2019 off the series\u2019 perennial top perch",
+        "source_link": "https://www.theringer.com/2025/12/30/video-games/how-call-of-duty-got-dethroned-in-2025-black-ops-7-battlefield-arc-raiders"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.phoronix.net/image.php?id=2025&image=config_x86_native",
+        "title": "Linux 6.19 Kernel Benchmarks With X86_NATIVE_CPU Optimization - Phoronix",
+        "description": "Added to the Linux kernel earlier this year was the new X86_NATIVE_CPU Kconfig option to enable compiler optimizations for the local/native CPU in use when building the Linux kernel",
+        "source_link": "https://www.phoronix.com/news/Linux-6.19-X86_NATIVE_CPU"
+      },
+      {
+        "rank": 3,
+        "image": "https://helios-i.mashable.com/imagery/articles/077yaJ0EVKyqa4XXnjGTzYv/hero-image.fill.size_1200x675.v1766504911.jpg",
+        "title": "In Memoriam: All the tech that died in 2025 - Mashable",
+        "description": "Join us in saying goodbye (or good riddance) to these apps, gadgets, and software.",
+        "source_link": "https://mashable.com/article/in-memoriam-tech-deaths-2025-tivo-skype-microsoft-passwords"
+      },
+      {
+        "rank": 4,
         "image": "https://images.nintendolife.com/5a6ceee95033b/large.jpg",
         "title": "Nintendo Comments On Metroid Prime 4's Placement In The Metroid Timeline - Nintendo Life",
         "description": "Take a guess",
         "source_link": "https://www.nintendolife.com/news/2025/12/nintendo-comments-on-metroid-prime-4s-placement-in-the-metroid-timeline"
       },
       {
-        "rank": 2,
+        "rank": 5,
+        "image": "https://assets.nintendo.eu/image/private/f_auto/q_auto/c_scale,w_680/v1766963644/sxoh0qjaww0ydtkawinv.jpg",
+        "title": "Games coming to Nintendo Switch 2 and Nintendo Switch in 2026 - Nintendo",
+        "description": "Another year is on the horizon and it\u2019s jam packed with games launching on both Nintendo Switch 2 and Nintendo Switch. There are new quests to fulfil, new wo...",
+        "source_link": "https://www.nintendo.com/au/news-and-articles/games-coming-to-nintendo-switch-2-and-nintendo-switch-in-2026/"
+      },
+      {
+        "rank": 6,
         "image": "https://hackaday.com/wp-content/uploads/2025/12/casio_scientific_calculators_another_roof_youtube.jpg",
         "title": "The Rise Of Fake Casio Scientific Calculators - Hackaday",
         "description": "Scientific calculators are an amazing invention that take pocket calculators from being merely basic arithmetic machines to being pocket computers that can handle everything from statistics to alge\u2026",
         "source_link": "https://hackaday.com/2025/12/29/the-rise-of-fake-casio-scientific-calculators/"
       },
       {
-        "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/lg-gallery-tv-lifestyle.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "LG officially enters the art TV category with the Gallery TV - The Verge",
-        "description": "The LG Gallery TV will compete with Samsung\u2019s The Frame as well as the Hisense CanvasTV and TCL Nxtvision art TVs.",
-        "source_link": "https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026"
-      },
-      {
-        "rank": 4,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-Store-NY-2026-deals.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google Store New Year\u2019s deals discount Pixel Watch 4 - 9to5Google",
-        "description": "With the previous round of offers ending last week, the Google Store is running New Year\u2019s deals ahead of 2026.",
-        "source_link": "http://9to5google.com/2025/12/29/google-store-new-years-2026-deals/"
-      },
-      {
-        "rank": 5,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "What\u2019s new in Android\u2019s December 2025 Google System Updates [U] - 9to5Google",
-        "description": "The monthly \u201cGoogle System Release Notes\u201d primarily detail what\u2019s new in Play services, Play Store, and Play system update across...",
-        "source_link": "http://9to5google.com/2025/12/29/december-2025-google-system-updates/"
-      },
-      {
-        "rank": 6,
-        "image": "https://gizmodo.com/app/uploads/2025/12/music-studio-5-1200x675.jpg",
-        "title": "Samsung\u2019s New Wi-Fi Speaker Has Big Monolith Energy - Gizmodo",
-        "description": "Playing the theme to '2001: A Space Odyssey' on this thing might feel a little too on-the-nose.",
-        "source_link": "https://gizmodo.com/samsungs-new-wi-fi-speaker-has-big-monolith-energy-2000703920"
-      },
-      {
         "rank": 7,
-        "image": "https://images.mansionglobal.com/im-57339130/social",
-        "title": "Billionaire Bill Koch Sells Banking Scion Paul Mellon\u2019s Former Cape Cod House for $20 Million - Mansion Global",
-        "description": "Koch has closed on a 7.4-acre slice of the former Mellon property in Osterville, Massachusetts, that includes the 1950s main house",
-        "source_link": "https://www.mansionglobal.com/articles/billionaire-bill-koch-sells-banking-scion-paul-mellons-former-cape-cod-house-for-20-million-1c863e5c"
+        "image": "https://www.phoronix.net/image.php?id=2025&image=brauner_markdown",
+        "title": "It Took 6+ Years For Linux's \"New\" Mount API To Be Properly Documented In Man Pages - Phoronix",
+        "description": "In demonstrating one of the gaps of man pages in modern times and likely having hindered the adoption of the Linux kernel's new mount API, it took more than six years for those system calls to be properly documented within man pages",
+        "source_link": "https://www.phoronix.com/news/New-Mount-API-Man-Pages"
       },
       {
         "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/01/bixby-galaxy-s24.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Samsung\u2019s Bixby reboot shows up early with Perplexity in tow - 9to5Google",
-        "description": "Samsung hasn\u2019t been particularly quiet about its coming Perplexity partnership, and now we\u2019re getting a first look at the Bixby...",
-        "source_link": "http://9to5google.com/2025/12/29/samsungs-bixby-reboot-shows-up-early-with-perplexity-in-tow/"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/Here-are-the-things-I-love-most-about-iOS-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iOS 26 has three new iPhone features I\u2019ve been really loving - 9to5Mac",
-        "description": "Here are three new iOS 26 features I\u2019ve been especially loving on my iPhone after nearly six months using the software.",
-        "source_link": "https://9to5mac.com/2025/12/29/ios-26-has-three-new-iphone-features-ive-been-really-loving/"
-      },
-      {
-        "rank": 10,
-        "image": "https://gizmodo.com/app/uploads/2025/11/cyberpunk-2077-hed-1200x675.jpg",
-        "title": "CD Projekt Co-Founder Buys Steam Rival GOG - Gizmodo",
-        "description": "New owner, still DRM-free.",
-        "source_link": "https://gizmodo.com/cd-projekt-co-founder-buys-steam-rival-gog-2000704077"
+        "image": "https://rh-handhelds-content.nyc3.cdn.digitaloceanspaces.com/2025/12/Pocket-Play-Feature.jpeg",
+        "title": "AYANEO Releases Screen Details and a Kickstarter Page for the Pocket Play - Retro Handhelds",
+        "description": "AYANEO shares additional details concerning the screen that is being used in the upcoming Pocket Play, along with a landing page for the Kickstarter campaign.",
+        "source_link": "https://retrohandhelds.gg/ayaneo-releases-screen-details-and-a-kickstarter-page-for-the-pocket-play/"
       }
     ],
     "trending_movies": [
@@ -90,10 +76,10 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/6unXI876M8kUamB3XuVM4Xid7DI.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
+        "image": "https://image.tmdb.org/t/p/w200/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg",
+        "title": "Trap House",
+        "description": "An undercover DEA agent and his partner embark on a game of cat and mouse with an audacious, and surprising group of thieves - their own rebellious te...",
+        "source_link": "https://www.themoviedb.org/movie/628847"
       },
       {
         "rank": 4,
@@ -104,10 +90,10 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
-        "title": "Anaconda",
-        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
-        "source_link": "https://www.themoviedb.org/movie/1234731"
+        "image": "https://image.tmdb.org/t/p/w200/6unXI876M8kUamB3XuVM4Xid7DI.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 6,
@@ -118,31 +104,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
-        "title": "Bugonia",
-        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
-        "source_link": "https://www.themoviedb.org/movie/701387"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
         "title": "One Battle After Another",
         "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
         "source_link": "https://www.themoviedb.org/movie/1054867"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg",
-        "title": "Trap House",
-        "description": "An undercover DEA agent and his partner embark on a game of cat and mouse with an audacious, and surprising group of thieves - their own rebellious te...",
-        "source_link": "https://www.themoviedb.org/movie/628847"
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "title": "Bugonia",
+        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
+        "source_link": "https://www.themoviedb.org/movie/701387"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/w2pzrRTevXrW3vgIK4CCYaXvtIc.jpg",
+        "title": "100 METERS",
+        "description": "A gifted runner trains a determined but unskilled classmate, unaware he's creating a rival who will challenge him on the track for years to come....",
+        "source_link": "https://www.themoviedb.org/movie/1295026"
       }
     ]
   }
