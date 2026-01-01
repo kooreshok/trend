@@ -1,99 +1,99 @@
 {
-  "last_updated": "January 01, 2026, 18:25 UTC",
+  "last_updated": "January 01, 2026, 19:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://gizmodo.com/app/uploads/2025/12/Gizmodo_BestGadgets_DEC2025-1200x675.jpg",
-        "title": "The Best Gadgets of December 2025 - Gizmodo",
-        "description": "The end of the holiday season is a precursor to a weird, wacky, and chaotic 2026.",
-        "source_link": "https://gizmodo.com/the-best-gadgets-of-december-2025-2000704366"
+        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4626110-psplusjanuary.jpg",
+        "title": "PlayStation Plus Free Games For January 2026 Revealed - GameSpot",
+        "description": "PS Plus subscribers can kick off 2026 with these free games.",
+        "source_link": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-january-2026/1100-6537102/"
       },
       {
         "rank": 2,
+        "image": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltf8b3ce4c45c01781/695509967187b5365b52d0c4/12_Memory_Lane_official_promo_image_with_Steam_logo_on_top_Rubika_Supinfogame_Valve.jpg",
+        "title": "Steam Gamers Can Claim 4 More Free Games, Includes 9/10 Rated Hit - GAMINGbible",
+        "description": "Celebrate the New Year in style (for free), with these four genuinely great looking Steam freebies.",
+        "source_link": "https://www.gamingbible.com/news/platform/steam/steam-gamers-can-claim-4-more-free-games-030560-20251231"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.zdnet.com/a/img/resize/a97ef53168434516f42b4ddac51282e70bcd4f36/2025/12/31/4d65f4be-a4c1-487c-8243-4b71f05d5ac6/seven-secret-samsung-phone-wi-fi-tricks-that-seriously-upped-my-connectivity.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "How I use Samsung's secret Wi-Fi menu to seriously improve my connectivity - ZDNET",
+        "description": "Here's how to find Connectivity labs on your Galaxy phone - and the 7 features I actually use.",
+        "source_link": "https://www.zdnet.com/article/how-to-use-samsung-connectivty-labs-secret-wifi-menu/"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_SWITCH2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "The 11 best Nintendo Switch 2 games we played in 2025 - The Verge",
+        "description": "The Switch 2 already has some must-play games. If you just bought Nintendo\u2019s new console, or gifted one, these are the top titles we recommend playing.",
+        "source_link": "https://www.theverge.com/games/845401/nintendo-switch-2-best-games"
+      },
+      {
+        "rank": 5,
         "image": "https://assets.warhammer-community.com/aos_maggotkinrules1-dec31-1-feature-9nfn89yy29.jpg",
         "title": "Spread disease, chant choleric prayers, and cultivate Feculent Gnarlmaws with Battletome: Maggotkin of Nurgle - Warhammer Community",
         "description": "Updated battle traits for Nurgle\u2019s favoured.",
         "source_link": "https://www.warhammer-community.com/articles/a5scea0v/spread-disease-chant-choleric-prayers-and-cultivate-feculent-gnarlmaws-with-battletome-maggotkin-of-nurgle"
       },
       {
-        "rank": 3,
-        "image": null,
-        "title": "Samsung Galaxy S26 Ultra Hands-On Leak Reveals A New Camera Island Design - Forbes",
-        "description": null,
-        "source_link": "https://www.forbes.com/sites/prakharkhanna/2025/12/31/samsung-galaxy-s26-ultra-hands-on-leak-reveals-a-massive-new-camera-island-design/"
+        "rank": 6,
+        "image": "https://hackaday.com/wp-content/uploads/2019/10/LinuxMarketing.jpg",
+        "title": "It\u2019s Time To Make A Major Change To D-Bus On Linux - Hackaday",
+        "description": "Although flying well under the radar of the average Linux user, D-Bus has been an integral part of Linux distributions for nearly two decades and counting. Rather than using faster point-to-point i\u2026",
+        "source_link": "https://hackaday.com/2025/12/31/its-time-to-make-a-major-change-to-d-bus-on-linux/"
       },
       {
-        "rank": 4,
+        "rank": 7,
+        "image": "https://cdn.videocardz.com/1/2025/12/ASUS-ROG-MATRIX-5090D-V2.jpg",
+        "title": "ASUS ROG MATRIX also has RTX 5090D V2 version with 24GB memory, 807W max power teased - VideoCardz.com",
+        "description": "ASUS ROG MATRIX 5090 but with 24GB memory ASUS is using the ROG Matrix brand for its 30th anniversary RTX 5090 project, and the global card is the 32GB",
+        "source_link": "https://videocardz.com/newz/asus-rog-matrix-also-has-rtx-5090d-v2-version-with-24gb-memory-807w-max-power-teased"
+      },
+      {
+        "rank": 8,
+        "image": "https://www.bgr.com/img/gallery/4-ways-your-apple-tv-is-changing-in-2026/l-intro-1766766248.jpg",
+        "title": "4 Ways Your Apple TV Is Changing In 2026 - bgr.com",
+        "description": "A new Apple TV 4K could offer faster RAM and CPU, a more powerful chip, and improved connectivity if Apple delivers this upgraded model in 2026.",
+        "source_link": "https://www.bgr.com/2060984/ways-apple-tv-change-2026/"
+      },
+      {
+        "rank": 9,
         "image": "https://s.yimg.com/ny/api/res/1.2/iyWG_8fm4R4zoTkWuqvynw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02ODE7Y2Y9d2VicA--/https://media.zenfs.com/en/the_cool_down_737/5b1cd10f6899f6f21051196d2fccbb22",
         "title": "US government employee shares photo of shocking scene at workplace: 'Unfortunately, I don't think this is a unique story' - Yahoo",
         "description": "E-waste like this is a major problem for the Earth.",
         "source_link": "https://www.yahoo.com/news/articles/us-government-employee-shares-photo-103000669.html"
       },
       {
-        "rank": 5,
+        "rank": 10,
         "image": "https://cdn-cs-images.racer.com/v3/assets/blte77f57883ea46be1/blt8cc46d79cf750ebb/67d4400c34c6be3ff1adb6ee/mailbag.jpg?environment=live&width=1200&height=630&fit=crop",
         "title": "The RACER Mailbag, December 31 - RACER - Racing News",
         "description": "Chassis makers, engine rules and the likely next NASCAR OEM among topics in the final RACER Mailbag of 2025.",
         "source_link": "https://racer.com/2025/12/30/the-racer-mailbag-december-31"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.gearnews.com/wp-content/uploads/2025/12/best-gear-and-software-of-2025-T.jpg",
-        "title": "The Best Gear and Software of 2025: My 7 Highlights of the Year - Gearnews.com",
-        "description": "It was a great year for synthesizers and drum machines. Here are my picks for the best gear and software of 2025.",
-        "source_link": "https://www.gearnews.com/the-best-gear-and-software-of-2025-synth/"
-      },
-      {
-        "rank": 7,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/11/Sandbar_stream_ring-feat.jpg?resize=1200,675",
-        "title": "The phone is dead. Long live . . . what exactly? - TechCrunch",
-        "description": "\"We're not going to be using iPhones in 10 years,\" Callaghan says flatly. \"I kind of don't think we'll be using them in five years.\"",
-        "source_link": "https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/macbook-air-holiday-1-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Just unwrap a new Mac? Here\u2019s how to upgrade it - 9to5Mac",
-        "description": "Optimizing and perfecting my Mac setup is one of my favorite things to do. I love my M4 MacBook Pro,...",
-        "source_link": "https://9to5mac.com/2025/12/30/best-mac-accessories/"
-      },
-      {
-        "rank": 9,
-        "image": "https://hackaday.com/wp-content/uploads/2025/12/FJMGBZAMIRS8U31-e1766523329618.jpg",
-        "title": "All Projections Suck, So Play Risk On A Globe Instead - Hackaday",
-        "description": "The worst thing about the getting people together is when everyone starts fighting over their favourite map projection\u2013 maybe you like the Watterman Butterfly, but your cousin really digs Gal\u2026",
-        "source_link": "https://hackaday.com/2025/12/30/all-projections-suck-so-play-risk-on-a-globe-instead/"
-      },
-      {
-        "rank": 10,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/06/google-pixel-9-chrome.jpg?w=1600&h=900&fit=crop",
-        "title": "Google Chrome's Reading Mode on Android gets a huge revamp to make it more seamless to use - Android Police",
-        "description": "This is exactly what it needed",
-        "source_link": "https://www.androidpolice.com/google-chromes-reading-mode-on-android-gets-a-huge-revamp/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg",
-        "title": "Trap House",
-        "description": "An undercover DEA agent and his partner embark on a game of cat and mouse with an audacious, and surprising group of thieves - their own rebellious te...",
-        "source_link": "https://www.themoviedb.org/movie/628847"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/u7x3I5V9aP4tMZACmM8ClY8lK6K.jpg",
         "title": "Wicked: For Good",
         "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
         "source_link": "https://www.themoviedb.org/movie/967941"
       },
       {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg",
+        "title": "Trap House",
+        "description": "An undercover DEA agent and his partner embark on a game of cat and mouse with an audacious, and surprising group of thieves - their own rebellious te...",
+        "source_link": "https://www.themoviedb.org/movie/628847"
+      },
+      {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
-        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-        "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
-        "source_link": "https://www.themoviedb.org/movie/1311031"
+        "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
         "rank": 4,
@@ -104,45 +104,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-        "title": "Now You See Me: Now You Don't",
-        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
-        "source_link": "https://www.themoviedb.org/movie/425274"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/eDKPKlMtHjRQimYQz4eOgKYW5q6.jpg",
         "title": "Wake Up Dead Man: A Knives Out Mystery",
         "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
         "source_link": "https://www.themoviedb.org/movie/812583"
       },
       {
-        "rank": 9,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
-        "rank": 10,
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
+        "source_link": "https://www.themoviedb.org/movie/1311031"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/w2pzrRTevXrW3vgIK4CCYaXvtIc.jpg",
         "title": "100 METERS",
         "description": "A gifted runner trains a determined but unskilled classmate, unaware he's creating a rival who will challenge him on the track for years to come....",
         "source_link": "https://www.themoviedb.org/movie/1295026"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
       }
     ]
   }
