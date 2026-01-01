@@ -1,76 +1,69 @@
 {
-  "last_updated": "December 31, 2025, 23:16 UTC",
+  "last_updated": "January 01, 2026, 01:28 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/07e2/live/6c51dc30-e594-11f0-a8dc-93c15fe68710.jpg",
+        "title": "Colchester boy given \u00a31.8m drug has new lease of life - BBC",
+        "description": "Five-year-old Edward can walk independently, his mum says, and she hopes he will lead a happy life.",
+        "source_link": "https://www.bbc.com/news/articles/czj0wr012dxo"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.phoronix.net/image.php?id=windows-beats-linux-arl-h&image=windows_wins_0",
+        "title": "Unexpected Surprise: Windows 11 Outperforming Linux On An Intel Arrow Lake H Laptop - Phoronix",
+        "description": "Typically when receiving any review hardware preloaded with Microsoft Windows I tend to run some Windows vs.",
+        "source_link": "https://www.phoronix.com/review/windows-beats-linux-arl-h"
+      },
+      {
+        "rank": 3,
+        "image": "https://gizmodo.com/app/uploads/2025/12/Pluribus_glam-1200x675.jpg",
+        "title": "After 'Pluribus', Revisit Rhea Seehorn's Next Best Genre Role: 'Magic: The Gathering' Tutorial Sorceress - Gizmodo",
+        "description": "Carol Sturka's career as a romantasy author suddenly makes a lot more sense.",
+        "source_link": "https://gizmodo.com/after-pluribus-revisit-rhea-seehorns-next-best-genre-role-magic-the-gathering-tutorial-sorceress-2000704456"
+      },
+      {
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/carplay-ultra-boot.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Will your car get CarPlay Ultra? Here\u2019s what we know - 9to5Mac",
+        "description": "Earlier this year, Apple officially announced CarPlay Ultra, the next-generation version of CarPlay that it first teased way back at...",
+        "source_link": "https://9to5mac.com/2025/12/30/carplay-ultra-automakers/"
+      },
+      {
+        "rank": 5,
+        "image": "https://kotaku.com/app/uploads/2025/12/Breath-of-the-wild-VR-mod-1200x675.jpg",
+        "title": "New Breath Of The Wild Mod Turns It Into The Ultimate VR Game - Kotaku",
+        "description": "The mod was built by the same team behind the excellent VR port of Half-life 2 on PC",
+        "source_link": "https://kotaku.com/this-new-legend-of-zelda-breath-of-the-wild-vr-mod-is-awesome-2000656152"
+      },
+      {
+        "rank": 6,
         "image": "https://helios-i.mashable.com/imagery/articles/04GU7JAXY8OVBPnzQuLQ9bR/hero-image.fill.size_1200x675.v1767121144.jpg",
         "title": "OpenAI finally brings the Thinking toggle to its Android app - Mashable",
         "description": "The prior Thinking mode was only there for show.",
         "source_link": "https://mashable.com/article/chatgpt-android-app-thinking-toggle"
       },
       {
-        "rank": 2,
+        "rank": 7,
         "image": "https://www.techpowerup.com/review/asus-rog-crosshair-x870e-hero-btf/images/title.jpg",
         "title": "ASUS ROG Crosshair X870E Hero BTF Review - TechPowerUp",
         "description": "ASUS shows off the most high-end BTF reverse connector motherboard on Socket AM5 yet, featuring its unique cable-free GC-HPWR GPU power connector too. But do these and its other features justify its sizable price tag this late into the motherboard life cycle?",
         "source_link": "https://www.techpowerup.com/review/asus-rog-crosshair-x870e-hero-btf/"
       },
       {
-        "rank": 3,
+        "rank": 8,
         "image": "https://gizmodo.com/app/uploads/2025/12/StrangerThings_joycehopper-1200x675.jpg",
         "title": "\u2018Stranger Things\u2019 Couples, Ranked by How Much Chemistry They Actually Have - Gizmodo",
         "description": "The grand finale arrives on Netflix December 31, so here's one last look back at the characters' most inconsistently important aspect: their love lives.",
         "source_link": "https://gizmodo.com/stranger-things-couples-ranked-netflix-2000704328"
       },
       {
-        "rank": 4,
+        "rank": 9,
         "image": "https://image.cnbcfm.com/api/v1/image/108134759-1745331114781-IMG_5714.jpg?v=1759873968&w=1920&h=1080",
         "title": "There was money to be made in 2025, even as some major stocks\u2019 market caps \u2018bled out,\u2019 Josh Brown says - CNBC",
         "description": "When some big tech names struggled, investors were able to rotate into pockets of strength outside of the sector, the CEO of Ritholtz Wealth Management said.",
         "source_link": "https://www.cnbc.com/2025/12/30/stock-market-offered-opportunities-in-2025-even-as-some-big-names-stumbled-josh-brown.html"
-      },
-      {
-        "rank": 5,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-intelligence-iphone-17-pro-orange.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple may see the future of LLMs very differently than most: report - 9to5Mac",
-        "description": "A new report may help explain why, in part, Apple\u2019s AI approach thus far has differed so much from competitors.",
-        "source_link": "https://9to5mac.com/2025/12/30/apple-may-see-the-future-of-llms-very-differently-than-most-report/"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/onexsugar_1.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-        "title": "The OneXSugar Wallet is the first gaming handheld with a folding screen - The Verge",
-        "description": "\ufeffIts pocketable clamshell design opens to reveal a 8.01-inch OLED display inside.",
-        "source_link": "https://www.theverge.com/news/851401/one-netbook-onexsugar-gaming-handheld-wallet-folding-oled-screen-android"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/preview-ios-26-icon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iOS 26 adds new \u2018Preview\u2019 app on iPhone, here\u2019s how I\u2019m using it - 9to5Mac",
-        "description": "iOS 26 adds two brand new apps to your iPhone\u2019s Home Screen, here\u2019s how I\u2019m using one of them: the Preview app.",
-        "source_link": "https://9to5mac.com/2025/12/30/ios-26-adds-new-preview-app-on-iphone-heres-how-im-using-it/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://podcast.posttv.com/series/20251230/t_1767099443597_name_diving_long.jpg&w=1440",
-        "title": "Is finding \"flow\" the key to happiness? - The Washington Post",
-        "description": "\u201cThere\u2019s nothing like cold water, icky garbage and a little bit of danger to get you out of your head,\u201d said Susan Baur, founder of the group Old Ladies Against Underwater Garbage.",
-        "source_link": "https://www.washingtonpost.com/podcasts/post-reports/is-finding-flow-the-key-to-happiness/"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/galaxy-tab-a11-plus-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Samsung\u2019s $250 Galaxy Tab A11+ is a big upgrade by budget Android tablet standards - 9to5Google",
-        "description": "The Galaxy Tab A11+ just went official and it actually seems like a pretty decent Android tablet for its $250...",
-        "source_link": "http://9to5google.com/2025/12/30/samsung-galaxy-tab-a11-plus-official-specs-price/"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/misc/_tiles/2025/year-in-review/year-in-review-169-en.png",
-        "title": "A 2025 Year in Review Retrospective from the World of Pok\u00e9mon - Pokemon.com",
-        "description": "This past year was filled with all sorts of Pok\u00e9mon fun! How many of these moments do you remember?",
-        "source_link": "https://www.pokemon.com/us/pokemon-news/a-2025-year-in-review-retrospective-from-the-world-of-pokemon"
       }
     ],
     "trending_movies": [
@@ -118,31 +111,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/eDKPKlMtHjRQimYQz4eOgKYW5q6.jpg",
-        "title": "Wake Up Dead Man: A Knives Out Mystery",
-        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
-        "source_link": "https://www.themoviedb.org/movie/812583"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
         "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
         "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
         "source_link": "https://www.themoviedb.org/movie/1311031"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
-        "title": "Bugonia",
-        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
-        "source_link": "https://www.themoviedb.org/movie/701387"
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/eDKPKlMtHjRQimYQz4eOgKYW5q6.jpg",
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
+        "source_link": "https://www.themoviedb.org/movie/812583"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/qTvFWCGeGXgBRaINLY1zqgTPSpn.jpg",
         "title": "Sinners",
         "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is wait...",
         "source_link": "https://www.themoviedb.org/movie/1233413"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+        "title": "Marty Supreme",
+        "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       }
     ]
   }
