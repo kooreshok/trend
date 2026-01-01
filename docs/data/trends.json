@@ -1,69 +1,69 @@
 {
-  "last_updated": "January 01, 2026, 01:28 UTC",
+  "last_updated": "January 01, 2026, 03:46 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/79b4/live/a8d36a70-e599-11f0-a8dc-93c15fe68710.jpg",
+        "title": "Made in space? Start-up brings factory in orbit one step closer to reality - BBC",
+        "description": "A factory in space has been switched on and has reached temperatures of about 1,000C.",
+        "source_link": "https://www.bbc.com/news/articles/c62vx0pgyrgo"
+      },
+      {
+        "rank": 2,
+        "image": "https://media.eventhubs.com/images/2025/12/30-2xko-release-date-leakt.webp",
+        "title": "2XKO appears to leak its console and Season 1 release date... again - EventHubs",
+        "description": "2XKO has been in the hands of PC players for a few months already, and it seems now we know when console owners can get in on the action too.Riot Games appears to have accidentally posted a trailer early ...",
+        "source_link": "https://www.eventhubs.com/news/2025/dec/30/2xko-release-date-leak/"
+      },
+      {
+        "rank": 3,
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/07e2/live/6c51dc30-e594-11f0-a8dc-93c15fe68710.jpg",
         "title": "Colchester boy given \u00a31.8m drug has new lease of life - BBC",
         "description": "Five-year-old Edward can walk independently, his mum says, and she hopes he will lead a happy life.",
         "source_link": "https://www.bbc.com/news/articles/czj0wr012dxo"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "image": "https://helios-i.mashable.com/imagery/articles/07cRd0TZhGk7iOZYfod7m2R/hero-image.fill.size_1200x675.v1767136744.jpg",
+        "title": "Everything we know about the Samsung Galaxy S26: Leaks, rumors, and release date - Mashable",
+        "description": "Rumors are already swirling about Samsung\u2019s next flagship.",
+        "source_link": "https://mashable.com/article/everything-we-know-about-samsung-galaxy-s26-leaks-rumors-specifications"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.bgr.com/img/gallery/say-goodbye-to-deleting-old-photos-with-this-ultra-compact-solution/l-intro-1766623315.jpg",
+        "title": "Say Goodbye To Deleting Old Photos With This Ultra-Compact Solution - bgr.com",
+        "description": "This 1 TB portable hard drive that plugs directly into your phone is the easiest, simplest way to free up space without deleting old photos.",
+        "source_link": "https://www.bgr.com/2060449/say-goodbye-to-deleting-photos-compact-solution/"
+      },
+      {
+        "rank": 6,
         "image": "https://www.phoronix.net/image.php?id=windows-beats-linux-arl-h&image=windows_wins_0",
         "title": "Unexpected Surprise: Windows 11 Outperforming Linux On An Intel Arrow Lake H Laptop - Phoronix",
         "description": "Typically when receiving any review hardware preloaded with Microsoft Windows I tend to run some Windows vs.",
         "source_link": "https://www.phoronix.com/review/windows-beats-linux-arl-h"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://gizmodo.com/app/uploads/2025/12/Pluribus_glam-1200x675.jpg",
         "title": "After 'Pluribus', Revisit Rhea Seehorn's Next Best Genre Role: 'Magic: The Gathering' Tutorial Sorceress - Gizmodo",
         "description": "Carol Sturka's career as a romantasy author suddenly makes a lot more sense.",
         "source_link": "https://gizmodo.com/after-pluribus-revisit-rhea-seehorns-next-best-genre-role-magic-the-gathering-tutorial-sorceress-2000704456"
       },
       {
-        "rank": 4,
+        "rank": 8,
+        "image": "https://images.mansionglobal.com/im-14017711/social",
+        "title": "Coral Gables Mansion Sells for Millions More Than It Did Just Last Year - Mansion Global",
+        "description": "Sellers Thomas Peck and Jill Barnes sold the South Florida house for $21.5 million, 26% more than they paid in 2024",
+        "source_link": "https://www.mansionglobal.com/articles/coral-gables-mansion-sells-for-millions-more-than-it-did-just-last-year-c378b50a"
+      },
+      {
+        "rank": 9,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/carplay-ultra-boot.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Will your car get CarPlay Ultra? Here\u2019s what we know - 9to5Mac",
         "description": "Earlier this year, Apple officially announced CarPlay Ultra, the next-generation version of CarPlay that it first teased way back at...",
         "source_link": "https://9to5mac.com/2025/12/30/carplay-ultra-automakers/"
-      },
-      {
-        "rank": 5,
-        "image": "https://kotaku.com/app/uploads/2025/12/Breath-of-the-wild-VR-mod-1200x675.jpg",
-        "title": "New Breath Of The Wild Mod Turns It Into The Ultimate VR Game - Kotaku",
-        "description": "The mod was built by the same team behind the excellent VR port of Half-life 2 on PC",
-        "source_link": "https://kotaku.com/this-new-legend-of-zelda-breath-of-the-wild-vr-mod-is-awesome-2000656152"
-      },
-      {
-        "rank": 6,
-        "image": "https://helios-i.mashable.com/imagery/articles/04GU7JAXY8OVBPnzQuLQ9bR/hero-image.fill.size_1200x675.v1767121144.jpg",
-        "title": "OpenAI finally brings the Thinking toggle to its Android app - Mashable",
-        "description": "The prior Thinking mode was only there for show.",
-        "source_link": "https://mashable.com/article/chatgpt-android-app-thinking-toggle"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.techpowerup.com/review/asus-rog-crosshair-x870e-hero-btf/images/title.jpg",
-        "title": "ASUS ROG Crosshair X870E Hero BTF Review - TechPowerUp",
-        "description": "ASUS shows off the most high-end BTF reverse connector motherboard on Socket AM5 yet, featuring its unique cable-free GC-HPWR GPU power connector too. But do these and its other features justify its sizable price tag this late into the motherboard life cycle?",
-        "source_link": "https://www.techpowerup.com/review/asus-rog-crosshair-x870e-hero-btf/"
-      },
-      {
-        "rank": 8,
-        "image": "https://gizmodo.com/app/uploads/2025/12/StrangerThings_joycehopper-1200x675.jpg",
-        "title": "\u2018Stranger Things\u2019 Couples, Ranked by How Much Chemistry They Actually Have - Gizmodo",
-        "description": "The grand finale arrives on Netflix December 31, so here's one last look back at the characters' most inconsistently important aspect: their love lives.",
-        "source_link": "https://gizmodo.com/stranger-things-couples-ranked-netflix-2000704328"
-      },
-      {
-        "rank": 9,
-        "image": "https://image.cnbcfm.com/api/v1/image/108134759-1745331114781-IMG_5714.jpg?v=1759873968&w=1920&h=1080",
-        "title": "There was money to be made in 2025, even as some major stocks\u2019 market caps \u2018bled out,\u2019 Josh Brown says - CNBC",
-        "description": "When some big tech names struggled, investors were able to rotate into pockets of strength outside of the sector, the CEO of Ritholtz Wealth Management said.",
-        "source_link": "https://www.cnbc.com/2025/12/30/stock-market-offered-opportunities-in-2025-even-as-some-big-names-stumbled-josh-brown.html"
       }
     ],
     "trending_movies": [
@@ -83,17 +83,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
         "rank": 5,
@@ -104,10 +104,10 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
+        "image": "https://image.tmdb.org/t/p/w200/eDKPKlMtHjRQimYQz4eOgKYW5q6.jpg",
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
+        "source_link": "https://www.themoviedb.org/movie/812583"
       },
       {
         "rank": 7,
@@ -118,17 +118,17 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/eDKPKlMtHjRQimYQz4eOgKYW5q6.jpg",
-        "title": "Wake Up Dead Man: A Knives Out Mystery",
-        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
-        "source_link": "https://www.themoviedb.org/movie/812583"
+        "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/qTvFWCGeGXgBRaINLY1zqgTPSpn.jpg",
-        "title": "Sinners",
-        "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is wait...",
-        "source_link": "https://www.themoviedb.org/movie/1233413"
+        "image": "https://image.tmdb.org/t/p/w200/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg",
+        "title": "Superman",
+        "description": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent....",
+        "source_link": "https://www.themoviedb.org/movie/1061474"
       },
       {
         "rank": 10,
