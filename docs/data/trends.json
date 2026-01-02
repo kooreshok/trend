@@ -1,62 +1,69 @@
 {
-  "last_updated": "January 02, 2026, 20:18 UTC",
+  "last_updated": "January 02, 2026, 21:13 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/stage-501-party-speaker.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
+        "title": "LG\u2019s new karaoke-ready party speaker uses AI to remove song vocals - The Verge",
+        "description": "LG is launching four new Xboom speakers, with the karaoke-friendly Stage 501 coming with an AI-powered feature that can remove vocals from \u201cvirtually any song.\u201d",
+        "source_link": "https://www.theverge.com/news/852362/lg-xboom-stage-501-karaoke-launch-ces-2026"
+      },
+      {
+        "rank": 2,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Google-AR-Glasses-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "2026: Showtime for Android XR glasses - 9to5Google",
         "description": "During my hands-on with Android XR glasses last month, I kept returning to the digital clock that was displayed over...",
         "source_link": "http://9to5google.com/2026/01/01/android-xr-glasses-2026/"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/tcgl/2026/01/01/tcgl-169-en.png",
         "title": "Turn Over a New Leaf with Budew in Pok\u00e9mon Trading Card Game Live - Pokemon.com",
         "description": "Budew was a breakout star of 2025, and Pok\u00e9mon TCG Live is itching to celebrate with deck cosmetics, avatar outfits, and more.",
         "source_link": "https://www.pokemon.com/us/pokemon-news/turn-over-a-new-leaf-with-budew-in-pokemon-trading-card-game-live"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://images.macrumors.com/t/Y1Sp3NsfWCwKbQL0mUSrnViR6tY=/2000x/article-new/2025/09/iphone-17-models.jpg",
         "title": "No iPhone 18 Launch This Year, Reports Suggest - MacRumors",
         "description": "Apple is not expected to release a standard iPhone 18 model this year, according to a growing number of reports that suggest the company is planning...",
         "source_link": "https://www.macrumors.com/2026/01/01/no-iphone-18-launch-this-year/"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://www.phoronix.net/image.php?id=2023&image=reactos_november",
         "title": "ReactOS Starts 2026 With Another \"Major Step\" Toward Windows NT6 Compatibility - Phoronix",
         "description": "The ReactOS free software project is turning 30 this year and its 'open-source Windows' OS ambitions remain",
         "source_link": "https://www.phoronix.com/news/ReactOS-Starts-2026"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://cdn.videocardz.com/1/2026/01/HP-AMD-INTEL-QUALCOMM-LAPTOPS-1.jpg",
         "title": "HP to launch EliteBook X G2 laptop with AMD, Intel and Qualcomm CPU options - VideoCardz.com",
         "description": "EliteBook X G2 has three platforms to choose from With CES less than a week away, a new report from Windows Latest claims to have HP's full showcase list",
         "source_link": "https://videocardz.com/newz/hp-to-launch-elitebook-x-g2-laptop-with-amd-intel-and-qualcomm-cpu-options"
       },
       {
-        "rank": 6,
+        "rank": 7,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/copilot.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Copilot Money brings clarity to your finances, now on the web - 9to5Mac",
+        "description": "Copilot Money is an award-winning app that brings a personal approach to managing your finances. It ties together your entire...",
+        "source_link": "https://9to5mac.com/2026/01/01/copilot-money-brings-clarity-to-your-finances-now-on-the-web/"
+      },
+      {
+        "rank": 8,
         "image": "https://assets.warhammer-community.com/newyear_incoming-jan01-1-feature-4eeh4aobwd.jpg",
         "title": "Announcing the New Year Warhammer Preview Live! 2026 \u2013 your first reveal show of the year - Warhammer Community",
         "description": "The first preview of 2026 is coming soon.",
         "source_link": "https://www.warhammer-community.com/articles/uzoe2wdo/announcing-the-new-year-warhammer-preview-live-2026-your-first-reveal-show-of-the-year"
       },
       {
-        "rank": 7,
-        "image": "https://www.bgr.com/img/gallery/google-maps-vs-apple-maps-heres-which-navigation-app-you-should-use/l-intro-1767126379.jpg",
-        "title": "Google Maps Vs. Apple Maps - Here's Which Navigation App You Should Use - bgr.com",
-        "description": "Between Google Maps and Apple Maps, there's no major difference in accuracy between them. The difference really boils down to user experience and preferences.",
-        "source_link": "https://www.bgr.com/2065070/google-maps-vs-apple-maps-which-is-better/"
-      },
-      {
-        "rank": 8,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/two-smartphones-displaying-music-apps-a-youtube-music-logo-with-a-warning-sign-and-multiple-spotify-icons-around-it.png?w=1600&h=900&fit=crop",
-        "title": "This YouTube Music quirk never bothered me \u2014 until I watched my partner use Spotify - Android Police",
-        "description": "I can't unsee it now",
-        "source_link": "https://www.androidpolice.com/youtube-music-quirk-never-bothered-me-until-i-saw-partner-use-spotify/"
+        "rank": 9,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/PXL_20251231_225143196-scaled-e1767224691858.jpg",
+        "title": "3 apps I'm actually using to keep my New Year's resolutions - Android Authority",
+        "description": "Habit tracking app options are endless, but these 3 apps have proven to be the most effective in actually making progress.",
+        "source_link": "https://www.androidauthority.com/new-years-resolutions-apps-2026-3628951/"
       }
     ],
     "trending_movies": [
