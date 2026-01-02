@@ -1,5 +1,5 @@
 {
-  "last_updated": "January 02, 2026, 13:30 UTC",
+  "last_updated": "January 02, 2026, 14:17 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,17 +76,17 @@
     "trending_movies": [
       {
         "rank": 1,
+        "image": "https://image.tmdb.org/t/p/w200/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",
+        "title": "The Tank",
+        "description": "In the Eastern Front of World War II in 1943, a five-man crew of a German Tiger tank is sent on a secret mission far behind the fiercely contested fro...",
+        "source_link": "https://www.themoviedb.org/movie/1252037"
+      },
+      {
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/u7x3I5V9aP4tMZACmM8ClY8lK6K.jpg",
         "title": "Wicked: For Good",
         "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
         "source_link": "https://www.themoviedb.org/movie/967941"
-      },
-      {
-        "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/osqt4jnXieZTnHmZ3RxmyOOLEcS.jpg",
-        "title": "The Tiger",
-        "description": "In the Eastern Front of World War II in 1943, a five-man crew of a German Tiger tank is sent on a secret mission far behind the fiercely contested fro...",
-        "source_link": "https://www.themoviedb.org/movie/1252037"
       },
       {
         "rank": 3,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/w2pzrRTevXrW3vgIK4CCYaXvtIc.jpg",
+        "title": "100 METERS",
+        "description": "A gifted runner trains a determined but unskilled classmate, unaware he's creating a rival who will challenge him on the track for years to come....",
+        "source_link": "https://www.themoviedb.org/movie/1295026"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
         "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
         "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
         "source_link": "https://www.themoviedb.org/movie/1311031"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
-        "title": "Marty Supreme",
-        "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
       }
     ]
   }
