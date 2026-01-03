@@ -1,76 +1,69 @@
 {
-  "last_updated": "January 03, 2026, 18:23 UTC",
+  "last_updated": "January 03, 2026, 19:12 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/pr2-rose-gold-onwrist2.jpg?quality=90&strip=all&crop=0%2C10.736559547287%2C100%2C78.526880905426&w=1200",
-        "title": "Pebble\u2019s round smartwatch is getting a reboot - The Verge",
-        "description": "The new Pebble Round 2 improves upon the original Pebble Time Round with longer battery life and a larger 1.3-inch touchscreen display.",
-        "source_link": "https://www.theverge.com/news/852587/pebble-round-2-time-smartwatch-price-availability"
+        "image": null,
+        "title": "People Are Sharing The \"Harmless\" Things That Actually Make Society Worse - BuzzFeed",
+        "description": null,
+        "source_link": "https://www.buzzfeed.com/kristenharris1/harmless-things-ruining-society"
       },
       {
         "rank": 2,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5fe0a43c0f1be1cf5696896e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "The Questions I Have About \u2018Destiny 2\u2019 In 2026 - Forbes",
+        "description": "Destiny 2 is entering another year in 2026, and there are many questions to ask about where it's going from here.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/01/02/the-questions-i-have-about-destiny-2-in-2026/"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/tim-cook-sjt-sep25.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Here\u2019s what to expect from Apple in January - 9to5Mac",
+        "description": "Apple may kick off its busy 2026 with new Macs, iPads, and software updates as soon as January. Here\u2019s what to expect",
+        "source_link": "https://9to5mac.com/2026/01/02/heres-what-to-expect-from-apple-in-january/"
+      },
+      {
+        "rank": 4,
         "image": "https://assets.warhammer-community.com/40k_wardens-jan02-1-feature-fxsmv8pgy1.jpg",
         "title": "See the new and improved Captain Titus with free datasheets for the Wardens of Ultramar - Warhammer Community",
         "description": "Check out the rules for Titus and his new command team.",
         "source_link": "https://www.warhammer-community.com/articles/aa1dpgac/see-the-new-and-improved-captain-titus-with-free-datasheets-for-the-wardens-of-ultramar"
       },
       {
-        "rank": 3,
-        "image": "https://images.macrumors.com/t/xetihU7xHhC6b1RQc1jvG5dBEoo=/3840x/article-new/2026/01/Apple-Fitness-Plus-hero.jpg",
-        "title": "Apple Announces New Fitness+ Workout Programs, Strava Challenge, and More - MacRumors",
-        "description": "Apple today announced a number of updates to Apple Fitness+ and activity with the Apple Watch.   The key announcements include:   \tNew Year...",
-        "source_link": "https://www.macrumors.com/2026/01/02/apple-announces-new-fitness-workout-programs/"
-      },
-      {
-        "rank": 4,
-        "image": "https://cdn.videocardz.com/1/2026/01/RADEON-RX-9070-STEAM-HARDWARE-SURVEY.jpg",
-        "title": "AMD Radeon RX 9070 finally shows up in Steam\u2019s Hardware Survey - VideoCardz.com",
-        "description": "AMD Radeon RX 9070 now sits at 0.22% in Steam HW Survey After nearly a year since the first announcement, RDNA 4 GPUs have finally made their way into the",
-        "source_link": "https://videocardz.com/newz/amd-radeon-rx-9070-finally-shows-up-in-steams-hardware-survey"
-      },
-      {
         "rank": 5,
+        "image": "https://www.zdnet.com/a/img/resize/3da3707c3472797770e8e08abd5788bc655887b1/2025/12/15/0dee8e1a-4a6e-4037-bfab-ff042d1c51d2/terramaster1.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "Should you invest in a NAS system at home to store your data? I did, and it's already paying off - ZDNET",
+        "description": "If you're looking to break away from third-party file and directory storage, this model from Terramaster checks most boxes for me.",
+        "source_link": "https://www.zdnet.com/home-and-office/networking/terramaster-f4-425-nas-storage-review/"
+      },
+      {
+        "rank": 6,
+        "image": "https://images.macrumors.com/t/AWIbpR3c6hj_3eVOI_xw1a_xY4A=/1600x/article-new/2025/10/Vision-Pro-M5-Demo.jpg",
+        "title": "Report: Apple Vision Pro Is Still Failing to Catch On - MacRumors",
+        "description": "Apple's Vision Pro headset is still failing to see appeal among consumers, according to a new report from the Financial Times.   Data from IDC...",
+        "source_link": "https://www.macrumors.com/2026/01/02/vision-pro-still-failing-to-catch-on/"
+      },
+      {
+        "rank": 7,
         "image": "https://assetsio.gnwcdn.com/msi-rtx-5070-shadow-oc-tech-deal.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "AMD and Nvidia will reportedly raise GPU prices \"significantly\" in 2026 - Eurogamer",
         "description": "AMD and Nvidia will reportedly raise GPU prices \"significantly\" in 2026, according to a report by Newsis.",
         "source_link": "https://www.eurogamer.net/amd-and-nvidia-will-reportedly-raise-gpu-prices-significantly-in-2026"
       },
       {
-        "rank": 6,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/android-auto-logo-displayed-inside-red-curly-braces.png?w=1600&h=900&fit=crop",
-        "title": "8 Android Auto apps that have nothing to do with music or maps (but you need them) - Android Police",
-        "description": "Android Auto apps you didn't know you needed",
-        "source_link": "https://www.androidpolice.com/android-auto-apps-youre-missing/"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/LG-Gram-Pro-17-and-16-2026-series.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "LG announces the \u2018world\u2019s lightest 17-inch RTX laptop\u2019 - The Verge",
-        "description": "The LG Gram Pro 17 and Gram Pro 16 will use a new ultralight material that doesn\u2019t compromise durability.",
-        "source_link": "https://www.theverge.com/news/852628/lg-gram-pro-17-16-laptop-2026-ces"
-      },
-      {
         "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/fender_elie1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-        "title": "Fender\u2019s new Bluetooth speakers can play audio from four sources simultaneously - The Verge",
-        "description": "\ufeffThe ELIE speakers will be available in two sizes with up to 120W of output and 18 hours of battery life.",
-        "source_link": "https://www.theverge.com/gadgets/850912/fender-audio-elie-bluetooth-portable-wireless-speakers-four-inputs-simultaneous"
+        "image": "https://www.apple.com/newsroom/images/2026/01/stay-active-in-the-new-year-with-apple-watch/tile/Apple-Fitness-Plus-hero-lp.jpg.og.jpg?202601021400",
+        "title": "Stay active in the new year with Apple Watch - Apple",
+        "description": "Apple Fitness+ is introducing new programming to help users to stay active and motivated to kick off 2026.",
+        "source_link": "https://www.apple.com/newsroom/2026/01/stay-active-in-the-new-year-with-apple-watch/"
       },
       {
         "rank": 9,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/01/10.-Available-in-Onyx-Smoke-and-Clover-finishes.jpg?resize=1200,675",
-        "title": "Clicks debuts its own take on the BlackBerry smartphone, plus a $79 snap-on mobile keyboard - TechCrunch",
-        "description": "The company behind the add-on mobile keyboards with physical buttons is now doing its own phone.",
-        "source_link": "https://techcrunch.com/2026/01/02/clicks-debuts-its-own-take-on-the-blackberry-smartphone-plus-a-79-snap-on-mobile-keyboard/"
-      },
-      {
-        "rank": 10,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/12/illustration-of-a-google-calendar-schedule-grid-featuring-colorful-time-blocks-and-the-app-logo.png?w=1600&h=900&fit=crop",
-        "title": "The one Google Calendar feature I use every single day to stay in control - Android Police",
-        "description": "This game-changing Google Calendar trick will up your productivity",
-        "source_link": "https://www.androidpolice.com/the-one-google-calendar-feature-i-use-every-single-day/"
+        "image": "https://www.zdnet.com/a/img/resize/6cbe8cd54fd969bce70855bfa117b2f8128f2909/2025/08/27/cbcbf127-e6a3-4852-a6ac-02662e5abdb5/rayneo-air-3s-pro4.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "Can the world's first HDR10 smart glasses replace your $2,000 OLED TV - these specs say yes - ZDNET",
+        "description": "Exclusive: The RayNeo Air 4 Pro have launched ahead of CES 2026, with a feature set that we've yet to see from XR glasses.",
+        "source_link": "https://www.zdnet.com/article/rayneo-air-4-pro-hdr10-smart-glasses/"
       }
     ],
     "trending_movies": [
@@ -83,66 +76,66 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/6tpAPeuuqbVnYWWPoOLEDLSBU7a.jpg",
-        "title": "Trap House",
-        "description": "An undercover DEA agent and his partner embark on a game of cat and mouse with an audacious, and surprising group of thieves - their own rebellious te...",
-        "source_link": "https://www.themoviedb.org/movie/628847"
-      },
-      {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/kBd17L811S97JESH9ma1pPMO0o0.jpg",
-        "title": "Follow My Voice",
-        "description": "After a health crisis that has kept her at home for 76 days, Klara does nothing but listen to her favorite radio program, Sigue Mi Voz....",
-        "source_link": "https://www.themoviedb.org/movie/1144443"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/u7x3I5V9aP4tMZACmM8ClY8lK6K.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "title": "Wicked: For Good",
         "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
         "source_link": "https://www.themoviedb.org/movie/967941"
       },
       {
-        "rank": 5,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
-        "rank": 6,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/6tpAPeuuqbVnYWWPoOLEDLSBU7a.jpg",
+        "title": "Trap House",
+        "description": "An undercover DEA agent and his partner embark on a game of cat and mouse with an audacious, and surprising group of thieves - their own rebellious te...",
+        "source_link": "https://www.themoviedb.org/movie/628847"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/kBd17L811S97JESH9ma1pPMO0o0.jpg",
+        "title": "Follow My Voice",
+        "description": "After a health crisis that has kept her at home for 76 days, Klara does nothing but listen to her favorite radio program, Sigue Mi Voz....",
+        "source_link": "https://www.themoviedb.org/movie/1144443"
+      },
+      {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/n0fnflUWcwzbQ5x32G8zx0INs3G.jpg",
-        "title": "Marty Supreme",
-        "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
+        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "title": "The Housemaid",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
-        "title": "Bugonia",
-        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
-        "source_link": "https://www.themoviedb.org/movie/701387"
+        "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
+        "source_link": "https://www.themoviedb.org/movie/1311031"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/w2pzrRTevXrW3vgIK4CCYaXvtIc.jpg",
-        "title": "100 METERS",
-        "description": "A gifted runner trains a determined but unskilled classmate, unaware he's creating a rival who will challenge him on the track for years to come....",
-        "source_link": "https://www.themoviedb.org/movie/1295026"
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-        "title": "Now You See Me: Now You Don't",
-        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
-        "source_link": "https://www.themoviedb.org/movie/425274"
+        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
+        "source_link": "https://www.themoviedb.org/movie/812583"
       }
     ]
   }
