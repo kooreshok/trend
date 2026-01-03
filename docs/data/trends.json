@@ -1,69 +1,76 @@
 {
-  "last_updated": "January 03, 2026, 20:18 UTC",
+  "last_updated": "January 03, 2026, 21:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": null,
-        "title": "People Are Sharing The \"Harmless\" Things That Actually Make Society Worse - BuzzFeed",
-        "description": null,
-        "source_link": "https://www.buzzfeed.com/kristenharris1/harmless-things-ruining-society"
+        "image": "https://helios-i.mashable.com/imagery/articles/07DXXb7cCTrISc5o1HJCqo3/hero-image.fill.size_1200x675.v1767200067.png",
+        "title": "Best smartwatch deal: Get $50 off the Google Pixel Watch 4 at Amazon - Mashable",
+        "description": "Keep an eye on your fitness along with your entire day, right from your wrist.",
+        "source_link": "https://mashable.com/article/dec-31-google-pixel-watch-4-deal"
       },
       {
         "rank": 2,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2018/02/google-clips-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "What product categories do you want Google Pixel to enter? - 9to5Google",
+        "description": "Remember Google Clips? The not-quite-a-GoPro that used AI to automatically capture key moments was released at the second Made by...",
+        "source_link": "http://9to5google.com/2026/01/02/google-pixel-product-categories/"
+      },
+      {
+        "rank": 3,
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/01/newspress-collage-aihxpl3k7-1767368870343.jpg?quality=75&strip=all&1767350998&w=1200",
+        "title": "Alexa users are infuriated by device\u2019s \u2018teenage girl\u2019 voice: \u2018Scared the s\u2013t out of me\u2019 - New York Post",
+        "description": "\u201cIt sounds like I\u2019m talking to a teenage girl, wayyyy too peppy for me at 6 o\u2019clock in the morning. Strongly debating going to a different brand entirely.\u201d",
+        "source_link": "https://nypost.com/2026/01/02/tech/alexa-users-infuriated-by-devices-teenage-girl-voice/"
+      },
+      {
+        "rank": 4,
+        "image": "https://techcrunch.com/wp-content/uploads/2016/09/gettyimages-520692866.jpg?resize=1200,779",
+        "title": "10 useful gadgets for your first apartment - TechCrunch",
+        "description": "From home security systems and smart smoke detectors to a sunrise alarm gently that wakes you up, here are the must-have gadgets for living in your first apartment.",
+        "source_link": "https://techcrunch.com/2026/01/02/10-useful-gadgets-for-your-first-apartment/"
+      },
+      {
+        "rank": 5,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.05.12.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Another AirPods Pro 3 model is coming, with one rumored upgrade - 9to5Mac",
+        "description": "AirPods Pro 3 launched just a few months ago, but rumors indicate there\u2019s a second model coming this year with one key upgrade: IR cameras.",
+        "source_link": "https://9to5mac.com/2026/01/02/another-airpods-pro-3-model-is-coming-with-one-rumored-upgrade/"
+      },
+      {
+        "rank": 6,
+        "image": "https://kotaku.com/app/uploads/2025/06/ccfabc089c1ea64775fc0fb7bb8d7dd0-1200x675.jpg",
+        "title": "AI Is Fueling The First Gaming Price Hike Of 2026 - Kotaku",
+        "description": "Asus warned partners that devices like the Xbox Ally X could be getting more expensive",
+        "source_link": "https://kotaku.com/asus-rog-ally-price-increase-nvidia-amd-ai-ps6-delay-2000656448"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.bgr.com/img/gallery/5-dewalt-gadgets-users-swear-by/l-intro-1766938292.jpg",
+        "title": "5 DeWalt Gadgets Users Swear By - bgr.com",
+        "description": "Did you know DeWalt makes headphones? Check out our list of 5 surprising, user-approved gadgets, including chargers and audio gear, that hold up to heavy use.",
+        "source_link": "https://www.bgr.com/2062038/best-dewalt-gadgets-users-swear-by/"
+      },
+      {
+        "rank": 8,
+        "image": "https://images.macrumors.com/t/SvVZeW6SQG72NSNE0rNqpAVMGXk=/2680x/article-new/2025/07/Low-Cost-MacBook-Feature-A18-Pro.jpg",
+        "title": "Low-Price 12.9-Inch MacBook With A18 Pro Chip Reportedly Launching Early This Year - MacRumors",
+        "description": "Apple plans to introduce a 12.9-inch MacBook in spring 2026, according to TrendForce.   In a press release this week, the Taiwanese research firm...",
+        "source_link": "https://www.macrumors.com/2026/01/02/12-9-inch-macbook-spring-2026-rumor/"
+      },
+      {
+        "rank": 9,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/macbook-air-artillery-shell-fragment.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Soldier\u2019s M1 MacBook Air stops artillery shell fragment, yet still works - 9to5Mac",
+        "description": "A Ukrainian solider has posted about his M1 MacBook Air stopping an artillery shell fragment, and continuing to work fine.",
+        "source_link": "https://9to5mac.com/2026/01/02/soldiers-m1-macbook-air-stops-artillery-shell-fragment-yet-still-works/"
+      },
+      {
+        "rank": 10,
         "image": "https://imageio.forbes.com/specials-images/imageserve/5fe0a43c0f1be1cf5696896e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "The Questions I Have About \u2018Destiny 2\u2019 In 2026 - Forbes",
         "description": "Destiny 2 is entering another year in 2026, and there are many questions to ask about where it's going from here.",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/01/02/the-questions-i-have-about-destiny-2-in-2026/"
-      },
-      {
-        "rank": 3,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/tim-cook-sjt-sep25.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Here\u2019s what to expect from Apple in January - 9to5Mac",
-        "description": "Apple may kick off its busy 2026 with new Macs, iPads, and software updates as soon as January. Here\u2019s what to expect",
-        "source_link": "https://9to5mac.com/2026/01/02/heres-what-to-expect-from-apple-in-january/"
-      },
-      {
-        "rank": 4,
-        "image": "https://assets.warhammer-community.com/40k_wardens-jan02-1-feature-fxsmv8pgy1.jpg",
-        "title": "See the new and improved Captain Titus with free datasheets for the Wardens of Ultramar - Warhammer Community",
-        "description": "Check out the rules for Titus and his new command team.",
-        "source_link": "https://www.warhammer-community.com/articles/aa1dpgac/see-the-new-and-improved-captain-titus-with-free-datasheets-for-the-wardens-of-ultramar"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.zdnet.com/a/img/resize/3da3707c3472797770e8e08abd5788bc655887b1/2025/12/15/0dee8e1a-4a6e-4037-bfab-ff042d1c51d2/terramaster1.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Should you invest in a NAS system at home to store your data? I did, and it's already paying off - ZDNET",
-        "description": "If you're looking to break away from third-party file and directory storage, this model from Terramaster checks most boxes for me.",
-        "source_link": "https://www.zdnet.com/home-and-office/networking/terramaster-f4-425-nas-storage-review/"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.macrumors.com/t/AWIbpR3c6hj_3eVOI_xw1a_xY4A=/1600x/article-new/2025/10/Vision-Pro-M5-Demo.jpg",
-        "title": "Report: Apple Vision Pro Is Still Failing to Catch On - MacRumors",
-        "description": "Apple's Vision Pro headset is still failing to see appeal among consumers, according to a new report from the Financial Times.   Data from IDC...",
-        "source_link": "https://www.macrumors.com/2026/01/02/vision-pro-still-failing-to-catch-on/"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/msi-rtx-5070-shadow-oc-tech-deal.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "AMD and Nvidia will reportedly raise GPU prices \"significantly\" in 2026 - Eurogamer",
-        "description": "AMD and Nvidia will reportedly raise GPU prices \"significantly\" in 2026, according to a report by Newsis.",
-        "source_link": "https://www.eurogamer.net/amd-and-nvidia-will-reportedly-raise-gpu-prices-significantly-in-2026"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.apple.com/newsroom/images/2026/01/stay-active-in-the-new-year-with-apple-watch/tile/Apple-Fitness-Plus-hero-lp.jpg.og.jpg?202601021400",
-        "title": "Stay active in the new year with Apple Watch - Apple",
-        "description": "Apple Fitness+ is introducing new programming to help users to stay active and motivated to kick off 2026.",
-        "source_link": "https://www.apple.com/newsroom/2026/01/stay-active-in-the-new-year-with-apple-watch/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.zdnet.com/a/img/resize/6cbe8cd54fd969bce70855bfa117b2f8128f2909/2025/08/27/cbcbf127-e6a3-4852-a6ac-02662e5abdb5/rayneo-air-3s-pro4.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Can the world's first HDR10 smart glasses replace your $2,000 OLED TV - these specs say yes - ZDNET",
-        "description": "Exclusive: The RayNeo Air 4 Pro have launched ahead of CES 2026, with a feature set that we've yet to see from XR glasses.",
-        "source_link": "https://www.zdnet.com/article/rayneo-air-4-pro-hdr10-smart-glasses/"
       }
     ],
     "trending_movies": [
@@ -97,31 +104,31 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/6tpAPeuuqbVnYWWPoOLEDLSBU7a.jpg",
-        "title": "Trap House",
-        "description": "An undercover DEA agent and his partner embark on a game of cat and mouse with an audacious, and surprising group of thieves - their own rebellious te...",
-        "source_link": "https://www.themoviedb.org/movie/628847"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/kBd17L811S97JESH9ma1pPMO0o0.jpg",
-        "title": "Follow My Voice",
-        "description": "After a health crisis that has kept her at home for 76 days, Klara does nothing but listen to her favorite radio program, Sigue Mi Voz....",
-        "source_link": "https://www.themoviedb.org/movie/1144443"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/6tpAPeuuqbVnYWWPoOLEDLSBU7a.jpg",
+        "title": "Trap House",
+        "description": "An undercover DEA agent and his partner embark on a game of cat and mouse with an audacious, and surprising group of thieves - their own rebellious te...",
+        "source_link": "https://www.themoviedb.org/movie/628847"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/kBd17L811S97JESH9ma1pPMO0o0.jpg",
+        "title": "Follow My Voice",
+        "description": "After a health crisis that has kept her at home for 76 days, Klara does nothing but listen to her favorite radio program, Sigue Mi Voz....",
+        "source_link": "https://www.themoviedb.org/movie/1144443"
       },
       {
         "rank": 9,
