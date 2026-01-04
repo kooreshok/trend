@@ -1,55 +1,76 @@
 {
-  "last_updated": "January 04, 2026, 08:22 UTC",
+  "last_updated": "January 04, 2026, 09:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://hackaday.com/wp-content/uploads/2025/12/windows_versions_benchmark_TrigrZolt_youtube.jpg",
+        "title": "Benchmarking Windows Against Itself, From Windows XP To Windows 11 - Hackaday",
+        "description": "Despite faster CPUs, RAM and storage, today\u2019s Windows experience doesn\u2019t feel noticeably different from back in the 2000s when XP and later Windows 7 ruled the roost. To quantify this f\u2026",
+        "source_link": "https://hackaday.com/2026/01/02/benchmarking-windows-against-itself-from-windows-xp-to-windows-11/"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.macrumors.com/t/_r3EKijswZhEo9czSROBvlN1jcU=/2500x/article-new/2025/12/Low-Cost-A18-Pro-MacBook-Feature-Pink.jpg",
+        "title": "Apple's 2026 Low-Cost A18 MacBook Pro: What We Know So Far - MacRumors",
+        "description": "Apple is planning to release a low-cost MacBook in 2026, which will apparently compete with more affordable Chromebooks and Windows PCs. Apple's...",
+        "source_link": "https://www.macrumors.com/2026/01/02/low-cost-macbook-pro-rumors/"
+      },
+      {
+        "rank": 3,
         "image": "https://cdn.videocardz.com/1/2026/01/MSI-MEG-X-QD-OLED-MONITOR-CES-2026.jpg",
         "title": "MSI to launch ultra-wide MEG X QD-OLED gaming monitor at CES 2026 - VideoCardz.com",
         "description": "MSI teases flagship MEG X QD-OLED monitor with \"AI gaming\" branding ahead of CES 2026 MSI has posted a teaser for a new \"flagship MEG X\" monitor. The",
         "source_link": "https://videocardz.com/pixel/msi-to-launch-ultra-wide-meg-x-qd-oled-gaming-monitor-at-ces-2026"
       },
       {
-        "rank": 2,
-        "image": "https://images.macrumors.com/t/xc1BVb2sX_KBJPcVO4shl8zipI8=/1600x/article-new/2026/01/duolingo-ad-live-activity.jpg",
-        "title": "Duolingo Used iPhone's Dynamic Island to Display Ads, Violating Apple Design Guidelines - MacRumors",
-        "description": "Language learning app Duolingo has apparently been using the iPhone's Live Activity feature to display ads on the Lock Screen and the Dynamic...",
-        "source_link": "https://www.macrumors.com/2026/01/02/duolingo-dynamic-island-ad/"
-      },
-      {
-        "rank": 3,
+        "rank": 4,
         "image": "https://www.bgr.com/img/gallery/can-you-use-an-amazon-fire-tv-stick-without-internet/l-intro-1767024869.jpg",
         "title": "Can You Use An Amazon Fire TV Stick Without Internet? - bgr.com",
         "description": "To use an Amazon Fire TV Stick without an internet connection, you'll need to go online to install an alternative launcher that replaces Amazon's interface.",
         "source_link": "https://www.bgr.com/2062805/can-you-use-amazon-fire-stick-without-internet/"
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "image": "https://kotaku.com/app/uploads/2025/12/2026kotaku-1200x675.jpg",
+        "title": "31 Of The Biggest And Coolest 2026 Games We Can't Wait To Play - Kotaku",
+        "description": "Grand Theft Auto 6, Wolverine, Slay The Spire 2, Resident Evil Requiem, and much, much more are set to arrive this year",
+        "source_link": "https://kotaku.com/2026-game-releases-most-anticipated-batman-gta-6-wolverine-2000656197"
+      },
+      {
+        "rank": 6,
+        "image": "https://gizmodo.com/app/uploads/2026/01/racer_revenge-1200x675.png",
+        "title": "Alleged PS5 Jailbreak Method Spikes Prices for Old Star Wars Game on eBay - Gizmodo",
+        "description": "'Star Wars Racer Revenge' is selling for hundreds of dollars.",
+        "source_link": "https://gizmodo.com/alleged-ps5-jailbreak-method-spikes-prices-for-old-star-wars-game-on-ebay-2000704980"
+      },
+      {
+        "rank": 7,
         "image": "https://ep1.pinkbike.org/p4pb29145374/p4pb29145374.jpg",
         "title": "Pinkbike Poll: How Do You Inflate Your Tires? - Pinkbike",
         "description": "Calling all Schrader valve superfans.",
         "source_link": "https://www.pinkbike.com/news/pinkbike-poll-how-do-you-inflate-your-tires.html"
       },
       {
-        "rank": 5,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1864/18643631/4626172-tabletop-1.jpg",
-        "title": "The 10 Best New Board Games Of 2025 - GameSpot",
-        "description": "From The Lord of the Rings: Fate of the Fellowship to Critter Kitchen, 2025 was packed with top-shelf board games.",
-        "source_link": "https://www.gamespot.com/gallery/the-10-best-new-board-games-of-2025/2900-7365/"
-      },
-      {
-        "rank": 6,
+        "rank": 8,
         "image": "https://media.eventhubs.com/images/2026/01/02-roguelike-fighting-gamet.webp",
         "title": "There's a new roguelike fighting game coming that lets you steal your opponent's moves after beating them - EventHubs",
         "description": "The fighting game genre is filled with all sorts of different titles with their own unique features and mechanics that make them stand out though we usually don't see ones like this.Developer HeartLoop Games is working on a ...",
         "source_link": "https://www.eventhubs.com/news/2026/jan/02/roguelike-fighting-game/"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2018/02/google-clips-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "What product categories do you want Google Pixel to enter? - 9to5Google",
         "description": "Remember Google Clips? The not-quite-a-GoPro that used AI to automatically capture key moments was released at the second Made by...",
         "source_link": "http://9to5google.com/2026/01/02/google-pixel-product-categories/"
+      },
+      {
+        "rank": 10,
+        "image": "https://petapixel.com/assets/uploads/2026/01/kodak-charmera-mod-featured2.jpg",
+        "title": "What Happens When You Put Big Lenses on the Tiny Kodak Charmera? - PetaPixel",
+        "description": "Fixing the Charmera's biggest issue, its bad lens.",
+        "source_link": "https://petapixel.com/2026/01/02/what-happens-when-you-put-big-lenses-on-the-tiny-kodak-charmera/"
       }
     ],
     "trending_movies": [
@@ -97,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
-        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-        "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
-        "source_link": "https://www.themoviedb.org/movie/1311031"
+        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
+        "source_link": "https://www.themoviedb.org/movie/812583"
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/kBd17L811S97JESH9ma1pPMO0o0.jpg",
         "title": "Follow My Voice",
         "description": "After a health crisis that keeps her home, Klara does nothing but listen to her favorite radio show, Follow My Voice. But one day she wonders: is it p...",
         "source_link": "https://www.themoviedb.org/movie/1144443"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
+        "source_link": "https://www.themoviedb.org/movie/1311031"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
-        "title": "Wake Up Dead Man: A Knives Out Mystery",
-        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
-        "source_link": "https://www.themoviedb.org/movie/812583"
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
       }
     ]
   }
