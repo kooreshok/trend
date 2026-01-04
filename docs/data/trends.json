@@ -1,69 +1,76 @@
 {
-  "last_updated": "January 04, 2026, 16:19 UTC",
+  "last_updated": "January 04, 2026, 17:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets.warhammer-community.com/preorders-jan03-1-feature-e8z1e7riil.jpg",
+        "title": "Saturday Pre-orders \u2013 Corrupt the Mortal Realms with new Maggotkin of Nurgle - Warhammer Community",
+        "description": "Check out this week\u2019s pre-orders.",
+        "source_link": "https://www.warhammer-community.com/articles/ppbl7t1t/saturday-pre-orders-corrupt-the-mortal-realms-with-new-maggotkin-of-nurgle"
+      },
+      {
+        "rank": 2,
         "image": "https://cdn.videocardz.com/1/2026/01/MSI-RTX5090-LIGHTNING-LEAK.jpg",
         "title": "MSI RTX 5090 Lightning Z GPU has been leaked: dual 12V-2\u00d76 power, massive 40 power phase design - VideoCardz.com",
         "description": "MSI RTX 5090 result hits 53,207 points and takes the top spot on 3DMark Time Spy It looks like the RTX 5090 LIGHTNING card is not the same model as the",
         "source_link": "https://videocardz.com/newz/msi-rtx-5090-lightning-gpu-has-been-leaked-dual-12v-2x6-power-massive-40-power-phase-design"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/foldy-bird-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "\u2018Foldy Bird\u2019 uses your foldable hinge to play Flappy Bird, and it hurts my soul - 9to5Google",
+        "description": "You can play Flappy Bird and speedrun wearing out your foldable phone\u2019s hinge at the same time. At this point,...",
+        "source_link": "http://9to5google.com/2026/01/03/flappy-bird-clone-for-foldables/"
+      },
+      {
+        "rank": 4,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/11/floating-google-keep-icons-surrounded-by-gemini-stars-on-a-colorful-blue-to-purple-gradient-background.png?w=1600&h=900&fit=crop",
+        "title": "Gemini in Google Keep is more powerful than I initially thought - Android Police",
+        "description": "The productivity duo I didn't know I needed",
+        "source_link": "https://www.androidpolice.com/gemini-in-google-keep-is-powerful/"
+      },
+      {
+        "rank": 5,
+        "image": "https://pyxis.nymag.com/v1/imgs/9fe/e82/ad21ba2924c04a3b38cff6476174eb3775-friction.1x.rsocial.w1200.jpg",
+        "title": "In 2026, We Are Friction-Maxxing - The Cut",
+        "description": "In this edition of Brooding, Kathryn Jezer-Morton argues that in, the face of technologies that sell us escapism at every turn, we need to build up tolerance for \u201cinconvenience\u2019 and start friction-maxxing.",
+        "source_link": "http://www.thecut.com/article/brooding-friction-maxxing-new-years-2026-resolution.html"
+      },
+      {
+        "rank": 6,
         "image": "https://media.wired.com/photos/6945c390e5ab3fd97da33f89/191:100/w_1280,c_limit/gear-talk-to-text-1399262530.jpg",
         "title": "Stop Using Your Keyboard and Start Using This Simple, Free Speech-to-Text App - wired.com",
         "description": "It\u2019s called Handy, and it uses AI models to accurately convert your speaking voice into text\u2014all for free.",
         "source_link": "https://www.wired.com/story/handy-free-speech-to-text-app/"
       },
       {
-        "rank": 3,
+        "rank": 7,
+        "image": "https://www.phoronix.net/image.php?id=amd_r9290_wreck&image=amd_r9_290",
+        "title": "RADV Driver Lands Another Big Improvement For Early AMD GCN Graphics Cards - Phoronix",
+        "description": "Beyond Linux 6.19 switching old AMD GCN 1.0 and 1.1 GPUs to the AMDGPU kernel driver by default for better performance, RADV out-of-the-box, and more, there are still more improvements planned for these aging AMD graphics cards",
+        "source_link": "https://www.phoronix.com/news/AMD-GFX6-GFX7-VM-Faults"
+      },
+      {
+        "rank": 8,
+        "image": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltdbc6faf8183525cc/6958f03d60f5ef4b4513a23d/PlayStation_5_and_PlayStation_5_Pro_promo_image_Sony.jpg",
+        "title": "PS5 Price Issue Is Shameful, Sony Do Something - GAMINGbible",
+        "description": "The latest model of the PlayStation 5 is causing some confusion due to its pricing",
+        "source_link": "https://www.gamingbible.com/news/platform/playstation/ps5-price-issue-is-shameful-sony-do-something-327396-20260103"
+      },
+      {
+        "rank": 9,
         "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/01/lego-boxes.JPG?w=1600&h=900&fit=crop",
         "title": "My most anticipated CES 2026 announcement is about bricks, not phones - Android Police",
         "description": "Lego's building up to CES success",
         "source_link": "https://www.androidpolice.com/my-most-anticipated-ces-2026-announcement-is-about-bricks-not-phones/"
       },
       {
-        "rank": 4,
+        "rank": 10,
         "image": "https://cdn.videocardz.com/1/2026/01/ASUS-PRO-WS-B850M-ACE-WORKSTATION-MOTHERBOARD-HERO.jpg",
         "title": "ASUS introduces workstation B850M ACE motherboard with rotated AM5 socket - VideoCardz.com",
         "description": "ASUS Pro WS B850M-ACE SE brings IPMI and U.2 to a microATX AM5 board ASUS has introduced the Pro WS B850M-ACE SE, a microATX Socket AM5 motherboard that",
         "source_link": "https://videocardz.com/newz/asus-introduecs-workstation-b850m-ace-motherboard-with-rotated-am5-socket"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.sammyfans.com/wp-content/uploads/2025/10/s26-ultra-cad-img-1000x576.jpg",
-        "title": "Galaxy S26 Ultra color leak signals Samsung is done with Titanium - Sammy Fans",
-        "description": "Samsung would bring the Galaxy S26 Ultra in four striking color shades. A credible leaker has just revealed the names of the phone\u2019s potential colors. The leak isn\u2019t just limited to revealing colors, but a major design shift. According to IceUniverse, the Gal\u2026",
-        "source_link": "https://www.sammyfans.com/2026/01/03/samsung-galaxy-s26-ultra-color-leak-titanium/"
-      },
-      {
-        "rank": 6,
-        "image": "https://hackaday.com/wp-content/uploads/2025/12/zork-4004-main.png",
-        "title": "Zork Running On 4-Bit Intel Computer - Hackaday",
-        "description": "Before DOOM would run on any computing system ever produced, and indeed before it even ran on its first computer, the game that would run on any computer of the pre-DOOM era was Zork. This was a te\u2026",
-        "source_link": "https://hackaday.com/2026/01/03/zork-running-on-4-bit-intel-computer/"
-      },
-      {
-        "rank": 7,
-        "image": "https://hackaday.com/wp-content/uploads/2025/12/windows_versions_benchmark_TrigrZolt_youtube.jpg",
-        "title": "Benchmarking Windows Against Itself, From Windows XP To Windows 11 - Hackaday",
-        "description": "Despite faster CPUs, RAM and storage, today\u2019s Windows experience doesn\u2019t feel noticeably different from back in the 2000s when XP and later Windows 7 ruled the roost. To quantify this f\u2026",
-        "source_link": "https://hackaday.com/2026/01/02/benchmarking-windows-against-itself-from-windows-xp-to-windows-11/"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.macrumors.com/t/_r3EKijswZhEo9czSROBvlN1jcU=/2500x/article-new/2025/12/Low-Cost-A18-Pro-MacBook-Feature-Pink.jpg",
-        "title": "Apple's 2026 Low-Cost A18 Pro MacBook: What We Know So Far - MacRumors",
-        "description": "Apple is planning to release a low-cost MacBook in 2026, which will apparently compete with more affordable Chromebooks and Windows PCs. Apple's...",
-        "source_link": "https://www.macrumors.com/2026/01/02/low-cost-macbook-pro-rumors/"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.videocardz.com/1/2026/01/MSI-MEG-X-QD-OLED-MONITOR-CES-2026.jpg",
-        "title": "MSI to launch ultra-wide MEG X QD-OLED gaming monitor at CES 2026 - VideoCardz.com",
-        "description": "MSI teases flagship MEG X QD-OLED monitor with \"AI gaming\" branding ahead of CES 2026 MSI has posted a teaser for a new \"flagship MEG X\" monitor. The",
-        "source_link": "https://videocardz.com/pixel/msi-to-launch-ultra-wide-meg-x-qd-oled-gaming-monitor-at-ces-2026"
       }
     ],
     "trending_movies": [
@@ -118,17 +125,17 @@
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
+        "source_link": "https://www.themoviedb.org/movie/812583"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/kBd17L811S97JESH9ma1pPMO0o0.jpg",
         "title": "Follow My Voice",
         "description": "After a health crisis that keeps her home, Klara does nothing but listen to her favorite radio show, Follow My Voice. But one day she wonders: is it p...",
         "source_link": "https://www.themoviedb.org/movie/1144443"
-      },
-      {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
-        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-        "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
-        "source_link": "https://www.themoviedb.org/movie/1311031"
       },
       {
         "rank": 10,
