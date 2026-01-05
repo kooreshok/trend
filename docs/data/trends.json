@@ -1,69 +1,62 @@
 {
-  "last_updated": "January 05, 2026, 22:17 UTC",
+  "last_updated": "January 05, 2026, 23:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.jalopnik.com/img/gallery/11-famous-celebrities-and-their-forgotten-first-cars/l-intro-1767048719.jpg",
+        "title": "10 Famous Celebrities And Their Forgotten First Cars - Jalopnik",
+        "description": "From David Beckham's Ford Escort Mk5 to Taylor Swift's pink Chevy Silverado, these are a few famous examples of celebrities' first cars.",
+        "source_link": "https://www.jalopnik.com/2064485/famous-celebrities-forgotten-first-cars/"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/clicks-communicator-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "There\u2019s finally another new Android phone with Qi2 coming, but will there be more in 2026? - 9to5Google",
+        "description": "Proper Qi2 support on Android has been rather elusive thus far, with only Google\u2019s Pixel 10 series bringing the feature...",
+        "source_link": "http://9to5google.com/2026/01/04/qi2-android-phones-in-2026/"
+      },
+      {
+        "rank": 3,
+        "image": "https://gizmodo.com/app/uploads/2026/01/Govee-Ceiling-Light-Ultra-1200x675.jpg",
+        "title": "Govee\u2019s New Smart Ceiling Light Gives You AI Art to Look Up To - Gizmodo",
+        "description": "The Govee Ceiling Light Ultra sounds like a needlessly extravagant smart home light, but that's pretty on-brand for Govee.",
+        "source_link": "https://gizmodo.com/govees-new-smart-ceiling-light-gives-you-ai-art-to-look-up-to-2000704713"
+      },
+      {
+        "rank": 4,
+        "image": "https://gizmodo.com/app/uploads/2026/01/samsung-galaxy-z-trifold-hands-on-22-1200x675.jpg",
+        "title": "Samsung Galaxy Z Trifold Hands-On: Way Better Than I Expected - Gizmodo",
+        "description": "At CES 2026, I finally got some time with Samsung's Z Trifold foldable phone, and I'm very impressed.",
+        "source_link": "https://gizmodo.com/samsung-galaxy-z-trifold-hands-on-way-better-than-i-expected-2000705200"
+      },
+      {
+        "rank": 5,
+        "image": "https://hackaday.com/wp-content/uploads/2026/01/qingping_air_quality_monitor_2.jpg",
+        "title": "Modifying A QingPing Air Quality Monitor For Local MQTT Access - Hackaday",
+        "description": "The QingPing Air Quality Monitor 2 is an Android-based device that not only features a touch screen with the current air quality statistics of the room, but also includes an MQTT interface that nor\u2026",
+        "source_link": "https://hackaday.com/2026/01/04/modifying-a-qingping-air-quality-monitor-for-local-mqtt-access/"
+      },
+      {
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25068620/Aliro_only.jpg?quality=90&strip=all&crop=0%2C3.2998228670283%2C100%2C93.400354265943&w=1200",
+        "title": "Aliro arrives \u2013 the smart lock standard is set to launch this year - The Verge",
+        "description": "The Apple, Google, and Samsung-backed protocol will bring Apple Home Key\u2013style digital keys to Android phones",
+        "source_link": "https://www.theverge.com/news/854091/aliro-smart-lock-standard-launches-2026-apple-uwb-nfc"
+      },
+      {
+        "rank": 7,
         "image": "https://assetsio.gnwcdn.com/arc-raiders-review-header-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Yes, aggression-matchmaking is now a thing in Arc Raiders - Eurogamer",
         "description": "If you've found you've been coming up against tougher players in Arc Raiders just recently, that could well be because \u2026",
         "source_link": "https://www.eurogamer.net/yes-aggression-matchmaking-is-now-a-thing-in-arc-raiders"
       },
       {
-        "rank": 2,
+        "rank": 8,
         "image": "https://assets.warhammer-community.com/sundaypreview-jan04-1-feature-0a3wqqpe1c.jpg",
         "title": "Sunday Preview \u2013 Captain Titus prepares to unify the 500 Worlds - Warhammer Community",
         "description": "Everything available for pre-order next week.",
         "source_link": "https://www.warhammer-community.com/articles/ubw3jaeg/sunday-preview-captain-titus-prepares-to-unify-the-500-worlds"
-      },
-      {
-        "rank": 3,
-        "image": "https://assetsio.gnwcdn.com/RE4_Ashley_01.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Resident Evil 4 Remake cut an entire opening chapter that starred Ashley - Eurogamer",
-        "description": "Capcom cut an entire chapter in which you played as Ashley in the opening of Resident Evil 4 Remake.",
-        "source_link": "https://www.eurogamer.net/resident-evil-4-remake-cut-an-entire-opening-chapter-that-starred-ashley"
-      },
-      {
-        "rank": 4,
-        "image": "https://www.bgr.com/img/gallery/5-of-the-most-overlooked-free-apps-actually-worth-installing/l-intro-1766985775.jpg",
-        "title": "5 Of The Most Overlooked Free Apps Actually Worth Installing - bgr.com",
-        "description": "Yuka, Transit, MyNoise, Listonic, and Merlin Bird ID are five of the most overlooked free apps that are actually worth installing on Android or iOS.",
-        "source_link": "https://www.bgr.com/2065082/overlooked-free-apps-smartphone-android-ios/"
-      },
-      {
-        "rank": 5,
-        "image": "https://assets-prd.ignimgs.com/2025/12/17/what-to-expect-nintendo-2026-1765969606242.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "What To Expect From Nintendo in 2026 - IGN",
-        "description": "With a new Mario movie and Pokemon's 30th anniversary on the way, 2026 will be a big year for Nintendo fans - here's what to expect across the next 12 months.",
-        "source_link": "https://www.ign.com/articles/what-to-expect-from-nintendo-in-2026"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/belkin_hdmi_air1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-        "title": "Belkin\u2019s new HDMI adapter wirelessly connects to screens over 130 feet away - The Verge",
-        "description": "Connect your laptop, tablet, or smartphone to TVs and projectors without a wire or Wi-Fi network.",
-        "source_link": "https://www.theverge.com/tech/849948/belkin-connectair-wireless-hdmi-display-adapter-usb-c-plug-and-play"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/weatherstation.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "SwitchBot\u2019s new E Ink display seems great for weather nerds - The Verge",
-        "description": "The Weather Station is coming in 2026 and features a 7.5-inch E Ink screen that can show you everything you need to know about the weather, plus some.",
-        "source_link": "https://www.theverge.com/news/853042/switchbot-weather-station-e-ink-screen"
-      },
-      {
-        "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/SwitchBot-OBBOTO-1.png?quality=90&strip=all&crop=0%2C10.726847863172%2C100%2C78.546304273655&w=1200",
-        "title": "SwitchBot\u2019s AI-powered desk light looks like a pixel-art snow globe - The Verge",
-        "description": "The Obboto uses more than 2,900 RGB LEDs to display images, GIFs, and animations.",
-        "source_link": "https://www.theverge.com/tech/853234/switchbot-obboto-ai-globe-desk-light-ces-2026"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/SwitchBot-AI-MindClip-lifestyle-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "SwitchBot\u2019s AI audio recorder is a \u2018second brain\u2019 for memories - The Verge",
-        "description": "The AI MindClip records and summarizes your conversations to help you remember important details.",
-        "source_link": "https://www.theverge.com/tech/853109/switchbot-ai-mindclip-audio-recorder-ces-announcement"
       }
     ],
     "trending_movies": [
@@ -76,17 +69,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",
-        "title": "The Tank",
-        "description": "A German Tiger tank crew is sent on a dangerous mission to rescue the missing officer Paul von Hardenburg from a top-secret bunker behind enemy lines....",
-        "source_link": "https://www.themoviedb.org/movie/1252037"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",
+        "title": "The Tank",
+        "description": "A German Tiger tank crew is sent on a dangerous mission to rescue the missing officer Paul von Hardenburg from a top-secret bunker behind enemy lines....",
+        "source_link": "https://www.themoviedb.org/movie/1252037"
       },
       {
         "rank": 4,
