@@ -1,5 +1,5 @@
 {
-  "last_updated": "January 05, 2026, 11:16 UTC",
+  "last_updated": "January 05, 2026, 12:38 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,17 +76,17 @@
     "trending_movies": [
       {
         "rank": 1,
+        "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",
         "title": "The Tank",
         "description": "A German Tiger tank crew is sent on a dangerous mission to rescue the missing officer Paul von Hardenburg from a top-secret bunker behind enemy lines....",
         "source_link": "https://www.themoviedb.org/movie/1252037"
-      },
-      {
-        "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
         "rank": 3,
@@ -104,24 +104,24 @@
       },
       {
         "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+        "title": "Predator: Badlands",
+        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
+        "source_link": "https://www.themoviedb.org/movie/1242898"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
-        "title": "Wake Up Dead Man: A Knives Out Mystery",
-        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
-        "source_link": "https://www.themoviedb.org/movie/812583"
       },
       {
         "rank": 8,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
-        "title": "Predator: Badlands",
-        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
-        "source_link": "https://www.themoviedb.org/movie/1242898"
+        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
+        "title": "Wake Up Dead Man: A Knives Out Mystery",
+        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
+        "source_link": "https://www.themoviedb.org/movie/812583"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
+        "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
+        "source_link": "https://www.themoviedb.org/movie/1311031"
       }
     ]
   }
