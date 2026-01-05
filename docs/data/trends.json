@@ -1,5 +1,5 @@
 {
-  "last_updated": "January 05, 2026, 10:20 UTC",
+  "last_updated": "January 05, 2026, 11:16 UTC",
   "categories": {
     "tech_news": [
       {
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+        "title": "Predator: Badlands",
+        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
+        "source_link": "https://www.themoviedb.org/movie/1242898"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
         "title": "One Battle After Another",
         "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
         "source_link": "https://www.themoviedb.org/movie/1054867"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
-        "title": "Anaconda",
-        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
-        "source_link": "https://www.themoviedb.org/movie/1234731"
       }
     ]
   }
