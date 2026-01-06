@@ -1,48 +1,55 @@
 {
-  "last_updated": "January 06, 2026, 10:19 UTC",
+  "last_updated": "January 06, 2026, 11:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.cnet.com/a/img/resize/7d0cd989813038e6714dd56ba0854ba975f4b5a0/hub/2025/11/05/56993639-b34c-4e78-b4bd-1066e5745983/tv.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "CES 2026 Showcases the Future of TVs. Learn Which Display Tech Will Make the Biggest Splash - CNET",
+        "description": "From unprecedented levels of brightness to micro-LED backlights, here are the features we'll be looking for at this year's CES expo.",
+        "source_link": "https://www.cnet.com/tech/home-entertainment/forget-invisible-tvs-heres-the-display-tech-that-will-matter-at-ces-2026/"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.videocardz.com/1/2026/01/MSI-STEALTH-16-AI-PLUS-PANTHER-LAKE-RTX-50.jpg",
+        "title": "MSI Stealth 16 AI+ features Core Ultra 300 CPU and RTX 50 GPU - VideoCardz.com",
+        "description": "MSI announces Stealth 16 AI+ with Intel Panther Lake and NVIDIA RTX 50 graphics MSI is rolling out the Stealth 16 AI+, a 16-inch notebook built around a",
+        "source_link": "https://videocardz.com/newz/msi-stealth-16-ai-features-core-ultra-300-cpu-and-rtx-50-gpu"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/01/matt-firor-zenimax-online-HD-scaled.jpeg",
+        "title": "\u2018Project Blackbird Was the Game I Had Waited My Entire Career to Create, and Having it Canceled Led to my Resignation\u2019, Confirms Ex ZOS Founder - Wccftech",
+        "description": "Former ZeniMax Online Studios founder Matt Firor confirmed that the cancellation of Project Blackbird directly caused his resignation.",
+        "source_link": "https://wccftech.com/project-blackbird-was-the-game-i-had-waited-my-entire-career-to-create-says-ex-zos-founder/"
+      },
+      {
+        "rank": 4,
         "image": "https://cdn.videocardz.com/1/2026/01/ROG-XREAL-GLASSES.jpg",
         "title": "ASUS unveils ROG XREAL R1 AR gaming glasses offering 171-inch virtual screen for handhelds, PCs and consoles - VideoCardz.com",
         "description": "ASUS shows ROG XREAL R1 AR gaming glasses with 240Hz micro-OLED and a 171-inch virtual screen ASUS is bringing XREAL-branded AR gaming glasses to CES with",
         "source_link": "https://videocardz.com/newz/asus-unveils-rog-xreal-r1-ar-gaming-glasses-offering-171-inch-virtual-screen-for-handhelds-pcs-and-consoles"
       },
       {
-        "rank": 2,
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F905feb5a-8cdd-442d-9658-ffe0ac22141b.jpg?source=next-barrier-page",
-        "title": "AI start-ups take on Google in fight to reshape web browser market - Financial Times",
-        "description": "OpenAI and Perplexity are betting cutting-edge technology will transform the way people access the internet",
-        "source_link": "https://www.ft.com/content/5d566029-6aee-4627-a665-81108a1eb70e"
-      },
-      {
-        "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02025_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "title": "I just want to keep unfolding the Samsung Z Trifold - The Verge",
-        "description": "The Galaxy Z Trifold really is a tablet with a phone attached. With a desktop mode included, it just might be the single gadget you can leave the house with.",
-        "source_link": "https://www.theverge.com/tech/854352/samsung-galaxy-z-trifold-hands-on"
-      },
-      {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lg-oled-evo-w6-lifestyle.jpg?quality=90&strip=all&crop=0%2C10.634570719994%2C100%2C78.730858560013&w=1200",
-        "title": "LG\u2019s Wallpaper OLED TV returns to CES, and it\u2019s wafer thin - The Verge",
-        "description": "The W6 Wallpaper TV from LG will have a Zero Connect Box and use LG\u2019s new Hyper Radiant Color Technology and Brightness Booster Ultra.",
-        "source_link": "https://www.theverge.com/tech/853886/lgs-wallpaper-oled-tv-returns-to-ces-and-its-wafer-thin"
-      },
-      {
         "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Image-of-Bespoke-AI-Refrigerator-Family-Hub.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "Voice control comes to Samsung\u2019s smart fridges - The Verge",
-        "description": "Voice control opening and closing comes to Samsung\u2019s Family Hub smart fridges.",
-        "source_link": "https://www.theverge.com/tech/853758/shut-the-fridge-door"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/frontier-x-aura-vex-1.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+        "title": "This robot companion is a cameraman for your pet - The Verge",
+        "description": "\ufeffThe Vex plays with your pet and films it too, even editing the video itself.",
+        "source_link": "https://www.theverge.com/tech/854457/frontierx-vex-aura-robots-companions-pets"
       },
       {
         "rank": 6,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/01/Intel-CES-2026.png",
-        "title": "Watch The Intel CES 2026 Launch Event Live Here: Panther Lake Official, Refreshed CPUs & New AI Updates Expected - Wccftech",
-        "description": "Intel will officially launch its next-generation Panther Lake Core Ultra Series 3 CPUs, along with several other products, at CES 2026.",
-        "source_link": "https://wccftech.com/watch-intel-ces-2026-launch-event-live-here-panther-lake-official/"
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2023/11/NVIDIA-GeForce-RTX-3060-GPU-728x462.png",
+        "title": "NVIDIA To Bring Back The GeForce RTX 3060 In Q1 2026 To Tackle Current-Gen GPU & Memory Shortages - Wccftech",
+        "description": "NVIDIA is reportedly going to recommence production of its GeForce RTX 3060 GPUs owing to DRAM supply shortages.",
+        "source_link": "https://wccftech.com/nvidia-to-bring-back-geforce-rtx-3060-q1-2026-tackle-memory-shortages/"
+      },
+      {
+        "rank": 7,
+        "image": "https://hackaday.com/wp-content/uploads/2025/12/Reboot_saved_feat.png",
+        "title": "Reviving ReBoot With A Tape Deck Repair - Hackaday",
+        "description": "Do you remember ReBoot? If you were into early CGI, the name probably rings a bell, since when it premiered in 1994 it was the first fully computer-animated show on TV. Some time ago, a group found\u2026",
+        "source_link": "https://hackaday.com/2026/01/04/reviving-reboot-with-a-tape-deck-repair/"
       }
     ],
     "trending_movies": [
@@ -83,24 +90,24 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
         "title": "Five Nights at Freddy's 2",
         "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
         "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "title": "Wicked: For Good",
         "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
         "source_link": "https://www.themoviedb.org/movie/967941"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "title": "The Housemaid",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
         "rank": 9,
