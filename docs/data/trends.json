@@ -1,48 +1,48 @@
 {
-  "last_updated": "January 06, 2026, 08:25 UTC",
+  "last_updated": "January 06, 2026, 09:22 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.videocardz.com/1/2026/01/ROG-XREAL-GLASSES.jpg",
+        "title": "ASUS unveils ROG XREAL R1 AR gaming glasses offering 171-inch virtual screen for handhelds, PCs and consoles - VideoCardz.com",
+        "description": "ASUS shows ROG XREAL R1 AR gaming glasses with 240Hz micro-OLED and a 171-inch virtual screen ASUS is bringing XREAL-branded AR gaming glasses to CES with",
+        "source_link": "https://videocardz.com/newz/asus-unveils-rog-xreal-r1-ar-gaming-glasses-offering-171-inch-virtual-screen-for-handhelds-pcs-and-consoles"
+      },
+      {
+        "rank": 2,
         "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F905feb5a-8cdd-442d-9658-ffe0ac22141b.jpg?source=next-barrier-page",
         "title": "AI start-ups take on Google in fight to reshape web browser market - Financial Times",
         "description": "OpenAI and Perplexity are betting cutting-edge technology will transform the way people access the internet",
         "source_link": "https://www.ft.com/content/5d566029-6aee-4627-a665-81108a1eb70e"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02025_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
         "title": "I just want to keep unfolding the Samsung Z Trifold - The Verge",
         "description": "The Galaxy Z Trifold really is a tablet with a phone attached. With a desktop mode included, it just might be the single gadget you can leave the house with.",
         "source_link": "https://www.theverge.com/tech/854352/samsung-galaxy-z-trifold-hands-on"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/lg-oled-evo-w6-lifestyle.jpg?quality=90&strip=all&crop=0%2C10.634570719994%2C100%2C78.730858560013&w=1200",
+        "title": "LG\u2019s Wallpaper OLED TV returns to CES, and it\u2019s wafer thin - The Verge",
+        "description": "The W6 Wallpaper TV from LG will have a Zero Connect Box and use LG\u2019s new Hyper Radiant Color Technology and Brightness Booster Ultra.",
+        "source_link": "https://www.theverge.com/tech/853886/lgs-wallpaper-oled-tv-returns-to-ces-and-its-wafer-thin"
+      },
+      {
+        "rank": 5,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Image-of-Bespoke-AI-Refrigerator-Family-Hub.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
         "title": "Voice control comes to Samsung\u2019s smart fridges - The Verge",
         "description": "Voice control opening and closing comes to Samsung\u2019s Family Hub smart fridges.",
         "source_link": "https://www.theverge.com/tech/853758/shut-the-fridge-door"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://cdn.wccftech.com/wp-content/uploads/2026/01/Intel-CES-2026.png",
         "title": "Watch The Intel CES 2026 Launch Event Live Here: Panther Lake Official, Refreshed CPUs & New AI Updates Expected - Wccftech",
         "description": "Intel will officially launch its next-generation Panther Lake Core Ultra Series 3 CPUs, along with several other products, at CES 2026.",
         "source_link": "https://wccftech.com/watch-intel-ces-2026-launch-event-live-here-panther-lake-official/"
-      },
-      {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Bolt-Sense-1.png?quality=90&strip=all&crop=0,7.5045298469362,100,84.990940306128",
-        "title": "The new Ultraloq smart lock uses both your face and your palm to let you in - The Verge",
-        "description": "Ultraloq is launching a smart lock that reads your palm and a new camera that works on HaLow Wi-Fi for extended range at CES",
-        "source_link": "https://www.theverge.com/tech/853844/ultraloq-ces-smart-lock-face-palm-reading"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/ikea_sjoss_charger1.jpg?quality=90&strip=all&crop=0,10.693795654764,100,78.612408690472",
-        "title": "Ikea\u2019s new $4 USB-C charger is cheaper than Apple\u2019s and Anker\u2019s - The Verge",
-        "description": "\ufeffYou\u2019ll feel a little less guilty about forgetting or losing Ikea\u2019s new 20W Sj\u00f6ss charger.",
-        "source_link": "https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger"
       }
     ],
     "trending_movies": [
@@ -76,17 +76,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "title": "The Housemaid",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
         "rank": 7,
@@ -106,15 +106,15 @@
         "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
         "title": "Marty Supreme",
-        "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
+        "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
-        "title": "Now You See Me: Now You Don't",
-        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
-        "source_link": "https://www.themoviedb.org/movie/425274"
+        "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
       }
     ]
   }
