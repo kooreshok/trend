@@ -1,69 +1,62 @@
 {
-  "last_updated": "January 06, 2026, 20:19 UTC",
+  "last_updated": "January 06, 2026, 21:17 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/CES2026_Nurolagix_mirror_ADiBenedetto_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "This smart mirror was a menace at CES 2026 - The Verge",
+        "description": "The $899 Nuralogix Longevity Mirror takes a 30-second selfie and analyzes blood flow in your face to estimate how well you\u2019re aging.",
+        "source_link": "https://www.theverge.com/tech/855540/nuralogix-longevity-mirror-health-tech-ces-2026"
+      },
+      {
+        "rank": 2,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/sandisk-optimus-product-family-pr-1152x648-1767638879.jpeg",
         "title": "SanDisk says goodbye to WD Blue and Black SSDs, hello to new \u201cOptimus\u201d drives - Ars Technica",
         "description": "Optimus SSDs will continue with the same model numbers that the WD SSDs used.",
         "source_link": "https://arstechnica.com/gadgets/2026/01/sandisk-says-goodbye-to-wd-blue-and-black-ssds-hello-to-new-optimus-drives/"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://media.cnn.com/api/v1/images/stellar/prod/img-8639.jpg?c=16x9&q=w_800,c_fill",
         "title": "Samsung\u2019s new phone looks straight out of science fiction. I got to try it - CNN",
         "description": "With its new Galaxy Z TriFold, Samsung is betting it can wow consumers with an iPad-sized screen that folds up like a brochure to fit neatly in your pocket.",
         "source_link": "https://www.cnn.com/2026/01/05/tech/samsung-galaxy-z-trifold-phone"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/youtube-music-logo-circle-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "YouTube Music lyrics sharing adding AI-generated backgrounds - 9to5Google",
+        "description": "YouTube Music introduced the ability to share lyrics last year and is now upgrading the background options with generative AI.",
+        "source_link": "http://9to5google.com/2026/01/05/youtube-music-lyrics-ai-share/"
+      },
+      {
+        "rank": 5,
+        "image": "https://media.wired.com/photos/695bc74f1e9a19f18d143eeb/191:100/w_1280,c_limit/SMARTBrick_Hero_16x9.jpg",
+        "title": "Lego\u2019s Smart Brick Gives the Iconic Analog Toy a New Digital Brain - WIRED",
+        "description": "The new sensor-packed Smart Play Brick will land this spring as part of a special Star Wars collection. The update adds interactive lights and sound to the Lego experience\u2014including the Minifigs.",
+        "source_link": "https://www.wired.com/story/lego-smart-brick-new-digital-brain/"
+      },
+      {
+        "rank": 6,
         "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/01/Single.Device-LGTV-16x9-Headline-fbcaf0871c7f34b979a1.jpg",
         "title": "Xbox to Bring Cloud Gaming to Select Hisense and V homeOS-powered Smart TVs - Xbox Wire",
         "description": null,
         "source_link": "https://news.xbox.com/en-us/2026/01/05/xbox-bring-cloud-gaming-select-hisense-homeos-powered-smart-tvs/"
       },
       {
-        "rank": 4,
-        "image": "https://hodinkee.imgix.net/uploads/images/d9c50f6b-b7a6-403c-88be-b5ccc7f7c08e/Blaise35097.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
-        "title": "Introducing: Albishorn Lightens Things Up With The Type 10 \"Officer\" - Hodinkee",
-        "description": "The same great framework with a new beige twist results in a really attractive watch.",
-        "source_link": "https://www.hodinkee.com/articles/albishorn-lightens-things-up-with-the-type-10-officer"
-      },
-      {
-        "rank": 5,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/We_previewed_new_Gemini_for_Google_TV-1152x648.png",
-        "title": "Gemini expands on Google TV, bringing Nano Banana and Veo models to your TV - Ars Technica",
-        "description": "Google TV will let you generate and watch AI content on the big screen.",
-        "source_link": "https://arstechnica.com/google/2026/01/gemini-expands-on-google-tv-bringing-nano-banana-and-veo-models-to-your-tv/"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
-        "title": "Qualcomm\u2019s next-gen Snapdragon X2 laptops are here \u2014 and they brought a new friend - The Verge",
-        "description": "Qualcomm has announced the Snapdragon X2 Plus, and says both it and the Snapdragon X2 Elite should be in PCs by end of Q1 2026.",
-        "source_link": "https://www.theverge.com/tech/853851/qualcomm-snapdragon-x2-plus-elite-laptops-price-ces-2026"
-      },
-      {
         "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258181_HP_OmniBook_Ultra_14_laptop_CES_2026_ADiBenedetto_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "HP\u2019s latest OmniBooks are getting chip bumps and OLED screens - The Verge",
-        "description": "HP has announced a revamped lineup of OmniBook productivity laptops at CES, including its latest AI-focused flagship Ultra model.",
-        "source_link": "https://www.theverge.com/tech/854240/hp-omnibook-ultra-14-3-5-7-x-laptop-updates-ces-2026"
+        "image": "https://www.trueachievements.com/imgs/168827/hifi-rush-physical-xbox.jpg",
+        "title": "Hi-Fi Rush is finally getting a physical Xbox release - TrueAchievements",
+        "description": "It's good news for all the physical game collectors out there: Hi-Fi Rush is finally getting a physical release for Xbox Series X, which you can pre-order soon.",
+        "source_link": "https://www.trueachievements.com/news/hi-fi-rush-physical-xbox"
       },
       {
         "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/eufy-smarttrack-e40-find-hub.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Anker\u2019s Eufy finally launches its first Android Find Hub tracker for $35 - 9to5Google",
-        "description": "It\u2019s been a couple of years since Eufy, one of the brands under Anker\u2019s umbrella, first announced it would be...",
-        "source_link": "http://9to5google.com/2026/01/05/ankers-eufy-finally-launches-its-first-android-find-hub-tracker-for-35/"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-messages-logo-circle-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google Messages tweaks the camera to show more of your gallery - 9to5Google",
-        "description": "Google Messages is more widely rolling out some tweaks to the combined camera and gallery interface on Android.",
-        "source_link": "http://9to5google.com/2026/01/05/google-messages-camera-tweaks/"
+        "image": "https://www.apple.com/newsroom/images/2026/01/spectrum-front-row-tips-off-january-9-on-apple-vision-pro/tile/Apple-Immersive-Video-Spectrum-SportsNet-app-lp.jpg.og.jpg?202601052013",
+        "title": "Spectrum Front Row tips off January 9 on Apple Vision Pro - Apple",
+        "description": "Apple and Spectrum unveiled the schedule for The Lakers in Apple Immersive, a series of live basketball games in a revolutionary storytelling format available only on Apple Vision Pro.",
+        "source_link": "https://www.apple.com/newsroom/2026/01/spectrum-front-row-tips-off-january-9-on-apple-vision-pro/"
       }
     ],
     "trending_movies": [
@@ -90,17 +83,17 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",
-        "title": "The Tank",
-        "description": "A German Tiger tank crew is sent on a dangerous mission to rescue the missing officer Paul von Hardenburg from a top-secret bunker behind enemy lines....",
-        "source_link": "https://www.themoviedb.org/movie/1252037"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
         "title": "Five Nights at Freddy's 2",
         "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
         "source_link": "https://www.themoviedb.org/movie/1228246"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",
+        "title": "The Tank",
+        "description": "A German Tiger tank crew is sent on a dangerous mission to rescue the missing officer Paul von Hardenburg from a top-secret bunker behind enemy lines....",
+        "source_link": "https://www.themoviedb.org/movie/1252037"
       },
       {
         "rank": 6,
@@ -132,10 +125,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/w5WJMJ6DWPFK0Gx0Ongh0FZBAlK.jpg",
-        "title": "Not Without Hope",
-        "description": "A group of friends' fishing boat capsizes off the coast of Mexico and they're left alone stranded at sea and struggling for survival....",
-        "source_link": "https://www.themoviedb.org/movie/339849"
+        "image": "https://image.tmdb.org/t/p/w200/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+        "title": "Greenland 2: Migration",
+        "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a...",
+        "source_link": "https://www.themoviedb.org/movie/840464"
       }
     ]
   }
