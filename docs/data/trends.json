@@ -1,76 +1,69 @@
 {
-  "last_updated": "January 06, 2026, 16:23 UTC",
+  "last_updated": "January 06, 2026, 17:20 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
+        "title": "Qualcomm\u2019s next-gen Snapdragon X2 laptops are here \u2014 and they brought a new friend - The Verge",
+        "description": "Qualcomm has announced the Snapdragon X2 Plus, and says both it and the Snapdragon X2 Elite should be in PCs by end of Q1 2026.",
+        "source_link": "https://www.theverge.com/tech/853851/qualcomm-snapdragon-x2-plus-elite-laptops-price-ces-2026"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258181_HP_OmniBook_Ultra_14_laptop_CES_2026_ADiBenedetto_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "HP\u2019s latest OmniBooks are getting chip bumps and OLED screens - The Verge",
+        "description": "HP has announced a revamped lineup of OmniBook productivity laptops at CES, including its latest AI-focused flagship Ultra model.",
+        "source_link": "https://www.theverge.com/tech/854240/hp-omnibook-ultra-14-3-5-7-x-laptop-updates-ces-2026"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/eufy-smarttrack-e40-find-hub.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Anker\u2019s Eufy finally launches its first Android Find Hub tracker for $35 - 9to5Google",
+        "description": "It\u2019s been a couple of years since Eufy, one of the brands under Anker\u2019s umbrella, first announced it would be...",
+        "source_link": "http://9to5google.com/2026/01/05/ankers-eufy-finally-launches-its-first-android-find-hub-tracker-for-35/"
+      },
+      {
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-messages-logo-circle-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google Messages tweaks the camera to show more of your gallery - 9to5Google",
+        "description": "Google Messages is more widely rolling out some tweaks to the combined camera and gallery interface on Android.",
+        "source_link": "http://9to5google.com/2026/01/05/google-messages-camera-tweaks/"
+      },
+      {
+        "rank": 5,
+        "image": "https://gizmodo.com/app/uploads/2026/01/Anker-Solix-E10-1200x675.jpg",
+        "title": "Anker Teases a New Whole Home Hybrid Battery Backup System - Gizmodo",
+        "description": "The company says it\u2019s the first of its kind, but remains mum on the specifics.",
+        "source_link": "https://gizmodo.com/anker-teases-a-new-whole-home-hybrid-battery-backup-system-2000705254"
+      },
+      {
+        "rank": 6,
         "image": "https://ep1.pinkbike.org/p4pb29112175/p4pb29112175.jpg",
         "title": "Review: EXT Arma V4 - One of the Best Shocks Gets Even Better - Pinkbike",
         "description": "No more topping out, and no special tools needed for trailside adjustments.",
         "source_link": "https://www.pinkbike.com/news/review-ext-arma-v4-one-of-the-best-mtb-shocks-gets-even-better.html"
       },
       {
-        "rank": 2,
-        "image": "https://assetsio.gnwcdn.com/final-fantasy-9-remaster-now-on-switch-and-xbox-one-1550145783781.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Beloved Final Fantasy artist Toshiyuki Itahana leaves Square Enix - Eurogamer",
-        "description": "Toshiyuki Itahana has decided to go freelance following the 25th anniversary of Final Fantasy.",
-        "source_link": "https://www.eurogamer.net/beloved-final-fantasy-artist-toshiyuki-itahana-leaves-square-enix"
-      },
-      {
-        "rank": 3,
-        "image": "https://www.404media.co/content/images/size/w1200/2026/01/surveillance.png",
-        "title": "The State of Anti-Surveillance Design - 404 Media",
-        "description": "The most effective surveillance-evading gear might already be in your closet.",
-        "source_link": "https://www.404media.co/the-state-of-anti-surveillance-design/"
-      },
-      {
-        "rank": 4,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/01/New-Fire-TV-UI-on-Amazon-Fire-TV-Omni-QLED-Series.jpg?resize=1200,675",
-        "title": "Amazon revamps Fire TV, launches its own \u2018Artline\u2019 televisions with frames at CES - TechCrunch",
-        "description": "Fire TV's new interface focuses on your content and offers easier, speedier navigation, Amazon says.",
-        "source_link": "https://techcrunch.com/2026/01/05/amazon-revamps-fire-tv-launches-its-own-artline-televisions-with-frames/"
-      },
-      {
-        "rank": 5,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/01/Alexa.com_.png?resize=1200,675",
-        "title": "Amazon\u2019s AI assistant comes to the web with Alexa.com - TechCrunch",
-        "description": "Amazon is bringing Alexa+ to the web with a new Alexa.com site, expanding its AI assistant beyond devices and positioning it as a family-focused, agent-style chatbot.",
-        "source_link": "https://techcrunch.com/2026/01/05/alexa-without-an-echo-amazons-ai-chatbot-comes-to-the-web-and-a-revamped-alexa-app/"
-      },
-      {
-        "rank": 6,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/04/Apple-was-wrong-on-AR.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Six new Apple products will launch early this year, here\u2019s what\u2019s coming - 9to5Mac",
-        "description": "Here are six new Apple products that are currently rumored to be launching early this year, some of which could debut as soon as January.",
-        "source_link": "https://9to5mac.com/2026/01/05/six-apple-products-will-launch-early-this-year-heres-whats-coming/"
-      },
-      {
         "rank": 7,
-        "image": "https://assets.warhammer-community.com/storeanniversaryminis2026-jan05-1-feature-vqktyzk1kx.jpg",
-        "title": "Celebrate store anniversaries in 2026 with an Aeldari Autarch and a Vampire Lord - Warhammer Community",
-        "description": "Here are this year\u2019s anniversary miniatures.",
-        "source_link": "https://www.warhammer-community.com/articles/eekdls2v/celebrate-store-anniversaries-in-2026-with-an-aeldari-autarch-and-a-vampire-lord"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/anker_soundcore1.jpg?quality=90&strip=all&crop=0%2C10.864929910488%2C100%2C78.270140179024&w=1200",
+        "title": "Anker\u2019s AeroFit 2 Pro can be worn as open-ear headphones or ANC earbuds - The Verge",
+        "description": "Anker\u2019s new AeroFit 2 Pro headphones can switch between open-ear and ANC modes and are joined by upgraded sleep buds and a palm-size LED Bluetooth speaker.",
+        "source_link": "https://www.theverge.com/tech/852887/anker-soundcore-aerofit-2-pro-sleep-a30-special-boom-go-3i-bluetooth-headphones-earbuds-speaker"
       },
       {
         "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-fitness-plus-iphone-watch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "You can get Apple Fitness+ for free, here\u2019s how - 9to5Mac",
-        "description": "Apple Fitness+ just launched new programs designed to help build exercise habits, and there are several ways to access Fitness+ entirely free.",
-        "source_link": "https://9to5mac.com/2026/01/05/you-can-get-apple-fitness-plus-for-free-heres-how/"
+        "image": "https://images.nintendolife.com/1834a265d2281/large.jpg",
+        "title": "Final Fantasy IX's Character Designer Has Left Square Enix - Nintendo Life",
+        "description": "\"I felt this was the right moment\"",
+        "source_link": "https://www.nintendolife.com/news/2026/01/final-fantasy-ixs-character-designer-has-left-square-enix"
       },
       {
         "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/TS_Valet_Den_LS8_WebRes.jpg?quality=90&strip=all&crop=0%2C10.761012141664%2C100%2C78.477975716672&w=1200",
-        "title": "Twelve South\u2019s Valet is a handsome place to put your stuff - The Verge",
-        "description": "The $179.99 gadget can charge one device wirelessly and another via a cable and is meant to sit on your nightstand or entry table.",
-        "source_link": "https://www.theverge.com/tech/854124/twelve-south-valet-ces-2026"
-      },
-      {
-        "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK148_Microsoft_Edge_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Microsoft Edge is getting a Copilot-inspired redesign - The Verge",
-        "description": "Microsoft is working on a UI refresh for its Edge browser. The major overhaul will see Edge get the same colors and fonts as Copilot.",
-        "source_link": "https://www.theverge.com/news/854832/microsoft-edge-copilot-redesign-ui-features"
+        "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2023/09/15/61764880/gilive_liesofp_webhero.jpg.webp",
+        "title": "CEO Of Lies Of P Publisher, Neowiz, Talks 2025, Overture Expansion, Release Strategy, Gen AI, And More - Game Informer",
+        "description": "With 2025 behind us all, we spoke with Neowiz co-CEO to discuss the publisher's year.",
+        "source_link": "https://gameinformer.com/exclusive-interview/2026/01/05/ceo-of-lies-of-p-publisher-neowiz-talks-2025-overture-expansion"
       }
     ],
     "trending_movies": [
@@ -83,17 +76,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
         "rank": 4,
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
+        "image": "https://image.tmdb.org/t/p/w200/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
       }
     ]
   }
