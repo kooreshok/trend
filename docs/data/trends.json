@@ -1,75 +1,61 @@
 {
-  "last_updated": "January 06, 2026, 04:36 UTC",
+  "last_updated": "January 06, 2026, 05:21 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02025_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "title": "I just want to keep unfolding the Samsung Z Trifold - The Verge",
+        "description": "The Galaxy Z Trifold really is a tablet with a phone attached. With a desktop mode included, it just might be the single gadget you can leave the house with.",
+        "source_link": "https://www.theverge.com/tech/854352/samsung-galaxy-z-trifold-hands-on"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Image-of-Bespoke-AI-Refrigerator-Family-Hub.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "Voice control comes to Samsung\u2019s smart fridges - The Verge",
+        "description": "Voice control opening and closing comes to Samsung\u2019s Family Hub smart fridges.",
+        "source_link": "https://www.theverge.com/tech/853758/shut-the-fridge-door"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/01/Intel-CES-2026.png",
+        "title": "Watch The Intel CES 2026 Launch Event Live Here: Panther Lake Official, Refreshed CPUs & New AI Updates Expected - Wccftech",
+        "description": "Intel will officially launch its next-generation Panther Lake Core Ultra Series 3 CPUs, along with several other products, at CES 2026.",
+        "source_link": "https://wccftech.com/watch-intel-ces-2026-launch-event-live-here-panther-lake-official/"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Bolt-Sense-1.png?quality=90&strip=all&crop=0,7.5045298469362,100,84.990940306128",
+        "title": "The new Ultraloq smart lock uses both your face and your palm to let you in - The Verge",
+        "description": "Ultraloq is launching a smart lock that reads your palm and a new camera that works on HaLow Wi-Fi for extended range at CES",
+        "source_link": "https://www.theverge.com/tech/853844/ultraloq-ces-smart-lock-face-palm-reading"
+      },
+      {
+        "rank": 5,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/ikea_sjoss_charger1.jpg?quality=90&strip=all&crop=0,10.693795654764,100,78.612408690472",
         "title": "Ikea\u2019s new $4 USB-C charger is cheaper than Apple\u2019s and Anker\u2019s - The Verge",
         "description": "\ufeffYou\u2019ll feel a little less guilty about forgetting or losing Ikea\u2019s new 20W Sj\u00f6ss charger.",
         "source_link": "https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger"
       },
       {
-        "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/bodyscan2.jpg?quality=90&strip=all&crop=0%2C9.756192857701%2C100%2C80.487614284598&w=1200",
-        "title": "Withings thinks of its latest smart scale as a \u2018longevity station\u2019 - The Verge",
-        "description": "At CES 2026, Withings announced its $599.95 Body Scan 2 smart scale. The scale will measure 60 biomarkers, as well as give hypertension risk notifications.",
-        "source_link": "https://www.theverge.com/tech/850005/ces-2026-withings-body-scan-2-smart-scale-longevity-tech-health"
-      },
-      {
-        "rank": 3,
-        "image": "https://gizmodo.com/app/uploads/2026/01/lockingv7max-1200x675.jpg",
-        "title": "Lockin\u2019s New Smart Locks Never Need Recharging Thanks to Infrared Light - Gizmodo",
-        "description": "One of them is a two-way video doorbell with palm-scanning authentication, too.",
-        "source_link": "https://gizmodo.com/lockins-new-smart-locks-never-need-recharging-thanks-to-laser-beams-2000704701"
-      },
-      {
-        "rank": 4,
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/CES2026_image_02.png?quality=90&strip=all&crop=0%2C10.676614761602%2C100%2C78.646770476796&w=1200",
         "title": "The Mui Board will support mmWave sleep tracking and gesture control - The Verge",
         "description": "The Mui Board will support mmWave sleep tracking and gesture control using third-party sensors for its Spatial AI, Calm Sleep Platform",
         "source_link": "https://www.theverge.com/tech/853435/mui-board-mmwave-sleep-tracking-gesture-control"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://www.slashgear.com/img/gallery/5-classic-cars-from-the-1970s-with-sky-high-resale-values/l-intro-1767107543.jpg",
         "title": "5 Classic Cars From The 1970s With Sky High Resale Values - SlashGear",
         "description": "The resale value of cars like the 1970 Chevrolet Chevelle SS 454 and the 1973 Ferrari 365 are all in the range of hundreds of thousands of dollars.",
         "source_link": "https://www.slashgear.com/2063904/high-resale-value-classic-cars-from-1970s/"
-      },
-      {
-        "rank": 6,
-        "image": "https://helios-i.mashable.com/imagery/articles/04zRMWTJajsNwlom7wFhD6J/hero-image.fill.size_1200x675.v1766067445.jpg",
-        "title": "This $49.97 Microsoft Office deal skips the monthly bill entirely - Mashable",
-        "description": "All the Office apps you need, with no recurring fees.",
-        "source_link": "https://mashable.com/article/jan-4-microsoft-office-home-business-for-mac-2021"
-      },
-      {
-        "rank": 7,
-        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2025-12/18/20/thumb/CKymg2rsQV.jpg?crop=1250:654;0,82%26downsize=1250:*",
-        "title": "35 Cute, Happy Products With One Goal: Bringing Joy - BuzzFeed",
-        "description": "Happy dance coming in 3... 2... 1...",
-        "source_link": "https://www.buzzfeed.com/bekoconnell/cute-happy-products-joy"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.jalopnik.com/img/gallery/11-famous-celebrities-and-their-forgotten-first-cars/l-intro-1767048719.jpg",
-        "title": "10 Famous Celebrities And Their Forgotten First Cars - Jalopnik",
-        "description": "From David Beckham's Ford Escort Mk5 to Taylor Swift's pink Chevy Silverado, these are a few famous examples of celebrities' first cars.",
-        "source_link": "https://www.jalopnik.com/2064485/famous-celebrities-forgotten-first-cars/"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/clicks-communicator-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "There\u2019s finally another new Android phone with Qi2 coming, but will there be more in 2026? - 9to5Google",
-        "description": "Proper Qi2 support on Android has been rather elusive thus far, with only Google\u2019s Pixel 10 series bringing the feature...",
-        "source_link": "http://9to5google.com/2026/01/04/qi2-android-phones-in-2026/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/M1GRxNZp0bnzTm2jKJxryUqTeU.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
         "title": "Predator: Badlands",
         "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
         "source_link": "https://www.themoviedb.org/movie/1242898"
@@ -111,17 +97,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
         "title": "Marty Supreme",
         "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 9,
