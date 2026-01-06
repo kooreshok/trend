@@ -1,62 +1,69 @@
 {
-  "last_updated": "January 06, 2026, 01:21 UTC",
+  "last_updated": "January 06, 2026, 03:26 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/ikea_sjoss_charger1.jpg?quality=90&strip=all&crop=0,10.693795654764,100,78.612408690472",
+        "title": "Ikea\u2019s new $4 USB-C charger is cheaper than Apple\u2019s and Anker\u2019s - The Verge",
+        "description": "\ufeffYou\u2019ll feel a little less guilty about forgetting or losing Ikea\u2019s new 20W Sj\u00f6ss charger.",
+        "source_link": "https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/bodyscan2.jpg?quality=90&strip=all&crop=0%2C9.756192857701%2C100%2C80.487614284598&w=1200",
+        "title": "Withings thinks of its latest smart scale as a \u2018longevity station\u2019 - The Verge",
+        "description": "At CES 2026, Withings announced its $599.95 Body Scan 2 smart scale. The scale will measure 60 biomarkers, as well as give hypertension risk notifications.",
+        "source_link": "https://www.theverge.com/tech/850005/ces-2026-withings-body-scan-2-smart-scale-longevity-tech-health"
+      },
+      {
+        "rank": 3,
+        "image": "https://gizmodo.com/app/uploads/2026/01/lockingv7max-1200x675.jpg",
+        "title": "Lockin\u2019s New Smart Locks Never Need Recharging Thanks to Infrared Light - Gizmodo",
+        "description": "One of them is a two-way video doorbell with palm-scanning authentication, too.",
+        "source_link": "https://gizmodo.com/lockins-new-smart-locks-never-need-recharging-thanks-to-laser-beams-2000704701"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/CES2026_image_02.png?quality=90&strip=all&crop=0%2C10.676614761602%2C100%2C78.646770476796&w=1200",
+        "title": "The Mui Board will support mmWave sleep tracking and gesture control - The Verge",
+        "description": "The Mui Board will support mmWave sleep tracking and gesture control using third-party sensors for its Spatial AI, Calm Sleep Platform",
+        "source_link": "https://www.theverge.com/tech/853435/mui-board-mmwave-sleep-tracking-gesture-control"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.slashgear.com/img/gallery/5-classic-cars-from-the-1970s-with-sky-high-resale-values/l-intro-1767107543.jpg",
+        "title": "5 Classic Cars From The 1970s With Sky High Resale Values - SlashGear",
+        "description": "The resale value of cars like the 1970 Chevrolet Chevelle SS 454 and the 1973 Ferrari 365 are all in the range of hundreds of thousands of dollars.",
+        "source_link": "https://www.slashgear.com/2063904/high-resale-value-classic-cars-from-1970s/"
+      },
+      {
+        "rank": 6,
+        "image": "https://helios-i.mashable.com/imagery/articles/04zRMWTJajsNwlom7wFhD6J/hero-image.fill.size_1200x675.v1766067445.jpg",
+        "title": "This $49.97 Microsoft Office deal skips the monthly bill entirely - Mashable",
+        "description": "All the Office apps you need, with no recurring fees.",
+        "source_link": "https://mashable.com/article/jan-4-microsoft-office-home-business-for-mac-2021"
+      },
+      {
+        "rank": 7,
         "image": "https://img.buzzfeed.com/buzzfeed-static/static/2025-12/18/20/thumb/CKymg2rsQV.jpg?crop=1250:654;0,82%26downsize=1250:*",
         "title": "35 Cute, Happy Products With One Goal: Bringing Joy - BuzzFeed",
         "description": "Happy dance coming in 3... 2... 1...",
         "source_link": "https://www.buzzfeed.com/bekoconnell/cute-happy-products-joy"
       },
       {
-        "rank": 2,
+        "rank": 8,
         "image": "https://www.jalopnik.com/img/gallery/11-famous-celebrities-and-their-forgotten-first-cars/l-intro-1767048719.jpg",
         "title": "10 Famous Celebrities And Their Forgotten First Cars - Jalopnik",
         "description": "From David Beckham's Ford Escort Mk5 to Taylor Swift's pink Chevy Silverado, these are a few famous examples of celebrities' first cars.",
         "source_link": "https://www.jalopnik.com/2064485/famous-celebrities-forgotten-first-cars/"
       },
       {
-        "rank": 3,
+        "rank": 9,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/clicks-communicator-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "There\u2019s finally another new Android phone with Qi2 coming, but will there be more in 2026? - 9to5Google",
         "description": "Proper Qi2 support on Android has been rather elusive thus far, with only Google\u2019s Pixel 10 series bringing the feature...",
         "source_link": "http://9to5google.com/2026/01/04/qi2-android-phones-in-2026/"
-      },
-      {
-        "rank": 4,
-        "image": "https://gizmodo.com/app/uploads/2026/01/Govee-Ceiling-Light-Ultra-1200x675.jpg",
-        "title": "Govee\u2019s New Smart Ceiling Light Gives You AI Art to Look Up To - Gizmodo",
-        "description": "The Govee Ceiling Light Ultra sounds like a needlessly extravagant smart home light, but that's pretty on-brand for Govee.",
-        "source_link": "https://gizmodo.com/govees-new-smart-ceiling-light-gives-you-ai-art-to-look-up-to-2000704713"
-      },
-      {
-        "rank": 5,
-        "image": "https://gizmodo.com/app/uploads/2026/01/samsung-galaxy-z-trifold-hands-on-22-1200x675.jpg",
-        "title": "Samsung Galaxy Z Trifold Hands-On: Way Better Than I Expected - Gizmodo",
-        "description": "At CES 2026, I finally got some time with Samsung's Z Trifold foldable phone, and I'm very impressed.",
-        "source_link": "https://gizmodo.com/samsung-galaxy-z-trifold-hands-on-way-better-than-i-expected-2000705200"
-      },
-      {
-        "rank": 6,
-        "image": "https://hackaday.com/wp-content/uploads/2026/01/qingping_air_quality_monitor_2.jpg",
-        "title": "Modifying A QingPing Air Quality Monitor For Local MQTT Access - Hackaday",
-        "description": "The QingPing Air Quality Monitor 2 is an Android-based device that not only features a touch screen with the current air quality statistics of the room, but also includes an MQTT interface that nor\u2026",
-        "source_link": "https://hackaday.com/2026/01/04/modifying-a-qingping-air-quality-monitor-for-local-mqtt-access/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.bgr.com/img/gallery/you-can-switch-hdmi-inputs-using-your-apple-tv-remote-heres-how/l-intro-1767142165.jpg",
-        "title": "You Can Switch HDMI Inputs Using Your Apple TV Remote - Here's How - bgr.com",
-        "description": "Though Apple TV provides quality entertainment, the remote has one issue: an inability to switch HDMI inputs. Fortunately, here's a trick to get around that.",
-        "source_link": "https://www.bgr.com/2065084/how-to-switch-hdmi-input-apple-tv-remote-guide/"
-      },
-      {
-        "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25068620/Aliro_only.jpg?quality=90&strip=all&crop=0%2C3.2998228670283%2C100%2C93.400354265943&w=1200",
-        "title": "Aliro arrives \u2013 the smart lock standard is set to launch this year - The Verge",
-        "description": "The Apple, Google, and Samsung-backed protocol will bring Apple Home Key\u2013style digital keys to Android phones",
-        "source_link": "https://www.theverge.com/news/854091/aliro-smart-lock-standard-launches-2026-apple-uwb-nfc"
       }
     ],
     "trending_movies": [
@@ -97,24 +104,24 @@
       },
       {
         "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+        "title": "Marty Supreme",
+        "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
         "title": "Five Nights at Freddy's 2",
         "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
         "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/n0fnflUWcwzbQ5x32G8zx0INs3G.jpg",
-        "title": "Marty Supreme",
-        "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
         "rank": 9,
@@ -125,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",
-        "title": "Wake Up Dead Man: A Knives Out Mystery",
-        "description": "When young priest Jud Duplenticy is sent to assist charismatic firebrand Monsignor Jefferson Wicks, it\u2019s clear that all is not well in the pews. After...",
-        "source_link": "https://www.themoviedb.org/movie/812583"
+        "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
       }
     ]
   }
