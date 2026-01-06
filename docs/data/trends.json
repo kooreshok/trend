@@ -1,69 +1,69 @@
 {
-  "last_updated": "January 06, 2026, 18:26 UTC",
+  "last_updated": "January 06, 2026, 19:13 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/sandisk-optimus-product-family-pr-1152x648-1767638879.jpeg",
+        "title": "SanDisk says goodbye to WD Blue and Black SSDs, hello to new \u201cOptimus\u201d drives - Ars Technica",
+        "description": "Optimus SSDs will continue with the same model numbers that the WD SSDs used.",
+        "source_link": "https://arstechnica.com/gadgets/2026/01/sandisk-says-goodbye-to-wd-blue-and-black-ssds-hello-to-new-optimus-drives/"
+      },
+      {
+        "rank": 2,
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/img-8639.jpg?c=16x9&q=w_800,c_fill",
+        "title": "Samsung\u2019s new phone looks straight out of science fiction. I got to try it - CNN",
+        "description": "With its new Galaxy Z TriFold, Samsung is betting it can wow consumers with an iPad-sized screen that folds up like a brochure to fit neatly in your pocket.",
+        "source_link": "https://www.cnn.com/2026/01/05/tech/samsung-galaxy-z-trifold-phone"
+      },
+      {
+        "rank": 3,
+        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/01/Single.Device-LGTV-16x9-Headline-fbcaf0871c7f34b979a1.jpg",
+        "title": "Xbox to Bring Cloud Gaming to Select Hisense and V homeOS-powered Smart TVs - Xbox Wire",
+        "description": null,
+        "source_link": "https://news.xbox.com/en-us/2026/01/05/xbox-bring-cloud-gaming-select-hisense-homeos-powered-smart-tvs/"
+      },
+      {
+        "rank": 4,
+        "image": "https://hodinkee.imgix.net/uploads/images/d9c50f6b-b7a6-403c-88be-b5ccc7f7c08e/Blaise35097.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
+        "title": "Introducing: Albishorn Lightens Things Up With The Type 10 \"Officer\" - Hodinkee",
+        "description": "The same great framework with a new beige twist results in a really attractive watch.",
+        "source_link": "https://www.hodinkee.com/articles/albishorn-lightens-things-up-with-the-type-10-officer"
+      },
+      {
+        "rank": 5,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/We_previewed_new_Gemini_for_Google_TV-1152x648.png",
+        "title": "Gemini expands on Google TV, bringing Nano Banana and Veo models to your TV - Ars Technica",
+        "description": "Google TV will let you generate and watch AI content on the big screen.",
+        "source_link": "https://arstechnica.com/google/2026/01/gemini-expands-on-google-tv-bringing-nano-banana-and-veo-models-to-your-tv/"
+      },
+      {
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/HERO-Image_Snapdragon-X2-Plus.jpg?quality=90&strip=all&crop=0%2C3.4689741459833%2C100%2C93.062051708033&w=1200",
         "title": "Qualcomm\u2019s next-gen Snapdragon X2 laptops are here \u2014 and they brought a new friend - The Verge",
         "description": "Qualcomm has announced the Snapdragon X2 Plus, and says both it and the Snapdragon X2 Elite should be in PCs by end of Q1 2026.",
         "source_link": "https://www.theverge.com/tech/853851/qualcomm-snapdragon-x2-plus-elite-laptops-price-ces-2026"
       },
       {
-        "rank": 2,
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258181_HP_OmniBook_Ultra_14_laptop_CES_2026_ADiBenedetto_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "HP\u2019s latest OmniBooks are getting chip bumps and OLED screens - The Verge",
         "description": "HP has announced a revamped lineup of OmniBook productivity laptops at CES, including its latest AI-focused flagship Ultra model.",
         "source_link": "https://www.theverge.com/tech/854240/hp-omnibook-ultra-14-3-5-7-x-laptop-updates-ces-2026"
       },
       {
-        "rank": 3,
+        "rank": 8,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/eufy-smarttrack-e40-find-hub.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Anker\u2019s Eufy finally launches its first Android Find Hub tracker for $35 - 9to5Google",
         "description": "It\u2019s been a couple of years since Eufy, one of the brands under Anker\u2019s umbrella, first announced it would be...",
         "source_link": "http://9to5google.com/2026/01/05/ankers-eufy-finally-launches-its-first-android-find-hub-tracker-for-35/"
       },
       {
-        "rank": 4,
+        "rank": 9,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-messages-logo-circle-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google Messages tweaks the camera to show more of your gallery - 9to5Google",
         "description": "Google Messages is more widely rolling out some tweaks to the combined camera and gallery interface on Android.",
         "source_link": "http://9to5google.com/2026/01/05/google-messages-camera-tweaks/"
-      },
-      {
-        "rank": 5,
-        "image": "https://gizmodo.com/app/uploads/2026/01/Anker-Solix-E10-1200x675.jpg",
-        "title": "Anker Teases a New Whole Home Hybrid Battery Backup System - Gizmodo",
-        "description": "The company says it\u2019s the first of its kind, but remains mum on the specifics.",
-        "source_link": "https://gizmodo.com/anker-teases-a-new-whole-home-hybrid-battery-backup-system-2000705254"
-      },
-      {
-        "rank": 6,
-        "image": "https://ep1.pinkbike.org/p4pb29112175/p4pb29112175.jpg",
-        "title": "Review: EXT Arma V4 - One of the Best Shocks Gets Even Better - Pinkbike",
-        "description": "No more topping out, and no special tools needed for trailside adjustments.",
-        "source_link": "https://www.pinkbike.com/news/review-ext-arma-v4-one-of-the-best-mtb-shocks-gets-even-better.html"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/anker_soundcore1.jpg?quality=90&strip=all&crop=0%2C10.864929910488%2C100%2C78.270140179024&w=1200",
-        "title": "Anker\u2019s AeroFit 2 Pro can be worn as open-ear headphones or ANC earbuds - The Verge",
-        "description": "Anker\u2019s new AeroFit 2 Pro headphones can switch between open-ear and ANC modes and are joined by upgraded sleep buds and a palm-size LED Bluetooth speaker.",
-        "source_link": "https://www.theverge.com/tech/852887/anker-soundcore-aerofit-2-pro-sleep-a30-special-boom-go-3i-bluetooth-headphones-earbuds-speaker"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.nintendolife.com/1834a265d2281/large.jpg",
-        "title": "Final Fantasy IX's Character Designer Has Left Square Enix - Nintendo Life",
-        "description": "\"I felt this was the right moment\"",
-        "source_link": "https://www.nintendolife.com/news/2026/01/final-fantasy-ixs-character-designer-has-left-square-enix"
-      },
-      {
-        "rank": 9,
-        "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2023/09/15/61764880/gilive_liesofp_webhero.jpg.webp",
-        "title": "CEO Of Lies Of P Publisher, Neowiz, Talks 2025, Overture Expansion, Release Strategy, Gen AI, And More - Game Informer",
-        "description": "With 2025 behind us all, we spoke with Neowiz co-CEO to discuss the publisher's year.",
-        "source_link": "https://gameinformer.com/exclusive-interview/2026/01/05/ceo-of-lies-of-p-publisher-neowiz-talks-2025-overture-expansion"
       }
     ],
     "trending_movies": [
@@ -76,17 +76,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
         "rank": 4,
@@ -104,38 +104,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/ejZR7Czt2150yJXo3ZKCtZH5dRr.jpg",
-        "title": "They Will Kill You",
-        "description": "A woman answers a help wanted ad to be a housekeeper in a mysterious high-rise in New York City, not realizing she is entering a community that has se...",
-        "source_link": "https://www.themoviedb.org/movie/1292695"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "title": "Wicked: For Good",
         "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
         "source_link": "https://www.themoviedb.org/movie/967941"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/6tpAPeuuqbVnYWWPoOLEDLSBU7a.jpg",
-        "title": "Trap House",
-        "description": "An undercover DEA agent and his partner embark on a game of cat and mouse with an audacious, and surprising group of thieves - their own rebellious te...",
-        "source_link": "https://www.themoviedb.org/movie/628847"
-      },
-      {
-        "rank": 10,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
         "title": "Marty Supreme",
         "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
       }
     ]
   }
