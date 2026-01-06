@@ -1,55 +1,48 @@
 {
-  "last_updated": "January 06, 2026, 06:28 UTC",
+  "last_updated": "January 06, 2026, 07:22 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F905feb5a-8cdd-442d-9658-ffe0ac22141b.jpg?source=next-barrier-page",
+        "title": "AI start-ups take on Google in fight to reshape web browser market - Financial Times",
+        "description": "OpenAI and Perplexity are betting cutting-edge technology will transform the way people access the internet",
+        "source_link": "https://www.ft.com/content/5d566029-6aee-4627-a665-81108a1eb70e"
+      },
+      {
+        "rank": 2,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02025_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
         "title": "I just want to keep unfolding the Samsung Z Trifold - The Verge",
         "description": "The Galaxy Z Trifold really is a tablet with a phone attached. With a desktop mode included, it just might be the single gadget you can leave the house with.",
         "source_link": "https://www.theverge.com/tech/854352/samsung-galaxy-z-trifold-hands-on"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Image-of-Bespoke-AI-Refrigerator-Family-Hub.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
         "title": "Voice control comes to Samsung\u2019s smart fridges - The Verge",
         "description": "Voice control opening and closing comes to Samsung\u2019s Family Hub smart fridges.",
         "source_link": "https://www.theverge.com/tech/853758/shut-the-fridge-door"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://cdn.wccftech.com/wp-content/uploads/2026/01/Intel-CES-2026.png",
         "title": "Watch The Intel CES 2026 Launch Event Live Here: Panther Lake Official, Refreshed CPUs & New AI Updates Expected - Wccftech",
         "description": "Intel will officially launch its next-generation Panther Lake Core Ultra Series 3 CPUs, along with several other products, at CES 2026.",
         "source_link": "https://wccftech.com/watch-intel-ces-2026-launch-event-live-here-panther-lake-official/"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Bolt-Sense-1.png?quality=90&strip=all&crop=0,7.5045298469362,100,84.990940306128",
         "title": "The new Ultraloq smart lock uses both your face and your palm to let you in - The Verge",
         "description": "Ultraloq is launching a smart lock that reads your palm and a new camera that works on HaLow Wi-Fi for extended range at CES",
         "source_link": "https://www.theverge.com/tech/853844/ultraloq-ces-smart-lock-face-palm-reading"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/ikea_sjoss_charger1.jpg?quality=90&strip=all&crop=0,10.693795654764,100,78.612408690472",
         "title": "Ikea\u2019s new $4 USB-C charger is cheaper than Apple\u2019s and Anker\u2019s - The Verge",
         "description": "\ufeffYou\u2019ll feel a little less guilty about forgetting or losing Ikea\u2019s new 20W Sj\u00f6ss charger.",
         "source_link": "https://www.theverge.com/tech/854333/ikea-sjoss-20w-usb-c-wall-charger"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/CES2026_image_02.png?quality=90&strip=all&crop=0%2C10.676614761602%2C100%2C78.646770476796&w=1200",
-        "title": "The Mui Board will support mmWave sleep tracking and gesture control - The Verge",
-        "description": "The Mui Board will support mmWave sleep tracking and gesture control using third-party sensors for its Spatial AI, Calm Sleep Platform",
-        "source_link": "https://www.theverge.com/tech/853435/mui-board-mmwave-sleep-tracking-gesture-control"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.slashgear.com/img/gallery/5-classic-cars-from-the-1970s-with-sky-high-resale-values/l-intro-1767107543.jpg",
-        "title": "5 Classic Cars From The 1970s With Sky High Resale Values - SlashGear",
-        "description": "The resale value of cars like the 1970 Chevrolet Chevelle SS 454 and the 1973 Ferrari 365 are all in the range of hundreds of thousands of dollars.",
-        "source_link": "https://www.slashgear.com/2063904/high-resale-value-classic-cars-from-1970s/"
       }
     ],
     "trending_movies": [
@@ -62,66 +55,66 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",
-        "title": "The Tank",
-        "description": "A German Tiger tank crew is sent on a dangerous mission to rescue the missing officer Paul von Hardenburg from a top-secret bunker behind enemy lines....",
-        "source_link": "https://www.themoviedb.org/movie/1252037"
-      },
-      {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",
+        "title": "The Tank",
+        "description": "A German Tiger tank crew is sent on a dangerous mission to rescue the missing officer Paul von Hardenburg from a top-secret bunker behind enemy lines....",
+        "source_link": "https://www.themoviedb.org/movie/1252037"
       },
       {
-        "rank": 6,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
-        "title": "Wicked: For Good",
-        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
-        "source_link": "https://www.themoviedb.org/movie/967941"
-      },
-      {
-        "rank": 8,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
         "title": "Five Nights at Freddy's 2",
         "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
         "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "title": "Wicked: For Good",
+        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
+        "source_link": "https://www.themoviedb.org/movie/967941"
       },
       {
-        "rank": 10,
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
         "title": "Marty Supreme",
         "description": "In 1950s New York, Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+        "title": "Now You See Me: Now You Don't",
+        "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal...",
+        "source_link": "https://www.themoviedb.org/movie/425274"
       }
     ]
   }
