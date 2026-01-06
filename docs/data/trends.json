@@ -1,62 +1,76 @@
 {
-  "last_updated": "January 06, 2026, 14:18 UTC",
+  "last_updated": "January 06, 2026, 15:19 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://assetsio.gnwcdn.com/league-of-legends_aTCaNiH.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Oops, League of Legends was briefly unplayable as Riot Games forgot to renew the digital licence - Eurogamer",
-        "description": "League of Legends was rendered unplayable thanks to a digital certification expiration.",
-        "source_link": "https://www.eurogamer.net/oops-league-of-legends-was-briefly-unplayable-as-riot-games-forgot-to-renew-the-digital-licence"
+        "image": "https://ep1.pinkbike.org/p4pb29112175/p4pb29112175.jpg",
+        "title": "Review: EXT Arma V4 - One of the Best Shocks Gets Even Better - Pinkbike",
+        "description": "No more topping out, and no special tools needed for trailside adjustments.",
+        "source_link": "https://www.pinkbike.com/news/review-ext-arma-v4-one-of-the-best-mtb-shocks-gets-even-better.html"
       },
       {
         "rank": 2,
-        "image": "https://www.cnet.com/a/img/resize/7d0cd989813038e6714dd56ba0854ba975f4b5a0/hub/2025/11/05/56993639-b34c-4e78-b4bd-1066e5745983/tv.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "CES 2026 Showcases the Future of TVs. Learn Which Display Tech Will Make the Biggest Splash - CNET",
-        "description": "From unprecedented levels of brightness to micro-LED backlights, here are the features we'll be looking for at this year's CES expo.",
-        "source_link": "https://www.cnet.com/tech/home-entertainment/forget-invisible-tvs-heres-the-display-tech-that-will-matter-at-ces-2026/"
+        "image": "https://assetsio.gnwcdn.com/final-fantasy-9-remaster-now-on-switch-and-xbox-one-1550145783781.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Beloved Final Fantasy artist Toshiyuki Itahana leaves Square Enix - Eurogamer",
+        "description": "Toshiyuki Itahana has decided to go freelance following the 25th anniversary of Final Fantasy.",
+        "source_link": "https://www.eurogamer.net/beloved-final-fantasy-artist-toshiyuki-itahana-leaves-square-enix"
       },
       {
         "rank": 3,
-        "image": null,
-        "title": "Microsoft shares official ways to save GBs of disk on Windows 11/10 using free native tools - Neowin",
-        "description": null,
-        "source_link": "https://www.neowin.net/news/microsoft-shares-official-ways-to-save-gbs-of-disk-on-windows-1110-using-free-native-tools/"
+        "image": "https://www.404media.co/content/images/size/w1200/2026/01/surveillance.png",
+        "title": "The State of Anti-Surveillance Design - 404 Media",
+        "description": "The most effective surveillance-evading gear might already be in your closet.",
+        "source_link": "https://www.404media.co/the-state-of-anti-surveillance-design/"
       },
       {
         "rank": 4,
-        "image": "https://cdn.videocardz.com/1/2026/01/MSI-STEALTH-16-AI-PLUS-PANTHER-LAKE-RTX-50.jpg",
-        "title": "MSI Stealth 16 AI+ features Core Ultra 300 CPU and RTX 50 GPU - VideoCardz.com",
-        "description": "MSI announces Stealth 16 AI+ with Intel Panther Lake and NVIDIA RTX 50 graphics MSI is rolling out the Stealth 16 AI+, a 16-inch notebook built around a",
-        "source_link": "https://videocardz.com/newz/msi-stealth-16-ai-features-core-ultra-300-cpu-and-rtx-50-gpu"
+        "image": "https://techcrunch.com/wp-content/uploads/2026/01/New-Fire-TV-UI-on-Amazon-Fire-TV-Omni-QLED-Series.jpg?resize=1200,675",
+        "title": "Amazon revamps Fire TV, launches its own \u2018Artline\u2019 televisions with frames at CES - TechCrunch",
+        "description": "Fire TV's new interface focuses on your content and offers easier, speedier navigation, Amazon says.",
+        "source_link": "https://techcrunch.com/2026/01/05/amazon-revamps-fire-tv-launches-its-own-artline-televisions-with-frames/"
       },
       {
         "rank": 5,
-        "image": "https://cdn.videocardz.com/1/2026/01/ROG-XREAL-GLASSES.jpg",
-        "title": "ASUS unveils ROG XREAL R1 AR gaming glasses offering 171-inch virtual screen for handhelds, PCs and consoles - VideoCardz.com",
-        "description": "ASUS shows ROG XREAL R1 AR gaming glasses with 240Hz micro-OLED and a 171-inch virtual screen ASUS is bringing XREAL-branded AR gaming glasses to CES with",
-        "source_link": "https://videocardz.com/newz/asus-unveils-rog-xreal-r1-ar-gaming-glasses-offering-171-inch-virtual-screen-for-handhelds-pcs-and-consoles"
+        "image": "https://techcrunch.com/wp-content/uploads/2026/01/Alexa.com_.png?resize=1200,675",
+        "title": "Amazon\u2019s AI assistant comes to the web with Alexa.com - TechCrunch",
+        "description": "Amazon is bringing Alexa+ to the web with a new Alexa.com site, expanding its AI assistant beyond devices and positioning it as a family-focused, agent-style chatbot.",
+        "source_link": "https://techcrunch.com/2026/01/05/alexa-without-an-echo-amazons-ai-chatbot-comes-to-the-web-and-a-revamped-alexa-app/"
       },
       {
         "rank": 6,
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFoSUYkZi1PnR7_XDnEwu_ZZaBhpLuCssykwEM8x8vGGWRH6fHkwyCqaMNWJ7DzZ5zi_fyabPUC8a8gszAcaSPncbhTOmmKZfZy8M-qTFjdU6Jlz87nV2oalablLAZENIsFU7MIleVfDgi_yYxqB1c3QpXlEyPW89xIwVmInLThmIrDdQosJR2iatZGhDr/s790-rw-e365/discord-malware.jpg",
-        "title": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code - The Hacker News",
-        "description": "VVS Stealer is a Python-based malware sold on Telegram that steals Discord tokens, browser data, and credentials using heavy code obfuscation.",
-        "source_link": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html"
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/04/Apple-was-wrong-on-AR.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Six new Apple products will launch early this year, here\u2019s what\u2019s coming - 9to5Mac",
+        "description": "Here are six new Apple products that are currently rumored to be launching early this year, some of which could debut as soon as January.",
+        "source_link": "https://9to5mac.com/2026/01/05/six-apple-products-will-launch-early-this-year-heres-whats-coming/"
       },
       {
         "rank": 7,
-        "image": "https://www.zdnet.com/a/img/resize/789f3819eaeaa620f07abe89c850c2b88a935ee5/2026/01/03/f01a38e6-ebcb-459a-99b9-78a9a68165cd/screenshot-2026-01-02-214336.png?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Finally, a computing accessory that both PC enthusiasts and professionals can be excited for - ZDNET",
-        "description": "Hyper announced a release date for its much-anticipated TrackPad Pro ahead of CES 2026.",
-        "source_link": "https://www.zdnet.com/article/hyper-trackpad-pro-ces-news/"
+        "image": "https://assets.warhammer-community.com/storeanniversaryminis2026-jan05-1-feature-vqktyzk1kx.jpg",
+        "title": "Celebrate store anniversaries in 2026 with an Aeldari Autarch and a Vampire Lord - Warhammer Community",
+        "description": "Here are this year\u2019s anniversary miniatures.",
+        "source_link": "https://www.warhammer-community.com/articles/eekdls2v/celebrate-store-anniversaries-in-2026-with-an-aeldari-autarch-and-a-vampire-lord"
       },
       {
         "rank": 8,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2023/11/NVIDIA-GeForce-RTX-3060-GPU-728x462.png",
-        "title": "NVIDIA To Bring Back The GeForce RTX 3060 In Q1 2026 To Tackle Current-Gen GPU & Memory Shortages - Wccftech",
-        "description": "NVIDIA is reportedly going to recommence production of its GeForce RTX 3060 GPUs owing to DRAM supply shortages.",
-        "source_link": "https://wccftech.com/nvidia-to-bring-back-geforce-rtx-3060-q1-2026-tackle-memory-shortages/"
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-fitness-plus-iphone-watch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "You can get Apple Fitness+ for free, here\u2019s how - 9to5Mac",
+        "description": "Apple Fitness+ just launched new programs designed to help build exercise habits, and there are several ways to access Fitness+ entirely free.",
+        "source_link": "https://9to5mac.com/2026/01/05/you-can-get-apple-fitness-plus-for-free-heres-how/"
+      },
+      {
+        "rank": 9,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/TS_Valet_Den_LS8_WebRes.jpg?quality=90&strip=all&crop=0%2C10.761012141664%2C100%2C78.477975716672&w=1200",
+        "title": "Twelve South\u2019s Valet is a handsome place to put your stuff - The Verge",
+        "description": "The $179.99 gadget can charge one device wirelessly and another via a cable and is meant to sit on your nightstand or entry table.",
+        "source_link": "https://www.theverge.com/tech/854124/twelve-south-valet-ces-2026"
+      },
+      {
+        "rank": 10,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK148_Microsoft_Edge_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Microsoft Edge is getting a Copilot-inspired redesign - The Verge",
+        "description": "Microsoft is working on a UI refresh for its Edge browser. The major overhaul will see Edge get the same colors and fonts as Copilot.",
+        "source_link": "https://www.theverge.com/news/854832/microsoft-edge-copilot-redesign-ui-features"
       }
     ],
     "trending_movies": [
@@ -83,10 +97,10 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
-        "title": "Wicked: For Good",
-        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
-        "source_link": "https://www.themoviedb.org/movie/967941"
+        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "title": "The Housemaid",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
         "rank": 5,
@@ -97,10 +111,10 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
+        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "title": "Wicked: For Good",
+        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
+        "source_link": "https://www.themoviedb.org/movie/967941"
       },
       {
         "rank": 7,
