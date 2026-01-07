@@ -1,76 +1,69 @@
 {
-  "last_updated": "January 07, 2026, 22:17 UTC",
+  "last_updated": "January 07, 2026, 23:17 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixelsnap-charger-puck-on-Pixel-10-Pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google\u2019s Pixelsnap Chargers will get firmware updates - 9to5Google",
-        "description": "Just like other devices, the Pixelsnap Charger will see firmware updates, with the latest version of Pixel Stand revealing some details.",
-        "source_link": "http://9to5google.com/2026/01/06/pixelsnap-charger-firmware-update/"
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/XPS-16-1152x648-1767726799.jpeg",
+        "title": "Dell\u2019s XPS revival is a welcome reprieve from the \u201cAI PC\u201d fad - Ars Technica",
+        "description": "Dell moves from pushing \"AI PCs\" and back to what matters in laptops.",
+        "source_link": "https://arstechnica.com/gadgets/2026/01/dells-xps-revival-is-a-welcome-reprieve-from-the-ai-pc-fad/"
       },
       {
         "rank": 2,
+        "image": "https://helios-i.mashable.com/imagery/articles/01uwZ0NGWhWLV6J48p19Ca2/hero-image.fill.size_1200x675.v1767721385.jpg",
+        "title": "The 4 coolest new products Acer announced at CES 2026 - Mashable",
+        "description": "You gotta see the scooter.",
+        "source_link": "https://mashable.com/article/ces-2026-4-coolest-acer-announcements"
+      },
+      {
+        "rank": 3,
         "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ROIK5B6M7BFN5JJTGWDHPTUQQQ.jpg&w=1440",
         "title": "How (not) to recycle those old gadgets - The Washington Post",
         "description": "E-waste can be transformed into essentials if you\u2019re willing to think outside the box.",
         "source_link": "https://www.washingtonpost.com/technology/2026/01/06/recycle-old-gadgets-comic/"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC_1009.jpeg?quality=90&strip=all&crop=0%2C10.482076844588%2C100%2C79.035846310824&w=1200",
         "title": "Power bank feature creep is out of control - The Verge",
         "description": "Power banks now feature integrated cables, kickstands, flashlights, 4G hotspots, giant display, Wi-Fi radios when cheap and basic is usually better.",
         "source_link": "https://www.theverge.com/tech/856225/power-banks-are-the-latest-victims-of-feature-creep"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258167_Asus_Zenbook_A16_laptop_CES_2026_ADiBenedetto_0009.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "This 16-inch laptop is so light I can easily lift it with three fingers - The Verge",
         "description": "Asus is introducing an ultra-light Zenbook A16 to accompany its refreshed A14 model.",
         "source_link": "https://www.theverge.com/news/852034/asus-zenbook-a16-thin-light-ces-2026"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilyYADOHMjVaRNmtGaBfZPuBBjV_zLAAmQ5LxnNXcpM_sHfQYws0W0gowwIgUC9-LBYr-y4eb5HK1cyqC857lCqKz1M_EHugfrzmkAL2vW-0SoRCdJpYsbZv8fd6-5EK8awrdD7a4eCaTZTJB9BLLDdYZlKNZQJ4Pwp7aok-jQ793kB7ft_A5pIgtCqvuQ/s790-rw-e365/chrome.jpg",
         "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users - The Hacker News",
         "description": "Security researchers found two Chrome extensions with 900,000 installs secretly collecting ChatGPT and DeepSeek chats and browsing data.",
         "source_link": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/RockMow_X1_LiDAR005.jpg?quality=90&strip=all&crop=0%2C15.094960294479%2C100%2C69.810079411042&w=1200",
         "title": "Roborock launches its first robot lawn mower in the US - The Verge",
         "description": "Roborock\u2019s next robot lawn mower, the RockMow X1 LiDAR, is coming to the US. Unveiled at CES 2026, the bot will arrive later this year with 360-degree 3D scanning.",
         "source_link": "https://www.theverge.com/news/851696/roborock-launches-its-first-robot-lawnmower-in-the-us"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io6Vq03GtofU/v1/1200x796.jpg",
         "title": "Robot Vacuum Maker Roborock Shows Off Stair-Climbing Model With Legs - Bloomberg.com",
         "description": "Roborock, a Chinese robotic vacuum cleaner brand, unveiled a concept device with two legs that can climb stairs in people\u2019s homes, a flashy example of efforts to sell ordinary consumers on the idea of home robots.",
         "source_link": "https://www.bloomberg.com/news/articles/2026-01-06/robot-vacuum-maker-roborock-shows-off-stair-climbing-model"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/resident-evil-outbreak-alyssa.jpg?w=1600&h=900&fit=crop",
         "title": "I played Resident Evil Requiem's terrible prequels so you don't have to - Polygon",
         "description": "Alyssa Ashcroft made her series debut in Resident Evil Outbreak, a dated multiplayer game that's a nightmare to play now",
         "source_link": "https://www.polygon.com/resident-evil-requiem-re9-prequels-outbreak-alyssa-ashcroft/"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/Google-Play-System-update-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Your Pixel might be buggy after latest Google Play system update - 9to5Google",
-        "description": "A Google Play system update is rolling out to Pixel owners, and we\u2019ve noticed across several devices that the install process is a bit buggy.",
-        "source_link": "http://9to5google.com/2026/01/06/google-play-system-update-pixel-buggy/"
-      },
-      {
-        "rank": 10,
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/32fb/live/ee3d5460-eaf1-11f0-8a5c-81e1c85f6b52.jpg",
-        "title": "Lego unveils tech-filled Smart Bricks - to play experts' dismay - BBC",
-        "description": "Lego says its new tech-enabled products are its \"most revolutionary innovation\" since it launched its mini-figurines in 1978.",
-        "source_link": "https://www.bbc.com/news/articles/crmlnmnwzk2o"
       }
     ],
     "trending_movies": [
@@ -83,31 +76,31 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
         "title": "TRON: Ares",
         "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
         "source_link": "https://www.themoviedb.org/movie/533533"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
         "rank": 6,
@@ -132,17 +125,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
-        "title": "Marty Supreme",
-        "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+        "title": "Marty Supreme",
+        "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       }
     ]
   }
