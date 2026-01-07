@@ -1,76 +1,76 @@
 {
-  "last_updated": "January 07, 2026, 20:20 UTC",
+  "last_updated": "January 07, 2026, 21:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixelsnap-charger-puck-on-Pixel-10-Pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google\u2019s Pixelsnap Chargers will get firmware updates - 9to5Google",
+        "description": "Just like other devices, the Pixelsnap Charger will see firmware updates, with the latest version of Pixel Stand revealing some details.",
+        "source_link": "http://9to5google.com/2026/01/06/pixelsnap-charger-firmware-update/"
+      },
+      {
+        "rank": 2,
         "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ROIK5B6M7BFN5JJTGWDHPTUQQQ.jpg&w=1440",
         "title": "How (not) to recycle those old gadgets - The Washington Post",
         "description": "E-waste can be transformed into essentials if you\u2019re willing to think outside the box.",
         "source_link": "https://www.washingtonpost.com/technology/2026/01/06/recycle-old-gadgets-comic/"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC_1009.jpeg?quality=90&strip=all&crop=0%2C10.482076844588%2C100%2C79.035846310824&w=1200",
         "title": "Power bank feature creep is out of control - The Verge",
         "description": "Power banks now feature integrated cables, kickstands, flashlights, 4G hotspots, giant display, Wi-Fi radios when cheap and basic is usually better.",
         "source_link": "https://www.theverge.com/tech/856225/power-banks-are-the-latest-victims-of-feature-creep"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258167_Asus_Zenbook_A16_laptop_CES_2026_ADiBenedetto_0009.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "This 16-inch laptop is so light I can easily lift it with three fingers - The Verge",
+        "description": "Asus is introducing an ultra-light Zenbook A16 to accompany its refreshed A14 model.",
+        "source_link": "https://www.theverge.com/news/852034/asus-zenbook-a16-thin-light-ces-2026"
+      },
+      {
+        "rank": 5,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilyYADOHMjVaRNmtGaBfZPuBBjV_zLAAmQ5LxnNXcpM_sHfQYws0W0gowwIgUC9-LBYr-y4eb5HK1cyqC857lCqKz1M_EHugfrzmkAL2vW-0SoRCdJpYsbZv8fd6-5EK8awrdD7a4eCaTZTJB9BLLDdYZlKNZQJ4Pwp7aok-jQ793kB7ft_A5pIgtCqvuQ/s790-rw-e365/chrome.jpg",
+        "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users - The Hacker News",
+        "description": "Security researchers found two Chrome extensions with 900,000 installs secretly collecting ChatGPT and DeepSeek chats and browsing data.",
+        "source_link": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html"
+      },
+      {
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/RockMow_X1_LiDAR005.jpg?quality=90&strip=all&crop=0%2C15.094960294479%2C100%2C69.810079411042&w=1200",
+        "title": "Roborock launches its first robot lawn mower in the US - The Verge",
+        "description": "Roborock\u2019s next robot lawn mower, the RockMow X1 LiDAR, is coming to the US. Unveiled at CES 2026, the bot will arrive later this year with 360-degree 3D scanning.",
+        "source_link": "https://www.theverge.com/news/851696/roborock-launches-its-first-robot-lawnmower-in-the-us"
+      },
+      {
+        "rank": 7,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io6Vq03GtofU/v1/1200x796.jpg",
+        "title": "Robot Vacuum Maker Roborock Shows Off Stair-Climbing Model With Legs - Bloomberg.com",
+        "description": "Roborock, a Chinese robotic vacuum cleaner brand, unveiled a concept device with two legs that can climb stairs in people\u2019s homes, a flashy example of efforts to sell ordinary consumers on the idea of home robots.",
+        "source_link": "https://www.bloomberg.com/news/articles/2026-01-06/robot-vacuum-maker-roborock-shows-off-stair-climbing-model"
+      },
+      {
+        "rank": 8,
         "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/resident-evil-outbreak-alyssa.jpg?w=1600&h=900&fit=crop",
         "title": "I played Resident Evil Requiem's terrible prequels so you don't have to - Polygon",
         "description": "Alyssa Ashcroft made her series debut in Resident Evil Outbreak, a dated multiplayer game that's a nightmare to play now",
         "source_link": "https://www.polygon.com/resident-evil-requiem-re9-prequels-outbreak-alyssa-ashcroft/"
       },
       {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/SATECHI_TBT5_HUB_16.jpg?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
-        "title": "You might mistake Satechi\u2019s new Thunderbolt 5 hub for Apple\u2019s Mac Mini - The Verge",
-        "description": "Satechi has revealed the Thunderbolt 5 CubeDock, a Mac Mini-style dock that offers an NVMe SSD enclosure along with three Thunderbolt 5 ports.",
-        "source_link": "https://www.theverge.com/tech/853378/satechi-thunderbolt-5-dock-mac-mini-ces-2026"
-      },
-      {
-        "rank": 5,
+        "rank": 9,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/Google-Play-System-update-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Your Pixel might be buggy after latest Google Play system update - 9to5Google",
         "description": "A Google Play system update is rolling out to Pixel owners, and we\u2019ve noticed across several devices that the install process is a bit buggy.",
         "source_link": "http://9to5google.com/2026/01/06/google-play-system-update-pixel-buggy/"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/32fb/live/ee3d5460-eaf1-11f0-8a5c-81e1c85f6b52.jpg",
         "title": "Lego unveils tech-filled Smart Bricks - to play experts' dismay - BBC",
         "description": "Lego says its new tech-enabled products are its \"most revolutionary innovation\" since it launched its mini-figurines in 1978.",
         "source_link": "https://www.bbc.com/news/articles/crmlnmnwzk2o"
-      },
-      {
-        "rank": 7,
-        "image": null,
-        "title": "Play! Pok\u00e9mon Rules and Resources Updated for Q4 2025 - Pokemon.com",
-        "description": null,
-        "source_link": "https://www.pokemon.com/us/pokemon-news/play-pokemon-rules-and-resources-updated-for-q4-2025"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/xreal-1s-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "XREAL is going all-in on Android XR with more glasses coming in Google partnership - 9to5Google",
-        "description": "XREAL has announced a new partnership with Google which will see more Android XR glasses in the pipeline after \"Project Aura.\"",
-        "source_link": "http://9to5google.com/2026/01/06/xreal-is-going-all-in-on-android-xr-with-more-glasses-coming-in-google-partnership/"
-      },
-      {
-        "rank": 9,
-        "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/ak394o271o2a59/64c0bba446107096c6c90433e0616cd947408907.jpg",
-        "title": "Corral Bounty Hunter Bonuses in Red Dead Online - Rockstar Games",
-        "description": "Criminals are riding high across Red Dead Online, and someone ought to bring them down a peg or two. Clean up the frontier\u2019s ne\u2019er-do-wells high and low to earn 3X RDO$, Role XP, and XP turning in Regular Bounties and 2X RDO$, Gold, and XP for...",
-        "source_link": "https://www.rockstargames.com/newswire/article/ak394o271o2a59/corral-bounty-hunter-bonuses-in-red-dead-online"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4630390-star-wars-outlaws.jpg",
-        "title": "Game Pass Adds All These Games In January 2026 - GameSpot",
-        "description": "The first month of the year brings lots more games to Game Pass.",
-        "source_link": "https://www.gamespot.com/gallery/game-pass-adds-all-these-games-in-january-2026/2900-7386/"
       }
     ],
     "trending_movies": [
@@ -83,24 +83,24 @@
       },
       {
         "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
+      },
+      {
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
         "rank": 5,
@@ -111,24 +111,24 @@
       },
       {
         "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "title": "Wicked: For Good",
+        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
+        "source_link": "https://www.themoviedb.org/movie/967941"
+      },
+      {
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",
         "title": "The Tank",
         "description": "A German Tiger tank crew is sent on a dangerous mission to rescue the missing officer Paul von Hardenburg from a top-secret bunker behind enemy lines....",
         "source_link": "https://www.themoviedb.org/movie/1252037"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
-        "title": "Wicked: For Good",
-        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
-        "source_link": "https://www.themoviedb.org/movie/967941"
       },
       {
         "rank": 9,
