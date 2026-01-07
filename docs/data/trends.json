@@ -1,62 +1,55 @@
 {
-  "last_updated": "January 07, 2026, 08:25 UTC",
+  "last_updated": "January 07, 2026, 09:25 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/geforcenowlinux.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Nvidia\u2019s GeForce Now is getting native Linux and Fire TV apps - The Verge",
+        "description": "Nvidia is launching new GeForce Now apps for Linux and Amazon\u2019s Fire TV devices. It\u2019s also adding flight control support to its streaming service.",
+        "source_link": "https://www.theverge.com/tech/854688/nvidias-geforce-now-is-getting-native-linux-and-fire-tv-apps"
+      },
+      {
+        "rank": 2,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Intel_CES_-1152x648.jpeg",
         "title": "Intel launches Core Ultra Series 3 CPUs, made using its long-awaited 18A process - Ars Technica",
         "description": "New chips launch \"this month,\" targeting high-end ultraportable PCs.",
         "source_link": "https://arstechnica.com/gadgets/2026/01/intel-launches-core-ultra-series-3-cpus-made-using-its-long-awaited-18a-process/"
       },
       {
-        "rank": 2,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/01/Ryzen-AI-Blog-1200x675-1.jpg?w=960",
-        "title": "AMD unveils new AI PC processors for general use and gaming at CES - TechCrunch",
-        "description": "AMD announced the latest version of its AI-powered PC chips designed for a variety of tasks from gaming to content creation and multitasking.",
-        "source_link": "https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/"
+        "rank": 3,
+        "image": "https://helios-i.mashable.com/imagery/articles/03jPAMkLF4inebZyM71HzBR/hero-image.fill.size_1200x675.v1767373481.png",
+        "title": "CES 2026: HP's new EliteBoard G1a is a keyboard with a powerful built-in computer - Mashable",
+        "description": "It's a keyboard. It's an AI-ready PC. It's both!",
+        "source_link": "https://mashable.com/article/ces-2026-hp-eliteboard-g1a-keyboard-computer"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_180529_1777_amd_0001.0.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "AMD\u2019s new Ryzen 7 9850X3D makes the best gaming CPU even faster - The Verge",
         "description": "AMD is launching an improved version of its 9800X3D processor. The new Ryzen 7 9850X3D has a better boost clock to offer improved frame rates in certain games.",
         "source_link": "https://www.theverge.com/tech/855188/amd-ryzen-7-9850x3d-processor-boost-clock-announcement"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Google-app-icon-size-tweak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Yes, the Google app icon is now bigger on Android - 9to5Google",
         "description": "The year in Google updates is well underway today with beta version 17.0 of the Google app on Android increasing the size of the app icon.",
         "source_link": "http://9to5google.com/2026/01/05/google-app-icon-size-tweak/"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Keychron-Q1-Ultra-1.png?quality=90&strip=all&crop=0%2C8.1151832460733%2C100%2C83.769633507853&w=1200",
         "title": "Keychron\u2019s new mechanical keyboards offer ultralong battery life at wireless 8K polling rates - The Verge",
         "description": "The ZMK-based Q Ultra and V Ultra keyboards can last up to 660 hours on a charge.",
         "source_link": "https://www.theverge.com/news/851900/keychrons-new-mechanical-keyboards-offer-ultra-long-battery-life-at-wireless-8k-polling-rates"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://images.seattletimes.com/wp-content/uploads/2026/01/01052026_TZR_Amazon_Ember_Artline_TV-1_tzr_165611.jpg?d=1200x630",
         "title": "Amazon unveils TV line to compete in artsy market - The Seattle Times",
         "description": "Amazon unveiled a television\u00a0designed to resemble a piece of framed art, making it the latest TV maker to emulate a sleek\u00a0design\u00a0popularized by\u00a0Samsung.",
         "source_link": "https://www.bloomberg.com/news/articles/2026-01-05/amazon-jumps-on-artwork-style-tv-trend-with-899-ember-artline"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.trueachievements.com/imgs/xl/113480/xbox-weekly-sales.jpg",
-        "title": "Xbox sale round-up January 6, 2026 - TrueAchievements",
-        "description": "New Xbox sales are now live, with big discounts on Tom Clancy's Rainbow Six Extraction, Max Payne 3, Raji: An Ancient Epic Enhanced Edition, VoidTrain, Gas Station Simulator, Aborigenus, Project Starship and more",
-        "source_link": "https://www.trueachievements.com/n61223/xbox-sale-roundup-january-6-2026"
-      },
-      {
-        "rank": 8,
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f0da/live/7ebb5500-e561-11f0-baf8-492205ca0c9f.jpg",
-        "title": "Why are more gamers than ever playing the 2000s classic RuneScape? - BBC",
-        "description": "Millions of people have returned to the iconic online game to farm, go on quests and fight big bosses.",
-        "source_link": "https://www.bbc.com/news/articles/c4g6g1z3160o"
       }
     ],
     "trending_movies": [
@@ -76,17 +69,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
-        "title": "Wicked: For Good",
-        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
-        "source_link": "https://www.themoviedb.org/movie/967941"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "title": "Wicked: For Good",
+        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
+        "source_link": "https://www.themoviedb.org/movie/967941"
       },
       {
         "rank": 5,
