@@ -1,69 +1,76 @@
 {
-  "last_updated": "January 08, 2026, 20:20 UTC",
+  "last_updated": "January 08, 2026, 21:17 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://media.wired.com/photos/677b890d45635d6217aeafbc/191:100/w_1280,c_limit/TD_2025_01_05_50.jpg",
+        "title": "What\u2019s Going on With Smart Rings? - WIRED",
+        "description": "Ultrahuman smart rings currently can\u2019t be sold in the US. We caught up with the company\u2019s chief business officer to discuss what\u2019s next for ring-based health tracking.",
+        "source_link": "https://www.wired.com/story/whats-going-on-with-smart-rings-oura-ultrahuman-ringconn/"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Bose_SoundTouch_30_Series_III_1640_26-1152x648.jpg",
+        "title": "Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-life - Ars Technica",
+        "description": "If companies insist on bricking gadgets, this is a better way to do it.",
+        "source_link": "https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STKB324_DELL_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Dell admits consumers don\u2019t care about AI PCs - The Verge",
+        "description": "Dell is now shifting it focus this year away from being \u2018all about the AI PC.\u2019",
+        "source_link": "https://www.theverge.com/news/857723/dell-consumers-ai-pcs-comments"
+      },
+      {
+        "rank": 4,
+        "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/sl/SLCTFKAWQQ6X1766171441575.jpg",
+        "title": "Fight for All Futures with the Echoes of the Infinite Mini-Set \u2014 Hearthstone - Blizzard News",
+        "description": "New Legendary cards and time-bending mechanics set the stage for the final showdown with Murozond!",
+        "source_link": "https://news.blizzard.com/en-us/article/24245105/fight-for-all-futures-with-the-echoes-of-the-infinite-mini-set"
+      },
+      {
+        "rank": 5,
+        "image": "https://uploads.mygolfspy.com/uploads/2025/12/fujikura_ventus_tr_blue_velocore_plus-2.jpg",
+        "title": "Fujikura Updates Ventus TR Blue With VeloCore+ Technology - MyGolfSpy",
+        "description": "It\u2019s not a perfect description, perhaps, but (generally) Fujikura\u2019s Ventus TR profiles sit between the various models in the standard Ventus lineup. For",
+        "source_link": "https://mygolfspy.com/news-opinion/fujikura-updates-ventus-tr-blue-with-velocore-technology/"
+      },
+      {
+        "rank": 6,
+        "image": "https://www.techpowerup.com/img/ch5arPMXcrbm10hW.jpg",
+        "title": "NVIDIA Answers TechPowerUp Questions on DLSS 4.5, 6x Multi FrameGen, and 240 Hz Mode - TechPowerUp",
+        "description": "NVIDIA responded to our follow-up questions on its DLSS 4.5 announcement. There had been some lingering questions on what features are available across the GeForce RTX lineup, which are exclusive to the latest RTX 50-series, and exactly how some of those feat\u2026",
+        "source_link": "https://www.techpowerup.com/344926/nvidia-answers-techpowerup-questions-on-dlss-4-5-6x-multi-framegen-and-240-hz-mode"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.videogameschronicle.com/files/2020/02/g0cmvxqusmckbzax9szm.jpg",
+        "title": "Blizzard will reportedly reveal a StarCraft shooter from the former Far Cry boss later this year - Video Games Chronicle",
+        "description": "The project is reportedly being led by former Ubisoft lead Dan Hay",
+        "source_link": "https://www.videogameschronicle.com/news/blizzard-will-reportedly-reveal-a-starcraft-shooter-from-the-former-far-cry-boss-later-this-year/"
+      },
+      {
+        "rank": 8,
+        "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/preview_26_0_3__1170x500.jpg",
+        "title": "A Minecraft: Bedrock Edition Preview - Minecraft",
+        "description": "Minecraft Preview 26.0.27",
+        "source_link": "https://www.minecraft.net/en-us/article/minecraft-preview-26-0-27"
+      },
+      {
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/best_ces_chargers_belkin.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
         "title": "The best phone chargers and portable power solutions at CES 2026 - The Verge",
         "description": "Power to the people.",
         "source_link": "https://www.theverge.com/tech/855028/ces-2026-best-chargers-wireless-power-bank-qi"
       },
       {
-        "rank": 2,
+        "rank": 10,
         "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Minecraft_HOL25_MoM_Hero_Visual_New_Player_Welcome_Activities_DotNet_Blog_Editorial_1170x500.jpg",
         "title": "Kick off the year with new rewards - Minecraft",
         "description": "Whether you\u2019re new to Minecraft or you\u2019ve been digging straight down since the beginning, the entire community have officially been challenged to mine 4.25 billion stone blocks!",
         "source_link": "https://www.minecraft.net/en-us/article/kick-off-the-year-with-new-rewards"
-      },
-      {
-        "rank": 3,
-        "image": "https://www.cnet.com/a/img/resize/702619c5af8a28f3d83c4085fba5526e8fc1c6b2/hub/2025/12/05/5de7438a-f773-4b37-b232-24add8640d9c/best-of-ces-award-announcement.png?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Best of CES 2026 Awards: Official List of Finalists - CNET",
-        "description": "These are the most important, cutting-edge AI tech, robots, TVs and more, determined by experts from CNET, Mashable, PCMag, ZDNET and Lifehacker.",
-        "source_link": "https://www.cnet.com/best-of-ces-2026/"
-      },
-      {
-        "rank": 4,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-07-at-9.57.01-AM.png?resize=1200,679",
-        "title": "WhatsApp rolls out new group chat features, including member tags - TechCrunch",
-        "description": "You can choose a tag that gives others in the group chat more context about who you are.",
-        "source_link": "https://techcrunch.com/2026/01/07/whatsapp-rolls-out-new-group-chat-features-member-tags/"
-      },
-      {
-        "rank": 5,
-        "image": "https://gizmodo.com/app/uploads/2026/01/X-Tower-1-1200x675.jpg",
-        "title": "Xthings Is Making a Narc Pole - Gizmodo",
-        "description": "The X Tower is an \u201curban guardian\u201d that uses AI to detect public threats.",
-        "source_link": "https://gizmodo.com/xthings-is-making-a-narc-pole-2000705769"
-      },
-      {
-        "rank": 6,
-        "image": "https://i-invdn-com.investing.com/news/LYNXNPEC59137_L.jpg",
-        "title": "Intel stock jumps 8% after unveiling next-gen AI PC processors - Investing.com",
-        "description": "Intel stock jumps 8% after unveiling next-gen AI PC processors",
-        "source_link": "https://www.investing.com/news/stock-market-news/intel-stock-jumps-after-unveiling-nextgen-ai-pc-processors-4435358"
-      },
-      {
-        "rank": 7,
-        "image": "https://cdn.mos.cms.futurecdn.net/EDhsZBF3ehhpJf4z7UzSNg-760-80.jpg",
-        "title": "The newest Fujifilm compact camera \u201ctime-travels\u201d with an Eras Dial and a Super-8-inspired design. But, there\u2019s a catch - Digital Camera World",
-        "description": "The Fujifilm Instax Mini Evo Cinema has a dial to replicate looks from different decades, but it's only been announced in Japan",
-        "source_link": "https://www.digitalcameraworld.com/cameras/instant-cameras/the-newest-fujifilm-compact-camera-time-travels-with-an-eras-dial-and-a-super-8-inspired-design-but-theres-a-catch"
-      },
-      {
-        "rank": 8,
-        "image": "https://static.dezeen.com/uploads/2026/01/varmblixt-sabine-marcelis-ikea-lamps-ces-2026-hero-1.jpg",
-        "title": "IKEA debuts colour-shifting version of Sabine Marcelis's viral \"doughnut lamp\" at CES - Dezeen",
-        "description": "Dutch designer Sabine Marcelis has updated the chubby Varmblixt lamp she designed for IKEA, transforming it into a smart version that glows from within.",
-        "source_link": "https://www.dezeen.com/2026/01/07/ikea-colour-shifting-versions-sabine-marcelis-doughnut-lamps-ces-2026/"
-      },
-      {
-        "rank": 9,
-        "image": "https://assets-prd.ignimgs.com/2026/01/07/img-8384-1767785536749.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "LEGO Says Smart Brick Is 'Here to Stay,' and Responds to 'Questions and Concerns' Around Abandoning Non-Digital Play - IGN",
-        "description": "A day on from the official reveal of LEGO Smart Brick, the company has responded to concerns that its big announcement poses a risk to its core basis in physical play.",
-        "source_link": "https://www.ign.com/articles/lego-says-smart-brick-is-here-to-stay-and-responds-to-questions-and-concerns-around-abandoning-non-digital-play"
       }
     ],
     "trending_movies": [
@@ -76,45 +83,45 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
         "title": "TRON: Ares",
         "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
         "source_link": "https://www.themoviedb.org/movie/533533"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "title": "The Housemaid",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "title": "Wicked: For Good",
         "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
         "source_link": "https://www.themoviedb.org/movie/967941"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
         "rank": 8,
