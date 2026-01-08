@@ -1,76 +1,69 @@
 {
-  "last_updated": "January 08, 2026, 16:24 UTC",
+  "last_updated": "January 08, 2026, 17:24 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/game-updates/MCV_SP26_Testing_1_BPS_Header_Image_1170x500.jpg",
-        "title": "The first features from our cutest drop yet - Minecraft",
-        "description": "Baby farm mobs are first to waddle into Minecraft with a whole new look. Befriend these tiny rascals, hear their sweet sounds, and craft them name tags in Java snapshot and Bedrock beta/preview!",
-        "source_link": "https://www.minecraft.net/en-us/article/first-features-minecraft-cutest-drop-yet"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/best_ces_chargers_belkin.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+        "title": "The best phone chargers and portable power solutions at CES 2026 - The Verge",
+        "description": "Power to the people.",
+        "source_link": "https://www.theverge.com/tech/855028/ces-2026-best-chargers-wireless-power-bank-qi"
       },
       {
         "rank": 2,
-        "image": "https://s.yimg.com/ny/api/res/1.2/DPLj8yWSH_Ubr_nUyEBfAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/realtor_com_468/fe1131c87c0f0ff22cbe85bad756596a",
-        "title": "EXCLUSIVE: Hollywood Legend Jeff Bridges Lists Malibu Land for $4.4 Million\u2014After Beloved Family Home Burned in Wildfires - Yahoo",
-        "description": "Bridges' longtime Malibu home, which was passed to him by his parents, was destroyed in the California wildfires.",
-        "source_link": "https://www.yahoo.com/entertainment/celebrity/articles/exclusive-hollywood-legend-jeff-bridges-151218014.html"
+        "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Minecraft_HOL25_MoM_Hero_Visual_New_Player_Welcome_Activities_DotNet_Blog_Editorial_1170x500.jpg",
+        "title": "Kick off the year with new rewards - Minecraft",
+        "description": "Whether you\u2019re new to Minecraft or you\u2019ve been digging straight down since the beginning, the entire community have officially been challenged to mine 4.25 billion stone blocks!",
+        "source_link": "https://www.minecraft.net/en-us/article/kick-off-the-year-with-new-rewards"
       },
       {
         "rank": 3,
+        "image": "https://www.cnet.com/a/img/resize/702619c5af8a28f3d83c4085fba5526e8fc1c6b2/hub/2025/12/05/5de7438a-f773-4b37-b232-24add8640d9c/best-of-ces-award-announcement.png?auto=webp&fit=crop&height=675&width=1200",
+        "title": "Best of CES 2026 Awards: Official List of Finalists - CNET",
+        "description": "These are the most important, cutting-edge AI tech, robots, TVs and more, determined by experts from CNET, Mashable, PCMag, ZDNET and Lifehacker.",
+        "source_link": "https://www.cnet.com/best-of-ces-2026/"
+      },
+      {
+        "rank": 4,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-07-at-9.57.01-AM.png?resize=1200,679",
+        "title": "WhatsApp rolls out new group chat features, including member tags - TechCrunch",
+        "description": "You can choose a tag that gives others in the group chat more context about who you are.",
+        "source_link": "https://techcrunch.com/2026/01/07/whatsapp-rolls-out-new-group-chat-features-member-tags/"
+      },
+      {
+        "rank": 5,
+        "image": "https://gizmodo.com/app/uploads/2026/01/X-Tower-1-1200x675.jpg",
+        "title": "Xthings Is Making a Narc Pole - Gizmodo",
+        "description": "The X Tower is an \u201curban guardian\u201d that uses AI to detect public threats.",
+        "source_link": "https://gizmodo.com/xthings-is-making-a-narc-pole-2000705769"
+      },
+      {
+        "rank": 6,
+        "image": "https://i-invdn-com.investing.com/news/LYNXNPEC59137_L.jpg",
+        "title": "Intel stock jumps 8% after unveiling next-gen AI PC processors - Investing.com",
+        "description": "Intel stock jumps 8% after unveiling next-gen AI PC processors",
+        "source_link": "https://www.investing.com/news/stock-market-news/intel-stock-jumps-after-unveiling-nextgen-ai-pc-processors-4435358"
+      },
+      {
+        "rank": 7,
+        "image": "https://cdn.mos.cms.futurecdn.net/EDhsZBF3ehhpJf4z7UzSNg-760-80.jpg",
+        "title": "The newest Fujifilm compact camera \u201ctime-travels\u201d with an Eras Dial and a Super-8-inspired design. But, there\u2019s a catch - Digital Camera World",
+        "description": "The Fujifilm Instax Mini Evo Cinema has a dial to replicate looks from different decades, but it's only been announced in Japan",
+        "source_link": "https://www.digitalcameraworld.com/cameras/instant-cameras/the-newest-fujifilm-compact-camera-time-travels-with-an-eras-dial-and-a-super-8-inspired-design-but-theres-a-catch"
+      },
+      {
+        "rank": 8,
+        "image": "https://static.dezeen.com/uploads/2026/01/varmblixt-sabine-marcelis-ikea-lamps-ces-2026-hero-1.jpg",
+        "title": "IKEA debuts colour-shifting version of Sabine Marcelis's viral \"doughnut lamp\" at CES - Dezeen",
+        "description": "Dutch designer Sabine Marcelis has updated the chubby Varmblixt lamp she designed for IKEA, transforming it into a smart version that glows from within.",
+        "source_link": "https://www.dezeen.com/2026/01/07/ikea-colour-shifting-versions-sabine-marcelis-doughnut-lamps-ces-2026/"
+      },
+      {
+        "rank": 9,
         "image": "https://assets-prd.ignimgs.com/2026/01/07/img-8384-1767785536749.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "LEGO Says Smart Brick Is 'Here to Stay,' and Responds to 'Questions and Concerns' Around Abandoning Non-Digital Play - IGN",
         "description": "A day on from the official reveal of LEGO Smart Brick, the company has responded to concerns that its big announcement poses a risk to its core basis in physical play.",
         "source_link": "https://www.ign.com/articles/lego-says-smart-brick-is-here-to-stay-and-responds-to-questions-and-concerns-around-abandoning-non-digital-play"
-      },
-      {
-        "rank": 4,
-        "image": "https://assets-prd.ignimgs.com/2026/01/07/fallout-main-1767786283140.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Locked Fallout TV Show Countdown Timer Coincides With Season 2 Finale \u2014 but Fans Are Hoping It Also Signals a Fallout 3 or New Vegas Remaster Shadowdrop - IGN",
-        "description": "There is a mysterious countdown timer on Amazon\u2019s official website for its Fallout TV series that is set to unlock when the Season 2 finale comes out \u2014 but fans think it might also signal the shadowdrop of a Fallout 3 or New Vegas remaster.",
-        "source_link": "https://www.ign.com/articles/locked-fallout-tv-show-countdown-timer-coincides-with-season-2-finale-but-fans-are-hoping-it-also-signals-a-fallout-3-or-new-vegas-remaster-shadowdrop"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.huntshowdown.com/files/news/1920x1080_Blog_FR.jpg",
-        "title": "Introducing Flame Rifle - Hunt: Showdown",
-        "description": "Hunt: Showdown is a competitive first-person PvP bounty hunting game with heavy PvE elements. Set in the darkest corners of the world, Hunt packs the thrill of survival games into a match-based format.",
-        "source_link": "https://www.huntshowdown.com/detailed"
-      },
-      {
-        "rank": 6,
-        "image": "https://assets.warhammer-community.com/40k_smdetachments-jan07-1-feature-kjgmebe7ej.jpg",
-        "title": "500 Worlds: Titus \u2013 Strike fast and hold the line with new Space Marines Detachments - Warhammer Community",
-        "description": "Fill the sky with Drop Pods!",
-        "source_link": "https://www.warhammer-community.com/articles/uebtnxvg/500-worlds-titus-strike-fast-and-hold-the-line-with-new-space-marines-detachments"
-      },
-      {
-        "rank": 7,
-        "image": "https://static.dezeen.com/uploads/2026/01/clicks-communicator-phone-design_dezeen_2364_hero.jpg",
-        "title": "The Clicks Communicator phone is made specifically for messaging - Dezeen",
-        "description": "UK-based company Clicks Technology has followed up its Blackberry-like keyboard accessory for smartphones with the Clicks Communicator, a phone built for messaging, launched at this week's Consumer Electronics Show.",
-        "source_link": "https://www.dezeen.com/2026/01/07/clicks-communicator-phone-made-for-messaging-technology/"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4f164d87-97d1-4ced-bffa-444e33b2fec6.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-        "title": "Google\u2019s Koray Kavukcuoglu: Turning abstract AI thinking into user-friendly products - Financial Times",
-        "description": "The tech giant\u2019s chief AI architect and CTO of DeepMind discusses the Gemini 3 LLM and progress towards the goal of artificial general intelligence",
-        "source_link": "https://www.ft.com/content/3b477836-8a87-4ce3-bea1-719f28952a9a"
-      },
-      {
-        "rank": 9,
-        "image": "https://petapixel.com/assets/uploads/2026/01/The-Nikon-24-105mm-f4-7.1-Is-a-New-Kit-Zoom-to-Pair-with-the-Z5-II.jpg",
-        "title": "The Nikon 24-105mm f/4-7.1 Is a New Kit Zoom to Pair with the Z5 II - PetaPixel",
-        "description": "Nikon has announced the Nikkor Z 24-105mm f/4-7.1 zoom lens for Nikon full-frame mirrorless cameras.",
-        "source_link": "https://petapixel.com/2026/01/06/the-nikon-24-105mm-f-4-7-1-is-a-new-kit-zoom-to-pair-with-the-z5-ii/"
-      },
-      {
-        "rank": 10,
-        "image": "https://news.lenovo.com/wp-content/uploads/2026/01/B2Bhero.png",
-        "title": "Lenovo at CES 2026: Smarter AI Meets Purposeful Business Innovation - Lenovo StoryHub",
-        "description": "Delivering new Windows 11 laptop and desktop devices with enhanced user experiences, engineered for performance, adaptability, and trusted reliability",
-        "source_link": "https://news.lenovo.com/pressroom/press-releases/lenovo-at-ces-2026-smarter-ai-meets-purposeful-business-innovation/"
       }
     ],
     "trending_movies": [
@@ -111,10 +104,10 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
-        "title": "Wicked: For Good",
-        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
-        "source_link": "https://www.themoviedb.org/movie/967941"
+        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+        "title": "Five Nights at Freddy's 2",
+        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
+        "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
         "rank": 7,
@@ -125,17 +118,17 @@
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "title": "Wicked: For Good",
+        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
+        "source_link": "https://www.themoviedb.org/movie/967941"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",
         "title": "The Tank",
         "description": "A German Tiger tank crew is sent on a dangerous mission to rescue the missing officer Paul von Hardenburg from a top-secret bunker behind enemy lines....",
         "source_link": "https://www.themoviedb.org/movie/1252037"
-      },
-      {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
         "rank": 10,
