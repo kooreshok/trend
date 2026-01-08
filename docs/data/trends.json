@@ -1,69 +1,55 @@
 {
-  "last_updated": "January 08, 2026, 12:38 UTC",
+  "last_updated": "January 08, 2026, 13:37 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://lifehacker.com/imagery/articles/01KE7YJW3MT8P47HSXEJHZZQ24/hero-image.fill.size_1200x675.png",
-        "title": "CES 2026: These Smart Glasses Can Help Some People See Even Better Than Normal Glasses - Lifehacker",
-        "description": "People with central vision loss can see text and faces with this device.",
-        "source_link": "https://lifehacker.com/health/esight-smart-glasses-ces-2026"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_CES_BestOf_Sean_v01_KM.00_28_44_06.Still002.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "I played with the Lego Smart Brick - The Verge",
+        "description": "No AI \u2014 and smarter than I expected.",
+        "source_link": "https://www.theverge.com/tech/855520/i-played-with-the-lego-smart-brick"
       },
       {
         "rank": 2,
+        "image": "https://www.huntshowdown.com/files/news/1920x1080_Blog_FR.jpg",
+        "title": "Introducing Flame Rifle - Hunt: Showdown",
+        "description": "Hunt: Showdown is a competitive first-person PvP bounty hunting game with heavy PvE elements. Set in the darkest corners of the world, Hunt packs the thrill of survival games into a match-based format.",
+        "source_link": "https://www.huntshowdown.com/detailed"
+      },
+      {
+        "rank": 3,
         "image": "https://media.pitchfork.com/photos/6940855880e93c5a31e8127e/16:9/w_1280,c_limit/Babau:%20The%20Sludge%20of%20the%20Land.jpg",
         "title": "Babau: The Sludge of the Land Album Review - Pitchfork",
         "description": "Read H.D. Angel\u2019s review of the album.",
         "source_link": "https://pitchfork.com/reviews/albums/babau-the-sludge-of-the-land/"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://motorolanews.com/wp-content/uploads/2026/01/Sphere-Image_Final.png",
         "title": "Global Blog | Motorola at Lenovo Tech World 2026 - motorolanews.com",
         "description": "Motorola took the Lenovo Tech World 2026 stage in Las Vegas to unveil the most exciting tech yet, including a new form factor and franchise.",
         "source_link": "https://motorolanews.com/tech-world-2026/"
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "image": "https://news.lenovo.com/wp-content/uploads/2026/01/Consumer1.png",
+        "title": "Lenovo at CES 2026: Smarter AI for More Intuitive and Connected PC Experiences - Lenovo StoryHub",
+        "description": "Lenovo announced its latest consumer-focused innovations, expanding its Windows 11-based Yoga\u2122 and IdeaPad\u2122 portfolios with new AI laptops, AI desktops, and peripherals.",
+        "source_link": "https://news.lenovo.com/pressroom/press-releases/lenovo-at-ces-2026-smarter-ai-for-more-intuitive-and-connected-pc-experiences/"
+      },
+      {
+        "rank": 6,
         "image": "https://motorolanews.com/wp-content/uploads/2026/01/Header_image.jpg",
         "title": "Global Blog | Motorola launches the first motorola signature - motorolanews.com",
         "description": "Motorola launches the first motorola signature, the most complete and sophisticated phone ever created, reflecting a commitment to excellence.",
         "source_link": "https://motorolanews.com/motorola-sets-a-new-standard-for-world-class-refinement-with-the-launch-of-motorola-signature/"
       },
       {
-        "rank": 5,
-        "image": "https://media.wired.com/photos/695d5207b6493d17e530b8d0/191:100/w_1280,c_limit/Motorola-Razr-Fold-Gear-Julian-Chokkattu(1).jpg",
-        "title": "The Razr Fold Adds a Book-Style Foldable to Motorola\u2019s Lineup - WIRED",
-        "description": "At CES 2026, the company also announced a new smartwatch, stylus, Bluetooth tracker, and even a weird AI pendant.",
-        "source_link": "https://www.wired.com/story/motorola-razr-fold-ces-2026/"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258166_Lenovo_ThinkBook_Plus_Gen7_Auto_Twist_laptop_CES_2026_ADiBenedetto_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Lenovo\u2019s Auto Twist laptop is going from concept to real product - The Verge",
-        "description": "The auto-opening ThinkBook Plus Gen 7 Auto Twist is actually coming out.",
-        "source_link": "https://www.theverge.com/news/852251/lenovos-auto-twist-laptop-is-going-from-concept-to-real-product"
-      },
-      {
         "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258166_Lenovo_AI_Glasses_Concept_CES_2026_ADiBenedetto_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Lenovo\u2019s joining the bandwagon with concept AI glasses - The Verge",
-        "description": "At CES 2026, Lenovo was the latest to get on the AI glasses train with concept glasses featuring monochrome LED displays.",
-        "source_link": "https://www.theverge.com/tech/853434/ces-2026-lenovo-concept-ai-glasses-wearables"
-      },
-      {
-        "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/moto-watch-Lifestyle-Image-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Motorola\u2019s latest smartwatch promises 13-day battery life and Polar-powered health tracking - The Verge",
-        "description": "Motorola debuted the Moto Watch at CES 2026. The company\u2019s latest smartwatch offers up to 13 days of battery life and Polar-powered health tracking.",
-        "source_link": "https://www.theverge.com/gadgets/851643/moto-watch-android-smarwatch-ces-2026"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.cnet.com/a/img/resize/b954161971ebf4092c6790e104ce13b7f8647d88/hub/2026/01/05/65ef1a68-5e50-403e-8be0-9bd2be487d53/govee-ceiling-light-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Our Favorite Home Tech Gear That Everyone's Talking About at CES 2026 - CNET",
-        "description": "CES 2026 is here, showcasing some cutting-edge new gear to on-the-ground reporters from CNET.",
-        "source_link": "https://www.cnet.com/home/our-favorite-home-tech-gear-that-everyones-talking-about-at-ces-2026/"
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuRmmxBzYEGc/v2/1200x800.jpg",
+        "title": "Motorola Debuts Its First Book-Style Foldable and Wearable AI Concept - Bloomberg.com",
+        "description": "Lenovo Group Ltd.\u2018s Motorola unveiled its first folding phone that opens like a book or passport, a departure from the string of clamshell-style foldables that the brand has released over the last several years.",
+        "source_link": "https://www.bloomberg.com/news/features/2026-01-07/motorola-announces-razr-fold-in-challenge-to-samsung"
       }
     ],
     "trending_movies": [
@@ -104,17 +90,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "title": "Wicked: For Good",
         "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
         "source_link": "https://www.themoviedb.org/movie/967941"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
       },
       {
         "rank": 8,
@@ -132,10 +118,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/5Q1zdYe9PYEXMGELzjfjyx8Eb7H.jpg",
-        "title": "Primate",
-        "description": "Home from college, Lucy reunites with family including pet chimp Ben. Ben contracts rabies during a pool party and turns aggressive. Lucy and friends ...",
-        "source_link": "https://www.themoviedb.org/movie/1315303"
+        "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
       }
     ]
   }
