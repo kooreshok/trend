@@ -1,76 +1,69 @@
 {
-  "last_updated": "January 08, 2026, 22:17 UTC",
+  "last_updated": "January 08, 2026, 23:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://media.wired.com/photos/677b890d45635d6217aeafbc/191:100/w_1280,c_limit/TD_2025_01_05_50.jpg",
-        "title": "What\u2019s Going on With Smart Rings? - WIRED",
-        "description": "Ultrahuman smart rings currently can\u2019t be sold in the US. We caught up with the company\u2019s chief business officer to discuss what\u2019s next for ring-based health tracking.",
-        "source_link": "https://www.wired.com/story/whats-going-on-with-smart-rings-oura-ultrahuman-ringconn/"
+        "image": "https://www.cnet.com/a/img/resize/eb9c896f39cab2b7ce7ee0f359e1519ddcc73634/hub/2025/09/18/74b3a3f6-f59c-48ea-a523-0a02c7c4d888/c-200.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "What It's Like to Slice Food With an Ultrasonic Knife That Vibrates 30,000 Times Per Second - CNET",
+        "description": "I tried a techy new knife at CES 2026. Here's my take on whether this pricey blade is worthy of the hype.",
+        "source_link": "https://www.cnet.com/home/kitchen-and-household/what-its-like-to-slice-food-with-an-ultrasonic-knife/"
       },
       {
         "rank": 2,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/01/StarCraft-Shooter-Will-Reportedly-Be-Revealed-at-BlizzCon-728x409.png",
+        "title": "Third-Person StarCraft Shooter Will Reportedly Be Unveiled at BlizzCon 2026 - Wccftech",
+        "description": "Blizzard is reportedly getting set to finally unveil the long-rumoured third-person StarCraft shooter at BlizzCon 2026.",
+        "source_link": "https://wccftech.com/third-person-starcraft-shooter-will-reportedly-be-unveiled-at-blizzcon-2026/"
+      },
+      {
+        "rank": 3,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Bose_SoundTouch_30_Series_III_1640_26-1152x648.jpg",
         "title": "Bose open-sources its SoundTouch home theater smart speakers ahead of end-of-life - Ars Technica",
         "description": "If companies insist on bricking gadgets, this is a better way to do it.",
         "source_link": "https://arstechnica.com/gadgets/2026/01/bose-open-sources-its-soundtouch-home-theater-smart-speakers-ahead-of-eol/"
       },
       {
-        "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STKB324_DELL_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Dell admits consumers don\u2019t care about AI PCs - The Verge",
-        "description": "Dell is now shifting it focus this year away from being \u2018all about the AI PC.\u2019",
-        "source_link": "https://www.theverge.com/news/857723/dell-consumers-ai-pcs-comments"
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/Dell-mocked-at-its-own-press-launch-for-copying-Apples-naming-convention.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Dell admits that PC buyers don\u2019t actually care about AI - 9to5Mac",
+        "description": "AI has been a huge buzzword at Apple and other tech companies for years. But Dell just admitted that PC buyers don\u2019t actually care about AI.",
+        "source_link": "https://9to5mac.com/2026/01/07/dell-admits-that-pc-buyers-dont-actually-care-about-ai/"
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/01/07/ea85ac95/ps5-hyperpop-collection.jpg.webp",
+        "title": "PlayStation 5 Hyperpop Console Covers And Controllers Coming In March - Game Informer",
+        "description": "Now you can add some RGB-inspired flair to your console.",
+        "source_link": "https://gameinformer.com/2026/01/07/playstation-5-hyperpop-console-covers-and-controllers-coming-in-march"
+      },
+      {
+        "rank": 6,
         "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/sl/SLCTFKAWQQ6X1766171441575.jpg",
         "title": "Fight for All Futures with the Echoes of the Infinite Mini-Set \u2014 Hearthstone - Blizzard News",
         "description": "New Legendary cards and time-bending mechanics set the stage for the final showdown with Murozond!",
         "source_link": "https://news.blizzard.com/en-us/article/24245105/fight-for-all-futures-with-the-echoes-of-the-infinite-mini-set"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://uploads.mygolfspy.com/uploads/2025/12/fujikura_ventus_tr_blue_velocore_plus-2.jpg",
         "title": "Fujikura Updates Ventus TR Blue With VeloCore+ Technology - MyGolfSpy",
         "description": "It\u2019s not a perfect description, perhaps, but (generally) Fujikura\u2019s Ventus TR profiles sit between the various models in the standard Ventus lineup. For",
         "source_link": "https://mygolfspy.com/news-opinion/fujikura-updates-ventus-tr-blue-with-velocore-technology/"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://www.techpowerup.com/img/ch5arPMXcrbm10hW.jpg",
         "title": "NVIDIA Answers TechPowerUp Questions on DLSS 4.5, 6x Multi FrameGen, and 240 Hz Mode - TechPowerUp",
         "description": "NVIDIA responded to our follow-up questions on its DLSS 4.5 announcement. There had been some lingering questions on what features are available across the GeForce RTX lineup, which are exclusive to the latest RTX 50-series, and exactly how some of those feat\u2026",
         "source_link": "https://www.techpowerup.com/344926/nvidia-answers-techpowerup-questions-on-dlss-4-5-6x-multi-framegen-and-240-hz-mode"
       },
       {
-        "rank": 7,
-        "image": "https://www.videogameschronicle.com/files/2020/02/g0cmvxqusmckbzax9szm.jpg",
-        "title": "Blizzard will reportedly reveal a StarCraft shooter from the former Far Cry boss later this year - Video Games Chronicle",
-        "description": "The project is reportedly being led by former Ubisoft lead Dan Hay",
-        "source_link": "https://www.videogameschronicle.com/news/blizzard-will-reportedly-reveal-a-starcraft-shooter-from-the-former-far-cry-boss-later-this-year/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/preview_26_0_3__1170x500.jpg",
-        "title": "A Minecraft: Bedrock Edition Preview - Minecraft",
-        "description": "Minecraft Preview 26.0.27",
-        "source_link": "https://www.minecraft.net/en-us/article/minecraft-preview-26-0-27"
-      },
-      {
         "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/best_ces_chargers_belkin.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-        "title": "The best phone chargers and portable power solutions at CES 2026 - The Verge",
-        "description": "Power to the people.",
-        "source_link": "https://www.theverge.com/tech/855028/ces-2026-best-chargers-wireless-power-bank-qi"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Minecraft_HOL25_MoM_Hero_Visual_New_Player_Welcome_Activities_DotNet_Blog_Editorial_1170x500.jpg",
-        "title": "Kick off the year with new rewards - Minecraft",
-        "description": "Whether you\u2019re new to Minecraft or you\u2019ve been digging straight down since the beginning, the entire community have officially been challenged to mine 4.25 billion stone blocks!",
-        "source_link": "https://www.minecraft.net/en-us/article/kick-off-the-year-with-new-rewards"
+        "image": "https://www.sammobile.com/wp-content/uploads/2025/05/Galaxy-S25-Ultra-design-1200x675.jpg",
+        "title": "See how Samsung almost ruined the camera experience with One UI 8.5 - SamMobile",
+        "description": "One UI 8.5, the next major iteration of Samsung's custom software, brings many improvements. However, it came close to ruining the camera experience on the Galaxy S25 Ultra. Fortunately, that didn't happen, but our new video shows just how degraded the experi\u2026",
+        "source_link": "https://www.sammobile.com/news/see-how-samsung-almost-ruined-the-camera-experience-with-one-ui-8-5/"
       }
     ],
     "trending_movies": [
@@ -104,17 +97,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "title": "Wicked: For Good",
         "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
         "source_link": "https://www.themoviedb.org/movie/967941"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "title": "The Housemaid",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
         "rank": 7,
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg",
-        "title": "Primate",
-        "description": "Home from college, Lucy reunites with family including pet chimp Ben. Ben contracts rabies during a pool party and turns aggressive. Lucy and friends ...",
-        "source_link": "https://www.themoviedb.org/movie/1315303"
+        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+        "title": "Marty Supreme",
+        "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       }
     ]
   }
