@@ -1,55 +1,76 @@
 {
-  "last_updated": "January 08, 2026, 14:21 UTC",
+  "last_updated": "January 08, 2026, 15:21 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/VRG_CES_BestOf_Sean_v01_KM.00_28_44_06.Still002.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "I played with the Lego Smart Brick - The Verge",
-        "description": "No AI \u2014 and smarter than I expected.",
-        "source_link": "https://www.theverge.com/tech/855520/i-played-with-the-lego-smart-brick"
+        "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/game-updates/MCV_SP26_Testing_1_BPS_Header_Image_1170x500.jpg",
+        "title": "The first features from our cutest drop yet - Minecraft",
+        "description": "Baby farm mobs are first to waddle into Minecraft with a whole new look. Befriend these tiny rascals, hear their sweet sounds, and craft them name tags in Java snapshot and Bedrock beta/preview!",
+        "source_link": "https://www.minecraft.net/en-us/article/first-features-minecraft-cutest-drop-yet"
       },
       {
         "rank": 2,
+        "image": "https://s.yimg.com/ny/api/res/1.2/DPLj8yWSH_Ubr_nUyEBfAg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/realtor_com_468/fe1131c87c0f0ff22cbe85bad756596a",
+        "title": "EXCLUSIVE: Hollywood Legend Jeff Bridges Lists Malibu Land for $4.4 Million\u2014After Beloved Family Home Burned in Wildfires - Yahoo",
+        "description": "Bridges' longtime Malibu home, which was passed to him by his parents, was destroyed in the California wildfires.",
+        "source_link": "https://www.yahoo.com/entertainment/celebrity/articles/exclusive-hollywood-legend-jeff-bridges-151218014.html"
+      },
+      {
+        "rank": 3,
+        "image": "https://assets-prd.ignimgs.com/2026/01/07/img-8384-1767785536749.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "LEGO Says Smart Brick Is 'Here to Stay,' and Responds to 'Questions and Concerns' Around Abandoning Non-Digital Play - IGN",
+        "description": "A day on from the official reveal of LEGO Smart Brick, the company has responded to concerns that its big announcement poses a risk to its core basis in physical play.",
+        "source_link": "https://www.ign.com/articles/lego-says-smart-brick-is-here-to-stay-and-responds-to-questions-and-concerns-around-abandoning-non-digital-play"
+      },
+      {
+        "rank": 4,
+        "image": "https://assets-prd.ignimgs.com/2026/01/07/fallout-main-1767786283140.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Locked Fallout TV Show Countdown Timer Coincides With Season 2 Finale \u2014 but Fans Are Hoping It Also Signals a Fallout 3 or New Vegas Remaster Shadowdrop - IGN",
+        "description": "There is a mysterious countdown timer on Amazon\u2019s official website for its Fallout TV series that is set to unlock when the Season 2 finale comes out \u2014 but fans think it might also signal the shadowdrop of a Fallout 3 or New Vegas remaster.",
+        "source_link": "https://www.ign.com/articles/locked-fallout-tv-show-countdown-timer-coincides-with-season-2-finale-but-fans-are-hoping-it-also-signals-a-fallout-3-or-new-vegas-remaster-shadowdrop"
+      },
+      {
+        "rank": 5,
         "image": "https://www.huntshowdown.com/files/news/1920x1080_Blog_FR.jpg",
         "title": "Introducing Flame Rifle - Hunt: Showdown",
         "description": "Hunt: Showdown is a competitive first-person PvP bounty hunting game with heavy PvE elements. Set in the darkest corners of the world, Hunt packs the thrill of survival games into a match-based format.",
         "source_link": "https://www.huntshowdown.com/detailed"
       },
       {
-        "rank": 3,
-        "image": "https://media.pitchfork.com/photos/6940855880e93c5a31e8127e/16:9/w_1280,c_limit/Babau:%20The%20Sludge%20of%20the%20Land.jpg",
-        "title": "Babau: The Sludge of the Land Album Review - Pitchfork",
-        "description": "Read H.D. Angel\u2019s review of the album.",
-        "source_link": "https://pitchfork.com/reviews/albums/babau-the-sludge-of-the-land/"
-      },
-      {
-        "rank": 4,
-        "image": "https://motorolanews.com/wp-content/uploads/2026/01/Sphere-Image_Final.png",
-        "title": "Global Blog | Motorola at Lenovo Tech World 2026 - motorolanews.com",
-        "description": "Motorola took the Lenovo Tech World 2026 stage in Las Vegas to unveil the most exciting tech yet, including a new form factor and franchise.",
-        "source_link": "https://motorolanews.com/tech-world-2026/"
-      },
-      {
-        "rank": 5,
-        "image": "https://news.lenovo.com/wp-content/uploads/2026/01/Consumer1.png",
-        "title": "Lenovo at CES 2026: Smarter AI for More Intuitive and Connected PC Experiences - Lenovo StoryHub",
-        "description": "Lenovo announced its latest consumer-focused innovations, expanding its Windows 11-based Yoga\u2122 and IdeaPad\u2122 portfolios with new AI laptops, AI desktops, and peripherals.",
-        "source_link": "https://news.lenovo.com/pressroom/press-releases/lenovo-at-ces-2026-smarter-ai-for-more-intuitive-and-connected-pc-experiences/"
-      },
-      {
         "rank": 6,
-        "image": "https://motorolanews.com/wp-content/uploads/2026/01/Header_image.jpg",
-        "title": "Global Blog | Motorola launches the first motorola signature - motorolanews.com",
-        "description": "Motorola launches the first motorola signature, the most complete and sophisticated phone ever created, reflecting a commitment to excellence.",
-        "source_link": "https://motorolanews.com/motorola-sets-a-new-standard-for-world-class-refinement-with-the-launch-of-motorola-signature/"
+        "image": "https://assets.warhammer-community.com/40k_smdetachments-jan07-1-feature-kjgmebe7ej.jpg",
+        "title": "500 Worlds: Titus \u2013 Strike fast and hold the line with new Space Marines Detachments - Warhammer Community",
+        "description": "Fill the sky with Drop Pods!",
+        "source_link": "https://www.warhammer-community.com/articles/uebtnxvg/500-worlds-titus-strike-fast-and-hold-the-line-with-new-space-marines-detachments"
       },
       {
         "rank": 7,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuRmmxBzYEGc/v2/1200x800.jpg",
-        "title": "Motorola Debuts Its First Book-Style Foldable and Wearable AI Concept - Bloomberg.com",
-        "description": "Lenovo Group Ltd.\u2018s Motorola unveiled its first folding phone that opens like a book or passport, a departure from the string of clamshell-style foldables that the brand has released over the last several years.",
-        "source_link": "https://www.bloomberg.com/news/features/2026-01-07/motorola-announces-razr-fold-in-challenge-to-samsung"
+        "image": "https://static.dezeen.com/uploads/2026/01/clicks-communicator-phone-design_dezeen_2364_hero.jpg",
+        "title": "The Clicks Communicator phone is made specifically for messaging - Dezeen",
+        "description": "UK-based company Clicks Technology has followed up its Blackberry-like keyboard accessory for smartphones with the Clicks Communicator, a phone built for messaging, launched at this week's Consumer Electronics Show.",
+        "source_link": "https://www.dezeen.com/2026/01/07/clicks-communicator-phone-made-for-messaging-technology/"
+      },
+      {
+        "rank": 8,
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4f164d87-97d1-4ced-bffa-444e33b2fec6.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+        "title": "Google\u2019s Koray Kavukcuoglu: Turning abstract AI thinking into user-friendly products - Financial Times",
+        "description": "The tech giant\u2019s chief AI architect and CTO of DeepMind discusses the Gemini 3 LLM and progress towards the goal of artificial general intelligence",
+        "source_link": "https://www.ft.com/content/3b477836-8a87-4ce3-bea1-719f28952a9a"
+      },
+      {
+        "rank": 9,
+        "image": "https://petapixel.com/assets/uploads/2026/01/The-Nikon-24-105mm-f4-7.1-Is-a-New-Kit-Zoom-to-Pair-with-the-Z5-II.jpg",
+        "title": "The Nikon 24-105mm f/4-7.1 Is a New Kit Zoom to Pair with the Z5 II - PetaPixel",
+        "description": "Nikon has announced the Nikkor Z 24-105mm f/4-7.1 zoom lens for Nikon full-frame mirrorless cameras.",
+        "source_link": "https://petapixel.com/2026/01/06/the-nikon-24-105mm-f-4-7-1-is-a-new-kit-zoom-to-pair-with-the-z5-ii/"
+      },
+      {
+        "rank": 10,
+        "image": "https://news.lenovo.com/wp-content/uploads/2026/01/B2Bhero.png",
+        "title": "Lenovo at CES 2026: Smarter AI Meets Purposeful Business Innovation - Lenovo StoryHub",
+        "description": "Delivering new Windows 11 laptop and desktop devices with enhanced user experiences, engineered for performance, adaptability, and trusted reliability",
+        "source_link": "https://news.lenovo.com/pressroom/press-releases/lenovo-at-ces-2026-smarter-ai-meets-purposeful-business-innovation/"
       }
     ],
     "trending_movies": [
@@ -118,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/j44XuLdsoSnlSuMgdKmcju4vM95.jpg",
-        "title": "28 Years Later: The Bone Temple",
-        "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with J...",
-        "source_link": "https://www.themoviedb.org/movie/1272837"
+        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+        "title": "Marty Supreme",
+        "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       }
     ]
   }
