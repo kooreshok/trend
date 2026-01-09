@@ -1,13 +1,13 @@
 {
-  "last_updated": "January 09, 2026, 08:25 UTC",
+  "last_updated": "January 09, 2026, 09:24 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://www.zdnet.com/a/img/resize/daa48423aa7ec4f739a538567253a2cb75f25149/2026/01/07/42ae16d3-ed44-4dd0-ad04-40165015e0d3/asus-rog-neocore-wi-fi-8-router-image-4.png?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Asus gave us a first look at its Wi-Fi 8 router at CES, and it's nothing we could've expected - ZDNET",
-        "description": "Asus previews the ROG NeoCore, a proof-of-concept router designed to address today's most significant network challenges.",
-        "source_link": "https://www.zdnet.com/home-and-office/asus-rog-neocore-wi-fi-8-router-ces-concept/"
+        "image": "https://cdn.mos.cms.futurecdn.net/YH6RcEfmD2otPwbRvsCejH-1080-80.jpg",
+        "title": "The Lego Smart Brick backlash, explained - Creative Bloq",
+        "description": "Is nothing safe from 'smart'?",
+        "source_link": "https://www.creativebloq.com/design/product-design/the-lego-smart-brick-backlash-explained"
       },
       {
         "rank": 2,
@@ -25,52 +25,45 @@
       },
       {
         "rank": 4,
+        "image": "https://www.cnet.com/a/img/resize/63ef03147cc4b7d26dc87990b45df7c03f397957/hub/2026/01/07/c6324ab0-d336-44b1-924f-a944a7f26aaf/lovense-ai-companion.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "Your AI Girlfriend Has a Body and Memory Now. Meet Emily, CES's Most Intimate Robot - CNET",
+        "description": "The life-size sex robot uses conversational AI and memory to create a more personalized experience.",
+        "source_link": "https://www.cnet.com/tech/services-and-software/ces-2026-emily-sex-robot-with-memory/"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.bleepstatic.com/content/hl-images/2024/12/10/hacker-box.jpg",
+        "title": "Critical jsPDF flaw lets hackers steal secrets via generated PDFs - BleepingComputer",
+        "description": "The jsPDF library for generating PDF documents in JavaScript applications is vulnerable to a critical vulnerability that allows an attacker to steal sensitive data from the local filesystem by including it in generated files.",
+        "source_link": "https://www.bleepingcomputer.com/news/security/critical-jspdf-flaw-lets-hackers-steal-secrets-via-generated-pdfs/"
+      },
+      {
+        "rank": 6,
         "image": "https://www.investopedia.com/thmb/P9AtacBl-2axvgIo0oua77XQ_C0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-22400154171-19eb2573d96647f8894478942b5721be.jpg",
         "title": "Intel Stock Is Soaring. Is the Turnaround Gamble Finally Paying Off? - Investopedia",
         "description": "Intel stock soared on Wednesday, extending a recent run-up fueled by increasing confidence in its foundry business.",
         "source_link": "https://www.investopedia.com/intel-stock-is-soaring-is-the-turnaround-gamble-finally-paying-off-11881039"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://helios-i.mashable.com/imagery/articles/04y0RgosOzh1u9KFTVm9K0I/hero-image.fill.size_1200x675.v1767812931.jpg",
         "title": "Lenovo CEO addresses AI skeptics at CES: 'Nobody can avoid it.' - Mashable",
         "description": "Mashable spoke to Yang following Lenovo's keynote CES event at The Sphere.",
         "source_link": "https://mashable.com/article/lenovo-ceo-yang-yuanqing-interview-ai-nobody-can-avoid-it"
       },
       {
-        "rank": 6,
-        "image": null,
-        "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment - Venturebeat",
-        "description": null,
-        "source_link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
-      },
-      {
-        "rank": 7,
-        "image": "https://petapixel.com/assets/uploads/2026/01/meike-85-ef-lens-featured.jpg",
-        "title": "Meike Found a Loophole for Canon\u2019s Closed RF Mount - PetaPixel",
-        "description": "An EF lens in 2026? Yes, technically, but the Meike 85mm f/1.8 II is more interesting than that.",
-        "source_link": "https://petapixel.com/2026/01/07/meike-found-a-loophole-for-canons-closed-rf-mount/"
-      },
-      {
         "rank": 8,
-        "image": "https://media.wired.com/photos/695ddf0c7ff06f235feecd52/191:100/w_1280,c_limit/AI-Lab-Illo-AI-Learning-After-Training-Business-1381521896.jpg",
-        "title": "AI Models Are Starting to Learn by Asking Themselves Questions - WIRED",
-        "description": "An AI model that learns without human input\u2014by posing interesting queries for itself\u2014might point the way to superintelligence.",
-        "source_link": "https://www.wired.com/story/ai-models-keep-learning-after-training-research/"
+        "image": "https://www.cnet.com/a/img/resize/eb9c896f39cab2b7ce7ee0f359e1519ddcc73634/hub/2025/09/18/74b3a3f6-f59c-48ea-a523-0a02c7c4d888/c-200.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "What It's Like to Slice Food With an Ultrasonic Knife That Vibrates 30,000 Times Per Second - CNET",
+        "description": "I tried a techy new knife at CES 2026. Here's my take on whether this pricey blade is worthy of the hype.",
+        "source_link": "https://www.cnet.com/home/kitchen-and-household/what-its-like-to-slice-food-with-an-ultrasonic-knife/"
       },
       {
         "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STKB324_DELL_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Dell admits consumers don\u2019t care about AI PCs - The Verge",
-        "description": "Dell is now shifting it focus this year away from being \u2018all about the AI PC.\u2019",
-        "source_link": "https://www.theverge.com/news/857723/dell-consumers-ai-pcs-comments"
-      },
-      {
-        "rank": 10,
-        "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/sl/SLCTFKAWQQ6X1766171441575.jpg",
-        "title": "Fight for All Futures with the Echoes of the Infinite Mini-Set \u2014 Hearthstone - Blizzard News",
-        "description": "New Legendary cards and time-bending mechanics set the stage for the final showdown with Murozond!",
-        "source_link": "https://news.blizzard.com/en-us/article/24245105/fight-for-all-futures-with-the-echoes-of-the-infinite-mini-set"
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/66Tw6dMGGoSZZOK6XB6gm6/0fafc7520898e26c88edf1de9e74e863/nuneybits_Vector_art_of_radiant_skull_emitting_code_beams_deep__17d19acc-0af7-41ad-ac28-16f09ef5234b.webp?w=800&q=75",
+        "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment - Venturebeat",
+        "description": "Nous Research has released NousCoder-14B, an open-source AI coding model trained in four days on Nvidia B200 GPUs, publishing its full reinforcement-learning stack as Claude Code hype underscores the accelerating race to automate software development.",
+        "source_link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
       }
     ],
     "trending_movies": [
@@ -104,45 +97,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
-        "title": "Wicked: For Good",
-        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
-        "source_link": "https://www.themoviedb.org/movie/967941"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
         "title": "Five Nights at Freddy's 2",
         "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
         "source_link": "https://www.themoviedb.org/movie/1228246"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "title": "The Housemaid",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "title": "Wicked: For Good",
+        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
+        "source_link": "https://www.themoviedb.org/movie/967941"
+      },
+      {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg",
+        "title": "People We Meet on Vacation",
+        "description": "After a decade as unlikely best friends and travel buddies, free-spirited Poppy and routine-loving Alex wonder if they might be a perfect romantic mat...",
+        "source_link": "https://www.themoviedb.org/movie/1034716"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",
         "title": "The Tank",
         "description": "A German Tiger tank crew is sent on a dangerous mission to rescue the missing officer Paul von Hardenburg from a top-secret bunker behind enemy lines....",
         "source_link": "https://www.themoviedb.org/movie/1252037"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg",
-        "title": "Primate",
-        "description": "Home from college, Lucy reunites with family including pet chimp Ben. Ben contracts rabies during a pool party and turns aggressive. Lucy and friends ...",
-        "source_link": "https://www.themoviedb.org/movie/1315303"
       }
     ]
   }
