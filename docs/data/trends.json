@@ -1,5 +1,5 @@
 {
-  "last_updated": "January 09, 2026, 15:19 UTC",
+  "last_updated": "January 09, 2026, 16:22 UTC",
   "categories": {
     "tech_news": [
       {
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg",
+        "title": "Primate",
+        "description": "Home from college, Lucy reunites with family including pet chimp Ben. Ben contracts rabies during a pool party and turns aggressive. Lucy and friends ...",
+        "source_link": "https://www.themoviedb.org/movie/1315303"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",
-        "title": "The Tank",
-        "description": "A German Tiger tank crew is sent on a dangerous mission to rescue the missing officer Paul von Hardenburg from a top-secret bunker behind enemy lines....",
-        "source_link": "https://www.themoviedb.org/movie/1252037"
-      },
-      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg",
-        "title": "Primate",
-        "description": "Home from college, Lucy reunites with family including pet chimp Ben. Ben contracts rabies during a pool party and turns aggressive. Lucy and friends ...",
-        "source_link": "https://www.themoviedb.org/movie/1315303"
+        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "title": "Wicked: For Good",
+        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
+        "source_link": "https://www.themoviedb.org/movie/967941"
       }
     ]
   }
