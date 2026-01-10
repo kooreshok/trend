@@ -1,76 +1,69 @@
 {
-  "last_updated": "January 10, 2026, 14:15 UTC",
+  "last_updated": "January 10, 2026, 15:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets.warhammer-community.com/40k_vespatorfront-jan09-1-feature-bj4fp8fjhk.jpg",
+        "title": "500 Worlds: Titus \u2013 Will you brave a deadly campaign on the war-torn Vespator Front? - Warhammer Community",
+        "description": "New rules for running large-scale narrative campaigns.",
+        "source_link": "https://www.warhammer-community.com/articles/oq2wdapz/500-worlds-titus-will-you-brave-a-deadly-campaign-on-the-war-torn-vespator-front"
+      },
+      {
+        "rank": 2,
+        "image": "https://assets-prd.ignimgs.com/2026/01/09/cd-1767965507484.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Crimson Desert's Open World Is at Least Twice as Big as Skyrim's, and Larger Than the Red Dead Redemption 2 Map - IGN",
+        "description": "Crimson Desert is an open-world action-adventure game set on the continent of Pywel. But how big is the open world, exactly? It\u2019s \u201cabsolutely massive,\u201d its developer has said, bigger even than that of Bethesda\u2019s Skyrim and Rockstar\u2019s Red Dead Redemption 2.",
+        "source_link": "https://www.ign.com/articles/crimson-deserts-open-world-is-at-least-twice-as-big-as-skyrims-and-larger-than-the-red-dead-redemption-2-map"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/wordogimage.png?quality=90&strip=all&crop=0.021666666666668,0,99.956666666667,100",
+        "title": "Microsoft is making it much easier to add hyperlinks in Word docs - The Verge",
+        "description": "It\u2019s now as easy as pasting over the text you want to hyperlink.",
+        "source_link": "https://www.theverge.com/news/859288/microsoft-word-hyperlinks-new-shortcut"
+      },
+      {
+        "rank": 4,
+        "image": "https://assetsio.gnwcdn.com/manorlords.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Manor Lords publisher Hooded Horse won't work with studios using generative AI - GamesIndustry.biz",
+        "description": "CEO Tim Bender has described the technology as \"cancerous\"",
+        "source_link": "https://www.gamesindustry.biz/manor-lords-publisher-hooded-horse-wont-work-with-studios-using-generative-ai"
+      },
+      {
+        "rank": 5,
         "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+157/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2F76%2F82463bac4bbcab7af8b243db0e36%2F1210-ai-primary-care01.jpg",
         "title": "Your next primary care doctor could be online only, accessed through an AI tool : Shots - Health News - NPR",
         "description": "The shortage of primary care doctors is a national problem. To cope, a large health system in Massachusetts is using an AI tool to screen patients and refer them to other care.",
         "source_link": "https://www.npr.org/sections/shots-health-news/2026/01/09/nx-s1-5670382/primary-care-doctor-shortage-medical-ai-diagnosis"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://sportscar365.com/wp-content/uploads/2026/01/IMG_4753.jpg",
         "title": "Subaru Reveals New Engine for GT300 Challenger - Sportscar365",
         "description": "Newly-developed six-cylinder twin-turbo engine replaces retired EJ20 as Subaru aims for first GT300 title since 2021...",
         "source_link": "https://sportscar365.com/super-gt/subaru-reveals-new-engine-for-2026-gt300-challenger/"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://www.sciencealert.com/images/2026/01/FakeFaces.jpg",
         "title": "AI Faces Fool Most of Us, But 5 Minutes of Training May Help You Spot Fakes - ScienceAlert",
         "description": "AI image generators have become remarkably proficient in a very short period, capable of creating faces that are considered to be more realistic than the real thing.",
         "source_link": "https://www.sciencealert.com/ai-faces-fool-most-of-us-but-5-minutes-of-training-may-help-you-spot-fakes"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://helios-i.mashable.com/imagery/articles/05VD5wm8snRHXDmObZCts1m/hero-image.fill.size_1200x675.v1767923046.jpg",
         "title": "CES 2026: Would you spend $9K on this OLED smart purse? - Mashable",
         "description": "Check out the handbag for the elite who want something that no one else has.",
         "source_link": "https://mashable.com/article/ces-2026-infinity-by-peuty-smart-oled-handbag"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
         "title": "Fire Emblem: Path of Radiance comes to Nintendo Classics! \u2013 News \u2013 Nintendo Official Site - Nintendo",
         "description": "Play Fire Emblem: Path of Radiance and rediscover curated Nintendo classics with a Nintendo Switch Online + Expansion Pack membership!",
         "source_link": "https://www.nintendo.com/us/whatsnew/fire-emblem-path-of-radiance-comes-to-nintendo-classics/"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.phoronix.net/image.php?id=2026&image=steam_snap_arm64_1",
-        "title": "Canonical Builds Steam Snap For Ubuntu ARM64 Leveraging FEX - Phoronix",
-        "description": "Canonical is making it easier for ARM64 Ubuntu users like those on the NVIDIA DGX Spark to do a bit of gaming with Steam",
-        "source_link": "https://www.phoronix.com/news/Steam-Snap-ARM64-FEX"
-      },
-      {
-        "rank": 7,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d475748d3b875046a2aa53fa219bf454ff9c8728-1920x1080.jpg?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center",
-        "title": "Season Start: For Demacia! Emote Twitch Drops - League of Legends",
-        "description": "All the information you need to know to start the season right with Demacia inspired Twitch drops.",
-        "source_link": "https://www.leagueoflegends.com/en-us/news/game-updates/season-start-for-demacia-emote-twitch-drops/"
-      },
-      {
-        "rank": 8,
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d2f8/live/912579e0-da95-11f0-aae2-2191c0e48a3b.jpg",
-        "title": "Excel: Workers cling to the software despite shift to AI - BBC",
-        "description": "Companies are trying to wean staff off Excel spreadsheets to centralise control of their data.",
-        "source_link": "https://www.bbc.com/news/articles/cwyxkzjpp87o"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.videocardz.com/1/2026/01/RTX-50-SUPER-CANCELED-HERO.jpg",
-        "title": "GeForce RTX 50 SUPER release reportedly put on hold - VideoCardz.com",
-        "description": "NVIDIA RTX 50 SUPER indefinitely delayed NVIDIA has reportedly briefed AIB partners about a change of plans for the GeForce RTX 50 SUPER refresh. The post",
-        "source_link": "https://videocardz.com/newz/geforce-rtx-50-super-release-reportedly-put-on-hold"
-      },
-      {
-        "rank": 10,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67155e6d2508edcb3450b4d7/0x0.jpg?format=jpg&crop=862,485,x654,y234,safe&height=900&width=1600&fit=bounds",
-        "title": "Samsung Silently Changes Android On Hundreds Of Millions Of Phones - Forbes",
-        "description": "Samsung issues update now warning for most Galaxy smartphone owners.",
-        "source_link": "https://www.forbes.com/sites/zakdoffman/2026/01/08/samsung-silently-changes-android-on-hundreds-of-millions-of-phones/"
       }
     ],
     "trending_movies": [
@@ -90,24 +83,24 @@
       },
       {
         "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "title": "Wicked: For Good",
         "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
         "source_link": "https://www.themoviedb.org/movie/967941"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
         "rank": 6,
