@@ -1,34 +1,34 @@
 {
-  "last_updated": "January 10, 2026, 01:19 UTC",
+  "last_updated": "January 10, 2026, 03:21 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://www.cnet.com/a/img/resize/ad9a98b00e30def93ad1f6879be30edcc1bf6a9f/hub/2026/01/05/ff1ab3b6-5220-4125-8747-73cc78d2cf0f/samsung-r95h.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "These Are the Most Head-Turning TVs of CES 2026 - CNET",
-        "description": "From giant micro-LED screens to ultra-slim OLEDs, these are the TVs I'm most looking forward to this year.",
-        "source_link": "https://www.cnet.com/tech/home-entertainment/these-are-the-head-turning-tvs-of-2026/"
-      },
-      {
-        "rank": 2,
         "image": "https://i.pcmag.com/imagery/articles/05swDULMnXT9S982V4Glybx-6.fit_lim.size_1200x630.v1767893416.webp",
         "title": "Intel's 'Panther Lake' Core Ultra Laptop Chips Are Ready for Prime Time: All the Details We Know So Far - PCMag",
         "description": "At CES, Intel details its launch lineup for the new Core Ultra Series 3 processors (based on its 2nm 18A architecture) that will launch this month across midrange to high-end AI PC laptops.",
         "source_link": "https://www.pcmag.com/news/intel-panther-lake-core-ultra-laptop-chips-details-ces-2026"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Samsung-Galaxy-Tab-A11-Gemini.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google Fi starts selling its first 5G tablet - 9to5Google",
         "description": "Following phones and watches, the Google Fi store is getting its first tablet with the Samsung Galaxy Tab A11+ 5G....",
         "source_link": "http://9to5google.com/2026/01/08/google-fi-store-tablet/"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/01/364821_Secondary_Key-Art_Horizontal_9600x5400_RGB-copy-96baae0a2ad1655e4f5a.jpg",
         "title": "Towerborne Launches February 26 with Massive Full Game Update - Xbox Wire",
         "description": null,
         "source_link": "https://news.xbox.com/en-us/2026/01/08/towerborne-launches-february-26-with-massive-full-game-update/"
+      },
+      {
+        "rank": 4,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/01/samsung-galaxy-s26-ultra-charging-test-ice-universe/-952x498w6/gsmarena_000.jpg",
+        "title": "Leaked test results from Galaxy S26 Ultra's new 60W charging fail to impress - GSMArena.com news - GSMArena.com",
+        "description": "The outgoing S25 Ultra only supports 45W wired charging - 60W is the first upgrade on Samsung phones in a while. Internal testing has shown that Samsung...",
+        "source_link": "https://www.gsmarena.com/leak_galaxy_s26_ultras_new_60w_charging_was_tested_results_fail_to_impress-news-71021.php"
       },
       {
         "rank": 5,
@@ -46,24 +46,17 @@
       },
       {
         "rank": 7,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4632624-thewitcher3wildhunt.jpg",
-        "title": "Why Some Believe A Witcher 3 Expansion Is Coming Soon - GameSpot",
-        "description": "There may be some incentive for CD Projekt Red to release more Witcher content before The Witcher 4.",
-        "source_link": "https://www.gamespot.com/articles/why-some-believe-a-witcher-3-expansion-is-coming-soon/1100-6537282/"
-      },
-      {
-        "rank": 8,
         "image": "https://imageio.forbes.com/specials-images/imageserve/695d93b89d51c957214caa7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "Apple Releases Surprise iPhone Software Update For Millions Of Users - Forbes",
         "description": "There\u2019s a new test update for the iPhone which nobody saw coming.",
         "source_link": "https://www.forbes.com/sites/davidphelan/2026/01/08/apple-releases-surprise-iphone-software-update-for-millions-of-users/"
       },
       {
-        "rank": 9,
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8148e445-c12e-4b70-85a4-ef79ddaaa13b.jpg?source=next-barrier-page",
-        "title": "The future of PCs in the age of AI - Financial Times",
-        "description": "Processing of the technology is starting to migrate from data centres to \u2018the edge\u2019 \u2014\u00a0devices like personal computers",
-        "source_link": "https://www.ft.com/content/8e025895-cd24-4c99-a901-3161959fa041"
+        "rank": 8,
+        "image": "https://www.cnet.com/a/img/resize/17ba57dec4d09a41993a7ef6cff6057c8107ade9/hub/2026/01/08/69e2bfb1-1fa6-4d92-b447-07ef71a0f3b9/lg-g6.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "LG's G6 OLED TV Offers Even Higher Brightness and Is Better in Lit Rooms - CNET",
+        "description": "The LG G6 is 20% brighter than the older model and now delivers an enhanced, anti-reflective coating.",
+        "source_link": "https://www.cnet.com/tech/home-entertainment/lgs-g6-oled-tv/"
       }
     ],
     "trending_movies": [
@@ -118,10 +111,10 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg",
-        "title": "The Rajasaab",
-        "description": "A young heir embraces both his royal heritage and rebellious spirit as he rises to power, establishing unprecedented rules during his reign as Raja Sa...",
-        "source_link": "https://www.themoviedb.org/movie/1022453"
+        "image": "https://image.tmdb.org/t/p/w200/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg",
+        "title": "Primate",
+        "description": "Home from college, Lucy reunites with family including pet chimp Ben. Ben contracts rabies during a pool party and turns aggressive. Lucy and friends ...",
+        "source_link": "https://www.themoviedb.org/movie/1315303"
       },
       {
         "rank": 9,
@@ -132,10 +125,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
-        "title": "Five Nights at Freddy's 2",
-        "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
-        "source_link": "https://www.themoviedb.org/movie/1228246"
+        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+        "title": "Marty Supreme",
+        "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       }
     ]
   }
