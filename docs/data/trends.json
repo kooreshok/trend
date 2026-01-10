@@ -1,62 +1,69 @@
 {
-  "last_updated": "January 10, 2026, 06:25 UTC",
+  "last_updated": "January 10, 2026, 07:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.sciencealert.com/images/2026/01/FakeFaces.jpg",
+        "title": "AI Faces Fool Most of Us, But 5 Minutes of Training May Help You Spot Fakes - ScienceAlert",
+        "description": "AI image generators have become remarkably proficient in a very short period, capable of creating faces that are considered to be more realistic than the real thing.",
+        "source_link": "https://www.sciencealert.com/ai-faces-fool-most-of-us-but-5-minutes-of-training-may-help-you-spot-fakes"
+      },
+      {
+        "rank": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d475748d3b875046a2aa53fa219bf454ff9c8728-1920x1080.jpg?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center",
+        "title": "Season Start: For Demacia! Emote Twitch Drops - League of Legends",
+        "description": "All the information you need to know to start the season right with Demacia inspired Twitch drops.",
+        "source_link": "https://www.leagueoflegends.com/en-us/news/game-updates/season-start-for-demacia-emote-twitch-drops/"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.cnet.com/a/img/resize/ad9a98b00e30def93ad1f6879be30edcc1bf6a9f/hub/2026/01/05/ff1ab3b6-5220-4125-8747-73cc78d2cf0f/samsung-r95h.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "These Are the Most Head-Turning TVs of CES 2026 - CNET",
+        "description": "From giant micro-LED screens to ultra-slim OLEDs, these are the TVs I'm most looking forward to this year.",
+        "source_link": "https://www.cnet.com/tech/home-entertainment/these-are-the-head-turning-tvs-of-2026/"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/New-Screenshot-13-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "Xbox\u2019s Towerborne is switching from a free-to-play game to a paid one - The Verge",
+        "description": "Towerborne, from Stoic and Xbox Game Studios, is launching on February 26th as a paid game that you can play offline instead of a free-to-play online experience.",
+        "source_link": "https://www.theverge.com/news/859176/towerborne-launch-release-date-paid-offline"
+      },
+      {
+        "rank": 5,
         "image": "https://i.pcmag.com/imagery/articles/05swDULMnXT9S982V4Glybx-6.fit_lim.size_1200x630.v1767893416.webp",
         "title": "Intel's 'Panther Lake' Core Ultra Laptop Chips Are Ready for Prime Time: All the Details We Know So Far - PCMag",
         "description": "At CES, Intel details its launch lineup for the new Core Ultra Series 3 processors (based on its 2nm 18A architecture) that will launch this month across midrange to high-end AI PC laptops.",
         "source_link": "https://www.pcmag.com/news/intel-panther-lake-core-ultra-laptop-chips-details-ces-2026"
       },
       {
-        "rank": 2,
+        "rank": 6,
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d2f8/live/912579e0-da95-11f0-aae2-2191c0e48a3b.jpg",
+        "title": "Excel: Workers cling to the software despite shift to AI - BBC",
+        "description": "Companies are trying to wean staff off Excel spreadsheets to centralise control of their data.",
+        "source_link": "https://www.bbc.com/news/articles/cwyxkzjpp87o"
+      },
+      {
+        "rank": 7,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Samsung-Galaxy-Tab-A11-Gemini.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google Fi starts selling its first 5G tablet - 9to5Google",
         "description": "Following phones and watches, the Google Fi store is getting its first tablet with the Samsung Galaxy Tab A11+ 5G....",
         "source_link": "http://9to5google.com/2026/01/08/google-fi-store-tablet/"
       },
       {
-        "rank": 3,
-        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/01/364821_Secondary_Key-Art_Horizontal_9600x5400_RGB-copy-96baae0a2ad1655e4f5a.jpg",
-        "title": "Towerborne Launches February 26 with Massive Full Game Update - Xbox Wire",
-        "description": null,
-        "source_link": "https://news.xbox.com/en-us/2026/01/08/towerborne-launches-february-26-with-massive-full-game-update/"
+        "rank": 8,
+        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/07/Dungeon-Crawl-Classics-reference-booklet-cover-art.jpg?w=1600&h=900&fit=crop",
+        "title": "After 8 years of playing D&D nonstop, I've finally tried its biggest alternative - Polygon",
+        "description": "After playing exclusively DnD 5e, this is what I learned from trying Dungeon Crawl Classics.",
+        "source_link": "https://www.polygon.com/dnd-alternative-dungeon-crawl-classics/"
       },
       {
-        "rank": 4,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/01/samsung-galaxy-s26-ultra-charging-test-ice-universe/-952x498w6/gsmarena_000.jpg",
-        "title": "Leaked test results from Galaxy S26 Ultra's new 60W charging fail to impress - GSMArena.com news - GSMArena.com",
-        "description": "The outgoing S25 Ultra only supports 45W wired charging - 60W is the first upgrade on Samsung phones in a while. Internal testing has shown that Samsung...",
-        "source_link": "https://www.gsmarena.com/leak_galaxy_s26_ultras_new_60w_charging_was_tested_results_fail_to_impress-news-71021.php"
-      },
-      {
-        "rank": 5,
+        "rank": 9,
         "image": "https://www.cnet.com/a/img/resize/f7cc45ca50fbf1aa62441484e9e92838409fcb44/hub/2026/01/06/0b6dc08b-633a-466c-a612-5792e3a19be1/deals-promo-image-edits.png?auto=webp&fit=crop&height=675&width=1200",
         "title": "18 Products from CES 2026 You Can Order Right Now - CNET",
         "description": "Intrigued by the innovative devices unveiled at CES? We\u2019ve gathered what you can buy or preorder right now.",
         "source_link": "https://www.cnet.com/deals/ces-2026-products-you-can-buy-now/"
-      },
-      {
-        "rank": 6,
-        "image": "https://media.wired.com/photos/695de0447ff06f235feecd54/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Meta-Amazon-Racing-to-Build-AI-Powered-Operating-Systems-Business.jpg",
-        "title": "AI Devices Are Coming. Will Your Favorite Apps Be Along for the Ride? - WIRED",
-        "description": "Tech companies are calling AI the next platform. But some developers are reluctant to let AI agents stand between them and their users.",
-        "source_link": "https://www.wired.com/story/openai-amazon-operating-system-ai-apps-ads/"
-      },
-      {
-        "rank": 7,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/695d93b89d51c957214caa7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "Apple Releases Surprise iPhone Software Update For Millions Of Users - Forbes",
-        "description": "There\u2019s a new test update for the iPhone which nobody saw coming.",
-        "source_link": "https://www.forbes.com/sites/davidphelan/2026/01/08/apple-releases-surprise-iphone-software-update-for-millions-of-users/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.cnet.com/a/img/resize/17ba57dec4d09a41993a7ef6cff6057c8107ade9/hub/2026/01/08/69e2bfb1-1fa6-4d92-b447-07ef71a0f3b9/lg-g6.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "LG's G6 OLED TV Offers Even Higher Brightness and Is Better in Lit Rooms - CNET",
-        "description": "The LG G6 is 20% brighter than the older model and now delivers an enhanced, anti-reflective coating.",
-        "source_link": "https://www.cnet.com/tech/home-entertainment/lgs-g6-oled-tv/"
       }
     ],
     "trending_movies": [
@@ -104,24 +111,24 @@
       },
       {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg",
+        "title": "The Rajasaab",
+        "description": "A young heir embraces both his royal heritage and rebellious spirit as he rises to power, establishing unprecedented rules during his reign as Raja Sa...",
+        "source_link": "https://www.themoviedb.org/movie/1022453"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg",
-        "title": "Primate",
-        "description": "Home from college, Lucy reunites with family including pet chimp Ben. Ben contracts rabies during a pool party and turns aggressive. Lucy and friends ...",
-        "source_link": "https://www.themoviedb.org/movie/1315303"
-      },
-      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",
-        "title": "The Tank",
-        "description": "A German Tiger tank crew is sent on a dangerous mission to rescue the missing officer Paul von Hardenburg from a top-secret bunker behind enemy lines....",
-        "source_link": "https://www.themoviedb.org/movie/1252037"
+        "image": "https://image.tmdb.org/t/p/w200/5Q1zdYe9PYEXMGELzjfjyx8Eb7H.jpg",
+        "title": "Primate",
+        "description": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However,...",
+        "source_link": "https://www.themoviedb.org/movie/1315303"
       },
       {
         "rank": 10,
