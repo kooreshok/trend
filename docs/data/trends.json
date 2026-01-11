@@ -1,76 +1,76 @@
 {
-  "last_updated": "January 11, 2026, 20:18 UTC",
+  "last_updated": "January 11, 2026, 21:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-messages-logo-circle-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "What new Google Messages features are rolling out [January 2026] - 9to5Google",
+        "description": "Like other Google apps, Messages for Android A/B tests many features. It can take the RCS/SMS client a rather long...",
+        "source_link": "http://9to5google.com/2026/01/10/new-google-messages-features/"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/CES2026_Keychron_Nape_Pro_trackball_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "I\u2019ve never used a trackball, but Keychron\u2019s Nape Pro looks like the perfect one - The Verge",
+        "description": "This compact trackball seems very versatile.",
+        "source_link": "https://www.theverge.com/tech/860178/ive-never-used-a-trackball-but-keychrons-nape-pro-looks-like-the-perfect-one"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/LinuxDiaryBliss.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "I replaced Windows with Linux and everything\u2019s going great - The Verge",
+        "description": "I\u2019ve spent half a week with CachyOS and I\u2019m unstoppable.",
+        "source_link": "https://www.theverge.com/tech/858910/linux-diary-gaming-desktop"
+      },
+      {
+        "rank": 4,
         "image": "https://imageio.forbes.com/specials-images/imageserve/695ee94c68c0219433019f27/0x0.jpg?format=jpg&crop=2819,1587,x1462,y186,safe&height=900&width=1600&fit=bounds",
         "title": "Samsung Confirms New Options For Android Users After Gmail Issues - Forbes",
         "description": "Decision time for Android users as Google\u2019s AI completely takes over your smartphone.",
         "source_link": "https://www.forbes.com/sites/zakdoffman/2026/01/10/samsung-confirms-new-options-for-android-users-after-gmail-issues/"
       },
       {
-        "rank": 2,
+        "rank": 5,
+        "image": "https://www.cnet.com/a/img/resize/14a83412cdec8e29fa51e8d1da2e32f912ea246e/hub/2026/01/08/9708ae59-81cf-419a-b9d7-3fac8fa9746d/ikea-smart-lamp-and-devices-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "Would You Let Ikea Take Over Your Smart Home in 2026? After CES, I Would - CNET",
+        "description": "Ikea's 2026 leap into the smart home world is full of promise. Very affordable promise.",
+        "source_link": "https://www.cnet.com/home/smart-home/ikea-smart-home-devices-2026-ces/"
+      },
+      {
+        "rank": 6,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/Immich-App-Gallery.jpg",
+        "title": "I (finally) ditched Google Photos for self-hosted; here's how it went - Android Authority",
+        "description": "Can you really self-host a viable Google Photos alternative? I gave Immich a go on my NAS and I don't think I'll ever go back.",
+        "source_link": "https://www.androidauthority.com/google-photos-vs-immich-3628122/"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.phoronix.net/image.php?id=2026&image=rust_helper",
+        "title": "Linux 7.0 Readying Improvement For Rust + LTO Kernel Builds - Phoronix",
+        "description": "Alice Ryhl of Google has been working on an improvement to the Linux kernel code for inlining C helpers into Rust when making use of a Link-Time Optimized (LTO) kernel build",
+        "source_link": "https://www.phoronix.com/news/Linux-Rust-LTO-Inline-Coming"
+      },
+      {
+        "rank": 8,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6645bf2f5153e46c85df85cb/0x0.jpg?format=jpg&crop=1583,890,x71,y124,safe&height=900&width=1600&fit=bounds",
+        "title": "Samsung Warns All Galaxy Users\u2014Do Not Use These Networks - Forbes",
+        "description": "You have been warned \u2014 these connections are a major threat on your smartphone.",
+        "source_link": "https://www.forbes.com/sites/zakdoffman/2026/01/10/samsung-warns-all-galaxy-users-do-not-use-these-networks/"
+      },
+      {
+        "rank": 9,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2024/12/Android-Switch-in-process-on-Pixel.jpg",
+        "title": "As an Android fan, there\u2019s only one iOS feature I want Google to copy - Android Authority",
+        "description": "Android's phone migration process still remains a headache in 2026, while Apple has practically all of it figured out. Google, please fix!",
+        "source_link": "https://www.androidauthority.com/android-migration-ios-copy-3616436/"
+      },
+      {
+        "rank": 10,
         "image": "https://m-cdn.phonearena.com/images/article/177214-wide-two_1200/Samsungs-Galaxy-S26-series-release-date-may-have-just-been-etched-in-stone.jpg",
         "title": "Samsung's Galaxy S26 series release date may have just been etched in stone - PhoneArena",
         "description": "It's a little later than we all expected a while ago, but mostly in line with the most recent speculation.",
         "source_link": "https://www.phonearena.com/news/samsung-galaxy-s26-series-release-date-rumored-almost-guaranteed_id177214"
-      },
-      {
-        "rank": 3,
-        "image": "https://i.insider.com/695ec58964858d02d217f172?width=1200&format=jpeg",
-        "title": "5 ground-breaking (and strange) products you could soon buy from the 2026 Consumer Electronics Show - Business Insider",
-        "description": "From a lollipop that lets you taste sound to a Tamagotchi style AI pet that physically grows, here are the coolest tech you could get your hands on.",
-        "source_link": "https://www.businessinsider.com/ground-breaking-and-quirky-products-from-the-2026-ces-2026-1"
-      },
-      {
-        "rank": 4,
-        "image": "https://i.insider.com/69615c0664858d02d218182e?width=905&format=jpeg",
-        "title": "Bricking your phone is the new Dry January - Business Insider",
-        "description": "Americans are drinking less, making Dry January old-fashioned. Brick, a device that lets you block apps on your phone, is the hot new digital detox.",
-        "source_link": "https://www.businessinsider.com/bricking-your-phone-analog-movement-the-new-dry-january-2026-1"
-      },
-      {
-        "rank": 5,
-        "image": "https://wtop.com/wp-content/uploads/2026/01/roborock-vacuum-e1767965681612.jpg",
-        "title": "Roborock introduces world\u2019s first automated vacuum that actually cleans as it climbs - WTOP",
-        "description": "Chinese company Roborock offered a sneak peek at CES 2026 of an autonomous vacuum cleaner that doesn\u2019t just avoid stairs, but actively climbs and cleans them.",
-        "source_link": "https://wtop.com/tech/2026/01/roborock-introduces-worlds-first-automated-vacuum-that-actually-cleans-as-it-climbs/"
-      },
-      {
-        "rank": 6,
-        "image": "https://i.insider.com/695fa5dd04eda4732f2eb200?width=1200&format=jpeg",
-        "title": "AI isn't making us smarter \u2014 it's training us to think backward, an innovation theorist says - Business Insider",
-        "description": "Innovation theorist John Nosta said AI's polished responses can erode human reasoning at work by creating confidence without understanding.",
-        "source_link": "https://www.businessinsider.com/ai-human-intelligence-impact-at-work-2026-1"
-      },
-      {
-        "rank": 7,
-        "image": "https://helios-i.mashable.com/imagery/articles/02MFKkhfSCKdjssDiR5K3wr/hero-image.fill.size_1200x675.v1767992571.jpg",
-        "title": "CES 2026: Capture video with the AI-tracking, subscription-free XbotGo Falcon - Mashable",
-        "description": "This thing is going to be really popular with parents or anyone looking to record their kids' sports games.",
-        "source_link": "https://mashable.com/article/ces-2026-xbotgo-falcon-ai-sports-tracking-camera-without-a-subscription"
-      },
-      {
-        "rank": 8,
-        "image": "https://helios-i.mashable.com/imagery/articles/07t6ihv1AbNxU2VZpldHwle/hero-image.fill.size_1200x675.v1767821389.jpg",
-        "title": "Today's Hurdle hints and answers for January 10, 2026 - Mashable",
-        "description": "Everything you need to win.",
-        "source_link": "https://mashable.com/article/hurdle-hints-answers-january-10-2026"
-      },
-      {
-        "rank": 9,
-        "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/cotdagain.jpg",
-        "title": "I Heard You Like COTD, So I Put A COTD In Your COTD - The Autopian",
-        "description": "Something I love about this community is that our commenters either add context to a story or bring jokes. And sometimes you get both! This week, we had tons of jokes, and amusingly, a ton of them were for the last Comment Of The Day. Yesterday\u2019s COTD feature\u2026",
-        "source_link": "https://www.theautopian.com/i-heard-you-like-cotd-so-we-put-a-cotd-within-your-cotd/"
-      },
-      {
-        "rank": 10,
-        "image": "https://helios-i.mashable.com/imagery/articles/00ag9ibWEMnJTd3X4Fa3V6g/hero-image.fill.size_1200x675.v1767972088.png",
-        "title": "MTG Innistrad Remastered deal: 28% off at Amazon - Mashable",
-        "description": "Snag 36 packs of gothic horror reprints for $70 off the list price.",
-        "source_link": "https://mashable.com/article/jan-9-magic-the-gathering-deal"
       }
     ],
     "trending_movies": [
@@ -90,17 +90,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
         "rank": 5,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "title": "Wicked: For Good",
         "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
         "source_link": "https://www.themoviedb.org/movie/967941"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
       }
     ]
   }
