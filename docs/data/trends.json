@@ -1,76 +1,76 @@
 {
-  "last_updated": "January 11, 2026, 14:15 UTC",
+  "last_updated": "January 11, 2026, 15:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/Immich-App-Gallery.jpg",
+        "title": "I (finally) ditched Google Photos for self-hosted; here's how it went - Android Authority",
+        "description": "Can you really self-host a viable Google Photos alternative? I gave Immich a go on my NAS and I don't think I'll ever go back.",
+        "source_link": "https://www.androidauthority.com/google-photos-vs-immich-3628122/"
+      },
+      {
+        "rank": 2,
+        "image": "https://i.insider.com/695ec58964858d02d217f172?width=1200&format=jpeg",
+        "title": "5 ground-breaking (and strange) products you could soon buy from the 2026 Consumer Electronics Show - Business Insider",
+        "description": "From a lollipop that lets you taste sound to a Tamagotchi style AI pet that physically grows, here are the coolest tech you could get your hands on.",
+        "source_link": "https://www.businessinsider.com/ground-breaking-and-quirky-products-from-the-2026-ces-2026-1"
+      },
+      {
+        "rank": 3,
+        "image": "https://wtop.com/wp-content/uploads/2026/01/roborock-vacuum-e1767965681612.jpg",
+        "title": "Roborock introduces world\u2019s first automated vacuum that actually cleans as it climbs - WTOP",
+        "description": "Chinese company Roborock offered a sneak peek at CES 2026 of an autonomous vacuum cleaner that doesn\u2019t just avoid stairs, but actively climbs and cleans them.",
+        "source_link": "https://wtop.com/tech/2026/01/roborock-introduces-worlds-first-automated-vacuum-that-actually-cleans-as-it-climbs/"
+      },
+      {
+        "rank": 4,
         "image": "https://helios-i.mashable.com/imagery/articles/07t6ihv1AbNxU2VZpldHwle/hero-image.fill.size_1200x675.v1767821389.jpg",
         "title": "Today's Hurdle hints and answers for January 10, 2026 - Mashable",
         "description": "Everything you need to win.",
         "source_link": "https://mashable.com/article/hurdle-hints-answers-january-10-2026"
       },
       {
-        "rank": 2,
-        "image": null,
-        "title": "Microsoft issues important warning for Windows 11 Insiders - Neowin",
-        "description": null,
-        "source_link": "https://www.neowin.net/news/microsoft-issues-important-warning-for-windows-11-insiders/"
+        "rank": 5,
+        "image": "https://helios-i.mashable.com/imagery/articles/00ag9ibWEMnJTd3X4Fa3V6g/hero-image.fill.size_1200x675.v1767972088.png",
+        "title": "MTG Innistrad Remastered deal: 28% off at Amazon - Mashable",
+        "description": "Snag 36 packs of gothic horror reprints for $70 off the list price.",
+        "source_link": "https://mashable.com/article/jan-9-magic-the-gathering-deal"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-maps-logo-circle-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google Maps finally redesigns settings on Android - 9to5Google",
         "description": "Of all the first-party apps, Google Maps probably offered the worst settings experience, but a redesign is finally cleaning things up.",
         "source_link": "http://9to5google.com/2026/01/09/google-maps-settings-redesign/"
       },
       {
-        "rank": 4,
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/S26-series-release-date72.jpg",
-        "title": "Samsung Galaxy S26 series will reportedly launch on March 11 - Notebookcheck",
-        "description": "Samsung is reportedly set to unveil the Galaxy S26 series at the Unpacked event on February 25, 2026, with devices launching in March. The lineup is expected to include the S26, S26+, and S26 Ultra.",
-        "source_link": "https://www.notebookcheck.net/Samsung-Galaxy-S26-series-will-reportedly-launch-on-March-11.1200746.0.html"
+        "rank": 7,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/atitan-auracast-transceiver-ces.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Soon you can easily add Bluetooth Auracast to iPhones - The Verge",
+        "description": "Apple has been silent on Bluetooth Auracast implementation, but with this transceiver coming from Atitan, you\u2019ll be able to add it on your own.",
+        "source_link": "https://www.theverge.com/tech/860010/atitan-bluetooth-auracast-transceiver-ces-2026"
       },
       {
-        "rank": 5,
+        "rank": 8,
         "image": "https://nofilmschool.com/media-library/image.jpg?id=62681654&width=1200&height=600&coordinates=0%2C165%2C0%2C165",
         "title": "One Simple Way to Get Better at Cinematography - No Film School",
         "description": "And resources to make it happen.",
         "source_link": "https://nofilmschool.com/simple-way-get-better-cinematography"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://cdn.mos.cms.futurecdn.net/EWEFvfXcTi2HKWLY5zAAck-2560-80.jpg",
         "title": "Steam Machine pricing may have just leaked by retailer \u2014 and it's not cheap - Tom's Guide",
         "description": "If true, the Machine will not be friendly to your wallet.",
         "source_link": "https://www.tomsguide.com/gaming/steam-machine-pricing-may-have-just-leaked-by-retailer-and-its-not-cheap"
       },
       {
-        "rank": 7,
-        "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/AA_Best_Looking_Race_Car.jpg",
-        "title": "What Are The Best And/Or Worst-Looking Race Cars? - The Autopian",
-        "description": "I tend to think all race cars look pretty cool, even the \u201cugly\u201d ones. There\u2019s something about being purpose-built to do one thing \u2013 run a quarter mile, circle an oval, set a land-speed record, climb a hill, cross a desert \u2013 that transcends what mere styling c\u2026",
-        "source_link": "https://www.theautopian.com/what-are-the-best-and-or-worst-looking-race-cars/"
-      },
-      {
-        "rank": 8,
+        "rank": 10,
         "image": "https://petapixel.com/assets/uploads/2026/01/leica-g9-ii-diy-build-11.jpg",
         "title": "Photographer Transformed a Panasonic Lumix G9 II Into a Leica Look-Alike - PetaPixel",
         "description": "This custom Panasonic Lumix G9 II now looks like a Leica.",
         "source_link": "https://petapixel.com/2026/01/09/photographer-transformed-a-panasonic-lumix-g9-ii-into-a-leica-look-alike/"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
-        "title": "Google: Don\u2019t make \u201cbite-sized\u201d content for LLMs if you care about search rank - Ars Technica",
-        "description": "Google says creating for people rather than robots is the best long-term strategy.",
-        "source_link": "https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/"
-      },
-      {
-        "rank": 10,
-        "image": "https://ep1.pinkbike.org/p4pb29051233/p4pb29051233.jpg",
-        "title": "A Bosch vs. Avinox Final Challenge & Our Field Test E-Bike Rankings - Pinkbike",
-        "description": "Stephane and Dario are blindfolded and dropped far from home, left with only their e-bikes to find their way back before crowning a champion.",
-        "source_link": "https://www.pinkbike.com/news/bosch-vs-avinox-final-challenge-e-bike-field-test.html"
       }
     ],
     "trending_movies": [
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
         "title": "Five Nights at Freddy's 2",
         "description": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local lege...",
         "source_link": "https://www.themoviedb.org/movie/1228246"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
       }
     ]
   }
