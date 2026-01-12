@@ -1,76 +1,76 @@
 {
-  "last_updated": "January 12, 2026, 22:15 UTC",
+  "last_updated": "January 12, 2026, 23:13 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6947c7600a7c619d4488927e/0x0.jpg?format=jpg&crop=1846,1038,x816,y212,safe&height=900&width=1600&fit=bounds",
+        "title": "Apple Confirms iPhone Attacks\u2014No Fix For Most Users - Forbes",
+        "description": "Hundreds of millions of iPhones now at risk from new attacks. Users must upgrade now.",
+        "source_link": "https://www.forbes.com/sites/zakdoffman/2026/01/11/apple-confirms-iphone-attacks-no-fix-for-most-users/"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Google-app-icon-size-tweak-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Yes, the Google app icon is now bigger on Android [U] - 9to5Google",
+        "description": "The year in Google updates is well underway today with beta version 17.0 of the Google app on Android increasing the size of the app icon.",
+        "source_link": "http://9to5google.com/2026/01/11/google-app-icon-size-tweak/"
+      },
+      {
+        "rank": 3,
         "image": "https://assetsio.gnwcdn.com/Mario-gives-the-peace-sign-in-Super-Mario-64.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Awesome Games Done Quick 2026 closes with \u00a31.8m raised for Prevent Cancer Foundation and a 70-player relay in Super Mario 64 Replay - Eurogamer",
         "description": "Awesome Games Done Quick 2026 has raised $2.44 million (\u00a31.8m) for its latest cause, Prevent Cancer Foundation.",
         "source_link": "https://www.eurogamer.net/awesome-games-done-quick-2026-closes-with-18m-raised-for-prevent-cancer-foundation-and-a-70-player-relay-in-super-mario-64-replay"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "image": "https://assets.warhammer-community.com/sundaypreview-jan11-1-feature-t3cgcdg66a.jpg",
+        "title": "Sunday Preview \u2013 Angron Transfigured stares down the new Skitarii - Warhammer Community",
+        "description": "What\u2019s coming up next week?",
+        "source_link": "https://www.warhammer-community.com/articles/dcuclxww/sunday-preview-angron-transfigured-stares-down-the-new-skitarii"
+      },
+      {
+        "rank": 5,
         "image": "https://www.uploadvr.com/content/images/size/w1200/2026/01/oculus-touch-and-meta-bands.jpg",
         "title": "VR Game Developers Shocked By Shifting Platform Prioritization - UploadVR",
         "description": "VR game developers face a new era in immersive hardware.",
         "source_link": "https://www.uploadvr.com/vr-game-developers-shock-2026/"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://assetsio.gnwcdn.com/2076177-3356774701.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Former Assassin's Creed director says the future of game design \"lies in smaller teams\" - Eurogamer",
         "description": "Former Assassin's Creed director Alexandre Amancio has shared his thoughts about AAA development, suggesting we need \"s\u2026",
         "source_link": "https://www.eurogamer.net/former-assassins-creed-director-says-the-future-of-game-design-lies-in-smaller-teams"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Even-Realities-G2-CES-2026-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Smart glasses are better than ever, but the promise of Android XR is too close to ignore - 9to5Google",
         "description": "Smart glasses have been the tech dream we\u2019ve been chasing for years now, and the technology is finally getting there....",
         "source_link": "http://9to5google.com/2026/01/11/smart-glasses-ces-2026-android-xr/"
       },
       {
-        "rank": 5,
+        "rank": 8,
         "image": "https://cdn.videocardz.com/1/2026/01/Noctua-Seasonic-Prime-PX-HPD-Noctua-Edition-2.jpg",
         "title": "Noctua delays Pulsar mouse and PRIME PX PSU launch - VideoCardz.com",
         "description": "Noctua roadmap update delays Pulsar Feinman mouse and NF-A12x25 G2 chromax.black fan, pushes desk fan and PRIME PX PSU to Q3 Noctua has published a new",
         "source_link": "https://videocardz.com/newz/noctua-delays-pulsar-mouse-and-prime-px-psu-launch"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23954510/acastro_STK459_12.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Google\u2019s AI Inbox could be a glimpse of Gmail\u2019s future - The Verge",
         "description": "We\u2019ve tried Google\u2019s AI Inbox, and while it has some promise, if you have a good email management system already, it may not change that.",
         "source_link": "https://www.theverge.com/tech/859864/google-gmail-ai-inbox-hands-on"
       },
       {
-        "rank": 7,
-        "image": "https://www.techpowerup.com/img/07vrxSyMDv5qMATB.jpg",
-        "title": "Power Supplies and CPU Coolers are Next For Price Hikes, 6-10% Increase Expected - TechPowerUp",
-        "description": "With the cycle of DRAM and GPUs becoming more expensive just beginning, it seems the next step in the price increase trend is the most basic PC building parts like power supplies and CPU coolers. According to Guangzhou Xinhongzheng Electronic Technology Co., \u2026",
-        "source_link": "https://www.techpowerup.com/345062/power-supplies-and-cpu-coolers-are-next-for-price-hikes-6-10-increase-expected"
-      },
-      {
-        "rank": 8,
+        "rank": 10,
         "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Zenbook-S16_UM5606GA_Scenario-photo_0146.jpg",
         "title": "Asus geo-restricts top-end Core Ultra X Zenbook S14 and certain Zenbook S16 SKUs - Notebookcheck",
         "description": "Asus launched refreshed versions of the Zenbook S14 and Zenbook S16 at CES 2026. However, it looks like not all SKUs will be across all regions. The Core Ultra X7 and Core Ultra X9 versions of the Zenbook S14 seem to be limited to the US and Europe, while Ryz\u2026",
         "source_link": "https://www.notebookcheck.net/Asus-geo-restricts-top-end-Core-Ultra-X-Zenbook-S14-and-certain-Zenbook-S16-SKUs.1200484.0.html"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MTkzMDk3NTU2NTMwNTcwNDYx/venetian-las-vegas-2-lead-js-101722.jpg",
-        "title": "Beloved party band adds dates in Las Vegas - thestreet.com",
-        "description": "A fan favorite band returns to the Las Vegas Strip Spring 2026",
-        "source_link": "https://www.thestreet.com/travel/b52s-las-vegas-residency"
-      },
-      {
-        "rank": 10,
-        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-01/09/17/thumb/8ssF7mbI1.jpg?crop=2500:1309;0,15%26downsize=1250:*",
-        "title": "20 More People Who Are Having A Way, Way, Way, Way, Way, Way, Way, Way, Way, Way, Way Worse Start To 2026 Than You - BuzzFeed",
-        "description": "That's not great at all.",
-        "source_link": "https://www.buzzfeed.com/daves4/tough-week-january-11-2026"
       }
     ],
     "trending_movies": [
@@ -97,52 +97,52 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg",
-        "title": "People We Meet on Vacation",
-        "description": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match....",
-        "source_link": "https://www.themoviedb.org/movie/1034716"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
         "title": "Predator: Badlands",
         "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
         "source_link": "https://www.themoviedb.org/movie/1242898"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg",
+        "title": "People We Meet on Vacation",
+        "description": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match....",
+        "source_link": "https://www.themoviedb.org/movie/1034716"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
-        "title": "Marty Supreme",
-        "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+        "title": "Marty Supreme",
+        "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
+        "image": "https://image.tmdb.org/t/p/w200/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+        "title": "Greenland 2: Migration",
+        "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a...",
+        "source_link": "https://www.themoviedb.org/movie/840464"
       }
     ]
   }
