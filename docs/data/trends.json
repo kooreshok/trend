@@ -1,76 +1,76 @@
 {
-  "last_updated": "January 12, 2026, 16:23 UTC",
+  "last_updated": "January 12, 2026, 17:20 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02277_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "title": "I went looking for weird phones and CES 2026 did not disappoint - The Verge",
+        "description": "A few companies had some unusual smartphone ideas to show off at CES as an alternative to the usual black rectangle.",
+        "source_link": "https://www.theverge.com/tech/859776/ces-2026-phones-clicks-communicator-ikko-samsung-trifold"
+      },
+      {
+        "rank": 2,
+        "image": "https://i.pcmag.com/imagery/comparisons/282.fit_lim.size_1200x630.v1767388500.jpg",
+        "title": "DuckDuckGo vs. Google: The Search Engine Choice That Says Everything About You - PCMag",
+        "description": "One prioritizes convenience and personalization. The other puts privacy first. Which one should you use? We help you decide.",
+        "source_link": "https://www.pcmag.com/comparisons/duckduckgo-vs-google-the-search-engine-choice-that-says-everything-about"
+      },
+      {
+        "rank": 3,
         "image": "https://www.cnet.com/a/img/resize/afc5106cd68c78719648738e98f3ed6c5af7c5b6/hub/2026/01/06/c4c3471c-411b-4dfe-8e27-8181eb7cb57c/img-0412.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "CES 2026: LG's Latest Washer-Dryer Combo Solves the Biggest Issues With All-In-One Machines - CNET",
         "description": "LG's Signature Series 2026 balances high-capacity washing with rapid heat pump drying.",
         "source_link": "https://www.cnet.com/home/smart-home/lg-signature-series-washer-dryer-combo-ces-2026/"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/12/this-phone-is-an-insane-deal-right-now-5-58-screenshot.png?w=1600&h=900&fit=crop",
+        "title": "I can't believe I used my Google Pixel without this productivity tool for this long - Android Police",
+        "description": "The secret to 10x productivity",
+        "source_link": "https://www.androidpolice.com/cant-believe-used-google-pixel-without-this-productivity-tool/"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.phoronix.net/image.php?id=2026&image=gyesme",
+        "title": "GYESME: A New Design-Led Downstream Of GNOME Being Explored - Phoronix",
+        "description": "A new project trying to get off the ground and currently in an 'exploratory phase' is GYESME that describes itself as a 'design-led' downstream of GNOME with plans ot only fork when needed that is 'minimal by default.'",
+        "source_link": "https://www.phoronix.com/news/GYESME-GNOME-Downstream"
+      },
+      {
+        "rank": 6,
         "image": "https://www.phoronix.net/image.php?id=2026&image=audionoise",
         "title": "Linus Torvalds' Latest Open-Source Project Is AudioNoise - Made With The Help Of Vibe Coding - Phoronix",
         "description": "In addition to Linus Torvalds' recent comments around AI tooling documentation, it turns out in fact that Linus Torvalds has been using vibe coding himself",
         "source_link": "https://www.phoronix.com/news/Linus-Torvalds-Vide-Coding"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/01/gmail-logo-surrounded-by-floating-colorful-sticky-notes-on-a-blue-background.png?w=1600&h=900&fit=crop",
         "title": "Gmail has a note-taking app hiding in plain sight \u2014 and now I use it daily - Android Police",
         "description": "It\u2019s easy to miss, yet it\u2019s far more useful than it has any right to be",
         "source_link": "https://www.androidpolice.com/gmail-note-taking-app-hiding-in-plain-sight/"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://cdn.videocardz.com/1/2026/01/INTEL-ARC-BATTLEMAGE-HERO.jpg",
         "title": "Unofficial Intel Arc driver includes Big Battlemage \"BMG-G31\" firmware, so why hasn\u2019t Intel announced the GPU yet? - VideoCardz.com",
         "description": "Intel Arc B770 was a no-show at CES 2026 Intel's product keynote was surprisingly more consumer-oriented than NVIDIA's and AMD's. However, the",
         "source_link": "https://videocardz.com/newz/unofficial-intel-arc-driver-includes-big-battlemage-bmg-g31-firmware-so-why-hasnt-intel-announced-the-gpu-yet"
       },
       {
-        "rank": 5,
-        "image": "https://www.jalopnik.com/img/gallery/what-vortec-means-on-chevy-engines/l-intro-1767724349.jpg",
-        "title": "What Vortec Means On Chevy Engines - Jalopnik",
-        "description": "The term Vortec signals that a Chevy engine is using Vortex technology, which employs a circular motion within the cylinder as the fuel and oxygen mix.",
-        "source_link": "https://www.jalopnik.com/2069240/what-vortec-means-chevy-engines/"
-      },
-      {
-        "rank": 6,
+        "rank": 9,
         "image": "https://www.trueachievements.com/imgs/168911/new-xbox-games-january-12-2026.jpg",
         "title": "Xbox gets 25 new games next week - TrueAchievements",
         "description": "Next week, a wave of 25 new games, including DreadOut Remastered Collection and BrokenLore: Unfollow, launch on Xbox consoles and PC.",
         "source_link": "https://www.trueachievements.com/news/new-xbox-games-january-12-2026"
       },
       {
-        "rank": 7,
-        "image": "https://m-cdn.phonearena.com/images/article/177221-wide-two_1200/Huh-looks-like-the-foldable-iPhone-might-have-a-crease-free-display-after-all.jpg",
-        "title": "Huh, looks like the foldable iPhone might have a crease-free display after all - PhoneArena",
-        "description": "Apple's dreams of a foldable iPhone with no crease at all don't seem too far-fetched anymore.",
-        "source_link": "https://www.phonearena.com/news/foldable-iphone-might-have-crease-free-display-after-all_id177221"
-      },
-      {
-        "rank": 8,
-        "image": "https://helios-i.mashable.com/imagery/articles/05Lytgwvrt2WDdOmDDHzzZa/hero-image.fill.size_1200x675.v1767293478.png",
-        "title": "Make 2026 the year you cancel subscriptions for good \u2014 MS Office is a flat $35 - Mashable",
-        "description": "New year, no subscriptions.",
-        "source_link": "https://mashable.com/article/jan-10-microsoft-office-professional-2021-for-windows"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.jalopnik.com/img/gallery/alfa-romeo-giulia-quadrifoglio-gets-yet-another-special-edition-but-this-time-it-has-a-weird-wing/l-intro-1767977893.jpg",
-        "title": "Alfa Romeo Giulia Quadrifoglio Gets Yet Another Special Edition, But This Time It Has A Weird Wing - Jalopnik",
-        "description": "According to Alfa, all 10 have already been sold, meaning either your order's already been placed, or it doesn't matter.",
-        "source_link": "https://www.jalopnik.com/2071765/alfa-romeo-giulia-quadrifoglio-special-edition/"
-      },
-      {
         "rank": 10,
-        "image": "https://sm.pcmag.com/t/pcmag_uk/opinion/i/i-came-to-/i-came-to-ces-to-check-out-energy-and-solar-power-innovation_qu77.1200.jpg",
-        "title": "I Came to CES to Check Out Energy and Solar Power Innovations and Found That China Is Running Laps Around Us - PCMag UK",
-        "description": "In Las Vegas, I saw a tale of two nations\u2019 energy priorities. The US needs to get its act together.",
-        "source_link": "https://uk.pcmag.com/power-supplies/162522/i-came-to-ces-to-check-out-energy-and-solar-power-innovations-and-found-that-china-is-running-laps-a"
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66f8792060500de2d7ab0420/0x0.jpg?format=jpg&crop=788,443,x270,y75,safe&height=900&width=1600&fit=bounds",
+        "title": "Google\u2019s Free Offer For 2 Billion Gmail Users\u2014Should You Upgrade? - Forbes",
+        "description": "You will now be upgraded unless you change your settings \u2014 what you need to know.",
+        "source_link": "https://www.forbes.com/sites/zakdoffman/2026/01/11/googles-free-offer-for-2-billion-gmail-users-should-you-upgrade/"
       }
     ],
     "trending_movies": [
@@ -83,31 +83,31 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
         "title": "Hamnet",
         "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
         "source_link": "https://www.themoviedb.org/movie/858024"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
-        "title": "Predator: Badlands",
-        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
-        "source_link": "https://www.themoviedb.org/movie/1242898"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/aZhrAx5CevLfjXcGIG3wBXxDiAL.jpg",
         "title": "One Last Adventure: The Making of Stranger Things 5",
         "description": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series....",
         "source_link": "https://www.themoviedb.org/movie/1610413"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+        "title": "Predator: Badlands",
+        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
+        "source_link": "https://www.themoviedb.org/movie/1242898"
       },
       {
         "rank": 6,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       }
     ]
   }
