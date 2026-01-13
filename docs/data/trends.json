@@ -1,5 +1,5 @@
 {
-  "last_updated": "January 13, 2026, 11:17 UTC",
+  "last_updated": "January 13, 2026, 12:39 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,31 +76,31 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/h3zd2DFwrQWrE3zc7fTH0LrCFjs.jpg",
-        "title": "Rental Family",
-        "description": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in ro...",
-        "source_link": "https://www.themoviedb.org/movie/1208348"
-      },
-      {
-        "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/aZhrAx5CevLfjXcGIG3wBXxDiAL.jpg",
         "title": "One Last Adventure: The Making of Stranger Things 5",
         "description": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series....",
         "source_link": "https://www.themoviedb.org/movie/1610413"
       },
       {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/h3zd2DFwrQWrE3zc7fTH0LrCFjs.jpg",
+        "title": "Rental Family",
+        "description": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in ro...",
+        "source_link": "https://www.themoviedb.org/movie/1208348"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
+      },
+      {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/kOrJqRyt1pklNgDwJMjzN1GuNXS.jpg",
-        "title": "People We Meet on Vacation",
-        "description": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match....",
-        "source_link": "https://www.themoviedb.org/movie/1034716"
+        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
       },
       {
         "rank": 5,
@@ -111,24 +111,24 @@
       },
       {
         "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/kOrJqRyt1pklNgDwJMjzN1GuNXS.jpg",
+        "title": "People We Meet on Vacation",
+        "description": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match....",
+        "source_link": "https://www.themoviedb.org/movie/1034716"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
+        "title": "Song Sung Blue",
+        "description": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow y...",
+        "source_link": "https://www.themoviedb.org/movie/1371185"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/71KNp6RiOQTbs8Fn1DagrFQrZmx.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
-        "title": "Marty Supreme",
-        "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
         "rank": 9,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
-        "title": "Song Sung Blue",
-        "description": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow y...",
-        "source_link": "https://www.themoviedb.org/movie/1371185"
+        "image": "https://image.tmdb.org/t/p/w200/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+        "title": "28 Years Later: The Bone Temple",
+        "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with J...",
+        "source_link": "https://www.themoviedb.org/movie/1272837"
       }
     ]
   }
