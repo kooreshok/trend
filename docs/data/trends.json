@@ -1,5 +1,5 @@
 {
-  "last_updated": "January 13, 2026, 16:27 UTC",
+  "last_updated": "January 13, 2026, 17:23 UTC",
   "categories": {
     "tech_news": [
       {
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/kOrJqRyt1pklNgDwJMjzN1GuNXS.jpg",
-        "title": "People We Meet on Vacation",
-        "description": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match....",
-        "source_link": "https://www.themoviedb.org/movie/1034716"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
         "title": "The Internship",
         "description": "A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA figh...",
         "source_link": "https://www.themoviedb.org/movie/1584215"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/kOrJqRyt1pklNgDwJMjzN1GuNXS.jpg",
+        "title": "People We Meet on Vacation",
+        "description": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match....",
+        "source_link": "https://www.themoviedb.org/movie/1034716"
       }
     ]
   }
