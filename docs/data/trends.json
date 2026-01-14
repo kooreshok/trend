@@ -1,5 +1,5 @@
 {
-  "last_updated": "January 14, 2026, 14:21 UTC",
+  "last_updated": "January 14, 2026, 15:21 UTC",
   "categories": {
     "tech_news": [
       {
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/aZhrAx5CevLfjXcGIG3wBXxDiAL.jpg",
-        "title": "One Last Adventure: The Making of Stranger Things 5",
-        "description": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series....",
-        "source_link": "https://www.themoviedb.org/movie/1610413"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
         "title": "One Battle After Another",
         "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
         "source_link": "https://www.themoviedb.org/movie/1054867"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/aZhrAx5CevLfjXcGIG3wBXxDiAL.jpg",
+        "title": "One Last Adventure: The Making of Stranger Things 5",
+        "description": "An inside look at the years of effort and craft that went into the final installment of the Duffer Brothers' generation-defining series....",
+        "source_link": "https://www.themoviedb.org/movie/1610413"
       }
     ]
   }
