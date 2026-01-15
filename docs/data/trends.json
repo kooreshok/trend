@@ -1,41 +1,41 @@
 {
-  "last_updated": "January 15, 2026, 08:26 UTC",
+  "last_updated": "January 15, 2026, 09:24 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://gonintendo.com/attachments/image/75154/file/medium-f6cf609e681c19fbae7feb07e30f477d.webp",
-        "title": "Switch 2 backwards compatibility update for Jan. 13th, 2026 - GoNintendo",
-        "description": "Slowly, but surely",
-        "source_link": "https://www.gonintendo.com/contents/56632-switch-2-backwards-compatibility-update-for-jan-13th-2026"
+        "image": "https://www.uploadvr.com/content/images/size/w1200/2026/01/Supernatural_Group_03.jpg",
+        "title": "Supernatural Will No Longer Get New Content Or Features - UploadVR",
+        "description": "Meta says Supernatural will no longer receive any \"new content or feature updates\".",
+        "source_link": "https://www.uploadvr.com/supernatural-coaches-face-same-fate-as-oculus-home-echo-arena/"
       },
       {
         "rank": 2,
+        "image": "https://images.macrumors.com/t/O2PQxJzVD0_2JrNy6sds2OIjixE=/1600x/article-new/2025/03/iOS-18-Siri-Personal-Context.jpg",
+        "title": "Google Gemini-Powered Siri Will Reportedly Have These 7 New Features - MacRumors",
+        "description": "Apple and Google this week announced that Gemini will help power a more personalized Siri, and The Information has provided more details.   As soon...",
+        "source_link": "https://www.macrumors.com/2026/01/13/google-gemini-siri-capabilities-report/"
+      },
+      {
+        "rank": 3,
         "image": null,
         "title": "Patch Tuesday, January 2026 Edition - Krebs on Security",
         "description": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already e\u2026",
         "source_link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/"
       },
       {
-        "rank": 3,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Android-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "\u2018Android 17\u2019 split Notifications & Quick Settings panels leak in full [Gallery] - 9to5Google",
-        "description": "A split of Android Notifications and Quick Settings has been rumored for the past year or so, and a leak...",
-        "source_link": "http://9to5google.com/2026/01/13/android-notifications-quick-settings-split/"
+        "rank": 4,
+        "image": "https://gonintendo.com/attachments/image/75154/file/medium-f6cf609e681c19fbae7feb07e30f477d.webp",
+        "title": "Switch 2 backwards compatibility update for Jan. 13th, 2026 - GoNintendo",
+        "description": "Slowly, but surely",
+        "source_link": "https://gonintendo.com/contents/56632-switch-2-backwards-compatibility-update-for-jan-13th-2026"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://regmedia.co.uk/2018/09/27/shutterstock_114671266.jpg",
         "title": "Python libraries in AI/ML models can be poisoned w metadata - theregister.com",
         "description": ": The open-source libraries were created by Salesforce, Nvidia, and Apple with a Swiss group",
         "source_link": "https://www.theregister.com/2026/01/13/ai_python_library_bugs_allow/"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4635030-falloutnewvegas.jpg",
-        "title": "New Vegas Dev Doesn't Agree With Bethesda's Take On Fallout - GameSpot",
-        "description": "Chris Avellone doesn't believe that Bethesda fully understands the roots of Fallout.",
-        "source_link": "https://www.gamespot.com/articles/new-vegas-dev-doesnt-agree-with-bethesdas-take-on-fallout/1100-6537374/"
       },
       {
         "rank": 6,
@@ -46,31 +46,31 @@
       },
       {
         "rank": 7,
+        "image": "https://assetsio.gnwcdn.com/b8ba8b8fcb77576f54a825ef99becbdc32b220ed_2_1380x776.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Rockstar launches official marketplace for mods - GamesIndustry.biz",
+        "description": "Rockstar has launched an official marketplace for \"every server and every player\" to buy mods: Cfx Marketplace.",
+        "source_link": "https://www.gamesindustry.biz/rockstar-launches-official-marketplace-for-mods"
+      },
+      {
+        "rank": 8,
+        "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/01/gothamknights.jpg?resize=1200,630",
+        "title": "Interesting PS5 Action Game Is 90% Off on PS Store - PlayStation LifeStyle",
+        "description": "An interesting PS5 action game originally released in 2022 is currently available on the PlayStation Store at a steep discount.",
+        "source_link": "https://www.playstationlifestyle.net/2026/01/13/gotham-knights-ps5-ps-store-deal-january-2026/"
+      },
+      {
+        "rank": 9,
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6PTJl3Wssuvl5m3nljR103/21ab6a44da755c1cf2dca3b8fdd4ad08/cool-guys.png?w=800&q=75",
         "title": "This new, dead simple prompt technique boosts accuracy on LLMs by up to 76% on non-reasoning tasks - VentureBeat",
         "description": "",
         "source_link": "https://venturebeat.com/orchestration/this-new-dead-simple-prompt-technique-boosts-accuracy-on-llms-by-up-to-76-on"
       },
       {
-        "rank": 8,
+        "rank": 10,
         "image": "https://www.bleepstatic.com/content/hl-images/2025/10/20/Windows-headpic.jpg",
         "title": "New Windows updates replace expiring Secure Boot certificates - BleepingComputer",
         "description": "Microsoft has started rolling out new Secure Boot certificates that will automatically install on eligible Windows 11 24H2 and 25H2 systems.",
         "source_link": "https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-new-secure-boot-certificates-for-windows-devices/"
-      },
-      {
-        "rank": 9,
-        "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-        "title": "Rediscover your playful past with the Nintendo Switch 2025 Year in Review - nintendo.com",
-        "description": "Take a scroll down memory lane and see your gameplay stats for the Nintendo Switch and Nintendo Switch 2 systems.",
-        "source_link": "https://www.nintendo.com/us/whatsnew/rediscover-your-playful-past-with-the-nintendo-switch-2025-year-in-review/"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.macrumors.com/t/_jeiHLo87VPLwmBeCWuc2es12D4=/2000x/article-new/2019/10/airpods-pro-3-design.jpg",
-        "title": "Apple Releases New AirPods Pro 3 Firmware Update - MacRumors",
-        "description": "Apple today released a firmware update for the AirPods Pro 3. The latest firmware has a version number of 8B34, up from the previous version 8B30.  ...",
-        "source_link": "https://www.macrumors.com/2026/01/13/airpods-pro-3-firmware-update/"
       }
     ],
     "trending_movies": [
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
-        "title": "Marty Supreme",
-        "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/7Pd6ChSQjSXy4snJiorSdzg2cG3.jpg",
         "title": "Pillion",
         "description": "A timid man is swept off his feet when an enigmatic, impossibly handsome biker takes him on as his submissive....",
         "source_link": "https://www.themoviedb.org/movie/1287141"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "title": "The Housemaid",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
       }
     ]
   }
