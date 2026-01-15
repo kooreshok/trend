@@ -1,76 +1,76 @@
 {
-  "last_updated": "January 15, 2026, 14:21 UTC",
+  "last_updated": "January 15, 2026, 15:21 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.motor1.com/images/mgl/6ZeW9G/s1/ford-mustang-dark-horse-sc-video.jpg",
+        "title": "Meet The New Ford New Mustang Dark Horse SC - Motor1.com",
+        "description": "We get an early look at the new Mustang Dark Horse SC with a Formula 1 pro behind the wheel. Watch the full video.",
+        "source_link": "https://www.motor1.com/news/784409/ford-mustang-dark-horse-sc-max-verstappen/"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Nvidia\u2019s new app update includes DLSS 4.5 and more Control Panel features - The Verge",
+        "description": "Nvidia is rolling out DLSS 4.5 to all RTX owners. The latest Nvidia app update includes DLSS 4.5 and more Control Panel features.",
+        "source_link": "https://www.theverge.com/news/861640/nvidia-dlss-4-5-app-update-available-download"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.bleepstatic.com/content/hl-images/2025/10/24/Microsoft_Copilot.jpg",
+        "title": "Reprompt attack let hackers hijack Microsoft Copilot sessions - BleepingComputer",
+        "description": "Researchers identified an attack method dubbed \"Reprompt\" that could allow attackers to infiltrate a user's Microsoft Copilot session and issue commands to exfiltrate sensitive data.",
+        "source_link": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/"
+      },
+      {
+        "rank": 4,
+        "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/meta.png",
+        "title": "Everything new in Livewire 4 - Laravel News",
+        "description": "Livewire 4 is the biggest release yet\u2014featuring single-file components, islands for isolated rendering, built-in drag and drop, optimistic UI, scoped CSS and JavaScript, and more.",
+        "source_link": "https://laravel-news.com/everything-new-in-livewire-4"
+      },
+      {
+        "rank": 5,
         "image": "https://assetsio.gnwcdn.com/20260114131107-01KEYA1B9XZR6PV8N5RYBKFEK1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Surprise! Animal Crossing: New Horizons' free 3.0 update for Switch releases early - Eurogamer",
         "description": "Good news, Animal Crossing: New Horizons' free 3.0 Switch update for all owners has been released earlier than we thought.",
         "source_link": "https://www.eurogamer.net/surprise-animal-crossing-new-horizons-free-30-update-for-switch-releases-early"
       },
       {
-        "rank": 2,
+        "rank": 6,
+        "image": "https://images.pushsquare.com/3c36bf1f29bd0/large.jpg",
+        "title": "PS1 Ridge Racer Poised for PS5, PS4 via PS Plus Premium - Push Square",
+        "description": "It takes a Village",
+        "source_link": "https://www.pushsquare.com/news/2026/01/9-ps-plus-extra-premium-games-for-january-2026-announced"
+      },
+      {
+        "rank": 7,
         "image": "https://images.nintendolife.com/394940b8ce5dd/large.jpg",
         "title": "An Overlooked Disney Collection From Digital Eclipse Has Been Rated For Switch - Nintendo Life",
         "description": "And Switch 2!",
         "source_link": "https://www.nintendolife.com/news/2026/01/an-overlooked-disney-collection-from-digital-eclipse-has-been-rated-for-switch"
       },
       {
-        "rank": 3,
+        "rank": 8,
         "image": "https://assets.warhammer-community.com/whplus-jan14-1-feature-bmrktiza2g.jpg",
         "title": "Four contestants test their creativity to make Rogue Traders and retinues on Scrap Demon - Warhammer Community",
         "description": "What to watch on Warhammer TV this week.",
         "source_link": "https://www.warhammer-community.com/articles/sgsr7vwj/four-contestants-test-their-creativity-to-make-rogue-traders-and-retinues-on-scrap-demon"
       },
       {
-        "rank": 4,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2025/10/Pixel-10a-render-2.jpg",
-        "title": "New Pixel 10a leak reveals price, exact launch date - Android Authority",
-        "description": "The Google Pixel 10a is now expected to launch next month, and a leaker has now apparently revealed pricing and a specific launch date.",
-        "source_link": "https://www.androidauthority.com/google-pixel-10a-price-launch-date-leak-3632254/"
-      },
-      {
-        "rank": 5,
-        "image": "https://images.macrumors.com/t/O2PQxJzVD0_2JrNy6sds2OIjixE=/1600x/article-new/2025/03/iOS-18-Siri-Personal-Context.jpg",
-        "title": "Google Gemini-Powered Siri Will Reportedly Have These 7 New Features - MacRumors",
-        "description": "Apple and Google this week announced that Gemini will help power a more personalized Siri, and The Information has provided more details.   As soon...",
-        "source_link": "https://www.macrumors.com/2026/01/13/google-gemini-siri-capabilities-report/"
-      },
-      {
-        "rank": 6,
-        "image": "https://regmedia.co.uk/2022/04/19/zero_day_bug_software_shutterstock.jpg",
-        "title": "Windows info-disclosure 0-day bug gets a fix as CISA sounds alarm - theregister.com",
-        "description": ": First Patch Tuesday of 2026 goes big",
-        "source_link": "https://www.theregister.com/2026/01/14/patch_tuesday_january_2026/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Android-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "\u2018Android 17\u2019 split Notifications & Quick Settings panels leak in full [Gallery] - 9to5Google",
-        "description": "A split of Android Notifications and Quick Settings has been rumored for the past year or so, and a leak...",
-        "source_link": "http://9to5google.com/2026/01/13/android-notifications-quick-settings-split/"
-      },
-      {
-        "rank": 8,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Brilliant-Diamond-Shining-Pearl-fixed-Switch-2.jpg",
-        "title": "Pokemon Brilliant Diamond and Shining Pearl finally fixed on Nintendo Switch 2, plus other Switch 1 backwards compatibility updates - Nintendo Everything",
-        "description": "It took a bit of time, but Pokemon Brilliant Diamond and Pokemon Shining Pearl have finally been fixed on Nintendo Switch 2 when playing the games via backwards compatibility. The Nintendo eShop pages confirm that everything is good to go. We previously heard\u2026",
-        "source_link": "https://nintendoeverything.com/pokemon-brilliant-diamond-and-shining-pearl-finally-fixed-on-nintendo-switch-2-plus-other-switch-1-backwards-compatibility-updates/"
-      },
-      {
         "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2026/01/Fallout-mod.jpg",
-        "title": "Fallout 4 Mod Turns Todd Howard Into A Deadly Cardboard Cutout - Kotaku",
-        "description": "It's a bird, it's a plane, it's a Wasteland snail disguised as Bethesda's legendary designer",
-        "source_link": "https://kotaku.com/todd-howard-fallout-4-mod-blurbs-youtube-2000659450"
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimc7gjS2ZNi7kOnZXqH-FOYhQ5snGQ-zfhTA1NvxSNOo0dFaX62BEJSqr0qVmPJ9wY4jNffKZ8P5mciZC34btvRAJ4KH6dKXmcOOZpmFUZOU0cOtyJxNf-eImO9Gq8CIc3aVPlNo267-_RSUqTHyrjTkkfSbCnLb2lqjECHgqqo78Y-2Gib0Pxy8m3D-S9/s790-rw-e365/fort.jpg",
+        "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution - The Hacker News",
+        "description": "Fortinet patches a critical FortiSIEM vulnerability (CVE-2025-64155) that allows unauthenticated remote code execution via exposed phMonitor service.",
+        "source_link": "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html"
       },
       {
         "rank": 10,
-        "image": "https://gizmodo.com/app/uploads/2026/01/moxie_marlinspike_signal-1200x675.jpg",
-        "title": "Signal\u2019s Founder Turns His Attention to AI\u2019s Privacy Problem - Gizmodo",
-        "description": "Confer, an open source chatbot, encrypts both prompts and responses so companies and advertisers can\u2019t access user data.",
-        "source_link": "https://gizmodo.com/signals-founder-turns-his-attention-to-ais-privacy-problem-2000709897"
+        "image": "https://assetsio.gnwcdn.com/BF6-Season-1-event-winter.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Battlefield 6 Season 2 delayed until February, but more content for Season 1 and events are on the way - Eurogamer",
+        "description": "Battlefield 6's second season has been delayed.",
+        "source_link": "https://www.eurogamer.net/battlefield-6-season-2-delayed-until-february-but-more-content-for-season-1-and-events-are-on-the-way"
       }
     ],
     "trending_movies": [
@@ -97,17 +97,17 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-        "title": "Scream 7",
-        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
-        "source_link": "https://www.themoviedb.org/movie/1159559"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
         "title": "The Internship",
         "description": "A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA figh...",
         "source_link": "https://www.themoviedb.org/movie/1584215"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+        "title": "Scream 7",
+        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
+        "source_link": "https://www.themoviedb.org/movie/1159559"
       },
       {
         "rank": 6,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
         "title": "Marty Supreme",
         "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       }
     ]
   }
