@@ -1,5 +1,5 @@
 {
-  "last_updated": "January 15, 2026, 06:28 UTC",
+  "last_updated": "January 15, 2026, 07:22 UTC",
   "categories": {
     "tech_news": [
       {
@@ -11,24 +11,24 @@
       },
       {
         "rank": 2,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/new-Gemini-icon-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Report: Apple to fine-tune Gemini independently, no Google branding on Siri, more - 9to5Mac",
-        "description": "The Information has published a report with interesting tidbits about Apple\u2019s partnership with Google to power Siri with Gemini.",
-        "source_link": "https://9to5mac.com/2026/01/13/report-apple-to-fine-tune-gemini-independently/"
-      },
-      {
-        "rank": 3,
         "image": null,
         "title": "Patch Tuesday, January 2026 Edition - Krebs on Security",
         "description": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already e\u2026",
         "source_link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Android-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "\u2018Android 17\u2019 split Notifications & Quick Settings panels leak in full [Gallery] - 9to5Google",
         "description": "A split of Android Notifications and Quick Settings has been rumored for the past year or so, and a leak...",
         "source_link": "http://9to5google.com/2026/01/13/android-notifications-quick-settings-split/"
+      },
+      {
+        "rank": 4,
+        "image": "https://regmedia.co.uk/2018/09/27/shutterstock_114671266.jpg",
+        "title": "Python libraries in AI/ML models can be poisoned w metadata - theregister.com",
+        "description": ": The open-source libraries were created by Salesforce, Nvidia, and Apple with a Swiss group",
+        "source_link": "https://www.theregister.com/2026/01/13/ai_python_library_bugs_allow/"
       },
       {
         "rank": 5,
@@ -39,38 +39,38 @@
       },
       {
         "rank": 6,
-        "image": "https://assetsio.gnwcdn.com/b8ba8b8fcb77576f54a825ef99becbdc32b220ed_2_1380x776.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Rockstar launches official marketplace for mods - GamesIndustry.biz",
-        "description": "Rockstar has launched an official marketplace for \"every server and every player\" to buy mods: Cfx Marketplace.",
-        "source_link": "https://www.gamesindustry.biz/rockstar-launches-official-marketplace-for-mods"
+        "image": "https://musictech.com/wp-content/uploads/2026/01/Fender-Studio-Pro-2@2000x1500-1068x801.jpg",
+        "title": "PreSonus Studio One Pro becomes Fender Studio Pro: here\u2019s what it means for producers - MusicTech",
+        "description": "PreSonus Studio One has found a new home under the Fender umbrella as Fender Studio Pro \u2013 as the Big F looks to provide the most cohesive DAW environment possible for creators and producers.",
+        "source_link": "https://musictech.com/news/gear/presonus-studio-one-pro-becomes-fender-studio-pro/"
       },
       {
         "rank": 7,
-        "image": "https://assets-prd.ignimgs.com/2026/01/13/untitled-design-1768335512425.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "The Best Deals for January 13, 2026 - IGN",
-        "description": "And save big on a PS5 console bundle, a mechanical gaming keyboard, and much more",
-        "source_link": "https://www.ign.com/articles/best-deals-for-january-13-2026"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.macrumors.com/t/lQ4uv03plb8rzmhnI7mWzchn1MA=/1600x/article-new/2026/01/Pixelmator-Feature.jpg",
-        "title": "Apple Says 'Pixelmator' App on iOS Will No Longer Receive Updates - MacRumors",
-        "description": "Alongside the news that Pixelmator Pro is coming to the iPad, Apple has confirmed that the more basic Pixelmator app for the iPhone and iPad will no...",
-        "source_link": "https://www.macrumors.com/2026/01/13/pixelmator-no-longer-being-updated/"
-      },
-      {
-        "rank": 9,
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6PTJl3Wssuvl5m3nljR103/21ab6a44da755c1cf2dca3b8fdd4ad08/cool-guys.png?w=800&q=75",
         "title": "This new, dead simple prompt technique boosts accuracy on LLMs by up to 76% on non-reasoning tasks - VentureBeat",
         "description": "",
         "source_link": "https://venturebeat.com/orchestration/this-new-dead-simple-prompt-technique-boosts-accuracy-on-llms-by-up-to-76-on"
       },
       {
-        "rank": 10,
+        "rank": 8,
         "image": "https://www.bleepstatic.com/content/hl-images/2025/10/20/Windows-headpic.jpg",
         "title": "New Windows updates replace expiring Secure Boot certificates - BleepingComputer",
         "description": "Microsoft has started rolling out new Secure Boot certificates that will automatically install on eligible Windows 11 24H2 and 25H2 systems.",
         "source_link": "https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-new-secure-boot-certificates-for-windows-devices/"
+      },
+      {
+        "rank": 9,
+        "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
+        "title": "Rediscover your playful past with the Nintendo Switch 2025 Year in Review - nintendo.com",
+        "description": "Take a scroll down memory lane and see your gameplay stats for the Nintendo Switch and Nintendo Switch 2 systems.",
+        "source_link": "https://www.nintendo.com/us/whatsnew/rediscover-your-playful-past-with-the-nintendo-switch-2025-year-in-review/"
+      },
+      {
+        "rank": 10,
+        "image": "https://images.macrumors.com/t/_jeiHLo87VPLwmBeCWuc2es12D4=/2000x/article-new/2019/10/airpods-pro-3-design.jpg",
+        "title": "Apple Releases New AirPods Pro 3 Firmware Update - MacRumors",
+        "description": "Apple today released a firmware update for the AirPods Pro 3. The latest firmware has a version number of 8B34, up from the previous version 8B30.  ...",
+        "source_link": "https://www.macrumors.com/2026/01/13/airpods-pro-3-firmware-update/"
       }
     ],
     "trending_movies": [
@@ -83,10 +83,10 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-        "title": "Scream 7",
-        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
-        "source_link": "https://www.themoviedb.org/movie/1159559"
+        "image": "https://image.tmdb.org/t/p/w200/vobigFZFvbYPf6ElYJu07P9rH8C.jpg",
+        "title": "Dust Bunny",
+        "description": "Ten-year-old Aurora asks her hitman neighbor to kill the monster under her bed that she claims ate her family. To protect her, he must battle an onsla...",
+        "source_link": "https://www.themoviedb.org/movie/1043197"
       },
       {
         "rank": 3,
@@ -97,52 +97,52 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/vobigFZFvbYPf6ElYJu07P9rH8C.jpg",
-        "title": "Dust Bunny",
-        "description": "Ten-year-old Aurora asks her hitman neighbor to kill the monster under her bed that she claims ate her family. To protect her, he must battle an onsla...",
-        "source_link": "https://www.themoviedb.org/movie/1043197"
+        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+        "title": "Scream 7",
+        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
+        "source_link": "https://www.themoviedb.org/movie/1159559"
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "title": "xXx",
-        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
-        "source_link": "https://www.themoviedb.org/movie/7451"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
-        "title": "Marty Supreme",
-        "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/dXVGVz3sGLVnJf7tiJ9zDHqiqFX.jpg",
         "title": "Song Sung Blue",
         "description": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow y...",
         "source_link": "https://www.themoviedb.org/movie/1371185"
       },
       {
-        "rank": 8,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
         "title": "The Internship",
         "description": "A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA figh...",
         "source_link": "https://www.themoviedb.org/movie/1584215"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
-        "title": "Predator: Badlands",
-        "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
-        "source_link": "https://www.themoviedb.org/movie/1242898"
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "title": "xXx",
+        "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
+        "source_link": "https://www.themoviedb.org/movie/7451"
       },
       {
-        "rank": 10,
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+        "title": "Marty Supreme",
+        "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/dpM7UpTlRe3mgDF4lLkIdTYd0gs.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "title": "The Housemaid",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
       }
     ]
   }
