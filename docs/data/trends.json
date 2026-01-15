@@ -1,76 +1,69 @@
 {
-  "last_updated": "January 15, 2026, 16:30 UTC",
+  "last_updated": "January 15, 2026, 17:28 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://cdn.motor1.com/images/mgl/6ZeW9G/s1/ford-mustang-dark-horse-sc-video.jpg",
-        "title": "Meet The New Ford New Mustang Dark Horse SC - Motor1.com",
-        "description": "We get an early look at the new Mustang Dark Horse SC with a Formula 1 pro behind the wheel. Watch the full video.",
-        "source_link": "https://www.motor1.com/news/784409/ford-mustang-dark-horse-sc-max-verstappen/"
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/gmail-logo-circle-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Gmail widget updated with Material 3 Expressive tweaks - 9to5Google",
+        "description": "Google has updated Gmail for Android\u2019s homescreen widget with Material 3 Expressive tweaks that help modernize...",
+        "source_link": "http://9to5google.com/2026/01/14/gmail-widget-material-3-expressive/"
       },
       {
         "rank": 2,
+        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/01/OSP-hero-image-2026-d052c57067d4888ebd31.jpg",
+        "title": "An Update to Our Shared Commitment to Safer Gaming - Xbox Wire",
+        "description": "Nintendo, Sony Interactive Entertainment, and Microsoft continue to collaborate to improve player safety across our platforms - today, we're providing an update on our shared online safety principles.",
+        "source_link": "https://news.xbox.com/en-us/2026/01/14/online-safety-principles-xbox-nintendo-sony/"
+      },
+      {
+        "rank": 3,
+        "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2025/12/16/329e8314/switch2_acnh_ns2e-announce-trl_slumber-island_scrn_15.jpg.webp",
+        "title": "Animal Crossing: New Horizons Update 3.0 Is Live Now, A Day Early - Game Informer",
+        "description": "While version 3.0 is live now, islanders will have to wait another day for the Switch 2 upgrade to wash to shore.",
+        "source_link": "https://gameinformer.com/2026/01/14/animal-crossing-new-horizons-update-30-is-live-now-a-day-early"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.apple.com/newsroom/images/2026/01/popular-pc-franchise-civilization-comes-to-apple-arcade-on-february-5/tile/Apple-Arcade-Civilization-VII-preview-lp.jpg.og.jpg?202601141525",
+        "title": "Popular PC franchise Civilization comes to Apple Arcade on February 5 - Apple",
+        "description": "In February, four new games join Apple Arcade, including Sid Meier\u2019s Civilization VII Arcade Edition.",
+        "source_link": "https://www.apple.com/newsroom/2026/01/popular-pc-franchise-civilization-comes-to-apple-arcade-on-february-5/"
+      },
+      {
+        "rank": 5,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Galaxy-Z-TriFold-CES-2026-hands-on-9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Someone\u2019s Galaxy Z TriFold display already spontaneously broke - 9to5Google",
+        "description": "Samsung\u2019s new Galaxy Z TriFold looks incredible \u2013 all the more so in person \u2013 but also came with the...",
+        "source_link": "http://9to5google.com/2026/01/14/galaxy-z-trifold-display-spontaneously-broke/"
+      },
+      {
+        "rank": 6,
+        "image": "https://hips.hearstapps.com/hmg-prod/images/ford-mustang-dark-horse-sc-2026-red-bull-6967a4d9dcaee.jpg?crop=0.857xw:0.764xh;0.0673xw,0.0598xh&resize=1200:*",
+        "title": "Red Bull F1 Just Revealed a Never-Before-Seen Variant of the Ford Mustang on YouTube - Road & Track",
+        "description": "A YouTube video posted by Red Bull showcasing the racing team's drivers and 100 years of Ford Racing vehicles had Max Verstappen driving a new car called the 2026 Ford Mustang Dark Horse SC.",
+        "source_link": "https://www.roadandtrack.com/news/a69998144/red-bull-f1-reveal-2026-ford-mustang-dark-horse-sc-max-verstappen/"
+      },
+      {
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Nvidia\u2019s new app update includes DLSS 4.5 and more Control Panel features - The Verge",
         "description": "Nvidia is rolling out DLSS 4.5 to all RTX owners. The latest Nvidia app update includes DLSS 4.5 and more Control Panel features.",
         "source_link": "https://www.theverge.com/news/861640/nvidia-dlss-4-5-app-update-available-download"
       },
       {
-        "rank": 3,
+        "rank": 8,
         "image": "https://www.bleepstatic.com/content/hl-images/2025/10/24/Microsoft_Copilot.jpg",
         "title": "Reprompt attack let hackers hijack Microsoft Copilot sessions - BleepingComputer",
         "description": "Researchers identified an attack method dubbed \"Reprompt\" that could allow attackers to infiltrate a user's Microsoft Copilot session and issue commands to exfiltrate sensitive data.",
         "source_link": "https://www.bleepingcomputer.com/news/security/reprompt-attack-let-hackers-hijack-microsoft-copilot-sessions/"
       },
       {
-        "rank": 4,
+        "rank": 9,
         "image": "https://picperf.io/https://laravelnews.s3.amazonaws.com/featured-images/meta.png",
         "title": "Everything new in Livewire 4 - Laravel News",
         "description": "Livewire 4 is the biggest release yet\u2014featuring single-file components, islands for isolated rendering, built-in drag and drop, optimistic UI, scoped CSS and JavaScript, and more.",
         "source_link": "https://laravel-news.com/everything-new-in-livewire-4"
-      },
-      {
-        "rank": 5,
-        "image": "https://assetsio.gnwcdn.com/20260114131107-01KEYA1B9XZR6PV8N5RYBKFEK1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Surprise! Animal Crossing: New Horizons' free 3.0 update for Switch releases early - Eurogamer",
-        "description": "Good news, Animal Crossing: New Horizons' free 3.0 Switch update for all owners has been released earlier than we thought.",
-        "source_link": "https://www.eurogamer.net/surprise-animal-crossing-new-horizons-free-30-update-for-switch-releases-early"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.pushsquare.com/3c36bf1f29bd0/large.jpg",
-        "title": "PS1 Ridge Racer Poised for PS5, PS4 via PS Plus Premium - Push Square",
-        "description": "It takes a Village",
-        "source_link": "https://www.pushsquare.com/news/2026/01/9-ps-plus-extra-premium-games-for-january-2026-announced"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.nintendolife.com/394940b8ce5dd/large.jpg",
-        "title": "An Overlooked Disney Collection From Digital Eclipse Has Been Rated For Switch - Nintendo Life",
-        "description": "And Switch 2!",
-        "source_link": "https://www.nintendolife.com/news/2026/01/an-overlooked-disney-collection-from-digital-eclipse-has-been-rated-for-switch"
-      },
-      {
-        "rank": 8,
-        "image": "https://assets.warhammer-community.com/whplus-jan14-1-feature-bmrktiza2g.jpg",
-        "title": "Four contestants test their creativity to make Rogue Traders and retinues on Scrap Demon - Warhammer Community",
-        "description": "What to watch on Warhammer TV this week.",
-        "source_link": "https://www.warhammer-community.com/articles/sgsr7vwj/four-contestants-test-their-creativity-to-make-rogue-traders-and-retinues-on-scrap-demon"
-      },
-      {
-        "rank": 9,
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimc7gjS2ZNi7kOnZXqH-FOYhQ5snGQ-zfhTA1NvxSNOo0dFaX62BEJSqr0qVmPJ9wY4jNffKZ8P5mciZC34btvRAJ4KH6dKXmcOOZpmFUZOU0cOtyJxNf-eImO9Gq8CIc3aVPlNo267-_RSUqTHyrjTkkfSbCnLb2lqjECHgqqo78Y-2Gib0Pxy8m3D-S9/s790-rw-e365/fort.jpg",
-        "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution - The Hacker News",
-        "description": "Fortinet patches a critical FortiSIEM vulnerability (CVE-2025-64155) that allows unauthenticated remote code execution via exposed phMonitor service.",
-        "source_link": "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html"
-      },
-      {
-        "rank": 10,
-        "image": "https://assetsio.gnwcdn.com/BF6-Season-1-event-winter.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Battlefield 6 Season 2 delayed until February, but more content for Season 1 and events are on the way - Eurogamer",
-        "description": "Battlefield 6's second season has been delayed.",
-        "source_link": "https://www.eurogamer.net/battlefield-6-season-2-delayed-until-february-but-more-content-for-season-1-and-events-are-on-the-way"
       }
     ],
     "trending_movies": [
@@ -118,31 +111,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
-        "title": "Song Sung Blue",
-        "description": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow y...",
-        "source_link": "https://www.themoviedb.org/movie/1371185"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
-      },
-      {
-        "rank": 10,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
+        "title": "Song Sung Blue",
+        "description": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow y...",
+        "source_link": "https://www.themoviedb.org/movie/1371185"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+        "title": "Marty Supreme",
+        "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       }
     ]
   }
