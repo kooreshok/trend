@@ -1,76 +1,76 @@
 {
-  "last_updated": "January 16, 2026, 12:36 UTC",
+  "last_updated": "January 16, 2026, 13:35 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assetsio.gnwcdn.com/black-flag-whale.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Evidence mounts to suggest Ubisoft really is about to announce an Assassin\u2019s Creed 4: Black Flag remake - Eurogamer",
+        "description": "Ubisoft has uploaded a bunch of Assassin's Creed: Black Flag music, hinting again at a remake reveal.",
+        "source_link": "https://www.eurogamer.net/assassins-creed-black-flag-remake-music-upload"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/ChatGPT-Translate.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "OpenAI\u2019s ChatGPT translator challenges Google Translate - The Verge",
+        "description": "\ufeffChatGPT Translate allows users to direct the style of translated text, such as \u2018more fluent\u2019 and \u2018academic.\u2019",
+        "source_link": "https://www.theverge.com/news/862448/openai-chatgpt-translate-tool-launch-website"
+      },
+      {
+        "rank": 3,
         "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F832845f6-4490-4e6d-a8b6-1072406191f4.jpg?source=next-barrier-page",
         "title": "Apple sits out AI arms race to play kingmaker between Google and OpenAI - Financial Times",
         "description": "Multibillion-dollar deal to secure Gemini models reflects cautious approach to infrastructure spending",
         "source_link": "https://www.ft.com/content/8033b1bc-4ffe-47ed-baf0-5abea6a1322a"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "image": "https://images.timeextension.com/9ca137104c733/large.jpg",
+        "title": "\"It Has Been Years In The Making\" - Ecco's Creator Reconfirms A New Game Is In Development - Time Extension",
+        "description": "\"He's a bridge between worlds\"",
+        "source_link": "https://www.timeextension.com/news/2026/01/it-has-been-years-in-the-making-eccos-creator-reconfirms-a-new-game-is-in-development"
+      },
+      {
+        "rank": 5,
         "image": "https://regmedia.co.uk/2022/03/03/shutterstock_cut_red_wire.jpg",
         "title": "Maker fight! SparkFun cuts ties with Adafruit in harassment dispute - theregister.com",
         "description": ": Adafruit claims SparkFun aims to shoot the messenger for criticizing corporate tolerance of intolerance",
         "source_link": "https://www.theregister.com/2026/01/15/sparkfun_cuts_ties_with_adafruit/"
       },
       {
-        "rank": 3,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/08/img_1498.jpg?w=1600&h=900&fit=crop",
-        "title": "Android 16 QPR3 Beta 2 takes a big leap forward - Android Police",
-        "description": "This is a big step up",
-        "source_link": "https://www.androidpolice.com/android-16-qpr3-beta-2-now-live/"
-      },
-      {
-        "rank": 4,
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24198362/Stream_Deck___Lifestyle_Shot_17.jpg?quality=90&strip=all&crop=0%2C5.2218241939928%2C100%2C89.556351612014&w=1200",
         "title": "The Stream Deck Plus is back to its lowest price - The Verge",
         "description": "The Stream Deck Plus builds upon the standard model with four dials. It\u2019s on sale for $159.99 ($40 off) at multiple retailers, which matches its best price.",
         "source_link": "https://www.theverge.com/gadgets/862274/elgato-stream-deck-plus-controller-deal-sale"
       },
       {
-        "rank": 5,
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/a-new-form-of-graphene.jpg",
-        "title": "A new form of graphene-derived material could unlock next-generation printed electronics - Phys.org",
-        "description": "Graphene has long been hailed as a \"wonder material.\" It is incredibly strong, highly conductive and almost impossibly thin\u2014just one atom thick. These properties make it a promising candidate for next-generation technologies such as flexible electronics, wear\u2026",
-        "source_link": "https://phys.org/news/2026-01-graphene-derived-material-generation-electronics.html"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjE3NjM0OTE1OTUxMzIyMjUw/online-retailer-amazon-pharmacy-subscription-0212c9ec3dc9433a0cec8c6f4d203eb66b893a6f-2034992.jpg",
-        "title": "Amazon\u2019s bestselling MP3 player is on sale for $29, and it\u2019s giving us major nostalgia - thestreet.com",
-        "description": "Say goodbye to music with ads and streaming subscriptions.",
-        "source_link": "https://www.thestreet.com/deals/aimoonsa-mp3-layer-amazon-sale"
-      },
-      {
         "rank": 7,
+        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4635453-battlefield6featured.jpg",
+        "title": "PS5 And PS4's Most-Downloaded Games Of 2025 Revealed, Including A Call Of Duty Surprise - GameSpot",
+        "description": "Sports games reigned in 2025, and Battlefield 6 wasn't far behind.",
+        "source_link": "https://www.gamespot.com/gallery/ps5-and-ps4s-most-downloaded-games-of-2025-revealed-including-a-call-of-duty-surprise/2900-7406/"
+      },
+      {
+        "rank": 8,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/Zoomed-Android-16-logo-green.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Here\u2019s everything new in Android 16 QPR3 Beta 2 [Gallery] - 9to5Google",
+        "description": "Android 16 QPR3 is shaping up to be a sizable release, and Beta 2 is now available for Google Pixel devices.",
+        "source_link": "http://9to5google.com/2026/01/14/android-16-qpr3-beta-2-everything-new/"
+      },
+      {
+        "rank": 9,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/MSFT_Holiday_copilot_Card_1-1152x648-1763493467.jpeg",
         "title": "A single click mounted a covert, multistage attack against Copilot - Ars Technica",
         "description": "Exploit exfiltrating data from chat histories worked even after users closed chat windows.",
         "source_link": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/"
       },
       {
-        "rank": 8,
+        "rank": 10,
         "image": "https://petapixel.com/assets/uploads/2026/01/The-Ricoh-GR-IV-Monochrome-Will-Cost-an-Extra-700.jpg",
         "title": "The Ricoh GR IV Monochrome Will Cost an Extra $700 - PetaPixel",
         "description": "The GR IV Monochrome costs $2,199.95. That\u2019s $700 more than the base model, which represents a 46% price increase.",
         "source_link": "https://petapixel.com/2026/01/14/the-ricoh-gr-iv-monochrome-will-cost-an-extra-700/"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Copy-of-1.jpg?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
-        "title": "Naya Connect is a modular mechanical keyboard system for the indecisive - The Verge",
-        "description": "Naya Connect is a modular mechanical keyboard ecosystem with a swappable numpad, trackball, a 6DoF spatial mouse, and more.",
-        "source_link": "https://www.theverge.com/news/862123/naya-connect-modular-mechanical-keyboard-kickstarter"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.bgr.com/img/gallery/5-cheap-audiophile-gadgets-that-can-level-up-your-music-experience/l-intro-1767954348.jpg",
-        "title": "5 Cheap Audiophile Gadgets That Can Level Up Your Music Experience - bgr.com",
-        "description": "Best budget audiophile upgrades 2026. Reviewing FiiO Snowsky, Moondrop Echo-A, Fosi Box X2, and Dayton Audio B65. Top audio gadgets under $100 for better sound.",
-        "source_link": "https://www.bgr.com/2071558/cheap-audiophile-gadgets-level-up-music-experience/"
       }
     ],
     "trending_movies": [
@@ -97,17 +97,17 @@
       },
       {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/cqbXxAw9sUr4tJ5ffEwtnz6IL9o.jpg",
+        "title": "Killer Whale",
+        "description": "A gripping survival thriller centred around best friends, Trish Stevens and Maddie Clark, who find themselves locked into a deadly face-off against th...",
+        "source_link": "https://www.themoviedb.org/movie/1412598"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "title": "xXx",
         "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not e...",
         "source_link": "https://www.themoviedb.org/movie/7451"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/kOrJqRyt1pklNgDwJMjzN1GuNXS.jpg",
-        "title": "People We Meet on Vacation",
-        "description": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match....",
-        "source_link": "https://www.themoviedb.org/movie/1034716"
       },
       {
         "rank": 6,
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
+        "image": "https://image.tmdb.org/t/p/w200/lE9KpVwgeWHMwgwkNaeH5nEFh20.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/7Pd6ChSQjSXy4snJiorSdzg2cG3.jpg",
-        "title": "Pillion",
-        "description": "A timid man is swept off his feet when an enigmatic, impossibly handsome biker takes him on as his submissive....",
-        "source_link": "https://www.themoviedb.org/movie/1287141"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
         "title": "The Internship",
         "description": "A CIA-trained assassin recruits other graduates from her secret childhood program, The Internship, to violently destroy the organization. The CIA figh...",
         "source_link": "https://www.themoviedb.org/movie/1584215"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
+        "title": "Song Sung Blue",
+        "description": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow y...",
+        "source_link": "https://www.themoviedb.org/movie/1371185"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
+        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       }
     ]
   }
