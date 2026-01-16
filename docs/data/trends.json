@@ -1,106 +1,106 @@
 {
-  "last_updated": "January 16, 2026, 08:25 UTC",
+  "last_updated": "January 16, 2026, 09:23 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F832845f6-4490-4e6d-a8b6-1072406191f4.jpg?source=next-barrier-page",
+        "title": "Apple sits out AI arms race to play kingmaker between Google and OpenAI - Financial Times",
+        "description": "Multibillion-dollar deal to secure Gemini models reflects cautious approach to infrastructure spending",
+        "source_link": "https://www.ft.com/content/8033b1bc-4ffe-47ed-baf0-5abea6a1322a"
+      },
+      {
+        "rank": 2,
         "image": "https://regmedia.co.uk/2022/03/03/shutterstock_cut_red_wire.jpg",
         "title": "Maker fight! SparkFun cuts ties with Adafruit in harassment dispute - theregister.com",
         "description": ": Adafruit claims SparkFun aims to shoot the messenger for criticizing corporate tolerance of intolerance",
         "source_link": "https://www.theregister.com/2026/01/15/sparkfun_cuts_ties_with_adafruit/"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/08/img_1498.jpg?w=1600&h=900&fit=crop",
         "title": "Android 16 QPR3 Beta 2 takes a big leap forward - Android Police",
         "description": "This is a big step up",
         "source_link": "https://www.androidpolice.com/android-16-qpr3-beta-2-now-live/"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/vulcan-salute-1152x648-1768432794.jpg",
+        "title": "Musk and Hegseth vow to \u201cmake Star Trek real\u201d but miss the show\u2019s lessons - Ars Technica",
+        "description": "AI weapons systems may annihilate their creators.",
+        "source_link": "https://arstechnica.com/culture/2026/01/pentagons-arsenal-of-freedom-tour-borrows-name-from-star-trek-episode-about-killer-ai/"
+      },
+      {
+        "rank": 5,
         "image": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjE3NjM0OTE1OTUxMzIyMjUw/online-retailer-amazon-pharmacy-subscription-0212c9ec3dc9433a0cec8c6f4d203eb66b893a6f-2034992.jpg",
         "title": "Amazon\u2019s bestselling MP3 player is on sale for $29, and it\u2019s giving us major nostalgia - thestreet.com",
         "description": "Say goodbye to music with ads and streaming subscriptions.",
         "source_link": "https://www.thestreet.com/deals/aimoonsa-mp3-layer-amazon-sale"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4635453-battlefield6featured.jpg",
         "title": "PS5 And PS4's Most-Downloaded Games Of 2025 Revealed, Including A Call Of Duty Surprise - GameSpot",
         "description": "Sports games reigned in 2025, and Battlefield 6 wasn't far behind.",
         "source_link": "https://www.gamespot.com/gallery/ps5-and-ps4s-most-downloaded-games-of-2025-revealed-including-a-call-of-duty-surprise/2900-7406/"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/MSFT_Holiday_copilot_Card_1-1152x648-1763493467.jpeg",
         "title": "A single click mounted a covert, multistage attack against Copilot - Ars Technica",
         "description": "Exploit exfiltrating data from chat histories worked even after users closed chat windows.",
         "source_link": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Copy-of-1.jpg?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
         "title": "Naya Connect is a modular mechanical keyboard system for the indecisive - The Verge",
         "description": "Naya Connect is a modular mechanical keyboard ecosystem with a swappable numpad, trackball, a 6DoF spatial mouse, and more.",
         "source_link": "https://www.theverge.com/news/862123/naya-connect-modular-mechanical-keyboard-kickstarter"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://helios-i.mashable.com/imagery/articles/04bwDannfE0rRQRFr9myT2j/hero-image.fill.size_1200x675.v1768412426.png",
         "title": "Last chance to get a Kindle for up to 31% off - Mashable",
         "description": "These Kindle deals end tomorrow, so this is go time.",
         "source_link": "https://mashable.com/article/jan-14-kindle-last-chance-deal"
       },
       {
-        "rank": 8,
+        "rank": 10,
         "image": "https://assetsio.gnwcdn.com/OSP-hero-image-2026-d052c57067d4888ebd31.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Nintendo, PlayStation, and Xbox update their 2020 pledge to \"improve player safety across our platforms\" - GamesIndustry.biz",
         "description": "Nintendo, Sony Interactive Entertainment, and Microsoft continue to collaborate in a bid to \"improve player safety acro\u2026",
         "source_link": "https://www.gamesindustry.biz/nintendo-playstation-and-xbox-update-their-2020-pledge-to-improve-player-safety-across-our-platforms"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.mos.cms.futurecdn.net/TnSftznBShisVRkjYUY3S5-2048-80.jpg",
-        "title": "Smooth as silk: One UI 8.5 might bring strong performance to Galaxy - Android Central",
-        "description": "A leak reported that Samsung upgraded the kernel version of its One UI 8.5 software, which could bring a massive performance update for Galaxy.",
-        "source_link": "https://www.androidcentral.com/phones/samsung-galaxy/samsungs-one-ui-8-5-could-offer-the-most-impactful-performance-update"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/01/maurice-lacroix-1975-Master-Grand-Date-Retrograde-lead.webp",
-        "title": "This Underrated Affordable Swiss Watch Brand Has a New Grail - Gear Patrol",
-        "description": "Maurice Lacroix unveils its 1975 Master Grand Date Retrograde, which combines two high-end complications for less than you'd expect.",
-        "source_link": "https://www.gearpatrol.com/watches/maurice-lacroix-1975-master-grand-date-retrograde/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
+        "image": "https://image.tmdb.org/t/p/w200/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
+        "title": "The Rip",
+        "description": "After a team of Miami cops discovers millions in cash inside a derelict stash house, trust frays as everything \u2014 and everyone \u2014 is called into questio...",
+        "source_link": "https://www.themoviedb.org/movie/1306368"
+      },
+      {
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
         "title": "Rental Family",
         "description": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in ro...",
         "source_link": "https://www.themoviedb.org/movie/1208348"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
         "title": "28 Years Later: The Bone Temple",
         "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with J...",
         "source_link": "https://www.themoviedb.org/movie/1272837"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/vobigFZFvbYPf6ElYJu07P9rH8C.jpg",
         "title": "Dust Bunny",
         "description": "Ten-year-old Aurora asks her hitman neighbor to kill the monster under her bed that she claims ate her family. To protect her, he must battle an onsla...",
         "source_link": "https://www.themoviedb.org/movie/1043197"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
-        "title": "The Rip",
-        "description": "After a team of Miami cops discovers millions in cash inside a derelict stash house, trust frays as everything \u2014 and everyone \u2014 is called into questio...",
-        "source_link": "https://www.themoviedb.org/movie/1306368"
       },
       {
         "rank": 5,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg",
-        "title": "Song Sung Blue",
-        "description": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow y...",
-        "source_link": "https://www.themoviedb.org/movie/1371185"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
         "title": "Predator: Badlands",
         "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
         "source_link": "https://www.themoviedb.org/movie/1242898"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "title": "Wicked: For Good",
+        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
+        "source_link": "https://www.themoviedb.org/movie/967941"
       }
     ]
   }
