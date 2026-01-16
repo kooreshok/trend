@@ -1,76 +1,76 @@
 {
-  "last_updated": "January 16, 2026, 14:19 UTC",
+  "last_updated": "January 16, 2026, 15:20 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://assetsio.gnwcdn.com/black-flag-whale.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Evidence mounts to suggest Ubisoft really is about to announce an Assassin\u2019s Creed 4: Black Flag remake - Eurogamer",
-        "description": "Ubisoft has uploaded a bunch of Assassin's Creed: Black Flag music, hinting again at a remake reveal.",
-        "source_link": "https://www.eurogamer.net/assassins-creed-black-flag-remake-music-upload"
+        "image": "https://assets.warhammer-community.com/40k_teamnightbringers-jan13-1-feature-oym1ji6lsu.jpg",
+        "title": "The Warhammer Community team paints a pair of spectacular Nightbringer C\u2019tan Shards - Warhammer Community",
+        "description": "More inspiration for how to paint this awesome miniature.",
+        "source_link": "https://www.warhammer-community.com/articles/uzs2caoc/the-warhammer-community-team-paints-a-pair-of-spectacular-nightbringer-ctan-shards"
       },
       {
         "rank": 2,
+        "image": "https://media.wired.com/photos/6967c73de71b2dcf27017cc4/191:100/w_1280,c_limit/Google-Bluetooth-Hack-Security-1502461746.jpg",
+        "title": "Hundreds of Millions of Audio Devices Need a Patch to Prevent Wireless Hacking and Tracking - WIRED",
+        "description": "Flaws in how 17 models of headphones and speakers use Google\u2019s one-tap Fast Pair Bluetooth protocol have left devices open to eavesdroppers and stalkers.",
+        "source_link": "https://www.wired.com/story/google-fast-pair-bluetooth-audio-accessories-vulnerability-patches/"
+      },
+      {
+        "rank": 3,
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/LFYSMKERFJA2RK3WRI63MZEXDM.jpg?auth=adbacd1b19a60864e271d1e7ecfd40d21dec91319ed9972d90a786af74eef4bf&width=1440",
+        "title": "Luxe in the City: What you can buy for $10 million+ in Boston - The Boston Globe",
+        "description": "What does $10 million get you in Boston? Here's a look at some high-end properties on the market.",
+        "source_link": "https://www.bostonglobe.com/2026/01/15/real-estate/luxury-city-boston-back-bay-beacon-hill-listings/"
+      },
+      {
+        "rank": 4,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/ChatGPT-Translate.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "OpenAI\u2019s ChatGPT translator challenges Google Translate - The Verge",
         "description": "\ufeffChatGPT Translate allows users to direct the style of translated text, such as \u2018more fluent\u2019 and \u2018academic.\u2019",
         "source_link": "https://www.theverge.com/news/862448/openai-chatgpt-translate-tool-launch-website"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://compote.slate.com/images/e89ba769-a6b0-4b5c-9e14-398229243a2a.jpeg?crop=2000%2C1333%2Cx0%2Cy0&width=1560",
+        "title": "I Work at a Fitness-Related Company. My Colleagues\u2019 Reactions to My Major Weight Loss Are Concerning. - Slate",
+        "description": "I'm not ready for the next work conference.",
+        "source_link": "https://slate.com/advice/2026/01/weight-loss-advice-job-coworkers.html"
+      },
+      {
+        "rank": 6,
+        "image": "https://cdn.mos.cms.futurecdn.net/uyzxnfMCFx3BJx6JbAtFgS-1920-80.jpg",
+        "title": "Resident Evil Village hits Xbox Play Anywhere for PC early, but it's broken - Windows Central",
+        "description": "Resident Evil Village hits Xbox Game Pass on Jan 20. The landmark horror title concludes Ethan Winters' story, and sets the scene for Resident Evil Requiem.",
+        "source_link": "https://www.windowscentral.com/gaming/xbox/resident-evil-village-picks-up-xbox-play-anywhere-support-on-pc"
+      },
+      {
+        "rank": 7,
         "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F832845f6-4490-4e6d-a8b6-1072406191f4.jpg?source=next-barrier-page",
         "title": "Apple sits out AI arms race to play kingmaker between Google and OpenAI - Financial Times",
         "description": "Multibillion-dollar deal to secure Gemini models reflects cautious approach to infrastructure spending",
         "source_link": "https://www.ft.com/content/8033b1bc-4ffe-47ed-baf0-5abea6a1322a"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://images.timeextension.com/9ca137104c733/large.jpg",
         "title": "\"It Has Been Years In The Making\" - Ecco's Creator Reconfirms A New Game Is In Development - Time Extension",
         "description": "\"He's a bridge between worlds\"",
         "source_link": "https://www.timeextension.com/news/2026/01/it-has-been-years-in-the-making-eccos-creator-reconfirms-a-new-game-is-in-development"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://regmedia.co.uk/2022/03/03/shutterstock_cut_red_wire.jpg",
         "title": "Maker fight! SparkFun cuts ties with Adafruit in harassment dispute - theregister.com",
         "description": ": Adafruit claims SparkFun aims to shoot the messenger for criticizing corporate tolerance of intolerance",
         "source_link": "https://www.theregister.com/2026/01/15/sparkfun_cuts_ties_with_adafruit/"
       },
       {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24198362/Stream_Deck___Lifestyle_Shot_17.jpg?quality=90&strip=all&crop=0%2C5.2218241939928%2C100%2C89.556351612014&w=1200",
-        "title": "The Stream Deck Plus is back to its lowest price - The Verge",
-        "description": "The Stream Deck Plus builds upon the standard model with four dials. It\u2019s on sale for $159.99 ($40 off) at multiple retailers, which matches its best price.",
-        "source_link": "https://www.theverge.com/gadgets/862274/elgato-stream-deck-plus-controller-deal-sale"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1837/18375603/4635453-battlefield6featured.jpg",
-        "title": "PS5 And PS4's Most-Downloaded Games Of 2025 Revealed, Including A Call Of Duty Surprise - GameSpot",
-        "description": "Sports games reigned in 2025, and Battlefield 6 wasn't far behind.",
-        "source_link": "https://www.gamespot.com/gallery/ps5-and-ps4s-most-downloaded-games-of-2025-revealed-including-a-call-of-duty-surprise/2900-7406/"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/Zoomed-Android-16-logo-green.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Here\u2019s everything new in Android 16 QPR3 Beta 2 [Gallery] - 9to5Google",
-        "description": "Android 16 QPR3 is shaping up to be a sizable release, and Beta 2 is now available for Google Pixel devices.",
-        "source_link": "http://9to5google.com/2026/01/14/android-16-qpr3-beta-2-everything-new/"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/MSFT_Holiday_copilot_Card_1-1152x648-1763493467.jpeg",
-        "title": "A single click mounted a covert, multistage attack against Copilot - Ars Technica",
-        "description": "Exploit exfiltrating data from chat histories worked even after users closed chat windows.",
-        "source_link": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/"
-      },
-      {
         "rank": 10,
-        "image": "https://petapixel.com/assets/uploads/2026/01/The-Ricoh-GR-IV-Monochrome-Will-Cost-an-Extra-700.jpg",
-        "title": "The Ricoh GR IV Monochrome Will Cost an Extra $700 - PetaPixel",
-        "description": "The GR IV Monochrome costs $2,199.95. That\u2019s $700 more than the base model, which represents a 46% price increase.",
-        "source_link": "https://petapixel.com/2026/01/14/the-ricoh-gr-iv-monochrome-will-cost-an-extra-700/"
+        "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/cushmanthekushman.jpg",
+        "title": "The Perfect Ride For Someone With \u2018Non-Traditional\u2019 Employment: COTD - The Autopian",
+        "description": "There is something delightful about finding a weird car in a piece of media that isn\u2019t specifically about cars. You just have to wonder if it was intentional or if there was a car person involved. So many questions, so few answers. Jason presented such a scen\u2026",
+        "source_link": "https://www.theautopian.com/the-perfect-ride-for-someone-with-non-traditional-employment-cotd/"
       }
     ],
     "trending_movies": [
@@ -83,10 +83,10 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
-        "title": "28 Years Later: The Bone Temple",
-        "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with J...",
-        "source_link": "https://www.themoviedb.org/movie/1272837"
+        "image": "https://image.tmdb.org/t/p/w200/cqbXxAw9sUr4tJ5ffEwtnz6IL9o.jpg",
+        "title": "Killer Whale",
+        "description": "A gripping survival thriller centred around best friends, Trish Stevens and Maddie Clark, who find themselves locked into a deadly face-off against th...",
+        "source_link": "https://www.themoviedb.org/movie/1412598"
       },
       {
         "rank": 3,
@@ -97,10 +97,10 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/cqbXxAw9sUr4tJ5ffEwtnz6IL9o.jpg",
-        "title": "Killer Whale",
-        "description": "A gripping survival thriller centred around best friends, Trish Stevens and Maddie Clark, who find themselves locked into a deadly face-off against th...",
-        "source_link": "https://www.themoviedb.org/movie/1412598"
+        "image": "https://image.tmdb.org/t/p/w200/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+        "title": "28 Years Later: The Bone Temple",
+        "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with J...",
+        "source_link": "https://www.themoviedb.org/movie/1272837"
       },
       {
         "rank": 5,
