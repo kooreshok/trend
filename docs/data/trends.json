@@ -1,5 +1,5 @@
 {
-  "last_updated": "January 18, 2026, 01:28 UTC",
+  "last_updated": "January 18, 2026, 03:42 UTC",
   "categories": {
     "tech_news": [
       {
@@ -60,17 +60,17 @@
       },
       {
         "rank": 9,
-        "image": "https://aftermath.site/content/images/size/w1200/2026/01/Screenshot-2026-01-16-at-12.49.52---PM-1.png",
-        "title": "Games Journalism Layoffs Hit Inverse, The Verge - aftermath.site",
-        "description": "Media companies continue to have no idea what to do with gaming coverage",
-        "source_link": "https://aftermath.site/layoff-verge-inverse-gaming/"
-      },
-      {
-        "rank": 10,
         "image": "https://kotaku.com/app/uploads/2025/04/79fe2026a8dc711cfca2f19f6cf16eaf-1200x675.jpg",
         "title": "Meme-Fueled Metacritic War On Clair Obscur Gets Even Weirder - Kotaku",
         "description": "It costs more than ever to get Cory In The House in your house",
         "source_link": "https://kotaku.com/cory-house-metacritic-clair-obscur-ebay-2000660631"
+      },
+      {
+        "rank": 10,
+        "image": "https://m-cdn.phonearena.com/images/article/177405-wide-two_1200/Boring-Galaxy-S26-reality-acknowledged-by-Samsung-ahead-of-release.jpg",
+        "title": "Boring Galaxy S26 reality acknowledged by Samsung ahead of release - PhoneArena",
+        "description": "Samsung has put to rest rumors about a major change for the Galaxy S26.",
+        "source_link": "https://www.phonearena.com/news/samsung-reveals-official-galaxy-s26-names_id177405"
       }
     ],
     "trending_movies": [
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/r83HIGA0mUiy7I9qVr17pF7SCDP.jpg",
-        "title": "Good Fortune",
-        "description": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist....",
-        "source_link": "https://www.themoviedb.org/movie/1114967"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/erTRAi241eYF4K8KoGGOI8kFPox.jpg",
         "title": "Predator: Badlands",
         "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
         "source_link": "https://www.themoviedb.org/movie/1242898"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
-        "title": "TRON: Ares",
-        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
-        "source_link": "https://www.themoviedb.org/movie/533533"
-      },
-      {
-        "rank": 10,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/lE9KpVwgeWHMwgwkNaeH5nEFh20.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "title": "Wicked: For Good",
+        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
+        "source_link": "https://www.themoviedb.org/movie/967941"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+        "title": "TRON: Ares",
+        "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
+        "source_link": "https://www.themoviedb.org/movie/533533"
       }
     ]
   }
