@@ -1,55 +1,55 @@
 {
-  "last_updated": "January 17, 2026, 23:15 UTC",
+  "last_updated": "January 18, 2026, 01:28 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2206289956-1024x648.jpg",
+        "title": "Rackspace customers grapple with \u201cdevastating\u201d email hosting price hike - Ars Technica",
+        "description": "Reseller says Rackspace plans to charge it 706 percent more.",
+        "source_link": "https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.motor1.com/images/mgl/Qeb9NY/s1/2026-ford-mustang-dark-horse-sc-front-3-4.jpg",
+        "title": "Ford Mustang Dark Horse SC Revealed: A Sinister Supercharged Pony Car - Motor1.com",
+        "description": "The Dark Horse SC is Ford\u2019s latest Mustang, with a supercharged 5.2-liter V8 engine and seven-speed dual-clutch. It will sit between the Dark Hose and GTD.",
+        "source_link": "https://www.motor1.com/news/784455/2026-ford-mustang-dark-horse-sc-revealed/"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/library-shelves-1152x648-1768598730.jpg",
+        "title": "Judge orders Anna\u2019s Archive to delete scraped data; no one thinks it will comply - Ars Technica",
+        "description": "WorldCat operator hopes default judgment will convince web hosts to take action.",
+        "source_link": "https://arstechnica.com/tech-policy/2026/01/judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply/"
+      },
+      {
+        "rank": 4,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/password-login-1000x648.jpeg",
         "title": "Mandiant releases rainbow table that cracks weak admin password in 12 hours - Ars Technica",
         "description": "Windows laggards still using the vulnerable hashing function: Your days are numbered.",
         "source_link": "https://arstechnica.com/security/2026/01/mandiant-releases-rainbow-table-that-cracks-weak-admin-password-in-12-hours/"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://assets.warhammer-community.com/1-feature07-edobltvqzi.jpg",
         "title": "The New Year Preview \u2013 Tanks galore for the Legiones Astartes - Warhammer Community",
         "description": "New super-heavies and Journal Tactica announced.",
         "source_link": "https://www.warhammer-community.com/articles/o0vvkblo/the-new-year-preview-tanks-galore-for-the-legiones-astartes"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://assets-prd.ignimgs.com/2026/01/16/untitled-design-1768593134753.png?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Today\u2019s Top Deals: Save on Audible, Cyberpunk 2077, USB Docks, and More - IGN",
         "description": "And score discounts on other tech, gaming, and lifestyle must-haves.",
         "source_link": "https://www.ign.com/articles/best-deals-for-january-16-2026"
       },
       {
-        "rank": 4,
-        "image": "https://assets.warhammer-community.com/1-feature06-d4w6xoepzg.jpg",
-        "title": "The New Year Preview \u2013 All-new Legio Custodes Revealed - Warhammer Community",
-        "description": "The Emperor unsheathes his talons.",
-        "source_link": "https://www.warhammer-community.com/articles/mdp0kzdk/the-new-year-preview-all-new-legio-custodes-revealed"
-      },
-      {
-        "rank": 5,
+        "rank": 7,
         "image": "https://assets.warhammer-community.com/feature01a-1zy5vvyjtv.jpg",
         "title": "The New Year Preview \u2013 Prince Yriel counterattacks with new Aeldari Corsairs - Warhammer Community",
         "description": "The Eldritch Raiders strike from the void.",
         "source_link": "https://www.warhammer-community.com/articles/l7x5v6ib/the-new-year-preview-prince-yriel-counterattacks-with-new-aeldari-corsairs"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/AMD_Ryzen_7000_Desktop_CPU_Lineup_low_res_scale_4_00x_Custom-1.webp?quality=90&strip=all&crop=0%2C19.410533394344%2C100%2C61.178933211313&w=1200",
-        "title": "The two things AMD subtly revealed at CES that actually excite me - The Verge",
-        "description": "AMD\u2019s big CES 2026 announcements might have bored gamers, but we were able to find out about about lower Strix Halo system pricing and modular socketed notebook chips!",
-        "source_link": "https://www.theverge.com/tech/862861/amd-ces-2026-socketed-laptop-chips-strix-halo-price"
-      },
-      {
-        "rank": 7,
-        "image": "https://kotaku.com/app/uploads/2026/01/arc-raiders-banned.jpg",
-        "title": "Arc Raiders Starts Handing Out Brutal Permanent Bans To Its Worst Cheaters - Kotaku",
-        "description": "Gone are the 30-day suspensions for those egregiously cheating",
-        "source_link": "https://kotaku.com/arc-raiders-permanent-bans-cheaters-stream-sniping-2000660615"
       },
       {
         "rank": 8,
@@ -90,24 +90,24 @@
       },
       {
         "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg",
+        "title": "Killer Whale",
+        "description": "A gripping survival thriller centred around best friends, Trish Stevens and Maddie Clark, who find themselves locked into a deadly face-off against th...",
+        "source_link": "https://www.themoviedb.org/movie/1412598"
+      },
+      {
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
         "title": "Rental Family",
         "description": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in ro...",
         "source_link": "https://www.themoviedb.org/movie/1208348"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/vobigFZFvbYPf6ElYJu07P9rH8C.jpg",
         "title": "Dust Bunny",
         "description": "Ten-year-old Aurora asks her hitman neighbor to kill the monster under her bed that she claims ate her family. To protect her, he must battle an onsla...",
         "source_link": "https://www.themoviedb.org/movie/1043197"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg",
-        "title": "Killer Whale",
-        "description": "A gripping survival thriller centred around best friends, Trish Stevens and Maddie Clark, who find themselves locked into a deadly face-off against th...",
-        "source_link": "https://www.themoviedb.org/movie/1412598"
       },
       {
         "rank": 6,
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/r83HIGA0mUiy7I9qVr17pF7SCDP.jpg",
+        "title": "Good Fortune",
+        "description": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist....",
+        "source_link": "https://www.themoviedb.org/movie/1114967"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/erTRAi241eYF4K8KoGGOI8kFPox.jpg",
         "title": "Predator: Badlands",
         "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
         "source_link": "https://www.themoviedb.org/movie/1242898"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
         "title": "TRON: Ares",
         "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encoun...",
         "source_link": "https://www.themoviedb.org/movie/533533"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
-        "title": "Wicked: For Good",
-        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
-        "source_link": "https://www.themoviedb.org/movie/967941"
-      },
-      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg",
-        "title": "People We Meet on Vacation",
-        "description": "Poppy's a free spirit. Alex loves a plan. After years of summer vacations, these polar-opposite pals wonder if they could be a perfect romantic match....",
-        "source_link": "https://www.themoviedb.org/movie/1034716"
+        "image": "https://image.tmdb.org/t/p/w200/lE9KpVwgeWHMwgwkNaeH5nEFh20.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       }
     ]
   }
