@@ -1,62 +1,62 @@
 {
-  "last_updated": "January 19, 2026, 06:33 UTC",
+  "last_updated": "January 19, 2026, 07:25 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.zdnet.com/a/img/resize/21a78a68cee73bbbf4e65b6b38f80112ac136e4f/2025/01/08/767ceade-c206-4fe4-b73b-6fb75b2d05f5/dsc03313.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "Your smart plug is seriously underutilized: 7 ways I've programmed mine to automate my home - ZDNET",
+        "description": "Smart plugs are a simple, affordable way to level up your home. Here are some clever ways I use them.",
+        "source_link": "https://www.zdnet.com/home-and-office/smart-home/best-smart-plug-features/"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.uploadvr.com/content/images/size/w1200/2026/01/OculusEyeTracking.png",
+        "title": "The Metaverse At All Costs: How Mark Zuckerberg Fumbled Oculus VR - UploadVR",
+        "description": "Why did Meta take a pause on eye tracking after the Quest Pro?",
+        "source_link": "https://www.uploadvr.com/apple-facebook-oculus/"
+      },
+      {
+        "rank": 3,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/Untitled-53.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "This new Anker 13-in-1 docking station is great at home and on the go [Hands-on] - 9to5Mac",
         "description": "At CES 2026, Anker unveiled a handful of new accessories for Apple users. One of them is this new 13-in-1...",
         "source_link": "https://9to5mac.com/2026/01/17/anker-nano-docking-station-hands-on-ces-2026-for-mac/"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://www.sciencealert.com/images/2026/01/gamingkid_header.jpg.jpg",
         "title": "Playing Video Games Has an Unexpected Effect on Kids' IQ, Study Says - ScienceAlert",
         "description": "Researchers have linked spending more time playing video games with a boost in intelligence in children, which goes some way to contradicting the narrative that gaming is bad for young minds.",
         "source_link": "https://www.sciencealert.com/playing-video-games-has-an-unexpected-effect-on-kids-iq-study-says"
       },
       {
-        "rank": 3,
-        "image": "https://www.uploadvr.com/content/images/size/w1200/2026/01/John-Carmack-1.webp",
-        "title": "Subject: Oculus Strategy (LONG) - UploadVR",
-        "description": "A letter from John Carmack from more than 10 years ago helps frame the layoffs endured at Meta this week.",
-        "source_link": "https://www.uploadvr.com/subject-oculus-strategy-long-2026/"
-      },
-      {
-        "rank": 4,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68b6c8d1fcaaf31544d0ba53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "Samsung Accidentally Leaks New Galaxy S26 Models Before Launch - Forbes",
-        "description": "Samsung has accidentally leaked all new Galaxy S26 models weeks ahead of their launch.",
-        "source_link": "https://www.forbes.com/sites/jaymcgregor/2026/01/17/samsung-galaxy-s26-release-date-models-price-confirmed/"
-      },
-      {
         "rank": 5,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2025/12/RX-9070-XT.jpg",
+        "title": "AMD Expected To Focus More On RX 9070 XT Than Its Non-XT Variant As It Needs Less Price Adjustments - Wccftech",
+        "description": "AMD is reportedly going to focus more on the Radeon RX 9070 XT card instead of the RX 9070 amid DRAM shortages as it reduces the burden of price adjustments.",
+        "source_link": "https://wccftech.com/amd-expected-to-focus-more-on-rx-9070-xt-than-its-non-xt-variant/"
+      },
+      {
+        "rank": 6,
         "image": "https://gizmodo.com/app/uploads/2026/01/leicas-1200x675.jpg",
         "title": "Terrifying Photo from the Minneapolis ICE Protests Will Have You Shopping for Leicas - Gizmodo",
         "description": "A very cool new way to stress test your $4600 camera.",
         "source_link": "https://gizmodo.com/terrifying-photo-from-the-minneapolis-ice-protests-will-have-you-shopping-for-leicas-2000711428"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/Flood-sensor.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "HomeKit Weekly: Why water leak sensors are still the most critical smart home upgrade for 2026 - 9to5Mac",
         "description": "HomeKit leak sensors offer crucial protection. Learn why detection is a mandatory upgrade for 2026 to prevent costly water damage.",
         "source_link": "https://9to5mac.com/2026/01/17/homekit-weekly-why-water-leak-sensors-are-still-the-most-critical-smart-home-upgrade-for-2026/"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://helios-i.mashable.com/imagery/articles/06lQQd5yDxoCAIjMcKlIgnI/hero-image.fill.size_1200x675.v1768673395.png",
         "title": "This Jackery HomePower 3000 portable power station is over 50% off right now - Mashable",
         "description": "Use it for fun, chores, projects, or emergencies.",
         "source_link": "https://mashable.com/article/jan-17-jackery-homepower-3000-portable-power-station-deal"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.videocardz.com/1/2026/01/RADEON-RX-9070-HERO.jpg",
-        "title": "AMD reportedly now prioritizes RX 9070 XT over non-XT variant - VideoCardz.com",
-        "description": "AMD reportedly shifts focus to RX 9070 XT, RX 9070 left behind The \"memory panic\" is starting to mess with GPU lineups. When memory gets pricier, cards",
-        "source_link": "https://videocardz.com/newz/amd-reportedly-now-prioritizes-rx-9070-xt-over-non-xt-variant"
       },
       {
         "rank": 9,
@@ -90,38 +90,38 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/cqbXxAw9sUr4tJ5ffEwtnz6IL9o.jpg",
-        "title": "Killer Whale",
-        "description": "Follows best friends Maddie and Trish as they find themselves trapped in a remote lagoon with the dangerous killer whale named Ceto....",
-        "source_link": "https://www.themoviedb.org/movie/1412598"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
-        "title": "The Secret Agent",
-        "description": "Marcelo is on the run from mercenary killers after becoming the target of a dictator amid the ruthless, political tumult of 1977 Brazil. With the help...",
-        "source_link": "https://www.themoviedb.org/movie/1220564"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
         "title": "28 Years Later: The Bone Temple",
         "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with J...",
         "source_link": "https://www.themoviedb.org/movie/1272837"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/h3zd2DFwrQWrE3zc7fTH0LrCFjs.jpg",
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
         "title": "Rental Family",
         "description": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in ro...",
         "source_link": "https://www.themoviedb.org/movie/1208348"
       },
       {
-        "rank": 7,
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/cqbXxAw9sUr4tJ5ffEwtnz6IL9o.jpg",
+        "title": "Killer Whale",
+        "description": "Follows best friends Maddie and Trish as they find themselves trapped in a remote lagoon with the dangerous killer whale named Ceto....",
+        "source_link": "https://www.themoviedb.org/movie/1412598"
       },
       {
         "rank": 8,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "title": "Wicked: For Good",
+        "description": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the f...",
+        "source_link": "https://www.themoviedb.org/movie/967941"
       }
     ]
   }
