@@ -1,76 +1,76 @@
 {
-  "last_updated": "January 20, 2026, 20:09 UTC",
+  "last_updated": "January 20, 2026, 21:17 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ROG-2-1-1152x648.jpg",
+        "title": "Asus confirms its smartphone business is on indefinite hiatus - Ars Technica",
+        "description": "Asus chairman Jonney Shih sees AI applications as the company's main focus going forward.",
+        "source_link": "https://arstechnica.com/gadgets/2026/01/asus-confirms-its-smartphone-business-is-on-indefinite-hiatus/"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-10-Magic-Cue-UI-Messages-App-Suggestion-Closeup-w.t-glow.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Pixel 10\u2019s Magic Cue feature seems to be preparing Google Tasks & Wallet integration - 9to5Google",
+        "description": "New findings reveal that, months after launch, Google might be expanding on the Pixel 10\u2019s Magic Cue feature by adding...",
+        "source_link": "http://9to5google.com/2026/01/19/pixel-10s-magic-cue-feature-seems-to-be-preparing-google-tasks-wallet-integration/"
+      },
+      {
+        "rank": 3,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Google-Phone-app-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google Phone app gets short Material 3 Expressive bottom bar - 9to5Google",
         "description": "The Phone by Google app is now fully compliant with Material 3 Expressive after shrinking its bottom bar to...",
         "source_link": "http://9to5google.com/2026/01/19/google-phone-m3-expressive-bottom-bar/"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://images.pushsquare.com/8e074421912bd/large.jpg",
         "title": "PS Plus Premium's PS3 Game Streaming Is Currently Broken - Push Square",
         "description": "It only does nothing",
         "source_link": "https://www.pushsquare.com/news/2026/01/ps-plus-premiums-ps3-game-streaming-is-currently-broken"
       },
       {
-        "rank": 3,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/Cloud-Gaming_iPadSurfaceiPhone-1152x648.jpg",
-        "title": "Reports of ad-supported Xbox game streams show Microsoft\u2019s lack of imagination - Ars Technica",
-        "description": "Xbox maker needs some fresher ideas for expanding access to cloud gaming.",
-        "source_link": "https://arstechnica.com/gaming/2026/01/reports-of-ad-supported-xbox-game-streams-show-microsofts-lack-of-imagination/"
-      },
-      {
-        "rank": 4,
+        "rank": 5,
         "image": "https://kotaku.com/app/uploads/2026/01/Johnny-Silverhand.jpg",
         "title": "Modder Blasts \u2018Corpo Logic\u2019 Over Cyberpunk 2077 VR Takedown - Kotaku",
         "description": "Paywalled mods turn Baldur's Gate 3 and every other major game into unofficial VR ports",
         "source_link": "https://kotaku.com/cyberpunk-2077-vr-mod-baldurs-gate-3-takedown-2000660987"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/google-logo-2025-02.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google app finally redesigns voice search on Android - 9to5Google",
         "description": "Google is rolling out a significant redesign and modernization of voice search on Android inspired by AI Mode and Search Live.",
         "source_link": "http://9to5google.com/2026/01/19/google-voice-search-redesign-android/"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/marathonshooter.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
         "title": "Bungie\u2019s Marathon shooter launches on March 5th - The Verge",
         "description": "Bungie is pricing its upcoming extraction shooter at $39.99.",
         "source_link": "https://www.theverge.com/news/864146/bungie-marathon-release-date-march-5th-price"
       },
       {
-        "rank": 7,
-        "image": "https://simscommunity.info/wp-content/uploads/2026/01/sims-4-royalty-and-legacy-world-map-reveal-fi-new.jpg",
-        "title": "The Sims 4 Ondarion World Reveal: Royalty & Legacy Map - Sims Community",
-        "description": "New week marks a new era of The Sims 4 Royalty & Legacy news. Electronic Arts has just done a reveal of The Sims 4 Ondarion World, a brand new World",
-        "source_link": "https://simscommunity.info/2026/01/19/sims-4-ondarion-world-map-royalty-and-legacy-reveal/"
-      },
-      {
         "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Gemini-Live-camera-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Gemini Live preps big upgrades with \u2018Thinking Mode\u2019 and \u2018Experimental Features\u2019 - 9to5Google",
-        "description": "Gemini Live today is still based on 2.5 Flash, but big upgrades are coming according to the latest beta version of the Google app.",
-        "source_link": "http://9to5google.com/2026/01/19/gemini-live-upgrade-teardown/"
+        "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/snow-blower-on-car-TS.jpg",
+        "title": "Maybe Don\u2019t Use A Snowblower To Clean Off Your Car - The Autopian",
+        "description": "Just because a snowblower can get the snow off your driveway quickly doesn't mean it's the best way to get snow off a car.",
+        "source_link": "https://www.theautopian.com/maybe-dont-use-a-snowblower-to-clean-off-your-car/"
       },
       {
         "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/11/android-figure-0123.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google calls Android\u2019s new sideloading flow \u2018high friction\u2019 - 9to5Google",
-        "description": "Google announced changes to Android app sideloading last year that would require developer verification as a safety measure, but the...",
-        "source_link": "http://9to5google.com/2026/01/19/google-calls-androids-new-sideloading-flow-high-friction/"
+        "image": "https://images.ctfassets.net/s5n2t79q9icq/5HWH6rP2obzSiwfTx9jm0V/b56599e4c30ab4673334192256ac6ce0/ECL_Champions_of_the_Shoal_960x540.jpg",
+        "title": "Lorwyn Eclipsed Vision Design Handoff Document, Part 2 - Magic: The Gathering",
+        "description": "Mark finishes his trip through the vision design handoff document for Lorwyn Eclipsed.",
+        "source_link": "https://magic.wizards.com/en/news/making-magic/lorwyn-eclipsed-vision-design-handoff-document-part-2"
       },
       {
         "rank": 10,
-        "image": "https://images.macrumors.com/t/6GuyN79iPw_V830QwB643xsMJ7Q=/2560x/article-new/2026/01/iPhone-Top-Left-Hole-Punch-Feature-Blue.jpg",
-        "title": "iPhone 18 Pro: Under-Screen Face ID, Dynamic Island Debated, LTPO+ - MacRumors",
-        "description": "While most sources in the Apple rumor scene agree that the iPhone 18 Pro and iPhone 18 Pro Max will feature under-screen Face ID, there continues to...",
-        "source_link": "https://www.macrumors.com/2026/01/19/iphone-18-pro-face-id-ltpo-plus-rumors/"
+        "image": "https://images.ladbible.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltfcffb4d6be7431bf/696dfb764ce1e7b4555b7fe1/gta_6_vice_city_19012026.png",
+        "title": "GTA 6 Made Playable Early For One Gamer, Heartwarming Move From Rockstar - GAMINGbible",
+        "description": "Rockstar Games has seemingly allowed a terminally ill fan early access to GTA 6 launch later this year on November 19, 2026.",
+        "source_link": "https://www.gamingbible.com/news/gta-6-playable-early-heartwarming-rockstar-139252-20260119"
       }
     ],
     "trending_movies": [
@@ -104,31 +104,31 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
-        "title": "28 Years Later: The Bone Temple",
-        "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with J...",
-        "source_link": "https://www.themoviedb.org/movie/1272837"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
         "title": "Marty Supreme",
         "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
-        "title": "Mercy",
-        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has 90 minutes to prove his innocence to the advanced AI Judge he on...",
-        "source_link": "https://www.themoviedb.org/movie/1236153"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+        "title": "28 Years Later: The Bone Temple",
+        "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with J...",
+        "source_link": "https://www.themoviedb.org/movie/1272837"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
         "title": "Hamnet",
         "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
         "source_link": "https://www.themoviedb.org/movie/858024"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+        "title": "Mercy",
+        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has 90 minutes to prove his innocence to the advanced AI Judge he on...",
+        "source_link": "https://www.themoviedb.org/movie/1236153"
       },
       {
         "rank": 9,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
+        "image": "https://image.tmdb.org/t/p/w200/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       }
     ]
   }
