@@ -1,69 +1,76 @@
 {
-  "last_updated": "January 21, 2026, 16:39 UTC",
+  "last_updated": "January 21, 2026, 17:51 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.ny.eater.com/wp-content/uploads/sites/6/2026/01/Pad-Kee-Mow-Chicken-4_Photo-Credit_Alex-Staniloff.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
+        "title": "Thai Spot Fish Cheeks Has Launched a New Takeout and Delivery Shop - Eater New York",
+        "description": "\ufeffPlus, Daniel Humm wrote a children\u2019s book \u2014\u00a0and more intel",
+        "source_link": "https://ny.eater.com/new-york-restaurant-news/408593/little-cheeks-from-fish-cheeks-delivery-takeout-noodles"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/siri-gemini.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "8+ new iPhone features coming soon, thanks to Google Gemini - 9to5Mac",
+        "description": "Apple's partnering with Google to upgrade Siri with Gemini AI. Here are 8+ new iPhone features coming in iOS 26.4 and iOS 27.",
+        "source_link": "https://9to5mac.com/2026/01/20/new-iphone-features-coming-soon-thanks-to-google/"
+      },
+      {
+        "rank": 3,
+        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/01/06_Max_and_Chloe-2c8af341058c6b5a28da.jpg",
+        "title": "Life is Strange: Reunion Finally Brings Max and Chloe Back Together - Xbox Wire",
+        "description": "Life is Strange: Reunion will finally reunite Max and Chloe for the ending they deserve. Learn more about this upcoming finale made by and for fans.",
+        "source_link": "https://news.xbox.com/en-us/2026/01/20/life-is-strange-reunion-reveal/"
+      },
+      {
+        "rank": 4,
+        "image": "https://images.macrumors.com/t/GEiBu2iaA9GrrmRRMXVC3ULLfZo=/2500x/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
+        "title": "Latest iPhone 18 Pro Leak Corroborated by Respected Former Analyst - MacRumors",
+        "description": "Respected veteran display analyst Ross Young has added his support to a new leak today about the iPhone 18 Pro's front-panel design.   In a new...",
+        "source_link": "https://www.macrumors.com/2026/01/20/latest-iphone-18-pro-leak-corroborated/"
+      },
+      {
+        "rank": 5,
+        "image": "https://assetsio.gnwcdn.com/Ball-x-Pit-Regal-Update.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Ball x Pit sets first content update for January - Eurogamer",
+        "description": "2025 indie roguelite sensation Ball x Pit has set its first content update for late January, and it includes two new hunters and eight new balls.",
+        "source_link": "https://www.eurogamer.net/ball-x-pit-reveals-first-content-update-with-new-characters-and-balls"
+      },
+      {
+        "rank": 6,
+        "image": "https://assetsio.gnwcdn.com/s3_news_tmp_134998_razer__2x1__940.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Razer boss says consumers are sick of AI slop, but they want tools that help \"developers make great games\" - GamesIndustry.biz",
+        "description": "Min-Liang Tan has defended his company's $600 million investment into the technology",
+        "source_link": "https://www.gamesindustry.biz/razer-boss-says-consumers-are-sick-of-ai-slop-but-they-want-tools-that-help-developers-make-great-games"
+      },
+      {
+        "rank": 7,
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb0068b25-0b6c-4cf2-9380-03ca50306136.jpg?source=next-barrier-page",
+        "title": "Scientists unveil crawling robot hand that can grasp multiple objects - Financial Times",
+        "description": "Invention\u2019s advantages in dexterity over human counterpart raise prospect of industrial uses",
+        "source_link": "https://www.ft.com/content/39d6fd07-4202-4404-8f78-38a77caf79a0"
+      },
+      {
+        "rank": 8,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/Anker-45W.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Anker\u2019s tiny 45W charger adds a useful built-in display, and it\u2019s now available [Hands-on] - 9to5Mac",
+        "description": "At CES 2026, Anker unveiled a pretty neat new 45W charge brick with a smart display. You might\u2019ve heard about...",
+        "source_link": "https://9to5mac.com/2026/01/20/anker-45w-nano-charger-smart-display-ces-2026-hands-on/"
+      },
+      {
+        "rank": 9,
         "image": "https://assets.warhammer-community.com/millionminischeckin1-jan20-1-feature-kt3x5tm3on.jpg",
         "title": "The Warhammer Community team have made their Million Miniatures Challenge pledge \u2013 What are you planning? - Warhammer Community",
         "description": "Here\u2019s what we\u2019re aiming to contribute.",
         "source_link": "https://www.warhammer-community.com/articles/qoglpxve/the-warhammer-community-team-have-made-their-million-miniatures-challenge-pledge-what-are-you-planning"
       },
       {
-        "rank": 2,
+        "rank": 10,
         "image": "https://m-cdn.phonearena.com/images/article/177427-wide-two_1200/Samsung-Galaxy-S26-Ultra-colors-basically-confirmed-after-promising-new-leak.jpg",
         "title": "Samsung Galaxy S26 Ultra colors basically confirmed after promising new leak - PhoneArena",
         "description": "These are most likely the finalized new colors for the Samsung Galaxy S26 Ultra.",
         "source_link": "https://www.phonearena.com/news/samsung-galaxy-s26-ultra-colors-basically-confirmed-after-new-leak_id177427"
-      },
-      {
-        "rank": 3,
-        "image": "https://assets-prd.ignimgs.com/2026/01/20/gettyimages-2218005352-1768920568777.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Ex-Nintendo of America Boss Doug Bowser Joins Hasbro, Owner of Dungeons & Dragons and Magic: The Gathering - ign.com",
-        "description": "Doug Bowser, the former president and chief operating officer at Nintendo of America, has joined the board of directors at Hasbro.",
-        "source_link": "https://www.ign.com/articles/ex-nintendo-of-america-boss-doug-bowser-joins-hasbro-owner-of-dungeons-dragons-and-magic-the-gathering"
-      },
-      {
-        "rank": 4,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Vast_Haven-1_Integration_Phase-1_ISO8_Cleanroom_Spring_2026-01-15-DSC_1375-3-1152x648.jpg",
-        "title": "The first commercial space station, Haven-1, is now undergoing assembly for launch - Ars Technica",
-        "description": "We have a very strong incentive to send a crew as quickly as we can safely do so.\"",
-        "source_link": "https://arstechnica.com/space/2026/01/the-first-commercial-space-station-haven-1-is-now-undergoing-assembly-for-launch/"
-      },
-      {
-        "rank": 5,
-        "image": "https://kotaku.com/app/uploads/2026/01/razerboss.jpg",
-        "title": "Razer CEO Can\u2019t Get Out Of His Own Way In Car Crash Interview On AI - Kotaku",
-        "description": "The Grok-powered Ava waifu AI is about the most sensible part of the conversation",
-        "source_link": "https://kotaku.com/razer-ava-ai-grok-interview-slop-motoko-2000661233"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ULNGZNT5EFDEVFHLRW7OSGNSQ4.jpg&w=1440",
-        "title": "\u2018Ball and gun\u2019 gamers and the plague of uninformed expertise - The Washington Post",
-        "description": "Sports games and shooters are often excellent. But the conversation around them is a symptom of a wider culture that treats participation as knowledge.",
-        "source_link": "https://www.washingtonpost.com/entertainment/video-games/2026/01/20/ball-and-gun-gamers/"
-      },
-      {
-        "rank": 7,
-        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/01/XBOX_GamePass_Announcement_16x9_01.20.2026_EN-US-28a52d6996493f5a5cd1.jpg",
-        "title": "Coming to Xbox Game Pass: Warhammer 40,000: Space Marine II, Death Stranding Director\u2019s Cut, and More - Xbox Wire",
-        "description": "Coming to Xbox Game Pass: Warhammer 40,000: Space Marine II, Death Stranding Director\u2019s Cut, and more!",
-        "source_link": "https://news.xbox.com/en-us/2026/01/20/xbox-game-pass-january-2026-wave-2/"
-      },
-      {
-        "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/BG3---Divinity-OS2_skeleton.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Larian games hit new highs after Divinity's reveal - Eurogamer",
-        "description": "Divinity: Original Sin 2 and Baldur's Gate 3 are seeing new peaks in player numbers following Larian Studios' new game announcement at The Game Awards.",
-        "source_link": "https://www.eurogamer.net/divinity-original-sin-2-and-baldurs-gate-3-hit-new-highs-after-larian-game-awards-reveal"
-      },
-      {
-        "rank": 9,
-        "image": "https://cordcuttersnews.com/wp-content/uploads/2023/11/shutterstock_1196950582-scaled.jpg",
-        "title": "Everything We Know About YouTube TV\u2019s New Cheaper TV Packages - | Cord Cutters News",
-        "description": "YouTube TV has announced plans to roll out a series of new, lower-cost streaming packages early this year. These new, cheaper YouTube TV Plans represent a significant shift from the service\u2019s traditional all-in-one base package, allowing users to select conte\u2026",
-        "source_link": "https://cordcuttersnews.com/everything-we-know-about-youtube-tvs-new-cheaper-tv-packages/"
       }
     ],
     "trending_movies": [
@@ -97,17 +104,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
-        "title": "Marty Supreme",
-        "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
         "title": "28 Years Later: The Bone Temple",
         "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with J...",
         "source_link": "https://www.themoviedb.org/movie/1272837"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+        "title": "Marty Supreme",
+        "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
         "rank": 7,
@@ -118,24 +125,24 @@
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
+        "title": "Return to Silent Hill",
+        "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
+        "source_link": "https://www.themoviedb.org/movie/680493"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
         "title": "Hamnet",
         "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
         "source_link": "https://www.themoviedb.org/movie/858024"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
-        "title": "Return to Silent Hill",
-        "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
-        "source_link": "https://www.themoviedb.org/movie/680493"
       }
     ]
   }
