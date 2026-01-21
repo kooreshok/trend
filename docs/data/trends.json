@@ -1,5 +1,5 @@
 {
-  "last_updated": "January 21, 2026, 09:29 UTC",
+  "last_updated": "January 21, 2026, 10:24 UTC",
   "categories": {
     "tech_news": [
       {
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/yVU6eMwHRgFWI9dtdxqOQg4NjD8.jpg",
         "title": "Dog 51",
         "description": "In the near future, Paris is divided into three zones that separate social classes, and no one can escape ALMA, a predictive AI that has revolutionize...",
         "source_link": "https://www.themoviedb.org/movie/1266798"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
       }
     ]
   }
