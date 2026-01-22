@@ -1,71 +1,85 @@
 {
-  "last_updated": "January 22, 2026, 18:27 UTC",
+  "last_updated": "January 22, 2026, 19:21 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": null,
+        "title": "Animal Crossing Aquarium Tour continues across the US this year - Nintendo",
+        "description": null,
+        "source_link": "https://www.nintendo.com/us/whatsnew/animal-crossing-aquarium-tour-continues-across-the-us-this-year/"
+      },
+      {
+        "rank": 2,
+        "image": "https://guitar.com/wp-content/uploads/2026/01/Quad-Cortex-Mini-1@2000x1500-1068x801.jpg",
+        "title": "\u201cA more compact form without compromise\u201d: Neural DSP downsizes its flagship Quad Cortex with the smaller but equally powerful Quad Cortex Mini - Guitar.com",
+        "description": "Neural DSP has unveiled the Quad Cortex Mini, offering the full sound and processing power of its flagship Quad Cortex amp modeller in a significantly smaller footprint.",
+        "source_link": "https://guitar.com/news/gear-news/neural-dsp-quad-cortex-mini/"
+      },
+      {
+        "rank": 3,
+        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/01/SM2_Techmarine_screenshot_07-eb5d6904f0bc1ee1a21e.jpg",
+        "title": "Techmarine: Dive Into Space Marine 2\u2019s Upcoming New Class - Xbox Wire",
+        "description": "Warhammer 40,000: Space Marine 2 deploys in the Xbox Game Pass next week, and a new playable character is set to follow soon after. How does it play? We\u2019re here to find out!",
+        "source_link": "https://news.xbox.com/en-us/2026/01/21/space-marine-2-techmarine/"
+      },
+      {
+        "rank": 4,
+        "image": "https://us-west-2-epicgames.graphassets.com/cm84mjx3f0a0j08n79wol8l1l/cmkmosors3feq07ohhujs9v7m",
+        "title": "Eric Cartman & Crew Cause Chaos in Rocket League - Rocket League \u00ae",
+        "description": "The gang has driven all the way from South Park, Colorado, to the arena. Complete Challenges in \u201cCartman\u2019s Crash Out\u201d to unlock Toppers based on the boys.",
+        "source_link": "https://www.rocketleague.com/news/cartmans-crash-out-the-boys-from-south-park-colorado-cause-chaos-in-rocket-league"
+      },
+      {
+        "rank": 5,
+        "image": "https://variety.com/wp-content/uploads/2026/01/Prince-of-Persia-Remake.png?w=1000&h=563&crop=1",
+        "title": "Prince of Persia Remake Game Canceled Amid Ubisoft Reorg, Layoffs - Variety",
+        "description": "After weeks of speculation following reported studio closures and rounds of layoffs, French video game publisher Ubisoft announced Wednesday it is launching a reorganization of the company",
+        "source_link": "https://variety.com/2026/digital/news/prince-of-persia-remake-canceled-ubisoft-reorg-layoffs-1236636684/"
+      },
+      {
+        "rank": 6,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifogaUYlDKHo/v1/1200x765.jpg",
         "title": "Sony Unveils $230 Clip-On Earbuds, Joining a Growing Wave - Bloomberg.com",
         "description": "Sony Group Corp. introduced its latest pair of consumer earbuds, with a clip-on design that resembles recent efforts from Bose Corp., Lenovo Group Ltd.\u2019s Motorola unit and Huawei Technologies Co.",
         "source_link": "https://www.bloomberg.com/news/articles/2026-01-21/sony-announces-230-linkbuds-clip-earbuds-joining-a-growing-style-trend"
       },
       {
-        "rank": 2,
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02218_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
         "title": "This midrange Android phone also runs Windows and Linux - The Verge",
         "description": "The NexPhone aims to answer the age-old question: why can\u2019t your phone just be your whole dang computer?",
         "source_link": "https://www.theverge.com/tech/864595/nexphone-android-linux-windows-11"
       },
       {
-        "rank": 3,
+        "rank": 8,
         "image": "https://www.gematsu.com/wp-content/uploads/2026/01/1348-Ex-Voto-Dated_01-21-26.jpg",
         "title": "1348 Ex Voto launches March 12 for PS5 and PC; Xbox Series version canceled - Gematsu",
         "description": "14th century Italy action adventure game 1348 Ex Voto will launch for PlayStation 5 and PC via Steam and Epic Games Store on March 12 for $24.99, publisher Dear Villagers and developer Sedleo annou\u2026",
         "source_link": "https://www.gematsu.com/2026/01/1348-ex-voto-launches-march-12-for-ps5-and-pc-xbox-series-version-canceled"
       },
       {
-        "rank": 4,
-        "image": "https://assetsio.gnwcdn.com/switch-2-games-cyberpunk-2077.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Cyberpunk 2077 VR creator says he's being \"punished\" by pirates after mod take down - Eurogamer",
-        "description": "Cyberpunk 2077 VR modder believes making it free following DMCA strike would be a moot point, as people are already pirating and circulating his work.",
-        "source_link": "https://www.eurogamer.net/cyberpunk-2077-vr-creator-says-hes-being-punished-by-pirates-after-mod-take-down"
+        "rank": 9,
+        "image": "https://blog.tipranks.com/wp-content/uploads/2025/06/nvdastock-750x406.jpg",
+        "title": "Nvidia Stock (NVDA) Rallies on Reports of Increased GPU Prices - TipRanks",
+        "description": "Nvidia stock gained on reports that the company has increased the price of its GPUs.",
+        "source_link": "https://www.tipranks.com/news/nvidia-stock-nvda-rallies-on-reports-of-increased-gpu-prices"
       },
       {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Instagram\u2019s top boss is missing the point about AI on the platform - The Verge",
-        "description": "Instagram head Adam Mosseri recently posted about the threat AI poses to his platform \u2014 but the call is actually coming from inside the algorithm.",
-        "source_link": "https://www.theverge.com/tech/864768/instagram-adam-mosseri-ai-content-algorithm"
-      },
-      {
-        "rank": 6,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/iPhone-18-Pro-Dynamic-Island-confusion-now-appears-to-be-resolved.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iPhone 18 Pro Dynamic Island confusion now appears to be resolved - 9to5Mac",
-        "description": "There\u2019s been considerable confusion about the fate of the iPhone 18 Pro Dynamic Island, with conflicting claims about the position...",
-        "source_link": "https://9to5mac.com/2026/01/21/iphone-18-pro-dynamic-island-confusion-now-appears-to-be-resolved/"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.nintendolife.com/f8cf1ebf6d607/large.jpg",
-        "title": "Random: YouTuber Combines Switch 2, PS5, And Xbox Series S Into One Huge Machine - Nintendo Life",
-        "description": "It's a beast",
-        "source_link": "https://www.nintendolife.com/news/2026/01/random-youtuber-combines-switch-2-ps5-and-xbox-series-s-into-one-huge-machine"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.trueachievements.com/imgs/170339/xbox-developer-direct-sale-2026-goes-live-with-big-discounts-on-firstparty-games.jpg",
-        "title": "Surprise Xbox Developer Direct Sale 2026 goes live on Microsoft Store - TrueAchievements",
-        "description": "With Microsoft's next big Xbox showcase on the horizon, a new Xbox Developer Direct Sale has just gone live with big discounts on a selection of games.",
-        "source_link": "https://www.trueachievements.com/news/xbox-developer-direct-sale-2026"
+        "rank": 10,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/01/Enshrouded-Release-Window_01-21-26.jpg",
+        "title": "Enshrouded launches this fall for PS5, Xbox Series, and PC - Gematsu",
+        "description": "Action RPG survival cooperative crafting game Enshrouded will leave Early Access and launch for PlayStation 5, Xbox Series, and PC via Steam this fall, developer Keen Games announced. A final major\u2026",
+        "source_link": "https://www.gematsu.com/2026/01/enshrouded-launches-this-fall-for-ps5-xbox-series-and-pc"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
-        "title": "Mercy",
-        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
-        "source_link": "https://www.themoviedb.org/movie/1236153"
+        "image": "https://image.tmdb.org/t/p/w200/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg",
+        "title": "Sinners",
+        "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is wait...",
+        "source_link": "https://www.themoviedb.org/movie/1233413"
       },
       {
         "rank": 2,
@@ -90,10 +104,10 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg",
-        "title": "Sinners",
-        "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is wait...",
-        "source_link": "https://www.themoviedb.org/movie/1233413"
+        "image": "https://image.tmdb.org/t/p/w200/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
+        "title": "The Secret Agent",
+        "description": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but s...",
+        "source_link": "https://www.themoviedb.org/movie/1220564"
       },
       {
         "rank": 6,
@@ -104,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
-        "title": "The Secret Agent",
-        "description": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but s...",
-        "source_link": "https://www.themoviedb.org/movie/1220564"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
         "title": "The SpongeBob Movie: Search for SquarePants",
         "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman \u2013 a mysterious swashbuckling ghost pi...",
         "source_link": "https://www.themoviedb.org/movie/991494"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/9jpq7YSNIwY4Wua15QM0lmGp3zn.jpg",
+        "title": "From the Ashes: The Pit",
+        "description": "Trapped in an underground pit during a storm, three students from an all-girls school must confront their personal conflicts as they fight to survive....",
+        "source_link": "https://www.themoviedb.org/movie/1608982"
+      },
+      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
-        "title": "Return to Silent Hill",
-        "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
-        "source_link": "https://www.themoviedb.org/movie/680493"
+        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/hMVhZxgbFLXZcDUIZ10NGb6s8w4.jpg",
-        "title": "Kidnapped: Elizabeth Smart",
-        "description": "Elizabeth Smart's harrowing abduction at 14 from her family's Utah home unfolds through her own words and never-before-seen material in this documenta...",
-        "source_link": "https://www.themoviedb.org/movie/1595481"
+        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "title": "Bugonia",
+        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
+        "source_link": "https://www.themoviedb.org/movie/701387"
       }
     ]
   }
