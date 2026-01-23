@@ -1,20 +1,20 @@
 {
-  "last_updated": "January 23, 2026, 04:39 UTC",
+  "last_updated": "January 23, 2026, 05:24 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/b1689b33e3fdc/large.jpg",
+        "title": "Donkey Kong Bananza's First Update Of 2026 Is Now Available, Here's What's Included - Nintendo Life",
+        "description": "It's been a busy week for DK",
+        "source_link": "https://www.nintendolife.com/news/2026/01/donkey-kong-bananzas-first-update-of-2026-is-now-available-heres-whats-included"
+      },
+      {
+        "rank": 2,
         "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
         "title": "Free update for Mario Kart World lets you race as a team in Knockout Tour - Nintendo",
         "description": "Available now. Only for the Nintendo Switch 2 system.",
         "source_link": "https://www.nintendo.com/us/whatsnew/free-update-for-mario-kart-world-lets-you-race-as-a-team-in-knockout-tour/"
-      },
-      {
-        "rank": 2,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Donkey-Kong-Bananza-3.1.0-update.jpg",
-        "title": "Donkey Kong Bananza 3.1.0 update out now, patch notes - Nintendo Everything",
-        "description": "Yet another Nintendo game has received an update tonight, which is Donkey Kong Bananza with version 3.1.0. This patch is fairly small in scale. Polish is now supported, and some unspecified issues have been fixed. For the full patch notes, continue on below. \u2026",
-        "source_link": "https://nintendoeverything.com/donkey-kong-bananza-3-1-0-update-out-now-patch-notes/"
       },
       {
         "rank": 3,
@@ -25,24 +25,24 @@
       },
       {
         "rank": 4,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/02/Apple-logo-Getty.jpg?resize=1200,800",
+        "title": "Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable - TechCrunch",
+        "description": "Should this wearable materialize, it could be released as early as 2027, according to a report on the device.",
+        "source_link": "https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/"
+      },
+      {
+        "rank": 5,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/sms-phone-risk-trap-privacy-security-1152x648.jpg",
         "title": "Millions of people imperiled through sign-in links sent by SMS - Ars Technica",
         "description": "Even well-known services with millions of users are exposing sensitive data.",
         "source_link": "https://arstechnica.com/security/2026/01/millions-of-people-imperiled-through-sign-in-links-sent-by-sms/"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://imguscdn.gamespress.com/cdn/files/CapcomUS/2025/04/021523-0cc2a24c/SF6_Screenshot_World_Tour_040225.png?w=360&mode=max&otf=y&quality=90&format=png&bgcolor=transparent&sky=4fe15d8d83ab82dddbe9d6e5447f34ba1274726ef5f6b6cc6df6e643a16ddbf4",
         "title": "Alex Brings His High-Flying Action to Street Fighter\u2122 6 as He Steps Into the Ring on March 17 - Games Press",
         "description": "Alex brings his own brand of stylishly clothed combat to the game.",
         "source_link": "https://www.gamespress.com/Alex-Brings-His-High-Flying-Action-to-Street-Fighter-6-as-He-Steps-Int"
-      },
-      {
-        "rank": 6,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800",
-        "title": "Apple plans to make Siri an AI chatbot, report says - TechCrunch",
-        "description": "Siri could look more like ChatGPT than its current state as an integrated feature across Apple products.",
-        "source_link": "https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/"
       },
       {
         "rank": 7,
@@ -53,24 +53,24 @@
       },
       {
         "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/vpavic_4547_20210421_0058.webp?quality=90&strip=all&crop=4.1931811030994%2C17.30616723129%2C83.260651138956%2C65.387665537419&w=1200",
-        "title": "Apple is reportedly working on an AirTag-sized AI wearable - The Verge",
-        "description": "Apple is working on an AI wearable the size of an AirTag, according to a report from The Information. The device will reportedly pick up a user\u2019s surroundings with two cameras and three microphones.",
-        "source_link": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor"
-      },
-      {
-        "rank": 9,
         "image": "https://kotaku.com/app/uploads/2026/01/loot-thing-1200x675.jpg",
         "title": "Loot Capsules Are The Worst Part Of Borderlands 4 - Kotaku",
         "description": "If I have to hear Claptrap talk about being lonely or ignored again I'm going to scream so loud it might break glass",
         "source_link": "https://kotaku.com/loot-capsules-pods-borderlands-4-worst-part-help-why-bad-gearbox-2000661916"
       },
       {
+        "rank": 9,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iol_4xJ0Nsag/v1/1200x800.jpg",
+        "title": "Apple to Revamp Siri as a Built-In iPhone, Mac Chatbot to Fend Off OpenAI - Bloomberg.com",
+        "description": "Apple Inc. plans to revamp Siri later this year by turning the digital assistant into the company\u2019s first artificial intelligence chatbot, thrusting the iPhone maker into a generative AI race dominated by OpenAI and Google.",
+        "source_link": "https://www.bloomberg.com/news/articles/2026-01-21/ios-27-apple-to-revamp-siri-as-built-in-iphone-mac-chatbot-to-fend-off-openai"
+      },
+      {
         "rank": 10,
-        "image": "https://images.nintendolife.com/11af1244f7a70/large.jpg",
-        "title": "Nintendo Producer Kensuke Tanabe Has Seemingly Confirmed His Retirement - Nintendo Life",
-        "description": "Metroid Prime 4: Beyond is his final game",
-        "source_link": "https://www.nintendolife.com/news/2026/01/nintendo-producer-kensuke-tanabe-has-seemingly-confirmed-his-retirement"
+        "image": "https://images.ctfassets.net/s5n2t79q9icq/6MMJhk12pGmZCRxDFiDTBk/655d7b5cbc97c9df65a5a0e37b331435/new_default_wizards_icon_header.jpg",
+        "title": "On Turtles, Faeries, and the Lorwyn Eclipsed Prerelease - Magic: The Gathering",
+        "description": "A statement regarding Lorwyn Eclipsed Prerelease events.",
+        "source_link": "https://magic.wizards.com/en/news/announcements/on-turtles-faeries-and-the-lorwyn-eclipsed-prerelease"
       }
     ],
     "trending_movies": [
@@ -97,17 +97,17 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
         "title": "Marty Supreme",
         "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
       },
       {
         "rank": 6,
