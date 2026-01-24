@@ -1,76 +1,76 @@
 {
-  "last_updated": "January 24, 2026, 18:25 UTC",
+  "last_updated": "January 24, 2026, 19:13 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
+        "title": "ARC Raiders Roadmap: January - April 2026 - arcraiders.com",
+        "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
+        "source_link": "https://arcraiders.com/news/roadmap-january-april-2026"
+      },
+      {
+        "rank": 2,
+        "image": "https://techcrunch.com/wp-content/uploads/2020/08/Works-with-Google-Photos.jpg?resize=1200,500",
+        "title": "Google Photos\u2019 latest feature lets you meme yourself - TechCrunch",
+        "description": "The new feature lets you insert yourself into a meme in Google Photos.",
+        "source_link": "https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/"
+      },
+      {
+        "rank": 3,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-store-1185699758.jpg?resize=1200,800",
+        "title": "Microsoft gave FBI a set of BitLocker encryption keys to unlock suspects\u2019 laptops: Reports - TechCrunch",
+        "description": "The FBI served Microsoft a warrant requesting encryption recovery keys to decrypt the hard drives of people involved in an alleged fraud case in Guam.",
+        "source_link": "https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/"
+      },
+      {
+        "rank": 4,
         "image": "https://images.nintendolife.com/5b9be8189967b/large.jpg",
         "title": "The Fable Reboot Is Reportedly \"Under Consideration\" For Switch 2 - Nintendo Life",
         "description": "Game hits PC, Xbox, and PS5 this year",
         "source_link": "https://www.nintendolife.com/news/2026/01/the-fable-reboot-is-reportedly-under-consideration-for-switch-2"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://kotaku.com/app/uploads/2024/05/01eb1f1332dfff9089c2405eb36c0c6b-1200x675.jpg",
         "title": "Final Fantasy 7 Remake 3 Is Bringing Back Queen\u2019s Blood - Kotaku",
         "description": "Queen\u2019s Blood will return in the FF7 Remake finale",
         "source_link": "https://kotaku.com/final-fantasy-7-remake-3-queens-blood-snowboarding-2000662578"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-18-pro-smaller-dynamic-island.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Here\u2019s the new size of iPhone 18 Pro\u2019s Dynamic Island, per leaker - 9to5Mac",
+        "description": "The iPhone 18 Pro\u2019s Dynamic Island is changing. And now, thanks to a new leak, we may know exactly how much smaller it\u2019s going to be.",
+        "source_link": "https://9to5mac.com/2026/01/23/heres-the-new-size-of-iphone-18-pros-dynamic-island-per-leaker/"
+      },
+      {
+        "rank": 7,
         "image": "https://www.jalopnik.com/img/gallery/what-seemingly-normal-car-is-actually-pretty-weird/l-intro-1769149725.jpg",
         "title": "What Seemingly Normal Car Is Actually Pretty Weird? - Jalopnik",
         "description": "As always, I'll be giving out major awards and prizes to those who explain why their choice is so strange.",
         "source_link": "https://www.jalopnik.com/2082784/what-normal-car-is-pretty-weird-reader-question/"
       },
       {
-        "rank": 4,
+        "rank": 8,
+        "image": "https://assetsio.gnwcdn.com/Beyond-Good-and-Evil-2-trailer-screemshot-showing-a-monkey-in-a-bandana-proudly-showing-a-lady-the-disk-he-has-stolen.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Ubisoft's long-in-the-works Beyond Good and Evil 2 \"a unique proposition\" in the open world adventure market, studio says - Eurogamer",
+        "description": "Ubisoft has confirmed Beyond Good and Evil 2 remains a priority for the studio and \"fits with [its] strategy of focusing on Open World Adventures\".",
+        "source_link": "https://www.eurogamer.net/ubisofts-long-in-the-works-beyond-good-and-evil-2-a-unique-proposition-in-the-open-world-adventure-market-studio-says"
+      },
+      {
+        "rank": 9,
         "image": "https://cdn.wccftech.com/wp-content/uploads/2026/01/PlayStation-6-delay-more-than-expected.jpg",
         "title": "PlayStation 6 Likely to Be Delayed \u201cLonger Than Many Expected\u201d, Leaving Prices the Only Things That Will Keep Evolving, and Not for the Better - Wccftech",
         "description": "Analyst David Gibson expects the PlayStation 6 to be likely delayed longer than many expected, suggest a grim scenario for the immediate future",
         "source_link": "https://wccftech.com/playstation-6-likely-to-be-delayed-longer-than-many-expected-leaving-prices-the-only-things-that-will-keep-evolving-and-not-for-the-better/"
       },
       {
-        "rank": 5,
-        "image": "https://media.wired.com/photos/6972715842a0997bfa1f4c0e/191:100/w_1280,c_limit/sec-passwords-leak-1300258740.jpg",
-        "title": "149 Million Usernames and Passwords Exposed by Unsecured Database - WIRED",
-        "description": "This \u201cdream wish list for criminals\u201d includes millions of Gmail, Facebook, banking logins, and more. The researcher who discovered it suspects they were collected using infostealing malware.",
-        "source_link": "https://www.wired.com/story/149-million-stolen-usernames-passwords/"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.nintendolife.com/66478b97e6395/large.jpg",
-        "title": "Reminder: Final Fantasy VII Remake Intergrade 'Limited Early Purchase Edition' Offer Ends Next Week - Nintendo Life",
-        "description": "Get a bonus copy of FFVII while you can",
-        "source_link": "https://www.nintendolife.com/news/2026/01/reminder-final-fantasy-vii-remake-intergrade-limited-early-purchase-edition-offer-ends-next-week"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.macrumors.com/t/GEiBu2iaA9GrrmRRMXVC3ULLfZo=/2500x/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
-        "title": "iPhone 18 Pro: Leaker Reveals Alleged Size of Smaller Dynamic Island - MacRumors",
-        "description": "For now, rumors have settled on the iPhone 18 Pro and iPhone 18 Pro Max featuring a smaller Dynamic Island, and now a leaker has revealed its alleged...",
-        "source_link": "https://www.macrumors.com/2026/01/23/iphone-18-pro-alleged-dynamic-island-size/"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-pro-xl-review-23-fortnite.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google and Epic Games struck a secretive $800 million deal, 'helping Google market Android' - 9to5Google",
-        "description": "As revealed in the ongoing court saga, Google and Epic Games have apparently struck a new deal that involves Android,...",
-        "source_link": "http://9to5google.com/2026/01/22/google-epic-games-deal-court-reveal/"
-      },
-      {
-        "rank": 9,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/05/google-photos-icon-hero.jpg?w=1600&h=900&fit=crop",
-        "title": "Google Photos now makes your camera roll a meme factory - Android Police",
-        "description": "A new tool you might use",
-        "source_link": "https://www.androidpolice.com/google-photos-me-meme-goes-live/"
-      },
-      {
         "rank": 10,
-        "image": "https://www.sciencealert.com/images/2026/01/The-Treasure-of-Villena2026.jpg",
-        "title": "Strange Metal From Beyond Our Planet Spotted in Ancient Treasure Stash - ScienceAlert",
-        "description": "Amidst a cache of glittering golden treasures from the Iberian Bronze Age, a pair of corroded objects might be the most precious of all.",
-        "source_link": "https://www.sciencealert.com/strange-metal-from-beyond-our-planet-spotted-in-ancient-treasure-stash"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/google-discover-drone-ban-false.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Google won\u2019t stop replacing our news headlines with terrible AI - The Verge",
+        "description": "Google now says its AI news headlines are a feature, not an experiment \u2014 its \u2018trending topics\u2019 in Google Discover keep us from accurately marketing our journalism.",
+        "source_link": "https://www.theverge.com/tech/865168/google-says-ai-news-headlines-are-feature-not-experiment"
       }
     ],
     "trending_movies": [
@@ -97,52 +97,52 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/iwZIR8wp1lqj69zsbWmZKhXTTIU.jpg",
-        "title": "From the Ashes: The Pit",
-        "description": "Trapped in an underground pit during a storm, three students from an all-girls school must confront their personal conflicts as they fight to survive....",
-        "source_link": "https://www.themoviedb.org/movie/1608982"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
         "title": "The SpongeBob Movie: Search for SquarePants",
         "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman \u2013 a mysterious swashbuckling ghost pi...",
         "source_link": "https://www.themoviedb.org/movie/991494"
       },
       {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/iwZIR8wp1lqj69zsbWmZKhXTTIU.jpg",
+        "title": "From the Ashes: The Pit",
+        "description": "Trapped in an underground pit during a storm, three students from an all-girls school must confront their personal conflicts as they fight to survive....",
+        "source_link": "https://www.themoviedb.org/movie/1608982"
+      },
+      {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
-        "title": "Marty Supreme",
-        "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
+        "image": "https://image.tmdb.org/t/p/w200/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg",
+        "title": "Sinners",
+        "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is wait...",
+        "source_link": "https://www.themoviedb.org/movie/1233413"
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
-        "title": "Return to Silent Hill",
-        "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
-        "source_link": "https://www.themoviedb.org/movie/680493"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
         "title": "The Secret Agent",
         "description": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but s...",
         "source_link": "https://www.themoviedb.org/movie/1220564"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+        "title": "Marty Supreme",
+        "description": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+        "title": "Mercy",
+        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
+        "source_link": "https://www.themoviedb.org/movie/1236153"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg",
-        "title": "Sinners",
-        "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is wait...",
-        "source_link": "https://www.themoviedb.org/movie/1233413"
+        "image": "https://image.tmdb.org/t/p/w200/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       }
     ]
   }
