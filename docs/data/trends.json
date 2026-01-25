@@ -1,34 +1,34 @@
 {
-  "last_updated": "January 25, 2026, 10:18 UTC",
+  "last_updated": "January 25, 2026, 11:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://helios-i.mashable.com/imagery/articles/03EeeQ6bslarPLfMwpVrVI6/hero-image.fill.size_1200x675.v1769188390.jpg",
+        "title": "Samsung Galaxy S26: The 7 rumored features that could make me switch - Mashable",
+        "description": "I've been an iPhone user for a long time, but these features could make me defect from Apple-land.",
+        "source_link": "https://mashable.com/article/samsung-galaxy-s26-features-switch-from-iphone"
+      },
+      {
+        "rank": 2,
         "image": "https://images.nintendolife.com/b8276f833efed/large.jpg",
         "title": "PSA: Switch 2 Visual And Performance Improvements Included In New Rocket League Update - Nintendo Life",
         "description": "Update: Here's a look at this latest update",
         "source_link": "https://www.nintendolife.com/news/2026/01/psa-switch-2-visual-and-performance-improvements-included-in-new-rocket-league-update"
       },
       {
-        "rank": 2,
-        "image": "https://images.nintendolife.com/c783366fc9f43/large.jpg",
-        "title": "Industry Veteran Hideki Konno Has Apparently Left Nintendo After Four Decades - Nintendo Life",
-        "description": "Thanks for everything, Konno-san",
-        "source_link": "https://www.nintendolife.com/news/2026/01/industry-veteran-hideki-konno-has-apparently-left-nintendo-after-four-decades"
+        "rank": 3,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Hideki-Konno-Nintendo-retirement.jpg",
+        "title": "Hideki Konno, who led Mario Kart, 3DS hardware, and more, is gone from Nintendo after 40 years - Nintendo Everything",
+        "description": "It\u2019s been revealed that longtime Nintendo designer Hideki Konno has left the company after about forty years. Konno joined Nintendo way back in 1986. His first game was Super Mario Bros. 2, but he\u2019s had quite the resume since. For a long time, he was the prod\u2026",
+        "source_link": "https://nintendoeverything.com/hideki-konno-nintendo-retirement/"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://kotaku.com/app/uploads/2026/01/image-2-2.jpg",
         "title": "Sims 4 Sex Mod Used Hundreds Of Thousands Of Times A Day - Kotaku",
         "description": "What a wicked game to play, to make me feel this way",
         "source_link": "https://kotaku.com/sims-4-sex-mod-wickedwhims-ea-maxis-2000662724"
-      },
-      {
-        "rank": 4,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1639/16394322/4639839-4263219-review_finalfantasyviirebirth_site.jpg",
-        "title": "Final Fantasy 7 Remake Part 3's Title Has Finally Been Decided - GameSpot",
-        "description": "Final Fantasy 7 Remake trilogy game director Naoki Hamaguchi confirmed that the studio has finally settled on a subtitle for part three.",
-        "source_link": "https://www.gamespot.com/articles/final-fantasy-7-remake-part-3-officially-has-a-title/1100-6537603/"
       },
       {
         "rank": 5,
@@ -39,31 +39,38 @@
       },
       {
         "rank": 6,
-        "image": "https://kotaku.com/app/uploads/2026/01/highguard-1200x675.jpg",
-        "title": "Highguard Breaks Radio Silence And The Internet Reacts - Kotaku",
-        "description": "The free-to-play FPS is doing a big launch day showcase stream next week",
-        "source_link": "https://kotaku.com/highguard-breaks-radio-silence-and-the-internet-reacts-2000662650"
+        "image": "https://regmedia.co.uk/2021/05/11/cryptography_keys_shutterstock.jpg",
+        "title": "Surrender as a service: Microsoft unlocks BitLocker for feds - theregister.com",
+        "description": "updated: If you're serious about encryption, keep control of your encryption keys",
+        "source_link": "https://www.theregister.com/2026/01/23/surrender_as_a_service_microsoft/"
       },
       {
         "rank": 7,
+        "image": "https://gizmodo.com/app/uploads/2023/02/79c7c32e6f6f67dd13394c75687a623b.jpg",
+        "title": "AI Agents Are Poised to Hit a Mathematical Wall, Study Finds - Gizmodo",
+        "description": "LLMs have their limits.",
+        "source_link": "https://gizmodo.com/ai-agents-are-poised-to-hit-a-mathematical-wall-study-finds-2000713493"
+      },
+      {
+        "rank": 8,
+        "image": "https://helios-i.mashable.com/imagery/articles/071RWMHZjz8T4hgFdcqEkNT/hero-image.fill.size_1200x675.v1769188468.jpg",
+        "title": "GhostPoster: 17 malware browser extensions you should delete ASAP - Mashable",
+        "description": "Cybersecurity researchers identified malware-infected browser extensions on Chrome, Firefox, and Edge browsers.",
+        "source_link": "https://mashable.com/article/malicious-browser-extensions-malware-delete"
+      },
+      {
+        "rank": 9,
         "image": "https://www.bleepstatic.com/content/hl-images/2025/12/30/CISA.jpg",
         "title": "CISA confirms active exploitation of four enterprise software bugs - BleepingComputer",
         "description": "The Cybersecurity and\u00a0Infrastructure Security Agency (CISA) in the U.S. warned of active exploitation of four vulnerabilities impacting enterprise software from Versa and Zimbra, the Vite frontend tooling framework, and the Prettier code formatter.",
         "source_link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/"
       },
       {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-concept-04.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iOS 27 sounds like exactly what the iPhone needs right now - 9to5Mac",
-        "description": "Apple will unveil iOS 27 at WWDC in June, and rumors are already painting a clear picture: it sounds like...",
-        "source_link": "https://9to5mac.com/2026/01/23/ios-27-sounds-like-exactly-what-the-iphone-needs-right-now/"
-      },
-      {
-        "rank": 9,
-        "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
-        "title": "ARC Raiders Roadmap: January - April 2026 - arcraiders.com",
-        "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
-        "source_link": "https://arcraiders.com/news/roadmap-january-april-2026"
+        "rank": 10,
+        "image": null,
+        "title": "The Game Awards Closer Highguard Reemerges With Launch Showcase \u2014 So Yes, It's Still Coming Out Next Week - IGN Southeast Asia",
+        "description": null,
+        "source_link": "https://sea.ign.com/high-guard/237817/news/the-game-awards-closer-highguard-reemerges-with-launch-showcase-so-yes-its-still-coming-out-next-wee"
       }
     ],
     "trending_movies": [
@@ -76,17 +83,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
-        "title": "The Rip",
-        "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone \u2014 and everything \u2014 into question....",
-        "source_link": "https://www.themoviedb.org/movie/1306368"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg",
         "title": "Cosmic Princess Kaguya!",
         "description": "Iroha's life gets knocked off its orbit when Kaguya, a carefree runaway from the Moon, moves in and convinces her to perform in a virtual world togeth...",
         "source_link": "https://www.themoviedb.org/movie/1575337"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
+        "title": "The Rip",
+        "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone \u2014 and everything \u2014 into question....",
+        "source_link": "https://www.themoviedb.org/movie/1306368"
       },
       {
         "rank": 4,
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "title": "Bugonia",
+        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
+        "source_link": "https://www.themoviedb.org/movie/701387"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
         "title": "Return to Silent Hill",
         "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
         "source_link": "https://www.themoviedb.org/movie/680493"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
-        "title": "Mercy",
-        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
-        "source_link": "https://www.themoviedb.org/movie/1236153"
       }
     ]
   }
