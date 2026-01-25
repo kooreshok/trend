@@ -1,76 +1,69 @@
 {
-  "last_updated": "January 25, 2026, 20:19 UTC",
+  "last_updated": "January 25, 2026, 21:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.motor1.com/images/mgl/XBXgbb/s1/cali-woman-tries-to-buy-honda.-the-manager-refuses-unless-she-agrees-to-date.-then-he-tacks-on-10-000-more-after-he-s-called-out.jpg",
+        "title": "Woman Tries To Buy Honda. The Manager Refuses Unless She Agrees To A Date. Then He Adds $10,000 To The Price After She Says No - Motor1.com",
+        "description": "A woman says a Honda sales manager refused to sell her a car unless she agreed to a date. When she declined, he added $10K to the price. What now?",
+        "source_link": "https://www.motor1.com/news/785329/honda-salesman-ups-price-after-woman-rejects-him/"
+      },
+      {
+        "rank": 2,
+        "image": "https://assetsio.gnwcdn.com/Highguard-horseriding.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "A \"deep dive\" Highguard showcase will finally give us an \"in-depth look\" at the mysterious game... but not until release day - Eurogamer",
+        "description": "Highguard is set to pull back the curtain with an \"in-depth look at Highguard direct from the studio\" on 26th January, \u2026",
+        "source_link": "https://www.eurogamer.net/a-deep-dive-highguard-showcase-will-finally-give-us-an-in-depth-look-at-the-mysterious-game-but-not-until-release-day"
+      },
+      {
+        "rank": 3,
         "image": "https://assets.warhammer-community.com/preorders-jan24-1-feature-ph3lzgpiut.jpg",
         "title": "Saturday Pre-orders \u2013 Death strikes from the skies in Kill Team: Shadowhunt - Warhammer Community",
         "description": "Everything available to pre-order today.",
         "source_link": "https://www.warhammer-community.com/articles/vekmdfs3/saturday-pre-orders-death-strikes-from-the-skies-in-kill-team-shadowhunt"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://img.huffingtonpost.com/asset/69208b7c170000939a9c66f1.jpeg?ops=500_281%2Cscalefit_1200_630",
         "title": "If You Use Gmail, You're Going To Want To Turn Off This 1 Automatic Setting ASAP - BuzzFeed",
         "description": "Plus: a quick guide to the two-step process for opting out.",
         "source_link": "https://www.huffpost.com/entry/opt-out-gmail-ai-training-goog_n_69405837e4b0fa125e7f49a7"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://www.nj.com/resizer/v2/NVTAXWFPEBAMNPMLOK4FIZNGTA.png?auth=5c04da001e10d06b9b2ffaa86a6010f39c87e0b83acda524971315e1fa32f92c&width=1280&smart=true&quality=90",
+        "title": "This item in your drawers from 2007 could be worth at least $50K - nj.com",
+        "description": "Check your drawers: You might be holding onto some valuable items that are worth more than a pretty penny",
+        "source_link": "https://www.nj.com/news/2026/01/this-item-in-your-drawers-from-2007-could-be-worth-at-least-50k.html"
+      },
+      {
+        "rank": 6,
+        "image": "https://assetsio.gnwcdn.com/Fallout-76-Ghoul-character-with-headphones-resting-around-his-neck.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "The Fallout 76 team is \"looking into\" the issues you've been having and says a fix is coming in the next few weeks - Eurogamer",
+        "description": "Bethesda is working to \"address some of the topics that appeared\" after the Fallout 76 update released earlier this wee\u2026",
+        "source_link": "https://www.eurogamer.net/the-fallout-76-team-is-looking-into-the-issues-youve-been-having-and-says-a-fix-is-coming-in-the-next-few-weeks"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.slashgear.com/img/gallery/5-handy-harbor-freight-gadgets-to-upgrade-your-garage/l-intro-1768338999.jpg",
+        "title": "5 Handy Harbor Freight Gadgets To Upgrade Your Garage - SlashGear",
+        "description": "Some highly user-recommended Harbor Freight gadgets for upgrading your garage include the Braun Motion Sensor Shop Light and the Icon Magnetic Tool Mat.",
+        "source_link": "https://www.slashgear.com/2075378/handy-harbor-freight-gadgets-to-upgrade-garage/"
+      },
+      {
+        "rank": 8,
         "image": "https://images.nintendolife.com/5e54562985cf3/large.jpg",
         "title": "Poll: What Review Score Would You Give Final Fantasy VII Remake Intergrade? - Nintendo Life",
         "description": "Tifa and claws",
         "source_link": "https://www.nintendolife.com/news/2026/01/poll-what-review-score-would-you-give-final-fantasy-vii-remake-intergrade"
       },
       {
-        "rank": 4,
+        "rank": 9,
         "image": "https://imageio.forbes.com/specials-images/imageserve/696a4b0fc9b7f7d57d9aed01/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "\u2018Marathon\u2019 Just Dodged An \u2018ARC Raiders\u2019 Bullet For Launch - Forbes",
         "description": "ARC Raiders could have rained on Marathon's launch parade, but thanks to new information and a roadmap, that does not seem to be happening.",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/01/24/marathon-just-dodged-an-arc-raiders-bullet-for-launch/"
-      },
-      {
-        "rank": 5,
-        "image": "https://wpassets.halowaypoint.com/wp-content/2026/01/bundle-thumb-textless.png",
-        "title": "Silver Anniversary Content Creator Guide - Halo Waypoint",
-        "description": "<p>Over the past 25 years, talented creators from all disciplines have helped share and define the world of Halo. Without the streamers, let\u2019s-players, machinima makers, lore masters, and all the other incredible creators in our community, Halo wouldn\u2019t be th\u2026",
-        "source_link": "https://www.halowaypoint.com/news/content-creator-guide"
-      },
-      {
-        "rank": 6,
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a5d8/live/985c06e0-f852-11f0-b385-5f48925de19a.jpg",
-        "title": "Pok\u00e9mon cards: The 'liquid asset' increasingly attracting criminals - BBC",
-        "description": "Cards related to the popular Japanese animation franchise have soared in value over recent years.",
-        "source_link": "https://www.bbc.com/news/articles/c70lk3w9krxo"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02315_processed_2.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "title": "Gemini with Personal Intelligence is awfully familiar - The Verge",
-        "description": "Google\u2019s Gemini chatbot can now access your personal information at will, but it still struggles once you get down to the details.",
-        "source_link": "https://www.theverge.com/tech/866931/gemini-personal-intelligence-ai"
-      },
-      {
-        "rank": 8,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6829ad74cc1961429b7f1024/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "Warning\u201448 Million Gmail Usernames And Passwords Leaked Online - Forbes",
-        "description": "Are your Gmail login credentials amongst the 48 million estimated as exposed in this leak of existing infostealer logs \u2014 here's what you need to know.",
-        "source_link": "https://www.forbes.com/sites/daveywinder/2026/01/24/48-million-gmail-usernames-and-passwords-leaked-online/"
-      },
-      {
-        "rank": 9,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66f8792060500de2d7ab0420/0x0.jpg?format=jpg&crop=728,409,x293,y99,safe&height=900&width=1600&fit=bounds",
-        "title": "Google Starts Upgrading Gmail\u2014Millions Of Accounts Now At Risk - Forbes",
-        "description": "Millions of Gmail users do not know these changes are coming \u2014 are you affected?",
-        "source_link": "https://www.forbes.com/sites/zakdoffman/2026/01/24/google-starts-upgrading-gmail-millions-of-accounts-now-at-risk/"
-      },
-      {
-        "rank": 10,
-        "image": "https://helios-i.mashable.com/imagery/articles/03EeeQ6bslarPLfMwpVrVI6/hero-image.fill.size_1200x675.v1769188390.jpg",
-        "title": "Samsung Galaxy S26: The 7 rumored features that could make me switch - Mashable",
-        "description": "I've been an iPhone user for a long time, but these features could make me defect from Apple-land.",
-        "source_link": "https://mashable.com/article/samsung-galaxy-s26-features-switch-from-iphone"
       }
     ],
     "trending_movies": [
@@ -97,52 +90,52 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
-        "title": "Marty Supreme",
-        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
         "title": "The SpongeBob Movie: Search for SquarePants",
         "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman \u2013 a mysterious swashbuckling ghost pi...",
         "source_link": "https://www.themoviedb.org/movie/991494"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
-        "title": "Rental Family",
-        "description": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in ro...",
-        "source_link": "https://www.themoviedb.org/movie/1208348"
-      },
-      {
-        "rank": 7,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
         "title": "Return to Silent Hill",
         "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
         "source_link": "https://www.themoviedb.org/movie/680493"
       },
       {
-        "rank": 8,
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+        "title": "Marty Supreme",
+        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
+        "title": "Rental Family",
+        "description": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in ro...",
+        "source_link": "https://www.themoviedb.org/movie/1208348"
+      },
+      {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+        "title": "Mercy",
+        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
+        "source_link": "https://www.themoviedb.org/movie/1236153"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/705nQHqe4JGdEisrQmVYmXyjs1U.jpg",
         "title": "Sinners",
         "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is wait...",
         "source_link": "https://www.themoviedb.org/movie/1233413"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg",
-        "title": "The Secret Agent",
-        "description": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but s...",
-        "source_link": "https://www.themoviedb.org/movie/1220564"
       }
     ]
   }
