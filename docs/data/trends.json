@@ -1,5 +1,5 @@
 {
-  "last_updated": "January 25, 2026, 13:29 UTC",
+  "last_updated": "January 25, 2026, 14:15 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,17 +76,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
-        "title": "The Rip",
-        "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone \u2014 and everything \u2014 into question....",
-        "source_link": "https://www.themoviedb.org/movie/1306368"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/qNEL6chkH2s6gwvt0Jt9NfiXG8m.jpg",
         "title": "The Big Fake",
         "description": "Toni Chichiarelli arrives in Rome with the dream of becoming a painter, but his talent leads him elsewhere \u2014 from art galleries to state secrets. Betw...",
         "source_link": "https://www.themoviedb.org/movie/1443762"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
+        "title": "The Rip",
+        "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone \u2014 and everything \u2014 into question....",
+        "source_link": "https://www.themoviedb.org/movie/1306368"
       },
       {
         "rank": 3,
@@ -97,17 +97,17 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
-        "title": "The SpongeBob Movie: Search for SquarePants",
-        "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman \u2013 a mysterious swashbuckling ghost pi...",
-        "source_link": "https://www.themoviedb.org/movie/991494"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
         "title": "Marty Supreme",
         "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
+        "title": "The SpongeBob Movie: Search for SquarePants",
+        "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman \u2013 a mysterious swashbuckling ghost pi...",
+        "source_link": "https://www.themoviedb.org/movie/991494"
       },
       {
         "rank": 6,
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
-        "title": "Rental Family",
-        "description": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in ro...",
-        "source_link": "https://www.themoviedb.org/movie/1208348"
+        "image": "https://image.tmdb.org/t/p/w200/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+        "title": "The Secret Agent",
+        "description": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but s...",
+        "source_link": "https://www.themoviedb.org/movie/1220564"
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
-        "title": "Return to Silent Hill",
-        "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
-        "source_link": "https://www.themoviedb.org/movie/680493"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg",
         "title": "Sinners",
         "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is wait...",
         "source_link": "https://www.themoviedb.org/movie/1233413"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
+        "title": "Return to Silent Hill",
+        "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
+        "source_link": "https://www.themoviedb.org/movie/680493"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
+        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+        "title": "Mercy",
+        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
+        "source_link": "https://www.themoviedb.org/movie/1236153"
       }
     ]
   }
