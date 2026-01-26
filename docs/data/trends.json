@@ -1,76 +1,76 @@
 {
-  "last_updated": "January 26, 2026, 08:27 UTC",
+  "last_updated": "January 26, 2026, 09:30 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/66f8792060500de2d7ab0420/0x0.jpg?format=jpg&crop=728,409,x293,y99,safe&height=900&width=1600&fit=bounds",
+        "title": "Google\u2019s Gmail Upgrade\u2014Millions Of Accounts Now At Risk - Forbes",
+        "description": "Millions of Gmail users do not know these changes are coming \u2014 are you affected?",
+        "source_link": "https://www.forbes.com/sites/zakdoffman/2026/01/25/google-starts-upgrading-gmail-millions-of-accounts-now-at-risk/"
+      },
+      {
+        "rank": 2,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/Siri-Screen-Recording-iOS-16.5-Beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "iPhone users begin to receive payouts from $95 million Siri privacy settlement - 9to5Mac",
         "description": "Early last year, Apple agreed to settle a class action lawsuit regarding \u2018unlawful and intentional recording\u2019 of conversations with Siri....",
         "source_link": "https://9to5mac.com/2026/01/24/apple-siri-settlement-95-million-payouts-begin/"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/02/u-b-i-s-o-f-t.png?resize=2000,1125",
         "title": "Ubisoft Has Reportedly Killed One of Its Biggest Franchises for Good - ComicBook.com",
         "description": "Ubisoft has reportedly killed one of its biggest franchises for good, only a decade after it debuted with great promise on PS4 and Xbox One.",
         "source_link": "http://comicbook.com/gaming/news/ubisoft-has-reportedly-killed-one-of-its-biggest-franchises-for-good/"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://www.jalopnik.com/img/gallery/whats-the-biggest-difference-between-fords-coyote-and-gms-ls-engines/l-intro-1768944054.jpg",
         "title": "What's The Biggest Difference Between Ford's Coyote And GM's LS Engines? - Jalopnik",
         "description": "The biggest differences between Ford's Coyote and GM's LS engines are their camshaft locations and their sizes. The Ford engines also produce more horsepower.",
         "source_link": "https://www.jalopnik.com/2080807/whats-difference-between-fords-coyote-and-gms-ls-engines/"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://cdn.mos.cms.futurecdn.net/vV9qZsEjjQzM3p2vDiyXUQ-2560-80.jpg",
         "title": "Microsoft just issued a second emergency OS update for Windows 11 this month - Windows Central",
         "description": "Another out of band update has been issued to Windows 11 users to address a major bug that caused Outlook to become inoperable after January's disastrous Patch Tuesday updates.",
         "source_link": "https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://helios-i.mashable.com/imagery/articles/070Ifb9GSH3qCyCzo1vNLzT/hero-image.fill.size_1200x675.v1769168597.jpg",
         "title": "A $40 ad blocker is protecting families for life - Mashable",
         "description": "Never see another ad.",
         "source_link": "https://mashable.com/article/jan-24-adguard-family-plan-lifetime-subscription"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
         "title": "Gmail is having issues with spam and misclassification - TechCrunch",
         "description": "If your Gmail account doesn\u2019t seem to be working properly today, you\u2019re not alone.",
         "source_link": "https://techcrunch.com/2026/01/24/gmail-is-having-issues-with-spam-and-misclassification/"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Gemini-app-free-Pro-cover-b.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "What Gemini app upgrades you get with Google AI Pro - 9to5Google",
         "description": "While the free tier of the Gemini app allows you to be quite productive, subscribing to Google AI Pro unlocks...",
         "source_link": "http://9to5google.com/2026/01/24/gemini-app-free-pro-features/"
       },
       {
-        "rank": 8,
+        "rank": 9,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK095_Microsoft_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Microsoft handed the government encryption keys for customer data - The Verge",
+        "description": "Microsoft complied with a warrant to hand over BitLocker recovery keys to the FBI, and privacy advocates are worried.",
+        "source_link": "https://www.theverge.com/news/867244/microsoft-bitlocker-privacy-fbi"
+      },
+      {
+        "rank": 10,
         "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-30th-Anniversary-Edition.jpg",
         "title": "Rayman 30th Anniversary Edition has surfaced for Nintendo Switch - Nintendo Everything",
         "description": "A new rating has surfaced for Rayman 30th Anniversary Edition, and it\u2019s apparently on the way to Nintendo Switch. The listing has appeared within the official Australian Classification database. As of now there has been no official announcement. The only info\u2026",
         "source_link": "https://nintendoeverything.com/rayman-30th-anniversary-edition-has-surfaced-for-nintendo-switch/"
-      },
-      {
-        "rank": 9,
-        "image": "https://helios-i.mashable.com/imagery/articles/03Q0v7dngZc33I8yZI8UWBf/hero-image.fill.size_1200x675.v1769091382.jpg",
-        "title": "If you don\u2019t want to pay a subscription, you can now get Microsoft Office for life for under $100 - Mashable",
-        "description": "Word, Excel, PowerPoint, and more",
-        "source_link": "https://mashable.com/article/jan-24-microsoft-office-2024-home-business-for-mac-or-pc"
-      },
-      {
-        "rank": 10,
-        "image": "https://cdn.motor1.com/images/mgl/XBXgbb/s1/cali-woman-tries-to-buy-honda.-the-manager-refuses-unless-she-agrees-to-date.-then-he-tacks-on-10-000-more-after-he-s-called-out.jpg",
-        "title": "Woman Tries To Buy Honda. The Manager Refuses Unless She Agrees To A Date. Then He Adds $10,000 To The Price After She Says No - Motor1.com",
-        "description": "A woman says a Honda sales manager refused to sell her a car unless she agreed to a date. When she declined, he added $10K to the price. What now?",
-        "source_link": "https://www.motor1.com/news/785329/honda-salesman-ups-price-after-woman-rejects-him/"
       }
     ],
     "trending_movies": [
@@ -97,17 +97,17 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
         "title": "Return to Silent Hill",
         "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
         "source_link": "https://www.themoviedb.org/movie/680493"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 6,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
         "title": "The SpongeBob Movie: Search for SquarePants",
         "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman \u2013 a mysterious swashbuckling ghost pi...",
         "source_link": "https://www.themoviedb.org/movie/991494"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
-        "title": "Rental Family",
-        "description": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in ro...",
-        "source_link": "https://www.themoviedb.org/movie/1208348"
+        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "title": "Bugonia",
+        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
+        "source_link": "https://www.themoviedb.org/movie/701387"
       }
     ]
   }
