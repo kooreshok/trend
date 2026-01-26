@@ -1,76 +1,76 @@
 {
-  "last_updated": "January 26, 2026, 16:28 UTC",
+  "last_updated": "January 26, 2026, 17:26 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://images.pushsquare.com/64ed990e4d88a/large.jpg",
-        "title": "PS Plus Essential Game for February 2026 Leaked - Push Square",
-        "description": "Available from 3rd Feb",
-        "source_link": "https://www.pushsquare.com/news/2026/01/ps-plus-essential-game-for-february-2026-leaked"
+        "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
+        "title": "Google says it\u2019s fixed Gmail issues with spam and misclassification - TechCrunch",
+        "description": "If your Gmail account doesn\u2019t seem to be working properly today, you\u2019re not alone.",
+        "source_link": "https://techcrunch.com/2026/01/25/gmail-is-having-issues-with-spam-and-misclassification/"
       },
       {
         "rank": 2,
+        "image": "https://images.nintendolife.com/01534cdd7d9b4/large.jpg",
+        "title": "Super Mario Galaxy Movie's New Trailer Shares A \"First Look\" At Yoshi - Nintendo Life",
+        "description": "New galaxies, new friends",
+        "source_link": "https://www.nintendolife.com/news/2026/01/super-mario-galaxy-movies-new-trailer-shares-a-first-look-at-yoshi"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.jalopnik.com/img/gallery/new-york-startup-builds-fridge-sized-machine-that-can-turn-air-into-gasoline/l-intro-1769213539.jpg",
+        "title": "New York Startup Builds Fridge-Sized Machine That Can Turn Air Into Gasoline - Jalopnik",
+        "description": "While it's not quite the free energy it sounds like at first, Aircela's technology in its current state has some practical, small-scale applications.",
+        "source_link": "https://www.jalopnik.com/2083556/new-york-startup-builds-machine-that-makes-gasoline-from-air/"
+      },
+      {
+        "rank": 4,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6829ad74cc1961429b7f1024/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "Act Now\u201448 Million Gmail Usernames And Passwords Leaked Online - Forbes",
+        "description": "Are your Gmail login credentials amongst the 48 million estimated as exposed in this leak of existing infostealer logs \u2014 here's what you need to know.",
+        "source_link": "https://www.forbes.com/sites/daveywinder/2026/01/25/48-million-gmail-usernames-and-passwords-leaked-online/"
+      },
+      {
+        "rank": 5,
         "image": "https://www.jalopnik.com/img/gallery/6-performance-cars-you-probably-didnt-know-used-yamaha-engines/l-intro-1768916073.jpg",
         "title": "6 Performance Cars You Probably Didn't Know Used Yamaha Engines - Jalopnik",
         "description": "Yamaha is renowned for its high-performance motorcycles, but lesser known is the legendary builder has also put together some impressive car engines.",
         "source_link": "https://www.jalopnik.com/2081530/performance-cars-use-yamaha-engine/"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://www.cnet.com/a/img/resize/020d6228a644610d703787b19ec6f1bdb1f460d4/hub/2026/01/23/a096bad0-5e3c-424c-bbf7-9a9c3447a676/5g6a5801-edit.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "Want a Galaxy S25 Ultra for Cheap? Buy a Galaxy S24 Ultra Instead - CNET",
+        "description": "Last year's Galaxy S24 Ultra is an impressive phone and costs half as much as the most recent model. Here's how they compare.",
+        "source_link": "https://www.cnet.com/tech/mobile/want-a-galaxy-s25-ultra-for-cheap-buy-a-galaxy-s24-ultra-instead/"
+      },
+      {
+        "rank": 7,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikEmuVyi2W1A/v2/1200x800.jpg",
+        "title": "Inside Apple\u2019s AI Shake-Up and Its Plans for Two New Versions of Siri - Bloomberg.com",
+        "description": "Apple shakes up its AI efforts with a Google partnership, management changes and two new versions of Siri. Also: The company gets ready to kick off its 2026 Mac launches and puts CEO candidate John Ternus in charge of design.",
+        "source_link": "https://www.bloomberg.com/news/newsletters/2026-01-25/inside-apple-s-ai-shake-up-ai-safari-and-plans-for-new-siri-in-ios-26-4-ios-27-mktqy7xb"
+      },
+      {
+        "rank": 8,
+        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/01/insurmountable.jpg?w=1200&h=675&fit=crop",
+        "title": "This overlooked mountaineering roguelike makes icy exploration strangely cozy - Polygon",
+        "description": "It's not exactly a cozy game, but this strategic exploration game is relaxing to play",
+        "source_link": "https://www.polygon.com/insurmountable-mountaineering-roguelike/"
+      },
+      {
+        "rank": 9,
+        "image": "https://www.bgr.com/img/gallery/7-carplay-features-apple-recently-added-to-your-vehicle/l-intro-1768841304.jpg",
+        "title": "7 CarPlay Features Apple Recently Added To Your Vehicle - bgr.com",
+        "description": "Apple CarPlay features widgets, Live Activities, and the Liquid Glass design since iOS 26 was introduced. Other changes have made it even better than before.",
+        "source_link": "https://www.bgr.com/2079391/new-apple-carplay-features-added-vehicle-ios-26-2/"
+      },
+      {
+        "rank": 10,
         "image": "https://assetsio.gnwcdn.com/big-question-fable.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Are Xbox and Playground making the right move sticking so closely to Fable's history? - Eurogamer",
         "description": "Can you believe it's been over a decade and a half since the last proper Fable? That's a long wait for anything, but in\u2026",
         "source_link": "https://www.eurogamer.net/are-xbox-and-playground-making-the-right-move-sticking-so-closely-to-fables-history"
-      },
-      {
-        "rank": 4,
-        "image": "https://helios-i.mashable.com/imagery/articles/04nMhSWAMy5BtWlVkWtXuwK/hero-image.fill.size_1200x675.v1769165505.jpg",
-        "title": "Normally $199, Windows 11 Pro is now $10 - Mashable",
-        "description": "The upgrade your computer deserves.",
-        "source_link": "https://mashable.com/article/jan-24-microsoft-windows-11-pro"
-      },
-      {
-        "rank": 5,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66f8792060500de2d7ab0420/0x0.jpg?format=jpg&crop=728,409,x293,y99,safe&height=900&width=1600&fit=bounds",
-        "title": "Google\u2019s Gmail Upgrade\u2014Millions Of Accounts Now At Risk - Forbes",
-        "description": "Millions of Gmail users do not know these changes are coming \u2014 are you affected?",
-        "source_link": "https://www.forbes.com/sites/zakdoffman/2026/01/25/google-starts-upgrading-gmail-millions-of-accounts-now-at-risk/"
-      },
-      {
-        "rank": 6,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Best-Xenoblade-games-ranked.jpg",
-        "title": "Ranking the Xenoblade Chronicles games, from best to worst - Nintendo Everything",
-        "description": "Today, we're taking on the difficult task of ranking every single game in the Xenoblade Chronicles series from best to \"least best\".",
-        "source_link": "https://nintendoeverything.com/best-xenoblade-chronicles-games-ranked/"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.nintendolife.com/792fa907107bd/large.jpg",
-        "title": "Nickelodeon Splat Pack Revives Multiple SNES Titles In One Retro Collection - Nintendo Life",
-        "description": "Update: Estimated release suggests it will be arriving soon",
-        "source_link": "https://www.nintendolife.com/news/2026/01/nickelodeon-splat-pack-revives-multiple-snes-titles-in-one-retro-collection"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/03/Siri-Screen-Recording-iOS-16.5-Beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iPhone users begin to receive payouts from $95 million Siri privacy settlement - 9to5Mac",
-        "description": "Early last year, Apple agreed to settle a class action lawsuit regarding \u2018unlawful and intentional recording\u2019 of conversations with Siri....",
-        "source_link": "https://9to5mac.com/2026/01/24/apple-siri-settlement-95-million-payouts-begin/"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.mos.cms.futurecdn.net/vV9qZsEjjQzM3p2vDiyXUQ-2560-80.jpg",
-        "title": "Microsoft just issued a second emergency OS update for Windows 11 this month - Windows Central",
-        "description": "Another out of band update has been issued to Windows 11 users to address a major bug that caused Outlook to become inoperable after January's disastrous Patch Tuesday updates.",
-        "source_link": "https://www.windowscentral.com/microsoft/windows-11/windows-11-second-emergency-out-of-band-update-kb5078127-released-address-outlook-bugs"
-      },
-      {
-        "rank": 10,
-        "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/01/p-l-a-y-s-t-a-t-i-o-n-p-l-u-s.png?resize=2000,1125",
-        "title": "PlayStation Plus Makes 2024 RPG That Takes Over 100 Hours to Complete Free for Limited Time - ComicBook.com",
-        "description": "PlayStation has a new free game, a 2024 RPG that takes over 100 hours to complete, but it is only available for a limited time.",
-        "source_link": "http://comicbook.com/gaming/news/playstation-plus-makes-2024-rpg-that-takes-over-100-hours-to-complete-free-for-limited-time/"
       }
     ],
     "trending_movies": [
@@ -90,24 +90,24 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
-        "title": "Mercy",
-        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
-        "source_link": "https://www.themoviedb.org/movie/1236153"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
         "title": "Return to Silent Hill",
         "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
         "source_link": "https://www.themoviedb.org/movie/680493"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/qNEL6chkH2s6gwvt0Jt9NfiXG8m.jpg",
         "title": "The Big Fake",
         "description": "Toni Chichiarelli arrives in Rome with the dream of becoming a painter, but his talent leads him elsewhere \u2014 from art galleries to state secrets. Betw...",
         "source_link": "https://www.themoviedb.org/movie/1443762"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+        "title": "Mercy",
+        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
+        "source_link": "https://www.themoviedb.org/movie/1236153"
       },
       {
         "rank": 6,
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg",
-        "title": "Primate",
-        "description": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However,...",
-        "source_link": "https://www.themoviedb.org/movie/1315303"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/lNam8wi4bhzZ6U4wRb2T1nGsSix.jpg",
         "title": "Send Help",
         "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
         "source_link": "https://www.themoviedb.org/movie/1198994"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg",
+        "title": "Primate",
+        "description": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However,...",
+        "source_link": "https://www.themoviedb.org/movie/1315303"
+      },
+      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/gZ3Tecr4QnM4RUIT7CVW3Q0s6tE.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "A new movie based on the world of Super Mario Bros. that further broadens Mario's world with a bright and fun story. Plot TBA....",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
+        "image": "https://image.tmdb.org/t/p/w200/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
-        "title": "Marty Supreme",
-        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
+        "image": "https://image.tmdb.org/t/p/w200/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
+        "title": "The SpongeBob Movie: Search for SquarePants",
+        "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman \u2013 a mysterious swashbuckling ghost pi...",
+        "source_link": "https://www.themoviedb.org/movie/991494"
       }
     ]
   }
