@@ -1,69 +1,76 @@
 {
-  "last_updated": "January 26, 2026, 22:18 UTC",
+  "last_updated": "January 26, 2026, 23:18 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.jalopnik.com/img/gallery/heres-how-much-a-2021-chevy-corvette-has-depreciated-in-just-5-years/l-intro-1768408883.jpg",
+        "title": "Here's How Much A 2021 Chevy Corvette Has Depreciated In Just 5 Years - Jalopnik",
+        "description": "The Chevrolet Corvette hasn't depreciated much over the last five years, losing around a quarter of its value in that time.",
+        "source_link": "https://www.jalopnik.com/2080724/2021-chevy-corvette-5-year-depreciation/"
+      },
+      {
+        "rank": 2,
+        "image": "https://media.nichegamer.com/wp-content/uploads/2026/01/nightin-cage-1-25-2025.jpg",
+        "title": "Nightin Cage dev responds to fan feedback for more immersive fanservice - Niche Gamer",
+        "description": "The developer of the upcoming Action RPG Nightin Cage has responded quickly to fan feedback regarding fanservice and the character's animations.",
+        "source_link": "https://nichegamer.com/nightin-cage-dev-responds-to-fan-feedback-for-more-immersive-fanservice/"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/youtube-music-logo-circle-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "YouTube Music now syncs your queue across Android, iOS, & web - 9to5Google",
+        "description": "The YouTube Music queue will now sync between your signed in devices to let you seamlessly continue listening.",
+        "source_link": "http://9to5google.com/2026/01/25/youtube-music-queue-sync/"
+      },
+      {
+        "rank": 4,
+        "image": "https://gizmodo.com/app/uploads/2025/10/halo-campaign-evolved-1200x675.jpg",
+        "title": "\u2018Halo\u2019 Actor Steve Downes Asks You Not to Remake His Voice with AI - Gizmodo",
+        "description": "The man behind Master Chief feels a way about generative AI when it comes to his voice being used for any 'Halo' fan project or video.",
+        "source_link": "https://gizmodo.com/halo-actor-steve-downes-asks-you-not-to-remake-his-voice-with-ai-2000713343"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.phoronix.net/image.php?id=2026&image=lact_084",
+        "title": "LACT 0.8.4 Brings Improved Overclocking UI For GPUs On Linux - Phoronix",
+        "description": "In the absence of any official GUI control panel from AMD or Intel for their graphics cards on Linux, LACT remains a popular choice particularly for AMD Radeon Linux gamers/enthusiasts to manage various aspects of their GPU from a convenient UI",
+        "source_link": "https://www.phoronix.com/news/LACT-0.8.4-Released"
+      },
+      {
+        "rank": 6,
         "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/01/25/runescape-gold-court-case.jpg",
         "title": "RuneScape gold counts as real stolen property after UK judge rules in $700K theft case - Dexerto",
         "description": "A UK judge has ruled that RuneScape gold can count as stolen property after an ex-developer was accused of stealing $700,000.",
         "source_link": "https://www.dexerto.com/gaming/runescape-gold-counts-as-real-stolen-property-after-uk-judge-rules-in-700k-theft-case-3309301/"
       },
       {
-        "rank": 2,
+        "rank": 7,
         "image": "https://imageio.forbes.com/specials-images/imageserve/69765b12b57b5a176135620e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "Apple iPhone 18 Pro Set For Its Biggest Visual Change In Years, New Leak Claims - Forbes",
         "description": "This fall\u2019s flagship iPhone could have a strikingly different design, according to a new report.",
         "source_link": "https://www.forbes.com/sites/davidphelan/2026/01/25/apple-iphone-18-pro-display-set-for-biggest-design-change-in-years-new-leak-claims/"
       },
       {
-        "rank": 3,
+        "rank": 8,
         "image": "https://hackaday.com/wp-content/uploads/2026/01/ssh_over_usb.png",
         "title": "SSH Over USB On A Raspberry Pi - Hackaday",
         "description": "Setting up access to a headless Raspberry Pi is one of those tasks that should take a few minutes, but for some reason always seems to take much longer. The most common method is to configure Wi-Fi\u2026",
         "source_link": "https://hackaday.com/2026/01/25/ssh-over-usb-on-a-raspberry-pi/"
       },
       {
-        "rank": 4,
+        "rank": 9,
+        "image": "https://cdn.mos.cms.futurecdn.net/SDGK8gvPur5PakBfWUhKYY-2560-80.png",
+        "title": "Windows 11 update may stop some PCs from booting, warns Microsoft - Windows Central",
+        "description": "Microsoft has posted an online bulletin confirming that the company is investigating reports that state Windows 11's latest security update has rendered some PCs unbootable.",
+        "source_link": "https://www.windowscentral.com/microsoft/windows-11/windows-11s-botched-patch-tuesday-update-nightmare-continues-as-microsoft-confirms-some-pcs-might-fail-to-boot"
+      },
+      {
+        "rank": 10,
         "image": "https://www.zdnet.com/a/img/resize/ba613604257d0c17fc55cd4443386b7b271ea87f/2026/01/16/d5ec4bf5-da44-4f6c-967f-7548ef3ed546/whatsapp-image-2026-01-16-at-13-03-24-2.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "I tested a solid-state portable battery for a week - now lithium-ion feels old school - ZDNET",
         "description": "This wireless power bank uses solid-state batteries instead of lithium-ion, and you'll like the reasons why.",
         "source_link": "https://www.zdnet.com/article/hey-bmx-solidsafe-5k-power-bank-review/"
-      },
-      {
-        "rank": 5,
-        "image": "https://assetsio.gnwcdn.com/2076177-3356774701.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Ubisoft's \"reset\" wipes 34% off its share price, the lowest in 15 years - Eurogamer",
-        "description": "Ubisoft has wiped over a third off its share price after announcing a \"reset\" would close down two studios and cancel s\u2026",
-        "source_link": "https://www.eurogamer.net/ubisofts-reset-wipes-34-off-its-share-price-the-lowest-in-15-years"
-      },
-      {
-        "rank": 6,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800",
-        "title": "Apple will reportedly unveil its Gemini-powered Siri assistant in February - TechCrunch",
-        "description": "We\u2019re about to get our first real look at the results of the recently announced AI partnership between Apple and Google.",
-        "source_link": "https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/"
-      },
-      {
-        "rank": 7,
-        "image": "https://cdn.videocardz.com/1/2026/01/SAPPHIRE-RX-9070-CONNECTOR-ISSUE.jpg",
-        "title": "Sapphire RX 9070 XT NITRO+ adds two more burned blue-tipped 12V-2\u00d76 adapter reports, and issues with RMA - VideoCardz.com",
-        "description": "Sapphire RX 9070 XT NITRO+ continues to have issues Two fresh threads add more attention to Sapphire\u2019s RX 9070 XT NITRO+ and its 12V-2x6 power setup,",
-        "source_link": "https://videocardz.com/newz/sapphire-rx-9070-xt-nitro-adds-two-more-burned-blue-tipped-12v-2x6-adapter-reports-and-issues-with-rma"
-      },
-      {
-        "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/Yakuza-Kiwami-3-%26-Dark-Ties-_-Announcement-Trailer-4-28-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Dataminers claim Yakuza Kiwami 3's ending has been changed, with a considerable knock-on effect on the rest of the franchise - Eurogamer",
-        "description": "Dataminers believe they've found evidence that Ryu Ga Gotoku Studio has changed the ending to Yakuza 3 in the upcoming \u2026",
-        "source_link": "https://www.eurogamer.net/dataminers-claim-yakuza-kiwami-3s-ending-has-been-changed-with-a-considerable-knock-on-effect-on-the-rest-of-the-franchise"
-      },
-      {
-        "rank": 9,
-        "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
-        "title": "Google says it\u2019s fixed Gmail issues with spam and misclassification - TechCrunch",
-        "description": "If your Gmail account doesn\u2019t seem to be working properly today, you\u2019re not alone.",
-        "source_link": "https://techcrunch.com/2026/01/25/gmail-is-having-issues-with-spam-and-misclassification/"
       }
     ],
     "trending_movies": [
@@ -97,45 +104,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/qNEL6chkH2s6gwvt0Jt9NfiXG8m.jpg",
-        "title": "The Big Fake",
-        "description": "Toni Chichiarelli arrives in Rome with the dream of becoming a painter, but his talent leads him elsewhere \u2014 from art galleries to state secrets. Betw...",
-        "source_link": "https://www.themoviedb.org/movie/1443762"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
         "title": "Marty Supreme",
         "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg",
-        "title": "Cosmic Princess Kaguya!",
-        "description": "Iroha's life gets knocked off its orbit when Kaguya, a carefree runaway from the Moon, moves in and convinces her to perform in a virtual world togeth...",
-        "source_link": "https://www.themoviedb.org/movie/1575337"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/qNEL6chkH2s6gwvt0Jt9NfiXG8m.jpg",
+        "title": "The Big Fake",
+        "description": "Toni Chichiarelli arrives in Rome with the dream of becoming a painter, but his talent leads him elsewhere \u2014 from art galleries to state secrets. Betw...",
+        "source_link": "https://www.themoviedb.org/movie/1443762"
       },
       {
-        "rank": 9,
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
+        "title": "Return to Silent Hill",
+        "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
+        "source_link": "https://www.themoviedb.org/movie/680493"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/qTvFWCGeGXgBRaINLY1zqgTPSpn.jpg",
         "title": "Sinners",
         "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is wait...",
         "source_link": "https://www.themoviedb.org/movie/1233413"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
-        "title": "Return to Silent Hill",
-        "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
-        "source_link": "https://www.themoviedb.org/movie/680493"
+        "image": "https://image.tmdb.org/t/p/w200/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg",
+        "title": "Cosmic Princess Kaguya!",
+        "description": "Iroha's life gets knocked off its orbit when Kaguya, a carefree runaway from the Moon, moves in and convinces her to perform in a virtual world togeth...",
+        "source_link": "https://www.themoviedb.org/movie/1575337"
       }
     ]
   }
