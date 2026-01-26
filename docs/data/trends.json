@@ -1,5 +1,5 @@
 {
-  "last_updated": "January 26, 2026, 09:30 UTC",
+  "last_updated": "January 26, 2026, 10:22 UTC",
   "categories": {
     "tech_news": [
       {
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/lNam8wi4bhzZ6U4wRb2T1nGsSix.jpg",
+        "title": "Send Help",
+        "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
+        "source_link": "https://www.themoviedb.org/movie/1198994"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
         "title": "The SpongeBob Movie: Search for SquarePants",
         "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman \u2013 a mysterious swashbuckling ghost pi...",
         "source_link": "https://www.themoviedb.org/movie/991494"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
-        "title": "Bugonia",
-        "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth....",
-        "source_link": "https://www.themoviedb.org/movie/701387"
       }
     ]
   }
