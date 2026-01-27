@@ -1,76 +1,69 @@
 {
-  "last_updated": "January 27, 2026, 01:28 UTC",
+  "last_updated": "January 27, 2026, 03:44 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.macrumors.com/t/b-krbYrUDlPHGrpWjLBf-xoJXSE=/1600x/article-new/2023/09/Apple-Logo-Spotlight.jpg",
+        "title": "Apple to Launch These 20+ Products This Year - MacRumors",
+        "description": "2026 promises to be yet another busy year for Apple, with the company rumored to be planning more than 20 product announcements over the coming...",
+        "source_link": "https://www.macrumors.com/2026/01/25/rumored-apple-products/"
+      },
+      {
+        "rank": 2,
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-01/15/16/thumb/jcpEkjFA19.jpg?crop=1250:654;0,134%26downsize=1250:*",
+        "title": "I Don\u2019t Wanna Gatekeep, So I\u2019m Putting These 27 Cool Things On Your Radar - buzzfeed.com",
+        "description": "This is me being nice, so...you're welcome or whatever.",
+        "source_link": "https://www.buzzfeed.com/taylor_steele/cool-things-to-put-on-your-radar"
+      },
+      {
+        "rank": 3,
         "image": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjA5NzUzMjE2MDk3NzIzODU3/amazon-sale-9.jpg",
         "title": "Amazon is selling a 2-in-1 laptop and tablet for just $70 - thestreet.com",
         "description": "Shoppers say \"the functionality is great.\"",
         "source_link": "https://www.thestreet.com/deals/aiprotablet-a30-2-in-1-laptop-tablet-amazon-sale-january-2026"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://www.bgr.com/img/gallery/5-free-apps-actually-better-than-premium-alternatives/l-intro-1768906389.jpg",
         "title": "5 Free Apps Actually Better Than Premium Alternatives - bgr.com",
         "description": "While most professional-grade apps lock premium features behind a paywall, apps like VLC, DaVinci Resolve, Bitwarden, etc., are completely free yet useful.",
         "source_link": "https://www.bgr.com/2079999/free-apps-better-premium-alternatives/"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://www.jalopnik.com/img/gallery/heres-how-much-a-2021-chevy-corvette-has-depreciated-in-just-5-years/l-intro-1768408883.jpg",
         "title": "Here's How Much A 2021 Chevy Corvette Has Depreciated In Just 5 Years - Jalopnik",
         "description": "The Chevrolet Corvette hasn't depreciated much over the last five years, losing around a quarter of its value in that time.",
         "source_link": "https://www.jalopnik.com/2080724/2021-chevy-corvette-5-year-depreciation/"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://media.nichegamer.com/wp-content/uploads/2026/01/nightin-cage-1-25-2025.jpg",
         "title": "Nightin Cage dev responds to fan feedback for more immersive fanservice - Niche Gamer",
         "description": "The developer of the upcoming Action RPG Nightin Cage has responded quickly to fan feedback regarding fanservice and the character's animations.",
         "source_link": "https://nichegamer.com/nightin-cage-dev-responds-to-fan-feedback-for-more-immersive-fanservice/"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/youtube-music-logo-circle-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "YouTube Music now syncs your queue across Android, iOS, & web - 9to5Google",
         "description": "The YouTube Music queue will now sync between your signed in devices to let you seamlessly continue listening.",
         "source_link": "http://9to5google.com/2026/01/25/youtube-music-queue-sync/"
       },
       {
-        "rank": 6,
-        "image": "https://gizmodo.com/app/uploads/2025/10/halo-campaign-evolved-1200x675.jpg",
-        "title": "\u2018Halo\u2019 Actor Steve Downes Asks You Not to Remake His Voice with AI - Gizmodo",
-        "description": "The man behind Master Chief feels a way about generative AI when it comes to his voice being used for any 'Halo' fan project or video.",
-        "source_link": "https://gizmodo.com/halo-actor-steve-downes-asks-you-not-to-remake-his-voice-with-ai-2000713343"
-      },
-      {
-        "rank": 7,
+        "rank": 8,
         "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/crosscabsprayfoam_top.jpg",
         "title": "This Picture Of A Nissan CrossCab Repaired With Spray Foam Insulation Is A Terrifying Warning - The Autopian",
         "description": "As I\u2019m sure you\u2019re aware, we here at the Autopian have a company car: our ridiculous Nissan Murano CrossCab, which we\u2019ve half-wrapped in Xpel protective film and then done all sorts of dumb stuff with. It\u2019s been a hell of a lot of fun, perversely, and people \u2026",
         "source_link": "https://www.theautopian.com/this-picture-of-a-nissan-crosscab-repaired-with-spray-foam-insulation-is-a-terrifying-warning/"
       },
       {
-        "rank": 8,
-        "image": "https://www.phoronix.net/image.php?id=2026&image=lact_084",
-        "title": "LACT 0.8.4 Brings Improved Overclocking UI For GPUs On Linux - Phoronix",
-        "description": "In the absence of any official GUI control panel from AMD or Intel for their graphics cards on Linux, LACT remains a popular choice particularly for AMD Radeon Linux gamers/enthusiasts to manage various aspects of their GPU from a convenient UI",
-        "source_link": "https://www.phoronix.com/news/LACT-0.8.4-Released"
-      },
-      {
         "rank": 9,
-        "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/01/25/runescape-gold-court-case.jpg",
-        "title": "RuneScape gold counts as real stolen property after UK judge rules in $700K theft case - Dexerto",
-        "description": "A UK judge has ruled that RuneScape gold can count as stolen property after an ex-developer was accused of stealing $700,000.",
-        "source_link": "https://www.dexerto.com/gaming/runescape-gold-counts-as-real-stolen-property-after-uk-judge-rules-in-700k-theft-case-3309301/"
-      },
-      {
-        "rank": 10,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69765b12b57b5a176135620e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "Apple iPhone 18 Pro Set For Its Biggest Visual Change In Years, New Leak Claims - Forbes",
-        "description": "This fall\u2019s flagship iPhone could have a strikingly different design, according to a new report.",
-        "source_link": "https://www.forbes.com/sites/davidphelan/2026/01/25/apple-iphone-18-pro-display-set-for-biggest-design-change-in-years-new-leak-claims/"
+        "image": "https://www.tastingtable.com/img/gallery/16-best-trader-joes-sides-and-snacks-for-the-ultimate-super-bowl-party/l-intro-1768963922.jpg",
+        "title": "16 Best Trader Joe's Sides And Snacks For The Ultimate Super Bowl Party - Tasting Table",
+        "description": "You need not worry about planning a Super Bowl party if you have a Trader Joe's nearby, as these 16 snacks and sides all make great additions to your spread.",
+        "source_link": "https://www.tastingtable.com/2081064/trader-joes-sides-snacks-super-bowl/"
       }
     ],
     "trending_movies": [
@@ -90,59 +83,59 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/lNam8wi4bhzZ6U4wRb2T1nGsSix.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/mlV70IuchLZXcXKowjwSpSfdfUB.jpg",
         "title": "Send Help",
         "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
         "source_link": "https://www.themoviedb.org/movie/1198994"
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
-        "title": "The Rip",
-        "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone \u2014 and everything \u2014 into question....",
-        "source_link": "https://www.themoviedb.org/movie/1306368"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
-        "title": "Marty Supreme",
-        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
         "title": "Mercy",
         "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
         "source_link": "https://www.themoviedb.org/movie/1236153"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
-      },
-      {
-        "rank": 8,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
+        "title": "The Rip",
+        "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone \u2014 and everything \u2014 into question....",
+        "source_link": "https://www.themoviedb.org/movie/1306368"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+        "title": "Marty Supreme",
+        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
+      },
+      {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
+        "title": "The SpongeBob Movie: Search for SquarePants",
+        "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman \u2013 a mysterious swashbuckling ghost pi...",
+        "source_link": "https://www.themoviedb.org/movie/991494"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/qNEL6chkH2s6gwvt0Jt9NfiXG8m.jpg",
         "title": "The Big Fake",
         "description": "Toni Chichiarelli arrives in Rome with the dream of becoming a painter, but his talent leads him elsewhere \u2014 from art galleries to state secrets. Betw...",
         "source_link": "https://www.themoviedb.org/movie/1443762"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg",
-        "title": "Cosmic Princess Kaguya!",
-        "description": "Iroha's life gets knocked off its orbit when Kaguya, a carefree runaway from the Moon, moves in and convinces her to perform in a virtual world togeth...",
-        "source_link": "https://www.themoviedb.org/movie/1575337"
       }
     ]
   }
