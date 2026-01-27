@@ -1,69 +1,76 @@
 {
-  "last_updated": "January 27, 2026, 12:40 UTC",
+  "last_updated": "January 27, 2026, 13:43 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://www.zdnet.com/a/img/resize/7dc83b932ed72e220517ba6de32b7e78cf1ad669/2024/09/18/1fcabcc1-08eb-425c-aa9e-d2ddc4d54fa9/microsoft-surface-laptop-4.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Microsoft said my Windows 10 PC no longer supported updates - but this software saved it - ZDNET",
-        "description": "0patch provides crucial security updates for Windows 10 and fills the support gap left by Microsoft. Here's my verdict after months of use.",
-        "source_link": "https://www.zdnet.com/article/0patch-review/"
+        "image": "https://www.apple.com/newsroom/images/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/tile/Apple-AirTag-FineWoven-Key-Ring-lp.jpg.og.jpg?202601261432",
+        "title": "Apple introduces new AirTag with expanded range and improved findability - Apple",
+        "description": "Apple today unveiled the new AirTag, now with an expanded finding range and a louder speaker.",
+        "source_link": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/"
       },
       {
         "rank": 2,
-        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2025-05/07/19/thumb/BmoRLqfTK.jpg?crop=1245:830;3,0&resize=1250:830",
-        "title": "If You Inherited The \u201cI Need A Little Treat\u201d Gene, These 16 Under-$10 Impulse Buys Won\u2019t Break The Bank - BuzzFeed",
-        "description": "\"I can't help it. It's in my DNA.\" \u2014You adding goodies to your cart",
-        "source_link": "https://www.buzzfeed.com/melanie_aman/little-treats-under-10-impulse-buys-an"
+        "image": "https://www.trueachievements.com/imgs/170573/forza-horizon-6-confirms-the-return-of-a-dreaded-game-mode.jpg",
+        "title": "Forza Horizon 6 confirms the return of a dreaded game mode - TrueAchievements",
+        "description": "Developer Playground Games has confirmed that The Eliminator will be returning to Forza Horizon 6, a game mode that players either love or outright loathe.",
+        "source_link": "https://www.trueachievements.com/news/forza-horizon-6-eliminator"
       },
       {
         "rank": 3,
-        "image": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/MjA5NzUzMjE2MDk3NzIzODU3/amazon-sale-9.jpg",
-        "title": "Amazon is selling a 2-in-1 laptop and tablet for just $70 - thestreet.com",
-        "description": "Shoppers say \"the functionality is great.\"",
-        "source_link": "https://www.thestreet.com/deals/aiprotablet-a30-2-in-1-laptop-tablet-amazon-sale-january-2026"
+        "image": "https://assetsio.gnwcdn.com/FF7-Rebirth-party-main.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Final Fantasy 7 Remake Part 3 has a title now - Eurogamer",
+        "description": "Final Fantasy 7 Remake trilogy director Naoki Hamaguchi has confirmed Part 3 now has a title and is being made with Unreal Engine 4.",
+        "source_link": "https://www.eurogamer.net/final-fantasy-7-remake-part-3-made-with-unreal-engine-4-title-locked-now"
       },
       {
         "rank": 4,
-        "image": "https://www.phoronix.net/image.php?id=2026&image=linux_619_rc7",
-        "title": "Linux 6.19-rc7 Released With Kernel Continuity Plan, A Few Important Fixes - Phoronix",
-        "description": "The Linux 6.19 kernel remains on track for its official release two weeks from today, with the extra RC being baked in due to the end of year holidays",
-        "source_link": "https://www.phoronix.com/news/Linux-6.19-rc7-Released"
+        "image": "https://insider-gaming.com/wp-content/uploads/2026/01/Starfield-2.0.jpg",
+        "title": "Starfield 2.0 Could Be Real After All - Insider Gaming",
+        "description": "A new mention about Starfield 2.0 has surfaced, however, no concrete information has been shared. Here are more details.",
+        "source_link": "https://insider-gaming.com/starfield-2-0-could-be-real-after-all/"
       },
       {
         "rank": 5,
-        "image": "https://www.bgr.com/img/gallery/5-free-apps-actually-better-than-premium-alternatives/l-intro-1768906389.jpg",
-        "title": "5 Free Apps Actually Better Than Premium Alternatives - bgr.com",
-        "description": "While most professional-grade apps lock premium features behind a paywall, apps like VLC, DaVinci Resolve, Bitwarden, etc., are completely free yet useful.",
-        "source_link": "https://www.bgr.com/2079999/free-apps-better-premium-alternatives/"
+        "image": "https://assets-prd.ignimgs.com/2026/01/26/cover-art-1769428932329.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "'FTL in a Warhammer 40,000 Skin' Game Pulled From Steam After What May Be a Nuisance DMCA Takedown From a Troll Claiming to Be Games Workshop - IGN",
+        "description": "A strategy game dubbed \u2018FTL in a Warhammer 40,000 skin\u2019 was recently pulled from Steam, with its developer suggesting it may have been on the receiving end of a nuisance DMCA takedown from a troll claiming to be Games Workshop.",
+        "source_link": "https://www.ign.com/articles/ftl-in-a-warhammer-40000-skin-game-pulled-from-steam-after-what-may-be-a-nuisance-dmca-takedown-from-a-troll-claiming-to-be-games-workshop"
       },
       {
         "rank": 6,
-        "image": "https://www.jalopnik.com/img/gallery/heres-how-much-a-2021-chevy-corvette-has-depreciated-in-just-5-years/l-intro-1768408883.jpg",
-        "title": "Here's How Much A 2021 Chevy Corvette Has Depreciated In Just 5 Years - Jalopnik",
-        "description": "The Chevrolet Corvette hasn't depreciated much over the last five years, losing around a quarter of its value in that time.",
-        "source_link": "https://www.jalopnik.com/2080724/2021-chevy-corvette-5-year-depreciation/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK109_WINDOWS_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Microsoft\u2019s first Windows 11 update of 2026 has been a mess - The Verge",
+        "description": "Microsoft has had two issue two out-of-band patches for its first Windows 11 update of 2026. The security update has caused shutdown issues and Dropbox crashes.",
+        "source_link": "https://www.theverge.com/news/867647/microsoft-windows-11-january-2026-update-bugs-issues"
       },
       {
         "rank": 7,
-        "image": "https://media.nichegamer.com/wp-content/uploads/2026/01/nightin-cage-1-25-2025.jpg",
-        "title": "Nightin Cage dev responds to fan feedback for more immersive fanservice - Niche Gamer",
-        "description": "The developer of the upcoming Action RPG Nightin Cage has responded quickly to fan feedback regarding fanservice and the character's animations.",
-        "source_link": "https://nichegamer.com/nightin-cage-dev-responds-to-fan-feedback-for-more-immersive-fanservice/"
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/jsc2025e077725-1152x648.jpg",
+        "title": "Former astronaut on lunar spacesuits: \u201cI don\u2019t think they\u2019re great right now\u201d - Ars Technica",
+        "description": "These are just the difficulties of designing a spacesuit for the lunar environment.\"",
+        "source_link": "https://arstechnica.com/space/2026/01/former-astronaut-on-lunar-spacesuits-i-dont-think-theyre-great-right-now/"
       },
       {
         "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/youtube-music-logo-circle-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "YouTube Music now syncs your queue across Android, iOS, & web - 9to5Google",
-        "description": "The YouTube Music queue will now sync between your signed in devices to let you seamlessly continue listening.",
-        "source_link": "http://9to5google.com/2026/01/25/youtube-music-queue-sync/"
+        "image": "https://www.bleepstatic.com/content/hl-images/2024/11/18/VMware.jpg",
+        "title": "CISA says critical VMware RCE flaw now actively exploited - BleepingComputer",
+        "description": "CISA has flagged a critical VMware vCenter Server vulnerability as actively exploited and ordered U.S. federal agencies to secure their servers within three weeks.",
+        "source_link": "https://www.bleepingcomputer.com/news/security/cisa-says-critical-vmware-rce-flaw-now-actively-exploited/"
       },
       {
         "rank": 9,
-        "image": "https://images.macrumors.com/t/Sa45WpyBk4fP8VHn6dTWNNsULG8=/1960x/article-new/2025/10/M5-MacBook-Pro.jpg",
-        "title": "Apple Reportedly Aiming to Upgrade the MacBook Pro Twice This Year - MacRumors",
-        "description": "Apple plans to release new MacBook Pro, MacBook Air, Mac Studio, and Studio Display models in the first half of this year, according to...",
-        "source_link": "https://www.macrumors.com/2026/01/25/macbook-pro-two-upgrades-in-2026-rumor/"
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/Android-17-featured-image.jpg",
+        "title": "Google could bring a taste of Apple\u2019s Liquid Glass to Android 17 - Android Authority",
+        "description": "Android 17 might ditch flat design for Apple-style blur, bringing a more polished, lightweight feel to menus and controls.",
+        "source_link": "https://www.androidauthority.com/android-17-system-level-blur-effects-leak-3635131/"
+      },
+      {
+        "rank": 10,
+        "image": "https://images.nintendolife.com/c2b063ca3a80f/large.jpg",
+        "title": "UK Charts: Final Fantasy VII Remake Intergrade Knocks Animal Crossing Down A Peg - Nintendo Life",
+        "description": "Nook, don't touch",
+        "source_link": "https://www.nintendolife.com/news/2026/01/uk-charts-final-fantasy-vii-remake-intergrade-knocks-animal-crossing-down-a-peg"
       }
     ],
     "trending_movies": [
@@ -104,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/qTvFWCGeGXgBRaINLY1zqgTPSpn.jpg",
-        "title": "Sinners",
-        "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is wait...",
-        "source_link": "https://www.themoviedb.org/movie/1233413"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
         "title": "Mercy",
         "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
         "source_link": "https://www.themoviedb.org/movie/1236153"
       },
       {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/qTvFWCGeGXgBRaINLY1zqgTPSpn.jpg",
+        "title": "Sinners",
+        "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is wait...",
+        "source_link": "https://www.themoviedb.org/movie/1233413"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+        "title": "Marty Supreme",
+        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/qNEL6chkH2s6gwvt0Jt9NfiXG8m.jpg",
         "title": "The Big Fake",
         "description": "Toni Chichiarelli arrives in Rome with the dream of becoming a painter, but his talent leads him elsewhere \u2014 from art galleries to state secrets. Betw...",
         "source_link": "https://www.themoviedb.org/movie/1443762"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg",
-        "title": "Cosmic Princess Kaguya!",
-        "description": "Iroha's life gets knocked off its orbit when Kaguya, a carefree runaway from the Moon, moves in and convinces her to perform in a virtual world togeth...",
-        "source_link": "https://www.themoviedb.org/movie/1575337"
       }
     ]
   }
