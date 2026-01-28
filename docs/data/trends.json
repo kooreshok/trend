@@ -1,55 +1,55 @@
 {
-  "last_updated": "January 28, 2026, 08:26 UTC",
+  "last_updated": "January 28, 2026, 09:30 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
+        "title": "January Update 1.13.0 - ARC Raiders",
+        "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
+        "source_link": "https://arcraiders.com/news/patch-notes-1-13-0"
+      },
+      {
+        "rank": 2,
         "image": "https://images.nintendolife.com/472087f9cc2e2/large.jpg",
         "title": "Rumour: Switch Online GameCube Releases Might Have Been Leaked - Nintendo Life",
         "description": "Is that...?",
         "source_link": "https://www.nintendolife.com/news/2026/01/rumour-switch-online-gamecube-releases-might-have-been-leaked"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://www.gematsu.com/wp-content/uploads/2026/01/ReBlade-Ann_01-26-26.jpg",
         "title": "Cyberpunk roguelike action game ReBlade: The Death Spiral announced for PC - Gematsu",
         "description": "Publisher Spiral Up Games and Loulan: The Cursed Sand developer ChillyRoom have announced cyberpunk roguelike action game ReBlade: The Death Spiral for PC (Steam). A release date was not announced.",
         "source_link": "https://www.gematsu.com/2026/01/cyberpunk-roguelike-action-game-reblade-the-death-spiral-announced-for-pc"
       },
       {
-        "rank": 3,
-        "image": "https://www.zdnet.com/a/img/resize/5449d4216eee5537251d69157eb43e83e222455b/2026/01/26/47eaa047-0421-4c38-a52a-429144944136/the-future-of-gmail-looks-ai-agent-shaped.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Inside Google's plan to turn Gmail into a relationship-aware AI agent - and you're at the center - ZDNET",
-        "description": "I spoke with Gmail VP of Product Blake Barnes to better understand Gmail's latest AI updates. Behind them lies a much larger idea.",
-        "source_link": "https://www.zdnet.com/article/future-of-gmail-ai-interview-blake-barnes/"
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2018/12/iPhone-5S.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple updates iOS 12 to extend iMessage and FaceTime support on older devices - 9to5Mac",
+        "description": "Apple has released iOS 12.5.8 for a small group of older devices, to make sure they can continue using FaceTime and iMessage.",
+        "source_link": "https://9to5mac.com/2026/01/26/apple-updates-ios-12-to-extend-imessage-and-facetime-support-on-older-devices/"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://images.macrumors.com/t/HpsmMBbdEH77r4Ws8lwmVWK0mRI=/1600x/article-new/2026/01/Second-Generation-AirTag-Feature.jpg",
         "title": "10+ Things to Know About the New AirTag 2 - MacRumors",
         "description": "After a five year wait, Apple finally unveiled the next-generation version of the AirTag earlier today. The AirTag 2 looks exactly like the original...",
         "source_link": "https://www.macrumors.com/2026/01/26/10-things-to-know-about-the-new-airtag-2/"
       },
       {
-        "rank": 5,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Kirby-Air-Riders-1.3.0-update.jpg",
-        "title": "Kirby Air Riders 1.3.0 update out now, patch notes - new features, balance adjustments, more - Nintendo Everything",
-        "description": "Kirby Air Riders has just been given a big version 1.3.0 update with new features, balance adjustments, and more - here are the patch notes.",
-        "source_link": "https://nintendoeverything.com/kirby-air-riders-1-3-0-update-out-now-patch-notes-new-features-balance-adjustments-more/"
+        "rank": 6,
+        "image": "https://www.sciencealert.com/images/2026/01/worlds_oldest_tool_header.jpg",
+        "title": "430,000-Year-Old Stick Found in Greece Among Humanity's Oldest Wooden Tools - ScienceAlert",
+        "description": "NEW YORK (AP) \u2013 Two artifacts found at a lake shore in Greece are the oldest wooden tools to be uncovered so far and date back 430,000 years.",
+        "source_link": "https://www.sciencealert.com/430000-year-old-stick-found-in-greece-among-humanitys-oldest-wooden-tools"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=1024",
         "title": "Google pays $68M to settle claims its voice assistant spied on users - TechCrunch",
         "description": "Google did not admit wrongdoing in the settlement of the class-action case, which accused the firm of \"unlawful and intentional interception and recording of individuals\u2019 confidential communications without their consent and subsequent unauthorized disclosure\u2026",
         "source_link": "https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.macrumors.com/t/ngkAi3w6nDMDcpgrGD3TE21HlGY=/1600x/article-new/2024/05/iPhone-5s-16x9.jpeg",
-        "title": "iPhone 5s Gets New Software Update 13 Years After Launch - MacRumors",
-        "description": "Alongside iOS 26.2.1, Apple today released an updated version of iOS 12 for devices that are still running that operating system update, eight years...",
-        "source_link": "https://www.macrumors.com/2026/01/26/iphone-5s-software-update/"
       },
       {
         "rank": 8,
@@ -104,45 +104,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/7lFG1WrCwAxBfyGK8ahlBVzXno7.jpg",
-        "title": "David",
-        "description": "From the songs of his mother\u2019s heart to the whispers of a faithful God, David\u2019s story begins in quiet devotion. When the giant Goliath rises to terror...",
-        "source_link": "https://www.themoviedb.org/movie/1167307"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/mlV70IuchLZXcXKowjwSpSfdfUB.jpg",
         "title": "Send Help",
         "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
         "source_link": "https://www.themoviedb.org/movie/1198994"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/7lFG1WrCwAxBfyGK8ahlBVzXno7.jpg",
+        "title": "David",
+        "description": "From the songs of his mother\u2019s heart to the whispers of a faithful God, David\u2019s story begins in quiet devotion. When the giant Goliath rises to terror...",
+        "source_link": "https://www.themoviedb.org/movie/1167307"
+      },
+      {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
+        "title": "The Wrecking Crew",
+        "description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspirac...",
+        "source_link": "https://www.themoviedb.org/movie/1168190"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
         "title": "The Rip",
         "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone \u2014 and everything \u2014 into question....",
         "source_link": "https://www.themoviedb.org/movie/1306368"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
-        "title": "Untitled Home Invasion Romance",
-        "description": "Kevin Stanwell is an actor famous for being the mascot for erectile dysfunction ads. With his marriage on the rocks, he attempts to salvage the relati...",
-        "source_link": "https://www.themoviedb.org/movie/1340076"
-      },
-      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/qTvFWCGeGXgBRaINLY1zqgTPSpn.jpg",
-        "title": "Sinners",
-        "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is wait...",
-        "source_link": "https://www.themoviedb.org/movie/1233413"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/6cvHz1TnF2ktoLbbHACh99nKL9H.jpg",
         "title": "Silent Night, Deadly Night",
         "description": "After witnessing his parents' brutal murder on Christmas Eve, Billy transforms into a Killer Santa, delivering a yearly spree of calculated, chilling ...",
         "source_link": "https://www.themoviedb.org/movie/801937"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/aBMnVU5yrsP5XMBZhG8aT2w6m9u.jpg",
+        "title": "Untitled Home Invasion Romance",
+        "description": "Kevin Stanwell is an actor famous for being the mascot for erectile dysfunction ads. With his marriage on the rocks, he attempts to salvage the relati...",
+        "source_link": "https://www.themoviedb.org/movie/1340076"
       }
     ]
   }
