@@ -1,69 +1,62 @@
 {
-  "last_updated": "January 29, 2026, 01:44 UTC",
+  "last_updated": "January 29, 2026, 04:04 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/20b4d0fd43875/large.jpg",
+        "title": "Fatal Frame 2: Crimson Butterfly Remake Switch 2 Demo And Silent Hill f DLC Collab Announced - Nintendo Life",
+        "description": "The full game launches this March",
+        "source_link": "https://www.nintendolife.com/news/2026/01/fatal-frame-2-crimson-butterfly-remake-switch-2-demo-and-silent-hill-f-dlc-collab-announced"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/02/samsung-galaxy-s25-ultra-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Samsung\u2019s first Galaxy S26 teaser is for the \u2018Privacy Display\u2019 [Gallery] - 9to5Google",
+        "description": "Samsung is teasing the Galaxy S26\u2019s new \u201cPrivacy display\u201d feature in a series of new videos that showcase how the...",
+        "source_link": "http://9to5google.com/2026/01/27/samsung-galaxy-s26-privacy-display-teaser/"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.mos.cms.futurecdn.net/UsYxGPC6eFnVyC7C3weAtj-2048-80.jpg",
+        "title": "Microsoft promises behind the scenes platform changes on Windows 11 in 2026 - Windows Central",
+        "description": "After a rough few weeks, Microsoft has promised to make behind-the-scenes platform changes to Windows 11 as it begins testing the next wave of features.",
+        "source_link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-vows-to-make-behind-the-scenes-platform-changes-as-it-begins-testing-next-phase-of-windows-11"
+      },
+      {
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/04/hp-dragonfly-pro-chromebook-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Android\u2019s full desktop interface leaks: New status bar, Chrome Extensions, more [Video] - 9to5Google",
+        "description": "A Google bug report on the Chromium Issue Tracker today has inadvertently leaked the Android desktop interface for the first time.",
+        "source_link": "http://9to5google.com/2026/01/27/android-desktop-leak/"
+      },
+      {
+        "rank": 5,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/airtag-2-vs-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "AirTag 2 vs AirTag: Here\u2019s everything new - 9to5Mac",
         "description": "Apple\u2019s AirTag successor is finally here, five years after the original model. Here\u2019s every feature that\u2019s new and improved with AirTag 2.",
         "source_link": "https://9to5mac.com/2026/01/27/airtag-2-vs-airtag-heres-everything-new/"
       },
       {
-        "rank": 2,
+        "rank": 6,
+        "image": "https://blog.tipranks.com/wp-content/uploads/2026/01/intel-shutterstock_2049884693-750x406.jpg",
+        "title": "A New King of Handhelds? Intel Stock (NASDAQ:INTC) Jumps With New Panther Lake Details - TipRanks",
+        "description": "Things have been rough lately for chip stock Intel ($INTC), but one potential winner of a point emerged today as Intel looks like it is more ready than ever before",
+        "source_link": "https://www.tipranks.com/news/a-new-king-of-handhelds-intel-stock-nasdaqintc-jumps-with-new-panther-lake-details"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.bleepstatic.com/content/hl-images/2023/10/18/winrar-malicious.png",
+        "title": "WinRAR path traversal flaw still exploited by numerous hackers - BleepingComputer",
+        "description": "Multiple threat actors, both state-sponsored and financially motivated, are exploiting the\u00a0CVE-2025-8088\u00a0high-severity vulnerability in WinRAR\u00a0for initial access and to deliver various malicious payloads.",
+        "source_link": "https://www.bleepingcomputer.com/news/security/winrar-path-traversal-flaw-still-exploited-by-numerous-hackers/"
+      },
+      {
+        "rank": 8,
         "image": "https://images.digitalfoundry.net/5b98772ab1007/large.jpg",
         "title": "Final Fantasy 7 Remake: Series S Beats Switch 2 Texture Quality - With Less RAM - Digital Foundry",
         "description": "Both Xbox Series X and Series S ports are highly impressive.",
         "source_link": "https://www.digitalfoundry.net/news/2026/01/final-fantasy-7-remake-series-s-beats-switch-2-texture-quality-with-less-ram"
-      },
-      {
-        "rank": 3,
-        "image": "https://kotaku.com/app/uploads/2025/08/GyvXtduXoAA8Jjc-1200x675.jpg",
-        "title": "Resident Evil Requiem Not An Open-World Game - Kotaku",
-        "description": "Resident Evil Requiem game director Koshi Nakanishi reassured fans in Game Informer interview: Requiem isn't open-world.",
-        "source_link": "https://kotaku.com/resident-evil-requiem-not-open-world-capcom-2000663537"
-      },
-      {
-        "rank": 4,
-        "image": "https://www.bgr.com/img/gallery/why-theres-simply-no-need-for-an-ipad-anymore/l-intro-1769013872.jpg",
-        "title": "Why There's Simply No Need For An iPad Anymore - bgr.com",
-        "description": "Apple may finally be releasing the iPhone Fold this year, as well as a MacBook with touchscreen capabilities, eliminating the need for an iPad.",
-        "source_link": "https://www.bgr.com/2081519/why-no-one-needs-ipads-anymore/"
-      },
-      {
-        "rank": 5,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Gemini-3-1152x648.png",
-        "title": "AI Overviews gets upgraded to Gemini 3 with a dash of AI Mode - Ars Technica",
-        "description": "AI Overviews may get it right more often with the move to Gemini 3.",
-        "source_link": "https://arstechnica.com/google/2026/01/ai-overviews-gets-upgraded-to-gemini-3-with-a-dash-of-ai-mode/"
-      },
-      {
-        "rank": 6,
-        "image": "https://i.insider.com/6978cad8d3c7faef0eccf998?width=1200&format=jpeg",
-        "title": "Clawdbot creator says Anthropic 'forced' him to rename the viral AI agent: 'Wasn't my decision' - Business Insider",
-        "description": "Clawdbot, the viral AI agent that caused techies to buy up Mac Minis, is now Moltbot after Anthropic reached out about name and mascot similarities.",
-        "source_link": "https://www.businessinsider.com/clawdbot-changes-name-moltbot-anthropic-trademark-2026-1"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Dozens of nudify apps found on Google and Apple\u2019s app stores - The Verge",
-        "description": "A TTP report has identified over 40 apps on Google and Apple\u2019s app stores that can generate sexualized deepfakes similar to xAI\u2019s Grok, only some of which have been removed.",
-        "source_link": "https://www.theverge.com/news/868614/nudify-apps-ttp-report-google-apple-app-stores"
-      },
-      {
-        "rank": 8,
-        "image": "https://m-cdn.phonearena.com/images/article/177724-wide-two_1200/Galaxy-S26-Ultra-now-rumored-to-embrace-a-display-feature-that-only-a-few-phones-have.jpg",
-        "title": "Galaxy S26 Ultra now rumored to embrace a display feature that only a few phones have - PhoneArena",
-        "description": "A new rumor suggests the Galaxy S26 Ultra's display will cement its superiority over other flagships",
-        "source_link": "https://www.phonearena.com/news/samsung-s26-ultra-10-bit-screen_id177724"
-      },
-      {
-        "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/Virtual-Boy_EhXSle8.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Virtual Boy Nintendo Classics for Switch consoles detailed - Eurogamer",
-        "description": "Ahead of its February 17 launch, the Virtual Boy Nintendo Classics games and hardware re-release has been detailed by Nintendo with a new trailer.",
-        "source_link": "https://www.eurogamer.net/virtual-boy-switch-online-launch-lineup-confirmed-2026-plans-teased"
       }
     ],
     "trending_movies": [
@@ -111,17 +104,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/iQCtK477yqp6xnHHrQG2P0lXoow.jpg",
-        "title": "Ella McCay",
-        "description": "An idealistic young politician juggles familial issues and a challenging work life while preparing to take over the job of her mentor, the state\u2019s lon...",
-        "source_link": "https://www.themoviedb.org/movie/1206008"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
         "title": "The Rip",
         "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone \u2014 and everything \u2014 into question....",
         "source_link": "https://www.themoviedb.org/movie/1306368"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/iQCtK477yqp6xnHHrQG2P0lXoow.jpg",
+        "title": "Ella McCay",
+        "description": "An idealistic young politician juggles familial issues and a challenging work life while preparing to take over the job of her mentor, the state\u2019s lon...",
+        "source_link": "https://www.themoviedb.org/movie/1206008"
       },
       {
         "rank": 9,
