@@ -1,55 +1,69 @@
 {
-  "last_updated": "January 29, 2026, 20:25 UTC",
+  "last_updated": "January 29, 2026, 21:22 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://media.wired.com/photos/69793a0b5294d9145baa708c/191:100/w_1280,c_limit/AI-Lab-The-Power-and-Peril-of-Clawdbot-Business.jpg",
+        "title": "Moltbot Is Taking Over Silicon Valley - WIRED",
+        "description": "People are letting the viral AI assistant formerly known as Clawdbot run their lives, regardless of the privacy concerns.",
+        "source_link": "https://www.wired.com/story/clawdbot-moltbot-viral-ai-assistant/"
+      },
+      {
+        "rank": 2,
+        "image": "https://media.wired.com/photos/697923819a802e4549c2506c/191:100/w_1280,c_limit/gear-chrome-2184968272.jpg",
+        "title": "Google\u2019s New Chrome \u2018Auto Browse\u2019 Agent Attempts to Roam the Web Without You - WIRED",
+        "description": "Google\u2019s latest addition to its Chrome browser puts generative AI behind the wheel and you in the passenger seat.",
+        "source_link": "https://www.wired.com/story/google-chrome-auto-browse/"
+      },
+      {
+        "rank": 3,
+        "image": "https://assetsio.gnwcdn.com/playstation-plus-ultros.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Here are our PS Plus monthly games for February - Eurogamer",
+        "description": "Another month means another batch of games for PlayStation Plus and, as we ready for the hopefully marginally warmer em\u2026",
+        "source_link": "https://www.eurogamer.net/here-are-our-ps-plus-monthly-games-for-february"
+      },
+      {
+        "rank": 4,
+        "image": "https://images.nintendolife.com/ac2f09b63ec6f/large.jpg",
+        "title": "Disney Afternoon Collection Pops Up On Switch 1 & 2 eShop, Includes Two Additional Games - Nintendo Life",
+        "description": "Digital Eclipse yet to confirm",
+        "source_link": "https://www.nintendolife.com/news/2026/01/disney-afternoon-collection-pops-up-on-switch-1-and-2-eshop-includes-two-additional-games"
+      },
+      {
+        "rank": 5,
         "image": "https://nintendoeverything.com/wp-content/uploads/Dispatch-censored.jpg",
         "title": "Dispatch is censored on Nintendo Switch 2 and Switch - Nintendo Everything",
         "description": "Although there was initially speculation about Dispatch being censored on Nintendo Switch 2 and Switch, it\u2019s now confirmed that this is indeed the case. In the PC and PS5 versions, the game featured a \u201cVisual Censorship\u201d setting. This is gone on Nintendo Swit\u2026",
         "source_link": "https://nintendoeverything.com/dispatch-is-censored-on-nintendo-switch-2-and-switch/"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://imageio.forbes.com/specials-images/imageserve/693d2bc81607dd2aa1d99822/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "iOS 26.2.1\u2014Update Now Warning Issued To Millions Of iPhone Users - Forbes",
         "description": "Apple has released iOS 26.2.1, an important update that all iPhone users should apply now. Here's what you need to know.",
         "source_link": "https://www.forbes.com/sites/kateoflahertyuk/2026/01/28/ios-2621-update-now-warning-issued-to-millions-of-iphone-users/"
       },
       {
-        "rank": 3,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Pixel-10-Pro-XL-in-Porcelain-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google Pixel\u2019s Tensor chip said to help weather a rocky smartphone market in 2026 - 9to5Google",
-        "description": "A new report forecasts the smartphone chipset market through 2026, and claims that Google\u2019s efforts in building Tensor for Pixel...",
-        "source_link": "http://9to5google.com/2026/01/28/google-pixels-tensor-chip-said-to-help-weather-a-rocky-smartphone-market-in-2026/"
-      },
-      {
-        "rank": 4,
+        "rank": 7,
         "image": "https://assets-prd.ignimgs.com/2025/11/28/switch-2-on-sale-for-black-friday-best-deals-2025-ign-new-november-28-1764350107688.png?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Did the Nintendo Switch 2 Really Have a Bad Holiday? We Asked Analysts - IGN",
         "description": "Since December, we've been seeing (and writing!) headlines discussing the seeming slowdown of Nintendo Switch 2 sales going into the holiday season. But there's some nuance to this narrative, so I kicked off the new year by bugging all the analysts I knew for\u2026",
         "source_link": "https://www.ign.com/articles/did-the-nintendo-switch-2-really-have-a-bad-holiday-we-asked-analysts"
       },
       {
-        "rank": 5,
-        "image": "https://nintendoeverything.com/wp-content/uploads/The-Disney-Afternoon-Collection.jpg",
-        "title": "The Disney Afternoon Collection confirmed for Nintendo Switch 2 and Switch, will have two new games - Nintendo Everything",
-        "description": "The Disney Afternoon Collection has now been confirmed for Nintendo Switch 2 and Switch, plus two brand new games are coming to the package.",
-        "source_link": "https://nintendoeverything.com/the-disney-afternoon-collection-confirmed-for-nintendo-switch-2-and-switch-will-have-two-new-games/"
-      },
-      {
-        "rank": 6,
+        "rank": 8,
         "image": "https://www.gematsu.com/wp-content/uploads/2026/01/Scott-Pilgrim-EX-Date_01-28-26.jpg",
         "title": "Scott Pilgrim EX launches March 3 - Gematsu",
         "description": "Retro-style side-scrolling adventure brawlerScott Pilgrim EX will launch digitally for PlayStation 5, Xbox Series, PlayStation 4, Switch, and PC via Steam on March 3 for $28.99, developer Tribute G\u2026",
         "source_link": "https://www.gematsu.com/2026/01/scott-pilgrim-ex-launches-march-3"
       },
       {
-        "rank": 7,
-        "image": "https://www.techpowerup.com/review/amd-ryzen-7-9850x3d/images/title.jpg",
-        "title": "AMD Ryzen 7 9850X3D Review - The Best Just Got Better - TechPowerUp",
-        "description": "The AMD Ryzen 9850X3D builds on the already excellent 9800X3D without trying to shake up the market. Instead, it focuses on refining what already works. AMD delivers modest improvements with smarter tuning, and the same cache magic that gamers love. Thanks to\u2026",
-        "source_link": "https://www.techpowerup.com/review/amd-ryzen-7-9850x3d/"
+        "rank": 9,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Gemini-app-generic-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Gemini details AI Plus limits, rolls out NotebookLM integration on iOS - 9to5Google",
+        "description": "Google brought the AI Plus subscription to the US yesterday, and here\u2019s how it upgrades usage limits in the Gemini app.",
+        "source_link": "http://9to5google.com/2026/01/28/gemini-app-google-ai-plus/"
       }
     ],
     "trending_movies": [
@@ -104,24 +118,24 @@
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/xCdSd7NnRdnL8DGLVhI95WhUNoi.jpg",
+        "title": "Silent Night, Deadly Night",
+        "description": "After witnessing his parents' brutal murder on Christmas Eve, Billy transforms into a Killer Santa, delivering a yearly spree of calculated, chilling ...",
+        "source_link": "https://www.themoviedb.org/movie/801937"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
         "title": "The Rip",
         "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone \u2014 and everything \u2014 into question....",
         "source_link": "https://www.themoviedb.org/movie/1306368"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/d48jeTE2cSbQAHjuWw3Qyn9aJxN.jpg",
         "title": "A Letter to My Youth",
         "description": "A rebellious teen and a reserved caretaker form an unlikely bond in an orphanage as they come to terms with their painful pasts....",
         "source_link": "https://www.themoviedb.org/movie/1602705"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/xCdSd7NnRdnL8DGLVhI95WhUNoi.jpg",
-        "title": "Silent Night, Deadly Night",
-        "description": "After witnessing his parents' brutal murder on Christmas Eve, Billy transforms into a Killer Santa, delivering a yearly spree of calculated, chilling ...",
-        "source_link": "https://www.themoviedb.org/movie/801937"
       }
     ]
   }
