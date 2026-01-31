@@ -1,5 +1,5 @@
 {
-  "last_updated": "January 31, 2026, 22:18 UTC",
+  "last_updated": "January 31, 2026, 23:18 UTC",
   "categories": {
     "tech_news": [
       {
@@ -18,48 +18,55 @@
       },
       {
         "rank": 3,
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1409383663/image_1409383663.jpg?io=getty-c-w630",
+        "title": "Video game stocks nosedive as Google's 'Project Genie' allows virtual world creation (RBLX:NYSE) - Seeking Alpha",
+        "description": "Video game stocks plunge after Google\u2019s Project Genie reveal.",
+        "source_link": "https://seekingalpha.com/news/4544948-video-game-stocks-nosedive-as-googles-project-genie-allows-virtual-world-creation"
+      },
+      {
+        "rank": 4,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13378319/akrales_181023_2923_0361.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Belkin\u2019s Wemo smart devices will go offline on Saturday - The Verge",
         "description": "On January 31st, Wemo smart home devices will lose cloud services support, with the exception of Thread-based devices and Wemo devices set up in Apple HomeKit.",
         "source_link": "https://www.theverge.com/tech/870890/belkin-wemo-cloud-services-shut-down"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/claude-iphone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple \u2018runs on Anthropic,\u2019 says Mark Gurman - 9to5Mac",
         "description": "Mark Gurman is known as being well connected inside Apple, and he just shared some interesting comments about Apple\u2019s reliance on Anthropic.",
         "source_link": "https://9to5mac.com/2026/01/30/apple-runs-on-anthropic-says-mark-gurman/"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/galaxy-s26-leak-ultra-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Galaxy S26 series specs, official-looking images leak ahead of February 25 launch [Gallery] - 9to5Google",
         "description": "Samsung\u2019s Galaxy S26 series is looking all but confirmed for a February 25 launch event, while new leaks reveal official-looking...",
         "source_link": "http://9to5google.com/2026/01/30/samsung-galaxy-s26-specs-images-launch-date-leak/"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://assets.warhammer-community.com/thh_sdscatasphractii-jan30-1-feature-uipk3eciwj.jpg",
         "title": "The Warhammer: The Horus Heresy team goes heavy on Cataphractii Terminators - Warhammer Community",
         "description": "See how painters from the Warhammer Studio got on with their new miniatures.",
         "source_link": "https://www.warhammer-community.com/articles/riua1n5m/the-warhammer-the-horus-heresy-team-goes-heavy-on-cataphractii-terminators"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://kotaku.com/app/uploads/2025/06/3654fcd6c146ebf43cfdf662702c20a0-1200x675.jpg",
         "title": "New Nintendo Direct Rumors Point To An Incoming Flood Of Switch 2 Ports - Kotaku",
         "description": "February will reportedly kick off with a new Partner Showcase",
         "source_link": "https://kotaku.com/february-nintendo-direct-switch-2-3d-mario-2000664537"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://images.axios.com/OkMDnYFuOJwz3SLuEtzlu8G7mSk=/0x0:1920x1080/1366x768/2025/10/15/1760570699461.jpeg",
         "title": "Silicon Valley's latest AI agent obsession is riddled with security risks - Axios",
         "description": "This is just the beginning, and AI adopters are already hastily picking convenience over digital security.",
         "source_link": "https://www.axios.com/2026/01/29/moltbot-cybersecurity-ai-agent-risks"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4xLoFpuzf6DbHF4Fy9WnEv4INmkiXkLiWxb9Pc7eqWDphv3Wcp57B38zLriR2xberjGDP_Xll60j1q8KmqpFTu9yfBIuyWilyHA97sm4-2CD_yqTOJubfYUKDp_-gkGHS-f-tcZYMk4N3sjwNzcy3GomBw-yVigT-MqY3J77PiGLVQyGK8JKHla5vykAd/s1700-e365/chrome.jpg",
         "title": "Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access - The Hacker News",
         "description": "Experts uncovered malicious Chrome extensions that replace affiliate links, exfiltrate data, and steal ChatGPT authentication tokens from users.",
@@ -90,24 +97,24 @@
       },
       {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+        "title": "Iron Lung",
+        "description": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name -- The Quiet Ra...",
+        "source_link": "https://www.themoviedb.org/movie/1116201"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/mlV70IuchLZXcXKowjwSpSfdfUB.jpg",
         "title": "Send Help",
         "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
         "source_link": "https://www.themoviedb.org/movie/1198994"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/nh43XSQegiFELtR1CyGHeqPMXBA.jpg",
         "title": "Greenland 2: Migration",
         "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a...",
         "source_link": "https://www.themoviedb.org/movie/840464"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
-        "title": "Iron Lung",
-        "description": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name -- The Quiet Ra...",
-        "source_link": "https://www.themoviedb.org/movie/1116201"
       },
       {
         "rank": 7,
