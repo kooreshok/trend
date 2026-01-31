@@ -1,69 +1,76 @@
 {
-  "last_updated": "January 30, 2026, 23:21 UTC",
+  "last_updated": "January 31, 2026, 01:41 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/02/win11-light-1152x648.jpeg",
+        "title": "People complaining about Windows 11 hasn\u2019t stopped it from hitting 1 billion users - Ars Technica",
+        "description": "Windows 11 clears a milestone as Windows 10 continues its slow fade.",
+        "source_link": "https://arstechnica.com/gadgets/2026/01/windows-11-has-hit-1-billion-users-just-a-hair-faster-than-windows-10-did/"
+      },
+      {
+        "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2026/01/no-rest-1200x675.jpg",
+        "title": "The Soulslike ARPG Taking Over Steam Will Cost As Much As BG3 - Kotaku",
+        "description": "The action-RPG is currently on sale after a breakout free-to-play weekend",
+        "source_link": "https://kotaku.com/no-rest-wicked-co-op-free-steam-sale-early-access-ps5-2000664252"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2023/10/walmart_logo.jpg?fit=1400%2C875&ssl=1",
+        "title": "Nintendo comments on Walmart leak - My Nintendo News",
+        "description": "Nintendo has said that the image which was used by Walmart and showed Metroid Prime 2 Echoes and Pikmin 2 as part of the Nintendo Classics GameCube range was incorrect, stating that those games \u201care\u2026",
+        "source_link": "https://mynintendonews.com/2026/01/29/nintendo-comments-on-walmart-leak/"
+      },
+      {
+        "rank": 4,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/10/Pixel-Tablet-Header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google gives Pixel Tablet another two years of Android OS updates - 9to5Google",
         "description": "Google\u2019s mostly-forgotten Pixel Tablet is getting a new lease on life, as the company is giving its one and only...",
         "source_link": "http://9to5google.com/2026/01/29/google-gives-pixel-tablet-another-two-years-of-android-os-updates/"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/2e279dcd86b9fa0e6f612e02b97dd202200d8cbf-1920x1080.jpg?accountingTag=2XKO?w=1200&h=630&fm=webp&fit=crop&crop=center",
         "title": "2XKO in 2026 - 2XKO",
         "description": "Game Director Shaun Rivera shares our development focuses for 2026 in this Weekend Warmup.",
         "source_link": "https://2xko.riotgames.com/en-us/news/announcements/2xko-in-2026/"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
         "title": "Apple buys Israeli startup Q.ai as the AI race heats up - TechCrunch",
         "description": "Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments.",
         "source_link": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://kotaku.com/app/uploads/2026/01/ss_1dca9b5175b902ffef349a6743a2d-1200x675.jpg",
         "title": "Highguard's First Patch Adds Fixes But A Bigger Update Is Coming - Kotaku",
         "description": "New settings options aim to help with framerates on PC",
         "source_link": "https://kotaku.com/highguards-patch-note-fov-ps5-crash-pc-optimization-2000664201"
       },
       {
-        "rank": 5,
+        "rank": 8,
         "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o39kk138351118/3e23d9b9ad7b90c341e769f43642cd09acd0cfc3.jpg",
         "title": "Make an Honest Living in Three New GTA Online Odd Jobs - Rockstar Games",
         "description": "Join the ranks of the Los Santos Fire Department as a Firefighter, load up delivery vans for Alpha Mail as a Forklift Operator, or deliver the old-fashioned printed version of the Los Santos Meteor with a Paper Route in three new Odd Jobs now available...",
         "source_link": "https://www.rockstargames.com/newswire/article/o39kk138351118/make-an-honest-living-in-three-new-gta-online-odd-jobs"
       },
       {
-        "rank": 6,
+        "rank": 9,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/Galaxy-S25-Ultra-camera-system-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Samsung\u2019s confusing Galaxy S26 pricing raises base model cost, but makes Ultra cheaper - 9to5Google",
+        "description": "New reports reveal that Samsung is, in fact, planning to raise the price of the Galaxy S26 series, but only...",
+        "source_link": "http://9to5google.com/2026/01/29/samsung-galaxy-s26-pricing-means-more-expensive-base-cheaper-ultra/"
+      },
+      {
+        "rank": 10,
         "image": "https://techcrunch.com/wp-content/uploads/2026/01/Project-Genie.png?resize=1200,665",
         "title": "I built marshmallow castles in Google\u2019s new AI world generator - TechCrunch",
         "description": "Starting Thursday, Google AI Ultra subscribers in the U.S. can play around with Project Genie, which is powered by a combination of Google\u2019s latest world model Genie 3, its image generation model Nano Banana Pro, and Gemini.",
         "source_link": "https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets.2k.com/1a6ngf98576c/4zXpfbA9xO397sI262TrDm/6bbefd7d76850e74bcfda880dd76cf10/BL4_KA.png",
-        "title": "2026 Roadmap - Borderlands | Official Website",
-        "description": "Here's your first look at what we've got in store for 2026!",
-        "source_link": "https://borderlands.2k.com/borderlands-4/news/2026-roadmap/"
-      },
-      {
-        "rank": 8,
-        "image": "https://media.wired.com/photos/697b91bbe49b1882e7ffc198/191:100/w_1280,c_limit/012826-AI-toy-children-chat-3.jpg",
-        "title": "An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account - WIRED",
-        "description": "AI chat toy company Bondu left its web console almost entirely unprotected. Researchers who accessed it found nearly all the conversations children had with the company's stuffed animals.",
-        "source_link": "https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.ctfassets.net/ryplwhabvmmk/6pwOMW5edK8ahCdQQU3MgC/390c38f85cb0185a234e72c29e7da19b/ECL-Wistfulness-960x540.jpg",
-        "title": "Pro Tour Lorwyn Eclipsed Standard Metagame Breakdown - MAGIC PLAY",
-        "description": "Get a feel for the rhythm of Standard and explore the Constructed metagame of Pro Tour Lorwyn Eclipsed!",
-        "source_link": "https://www.magic.gg/news/pro-tour-lorwyn-eclipsed-standard-metagame-breakdown"
       }
     ],
     "trending_movies": [
@@ -76,17 +83,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg",
         "title": "Anaconda",
         "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
         "source_link": "https://www.themoviedb.org/movie/1234731"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 4,
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/uwB0yTkLEM8gENuXxHtkYaG3HEx.jpg",
+        "title": "96 Minutes",
+        "description": "Former bomb disposal expert, Song Kang-Ren, and his fianc\u00e9e, Huang Xin, board a high-speed train that contains a bomb. At the same time, Liu Kai, a we...",
+        "source_link": "https://www.themoviedb.org/movie/1271895"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/xCdSd7NnRdnL8DGLVhI95WhUNoi.jpg",
         "title": "Silent Night, Deadly Night",
         "description": "After witnessing his parents' brutal murder on Christmas Eve, Billy transforms into a Killer Santa, delivering a yearly spree of calculated, chilling ...",
         "source_link": "https://www.themoviedb.org/movie/801937"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
-        "title": "David",
-        "description": "From the songs of his mother\u2019s heart to the whispers of a faithful God, David\u2019s story begins in quiet devotion. When the giant Goliath rises to terror...",
-        "source_link": "https://www.themoviedb.org/movie/1167307"
       }
     ]
   }
