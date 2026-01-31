@@ -1,69 +1,69 @@
 {
-  "last_updated": "January 31, 2026, 20:20 UTC",
+  "last_updated": "January 31, 2026, 21:18 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.ctfassets.net/ryplwhabvmmk/A0ldKCvQnMxatBw9oApxF/6185c4e72479b686767e16d6af9cd998/ECL-Ashling-Rekindeled-960x540.jpg",
+        "title": "The Spiciest Standard Decklists from Pro Tour Lorwyn Eclipsed - MAGIC PLAY",
+        "description": "Several competitors have brought fresh decks powered by cards from Lorwyn Eclipsed. Explore their strategies, then watch them battle it out at the Pro Tour.",
+        "source_link": "https://magic.gg/news/the-spiciest-standard-decklists-from-pro-tour-lorwyn-eclipsed"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Vrg_illo_trump_phone_np.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "We finally heard from Trump Mobile\u2026 and they immediately ghosted us - The Verge",
+        "description": "I got a reply from Trump Mobile executive Don Hendrickson, but then he left me on read.",
+        "source_link": "https://www.theverge.com/tech/870934/trump-mobile-executive-team-don-hendrickson"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13378319/akrales_181023_2923_0361.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Belkin\u2019s Wemo smart devices will go offline on Saturday - The Verge",
+        "description": "On January 31st, Wemo smart home devices will lose cloud services support, with the exception of Thread-based devices and Wemo devices set up in Apple HomeKit.",
+        "source_link": "https://www.theverge.com/tech/870890/belkin-wemo-cloud-services-shut-down"
+      },
+      {
+        "rank": 4,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/claude-iphone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple \u2018runs on Anthropic,\u2019 says Mark Gurman - 9to5Mac",
         "description": "Mark Gurman is known as being well connected inside Apple, and he just shared some interesting comments about Apple\u2019s reliance on Anthropic.",
         "source_link": "https://9to5mac.com/2026/01/30/apple-runs-on-anthropic-says-mark-gurman/"
       },
       {
-        "rank": 2,
+        "rank": 5,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/galaxy-s26-leak-ultra-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Galaxy S26 series specs, official-looking images leak ahead of February 25 launch [Gallery] - 9to5Google",
+        "description": "Samsung\u2019s Galaxy S26 series is looking all but confirmed for a February 25 launch event, while new leaks reveal official-looking...",
+        "source_link": "http://9to5google.com/2026/01/30/samsung-galaxy-s26-specs-images-launch-date-leak/"
+      },
+      {
+        "rank": 6,
         "image": "https://assets.warhammer-community.com/thh_sdscatasphractii-jan30-1-feature-uipk3eciwj.jpg",
         "title": "The Warhammer: The Horus Heresy team goes heavy on Cataphractii Terminators - Warhammer Community",
         "description": "See how painters from the Warhammer Studio got on with their new miniatures.",
         "source_link": "https://www.warhammer-community.com/articles/riua1n5m/the-warhammer-the-horus-heresy-team-goes-heavy-on-cataphractii-terminators"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://kotaku.com/app/uploads/2025/06/3654fcd6c146ebf43cfdf662702c20a0-1200x675.jpg",
         "title": "New Nintendo Direct Rumors Point To An Incoming Flood Of Switch 2 Ports - Kotaku",
         "description": "February will reportedly kick off with a new Partner Showcase",
         "source_link": "https://kotaku.com/february-nintendo-direct-switch-2-3d-mario-2000664537"
       },
       {
-        "rank": 4,
-        "image": "https://assets.warhammer-community.com/40k_huron-jan30-1-feature-zy7k9se62z.jpg",
-        "title": "Rule the Maelstrom with Huron and his crew\u2019s spicy new datasheets - Warhammer Community",
-        "description": "Rules revealed for the Masters of the Maelstrom.",
-        "source_link": "https://www.warhammer-community.com/articles/2fdhlf7g/rule-the-maelstrom-with-huron-and-his-crews-spicy-new-datasheets"
-      },
-      {
-        "rank": 5,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.32.16.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iPhone 18 isn\u2019t launching until next year, new report reaffirms - 9to5Mac",
-        "description": "Apple is widely expected to bifurcate the launch of the iPhone 18 lineup. Sources including Ming-Chi Kuo, Bloomberg, and The...",
-        "source_link": "https://9to5mac.com/2026/01/30/iphone-18-isnt-launching-until-next-year-new-report-reaffirms/"
-      },
-      {
-        "rank": 6,
-        "image": "https://assetsio.gnwcdn.com/google-project-genie.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Google releases Project Genie AI tool for creating \"playable worlds\" that can feature copyrighted IP - GamesIndustry.biz",
-        "description": "But legal expert Pete Lewin from Wiggin argues that the companies behind this kind of tech can expect to face \"greater scrutiny and pushback from IP owners\"",
-        "source_link": "https://www.gamesindustry.biz/google-releases-project-genie-ai-tool-for-creating-playable-worlds-that-can-feature-copyrighted-ip"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.cnet.com/a/img/resize/74a4f9574836ff4a319aed59c33823e4617462c8/hub/2026/01/30/d0b34d43-7ece-4186-8122-2205b3869c88/opt-3-clean.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Can Apple's New AirTag Track How Many Fans Tim Cook Just Lost? - CNET",
-        "description": "Apple releases the second-gen AirTag and Creator Studio subscription in the middle of a tricky public relations week for CEO Tim Cook.",
-        "source_link": "https://www.cnet.com/tech/mobile/can-apples-new-airtag-track-how-many-fans-tim-cook-just-lost/"
-      },
-      {
         "rank": 8,
-        "image": "https://ychef.files.bbci.co.uk/624x351/p0mxlpmh.jpg",
-        "title": "A 65km hike into Norway's vanishing rural past - BBC",
-        "description": "The St\u00f8lstruta offers hikers a responsible, respectful way to witness a pastoral tradition that has disappeared almost everywhere else in Europe.",
-        "source_link": "https://www.bbc.com/travel/article/20260128-a-65km-hike-into-norways-vanishing-rural-past"
+        "image": "https://images.axios.com/OkMDnYFuOJwz3SLuEtzlu8G7mSk=/0x0:1920x1080/1366x768/2025/10/15/1760570699461.jpeg",
+        "title": "Silicon Valley's latest AI agent obsession is riddled with security risks - Axios",
+        "description": "This is just the beginning, and AI adopters are already hastily picking convenience over digital security.",
+        "source_link": "https://www.axios.com/2026/01/29/moltbot-cybersecurity-ai-agent-risks"
       },
       {
         "rank": 9,
-        "image": "https://cdn.mos.cms.futurecdn.net/xstyFBAMP9XTUL8qniRTN4-2560-80.jpg",
-        "title": "Copilot everywhere? Not for long. Microsoft dialing it back on Windows 11 - Windows Central",
-        "description": "People familiar with Microsoft's plans say that the company moving to streamline or remove certain Copilot integrations across in-box apps like Notepad and Paint in 2026, after pushback from users.",
-        "source_link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall"
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4xLoFpuzf6DbHF4Fy9WnEv4INmkiXkLiWxb9Pc7eqWDphv3Wcp57B38zLriR2xberjGDP_Xll60j1q8KmqpFTu9yfBIuyWilyHA97sm4-2CD_yqTOJubfYUKDp_-gkGHS-f-tcZYMk4N3sjwNzcy3GomBw-yVigT-MqY3J77PiGLVQyGK8JKHla5vykAd/s1700-e365/chrome.jpg",
+        "title": "Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access - The Hacker News",
+        "description": "Experts uncovered malicious Chrome extensions that replace affiliate links, exfiltrate data, and steal ChatGPT authentication tokens from users.",
+        "source_link": "https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html"
       }
     ],
     "trending_movies": [
@@ -104,17 +104,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/7X1VkuBg2LaT7yLkj0avzGcX2VN.jpg",
-        "title": "Iron Lung",
-        "description": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name -- The Quiet Ra...",
-        "source_link": "https://www.themoviedb.org/movie/1116201"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/dtPwBZjzqTaObjG4fKStRkBq1uu.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/nh43XSQegiFELtR1CyGHeqPMXBA.jpg",
         "title": "Greenland 2: Migration",
         "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a...",
         "source_link": "https://www.themoviedb.org/movie/840464"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+        "title": "Iron Lung",
+        "description": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name -- The Quiet Ra...",
+        "source_link": "https://www.themoviedb.org/movie/1116201"
       },
       {
         "rank": 8,
