@@ -1,76 +1,69 @@
 {
-  "last_updated": "January 31, 2026, 18:26 UTC",
+  "last_updated": "January 31, 2026, 19:18 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/claude-iphone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple \u2018runs on Anthropic,\u2019 says Mark Gurman - 9to5Mac",
+        "description": "Mark Gurman is known as being well connected inside Apple, and he just shared some interesting comments about Apple\u2019s reliance on Anthropic.",
+        "source_link": "https://9to5mac.com/2026/01/30/apple-runs-on-anthropic-says-mark-gurman/"
+      },
+      {
+        "rank": 2,
         "image": "https://assets.warhammer-community.com/thh_sdscatasphractii-jan30-1-feature-uipk3eciwj.jpg",
         "title": "The Warhammer: The Horus Heresy team goes heavy on Cataphractii Terminators - Warhammer Community",
         "description": "See how painters from the Warhammer Studio got on with their new miniatures.",
         "source_link": "https://www.warhammer-community.com/articles/riua1n5m/the-warhammer-the-horus-heresy-team-goes-heavy-on-cataphractii-terminators"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2025/06/3654fcd6c146ebf43cfdf662702c20a0-1200x675.jpg",
+        "title": "New Nintendo Direct Rumors Point To An Incoming Flood Of Switch 2 Ports - Kotaku",
+        "description": "February will reportedly kick off with a new Partner Showcase",
+        "source_link": "https://kotaku.com/february-nintendo-direct-switch-2-3d-mario-2000664537"
+      },
+      {
+        "rank": 4,
         "image": "https://assets.warhammer-community.com/40k_huron-jan30-1-feature-zy7k9se62z.jpg",
         "title": "Rule the Maelstrom with Huron and his crew\u2019s spicy new datasheets - Warhammer Community",
         "description": "Rules revealed for the Masters of the Maelstrom.",
         "source_link": "https://www.warhammer-community.com/articles/2fdhlf7g/rule-the-maelstrom-with-huron-and-his-crews-spicy-new-datasheets"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-event-13.32.16.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "iPhone 18 isn\u2019t launching until next year, new report reaffirms - 9to5Mac",
         "description": "Apple is widely expected to bifurcate the launch of the iPhone 18 lineup. Sources including Ming-Chi Kuo, Bloomberg, and The...",
         "source_link": "https://9to5mac.com/2026/01/30/iphone-18-isnt-launching-until-next-year-new-report-reaffirms/"
       },
       {
-        "rank": 4,
-        "image": "https://images.nintendolife.com/046aaf27c8ac8/large.jpg",
-        "title": "Reminder: Today's Your Last Day To Buy Switch Game Vouchers - Nintendo Life",
-        "description": "Grab 'em before they're gone",
-        "source_link": "https://www.nintendolife.com/news/2026/01/reminder-todays-your-last-day-to-buy-switch-game-vouchers"
-      },
-      {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/windows11menubarpowertoy.jpg?quality=90&strip=all&crop=0%2C10.722403044014%2C100%2C78.555193911972&w=1200",
-        "title": "Microsoft is experimenting with a top menu bar for Windows 11 - The Verge",
-        "description": "Microsoft is testing a new top menu bar for Windows 11. The PowerToys team want to build a dock that can provide access to tools and more.",
-        "source_link": "https://www.theverge.com/news/870663/microsoft-windows-11-top-menu-bar-powertoy-experiment"
-      },
-      {
         "rank": 6,
-        "image": "https://assets-prd.ignimgs.com/2026/01/30/cd-main-1769771063445.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "After Going Gold, Crimson Desert Developer Deep in Optimization Phase 'To Make the Game Run as Good as It Possibly Can' Before Launch - IGN",
-        "description": "If you\u2019ve seen Crimson Desert\u2019s impressive 15-minute gameplay video, you might be wincing at the thought of it running smoothly on your console or PC. Well, right now, the developers at Pearl Abyss are focusing on optimization to help ensure a \u201csmooth\u201d experi\u2026",
-        "source_link": "https://www.ign.com/articles/after-going-gold-crimson-desert-developer-deep-in-optimization-phase-to-make-the-game-run-as-good-as-it-possibly-can-before-launch"
+        "image": "https://assetsio.gnwcdn.com/google-project-genie.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Google releases Project Genie AI tool for creating \"playable worlds\" that can feature copyrighted IP - GamesIndustry.biz",
+        "description": "But legal expert Pete Lewin from Wiggin argues that the companies behind this kind of tech can expect to face \"greater scrutiny and pushback from IP owners\"",
+        "source_link": "https://www.gamesindustry.biz/google-releases-project-genie-ai-tool-for-creating-playable-worlds-that-can-feature-copyrighted-ip"
       },
       {
         "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/dispatch01_5vBzHjM.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Dispatch censored on Switch and Switch 2 - GamesIndustry.biz",
-        "description": "AdHoc Studio says despite censorship being toggled on by default, \"the core narrative and gameplay remains identical to the original release\"",
-        "source_link": "https://www.gamesindustry.biz/dispatch-censored-on-switch-and-switch-2"
+        "image": "https://www.cnet.com/a/img/resize/74a4f9574836ff4a319aed59c33823e4617462c8/hub/2026/01/30/d0b34d43-7ece-4186-8122-2205b3869c88/opt-3-clean.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "Can Apple's New AirTag Track How Many Fans Tim Cook Just Lost? - CNET",
+        "description": "Apple releases the second-gen AirTag and Creator Studio subscription in the middle of a tricky public relations week for CEO Tim Cook.",
+        "source_link": "https://www.cnet.com/tech/mobile/can-apples-new-airtag-track-how-many-fans-tim-cook-just-lost/"
       },
       {
         "rank": 8,
-        "image": "https://cdn.mos.cms.futurecdn.net/zoyX8A4MsxCMzoDSkjvYHo-2000-80.jpg",
-        "title": "Your TV is watching you \u2014 how to turn off data collection on LG, Samsung, Roku and more - Tom's Guide",
-        "description": "Your smart TV knows too much about you",
-        "source_link": "https://www.tomsguide.com/tvs/your-tv-is-watching-you-how-to-turn-off-data-collection-on-lg-samsung-roku-and-more"
+        "image": "https://ychef.files.bbci.co.uk/624x351/p0mxlpmh.jpg",
+        "title": "A 65km hike into Norway's vanishing rural past - BBC",
+        "description": "The St\u00f8lstruta offers hikers a responsible, respectful way to witness a pastoral tradition that has disappeared almost everywhere else in Europe.",
+        "source_link": "https://www.bbc.com/travel/article/20260128-a-65km-hike-into-norways-vanishing-rural-past"
       },
       {
         "rank": 9,
-        "image": "https://www.techpowerup.com/img/gHXRBW3aPo3dA4Zn.jpg",
-        "title": "Leaked Intel Core Ultra 7 356H Benchmark Scores Reveal Middling Gains - TechPowerUp",
-        "description": "Intel's Core Ultra 356H is an upcoming 16-core (4 P-cores, 12 E-cores) mobile Panther Lake CPU. Although official review embargoes for the rest of Intel's Panther Lake CPUs are said to be right around the corner, supposed performance benchmarks for Intel's la\u2026",
-        "source_link": "https://www.techpowerup.com/345820/leaked-intel-core-ultra-7-356h-benchmark-scores-reveal-middling-gains"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.nintendolife.com/2de8b0e4e87a2/large.jpg",
-        "title": "Yakuza Kiwami 3 & Dark Ties Dev Acknowledges Demo's \"Graphical Issues\", Launch Update Planned - Nintendo Life",
-        "description": "It \"does not represent the final experience\"",
-        "source_link": "https://www.nintendolife.com/news/2026/01/yakuza-kiwami-3-and-dark-ties-dev-acknowledges-demos-graphical-issues-launch-update-planned"
+        "image": "https://cdn.mos.cms.futurecdn.net/xstyFBAMP9XTUL8qniRTN4-2560-80.jpg",
+        "title": "Copilot everywhere? Not for long. Microsoft dialing it back on Windows 11 - Windows Central",
+        "description": "People familiar with Microsoft's plans say that the company moving to streamline or remove certain Copilot integrations across in-box apps like Notepad and Paint in 2026, after pushback from users.",
+        "source_link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall"
       }
     ],
     "trending_movies": [
@@ -83,66 +76,66 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg",
-        "title": "Anaconda",
-        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
-        "source_link": "https://www.themoviedb.org/movie/1234731"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/uwB0yTkLEM8gENuXxHtkYaG3HEx.jpg",
-        "title": "96 Minutes",
-        "description": "Former bomb disposal expert, Song Kang-Ren, and his fianc\u00e9e, Huang Xin, board a high-speed train that contains a bomb. At the same time, Liu Kai, a we...",
-        "source_link": "https://www.themoviedb.org/movie/1271895"
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg",
+        "title": "Anaconda",
+        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
+        "source_link": "https://www.themoviedb.org/movie/1234731"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/mlV70IuchLZXcXKowjwSpSfdfUB.jpg",
         "title": "Send Help",
         "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
         "source_link": "https://www.themoviedb.org/movie/1198994"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
         "title": "Dhurandhar",
         "description": "In the early 2000s, an Indian undercover operative infiltrates Karachi's underworld, breaking into its inner circle to dismantle a violent nexus from ...",
         "source_link": "https://www.themoviedb.org/movie/1291608"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/dtPwBZjzqTaObjG4fKStRkBq1uu.jpg",
         "title": "Greenland 2: Migration",
         "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a...",
         "source_link": "https://www.themoviedb.org/movie/840464"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/7X1VkuBg2LaT7yLkj0avzGcX2VN.jpg",
         "title": "Iron Lung",
-        "description": "In a post-apocalyptic future after \"The Quiet Rapture\" event, a convict explores a blood ocean on a desolate moon using a submarine called the \"Iron L...",
+        "description": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name -- The Quiet Ra...",
         "source_link": "https://www.themoviedb.org/movie/1116201"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/uwB0yTkLEM8gENuXxHtkYaG3HEx.jpg",
+        "title": "96 Minutes",
+        "description": "Former bomb disposal expert, Song Kang-Ren, and his fianc\u00e9e, Huang Xin, board a high-speed train that contains a bomb. At the same time, Liu Kai, a we...",
+        "source_link": "https://www.themoviedb.org/movie/1271895"
+      },
+      {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
+        "title": "The Rip",
+        "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone \u2014 and everything \u2014 into question....",
+        "source_link": "https://www.themoviedb.org/movie/1306368"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
         "title": "David",
         "description": "From the songs of his mother\u2019s heart to the whispers of a faithful God, David\u2019s story begins in quiet devotion. When the giant Goliath rises to terror...",
         "source_link": "https://www.themoviedb.org/movie/1167307"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
-        "title": "The SpongeBob Movie: Search for SquarePants",
-        "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman \u2013 a mysterious swashbuckling ghost pi...",
-        "source_link": "https://www.themoviedb.org/movie/991494"
       }
     ]
   }
