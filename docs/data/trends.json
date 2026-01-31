@@ -1,27 +1,27 @@
 {
-  "last_updated": "January 31, 2026, 10:19 UTC",
+  "last_updated": "January 31, 2026, 11:17 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://images.nintendolife.com/bbfc7cb0d6d7d/large.jpg",
-        "title": "Nintendo Responds To Dispatch Switch Censorship With Official Statement - Nintendo Life",
-        "description": "Following a response from AdHoc Studio",
-        "source_link": "https://www.nintendolife.com/news/2026/01/nintendo-responds-to-dispatch-switch-censorship-with-official-statement"
-      },
-      {
-        "rank": 2,
         "image": "https://images.pushsquare.com/d725458a75a53/large.jpg",
         "title": "Promising Chinese God of War Game Will Be 'Optimised for PS5 in Collaboration with Sony' - Push Square",
         "description": "Another console exclusive",
         "source_link": "https://www.pushsquare.com/news/2026/01/promising-chinese-god-of-war-game-will-be-optimised-for-ps5-in-collaboration-with-sony"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "image": "https://images.nintendolife.com/2de8b0e4e87a2/large.jpg",
         "title": "Yakuza Kiwami 3 & Dark Ties Dev Acknowledges Demo's \"Graphical Issues\", Launch Update Planned - Nintendo Life",
         "description": "It \"does not represent the final experience\"",
         "source_link": "https://www.nintendolife.com/news/2026/01/yakuza-kiwami-3-and-dark-ties-dev-acknowledges-demos-graphical-issues-launch-update-planned"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.windowslatest.com/wp-content/uploads/2026/01/Windows-11-KB5074105-update.jpg",
+        "title": "Windows 11 KB5074105 25H2 adds Android Resume feature, direct download links for .msu (offline installer) - Windows Latest",
+        "description": "Windows 11 KB5074105 is now rolling out, and it's a feature-packed update with Android Resume for version 25H2 or 24H2.",
+        "source_link": "https://www.windowslatest.com/2026/01/30/windows-11-kb5074105-25h2-adds-android-resume-feature-direct-download-links-for-msu-offline-installer/"
       },
       {
         "rank": 4,
@@ -46,31 +46,31 @@
       },
       {
         "rank": 7,
-        "image": "https://helios-i.mashable.com/imagery/articles/04dovePJI1frwLFr1IuBmT1/hero-image.fill.size_1200x675.v1769722417.png",
-        "title": "Google Chrome unveils Gemini-powered auto-browsing feature - Mashable",
-        "description": "Gemini can complete your in-browser tasks now.",
-        "source_link": "https://mashable.com/article/google-chrome-ai-agentic-auto-browse-feature-powered-by-gemini"
-      },
-      {
-        "rank": 8,
         "image": "https://spacenews.com/wp-content/uploads/2021/04/dragonxl-gateway.jpg",
         "title": "NASA considering alternatives for Gateway logistics - SpaceNews",
         "description": "NASA is at a \u201ccrossroads\u201d in deciding how to handle logistics for the lunar Gateway as it considers alternative approaches.",
         "source_link": "http://spacenews.com/nasa-considering-alternatives-for-gateway-logistics/"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://helios-i.mashable.com/imagery/articles/07CGUjT0lHy1niwUmocUgkD/hero-image.fill.size_1200x675.v1769717606.png",
         "title": "How to try Google Project Genie, a powerful new 'world model' - Mashable",
         "description": "The latest project from the DeepMind team is available now.",
         "source_link": "https://mashable.com/article/google-launches-project-genie-3-how-to-try"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2023/10/walmart_logo.jpg?fit=1400%2C875&ssl=1",
         "title": "Nintendo comments on Walmart leak - My Nintendo News",
         "description": "Nintendo has said that the image which was used by Walmart and showed Metroid Prime 2 Echoes and Pikmin 2 as part of the Nintendo Classics GameCube range was incorrect, stating that those games \u201care\u2026",
         "source_link": "https://mynintendonews.com/2026/01/29/nintendo-comments-on-walmart-leak/"
+      },
+      {
+        "rank": 10,
+        "image": "https://assets-prd.ignimgs.com/2025/10/10/bl-1760094487387.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Borderlands 4 Finally Gets Photo Mode in Today's Major Update - IGN",
+        "description": "Borderlands 4 is getting a major update today, including, among other things, the addition of the long-awaited Photo Mode that was announced prior to the game's launch, but was allegedly held due to the need to prioritize polishing other elements.",
+        "source_link": "https://www.ign.com/articles/borderlands-4-finally-gets-photo-mode-in-todays-major-update"
       }
     ],
     "trending_movies": [
@@ -118,17 +118,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/uwB0yTkLEM8gENuXxHtkYaG3HEx.jpg",
-        "title": "96 Minutes",
-        "description": "Former bomb disposal expert, Song Kang-Ren, and his fianc\u00e9e, Huang Xin, board a high-speed train that contains a bomb. At the same time, Liu Kai, a we...",
-        "source_link": "https://www.themoviedb.org/movie/1271895"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/7X1VkuBg2LaT7yLkj0avzGcX2VN.jpg",
         "title": "Iron Lung",
         "description": "In a post-apocalyptic future after \"The Quiet Rapture\" event, a convict explores a blood ocean on a desolate moon using a submarine called the \"Iron L...",
         "source_link": "https://www.themoviedb.org/movie/1116201"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/uwB0yTkLEM8gENuXxHtkYaG3HEx.jpg",
+        "title": "96 Minutes",
+        "description": "Former bomb disposal expert, Song Kang-Ren, and his fianc\u00e9e, Huang Xin, board a high-speed train that contains a bomb. At the same time, Liu Kai, a we...",
+        "source_link": "https://www.themoviedb.org/movie/1271895"
       },
       {
         "rank": 9,
