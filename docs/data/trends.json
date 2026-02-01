@@ -1,5 +1,5 @@
 {
-  "last_updated": "February 01, 2026, 01:59 UTC",
+  "last_updated": "February 01, 2026, 04:33 UTC",
   "categories": {
     "tech_news": [
       {
@@ -32,38 +32,45 @@
       },
       {
         "rank": 5,
+        "image": "https://media.wired.com/photos/697bbc49f1ca01d1f3ba29fd/191:100/w_1280,c_limit/chrome_rollercoaster%20(1).png",
+        "title": "I Let Google\u2019s \u2018Auto Browse\u2019 AI Agent Take Over Chrome. It Didn\u2019t Quite Click - WIRED",
+        "description": "Auto Browse can shop for clothes, plan a trip, and buy tickets for you. Or at least, that\u2019s the idea.",
+        "source_link": "https://www.wired.com/story/google-chrome-auto-browse-hands-on/"
+      },
+      {
+        "rank": 6,
         "image": "https://images.ctfassets.net/ryplwhabvmmk/A0ldKCvQnMxatBw9oApxF/6185c4e72479b686767e16d6af9cd998/ECL-Ashling-Rekindeled-960x540.jpg",
         "title": "The Spiciest Standard Decklists from Pro Tour Lorwyn Eclipsed - MAGIC PLAY",
         "description": "Several competitors have brought fresh decks powered by cards from Lorwyn Eclipsed. Explore their strategies, then watch them battle it out at the Pro Tour.",
         "source_link": "https://magic.gg/news/the-spiciest-standard-decklists-from-pro-tour-lorwyn-eclipsed"
       },
       {
-        "rank": 6,
+        "rank": 7,
+        "image": "https://images.macrumors.com/t/GkZP-V8KFotPShRFsn5zkvBLBOY=/1600x/article-new/2025/05/iPhone-Siri-Glow.jpeg",
+        "title": "Apple Still Preparing Two New Versions of Siri as Some Employees Leave - MacRumors",
+        "description": "In a new report about Apple losing at least four more AI researchers in recent weeks, in addition to a high-ranking Siri executive, Bloomberg's...",
+        "source_link": "https://www.macrumors.com/2026/01/30/apple-loses-more-ai-researchers/"
+      },
+      {
+        "rank": 8,
+        "image": "https://m-cdn.phonearena.com/images/article/177738-wide-two_1200/Samsungs-2900-Galaxy-Z-TriFold-sells-out-in-minutes-despite-offering-no-trade-ins.jpg",
+        "title": "Samsung\u2019s $2,900 Galaxy Z TriFold sells out in minutes despite offering no trade-ins - PhoneArena",
+        "description": "The price might be high, but the demand appears even higher.",
+        "source_link": "https://www.phonearena.com/news/samsungs-2900-galaxy-z-trifold-sells-out-in-minutes-despite-offering-no-trade-ins_id177738"
+      },
+      {
+        "rank": 9,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-18-mockup-red.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "iPhone 18 Pro vs iPhone Fold: These camera features are rumored - 9to5Mac",
         "description": "Per the latest reporting, there are two rumored camera advantages Apple\u2019s iPhone 18 Pro models will have over the iPhone Fold.",
         "source_link": "https://9to5mac.com/2026/01/30/iphone-18-pro-vs-iphone-fold-these-camera-features-are-rumored/"
       },
       {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13378319/akrales_181023_2923_0361.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Belkin\u2019s Wemo smart devices will go offline on Saturday - The Verge",
-        "description": "On January 31st, Wemo smart home devices will lose cloud services support, with the exception of Thread-based devices and Wemo devices set up in Apple HomeKit.",
-        "source_link": "https://www.theverge.com/tech/870890/belkin-wemo-cloud-services-shut-down"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/claude-iphone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple \u2018runs on Anthropic,\u2019 says Mark Gurman - 9to5Mac",
-        "description": "Mark Gurman is known as being well connected inside Apple, and he just shared some interesting comments about Apple\u2019s reliance on Anthropic.",
-        "source_link": "https://9to5mac.com/2026/01/30/apple-runs-on-anthropic-says-mark-gurman/"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/galaxy-s26-leak-ultra-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Galaxy S26 series specs, official-looking images leak ahead of February 25 launch [Gallery] - 9to5Google",
-        "description": "Samsung\u2019s Galaxy S26 series is looking all but confirmed for a February 25 launch event, while new leaks reveal official-looking...",
-        "source_link": "http://9to5google.com/2026/01/30/samsung-galaxy-s26-specs-images-launch-date-leak/"
+        "rank": 10,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/08/nvidia-shield-tv-pro-03.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Nvidia won\u2019t give up on Shield TV updates \u2018any time soon,\u2019 new hardware could happen - 9to5Google",
+        "description": "Over a decade in, Nvidia says it isn\u2019t giving up on the Shield TV any time soon, with updates still...",
+        "source_link": "http://9to5google.com/2026/01/30/nvidia-shield-tv-updates-future-interview/"
       }
     ],
     "trending_movies": [
@@ -90,23 +97,23 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/nh43XSQegiFELtR1CyGHeqPMXBA.jpg",
-        "title": "Greenland 2: Migration",
-        "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a...",
-        "source_link": "https://www.themoviedb.org/movie/840464"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/mlV70IuchLZXcXKowjwSpSfdfUB.jpg",
         "title": "Send Help",
         "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
         "source_link": "https://www.themoviedb.org/movie/1198994"
       },
       {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/nh43XSQegiFELtR1CyGHeqPMXBA.jpg",
+        "title": "Greenland 2: Migration",
+        "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a...",
+        "source_link": "https://www.themoviedb.org/movie/840464"
+      },
+      {
         "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
         "title": "Iron Lung",
-        "description": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name -- The Quiet Ra...",
+        "description": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name \u2014 The Quiet Rap...",
         "source_link": "https://www.themoviedb.org/movie/1116201"
       },
       {
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg",
         "title": "The Rip",
         "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone \u2014 and everything \u2014 into question....",
         "source_link": "https://www.themoviedb.org/movie/1306368"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/5bxrxnRaxZooBAxgUVBZ13dpzC7.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       }
     ]
   }
