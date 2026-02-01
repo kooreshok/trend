@@ -1,69 +1,69 @@
 {
-  "last_updated": "February 01, 2026, 08:27 UTC",
+  "last_updated": "February 01, 2026, 09:27 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.ctfassets.net/ryplwhabvmmk/3pCErXc7sqbHxSQwK7xwVe/aa6f94a9007d7bf4f791d55a3fb07119/Pro-Tour-Lorwyn-Eclipsed-Day-One-Draft-960x640.jpg",
+        "title": "Day One Highlights at Pro Tour Lorwyn Eclipsed - MAGIC PLAY",
+        "description": "Friday was full of off-the-wall decks, tricky Limited games, and players thrilled to kick off the first Pro Tour of 2026.",
+        "source_link": "https://magic.gg/news/day-one-highlights-at-pro-tour-lorwyn-eclipsed"
+      },
+      {
+        "rank": 2,
         "image": "https://images.nintendolife.com/9eeb5d4fa06d0/large.jpg",
         "title": "Dispatch Dev AdHoc Responds To Nintendo's Statement, Says It Intends To Address Censored Switch Content - Nintendo Life",
         "description": "\"We\u2019re already working with Nintendo on a path forward\"",
         "source_link": "https://www.nintendolife.com/news/2026/01/dispatch-dev-adhoc-responds-to-nintendos-statement-says-it-intends-to-address-censored-switch-content"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/chatgpt-mac.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "PSA: OpenAI will remove several models from ChatGPT next month - 9to5Mac",
         "description": "From time to time, OpenAI removes older models from ChatGPT\u2019s model picker, as users become accustomed to newer ones. Here are the details.",
         "source_link": "https://9to5mac.com/2026/01/30/psa-openai-will-remove-several-models-from-chatgpt-next-month/"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Desktop_01-1-1152x648-1769809194.jpg",
         "title": "The TV industry finally concedes that the future may not be in 8K - Ars Technica",
         "description": "With virtually no content and limited benefits, 8K TVs were doomed.",
         "source_link": "https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/ai-label-3.png?quality=90&strip=all&crop=0%2C10.705996653533%2C100%2C78.588006692935&w=1200",
         "title": "Video game company stock prices dip after Google introduces an AI world-generation tool - The Verge",
         "description": "The stock prices of some major video game companies like GTA maker Take Two, Roblox, and Unity dipped\u00a0on Friday, one day after Google revealed its AI world generator tool, Project Genie.",
         "source_link": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://wpassets.halowaypoint.com/wp-content/2026/01/CF167.jpg",
         "title": "Canon Fodder: Parasite\u2019s Cake - Halo Waypoint",
         "description": "<p>Welcome back to ye ol\u2019 Canon Fodder in 2026, a year of rather significant proportions as Halo will be celebrating its twenty-fifth anniversary. A whole quarter of a century\u2014our very own and very first quadranscentennial! Indeed, it has already been over a \u2026",
         "source_link": "https://www.halowaypoint.com/news/canon-fodder-parasites-cake"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/sonosfootball.jpg?quality=90&strip=all&crop=0%2C10.716884655758%2C100%2C78.566230688485&w=1200",
         "title": "Sonos\u2019 Super Bowl sale knocks hundreds off its audio gear - The Verge",
         "description": "Sonos is offering big discounts on its Era 100 and 300 speakers, the Beam and Arc Ultra soundbars, as well as its Sub 4 and Mini subwoofers through February 16th.",
         "source_link": "https://www.theverge.com/gadgets/871054/sonos-super-bowl-deal-sale-era-beam-arc-ultra-sub"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://kotaku.com/app/uploads/2026/01/highguard5v5-1200x675.jpg",
         "title": "Highguard Adds 5v5 Mode For Its First Weekend - Kotaku",
         "description": "Wildlight Entertainment's free-to-play shooter is adding a limited time 5v5 mode over the weekend",
         "source_link": "https://kotaku.com/highguard-big-update-free-shooter-future-patch-notes-wildlight-2000664584"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://media.wired.com/photos/697bbc49f1ca01d1f3ba29fd/191:100/w_1280,c_limit/chrome_rollercoaster%20(1).png",
         "title": "I Let Google\u2019s \u2018Auto Browse\u2019 AI Agent Take Over Chrome. It Didn\u2019t Quite Click - WIRED",
         "description": "Auto Browse can shop for clothes, plan a trip, and buy tickets for you. Or at least, that\u2019s the idea.",
         "source_link": "https://www.wired.com/story/google-chrome-auto-browse-hands-on/"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.ctfassets.net/ryplwhabvmmk/A0ldKCvQnMxatBw9oApxF/6185c4e72479b686767e16d6af9cd998/ECL-Ashling-Rekindeled-960x540.jpg",
-        "title": "The Spiciest Standard Decklists from Pro Tour Lorwyn Eclipsed - MAGIC PLAY",
-        "description": "Several competitors have brought fresh decks powered by cards from Lorwyn Eclipsed. Explore their strategies, then watch them battle it out at the Pro Tour.",
-        "source_link": "https://magic.gg/news/the-spiciest-standard-decklists-from-pro-tour-lorwyn-eclipsed"
       },
       {
         "rank": 10,
@@ -97,31 +97,31 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/mlV70IuchLZXcXKowjwSpSfdfUB.jpg",
-        "title": "Send Help",
-        "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
-        "source_link": "https://www.themoviedb.org/movie/1198994"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/nh43XSQegiFELtR1CyGHeqPMXBA.jpg",
         "title": "Greenland 2: Migration",
         "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a...",
         "source_link": "https://www.themoviedb.org/movie/840464"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/uwB0yTkLEM8gENuXxHtkYaG3HEx.jpg",
-        "title": "96 Minutes",
-        "description": "Former bomb disposal expert, Song Kang-Ren, and his fianc\u00e9e, Huang Xin, board a high-speed train that contains a bomb. At the same time, Liu Kai, a we...",
-        "source_link": "https://www.themoviedb.org/movie/1271895"
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/mlV70IuchLZXcXKowjwSpSfdfUB.jpg",
+        "title": "Send Help",
+        "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
+        "source_link": "https://www.themoviedb.org/movie/1198994"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
         "title": "Dhurandhar",
         "description": "In the early 2000s, an Indian undercover operative infiltrates Karachi's underworld, breaking into its inner circle to dismantle a violent nexus from ...",
         "source_link": "https://www.themoviedb.org/movie/1291608"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/uwB0yTkLEM8gENuXxHtkYaG3HEx.jpg",
+        "title": "96 Minutes",
+        "description": "Former bomb disposal expert, Song Kang-Ren, and his fianc\u00e9e, Huang Xin, board a high-speed train that contains a bomb. At the same time, Liu Kai, a we...",
+        "source_link": "https://www.themoviedb.org/movie/1271895"
       },
       {
         "rank": 8,
