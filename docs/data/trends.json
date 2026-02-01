@@ -1,69 +1,69 @@
 {
-  "last_updated": "February 01, 2026, 16:24 UTC",
+  "last_updated": "February 01, 2026, 17:20 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/Installer-114.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "A nice upgrade for Apple\u2019s simplest gadget - The Verge",
+        "description": "Plus: Yahoo Scout, Wonder Man, OpenClaw, the Sonos Amp Multi, and more in this week\u2019s Installer newsletter.",
+        "source_link": "https://www.theverge.com/tech/871493/apple-airtags-yahoo-scout-wonder-man-installer"
+      },
+      {
+        "rank": 2,
         "image": "https://www.zdnet.com/a/img/resize/1c73860fb7ebc4846b1db04d613db40f95a56301/2024/08/30/c3723c87-1606-4f47-a731-c6aece6425f6/alexaant.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "12+ powerful Alexa commands you should start using at home (no subscriptions required) - ZDNET",
         "description": "Alexa works well out of the box, but these lesser-known features make it even more useful.",
         "source_link": "https://www.zdnet.com/home-and-office/smart-home/best-alexa-commands/"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://cdn.mos.cms.futurecdn.net/WvhWaELsXDFdqwaQk36qTP-1528-80.jpg",
+        "title": "Google takes down an invisible network that was secretly using your phone's internet - Android Central",
+        "description": "Google wipes out IPIDEA botnet that hijacked millions of home routers.",
+        "source_link": "https://www.androidcentral.com/apps-software/google-takes-down-an-invisible-network-that-was-secretly-using-your-phones-internet"
+      },
+      {
+        "rank": 4,
         "image": "https://www.trueachievements.com/imgs/170854/poll-new-xbox-achievement-designs.jpg",
         "title": "Poll: Do you like the new Xbox achievement designs? - TrueAchievements",
         "description": "Microsoft is finally doing something with achievements, and for this week's poll, we want to know: do you like the new Xbox achievement designs?",
         "source_link": "https://www.trueachievements.com/poll/61435/poll-new-xbox-achievement-designs"
       },
       {
-        "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC_1092.jpeg?quality=90&strip=all&crop=0%2C10.476337131711%2C100%2C79.047325736577&w=1200",
-        "title": "The latest Instax printer is a pricey but worthy upgrade - The Verge",
-        "description": "Fujifilm\u2019s most expensive Instax Mini Link+ printer improves contrast, color, and detail but doesn\u2019t seem to enhance text-heavy illustrations as claimed.",
-        "source_link": "https://www.theverge.com/tech/870603/fujifilm-instax-mini-link-plus-reivew-improved-photos"
-      },
-      {
-        "rank": 4,
+        "rank": 5,
         "image": "https://images.ctfassets.net/ryplwhabvmmk/3pCErXc7sqbHxSQwK7xwVe/aa6f94a9007d7bf4f791d55a3fb07119/Pro-Tour-Lorwyn-Eclipsed-Day-One-Draft-960x640.jpg",
         "title": "Day One Highlights at Pro Tour Lorwyn Eclipsed - MAGIC PLAY",
         "description": "Friday was full of off-the-wall decks, tricky Limited games, and players thrilled to kick off the first Pro Tour of 2026.",
         "source_link": "https://magic.gg/news/day-one-highlights-at-pro-tour-lorwyn-eclipsed"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-meatball-1.jpg",
         "title": "NASA Selects Axiom Space for Fifth Private Mission to Space Station - NASA (.gov)",
         "description": "NASA and Axiom Space have signed an order for the fifth private astronaut mission to the International Space Station, targeted to launch no earlier than",
         "source_link": "https://www.nasa.gov/news-release/nasa-selects-axiom-space-for-fifth-private-mission-to-space-station/"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/chatgpt-mac.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "PSA: OpenAI will remove several models from ChatGPT next month - 9to5Mac",
         "description": "From time to time, OpenAI removes older models from ChatGPT\u2019s model picker, as users become accustomed to newer ones. Here are the details.",
         "source_link": "https://9to5mac.com/2026/01/30/psa-openai-will-remove-several-models-from-chatgpt-next-month/"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Desktop_01-1-1152x648-1769809194.jpg",
         "title": "The TV industry finally concedes that the future may not be in 8K - Ars Technica",
         "description": "With virtually no content and limited benefits, 8K TVs were doomed.",
         "source_link": "https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/ai-label-3.png?quality=90&strip=all&crop=0%2C10.705996653533%2C100%2C78.588006692935&w=1200",
         "title": "Video game company stock prices dip after Google introduces an AI world-generation tool - The Verge",
         "description": "The stock prices of some major video game companies like GTA maker Take Two, Roblox, and Unity dipped\u00a0on Friday, one day after Google revealed its AI world generator tool, Project Genie.",
         "source_link": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/samsung-galaxy-s25-ultra-joe-revisit-12-scaled.jpg",
-        "title": "Tired of scam calls? The Galaxy S26 might finally have an answer - Android Authority",
-        "description": "In our APK teardown, we have discovered more evidence that Google is laying the groundwork to bring Scam Detection to the Galaxy S26.",
-        "source_link": "https://www.androidauthority.com/galaxy-s26-android-callcore-support-3636978/"
       }
     ],
     "trending_movies": [
@@ -104,17 +104,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg",
-        "title": "The Rip",
-        "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone \u2014 and everything \u2014 into question....",
-        "source_link": "https://www.themoviedb.org/movie/1306368"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
         "title": "Iron Lung",
         "description": "In a post-apocalyptic future after \"The Quiet Rapture\" event, a convict explores a blood ocean on a desolate moon using a submarine called the \"Iron L...",
         "source_link": "https://www.themoviedb.org/movie/1116201"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/eZo31Dhl5BQ6GfbMNf3oU0tUvPZ.jpg",
+        "title": "The Rip",
+        "description": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone \u2014 and everything \u2014 into question....",
+        "source_link": "https://www.themoviedb.org/movie/1306368"
       },
       {
         "rank": 8,
@@ -125,17 +125,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/gWKZ1iLhukvLoh8XY2N4tMvRQ2M.jpg",
-        "title": "96 Minutes",
-        "description": "Former bomb disposal expert, Song Kang-Ren, and his fianc\u00e9e, Huang Xin, board a high-speed train that contains a bomb. At the same time, Liu Kai, a we...",
-        "source_link": "https://www.themoviedb.org/movie/1271895"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
         "title": "Dhurandhar",
         "description": "In the early 2000s, an Indian undercover operative infiltrates Karachi's underworld, breaking into its inner circle to dismantle a violent nexus from ...",
         "source_link": "https://www.themoviedb.org/movie/1291608"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/gWKZ1iLhukvLoh8XY2N4tMvRQ2M.jpg",
+        "title": "96 Minutes",
+        "description": "Former bomb disposal expert, Song Kang-Ren, and his fianc\u00e9e, Huang Xin, board a high-speed train that contains a bomb. At the same time, Liu Kai, a we...",
+        "source_link": "https://www.themoviedb.org/movie/1271895"
       }
     ]
   }
