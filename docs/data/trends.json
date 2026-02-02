@@ -1,5 +1,5 @@
 {
-  "last_updated": "February 02, 2026, 13:59 UTC",
+  "last_updated": "February 02, 2026, 14:51 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,17 +76,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
-        "title": "The Wrecking Crew",
-        "description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspirac...",
-        "source_link": "https://www.themoviedb.org/movie/1168190"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
+        "title": "The Wrecking Crew",
+        "description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspirac...",
+        "source_link": "https://www.themoviedb.org/movie/1168190"
       },
       {
         "rank": 3,
@@ -104,17 +104,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
-        "title": "Iron Lung",
-        "description": "In a post-apocalyptic future after \"The Quiet Rapture\" event, a convict explores a blood ocean on a desolate moon using a submarine called the \"Iron L...",
-        "source_link": "https://www.themoviedb.org/movie/1116201"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/1mF4othta76CEXcL1YFInYudQ7K.jpg",
         "title": "Greenland 2: Migration",
         "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a...",
         "source_link": "https://www.themoviedb.org/movie/840464"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+        "title": "Iron Lung",
+        "description": "In a post-apocalyptic future after \"The Quiet Rapture\" event, a convict explores a blood ocean on a desolate moon using a submarine called the \"Iron L...",
+        "source_link": "https://www.themoviedb.org/movie/1116201"
       },
       {
         "rank": 7,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
-        "title": "Dhurandhar",
-        "description": "In the early 2000s, an Indian undercover operative infiltrates Karachi's underworld, breaking into its inner circle to dismantle a violent nexus from ...",
-        "source_link": "https://www.themoviedb.org/movie/1291608"
+        "image": "https://image.tmdb.org/t/p/w200/k0eYP3ZsgJDGl0ZN28lzJVCIqQI.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "Miranda Priestly navigates her career amid the decline of traditional magazine publishing. She faces off against Emily Charlton, her one-time assistan...",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
       }
     ]
   }
