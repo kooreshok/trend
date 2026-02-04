@@ -1,76 +1,76 @@
 {
-  "last_updated": "February 04, 2026, 14:00 UTC",
+  "last_updated": "February 04, 2026, 15:38 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/26.1-snapshot-6_1170x500.jpg",
+        "title": "Minecraft 26.1 Snapshot 6 - Minecraft",
+        "description": "Minecraft 26.1 Snapshot 6",
+        "source_link": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-6"
+      },
+      {
+        "rank": 2,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67f940ce7486e3f54d6e2e95/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "Samsung Galaxy S26 Ultra Release Date: New Leaks, Disappointing News - Forbes",
+        "description": "The Samsung Galaxy S26 Ultra release date has been confirmed, but some of the new specifications reveal disappointing news.",
+        "source_link": "https://www.forbes.com/sites/jaymcgregor/2026/02/03/samsung-galaxy-s26-ultra-release-date-leak-battery-spec/"
+      },
+      {
+        "rank": 3,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/694ff8128e2e7ea578b4efc8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "On The \u2018Luke Smith Is Returning To Bungie To Make Destiny 3\u2019 Rumor - Forbes",
+        "description": "A rumor spread quickly on social media this week that Luke Smith was coming back to Bungie to make Destiny 3. Going to hack that down right now.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/02/03/on-the-luke-smith-is-returning-to-bungie-to-make-destiny-3-rumor/"
+      },
+      {
+        "rank": 4,
         "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/02/XBOX_GamePass_Announcement_16x9_02.03.2026_EN-US-7d6baea5271d1292c1f0.jpg",
         "title": "Coming to Xbox Game Pass: High on Life 2, Madden NFL 26, Avatar: Frontiers of Pandora, and More - Xbox Wire",
         "description": "Coming soon to Xbox Game Pass: High on Life 2, Madden NFL 26, Avatar: Frontiers of Pandora, and more!",
         "source_link": "https://news.xbox.com/en-us/2026/02/03/xbox-game-pass-february-2026-wave-1/"
       },
       {
-        "rank": 2,
-        "image": "https://assets-prd.ignimgs.com/2026/02/02/stardewvalley-feature-concernedape-blogroll-1770061732467.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Stardew Valley Turns 10: The Big ConcernedApe Interview - IGN",
-        "description": "We sat down with Stardew Valley creator Eric Barone for a lengthy interview not about the game's beginnings, but about its journey over the last 10 years, and its future.",
-        "source_link": "https://www.ign.com/articles/stardew-valley-turns-10-the-big-concernedape-interview"
+        "rank": 5,
+        "image": "https://assets-prd.ignimgs.com/2023/06/21/mario-1687364066174.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "I\u2019m Already Tired of \u2018Nintendo Switch 2 Editions\u2019, and Even New Mario Wonder Content Can\u2019t Change That - IGN",
+        "description": "The first-party Nintendo Switch 2 Editions have been wildly inconsistent across their price points, amount of new content, and quality of enhancements, and I\u2019m frankly tired of Nintendo filling out its release calendar with slightly updated versions of games \u2026",
+        "source_link": "https://www.ign.com/articles/im-already-tired-of-nintendo-switch-2-editions-and-even-new-mario-wonder-content-cant-change-that"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ikea_bilresa1.jpg?quality=90&strip=all&crop=0,10.798320425817,100,78.403359148365",
+        "title": "Google Home finally adds support for buttons - The Verge",
+        "description": "An update allows programmable switches, also known as buttons, to work in Google\u2019s smart home platform.",
+        "source_link": "https://www.theverge.com/tech/872927/google-home-button-support-arrives"
+      },
+      {
+        "rank": 7,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986638/acastro_STK092_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "YouTube now blocking background playback on mobile browsers - The Verge",
+        "description": "Google says it has started enforcing its YouTube Premium requirement for background playback on mobile.",
+        "source_link": "https://www.theverge.com/news/872937/google-youtube-blocking-third-party-mobile-browsers-background-playback"
+      },
+      {
+        "rank": 8,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyUJPx5gKowQ/v0/1200x630.jpg",
+        "title": "Inside Xbox, a Game Studio Is Trying to Reinvent Itself - Bloomberg",
+        "description": "Microsoft\u2019s Obsidian Entertainment is searching for ways to make games more quickly and on smaller budgets.",
+        "source_link": "https://www.bloomberg.com/news/articles/2026-02-03/xbox-studio-behind-grounded-outer-worlds-is-charting-new-path"
+      },
+      {
+        "rank": 9,
+        "image": "https://insider-gaming.com/wp-content/uploads/2023/09/TheDivision-1.jpg",
+        "title": "The Division: Definitive Edition Shadow Dropped For $50 With Zero Improvements - Insider Gaming",
+        "description": "Ubisoft has shadow-dropped The Division: Definitive Edition, and there's no PS5 port and no improvements to the game in any way.",
+        "source_link": "https://insider-gaming.com/the-division-definitive-edition-shadow-dropped-for-50-with-zero-improvements/"
+      },
+      {
+        "rank": 10,
         "image": "https://images.nintendolife.com/8ca621d3d3d5f/large.jpg",
         "title": "Metroid Prime 4: Beyond Sales Have Got Off To A Slow Start - Nintendo Life",
         "description": "One in a million",
         "source_link": "https://www.nintendolife.com/news/2026/02/metroid-prime-4-beyond-sales-have-got-off-to-a-slow-start"
-      },
-      {
-        "rank": 4,
-        "image": "https://assetsio.gnwcdn.com/highguard-headline_PelLtAo.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "As player numbers fall, Highguard makes the actually-quite-good 5v5 mode permanent - Eurogamer",
-        "description": "Highguard is gaining more positive reviews following the addition of a 5v5 mode that's becoming permanent, but does it have a fighting chance?",
-        "source_link": "https://www.eurogamer.net/highguard-gets-permanent-5v5-mode"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.zdnet.com/a/img/resize/60c6d2797f31d24d4bfb145cdd578f02ac3de385/2024/04/22/5a2290e4-5fd4-4a29-a8fb-34f2f5db2cab/img-9528.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "I recommend these USB-C connectors to anyone with a laptop - here's what they do - ZDNET",
-        "description": "Busted USB-C ports are a problem. These affordable breakaway accessories protect them at an affordable price.",
-        "source_link": "https://www.zdnet.com/article/magnetic-usb-c-adapter-240w-duhesin-review/"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.nintendolife.com/4aaacfef91d49/large.jpg",
-        "title": "Pok\u00e9mon 30th Anniversary Nintendo Store Event Announced (US) - Nintendo Life",
-        "description": "Pok\u00e9mon Day is almost here!",
-        "source_link": "https://www.nintendolife.com/news/2026/02/pokemon-30th-anniversary-nintendo-store-event-announced-us"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/02/AZG-Trilogy-CONNECT-iX_02-02-26.jpg",
-        "title": "Azure Striker Gunvolt Trilogy Enhanced \u2018CONNECT iX\u2019 Copen mode update now available - Gematsu",
-        "description": "Inti Creates has released an update for Azure Striker Gunvolt Trilogy Enhanced that adds the new \u201cCONNECT iX\u201d mode to Azure Striker Gunvolt 3, in which Copen from Gunvolt Chronicles: Lu\u2026",
-        "source_link": "https://www.gematsu.com/2026/02/azure-striker-gunvolt-trilogy-enhanced-connect-ix-copen-mode-update-now-available"
-      },
-      {
-        "rank": 8,
-        "image": "https://assets-prd.ignimgs.com/2026/02/02/nitro-deck-2-official-trailer-crkd-0-48-screenshot-1770062036873.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Nitro Deck 2 for Nintendo Switch 2 Is Up for Preorder at Amazon With a May 1 Release Date - IGN",
-        "description": "This might just be the best way to play your Switch 2, so here's how to make sure you get one.",
-        "source_link": "https://www.ign.com/articles/where-to-preorder-the-nitro-deck-2-for-nintendo-switch-2"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Pixel-Adaptive-connectivity-cover1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Android 16 QPR3: Pixel adds Adaptive Connectivity auto-switch, battery settings - 9to5Google",
-        "description": "With Android 16 QPR3, Google is introducing more granular Adaptive Connectivity settings on Pixel phones...",
-        "source_link": "http://9to5google.com/2026/02/02/pixel-adaptive-connectivity-settings/"
-      },
-      {
-        "rank": 10,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/12/google-home-favorites-tab-16-9.jpg?w=1600&h=900&fit=crop",
-        "title": "Google Home gets the upgrade we've all been waiting for - Android Police",
-        "description": "It's time to get physical",
-        "source_link": "https://www.androidpolice.com/google-home-gets-the-upgrade-weve-all-been-waiting-for/"
       }
     ],
     "trending_movies": [
@@ -97,31 +97,31 @@
       },
       {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg",
+        "title": "Relationship Goals",
+        "description": "When TV producer Leah Caldwell aims to become the first woman running New York's top morning show, her ex competes for the same role. Leah stays focus...",
+        "source_link": "https://www.themoviedb.org/movie/1433842"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/vWOALCjS3cANciJKkG0qV8k1izW.jpg",
         "title": "We Bury the Dead",
         "description": "After a catastrophic military disaster, the dead don't just rise\u2014they hunt. The military insists they are harmless and slow-moving, offering hope to g...",
         "source_link": "https://www.themoviedb.org/movie/1198984"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/b0RWuqzgvyfiIYU4QfgJHhmxZF4.jpg",
         "title": "The Plague",
         "description": "A socially awkward tween endures the ruthless hierarchy at a water polo camp, his anxiety spiraling into psychological turmoil over the summer....",
         "source_link": "https://www.themoviedb.org/movie/1370814"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
         "title": "The Wrecking Crew",
         "description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspirac...",
         "source_link": "https://www.themoviedb.org/movie/1168190"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/v7CCosgX9LcSpt7bXmqw5OzTFTV.jpg",
-        "title": "The Dutchman",
-        "description": "A successful black businessman, haunted by his crumbling marriage and identity crisis, is drawn into a psychological game of cat and mouse with a myst...",
-        "source_link": "https://www.themoviedb.org/movie/1180417"
       },
       {
         "rank": 8,
@@ -132,10 +132,10 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg",
-        "title": "Relationship Goals",
-        "description": "When TV producer Leah Caldwell aims to become the first woman running New York's top morning show, her ex competes for the same role. Leah stays focus...",
-        "source_link": "https://www.themoviedb.org/movie/1433842"
+        "image": "https://image.tmdb.org/t/p/w200/v7CCosgX9LcSpt7bXmqw5OzTFTV.jpg",
+        "title": "The Dutchman",
+        "description": "A successful black businessman, haunted by his crumbling marriage and identity crisis, is drawn into a psychological game of cat and mouse with a myst...",
+        "source_link": "https://www.themoviedb.org/movie/1180417"
       },
       {
         "rank": 10,
