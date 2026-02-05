@@ -1,5 +1,5 @@
 {
-  "last_updated": "February 05, 2026, 19:34 UTC",
+  "last_updated": "February 05, 2026, 20:28 UTC",
   "categories": {
     "tech_news": [
       {
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/1mF4othta76CEXcL1YFInYudQ7K.jpg",
-        "title": "Greenland 2: Migration",
-        "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a...",
-        "source_link": "https://www.themoviedb.org/movie/840464"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg",
         "title": "Anaconda",
         "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
         "source_link": "https://www.themoviedb.org/movie/1234731"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/1mF4othta76CEXcL1YFInYudQ7K.jpg",
+        "title": "Greenland 2: Migration",
+        "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a...",
+        "source_link": "https://www.themoviedb.org/movie/840464"
       }
     ]
   }
