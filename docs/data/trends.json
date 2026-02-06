@@ -1,76 +1,76 @@
 {
-  "last_updated": "February 06, 2026, 14:49 UTC",
+  "last_updated": "February 06, 2026, 15:36 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/3f39f5339d751/large.jpg",
+        "title": "Surprise! Hollow Knight - Nintendo Switch 2 Edition Launches Today - Nintendo Life",
+        "description": "Who could have seen that coming?",
+        "source_link": "https://www.nintendolife.com/news/2026/02/surprise-hollow-knight-nintendo-switch-2-edition-launches-today"
+      },
+      {
+        "rank": 2,
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-01/27/22/thumb/I67PJM7-E.jpg?crop=1250:654;0,142%26downsize=1250:*",
+        "title": "People Are Sharing The \u201cOld Technology\u201d That Actually Works So Much Better Than The \u201cModern\u201d Versions Today - BuzzFeed",
+        "description": "\"Google used to feel like a tool; now it feels like a mall directory trying to sell you something before answering your question.\"",
+        "source_link": "https://www.buzzfeed.com/jake_farrington/old-technology-thats-better-reddit"
+      },
+      {
+        "rank": 3,
         "image": "https://images.nintendolife.com/ea95192144bd1/large.jpg",
         "title": "Nintendo Direct Partner Showcase Announced For Today, 5th February 2026 - Nintendo Life",
         "description": "Howdy, partners!",
         "source_link": "https://www.nintendolife.com/news/2026/02/nintendo-direct-partner-showcase-announced-for-today-5th-february-2026"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://www.techpowerup.com/img/NxcSr4BNSmUL8w0h.jpg",
         "title": "Valve Steam Machine, Controller, Frame Hit by Memory Crisis - TechPowerUp",
         "description": "When Valve announced the Steam Machine, Steam Frame, and updated Steam Controller late in 2025, it did not reveal pricing, but the gaming giant said that the hardware would launch in early 2026. That launch window is still on the cards, but according to a rec\u2026",
         "source_link": "https://www.techpowerup.com/345989/valve-steam-machine-controller-frame-hit-by-memory-crisis"
       },
       {
-        "rank": 3,
-        "image": "https://www.canonrumors.com/wp-content/uploads/2026/02/canonrf14mmf14header1.jpg",
-        "title": "Canon Announces the Canon RF 14mm f/1.4L VCM - Canon Rumors",
-        "description": "This is certainly the lens that astrophotography landscape photographers have been waiting for Canon to make, as today Canon has announced the Canon RF 14mm f/1.4L VCM. This lens is the latest in the lineup of Canon's f/1.4 L series VCM lenses that feature th\u2026",
-        "source_link": "https://www.canonrumors.com/canon-announces-the-canon-rf-14mm-f-1-4l-vcm/"
+        "rank": 5,
+        "image": "https://www.canonrumors.com/wp-content/uploads/2026/02/canonrf7-14-fisheye-header.jpg",
+        "title": "Canon Announces the Canon RF 7-14mm f/2.8-3.5 Fisheye Zoom lens - Canon Rumors",
+        "description": "Canon today has announced the Canon RF 7-14mm f/2.8-3.5 fisheye zoom lens. It's been a long time since Canon shocked the industry with the Canon EF 8-15mm f/4L USM - approximately 15 years ago, and this time, Canon said, we can do better. And they did, they m\u2026",
+        "source_link": "https://www.canonrumors.com/canon-announces-the-canon-rf-7-14mm-f-2-8-35-fisheye-zoom-lens/"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/m5_ultra.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Latest macOS 26.3 beta adds to signs that new M5 MacBook Pros are imminent - 9to5Mac",
         "description": "Today\u2019s macOS 26.3 RC adds to the expectation that updated MacBook Pro versions with new M5 chips are coming sooner rather than later.",
         "source_link": "https://9to5mac.com/2026/02/04/latest-macos-26-3-beta-adds-to-signs-that-new-m5-macbook-pros-are-imminent/"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://www.phoronix.net/image.php?id=popos-2404-beta&image=popos_2404_4",
         "title": "System76's COSMIC Desktop Planning Vulkan Renderer, Improved Gaming Experience - Phoronix",
         "description": "Following December's release of COSMIC Epoch 1 along with the Pop!_OS 24.04 release by System76, today they shared more of their feature plans for the next two major COSMIC desktop updates.",
         "source_link": "https://www.phoronix.com/news/COSMIC-Desktop-Features-Coming"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://techcrunch.com/wp-content/uploads/2026/02/imgi_38_mp840x830mattef8f8f8t-pad1000x1000f8f8f8.jpg?w=1000",
         "title": "Alphabet won\u2019t talk about the Google-Apple AI deal, even to investors - TechCrunch",
         "description": "Alphabet CEO skipped an analyst's question about Apple on the company's earnings call.",
         "source_link": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/russia-state-hacking.jpg",
         "title": "Russian-state hackers exploit Office vulnerability to infect computers - Ars Technica",
         "description": "The window to patch vulnerabilities is shrinking rapidly.",
         "source_link": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/"
       },
       {
-        "rank": 8,
-        "image": "https://kotaku.com/app/uploads/2026/02/Anran-1200x675.jpg",
-        "title": "Overwatch\u2019s Heroes Are Getting Hotter, Here\u2019s Why - Kotaku",
-        "description": "Blizzard says that it\u2019s hoping for more character diversity moving forward",
-        "source_link": "https://kotaku.com/overwatch-heroes-characters-hotter-young-skins-collab-2000665796"
-      },
-      {
-        "rank": 9,
+        "rank": 10,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Screenshot-2026-02-04-at-9.02.44%E2%80%AFAM.png?quality=90&strip=all&crop=0%2C3.3616601455206%2C100%2C93.276679708959&w=1200",
         "title": "Nintendo\u2019s new Virtual Boy is more fun to look at than to play - The Verge",
         "description": "The new Virtual Boy headset looks like a gorgeous blast from Nintendo\u2019s past, but the games definitely show their age.",
         "source_link": "https://www.theverge.com/games/873755/nintendo-switch-virtual-boy-impressions"
-      },
-      {
-        "rank": 10,
-        "image": "https://assetsio.gnwcdn.com/ashesofcreation1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "\"This has been heartbreaking\" - laid-off Ashes Of Creation devs won't get final paychecks and compensation, says former comms head - Rock Paper Shotgun",
-        "description": "Ashes Of Creation devs laid off during the reported closure of Intrepid Studios will not receive the compensation they're due, according to a former comms head.",
-        "source_link": "https://www.rockpapershotgun.com/this-has-been-heartbreaking-laid-off-ashes-of-creation-devs-wont-get-final-paychecks-and-compensation-says-former-comms-head"
       }
     ],
     "trending_movies": [
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/mlV70IuchLZXcXKowjwSpSfdfUB.jpg",
-        "title": "Send Help",
-        "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
-        "source_link": "https://www.themoviedb.org/movie/1198994"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/aDMDiDdpL8ntmo1biqdbVfrFih7.jpg",
         "title": "Yoh! Bestie",
         "description": "Thando is perpetually unlucky in love, but when her bestie returns from his travels with a fianc\u00e9e in tow, she's forced to face a new emotion \u2014 jealou...",
         "source_link": "https://www.themoviedb.org/movie/1618945"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg",
+        "title": "Redux Redux",
+        "description": "In an attempt to avenge her daughter's death, Irene Kelly travels through parallel universes, killing her daughter's murderer over and over again. She...",
+        "source_link": "https://www.themoviedb.org/movie/1340110"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/xZqo0yPARmyF8TACVNyaOACkYWG.jpg",
-        "title": "We Bury the Dead",
-        "description": "After a catastrophic military disaster, the dead don't just rise\u2014they hunt. The military insists they are harmless and slow-moving, offering hope to g...",
-        "source_link": "https://www.themoviedb.org/movie/1198984"
+        "image": "https://image.tmdb.org/t/p/w200/hluMzOgA98EXRRyc7qcXW3UgkO5.jpg",
+        "title": "Twisted",
+        "description": "Two millennials make quick money by leasing incredible New York City apartments they don\u2019t own to people who don\u2019t know they are being scammed. The co...",
+        "source_link": "https://www.themoviedb.org/movie/1373198"
       }
     ]
   }
