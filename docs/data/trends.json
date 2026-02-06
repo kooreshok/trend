@@ -1,69 +1,76 @@
 {
-  "last_updated": "February 06, 2026, 04:11 UTC",
+  "last_updated": "February 06, 2026, 05:50 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/m5_ultra.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Latest macOS 26.3 beta adds to signs that new M5 MacBook Pros are imminent - 9to5Mac",
+        "description": "Today\u2019s macOS 26.3 RC adds to the expectation that updated MacBook Pro versions with new M5 chips are coming sooner rather than later.",
+        "source_link": "https://9to5mac.com/2026/02/04/latest-macos-26-3-beta-adds-to-signs-that-new-m5-macbook-pros-are-imminent/"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.phoronix.net/image.php?id=popos-2404-beta&image=popos_2404_4",
+        "title": "System76's COSMIC Desktop Planning Vulkan Renderer, Improved Gaming Experience - Phoronix",
+        "description": "Following December's release of COSMIC Epoch 1 along with the Pop!_OS 24.04 release by System76, today they shared more of their feature plans for the next two major COSMIC desktop updates.",
+        "source_link": "https://www.phoronix.com/news/COSMIC-Desktop-Features-Coming"
+      },
+      {
+        "rank": 3,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0061.jpg?quality=90&strip=all&crop=0%2C10.820244328098%2C100%2C78.359511343805&w=1200",
         "title": "Valve\u2019s Steam Machine has been delayed, and the RAM crisis will impact pricing - The Verge",
         "description": "Valve is delaying the launch of the Steam Machine, Steam Frame, and Steam Controller, and it says that it has to revisit pricing because of the memory and storage crunch.",
         "source_link": "https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://techcrunch.com/wp-content/uploads/2026/02/imgi_38_mp840x830mattef8f8f8t-pad1000x1000f8f8f8.jpg?w=1000",
         "title": "Alphabet won\u2019t talk about the Google-Apple AI deal, even to investors - TechCrunch",
         "description": "Alphabet CEO skipped an analyst's question about Apple on the company's earnings call.",
         "source_link": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/russia-state-hacking.jpg",
         "title": "Russian-state hackers exploit Office vulnerability to infect computers - Ars Technica",
         "description": "The window to patch vulnerabilities is shrinking rapidly.",
         "source_link": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/"
       },
       {
-        "rank": 4,
-        "image": "https://images.macrumors.com/t/KU8mtnpuZLz7y7jeR2PsMQ80Vvg=/2500x/article-new/2025/11/m5-macbook-pro-cyber.jpg",
-        "title": "New M5 Chips Spotted in iOS 26.3 Beta - MacRumors",
-        "description": "The iOS 26.3 release candidate includes references to a pair of unreleased chips that are in the M5 family, according to information found by Nicol\u00e1s...",
-        "source_link": "https://www.macrumors.com/2026/02/04/new-m5-chips-ios-26-3-beta/"
-      },
-      {
-        "rank": 5,
+        "rank": 6,
         "image": "https://techcrunch.com/wp-content/uploads/2026/02/gizmo-app.jpg?resize=1200,764",
         "title": "Meet Gizmo: a TikTok for interactive, vibe-coded mini apps - TechCrunch",
         "description": "Gizmo's app is like a TikTok for vibe-coded mini apps... and it's a lot of fun.",
         "source_link": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/"
       },
       {
-        "rank": 6,
+        "rank": 7,
+        "image": "https://kotaku.com/app/uploads/2026/02/Anran-1200x675.jpg",
+        "title": "Overwatch\u2019s Heroes Are Getting Hotter, Here\u2019s Why - Kotaku",
+        "description": "Blizzard says that it\u2019s hoping for more character diversity moving forward",
+        "source_link": "https://kotaku.com/overwatch-heroes-characters-hotter-young-skins-collab-2000665796"
+      },
+      {
+        "rank": 8,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Screenshot-2026-02-04-at-9.02.44%E2%80%AFAM.png?quality=90&strip=all&crop=0%2C3.3616601455206%2C100%2C93.276679708959&w=1200",
         "title": "Nintendo\u2019s new Virtual Boy is more fun to look at than to play - The Verge",
         "description": "The new Virtual Boy headset looks like a gorgeous blast from Nintendo\u2019s past, but the games definitely show their age.",
         "source_link": "https://www.theverge.com/games/873755/nintendo-switch-virtual-boy-impressions"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://assetsio.gnwcdn.com/ashesofcreation1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "\"This has been heartbreaking\" - laid-off Ashes Of Creation devs won't get final paychecks and compensation, says former comms head - Rock Paper Shotgun",
         "description": "Ashes Of Creation devs laid off during the reported closure of Intrepid Studios will not receive the compensation they're due, according to a former comms head.",
         "source_link": "https://www.rockpapershotgun.com/this-has-been-heartbreaking-laid-off-ashes-of-creation-devs-wont-get-final-paychecks-and-compensation-says-former-comms-head"
       },
       {
-        "rank": 8,
+        "rank": 10,
         "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y6ZWVTIKQDFN6HOCZDRJM3NJGE.jpg&w=1440",
         "title": "At 82, he\u2019s as fit as a 20-year-old. His body holds clues to healthy aging. - washingtonpost.com",
         "description": "Scientists are studying Juan L\u00f3pez Garc\u00eda, 82, a world-record-holding ultramarathoner, to learn how we can stay healthy as we age.",
         "source_link": "https://www.washingtonpost.com/wellness/2026/02/04/healthy-aging-juan-lopez-garcia-ultramarathoner/"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Google-Pixel-10a-announce-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google announces Pixel 10a with completely flat camera, pre-order Feb 18 - 9to5Google",
-        "description": "Google this morning officially announced the Pixel\u00a010a via a video teaser emphasizing the updated design...",
-        "source_link": "http://9to5google.com/2026/02/04/pixel-10a-announcement/"
       }
     ],
     "trending_movies": [
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/mlV70IuchLZXcXKowjwSpSfdfUB.jpg",
-        "title": "Send Help",
-        "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
-        "source_link": "https://www.themoviedb.org/movie/1198994"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/iGKM5vTczW0U17Wi0Aek4Mkl1y.jpg",
         "title": "Death Whisperer 3",
         "description": "After successfully defeated the black-suited ghost, Yak must now set out on another journey to find Yee, his youngest sister who has been kidnapped by...",
         "source_link": "https://www.themoviedb.org/movie/1410399"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/mlV70IuchLZXcXKowjwSpSfdfUB.jpg",
+        "title": "Send Help",
+        "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
+        "source_link": "https://www.themoviedb.org/movie/1198994"
       }
     ]
   }
