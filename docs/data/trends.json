@@ -1,76 +1,76 @@
 {
-  "last_updated": "February 07, 2026, 20:22 UTC",
+  "last_updated": "February 07, 2026, 21:21 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets-prd.ignimgs.com/2025/01/22/rtx-5090-2-1737583245865.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "The Nvidia GeForce RTX 5080 Super Is Probably Dead, Thanks to AI - IGN",
+        "description": "The Nvidia GeForce RTX 5080 Super is probably dead, thanks to AI.",
+        "source_link": "https://www.ign.com/articles/the-nvidia-geforce-rtx-5080-super-is-probably-dead-thanks-to-ai"
+      },
+      {
+        "rank": 2,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Gen-10-leaked-screenshots.jpg",
+        "title": "Pokemon Gen 10 beta screenshots leak - Nintendo Everything",
+        "description": "New Pokemon Gen 10 beta screenshots have leaked online. The new games, currently going by Pokemon Wind and Wave, will be announced soon.",
+        "source_link": "https://nintendoeverything.com/pokemon-gen-10-beta-screenshots-leak/"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/10-2026-Lamborghini-Temerario-1152x648.jpg",
+        "title": "Driven: The 2026 Lamborghini Temerario raises the bar for supercars - Ars Technica",
+        "description": "This V8 hybrid with more than 900 hp replaces the V10 Hurac\u00e1n.",
+        "source_link": "https://arstechnica.com/cars/2026/02/driven-the-2026-lamborghini-temerario-raises-the-bar-for-supercars/"
+      },
+      {
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Gemini-app-generic-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Gemini \u2018Tools\u2019 redesign comes to Android & iOS as \u2018My stuff\u2019 drops preview - 9to5Google",
+        "description": "Following the web earlier this week, Gemini is giving the Tools menu on Android and iOS a redesign. There are also changes...",
+        "source_link": "http://9to5google.com/2026/02/06/gemini-tools-redesign-android/"
+      },
+      {
+        "rank": 5,
         "image": "https://imageio.forbes.com/specials-images/imageserve/68b6c8d1fcaaf31544d0ba53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "Samsung Galaxy S26 Ultra Release Date: New Leaks, Disappointing News - Forbes",
         "description": "A new Samsung Galaxy S26 Ultra delivery more disappointing battery news for the upcoming flagship.",
         "source_link": "https://www.forbes.com/sites/jaymcgregor/2026/02/06/samsung-galaxy-s26-ultra-leak-battery-qi2/"
       },
       {
-        "rank": 2,
+        "rank": 6,
+        "image": "https://assetsio.gnwcdn.com/switch02.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Nintendo working to \"secure stable supplies of memory components\" to avoid hardware price rises - GamesIndustry.biz",
+        "description": "Platform holder says it does not expect its Q4 results to be affected by ongoing memory shortage",
+        "source_link": "https://www.gamesindustry.biz/nintendo-working-to-secure-stable-supplies-of-memory-components-to-avoid-hardware-price-rises"
+      },
+      {
+        "rank": 7,
         "image": "https://assetsio.gnwcdn.com/mewgenics-bestest-best.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Mewgenics review - a roguelite where sacrificial arse maggots and frightful defecation are the keys to success - Rock Paper Shotgun",
         "description": "Mewgenics is a roguelite strategy game where you send mutated cats on DnD campaigns and then breed them for new units, and we're utterly obsessed.",
         "source_link": "https://www.rockpapershotgun.com/mewgenics-review-a-roguelite-where-sacrificial-arse-maggots-and-frightful-defecation-are-the-keys-to-success"
       },
       {
-        "rank": 3,
+        "rank": 8,
         "image": "https://images.macrumors.com/t/eWEIWALXdBnURstsWvQt_kFYs58=/2091x/article-new/2025/09/iphone-17-pro-dark-blue-1.jpg",
         "title": "iPhone 18 Pro Max Rumored to Deliver Next-Level Battery Life - MacRumors",
         "description": "The iPhone 18 Pro Max will feature a bigger battery for continued best-in-class battery life, according to a known Weibo leaker.   Citing supply...",
         "source_link": "https://www.macrumors.com/2026/02/06/iphone-18-pro-max-next-level-battery-life/"
       },
       {
-        "rank": 4,
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/DSC01845_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
         "title": "Google is expanding AirDrop support to more Android devices \u2018very soon\u2019 - theverge.com",
         "description": "After introducing AirDrop support to Pixel 10 devices last year, Google is now set to expand it to phones made by other Android partners.",
         "source_link": "https://www.theverge.com/tech/874736/android-quick-share-apple-airdrop-support-expansion"
       },
       {
-        "rank": 5,
+        "rank": 10,
         "image": "https://supercarblondie.com/wp-content/uploads/robot-arm-feature.webp",
         "title": "British woman claims she\u2019s 80% human and 20% robot thanks to a mind-reading bionic arm - supercarblondie.com",
         "description": "This British woman says that she is 80% human and 20% robot thanks to the use of her mind-reading bionic arm with the limb using AI to help her",
         "source_link": "https://supercarblondie.com/tech/british-woman-claims-shes-80-human-and-20-robot-bionic-arm/"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.nintendolife.com/855e062d832a7/large.jpg",
-        "title": "Digimon Story Time Stranger Switch Version Includes Free Switch 2 Update - Nintendo Life",
-        "description": "The Switch 2 physical is a Game-Key Card",
-        "source_link": "https://www.nintendolife.com/news/2026/02/digimon-story-time-stranger-switch-version-includes-free-switch-2-update"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets-prd.ignimgs.com/2026/02/05/horizon-main-1770304258546.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Sony Announces Horizon Hunters Gathering, Guerrilla's New Co-Op Action Game for PS5 and PC With a Completely Different Art Style - IGN",
-        "description": "Sony has finally announced Guerrilla\u2019s Horizon live service multiplayer game, Horizon Hunters Gathering. It\u2019s due out for PlayStation 5 and PC.",
-        "source_link": "https://www.ign.com/articles/sony-announces-horizon-hunters-gathering-guerrillas-new-co-op-action-game-for-ps5-and-pc"
-      },
-      {
-        "rank": 8,
-        "image": null,
-        "title": "Video: Hollow Knight Nintendo Switch 2 vs. Switch graphics comparison - Nintendo Everything",
-        "description": null,
-        "source_link": "https://nintendoeverything.com/video-hollow-knight-nintendo-switch-2-vs-switch-graphics-comparison/"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/coolboarders-1152x648-1770328338.jpg",
-        "title": "The Switch 2 is getting a new Virtual Console (kind of) - Ars Technica",
-        "description": "Hamster Corp.'s new \"Console Archives\" does what Nintendon't.",
-        "source_link": "https://arstechnica.com/gaming/2026/02/the-virtual-console-is-sort-of-back-on-the-switch-2/"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/wf1000xm6-official-teaser-kv.jpg",
-        "title": "Sony confirms WF-1000XM6 release date in first official teaser - Notebookcheck",
-        "description": "Sony has confirmed the long-awaited release date of its WF-1000XM6 earbuds. Dubbed rather grandiously as the 'next generation of earbuds', Sony has offered a peek at its design too. The successors to the WF-1000XM5 can already be viewed in two colours though,\u2026",
-        "source_link": "https://www.notebookcheck.net/Sony-confirms-WF-1000XM6-release-date-in-first-official-teaser.1220779.0.html"
       }
     ],
     "trending_movies": [
@@ -90,31 +90,31 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/rF6txsM6cgF9vg6Ra5sNbkvUwrw.jpg",
-        "title": "Twisted",
-        "description": "Two millennials make quick money by leasing incredible New York City apartments they don\u2019t own to people who don\u2019t know they are being scammed. The co...",
-        "source_link": "https://www.themoviedb.org/movie/1373198"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg",
-        "title": "Yoh! Bestie",
-        "description": "Thando is perpetually unlucky in love, but when her bestie returns from his travels with a fianc\u00e9e in tow, she's forced to face a new emotion \u2014 jealou...",
-        "source_link": "https://www.themoviedb.org/movie/1618945"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
-        "rank": 6,
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/rF6txsM6cgF9vg6Ra5sNbkvUwrw.jpg",
+        "title": "Twisted",
+        "description": "Two millennials make quick money by leasing incredible New York City apartments they don\u2019t own to people who don\u2019t know they are being scammed. The co...",
+        "source_link": "https://www.themoviedb.org/movie/1373198"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/tcwar1rL0neoLvnklL7DzYw7sN8.jpg",
         "title": "The Muppet Show",
         "description": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very sp...",
         "source_link": "https://www.themoviedb.org/movie/1548113"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg",
+        "title": "Yoh! Bestie",
+        "description": "Thando is perpetually unlucky in love, but when her bestie returns from his travels with a fianc\u00e9e in tow, she's forced to face a new emotion \u2014 jealou...",
+        "source_link": "https://www.themoviedb.org/movie/1618945"
       },
       {
         "rank": 7,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg",
-        "title": "Queen of Chess",
-        "description": "A Hungarian girl dreams of conquering international men\u2019s chess. After a 15-year battle against world champion Garry Kasparov and her domineering fath...",
-        "source_link": "https://www.themoviedb.org/movie/1596291"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg",
         "title": "The Wrecking Crew",
         "description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspirac...",
         "source_link": "https://www.themoviedb.org/movie/1168190"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg",
+        "title": "Anaconda",
+        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
+        "source_link": "https://www.themoviedb.org/movie/1234731"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/xZqo0yPARmyF8TACVNyaOACkYWG.jpg",
-        "title": "We Bury the Dead",
-        "description": "After a catastrophic military disaster, the dead don't just rise\u2014they hunt. The military insists they are harmless and slow-moving, offering hope to g...",
-        "source_link": "https://www.themoviedb.org/movie/1198984"
+        "image": "https://image.tmdb.org/t/p/w200/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg",
+        "title": "Queen of Chess",
+        "description": "A Hungarian girl dreams of conquering international men\u2019s chess. After a 15-year battle against world champion Garry Kasparov and her domineering fath...",
+        "source_link": "https://www.themoviedb.org/movie/1596291"
       }
     ]
   }
