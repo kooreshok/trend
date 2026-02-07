@@ -1,76 +1,69 @@
 {
-  "last_updated": "February 06, 2026, 23:21 UTC",
+  "last_updated": "February 07, 2026, 01:43 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://images.axios.com/xUw_CIQq8u4BEhoRXyJoxyu7ptg=/0x0:1920x1080/1366x768/2019/09/09/1568004814878.jpg",
-        "title": "Anthropic's newest AI model uncovered 500 zero-day software flaws in testing - Axios",
-        "description": "The AI company sees the model's advancements as a major win for cyber defenders in the race against adversarial AI.",
-        "source_link": "https://www.axios.com/2026/02/05/anthropic-claude-opus-46-software-hunting"
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/coolboarders-1152x648-1770328338.jpg",
+        "title": "The Switch 2 is getting a new Virtual Console (kind of) - Ars Technica",
+        "description": "Hamster Corp.'s new \"Console Archives\" does what Nintendon't.",
+        "source_link": "https://arstechnica.com/gaming/2026/02/the-virtual-console-is-sort-of-back-on-the-switch-2/"
       },
       {
         "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2026/02/download-1200x675.jpg",
+        "title": "Overwatch\u2019s New Jetpack-Using Cat Hero Is An Agent Of Pure Chaos - Kotaku",
+        "description": "Jetpack Cat can tether onto allies and enemies and fly them around the battlefield",
+        "source_link": "https://kotaku.com/overwatch-jetpack-cat-tether-bob-dva-ultimate-flight-2000666163"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Samsung-Galaxy-S26-Pro-AH-exclus-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Samsung killed Galaxy S26 upgrades to avoid a price hike \u2013 leaks say it didn\u2019t work - 9to5Google",
+        "description": "Samsung\u2019s Galaxy S26 series was expected to deliver on a few key upgrades that were long overdue, but that all...",
+        "source_link": "http://9to5google.com/2026/02/05/samsung-galaxy-s26-upgrades-price-hike/"
+      },
+      {
+        "rank": 4,
+        "image": "https://images.nintendolife.com/5fc2023c2b33d/large.jpg",
+        "title": "Oblivion, Skyrim And Fallout Switch 2 Physicals Will All Be Code-In-A-Box, Bethesda Confirms - Nintendo Life",
+        "description": "Indy whips up a proper physical instead",
+        "source_link": "https://www.nintendolife.com/news/2026/02/oblivion-skyrim-and-fallout-switch-2-physicals-will-all-be-code-in-a-box-bethesda-confirms"
+      },
+      {
+        "rank": 5,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-13-1152x648.jpg",
         "title": "Google hints at big AirDrop expansion for Android \"very soon\" - Ars Technica",
         "description": "AirDrop came to the Pixel 10 last year, and more Android phones will join the party in 2026.",
         "source_link": "https://arstechnica.com/gadgets/2026/02/google-hints-at-big-airdrop-expansion-for-android-very-soon/"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://helios-i.mashable.com/imagery/articles/01HlwHHNchgeKY3FjzUl4lH/hero-image.fill.size_1200x675.v1770311168.png",
         "title": "Snag the budget-friendly Nothing Ear (a) wireless earbuds for their lowest price yet - Mashable",
         "description": "Plus, get ChatGPT support for chats right in your ear.",
         "source_link": "https://mashable.com/article/feb-5-nothing-ear-a-wireless-earbuds-deal"
       },
       {
-        "rank": 4,
+        "rank": 7,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/ikea-ces-2026-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google Home struggles with buttons as IKEA confirms Matter connectivity issues - 9to5Google",
+        "description": "IKEA\u2019s smart home tech gets a lot of the basics \u2013 including price \u2013 right, but Matter connectivity issues are...",
+        "source_link": "http://9to5google.com/2026/02/05/google-home-struggles-with-buttons-as-ikea-confirms-matter-connectivity-issues/"
+      },
+      {
+        "rank": 8,
         "image": "https://imageio.forbes.com/specials-images/imageserve/6830064b988c9598ed1ef168/0x0.jpg?format=jpg&crop=1186,667,x430,y196,safe&height=900&width=1600&fit=bounds",
         "title": "Google Issues Android Update\u201440% Of All Phones Now At Risk - Forbes",
         "description": "More than a billion Android smartphone users must upgrade now.",
         "source_link": "https://www.forbes.com/sites/zakdoffman/2026/02/05/google-confirms-40-of-all-android-phones-at-risk-from-new-attacks/"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
         "title": "Preparing for your second Expedition - ARC Raiders",
         "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
         "source_link": "https://arcraiders.com/news/second-expedition-rewards-and-requirements"
-      },
-      {
-        "rank": 6,
-        "image": "https://assets1.ignimgs.com/2019/11/25/aerith-keyart-1920x1080-1574695314570.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Square Enix Will 'Share More Updates Than Ever Before' on Final Fantasy 7 Remake Project This Year, Says Director - IGN",
-        "description": "Square Enix is planning to \"share more updates than ever before\" on its Final Fantasy 7 Remake project this year, according to game director Naoki Hamaguchi.",
-        "source_link": "https://www.ign.com/articles/square-enix-will-share-more-updates-than-ever-before-on-final-fantasy-7-remake-project-this-year-says-director"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-        "title": "Latest Nintendo Direct: Partner Showcase features new and classic titles coming to Nintendo Switch 2 and Nintendo Switch - News - Nintendo",
-        "description": "The latest Nintendo Direct: Partner Showcase featured a mix of classic titles making enhanced or updated returns, grand adventures making their Nintendo Switch\u2122 2 debuts, and brand new games launching for both Nintendo Switch 2 and Nintendo Switch. \u2026",
-        "source_link": "https://www.nintendo.com/us/whatsnew/latest-nintendo-direct-partner-showcase-features-new-and-classic-titles-coming-to-nintendo-switch-2-and-nintendo-switch/"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.ctfassets.net/rporu91m20dc/XNguLlke4Z220I11t7QGc/04867dc951d5e020431f4dd2d70af1b0/Bethesda_LargeHero_NintendoSwitch2.jpg?fit=fill&w=1200&h=600",
-        "title": "Bethesda Games Coming to Nintendo Switch\u2122 2 - Bethesda.net",
-        "description": "Indiana Jones and the Great Circle\u2122, Fallout 4: Anniversary Edition and The Elder Scrolls IV: Oblivion Remastered are all coming to the Nintendo Switch\u2122 2 this year!",
-        "source_link": "https://bethesda.net/en/article/17ZQE6BiOoEfIFRJJTtfz2/bethesda-games-coming-to-nintendo-switch-2"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.nintendolife.com/7025ea4364509/large.jpg",
-        "title": "Resident Evil Requiem's Amiibo Get The Spotlight In A New Switch 2 Trailer - Nintendo Life",
-        "description": "They look... okay?",
-        "source_link": "https://www.nintendolife.com/news/2026/02/resident-evil-requiems-amiibo-get-the-spotlight-in-a-new-switch-2-trailer"
-      },
-      {
-        "rank": 10,
-        "image": "https://assetsio.gnwcdn.com/Aloy-puts-a-hand-on-Errand's-shoulder-in-Horizon-Hunters-Gathering-trailer.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Horizon Hunters Gathering is a three-player tactical co-op game that looks a bit like Dauntless (with a closed playtest coming soon) - Eurogamer",
-        "description": "Guerrilla and PlayStation have lifted the lid on Horizon Hunters Gathering, a new co-op game set for PC and PS5.",
-        "source_link": "https://www.eurogamer.net/horizon-hunters-gathering-is-a-three-player-tactical-co-op-game-that-looks-a-bit-like-dauntless-with-a-closed-playtest-coming-soon"
       }
     ],
     "trending_movies": [
@@ -97,38 +90,38 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/hluMzOgA98EXRRyc7qcXW3UgkO5.jpg",
-        "title": "Twisted",
-        "description": "Two millennials make quick money by leasing incredible New York City apartments they don\u2019t own to people who don\u2019t know they are being scammed. The co...",
-        "source_link": "https://www.themoviedb.org/movie/1373198"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg",
         "title": "Redux Redux",
         "description": "In an attempt to avenge her daughter's death, Irene Kelly travels through parallel universes, killing her daughter's murderer over and over again. She...",
         "source_link": "https://www.themoviedb.org/movie/1340110"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/rF6txsM6cgF9vg6Ra5sNbkvUwrw.jpg",
+        "title": "Twisted",
+        "description": "Two millennials make quick money by leasing incredible New York City apartments they don\u2019t own to people who don\u2019t know they are being scammed. The co...",
+        "source_link": "https://www.themoviedb.org/movie/1373198"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg",
         "title": "Yoh! Bestie",
         "description": "Thando is perpetually unlucky in love, but when her bestie returns from his travels with a fianc\u00e9e in tow, she's forced to face a new emotion \u2014 jealou...",
         "source_link": "https://www.themoviedb.org/movie/1618945"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg",
         "title": "Relationship Goals",
         "description": "When TV producer Leah Caldwell aims to become the first woman running New York's top morning show, her ex competes for the same role. Leah stays focus...",
         "source_link": "https://www.themoviedb.org/movie/1433842"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 9,
