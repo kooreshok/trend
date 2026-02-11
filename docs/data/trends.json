@@ -1,5 +1,5 @@
 {
-  "last_updated": "February 11, 2026, 20:34 UTC",
+  "last_updated": "February 11, 2026, 21:30 UTC",
   "categories": {
     "tech_news": [
       {
@@ -83,17 +83,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-        "title": "Marty Supreme",
-        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/3Eaqedg8MAlnP51GYY8MCSIdTnV.jpg",
         "title": "State of Fear",
         "description": "S\u00e3o Paulo is rocked by a wave of violence and a lawyer with connections to the underworld has to make a deal with the police to rescue her kidnapped n...",
         "source_link": "https://www.themoviedb.org/movie/1426964"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+        "title": "Marty Supreme",
+        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
         "rank": 4,
@@ -111,10 +111,10 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/54LVKsZFWJ7rLUfA7jikDMYVaVS.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
+        "image": "https://image.tmdb.org/t/p/w200/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
+        "title": "Is This Thing On?",
+        "description": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confro...",
+        "source_link": "https://www.themoviedb.org/movie/1140498"
       },
       {
         "rank": 7,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-        "title": "GOAT",
-        "description": "Will, a small goat with big dreams, gets a once-in-a-lifetime shot to join the pros and play roarball \u2013 a high-intensity, co-ed, full-contact sport do...",
-        "source_link": "https://www.themoviedb.org/movie/1297842"
+        "image": "https://image.tmdb.org/t/p/w200/54LVKsZFWJ7rLUfA7jikDMYVaVS.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
-        "title": "Is This Thing On?",
-        "description": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confro...",
-        "source_link": "https://www.themoviedb.org/movie/1140498"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+        "title": "GOAT",
+        "description": "Will, a small goat with big dreams, gets a once-in-a-lifetime shot to join the pros and play roarball \u2013 a high-intensity, co-ed, full-contact sport do...",
+        "source_link": "https://www.themoviedb.org/movie/1297842"
       }
     ]
   }
