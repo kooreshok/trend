@@ -1,76 +1,76 @@
 {
-  "last_updated": "February 10, 2026, 23:34 UTC",
+  "last_updated": "February 11, 2026, 02:00 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/youtube-music-new-feature-1152x648-1745008665.jpg",
-        "title": "Google experiments with locking YouTube Music lyrics behind paywall - Ars Technica",
-        "description": "After a lengthy test, YouTube Music is making lyrics a premium feature.",
-        "source_link": "https://arstechnica.com/google/2026/02/google-locks-youtube-music-lyrics-behind-paywall/"
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ayaneonext-1152x648-1770675970.jpeg",
+        "title": "Just look at Ayaneo's absolute unit of a Windows gaming \"handheld\" - Ars Technica",
+        "description": "The Ayaneo Next II pushes past 3 pounds, 13 inches wide, and costs up to $4,300.",
+        "source_link": "https://arstechnica.com/gaming/2026/02/just-look-at-ayaneos-absolute-unit-of-a-windows-gaming-handheld/"
       },
       {
         "rank": 2,
+        "image": "https://assets-prd.ignimgs.com/2026/02/06/mewgenics-review-blogroll-1770382822401.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Mewgenics Review - IGN",
+        "description": "Mewgenics is a fantastic tactical RPG that's good for more than a hundred hours of roguelike runs. Just when you think you have it figured out it'll throw something completely unexpected and hilariously gross at you \u2013 and probably a catchy new original song, \u2026",
+        "source_link": "https://www.ign.com/articles/mewgenics-review"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.jalopnik.com/img/gallery/four-spark-plugs-eight-pistons-one-stroke-how-the-innengine-e-rex-promises-to-be-different/l-intro-1770144755.jpg",
+        "title": "Four Spark Plugs, Eight Pistons, One Stroke: How The INNengine E-REX Promises To Be Different - Jalopnik",
+        "description": "The INNengine e-Rex is described as a one-stroke engine, though it actually has two strokes. But it's not dirty like traditional two-strokes.",
+        "source_link": "https://www.jalopnik.com/2092352/four-spark-plugs-eight-pistons-one-stroke-innengine/"
+      },
+      {
+        "rank": 4,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/moltmining-1152x648.jpeg",
+        "title": "No humans allowed: This new space-based MMO is designed exclusively for AI agents - Ars Technica",
+        "description": "SpaceMolt envisions a world where AI plays with itself and the humans just watch.",
+        "source_link": "https://arstechnica.com/ai/2026/02/after-moltbook-ai-agents-can-now-hang-out-in-their-own-space-faring-mmo/"
+      },
+      {
+        "rank": 5,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/Screenshot-2023-06-05-at-1.06.09-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple\u2019s new \u2018MacBook\u2019 is coming: Here\u2019s every rumored feature - 9to5Mac",
         "description": "Apple is rumored to have a brand new \u2018MacBook\u2019 launching soon\u2014a Mac laptop with no Air or Pro suffix. Here\u2019s everything we know right now.",
         "source_link": "https://9to5mac.com/2026/02/09/apples-new-macbook-is-coming-heres-every-rumored-feature/"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://kotaku.com/app/uploads/2026/02/HS-Cataclysm-Key-Art-1200x675.jpg",
+        "title": "Trading Card Games Are Booming, So Here\u2019s Why Blizzard Isn\u2019t Making Hearthstone Cards (Yet) - Kotaku",
+        "description": "The Warcraft card game has only been available digitally since it launched in 2014",
+        "source_link": "https://kotaku.com/hearthstone-real-cards-tcg-blizzard-magic-pokemon-2000666974"
+      },
+      {
+        "rank": 7,
+        "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt3b732d539c8fb480/698a3c395707bea5a360ef44/2d861729946f4faab437fd47d2dd965d94702586-1920x1080.png?disable=upscale&width=1200&height=630&fit=crop",
+        "title": "Riot Games lays off roughly 80 employees from 2XKO team - Game Developer",
+        "description": "Riot Games has laid off approximately half of the employees working on its League of Legends-themed fighting game 2XKO.",
+        "source_link": "https://www.gamedeveloper.com/business/riot-games-lays-off-roughly-80-employees-from-2xko-team"
+      },
+      {
+        "rank": 8,
+        "image": "https://assetsio.gnwcdn.com/3_wDXCE03.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Remedy appoints former EA VP Jean-Charles Gaudechon as new CEO - GamesIndustry.biz",
+        "description": "Alan Wake developer Remedy Entertainment has appointed former EA executive Jean-Charles \"JC\" Gaudechon as its new CEO.",
+        "source_link": "https://www.gamesindustry.biz/remedy-appoints-former-ea-vp-jean-charles-gaudechon-as-new-ceo"
+      },
+      {
+        "rank": 9,
         "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22688609/InkeeWang_210625_ecl1087_Steam_0001.jpg?w=1600&h=900&fit=crop",
         "title": "You have to read this Valve job rejection for a high school teen - Polygon",
         "description": "In 2015, one intrepid teen tried to see if the people behind Steam might take a chance on his career. He got rejected, but in an encouraging way.",
         "source_link": "https://www.polygon.com/valve-job-rejection-letter-high-school-steam-career/"
       },
       {
-        "rank": 4,
-        "image": "https://assetsio.gnwcdn.com/Screenshot-2026-02-09-at-19.05.06.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "PlayStation announces new State of Play presentation for February 12 | News-in-Brief - GamesIndustry.biz",
-        "description": "The resource for people who make and sell games.",
-        "source_link": "https://www.gamesindustry.biz/playstation-announces-new-state-of-play-presentation-for-february-12-news-in-brief"
-      },
-      {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB377_APPLE_HOME_APP_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Apple is killing the old HomeKit tomorrow - theverge.com",
-        "description": "Update your Home app today or you may lose access to your smart home devices.",
-        "source_link": "https://www.theverge.com/tech/875859/apple-is-killing-the-old-homekit-tomorrow"
-      },
-      {
-        "rank": 6,
-        "image": "https://mp1st.com/wp-content/uploads/2026/02/eidoslotr-600x338.png",
-        "title": "Report: Cancelled LOTR Game by Eidos-Montr\u00e9al With a Telltale-like Story First Look - MP1st",
-        "description": "One of Eidos-Montr\u00e9al's cancelled projects, a Lord of the Rings title with a Telltale-like story, gets its first look, revealing the setting.",
-        "source_link": "https://mp1st.com/news/report-cancelled-lotr-game-by-eidos-montreal-with-a-telltale-like-story-first-look"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/hearthstone-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "\"No, this is not a Hearthstone 2\" - Blizzard squashes Hearthstone sequel suspicions after hyping a big BlizzCon 2026 reveal - Eurogamer",
-        "description": "There is something big happening in Hearthstone land.",
-        "source_link": "https://www.eurogamer.net/blizzard-squashes-hearthstone-2-supicions"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.huntshowdown.com/files/news/LunarNewYear1.jpg",
-        "title": "Lunar New Year Story Challenge & end of event changes! - huntshowdown.com",
-        "description": "Hunt: Showdown is a competitive first-person PvP bounty hunting game with heavy PvE elements. Set in the darkest corners of the world, Hunt packs the thrill of survival games into a match-based format.",
-        "source_link": "https://www.huntshowdown.com/detailed"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/02/BlazBlue-Story-PV_02-09-26.jpg",
-        "title": "BlazBlue: Entropy Effect X \u2018Story\u2019 trailer, voice cast announced - Gematsu",
-        "description": "Publisher Astrolabe Games and developer 91Act have released the story trailer and announced the voice cast for 2D action roguelite game BlazBlue: Entropy Effect X.",
-        "source_link": "https://www.gematsu.com/2026/02/blazblue-entropy-effect-x-story-trailer-voice-cast-announced"
-      },
-      {
         "rank": 10,
-        "image": "https://assets-prd.ignimgs.com/2024/11/15/starcraft-44c6e5e903ac2fdd2a02-1536x864-1731683063457.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Blizzard's Latest Attempt at a StarCraft Shooter Reportedly in Development at Nexon - IGN",
-        "description": "Blizzard has reportedly partnered with Korean gaming giant Nexon for yet another crack at turning StarCraft into a shooter.",
-        "source_link": "https://www.ign.com/articles/blizzards-latest-attempt-at-a-starcraft-shooter-reportedly-in-development-at-nexon"
+        "image": "https://cdn.videocardz.com/1/2026/02/AQUACOMPUTER-AMPINEL-POWER-CONNECTOR-PROTECTION.jpg",
+        "title": "Aqua Computer Ampinel device protecting 12V-2x6 GPUs launches at \u20ac100 - VideoCardz.com",
+        "description": "Aqua Computer's \u20ac100 Ampinel arrives for 12V-2\u00d76 GPUs after November 2025 slip Aqua Computer's Ampinel, an add-on device meant to protect the 12V-2\u00d76 GPU",
+        "source_link": "https://videocardz.com/newz/aqua-computer-ampinel-device-protecting-12v-2x6-gpus-launches-at-e100"
       }
     ],
     "trending_movies": [
@@ -97,24 +97,24 @@
       },
       {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/oXIj3R3QxcQ9wkv9YBWouBNmnFZ.jpg",
         "title": "GOAT",
         "description": "Will, a small goat with big dreams, gets a once-in-a-lifetime shot to join the pros and play roarball \u2013 a high-intensity, co-ed, full-contact sport do...",
         "source_link": "https://www.themoviedb.org/movie/1297842"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
       },
       {
         "rank": 7,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
+        "image": "https://image.tmdb.org/t/p/w200/rNqLzACU9ez2ehDalTFDPjZiC4G.jpg",
+        "title": "Night Patrol",
+        "description": "An L.A. cop discovers a local task force is hiding a secret that puts the residents of his childhood neighborhood in danger....",
+        "source_link": "https://www.themoviedb.org/movie/1323625"
       }
     ]
   }
