@@ -1,76 +1,76 @@
 {
-  "last_updated": "February 12, 2026, 18:57 UTC",
+  "last_updated": "February 12, 2026, 19:49 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://assets-prd.ignimgs.com/2026/02/10/pokemonpokopia-handson-blogroll-1770754657509.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Pok\u00e9mon Pokopia - The Final Preview - IGN",
-        "description": "We\u2019ve had some relaxing Pok\u00e9mon games over the years, but we\u2019ve never quite had a game that embraced this secondary cozy aesthetic fully into its gameplay\u2013until now, with Pok\u00e9mon Pokopia. I played the first hour of Pok\u00e9mon\u2019s first life-sim, and the sheer amou\u2026",
-        "source_link": "https://www.ign.com/articles/pokemon-pokopia-the-final-preview"
+        "image": "https://images.nintendolife.com/80ce0176bd3cd/1280x720.jpg",
+        "title": "Review: Reanimal (Switch 2) - Little Nightmares Team Delivers Its Darkest, Boldest Vision Yet - Nintendo Life",
+        "description": "Not your average farm sim",
+        "source_link": "https://www.nintendolife.com/reviews/nintendo-switch-2/reanimal"
       },
       {
         "rank": 2,
+        "image": "https://images.nintendolife.com/e1bba223b226c/large.jpg",
+        "title": "Preview: Despite Low Expectations, Pok\u00e9mon Pokopia Had Me Grinning From Ear To Ear - Nintendo Life",
+        "description": "Cut above",
+        "source_link": "https://www.nintendolife.com/previews/despite-low-expectations-pokemon-pokopia-had-me-grinning-from-ear-to-ear"
+      },
+      {
+        "rank": 3,
+        "image": "https://regmedia.co.uk/2026/02/11/shutterstock_notepadskull.jpg",
+        "title": "Notepad's new Markdown powers served with a side of remote code execution - theregister.com",
+        "description": ": Smug faces across all those who opposed the WordPad-ification of Microsoft's humble text editor",
+        "source_link": "https://www.theregister.com/2026/02/11/notepad_rce_flaw/"
+      },
+      {
+        "rank": 4,
         "image": "https://assetsio.gnwcdn.com/mewgenics_ylkdpyz.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Mewgenics is a breakout hit on Steam: it sold 150,000 copies in six hours, and it's already made its development costs - Eurogamer",
         "description": "Mewgenics, the latest release by Edmund Mcmillan and Tyler Glail, has recouped its development costs in a matter of hours.",
         "source_link": "https://www.eurogamer.net/mewgenics-is-a-breakout-hit-on-steam-it-sold-150000-copies-in-six-hours-and-its-already-made-its-development-costs"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://www.trueachievements.com/imgs/171337/directive-8020-release-date.jpg",
         "title": "Directive 8020 gets Xbox release date and awesome new feature for achievement hunters - TrueAchievements",
         "description": "Supermassive Games has finally given us a release date for Directive 8020, and the studio revealed a new Xbox achievements feature fans are sure to love.",
         "source_link": "https://www.trueachievements.com/news/directive-8020-release-date"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://assetsio.gnwcdn.com/overwatch-comeback-venedetta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Players surge back to Overwatch with the new expansion, as it leapfrogs Marvel Rivals on Steam and dominates Twitch - Eurogamer",
         "description": "The comeback is on, but for how long?",
         "source_link": "https://www.eurogamer.net/overwatch-expansion-brings-players-surging-back"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXD1L5ieHEU_h9-eg9LNbLb5-NpNemZK7bZbgYQS5MAeiHtGT2NyiQWOda0XOYhmj3wH_C0Bh4Nk8OzsXqAFaTCsja2EuPd_6t-V2R5PZjtwUQ2-74OWfUJKrJbRLy5n5qwchKcwcZ2Ns8DzYM_bE04nY9l3ntTbUXDi6OYxWO9EZmf8Ibv9YNBhUv6ejv/s1600/windows-updates.jpg",
+        "title": "Microsoft Patches 59 Vulnerabilities Including Six Actively Exploited Zero-Days - The Hacker News",
+        "description": "Microsoft patches 59 vulnerabilities, including six actively exploited zero-days, with CISA mandating urgent federal remediation.",
+        "source_link": "https://thehackernews.com/2026/02/microsoft-patches-59-vulnerabilities.html"
+      },
+      {
+        "rank": 8,
         "image": "https://ychef.files.bbci.co.uk/624x351/p0n08phs.jpg",
         "title": "TikTok is tracking you, even if you don't use the app. Here's how to stop it - BBC",
         "description": "TikTok is growing its data harvesting empire, and avoiding the app won\u2019t protect you \u2013 but some easy steps can keep you safe.",
         "source_link": "https://www.bbc.com/future/article/20260210-tiktok-is-tracking-you-even-if-you-dont-use-the-app-heres-how-to-stop-it"
       },
       {
-        "rank": 6,
+        "rank": 9,
+        "image": "https://assetsio.gnwcdn.com/Logan-with-his-claws-out-in-Marvel's-Wolverine.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Sorry, but don't expect to see Wolverine at tomorrow's PlayStation State of Play - Eurogamer",
+        "description": "It seems that Insomniac's Wolverine won't be appearing during this week's PlayStation State of Play.",
+        "source_link": "https://www.eurogamer.net/sorry-but-dont-expect-to-see-wolverine-at-tomorrows-playstation-state-of-play"
+      },
+      {
+        "rank": 10,
         "image": "https://techcrunch.com/wp-content/uploads/2024/05/Samsung-logo.webp?resize=1200,799",
         "title": "Samsung to hold its Galaxy S26 event on February 25 - TechCrunch",
         "description": "Samsung is going to launch S26 lineup just before Mobile World Congress (MWC).",
         "source_link": "https://techcrunch.com/2026/02/10/samsung-to-hold-its-galaxy-s26-event-on-february-25/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5MQ3UZKPPNC47EOER4GGCXUB7U.jpg&w=1440",
-        "title": "Column | Asking Eric: Alexa\u2019s eavesdropping makes for uncomfortable visits - The Washington Post",
-        "description": "Is the letter writer paranoid to be suspicious of smart speakers in friends\u2019 homes?",
-        "source_link": "https://www.washingtonpost.com/advice/2026/02/11/asking-eric-alexa-listening-nervous/"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.nintendolife.com/ee576a7524a55/large.jpg",
-        "title": "Suda51 Says Grasshopper Is Still Working On A \"Switch 2 Version\" Of Its New Game - Nintendo Life",
-        "description": "Oh, and it's got one other game planned for 2026",
-        "source_link": "https://www.nintendolife.com/news/2026/02/suda51-says-grasshopper-is-still-working-on-a-switch-2-version-of-its-new-game"
-      },
-      {
-        "rank": 9,
-        "image": "https://media.eventhubs.com/images/2026/02/10-2xko-playstation-chart-rankst.webp",
-        "title": "2XKO charts high on PlayStation's top download list for the game's launch - EventHubs",
-        "description": "After many years of waiting, 2XKO finally hit its full release last month, and while the launch seems to have been softer than Riot Games was hoping for, there is at least one bright spot to look at for the ...",
-        "source_link": "https://www.eventhubs.com/news/2026/feb/10/2xko-playstation-chart-ranks/"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.phoronix.net/image.php?id=2026&image=chrome_145",
-        "title": "Google Chrome 145 Released With JPEG-XL Image Support - Phoronix",
-        "description": "Back in 2022 Google deprecated and then removed JPEG-XL image support from the Chrome/Chromium browser codebase and now in 2026 it's back",
-        "source_link": "https://www.phoronix.com/news/Chrome-145-Released"
       }
     ],
     "trending_movies": [
@@ -111,10 +111,10 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
-        "title": "Is This Thing On?",
-        "description": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confro...",
-        "source_link": "https://www.themoviedb.org/movie/1140498"
+        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
       },
       {
         "rank": 7,
@@ -125,10 +125,10 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
+        "image": "https://image.tmdb.org/t/p/w200/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
+        "title": "Is This Thing On?",
+        "description": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confro...",
+        "source_link": "https://www.themoviedb.org/movie/1140498"
       },
       {
         "rank": 9,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
-        "title": "Return to Silent Hill",
-        "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
-        "source_link": "https://www.themoviedb.org/movie/680493"
+        "image": "https://image.tmdb.org/t/p/w200/mJGFduBPAzTKzOeCeTjBBOxnalB.jpg",
+        "title": "The Housemaid",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
       }
     ]
   }
