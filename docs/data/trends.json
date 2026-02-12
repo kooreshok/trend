@@ -1,69 +1,76 @@
 {
-  "last_updated": "February 12, 2026, 14:12 UTC",
+  "last_updated": "February 12, 2026, 15:48 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets-prd.ignimgs.com/2026/02/10/pokemonpokopia-handson-blogroll-1770754657509.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Pok\u00e9mon Pokopia - The Final Preview - IGN",
+        "description": "We\u2019ve had some relaxing Pok\u00e9mon games over the years, but we\u2019ve never quite had a game that embraced this secondary cozy aesthetic fully into its gameplay\u2013until now, with Pok\u00e9mon Pokopia. I played the first hour of Pok\u00e9mon\u2019s first life-sim, and the sheer amou\u2026",
+        "source_link": "https://www.ign.com/articles/pokemon-pokopia-the-final-preview"
+      },
+      {
+        "rank": 2,
+        "image": "https://assetsio.gnwcdn.com/mewgenics_ylkdpyz.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Mewgenics is a breakout hit on Steam: it sold 150,000 copies in six hours, and it's already made its development costs - Eurogamer",
+        "description": "Mewgenics, the latest release by Edmund Mcmillan and Tyler Glail, has recouped its development costs in a matter of hours.",
+        "source_link": "https://www.eurogamer.net/mewgenics-is-a-breakout-hit-on-steam-it-sold-150000-copies-in-six-hours-and-its-already-made-its-development-costs"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.trueachievements.com/imgs/171337/directive-8020-release-date.jpg",
+        "title": "Directive 8020 gets Xbox release date and awesome new feature for achievement hunters - TrueAchievements",
+        "description": "Supermassive Games has finally given us a release date for Directive 8020, and the studio revealed a new Xbox achievements feature fans are sure to love.",
+        "source_link": "https://www.trueachievements.com/news/directive-8020-release-date"
+      },
+      {
+        "rank": 4,
+        "image": "https://assetsio.gnwcdn.com/overwatch-comeback-venedetta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Players surge back to Overwatch with the new expansion, as it leapfrogs Marvel Rivals on Steam and dominates Twitch - Eurogamer",
+        "description": "The comeback is on, but for how long?",
+        "source_link": "https://www.eurogamer.net/overwatch-expansion-brings-players-surging-back"
+      },
+      {
+        "rank": 5,
         "image": "https://ychef.files.bbci.co.uk/624x351/p0n08phs.jpg",
         "title": "TikTok is tracking you, even if you don't use the app. Here's how to stop it - BBC",
         "description": "TikTok is growing its data harvesting empire, and avoiding the app won\u2019t protect you \u2013 but some easy steps can keep you safe.",
         "source_link": "https://www.bbc.com/future/article/20260210-tiktok-is-tracking-you-even-if-you-dont-use-the-app-heres-how-to-stop-it"
       },
       {
-        "rank": 2,
+        "rank": 6,
+        "image": "https://techcrunch.com/wp-content/uploads/2024/05/Samsung-logo.webp?resize=1200,799",
+        "title": "Samsung to hold its Galaxy S26 event on February 25 - TechCrunch",
+        "description": "Samsung is going to launch S26 lineup just before Mobile World Congress (MWC).",
+        "source_link": "https://techcrunch.com/2026/02/10/samsung-to-hold-its-galaxy-s26-event-on-february-25/"
+      },
+      {
+        "rank": 7,
         "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5MQ3UZKPPNC47EOER4GGCXUB7U.jpg&w=1440",
         "title": "Column | Asking Eric: Alexa\u2019s eavesdropping makes for uncomfortable visits - The Washington Post",
         "description": "Is the letter writer paranoid to be suspicious of smart speakers in friends\u2019 homes?",
         "source_link": "https://www.washingtonpost.com/advice/2026/02/11/asking-eric-alexa-listening-nervous/"
       },
       {
-        "rank": 3,
+        "rank": 8,
         "image": "https://images.nintendolife.com/ee576a7524a55/large.jpg",
         "title": "Suda51 Says Grasshopper Is Still Working On A \"Switch 2 Version\" Of Its New Game - Nintendo Life",
         "description": "Oh, and it's got one other game planned for 2026",
         "source_link": "https://www.nintendolife.com/news/2026/02/suda51-says-grasshopper-is-still-working-on-a-switch-2-version-of-its-new-game"
       },
       {
-        "rank": 4,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/11/why-the-pixel-10-pro-xl-will-wow-you-6-49-screenshot.png?w=1600&h=900&fit=crop",
-        "title": "First Android 17 Beta arrives soon for Pixel phones - Android Police",
-        "description": "Google confirms the next major beta cycle is near",
-        "source_link": "https://www.androidpolice.com/first-android-17-beta-arrives-soon-for-pixel-phones/"
-      },
-      {
-        "rank": 5,
-        "image": null,
+        "rank": 9,
+        "image": "https://media.eventhubs.com/images/2026/02/10-2xko-playstation-chart-rankst.webp",
         "title": "2XKO charts high on PlayStation's top download list for the game's launch - EventHubs",
-        "description": null,
+        "description": "After many years of waiting, 2XKO finally hit its full release last month, and while the launch seems to have been softer than Riot Games was hoping for, there is at least one bright spot to look at for the ...",
         "source_link": "https://www.eventhubs.com/news/2026/feb/10/2xko-playstation-chart-ranks/"
       },
       {
-        "rank": 6,
-        "image": "https://images.macrumors.com/t/rDrNAelsxz0IK1Q-vGu75LuFkXs=/2500x/article-new/2025/11/m5-macbook-pro-deal.jpeg",
-        "title": "Why You Shouldn't Buy the Next MacBook Pro - MacRumors",
-        "description": "Apple is planning to launch new MacBook Pro models as soon as early March, but if you can, this is one generation you should skip because there's...",
-        "source_link": "https://www.macrumors.com/2026/02/10/macbook-pro-buying-advice-2026/"
-      },
-      {
-        "rank": 7,
+        "rank": 10,
         "image": "https://www.phoronix.net/image.php?id=2026&image=chrome_145",
         "title": "Google Chrome 145 Released With JPEG-XL Image Support - Phoronix",
         "description": "Back in 2022 Google deprecated and then removed JPEG-XL image support from the Chrome/Chromium browser codebase and now in 2026 it's back",
         "source_link": "https://www.phoronix.com/news/Chrome-145-Released"
-      },
-      {
-        "rank": 8,
-        "image": "https://regmedia.co.uk/2024/01/24/shutterstock_patch_break.jpg",
-        "title": "Microsoft's Valentine's gift to admins: 6 exploited zero-day fixes - theregister.com",
-        "description": ": Roses are red, violets are blue ... now get patching",
-        "source_link": "https://www.theregister.com/2026/02/10/microsofts_valentines_gift_to_admins/"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/fitbithealthcoach.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Fitbit\u2019s AI health coach is now available on your iPhone - The Verge",
-        "description": "Google announced on Tuesday that it\u2019s expanding access to the public preview of Fitbit\u2019s AI health coach, including on iOS.",
-        "source_link": "https://www.theverge.com/gadgets/876692/fitbit-ai-health-coach-public-preview-ios"
       }
     ],
     "trending_movies": [
@@ -97,38 +104,38 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
-        "title": "Is This Thing On?",
-        "description": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confro...",
-        "source_link": "https://www.themoviedb.org/movie/1140498"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
         "title": "Predator: Badlands",
         "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
         "source_link": "https://www.themoviedb.org/movie/1242898"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
+        "title": "Is This Thing On?",
+        "description": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confro...",
+        "source_link": "https://www.themoviedb.org/movie/1140498"
+      },
+      {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/2HoR2x23bqKpopluoBD1FH3tBi7.jpg",
+        "title": "Crime 101",
+        "description": "An elusive thief, eyeing his final score, encounters a disillusioned insurance broker at her own crossroads. As their paths intertwine, a relentless d...",
+        "source_link": "https://www.themoviedb.org/movie/1171145"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
         "title": "Hamnet",
         "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
         "source_link": "https://www.themoviedb.org/movie/858024"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/mJGFduBPAzTKzOeCeTjBBOxnalB.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
-      },
-      {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/2HoR2x23bqKpopluoBD1FH3tBi7.jpg",
-        "title": "Crime 101",
-        "description": "An elusive thief, eyeing his final score, encounters a disillusioned insurance broker at her own crossroads. As their paths intertwine, a relentless d...",
-        "source_link": "https://www.themoviedb.org/movie/1171145"
       },
       {
         "rank": 10,
