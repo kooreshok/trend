@@ -1,5 +1,5 @@
 {
-  "last_updated": "February 12, 2026, 08:40 UTC",
+  "last_updated": "February 12, 2026, 09:43 UTC",
   "categories": {
     "tech_news": [
       {
@@ -11,66 +11,59 @@
       },
       {
         "rank": 2,
-        "image": null,
-        "title": "Samsung to Unveil AI-Charged Galaxy S26 Smartphones on Feb. 25 - Bloomberg.com",
-        "description": null,
-        "source_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeWUydTFJdnVxUHRQMUlqNkcyUXBER2plRll6cVVUdEJkcXlzWXhPam9NNnN6SXl1LUgyTDFqUGdySWhDYzJXejFsNW9uNWFuVHFudy1qbHlhMldCSEgxYXZMQkhUNHllNktzN3dKUEEwMkxQX0tMbURiQVFHYm5wa3diNVpCV2p0WVpmbnFZUlQ4N1kzSkxzckFCa2tUMWREeWRiRmtUQnUzWlNUSXFIcFVXaw?oc=5"
+        "image": "https://www.phoronix.net/image.php?id=2026&image=chrome_145",
+        "title": "Google Chrome 145 Released With JPEG-XL Image Support - Phoronix",
+        "description": "Back in 2022 Google deprecated and then removed JPEG-XL image support from the Chrome/Chromium browser codebase and now in 2026 it's back",
+        "source_link": "https://www.phoronix.com/news/Chrome-145-Released"
       },
       {
         "rank": 3,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/android-the-bot-figure-1_d4cf83.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google says the Android 17 Beta is coming soon - 9to5Google",
+        "description": "Following the release of Android 16 QPR3 Beta 2.1 earlier today, Google has revealed that Android 17 Beta 1 is coming soon.",
+        "source_link": "http://9to5google.com/2026/02/10/android-17-beta-coming-soon/"
+      },
+      {
+        "rank": 4,
         "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/02/10/Mewgenics-1.jpg",
         "title": "Mewgenics earns back entire 7 year development budget just 3 hours after launch - Dexerto",
         "description": "Mewgenics launched on Steam after a 14-year journey and surged to the top as a long-running indie legend finally paid off.",
         "source_link": "https://www.dexerto.com/gaming/mewgenics-earns-back-entire-7-year-development-budget-just-3-hours-after-launch-3317073/"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/fitbithealthcoach.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Fitbit\u2019s AI health coach is now available on your iPhone - The Verge",
         "description": "Google announced on Tuesday that it\u2019s expanding access to the public preview of Fitbit\u2019s AI health coach, including on iOS.",
         "source_link": "https://www.theverge.com/gadgets/876692/fitbit-ai-health-coach-public-preview-ios"
       },
       {
-        "rank": 5,
+        "rank": 6,
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/how-ucla-scientists-he.jpg",
+        "title": "A forgotten battery design from Thomas Edison\u2014how scientists helped reimagine it - Tech Xplore",
+        "description": "A little-known fact: In the year 1900, electric cars outnumbered gas-powered ones on the American road. The lead-acid auto battery of the time, courtesy of Thomas Edison, was expensive and had a range of only about 30 miles. Seeking to improve on this, Edison\u2026",
+        "source_link": "https://techxplore.com/news/2026-02-forgotten-battery-thomas-edison-scientists.html"
+      },
+      {
+        "rank": 7,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/macbook-air-m5-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "New MacBook Air coming soon: Here\u2019s what we know - 9to5Mac",
         "description": "While the MacBook Pro is stealing headlines, Apple\u2019s most popular laptop is also set to get an upgrade soon. Here\u2019s...",
         "source_link": "https://9to5mac.com/2026/02/10/new-macbook-air-coming-soon-heres-what-we-know/"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://gizmodo.com/app/uploads/2025/06/trumphone-1200x675.jpg",
         "title": "The Trump Phone Looks as Bad as It Sounds - Gizmodo",
         "description": "The first real glimpse of the Trump phone confirms what we already suspected.",
         "source_link": "https://gizmodo.com/the-trump-phone-looks-as-bad-as-it-sounds-2000720184"
       },
       {
-        "rank": 7,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1647/16470614/4649750-helldivers2%27sinvasionofasuper-tough%2Csocialist-lovingworldisn%27tgoingwell.jpg",
-        "title": "Helldivers 2's Invasion Of A Super-Tough, Socialist-Loving World Isn't Going Well - GameSpot",
-        "description": "Super Earth is rapidly running out of reinforcements.",
-        "source_link": "https://www.gamespot.com/articles/helldivers-2s-invasion-of-a-super-tough-socialist-loving-world-isnt-going-well/1100-6538079/"
-      },
-      {
-        "rank": 8,
+        "rank": 9,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/nothing-essential-apps.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Hands-on: Nothing \u2018Essential Apps\u2019 hit beta so you can vibe code your homescreen [Gallery] - 9to5Google",
         "description": "One of the places AI has really made an impact is on app coding, opening new doors both for professionals...",
         "source_link": "http://9to5google.com/2026/02/10/nothing-essential-apps-hands-on/"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iPhone 18 Pro: Three new design updates are coming this year - 9to5Mac",
-        "description": "iPhone 18 Pro and Pro Max will reportedly bring three new design changes for users. Here\u2019s what the latest rumors say.",
-        "source_link": "https://9to5mac.com/2026/02/10/iphone-18-pro-three-new-design-updates-are-coming-this-year/"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
-        "title": "Microsoft February 2026 Patch Tuesday fixes 6 zero-days, 58 flaws - BleepingComputer",
-        "description": "Today is Microsoft's February 2026\u00a0Patch Tuesday with security updates for 58 flaws, including 6 actively exploited and three publicly disclosed zero-day vulnerabilities.",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2026-patch-tuesday-fixes-6-zero-days-58-flaws/"
       }
     ],
     "trending_movies": [
@@ -125,17 +118,17 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
         "title": "Predator: Badlands",
         "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
         "source_link": "https://www.themoviedb.org/movie/1242898"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
       },
       {
         "rank": 10,
