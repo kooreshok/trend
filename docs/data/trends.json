@@ -1,76 +1,76 @@
 {
-  "last_updated": "February 13, 2026, 16:40 UTC",
+  "last_updated": "February 13, 2026, 17:37 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-devices-lineup-liquid-glass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Four Apple products could be discontinued imminently - 9to5Mac",
+        "description": "Apple has four products showing signs of being discontinued imminently, with supply drying up at the Apple Store ahead of new launches.",
+        "source_link": "https://9to5mac.com/2026/02/12/four-apple-products-could-be-discontinued-imminently/"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-leakmail-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Full Galaxy S26 series leaks in official-looking images showing off new colors [Gallery] - 9to5Google",
+        "description": "The Galaxy S26 leaks just don\u2019t stop, with the latest batch of images giving us our best look at the...",
+        "source_link": "http://9to5google.com/2026/02/12/samsung-galaxy-s26-colors-image-leaks/"
+      },
+      {
+        "rank": 3,
         "image": "https://cdn.videocardz.com/1/2026/02/SAMSUNG-QD-OLED-PENTA-TANDEM-HERO.jpg",
         "title": "Samsung Display brands five-layer QD-OLED \u201cPenta Tandem\u201d for monitor panels up to 1,300 nits - VideoCardz.com",
         "description": "QD-OLED Penta Tandem, Samsung Display brands five-layer organic light-emitting structure Samsung Display has announced \"QD-OLED Penta Tandem\", a new",
         "source_link": "https://videocardz.com/newz/samsung-display-brands-five-layer-qd-oled-penta-tandem-for-monitor-panels-up-to-1300-nits"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://assetsio.gnwcdn.com/mewgenics-edmund-mcmillen-on-meow-cameos-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Edmund McMillen on assembling Mewgenics' meow cameo list: \"the inclusion of people with clashing ideologies felt appropriate\" - Rock Paper Shotgun",
         "description": "We spoke to Mewgenics co-developer Edmund McMillen about putting together the game's list of internet celebrity meow cameos.",
         "source_link": "https://www.rockpapershotgun.com/edmund-mcmillen-on-assembling-mewgenics-meow-cameo-list-the-inclusion-of-people-with-clashing-ideologies-felt-appropriate"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260211-google-ww-1810-a0892a.jpg",
         "title": "Google says attackers used 100,000+ prompts to try to clone AI chatbot Gemini - NBC News",
         "description": "Google says its flagship AI chatbot, Gemini, has been inundated by \u201ccommercially motivated\u201d actors who are trying to clone the chatbot.",
         "source_link": "https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://images.nintendolife.com/5880f3ba02a93/large.jpg",
         "title": "Round Up: The Previews Are In For Pok\u00e9mon Pokopia - Nintendo Life",
         "description": "\"Pokopia was a huge surprise\"",
         "source_link": "https://www.nintendolife.com/news/2026/02/round-up-the-previews-are-in-for-pokemon-pokopia"
       },
       {
-        "rank": 5,
-        "image": "https://images.nintendolife.com/2d802de77cb6a/large.jpg",
-        "title": "Mario Tennis Fever Takes To The Court With A Small Day One Game Update - Nintendo Life",
-        "description": "Version 1.0.1 is required to play online",
-        "source_link": "https://www.nintendolife.com/news/2026/02/mario-tennis-fever-takes-to-the-court-with-a-small-day-one-game-update"
-      },
-      {
-        "rank": 6,
+        "rank": 7,
         "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/02/09/50fbd615/hg_screenshot_14.jpg.webp",
         "title": "UPDATE: Highguard Developer Wildlight Entertainment Confirms Layoffs At The Studio - Game Informer",
         "description": "A former Highguard level designer posted today on LinkedIn that he and most of the Wildlight team were laid off today.",
         "source_link": "https://gameinformer.com/2026/02/11/update-highguard-developer-wildlight-entertainment-confirms-layoffs-at-the-studio"
       },
       {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/New-Quick-Settings-in-Android-16-QPR1-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Pixel VPN by Google update adds status to Quick Settings Tile - 9to5Google",
-        "description": "A small update to the Pixel VPN by Google lets you more easily check connection status from the Quick Settings (QS) Tile.",
-        "source_link": "http://9to5google.com/2026/02/11/pixel-vpn-quick-settings-update/"
-      },
-      {
         "rank": 8,
-        "image": "https://variety.com/wp-content/uploads/2026/02/Diablo-2-Reign-of-the-Warlock-update.png?w=1000&h=563&crop=1",
-        "title": "\u2018Diablo 2\u2019 Gets First Major Update in 25 Years With \u2018Reign of the Warlock\u2019 Starring Rahul Kohli - Variety",
-        "description": "Big news for \"Diablo II\" fans: the Blizzard Entertainment game is getting its first major update in 25 years.",
-        "source_link": "https://variety.com/2026/gaming/news/diablo-2-update-reign-of-the-warlock-launches-1236659535/"
+        "image": "https://nintendoeverything.com/wp-content/uploads/Mario-Tennis-Fever-1.0.1-update.jpg",
+        "title": "Mario Tennis Fever 1.0.1 update out now, patch notes - Nintendo Everything",
+        "description": "Mario Tennis Fever goes live with version 1.0.1 day one update and you can check out the patch notes right here.",
+        "source_link": "https://nintendoeverything.com/mario-tennis-fever-1-0-1-update-out-now-patch-notes/"
       },
       {
         "rank": 9,
-        "image": "https://www.investors.com/wp-content/uploads/2026/02/Stock-RobotAI-head-adobeAI.jpg",
-        "title": "Apple Stock Eyes Breakout As This Unseen Engine Unlocks Agentic AI - Investor's Business Daily",
-        "description": "Joining fellow Mag 7 member Alphabet on the Breakout Stocks Index, Apple stock takes aim at two buy points.",
-        "source_link": "https://www.investors.com/research/breakout-stocks-technical-analysis/apple-stock-near-breakout-xcode-agentic-ai-anthropic-claude-openai-codex/"
+        "image": "https://www.nasa.gov/wp-content/uploads/2026/02/afrc2026-0018-051.jpg",
+        "title": "NASA Completes First Flight of Laminar Flow Scaled Wing Design - NASA (.gov)",
+        "description": "NASA completed the first flight\u00a0test\u00a0of\u00a0a scale-model wing\u00a0designed to improve laminar flow, reducing",
+        "source_link": "https://www.nasa.gov/image-article/nasa-completes-first-flight-of-laminar-flow-scaled-wing-design/"
       },
       {
         "rank": 10,
-        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/02/11/00acc264-6eb4-44dd-87d6-5e2edcb995f6/thumbnail/1200x630/353f1fe673375b134e9f36395423ef33/bord-game-urn-cambridge-org-id-binary-20260211104309887-0006-s0003598x25102640-s0003598x25102640-fig1.png",
-        "title": "Rules of mysterious ancient board game decoded by AI, scientists say - CBS News",
-        "description": "The aim of the \"deceptively simple but thrilling strategy game\" was to hunt and trap the opponent's pieces in as few moves as possible, scientists said.",
-        "source_link": "https://www.cbsnews.com/news/mysterious-ancient-board-game-rules-decoded-ai-scientists/"
+        "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/02/11/2ec4c5b1/diablo_warlock_1.jpg.webp",
+        "title": "Blizzard Is Bringing The Warlock Class To Diablo IV: Lord Of Hatred, Diablo II, And Diablo Immortal - Game Informer",
+        "description": "You can play as the Warlock in Diablo II starting today as part of the new Reign of the Warlock DLC.",
+        "source_link": "https://gameinformer.com/2026/02/11/blizzard-is-bringing-the-warlock-class-to-diablo-iv-lord-of-hatred-diablo-ii-and-diablo"
       }
     ],
     "trending_movies": [
@@ -111,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/3Eaqedg8MAlnP51GYY8MCSIdTnV.jpg",
-        "title": "State of Fear",
-        "description": "As S\u00e3o Paulo erupts in an unprecedented wave of violence, a lawyer with underworld ties must strike a deal with the police to rescue her kidnapped nie...",
-        "source_link": "https://www.themoviedb.org/movie/1426964"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
         "title": "\u201cWuthering Heights\u201d",
         "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
         "source_link": "https://www.themoviedb.org/movie/1316092"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/2HoR2x23bqKpopluoBD1FH3tBi7.jpg",
-        "title": "Crime 101",
-        "description": "An elusive thief, eyeing his final score, encounters a disillusioned insurance broker at her own crossroads. As their paths intertwine, a relentless d...",
-        "source_link": "https://www.themoviedb.org/movie/1171145"
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/3Eaqedg8MAlnP51GYY8MCSIdTnV.jpg",
+        "title": "State of Fear",
+        "description": "As S\u00e3o Paulo erupts in an unprecedented wave of violence, a lawyer with underworld ties must strike a deal with the police to rescue her kidnapped nie...",
+        "source_link": "https://www.themoviedb.org/movie/1426964"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/mJGFduBPAzTKzOeCeTjBBOxnalB.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/2HoR2x23bqKpopluoBD1FH3tBi7.jpg",
+        "title": "Crime 101",
+        "description": "An elusive thief, eyeing his final score, encounters a disillusioned insurance broker at her own crossroads. As their paths intertwine, a relentless d...",
+        "source_link": "https://www.themoviedb.org/movie/1171145"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/YD6QzcokTMe3EViM0hLbNCxf4y.jpg",
-        "title": "Is This Thing On?",
-        "description": "As their marriage quietly unravels, Alex faces middle age and an impending divorce, seeking new purpose in the New York comedy scene while Tess confro...",
-        "source_link": "https://www.themoviedb.org/movie/1140498"
+        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
       }
     ]
   }
