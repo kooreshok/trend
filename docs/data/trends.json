@@ -1,92 +1,85 @@
 {
-  "last_updated": "February 16, 2026, 12:55 UTC",
+  "last_updated": "February 16, 2026, 14:03 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://media.wired.com/photos/698d20ce616dca42b2e62f59/191:100/w_1280,c_limit/gear-google-ai-2250469163.jpg",
+        "title": "Google\u2019s AI Overviews Can Scam You. Here\u2019s How to Stay Safe - WIRED",
+        "description": "Beyond mistakes or nonsense, deliberately bad information being injected into AI search summaries is leading people down potentially harmful paths.",
+        "source_link": "https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/"
+      },
+      {
+        "rank": 2,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/12/img_1417.jpg?w=1600&h=900&fit=crop",
+        "title": "I replaced 6 subscription-based Android apps with these free open source gems and couldn't be happier - Android Police",
+        "description": "The subscription-free Android setup",
+        "source_link": "https://www.androidpolice.com/replaced-subscription-based-android-apps-with-free-open-source-gems/"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.trueachievements.com/imgs/171542/xbox-game-pass-loses-another-four-games-in-february-2026.jpg",
+        "title": "Xbox Game Pass loses another four games in February 2026 - TrueAchievements",
+        "description": "The next wave of games leaving Xbox Game Pass in February 2026 has been confirmed. Another four games will drop out of Game Pass at the end of the month.",
+        "source_link": "https://www.trueachievements.com/news/xbox-game-pass-leaving-soon-february-2026-wave-2"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.trueachievements.com/imgs/171508/xbox-gets-another-26-new-games-next-week.jpg",
+        "title": "Xbox gets another 26 new games next week - TrueAchievements",
+        "description": "Next week, 26 new Xbox games, including Styx: Blades of Greed and Star Trek: Voyager - Across the Unknown, come to Xbox consoles and PC.",
+        "source_link": "https://www.trueachievements.com/news/new-xbox-games-february-16-2026"
+      },
+      {
+        "rank": 5,
         "image": "https://images.pushsquare.com/893d050b84d8a/large.jpg",
         "title": "'I Feel Cheated and I Want a Refund': Fans Lash Out at New PS5 God of War's Unlockable Local Multiplayer Mode - Push Square",
         "description": "Accused of false advertising",
         "source_link": "https://www.pushsquare.com/news/2026/02/i-feel-cheated-and-i-want-a-refund-fans-lash-out-at-new-ps5-god-of-wars-unlockable-local-multiplayer-mode"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://images.nintendolife.com/e87c5eb8e2432/large.jpg",
         "title": "New Strategy RPG 'Brigandine: Abyss' Is Coming To Switch 2 In 2026 - Nintendo Life",
         "description": "NIS America teams up with Happinet",
         "source_link": "https://www.nintendolife.com/news/2026/02/new-strategy-rpg-brigandine-abyss-is-coming-to-switch-2-in-2026"
       },
       {
-        "rank": 3,
+        "rank": 7,
+        "image": "https://cdn.mos.cms.futurecdn.net/zoyX8A4MsxCMzoDSkjvYHo-2000-80.jpg",
+        "title": "Your Samsung TV is watching you \u2014 how to turn off data collection - Tom's Guide",
+        "description": "Your Samsung TV knows too much about you",
+        "source_link": "https://www.tomsguide.com/tvs/your-samsung-tv-is-watching-you-how-to-turn-off-data-collection"
+      },
+      {
+        "rank": 8,
+        "image": "https://images.nintendolife.com/70c93ef584abb/large.jpg",
+        "title": "Video: 007 First Light Official Story Trailer Revealed - Nintendo Life",
+        "description": "Earn the number",
+        "source_link": "https://www.nintendolife.com/news/2026/02/video-007-first-light-official-story-trailer-revealed"
+      },
+      {
+        "rank": 9,
         "image": "https://hackaday.com/wp-content/uploads/2026/02/esp32_time-of-flight_sensor_henrique_ferrolho_youtube.jpg",
         "title": "Real-Time 3D Room Mapping With ESP32, VL53L5CX Sensor And IMU - Hackaday",
         "description": "ST\u2019s VL53L5CX is a very small 8\u00d78 grid ranging sensor that can perform distance measurements at a distance of up to 4 meters. In a recent video,[Henrique Ferrolho] demonstrated that this\u2026",
         "source_link": "https://hackaday.com/2026/02/14/real-time-3d-room-mapping-with-esp32-vl53l5cx-sensor-and-imu/"
-      },
-      {
-        "rank": 4,
-        "image": "https://images.nintendolife.com/d48da61d9fadf/large.jpg",
-        "title": "Pok\u00e9mon Pinball Machine Officially Revealed By Stern Pinball, Available Now - Nintendo Life",
-        "description": "Here's a first look!",
-        "source_link": "https://www.nintendolife.com/news/2026/02/pokemon-pinball-machine-officially-revealed-by-stern-pinball-available-now"
-      },
-      {
-        "rank": 5,
-        "image": "https://assets-prd.ignimgs.com/2026/02/14/lg-sale-1771029742556.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "LG Has Some Great TV Deals for Presidents Day - IGN",
-        "description": "Save big on OLED and QNED TVs this weekend.",
-        "source_link": "https://www.ign.com/articles/lg-has-some-great-tv-deals-for-presidents-day"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.nintendolife.com/7a6d4d7a45f61/large.jpg",
-        "title": "Rayman: 30th Anniversary Edition Is Getting A Physical Switch Release - Nintendo Life",
-        "description": "Pre-orders are now live",
-        "source_link": "https://www.nintendolife.com/news/2026/02/rayman-30th-anniversary-edition-is-getting-a-physical-switch-release"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.bgr.com/img/gallery/why-theres-simply-no-need-for-an-amazon-fire-tv-stick-anymore/l-intro-1770749351.jpg",
-        "title": "Why There's Simply No Need For An Amazon Fire TV Stick Anymore - bgr.com",
-        "description": "The Amazon Fire TV Stick is no longer essential because there are cheaper competitors and most smart TVs today include the same range of apps in their OS.",
-        "source_link": "https://www.bgr.com/2098089/why-no-one-uses-amazon-fire-tv-stick-anymore/"
-      },
-      {
-        "rank": 8,
-        "image": "https://helios-i.mashable.com/imagery/articles/00R2svaWNwOWuazEcHYfBXE/hero-image.fill.size_1200x675.v1770834784.png",
-        "title": "Lifetime access to ChatGPT, Gemini, and more comes with this $75 tool - Mashable",
-        "description": "That\u2019s an all-time low price.",
-        "source_link": "https://mashable.com/article/feb-14-1minai-advanced-business-plan-lifetime-subscription"
-      },
-      {
-        "rank": 9,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68b6c8d1fcaaf31544d0ba53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "Samsung Galaxy S26 Ultra Release Date Latest: New Prices And Deals - Forbes",
-        "description": "This Samsung Galaxy S26 Ultra release date will see a new price strategy with a change to the pre-order deal.",
-        "source_link": "https://www.forbes.com/sites/jaymcgregor/2026/02/14/samsung-galaxy-s26-ultra-price-pre-order-deal-trade-in/"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.jalopnik.com/img/gallery/these-are-the-biggest-differences-between-the-chevy-c8-corvette-stingray-and-z06/l-intro-1770714320.jpg",
-        "title": "These Are The Biggest Differences Between The Chevy C8 Corvette Stingray And Z06 - Jalopnik",
-        "description": "The Z06 is wider, more aggressive and more powerful than the C8 Stingray, which has a lower price tag and a smaller footprint.",
-        "source_link": "https://www.jalopnik.com/2097521/biggest-differences-between-corvette-stingray-z06/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
+        "image": "https://image.tmdb.org/t/p/w200/57cyAMc9c8iveudogTRuDOQjujn.jpg",
+        "title": "Primate",
+        "description": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However,...",
+        "source_link": "https://www.themoviedb.org/movie/1315303"
+      },
+      {
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
         "title": "Marty Supreme",
         "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
-      },
-      {
-        "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-        "title": "GOAT",
-        "description": "Will, a small goat with big dreams, gets a once-in-a-lifetime shot to join the pros and play roarball \u2013 a high-intensity, co-ed, full-contact sport do...",
-        "source_link": "https://www.themoviedb.org/movie/1297842"
       },
       {
         "rank": 3,
@@ -97,24 +90,24 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/57cyAMc9c8iveudogTRuDOQjujn.jpg",
-        "title": "Primate",
-        "description": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However,...",
-        "source_link": "https://www.themoviedb.org/movie/1315303"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
         "title": "\u201cWuthering Heights\u201d",
         "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
         "source_link": "https://www.themoviedb.org/movie/1316092"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/erTRAi241eYF4K8KoGGOI8kFPox.jpg",
         "title": "Predator: Badlands",
         "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate ad...",
         "source_link": "https://www.themoviedb.org/movie/1242898"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "title": "The Housemaid",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
         "rank": 7,
@@ -125,10 +118,10 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/gPxlb7LLqbsKgjltgVrgYdhfxCZ.jpg",
-        "title": "Kissing Is the Easy Part",
-        "description": "Honor student Sean agrees to tutor rebellious Flora for a college recommendation letter. Their growing attraction complicates more than just their aca...",
-        "source_link": "https://www.themoviedb.org/movie/1515615"
+        "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+        "title": "GOAT",
+        "description": "Will, a small goat with big dreams, gets a once-in-a-lifetime shot to join the pros and play roarball \u2013 a high-intensity, co-ed, full-contact sport do...",
+        "source_link": "https://www.themoviedb.org/movie/1297842"
       },
       {
         "rank": 9,
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
+        "image": "https://image.tmdb.org/t/p/w200/3Eaqedg8MAlnP51GYY8MCSIdTnV.jpg",
+        "title": "State of Fear",
+        "description": "As S\u00e3o Paulo erupts in an unprecedented wave of violence, a lawyer with underworld ties must strike a deal with the police to rescue her kidnapped nie...",
+        "source_link": "https://www.themoviedb.org/movie/1426964"
       }
     ]
   }
