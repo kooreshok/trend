@@ -1,76 +1,76 @@
 {
-  "last_updated": "February 18, 2026, 22:28 UTC",
+  "last_updated": "February 18, 2026, 23:25 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://substackcdn.com/image/fetch/$s_!u9xd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F551308df-992e-4500-a133-0397d895f163_1920x1080.jpeg",
+        "title": "Sources: Tencent secretly funded struggling shooter Highguard - Game File | Stephen Totilo",
+        "description": "Wildlight Entertainment has said for years it was \"fully-funded\" but not shared details.",
+        "source_link": "https://www.gamefile.news/p/tencent-highguard-wildlight-entertainment"
+      },
+      {
+        "rank": 2,
         "image": "https://images.nintendolife.com/8632c6095c104/large.jpg",
         "title": "'Can You Use Labo VR Goggles For Virtual Boy Games On Switch?' & Other Nintendo Classics VB Questions Answered - Nintendo Life",
         "description": "(Yes, you can, with a Switch 1)",
         "source_link": "https://www.nintendolife.com/guides/can-you-use-labo-vr-goggles-for-virtual-boy-games-on-switch-and-other-nintendo-classics-vb-questions-answered"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iOS-26.4-public-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple releases first iOS 26.4 public beta with these changes - 9to5Mac",
+        "description": "Apple has released the first iOS 26.4 public beta version for iPhone. iOS 26.4 includes a number of exciting new...",
+        "source_link": "https://9to5mac.com/2026/02/17/apple-releases-first-ios-26-4-public-beta-with-these-changes/"
+      },
+      {
+        "rank": 4,
         "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/02/avowed-orlan-pc-cmbt-001-851e91447a193056a8d2.jpg",
         "title": "Avowed Celebrates Anniversary with Massive Update \u2013 and Comes to PlayStation 5 - Xbox Wire",
         "description": "Happy anniversary Avowed! Today's major content update is packed with community-requested features, quality-of-life improvements, and much more for all platforms.",
         "source_link": "https://news.xbox.com/en-us/2026/02/17/avowed-celebrates-anniversary-with-massive-update-and-comes-to-playstation-5/"
       },
       {
-        "rank": 3,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/11/Face-Unlock-screen-on-Pixel-9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google Pixel 'Project Toscana' reportedly upgrades face unlock hardware, compares to iPhone Face ID - 9to5Google",
-        "description": "Biometrics are a core part of any smartphone nowadays, and Google Pixel is one of the few brands that balances...",
-        "source_link": "http://9to5google.com/2026/02/17/google-pixel-face-unlock-project-toscana-report/"
+        "rank": 5,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/airdrop-quick-share-pixel-10.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google expands Quick Share\u2019s AirDrop support to Pixel 9 - 9to5Google",
+        "description": "After introducing on the Pixel 10 last year, Google is expanding Quick Share support with AirDrop to the Pixel 9, 9 Pro, and 9 Pro XL.",
+        "source_link": "http://9to5google.com/2026/02/17/quick-share-airdrop-pixel-9/"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Google-IO-2026-date.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google teases I/O 2026 with \u2018Make Build Unlock\u2019 puzzle - 9to5Google",
         "description": "The journey to Google I/O 2026 is well underway this morning with a puzzle to figure out the dates for the developer conference.",
         "source_link": "http://9to5google.com/2026/02/17/google-io-2026-puzzle/"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1639/16394540/4652350-bf6redsecseason2promo.jpg",
+        "title": "Battlefield 6 Battle Pass Season 2: All Guns, Skins, And Other Rewards - GameSpot",
+        "description": "Here is everything included in the Season 2 battle pass for Battlefield 6 and Redsec.",
+        "source_link": "https://www.gamespot.com/gallery/battlefield-6-battle-pass-season-2-all-guns-skins-and-other-rewards/2900-7505/"
+      },
+      {
+        "rank": 8,
         "image": "https://media.cnn.com/api/v1/images/stellar/prod/apple-collage.jpg?c=16x9&q=w_800,c_fill",
         "title": "The latest Apple iPads, MacBooks, AirPods and more are on sale for Presidents Day - CNN",
         "description": "Apple products like AirPods, iPads and MacBooks are on sale with these Presidents Day weekend deals.",
         "source_link": "https://www.cnn.com/cnn-underscored/deals/apple-presidents-day-sale-2026-02-16"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://imageio.forbes.com/specials-images/imageserve/693d9767acd368a0c337397b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "\u2018Highguard\u2019 Update: An Attempt To Survive 98.5% Player Loss - Forbes",
         "description": "After mass layoffs at Highguard, the game is somehow continuing on despite losing nearly all of its players. How long can this go on?",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/02/17/highguard-update-an-attempt-to-survive-985-player-loss/"
       },
       {
-        "rank": 7,
+        "rank": 10,
         "image": "https://gizmodo.com/app/uploads/2026/02/Apple-MacBook-Air-Sky-Blue-1200x675.jpg",
         "title": "Apple Might Announce Colorful, Low-Cost MacBook on March 4 - Gizmodo",
         "description": "And probably new MacBooks, iPads, and an affordable iPhone very soon, too.",
         "source_link": "https://gizmodo.com/apple-might-announce-colorful-low-cost-macbook-on-march-4-2000722772"
-      },
-      {
-        "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/Death-Howl-artwork-with-an-Xbox-logo-overlaid.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Here's the next batch of Xbox Game Pass games for February - Eurogamer",
-        "description": "Microsoft has revealed the next batch of games coming to its Xbox Game Pass subscription service this February",
-        "source_link": "https://www.eurogamer.net/heres-the-next-batch-of-xbox-game-pass-games-for-february"
-      },
-      {
-        "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/switch-gta-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "US video game consumer spending predicted to reach $62.8bn in 2026 - GamesIndustry.biz",
-        "description": "3% increase in spending attributed to continued sales of Switch 2 and Grand Theft Auto 6 launch, according to Circana",
-        "source_link": "https://www.gamesindustry.biz/us-video-game-consumer-spending-predicted-to-reach-628bn-in-2026"
-      },
-      {
-        "rank": 10,
-        "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
-        "title": "An Update on Recent Exploits and Corrective Actions - ARC Raiders",
-        "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
-        "source_link": "https://arcraiders.com/news/an-update-on-recent-exploits-and-corrective-actions"
       }
     ],
     "trending_movies": [
@@ -90,17 +90,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
-        "title": "Hellfire",
-        "description": "A drifter with a mysterious past arrives in a small town and finds the residents in the grip of a ruthless crime boss and realizes he has to help them...",
-        "source_link": "https://www.themoviedb.org/movie/1088434"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
         "title": "\u201cWuthering Heights\u201d",
         "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
         "source_link": "https://www.themoviedb.org/movie/1316092"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
+        "title": "Hellfire",
+        "description": "A drifter with a mysterious past arrives in a small town and finds the residents in the grip of a ruthless crime boss and realizes he has to help them...",
+        "source_link": "https://www.themoviedb.org/movie/1088434"
       },
       {
         "rank": 5,
@@ -118,10 +118,10 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/xmoO861IKm1ycJ52mLGc3nwINKV.jpg",
-        "title": "Love Me Love Me",
-        "description": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. ...",
-        "source_link": "https://www.themoviedb.org/movie/1317672"
+        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+        "title": "Marty Supreme",
+        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
         "rank": 8,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/xmoO861IKm1ycJ52mLGc3nwINKV.jpg",
+        "title": "Love Me Love Me",
+        "description": "After her brother's death, June moves to Milan for a fresh start, finding comfort in Will, the perfect honor student at her new international school. ...",
+        "source_link": "https://www.themoviedb.org/movie/1317672"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
         "title": "Scream 7",
         "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
         "source_link": "https://www.themoviedb.org/movie/1159559"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
-        "title": "No Other Choice",
-        "description": "After being laid off and humiliated by a ruthless job market, a veteran paper mill manager descends into violence in a desperate bid to reclaim his di...",
-        "source_link": "https://www.themoviedb.org/movie/639988"
       }
     ]
   }
