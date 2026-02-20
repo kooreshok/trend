@@ -1,5 +1,5 @@
 {
-  "last_updated": "February 20, 2026, 08:35 UTC",
+  "last_updated": "February 20, 2026, 09:36 UTC",
   "categories": {
     "tech_news": [
       {
@@ -25,52 +25,52 @@
       },
       {
         "rank": 4,
+        "image": "https://www.bleepstatic.com/content/hl-images/2026/02/18/0_Honeywell.jpg",
+        "title": "Critical infra Honeywell CCTVs vulnerable to auth bypass flaw - BleepingComputer",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a critical vulnerability in multiple Honeywell CCTV products that allows unauthorized access to feeds or account hijacking.",
+        "source_link": "https://www.bleepingcomputer.com/news/security/critical-infra-honeywell-cctvs-vulnerable-to-auth-bypass-flaw/"
+      },
+      {
+        "rank": 5,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/Drop-In_PR_Horizontal.png?w=1200",
+        "title": "A startup called Germ becomes the first private messenger that launches directly from Bluesky's app - TechCrunch",
+        "description": "Social network Bluesky now offers private messaging by integrating the startup Germ's E2E encrypted messenger natively in its app.",
+        "source_link": "https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app/"
+      },
+      {
+        "rank": 6,
         "image": "https://assetsio.gnwcdn.com/ss_bcf8cde56e46d969dfaff90c8a9d85a22b6342fc.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Football commentator permits EA to use an AI version of his voice for EA Sports FC - GamesIndustry.biz",
         "description": "Football (soccer) commentator, Guy Mowbray, has given Electronic Arts permission to \"replicate his voice\" via AI to gen\u2026",
         "source_link": "https://www.gamesindustry.biz/football-commentator-permits-ea-to-use-an-ai-version-of-his-voice-for-ea-sports-fc"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1849/18498836/4653716-oblivion.jpg",
+        "title": "The Elder Scrolls 6 Will Use An Upgraded Version Of Starfield And Skyrim's Game Engine - GameSpot",
+        "description": "The Elder Scrolls 6 will be the first Bethesda game to use Creation Engine 3.",
+        "source_link": "https://www.gamespot.com/articles/the-elder-scrolls-6-will-use-an-upgraded-version-of-starfield-and-skyrims-game-engine/1100-6538269/"
+      },
+      {
+        "rank": 8,
         "image": "https://assetsio.gnwcdn.com/call-of-duty-black-ops-7-four-people.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "UK's Advertising Standards Authority bans Call of Duty: Black Ops 7 commercial for \"trivializing sexual violence\" - GamesIndustry.biz",
         "description": "The UK's Advertising Standards Authority (ASA) has banned a Call of Duty: Black Ops 7 commercial for trivializing sexua\u2026",
         "source_link": "https://www.gamesindustry.biz/uks-advertising-standard-authority-bans-call-of-duty-black-ops-7-commercial-for-trivializing-sexual-violence"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://insider-gaming.com/wp-content/uploads/2024/04/starfield-players.jpg",
         "title": "Todd Howard Shuts Down \u2018Starfield 2.0\u2019 Claims and Promises More News \u2018Soonish\u2019 - Insider Gaming",
         "description": "Todd Howard of Bethesda Game Studios has shut down claims that Starfield 2.0 is coming soon, but promises more news soon.",
         "source_link": "https://insider-gaming.com/todd-howard-starfield-2-shut-down-and-promises-more-news/"
       },
       {
-        "rank": 7,
-        "image": "https://kotaku.com/app/uploads/2025/11/Elderscrollllls-1200x675.jpg",
-        "title": "Elder Scrolls 6 Is Powered By New Version Of Creation Engine - Kotaku",
-        "description": "Todd Howard also says the upcoming RPG is a return to Bethesda's 'classic' RPG formula",
-        "source_link": "https://kotaku.com/elder-scrolls-6-is-powered-by-new-version-of-creation-engine-starfield-classic-rpg-2000670744"
-      },
-      {
-        "rank": 8,
+        "rank": 10,
         "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/69c274136f7f11b90223ea007ebb667ee988f574-1920x1080.jpg?accountingTag=TFT?w=1200&h=630&fm=webp&fit=crop&crop=center",
         "title": "TFT patch 16.5 - Teamfight Tactics",
         "description": "We\u2019re past the halfway mark with Lore & Legends and we\u2019re focusing on more specific balance changes.",
         "source_link": "https://teamfighttactics.leagueoflegends.com/en-ph/news/game-updates/teamfight-tactics-patch-16-5/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/26.1-snapshot-9_1170x500.jpg",
-        "title": "Minecraft 26.1 Snapshot 9 - Minecraft",
-        "description": "Minecraft 26.1 Snapshot 9",
-        "source_link": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-9"
-      },
-      {
-        "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007865/acastro_STK109_microsoft_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Microsoft is bringing a built-in network speed test to Windows 11 - The Verge",
-        "description": "Microsoft is testing a Windows 11 update that adds a network speed test tool to the taskbar.",
-        "source_link": "https://www.theverge.com/tech/880756/windows-11-speed-test-build-in-update-preview"
       }
     ],
     "trending_movies": [
@@ -118,17 +118,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
-        "title": "\u201cWuthering Heights\u201d",
-        "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
-        "source_link": "https://www.themoviedb.org/movie/1316092"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
         "title": "Marty Supreme",
         "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+        "title": "\u201cWuthering Heights\u201d",
+        "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
+        "source_link": "https://www.themoviedb.org/movie/1316092"
       },
       {
         "rank": 9,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
+        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+        "title": "Scream 7",
+        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
+        "source_link": "https://www.themoviedb.org/movie/1159559"
       }
     ]
   }
