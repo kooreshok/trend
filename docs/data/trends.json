@@ -1,13 +1,13 @@
 {
-  "last_updated": "February 20, 2026, 14:42 UTC",
+  "last_updated": "February 20, 2026, 15:34 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268297_app_store_data_A_KRALES.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "The biggest app in the whole wide world - The Verge",
-        "description": "Out of the millions of apps in the Apple App Store, only a few hundred have ever topped its free charts. Developers have learned the tricks to get there.",
-        "source_link": "https://www.theverge.com/tech/876196/top-app-store-apps-developers"
+        "image": "https://assetsio.gnwcdn.com/todd-howard-starfield.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "\"It is not Starfield 2.0\" - Todd Howard squashes Starfield update excitement, but insists work on the space game will not stop \"for a while\" - Eurogamer",
+        "description": "\"It's a Game Pass hours beast.\"",
+        "source_link": "https://www.eurogamer.net/todd-howard-squashes-starfield-update-excitement"
       },
       {
         "rank": 2,
@@ -18,17 +18,17 @@
       },
       {
         "rank": 3,
-        "image": "https://m-cdn.phonearena.com/images/article/178311-wide-two_1200/Vivo-V70-is-officially-here-with-impressive-Zeiss-cameras-youre-invited-to-the-flagship-party.jpg",
-        "title": "Vivo V70 is officially here with impressive Zeiss cameras: you're invited to the flagship party! - PhoneArena",
-        "description": "Spending a ton of cash on Ultras and Pros is not the only way to enjoy mobile photography.",
-        "source_link": "https://www.phonearena.com/news/vivo-v70-is-officially-here_id178311"
-      },
-      {
-        "rank": 4,
         "image": "https://images.nintendolife.com/2ec82e9d47fb4/large.jpg",
         "title": "Bandai Namco Unleashes A New Dragon Ball: Sparking! ZERO Update For Switch And Switch 2 - Nintendo Life",
         "description": "And there's more on the way",
         "source_link": "https://www.nintendolife.com/news/2026/02/bandai-namco-unleashes-a-new-dragon-ball-sparking-zero-update-for-switch-and-switch-2"
+      },
+      {
+        "rank": 4,
+        "image": "https://i.pcmag.com/imagery/comparisons/03mXjcLMOLRrQfF7jojj9mD-item1.fit_lim.size_1200x630.v1771429406.jpg",
+        "title": "Google Pixel 10a vs Pixel 9a: Is Google's New Phone Worth the Upgrade? - PCMag",
+        "description": "The Google Pixel 10a is strikingly similar to its predecessor, the Pixel 9a. In fact, very little separates them. I had a chance to check out the 10a early\u2014here\u2019s what sets it apart from the 9a.",
+        "source_link": "https://www.pcmag.com/comparisons/google-pixel-10a-vs-pixel-9a-is-googles-new-phone-worth-the-upgrade"
       },
       {
         "rank": 5,
@@ -39,31 +39,31 @@
       },
       {
         "rank": 6,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/Google-Maps-Gemini-navigation-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google Maps \u2018limited view\u2019 now hides reviews, images for signed-out users - 9to5Google",
+        "description": "Google Maps is more than just a navigation app, as it contains a treasure trove of data about locations across...",
+        "source_link": "http://9to5google.com/2026/02/18/google-maps-limited-view-signed-out/"
+      },
+      {
+        "rank": 7,
         "image": "https://www.androidauthority.com/wp-content/uploads/2023/09/Apple-Logo-Apple-Store-BKC-scaled.jpg",
         "title": "Apple aims to make the iPhone irreplaceable with its wearables and Android needs to be ready - Android Authority",
         "description": "A new report offers new details regarding Apple's plans for its upcoming AI wearables and the progress it has made so far.",
         "source_link": "https://www.androidauthority.com/apple-smart-glasses-airpods-pendant-3642185/"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://comicbook.com/wp-content/uploads/sites/4/2024/12/nintendo-switch-online.png?resize=2000,1125",
         "title": "Nintendo Switch Online Just Added 7 Classic Games at Once - ComicBook.com",
         "description": "Nintendo Switch Online subscribers just got a massive new wave of games, with more potentially arriving next week.",
         "source_link": "http://comicbook.com/gaming/news/nintendo-switch-online-games-new-virtual-boy/"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://regmedia.co.uk/2018/07/23/robot_playing_piano.jpg",
         "title": "Gemini will now generate musical slop for users - theregister.com",
         "description": ": Who needs to express themselves through music when a bot will do it for you with nothing but a prompt?",
         "source_link": "https://www.theregister.com/2026/02/18/google_musical_slop/"
-      },
-      {
-        "rank": 9,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/Drop-In_PR_Horizontal.png?w=1200",
-        "title": "A startup called Germ becomes the first private messenger that launches directly from Bluesky's app - TechCrunch",
-        "description": "Social network Bluesky now offers private messaging by integrating the startup Germ's E2E encrypted messenger natively in its app.",
-        "source_link": "https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app/"
       },
       {
         "rank": 10,
@@ -76,17 +76,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
-        "title": "Mercy",
-        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
-        "source_link": "https://www.themoviedb.org/movie/1236153"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
         "title": "28 Years Later: The Bone Temple",
         "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with J...",
         "source_link": "https://www.themoviedb.org/movie/1272837"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+        "title": "Mercy",
+        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
+        "source_link": "https://www.themoviedb.org/movie/1236153"
       },
       {
         "rank": 3,
@@ -111,17 +111,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/gaiMtK2ll6BLdK1qKFuZGDwwEuD.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/wOXc8stx1CLvM6GC0ABKfWOkbYw.jpg",
         "title": "Pavane",
         "description": "Three closed-off people working near a department store slowly open up, becoming each other\u2019s light through self-discovery and love....",
         "source_link": "https://www.themoviedb.org/movie/1268609"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/gaiMtK2ll6BLdK1qKFuZGDwwEuD.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
         "rank": 8,
