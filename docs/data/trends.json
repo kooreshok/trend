@@ -1,13 +1,13 @@
 {
-  "last_updated": "February 22, 2026, 10:20 UTC",
+  "last_updated": "February 22, 2026, 11:18 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/03/google-search-widget-shortcut-features-weather.jpg?w=1600&h=900&fit=crop",
-        "title": "Google Weather for Android is finally saying goodbye - Android Police",
-        "description": "Not what we like to see",
-        "source_link": "https://www.androidpolice.com/google-weather-app-for-android-on-its-way-out/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/IMG_5329.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+        "title": "Anker\u2019s X1 Pro shouldn\u2019t exist, but I\u2019m so glad it does - The Verge",
+        "description": "Anker\u2019s Soundcore Nebula X1 Pro is a 400W Dolby Atmos party speaker combined with a very bright 4K, nearly-silent projector running Google TV.",
+        "source_link": "https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1"
       },
       {
         "rank": 2,
@@ -18,45 +18,45 @@
       },
       {
         "rank": 3,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/02/dice_spencer-1152x648.jpg",
+        "title": "Microsoft gaming chief Phil Spencer steps down after 38 years with company - Ars Technica",
+        "description": "Microsoft CoreAI exec Asha Sharma will take over in surprise executive shake-up.",
+        "source_link": "https://arstechnica.com/gaming/2026/02/microsoft-gaming-chief-phil-spencer-steps-down-after-38-years-with-company/"
+      },
+      {
+        "rank": 4,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2260552299-1024x648.jpg",
         "title": "Fury over Discord\u2019s age checks explodes after shady Persona test in UK - Ars Technica",
         "description": "Persona confirmed all age-check data from Discord's UK test was deleted.",
         "source_link": "https://arstechnica.com/tech-policy/2026/02/discord-and-persona-end-partnership-after-shady-uk-age-test-sparks-outcry/"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://images.macrumors.com/t/_r3EKijswZhEo9czSROBvlN1jcU=/2500x/article-new/2025/12/Low-Cost-A18-Pro-MacBook-Feature-Pink.jpg",
         "title": "Apple's Low-Cost Colorful MacBook: All the Rumors - MacRumors",
         "description": "Apple has been developing a more affordable version of the MacBook, and it's rumored to be launching in under two weeks. This is going to be one...",
         "source_link": "https://www.macrumors.com/2026/02/20/low-cost-macbook-latest-rumors/"
       },
       {
-        "rank": 5,
-        "image": "https://images.nintendolife.com/b685fb4818de1/large.jpg",
-        "title": "NieR:Automata \"To Be Continued\" As Sales Hit Another Milestone - Nintendo Life",
-        "description": "10,000,000.0000000 (and counting)",
-        "source_link": "https://www.nintendolife.com/news/2026/02/nierautomata-to-be-continued-as-sales-hit-another-milestone"
+        "rank": 6,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-2-scaled.jpg",
+        "title": "Android malware is now using Gemini AI to adapt in real time (Updated: Google statement) - Android Authority",
+        "description": "Researchers say PromptSpy is the first Android malware to use generative AI during execution, querying Gemini to stay on a device.",
+        "source_link": "https://www.androidauthority.com/android-malware-promptspy-uses-generative-ai-gemini-3642832/"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://cdn.mos.cms.futurecdn.net/RaXCcParPwJcXFtwDH9HML-2560-80.jpg",
         "title": "We asked what AI chatbot you prefer to use, and the top answer may surprise you - Android Central",
         "description": "Neither Gemini nor ChatGPT is the top choice for preferred AI chatbot in our latest poll.",
         "source_link": "https://www.androidcentral.com/apps-software/ai/poll-results-what-ai-chatbot-you-prefer-to-use-the-top-answer-may-surprise-you"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt484e1819eeee53d4/6998456070b1a400086b8a2c/fpdbat.jpg",
         "title": "Xbox Drops 5 Limited-Time Free Games, Includes 2025 AAA Hit - GAMINGbible",
         "description": "Microsoft has launched the latest Free Play Days event on Xbox, dropping 5 free games with the line-up, including a AAA 2025 hit.",
         "source_link": "https://www.gamingbible.com/news/platform/xbox/xbox-5-limited-time-free-games-2025-aaa-675151-20260220"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.sciencealert.com/images/2026/02/endoplasmic-reticulum-1.jpg",
-        "title": "Scientists May Have Found The Key Cellular Process Behind Aging in Animals - ScienceAlert",
-        "description": "A study on worms led by researchers from Vanderbilt University School of Medicine in the US has uncovered a previously unknown adaptation to aging that actively remodels one of the largest and most complex structures in our cells.",
-        "source_link": "https://www.sciencealert.com/scientists-may-have-found-the-key-cellular-process-behind-aging-in-animals"
       },
       {
         "rank": 9,
@@ -64,22 +64,29 @@
         "title": "The Best New Gadgets and Hi-Fi Releases of 2026 (Updated) - Gear Patrol",
         "description": "The best tech products announced this week include Sony's new flagship wireless earbuds and JBL's audiophile-grade loudspeakers.",
         "source_link": "https://www.gearpatrol.com/audio/best-tech-audio-hi-fi-releases-2026-february-week-3/"
+      },
+      {
+        "rank": 10,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/Google-Home-Speaker-Berry4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "As Google Home Speaker reboot nears, OpenAI reportedly launching smart speaker with camera - 9to5Google",
+        "description": "OpenAI is apparently working on a new smart speaker due to launch in 2027, according to a new report. The...",
+        "source_link": "http://9to5google.com/2026/02/20/openai-smart-speaker-camera-report/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
-        "title": "28 Years Later: The Bone Temple",
-        "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with J...",
-        "source_link": "https://www.themoviedb.org/movie/1272837"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
         "title": "Mercy",
         "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
         "source_link": "https://www.themoviedb.org/movie/1236153"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+        "title": "28 Years Later: The Bone Temple",
+        "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with J...",
+        "source_link": "https://www.themoviedb.org/movie/1272837"
       },
       {
         "rank": 3,
@@ -104,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-        "title": "Marty Supreme",
-        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/wOXc8stx1CLvM6GC0ABKfWOkbYw.jpg",
-        "title": "Pavane",
-        "description": "Three lonely strangers meet at their department store jobs and find solace in each other's company while they explore connection and the nature of lov...",
-        "source_link": "https://www.themoviedb.org/movie/1268609"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/hGH8Ji7pG2ytHxo7ABqHM3TpzFA.jpg",
         "title": "The Dreadful",
         "description": "In medieval England, Anne and her domineering mother-in-law Morwen struggle to survive on the outskirts of society. But when a man from Anne's past re...",
         "source_link": "https://www.themoviedb.org/movie/1242937"
       },
       {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "title": "The Housemaid",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/wOXc8stx1CLvM6GC0ABKfWOkbYw.jpg",
+        "title": "Pavane",
+        "description": "Three lonely strangers meet at their department store jobs and find solace in each other's company while they explore connection and the nature of lov...",
+        "source_link": "https://www.themoviedb.org/movie/1268609"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+        "title": "Marty Supreme",
+        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
+        "image": "https://image.tmdb.org/t/p/w200/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
+        "title": "Hellfire",
+        "description": "A drifter with a mysterious past arrives in a small town and finds the residents in the grip of a ruthless crime boss and realizes he has to help them...",
+        "source_link": "https://www.themoviedb.org/movie/1088434"
       }
     ]
   }
