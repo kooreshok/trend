@@ -1,5 +1,5 @@
 {
-  "last_updated": "February 22, 2026, 07:32 UTC",
+  "last_updated": "February 22, 2026, 08:27 UTC",
   "categories": {
     "tech_news": [
       {
@@ -125,17 +125,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/y5EyBB1FIjDAtsIgwNuxEC9caVF.jpg",
-        "title": "The Swedish Connection",
-        "description": "Swedish Foreign Ministry bureaucrat G\u00f6sta Engzell, overlooked during WWII, rescued thousands while turning supposedly neutral Sweden into a moral forc...",
-        "source_link": "https://www.themoviedb.org/movie/1261188"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/y5EyBB1FIjDAtsIgwNuxEC9caVF.jpg",
+        "title": "The Swedish Connection",
+        "description": "Swedish Foreign Ministry bureaucrat G\u00f6sta Engzell, overlooked during WWII, rescued thousands while turning supposedly neutral Sweden into a moral forc...",
+        "source_link": "https://www.themoviedb.org/movie/1261188"
       }
     ]
   }
