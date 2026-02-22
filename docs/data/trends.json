@@ -1,76 +1,69 @@
 {
-  "last_updated": "February 22, 2026, 04:13 UTC",
+  "last_updated": "February 22, 2026, 05:47 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/03/google-search-widget-shortcut-features-weather.jpg?w=1600&h=900&fit=crop",
+        "title": "Google Weather for Android is finally saying goodbye - Android Police",
+        "description": "Not what we like to see",
+        "source_link": "https://www.androidpolice.com/google-weather-app-for-android-on-its-way-out/"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.bgr.com/img/gallery/why-theres-simply-no-need-for-a-password-manager-anymore/l-intro-1771313773.jpg",
+        "title": "Why There's Simply No Need For A Password Manager Anymore - bgr.com",
+        "description": "With OS-level password managers, passkeys, and biometric authentication technology, there's no longer much need for third-party password managers.",
+        "source_link": "https://www.bgr.com/2102887/why-no-one-needs-password-managers-anymore/"
+      },
+      {
+        "rank": 3,
         "image": "https://variety.com/wp-content/uploads/2026/02/Asha-Sharma-Microsoft-Gaming.jpg?crop=97px%2C0px%2C1568px%2C881px&resize=1000%2C563",
         "title": "New Microsoft Gaming, Xbox CEO: Asha Sharma on Great Games, AI Use - Variety",
         "description": "It's the dawn of a new era for Xbox. New Microsoft Gaming CEO Asha Sharma discusses \"great games,\" not tolerating \"bad AI\" and replacing Phil Spencer.",
         "source_link": "https://variety.com/2026/gaming/news/new-microsoft-gaming-ceo-asha-sharma-xbox-games-ai-1236668829/"
       },
       {
-        "rank": 2,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/new-google-weather-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "The Google Weather Android \u2018app\u2019 is going away - 9to5Google",
-        "description": "Google is getting rid of Android\u2019s de facto Weather app in favor of Search results.\u00a0This deprecation started...",
-        "source_link": "http://9to5google.com/2026/02/20/google-weather-app-android-deprecation/"
-      },
-      {
-        "rank": 3,
+        "rank": 4,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2260552299-1024x648.jpg",
         "title": "Fury over Discord\u2019s age checks explodes after shady Persona test in UK - Ars Technica",
         "description": "Persona confirmed all age-check data from Discord's UK test was deleted.",
         "source_link": "https://arstechnica.com/tech-policy/2026/02/discord-and-persona-end-partnership-after-shady-uk-age-test-sparks-outcry/"
       },
       {
-        "rank": 4,
-        "image": "https://image.cnbcfm.com/api/v1/image/108044118-1728312212823-gettyimages-1529890216-Outages.jpeg?v=1771616082&w=1920&h=1080",
-        "title": "The chart on this generator stock signals more gains ahead, says Carter Worth - CNBC",
-        "description": "Carter Worth breaks down the technicals on this generator maker.",
-        "source_link": "https://www.cnbc.com/2026/02/20/the-chart-on-this-generator-stock-signals-more-gains-ahead-says-carter-worth.html"
+        "rank": 5,
+        "image": "https://images.macrumors.com/t/_r3EKijswZhEo9czSROBvlN1jcU=/2500x/article-new/2025/12/Low-Cost-A18-Pro-MacBook-Feature-Pink.jpg",
+        "title": "Apple's Low-Cost Colorful MacBook: All the Rumors - MacRumors",
+        "description": "Apple has been developing a more affordable version of the MacBook, and it's rumored to be launching in under two weeks. This is going to be one...",
+        "source_link": "https://www.macrumors.com/2026/02/20/low-cost-macbook-latest-rumors/"
       },
       {
-        "rank": 5,
+        "rank": 6,
+        "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt484e1819eeee53d4/6998456070b1a400086b8a2c/fpdbat.jpg",
+        "title": "Xbox Drops 5 Limited-Time Free Games, Includes 2025 AAA Hit - GAMINGbible",
+        "description": "Microsoft has launched the latest Free Play Days event on Xbox, dropping 5 free games with the line-up, including a AAA 2025 hit.",
+        "source_link": "https://www.gamingbible.com/news/platform/xbox/xbox-5-limited-time-free-games-2025-aaa-675151-20260220"
+      },
+      {
+        "rank": 7,
         "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/02/best-new-gear-lead-feb-20-1.webp",
         "title": "The Best New Gadgets and Hi-Fi Releases of 2026 (Updated) - Gear Patrol",
         "description": "The best tech products announced this week include Sony's new flagship wireless earbuds and JBL's audiophile-grade loudspeakers.",
         "source_link": "https://www.gearpatrol.com/audio/best-tech-audio-hi-fi-releases-2026-february-week-3/"
       },
       {
-        "rank": 6,
+        "rank": 8,
+        "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/02/nier-automata-screenshot.jpg?resize=1200,630",
+        "title": "GOTY-Winning PS4 RPG Finally Getting PS5 Sequel - PlayStation LifeStyle",
+        "description": "One of the PlayStation 4's best role-playing games of all time got some huge news today, with Square Enix revealing some big news.",
+        "source_link": "https://www.playstationlifestyle.net/2026/02/20/goty-winning-ps4-rpg-finally-getting-ps5-sequel/"
+      },
+      {
+        "rank": 9,
         "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-comeback-2026.jpg",
         "title": "Rayman: 30th Anniversary Edition is the \u201cfirst step\u201d in series\u2019 comeback, more news soon - Nintendo Everything",
         "description": "Ubisoft has more in store for Rayman, according to CEO Yves Guillemot. Rayman has mostly been absent in recent years. While we\u2019ve seen him here and there \u2013 such as in the Mario + Rabbids Sparks of Hope DLC \u2013 the last big new game was Rayman Legends, which rel\u2026",
         "source_link": "https://nintendoeverything.com/rayman-30th-anniversary-edition-is-the-first-step-in-series-comeback-more-news-soon/"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets.2k.com/1a6ngf98576c/4zXpfbA9xO397sI262TrDm/6bbefd7d76850e74bcfda880dd76cf10/BL4_KA.png",
-        "title": "Bounty Pack 2 Vault Card - Borderlands | Official Website",
-        "description": "Venture into the heart of the mountains in this paid DLC coming February 26.",
-        "source_link": "https://borderlands.2k.com/borderlands-4/news/bounty-pack-2/"
-      },
-      {
-        "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/Pagen-Min-from-Far-Cry-4-looks-disappointed-as-he-sits-on-the-roadside-infront-of-a-burning-barrel.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Ubisoft confirms a lot of new Far Cry and Assassin's Creed games are in development - Eurogamer",
-        "description": "Ubisoft has not one, but two Far Cry games currently in development.",
-        "source_link": "https://www.eurogamer.net/ubisoft-confirms-a-lot-of-new-far-cry-and-assassins-creed-games-are-in-development"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.macrumors.com/t/i45pIv3J9hVw5S1yOfw1UeoER88=/1888x/article-new/2026/02/Apple-Announces-Special-Event-in-New-York-Feature-1.jpg",
-        "title": "Three Upcoming Apple Products Seemingly Spotted in macOS 26.3 Code - MacRumors",
-        "description": "macOS 26.3 hints at Apple's rumored lower-cost MacBook, and two new Studio Display models, according to Macworld's Filipe Esp\u00f3sito.  ...",
-        "source_link": "https://www.macrumors.com/2026/02/20/macos-26-3-code-three-new-apple-products/"
-      },
-      {
-        "rank": 10,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/carplay-ultra-ios-26-aston.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "CarPlay just got a big upgrade, and iOS 26.4 delivers even more - 9to5Mac",
-        "description": "iOS 26 brought some of the biggest CarPlay changes in years, and now iOS 26.4 goes even further, revealing a refocus by Apple on CarPlay.",
-        "source_link": "https://9to5mac.com/2026/02/20/carplay-just-got-a-big-upgrade-and-ios-26-4-delivers-even-more/"
       }
     ],
     "trending_movies": [
@@ -111,10 +104,10 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/y5EyBB1FIjDAtsIgwNuxEC9caVF.jpg",
-        "title": "The Swedish Connection",
-        "description": "Swedish Foreign Ministry bureaucrat G\u00f6sta Engzell, overlooked during WWII, rescued thousands while turning supposedly neutral Sweden into a moral forc...",
-        "source_link": "https://www.themoviedb.org/movie/1261188"
+        "image": "https://image.tmdb.org/t/p/w200/hGH8Ji7pG2ytHxo7ABqHM3TpzFA.jpg",
+        "title": "The Dreadful",
+        "description": "In medieval England, Anne and her domineering mother-in-law Morwen struggle to survive on the outskirts of society. But when a man from Anne's past re...",
+        "source_link": "https://www.themoviedb.org/movie/1242937"
       },
       {
         "rank": 7,
@@ -125,24 +118,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/hGH8Ji7pG2ytHxo7ABqHM3TpzFA.jpg",
-        "title": "The Dreadful",
-        "description": "In medieval England, Anne and her domineering mother-in-law Morwen struggle to survive on the outskirts of society. But when a man from Anne's past re...",
-        "source_link": "https://www.themoviedb.org/movie/1242937"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
         "title": "Marty Supreme",
         "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/y5EyBB1FIjDAtsIgwNuxEC9caVF.jpg",
+        "title": "The Swedish Connection",
+        "description": "Swedish Foreign Ministry bureaucrat G\u00f6sta Engzell, overlooked during WWII, rescued thousands while turning supposedly neutral Sweden into a moral forc...",
+        "source_link": "https://www.themoviedb.org/movie/1261188"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
+        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
       }
     ]
   }
