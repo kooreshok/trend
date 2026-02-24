@@ -1,76 +1,76 @@
 {
-  "last_updated": "February 24, 2026, 12:57 UTC",
+  "last_updated": "February 24, 2026, 14:11 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assetsio.gnwcdn.com/PokemonFRLG_01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "The Pok\u00e9mon FireRed and LeafGreen Switch re-release is already topping the eShop charts, even as Nintendo mysteriously removes mention of Home compatibility - Eurogamer",
+        "description": "The Pok\u00e9mon FireRed and LeafGreen Switch re-release might not get Home support after all, or maybe it just isn't ready yet.",
+        "source_link": "https://www.eurogamer.net/pokemon-fire-red-leaf-green-switch-home-support-mention-deleted"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.nintendolife.com/7e0261122158b/large.jpg",
+        "title": "UK Charts: Mario Tennis Fever Gets Lobbed By Old Favourites - Nintendo Life",
+        "description": "Serve and turf",
+        "source_link": "https://www.nintendolife.com/news/2026/02/uk-charts-mario-tennis-fever-gets-lobbed-by-old-favourites"
+      },
+      {
+        "rank": 3,
+        "image": "https://assets-prd.ignimgs.com/2026/02/23/asha-sharma-1-1771840590029.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "'Beep Boop Beep Boop': New Xbox Boss Asha Sharma Hits Back at Claim Her Social Media Account Is Run by AI, and Posts Her Gamertag - IGN",
+        "description": "Microsoft's new gaming boss Asha Sharma has begun chatting on social media with Xbox fans \u2014 and responding to comments regarding her perceived lack of gaming knowledge and background in AI.",
+        "source_link": "https://www.ign.com/articles/beep-boop-beep-boop-new-xbox-boss-asha-sharma-hits-back-at-claim-her-social-media-account-is-run-by-ai-and-posts-her-gamertag"
+      },
+      {
+        "rank": 4,
+        "image": null,
+        "title": "Whatever you do, don't buy a Samsung Galaxy S phone right now - Android Authority",
+        "description": null,
+        "source_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaE9CRHJIdlZ0VkxVTDg3S0dsQmRPNlgwVWRpWHd1RW1sNEN5MkdHWjRRNENfalpBZW5iRlR2d3lTWVFDRWN0SzRFZzVFTXNlN0wtODh6QnFuUWVBektta3hSVXNHWkRVVk5sRjJuYW8tNjBCTVd3T2ctUGtJVDI1VlNqYWJaM0h1YnRhVVRIN3pqY1U5V1NISENwUEtmZw?oc=5"
+      },
+      {
+        "rank": 5,
+        "image": "https://images.nintendolife.com/ebb53458860ae/large.jpg",
+        "title": "Resident Evil Requiem Leakers Deserve \"A Thousand Deaths\", Says Hideki Kamiya - Nintendo Life",
+        "description": "Bit extreme, don't you think?",
+        "source_link": "https://www.nintendolife.com/news/2026/02/resident-evil-requiem-leakers-deserve-a-thousand-deaths-says-hideki-kamiya"
+      },
+      {
+        "rank": 6,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/wispr-flow-android-3.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "\u2018Flow\u2019 dramatically improves Android voice typing without replacing Gboard - 9to5Google",
         "description": "Voice-to-text on Android is really good if you\u2019re using a Pixel, and pretty hit or miss everywhere else. But the...",
         "source_link": "http://9to5google.com/2026/02/23/flow-dramatically-improves-android-voice-typing-without-replacing-gboard/"
       },
       {
-        "rank": 2,
+        "rank": 7,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/02/Samsung-Galaxy-S25-Ultra-s-pen-half-out.jpg",
+        "title": "Early Galaxy S26 Ultra hands-on video reveals bad news for S Pen fans - Android Authority",
+        "description": "The Samsung Galaxy S25 Ultra doesn't have a Bluetooth S Pen, and it looks like the same fate may have befallen the Galaxy S26 Ultra.",
+        "source_link": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-bluetooth-s-pen-leak-3643067/"
+      },
+      {
+        "rank": 8,
         "image": "https://www.yankodesign.com/images/design_news/2026/02/3-in-1-portable-laptop-monitor-lets-you-multitask-and-vibe-code-on-steroids/maghub_quad_max_1.jpeg",
         "title": "Forget a Second Screen, This $799 Portable Monitor Adds Three 18.5-Inch Displays to Your Laptop - Yanko Design",
         "description": "The average laptop screen sits somewhere between 13 and 15.6 inches, which sounds perfectly reasonable until you start juggling four browser tabs, a Figma file",
         "source_link": "https://www.yankodesign.com/2026/02/22/forget-a-second-screen-this-799-portable-monitor-adds-three-18-5-inch-displays-to-your-laptop/"
       },
       {
-        "rank": 3,
+        "rank": 9,
         "image": "https://www.slashgear.com/img/gallery/4-things-you-didnt-know-hdmi-ports-can-do/l-intro-1771431313.jpg",
         "title": "4 Things You Didn't Know HDMI Ports Can Do - SlashGear",
         "description": "HDMI ports can unlock enhanced video modes, auto game mode switching, 4K at 120Hz with VRR, and high-quality audio via eARC.",
         "source_link": "https://www.slashgear.com/2104457/things-you-didnt-know-hdmi-ports-can-do/"
       },
       {
-        "rank": 4,
+        "rank": 10,
         "image": "https://www.slashgear.com/img/gallery/the-fbi-says-these-wi-fi-routers-are-unsafe-and-heres-why/l-intro-1771433236.jpg",
         "title": "The FBI Says These Wi-Fi Routers Are Unsafe, And Here's Why - SlashGear",
         "description": "The FBI has named a series of Wi-Fi routers as being unsafe. If you're using a router from this brand, you might want to check if yours is one of the models.",
         "source_link": "https://www.slashgear.com/2104404/wifi-routers-unsafe-fbi-warning/"
-      },
-      {
-        "rank": 5,
-        "image": "https://images.macrumors.com/t/RQXx89jTNFavi6hhdF7mKFC6JYw=/2500x/article-new/2026/02/iOS-26.3.1-Feature.jpg",
-        "title": "iOS 26.3.1 Update for iPhones Coming Soon as 'Apple Experience' Nears - MacRumors",
-        "description": "Apple's software engineers are testing iOS 26.3.1, according to the MacRumors visitor logs, which have been a reliable indicator of upcoming iOS...",
-        "source_link": "https://www.macrumors.com/2026/02/22/ios-26-3-1-coming-soon/"
-      },
-      {
-        "rank": 6,
-        "image": "https://regmedia.co.uk/2024/10/08/shutterstock_linus.jpg",
-        "title": "Linus Torvalds jokingly ponders his successor as Linux boss - theregister.com",
-        "description": ": Emperor Penguin releases kernel 7.0 rc1 with some numerological musings",
-        "source_link": "https://www.theregister.com/2026/02/23/linux_7_0_rc1/"
-      },
-      {
-        "rank": 7,
-        "image": "https://supercarblondie.com/wp-content/uploads/ethernet-1.webp",
-        "title": "This is why you should stop connecting your Smart TV to WiFi and what you should do instead - supercarblondie.com",
-        "description": "If your Smart TV struggles to stream flawlessly, it could be because your WiFi signal isn\u2019t quite up to the job, but there is another way",
-        "source_link": "https://supercarblondie.com/tech/stop-connecting-smart-tv-wifi/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.jalopnik.com/img/gallery/jay-leno-owns-the-katharine-hepburn-bugatti-and-thats-not-even-the-interesting-part/l-intro-1771501724.jpg",
-        "title": "Jay Leno Owns The Katharine Hepburn Bugatti And That's Not Even The Interesting Part - Jalopnik",
-        "description": "Jay Leno's Bugatti T38A starred in 'Christopher Strong' with Katherine Hepburn and several other films \u2014 but its story goes far beyond Hollywood.",
-        "source_link": "https://www.jalopnik.com/2105042/jay-leno-katharine-hepburn-bugatti/"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-hands-on-leak-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Someone bought a Galaxy S26 Ultra early, showing Privacy Display in action, more [Gallery] - 9to5Google",
-        "description": "Samsung\u2019s Galaxy S26 launch is just days away but, somehow, one YouTuber managed to buy a Galaxy S26 Ultra early...",
-        "source_link": "http://9to5google.com/2026/02/22/samsung-galaxy-s26-ultra-early-leak/"
-      },
-      {
-        "rank": 10,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/01/iphone-17-air-pro-apple.jpg?resize=1200,800",
-        "title": "Apple might take a new approach to announcing its next products - TechCrunch",
-        "description": "Apple has invited the tech press to a \u201cspecial Apple experience\u201d on March 4, but it might unfold a bit differently than the company's standard press event.",
-        "source_link": "https://techcrunch.com/2026/02/22/apple-might-take-a-new-approach-to-announcing-its-next-products/"
       }
     ],
     "trending_movies": [
@@ -90,17 +90,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
-        "title": "Mercy",
-        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
-        "source_link": "https://www.themoviedb.org/movie/1236153"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
         "title": "Scream 7",
         "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
         "source_link": "https://www.themoviedb.org/movie/1159559"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+        "title": "Mercy",
+        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
+        "source_link": "https://www.themoviedb.org/movie/1236153"
       },
       {
         "rank": 5,
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+        "title": "\"Wuthering Heights\"",
+        "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
+        "source_link": "https://www.themoviedb.org/movie/1316092"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
         "title": "Marty Supreme",
         "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
         "title": "One Mile: Chapter One",
         "description": "After being released from prison, a father tries to reconnect with his daughter by taking her on a tour of college, but they soon find themselves figh...",
         "source_link": "https://www.themoviedb.org/movie/1327688"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/hGH8Ji7pG2ytHxo7ABqHM3TpzFA.jpg",
-        "title": "The Dreadful",
-        "description": "In medieval England, Anne and her domineering mother-in-law Morwen struggle to survive on the outskirts of society. But when a man from Anne's past re...",
-        "source_link": "https://www.themoviedb.org/movie/1242937"
-      },
-      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
+        "image": "https://image.tmdb.org/t/p/w200/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg",
+        "title": "Firebreak",
+        "description": "Little Lide disappears in the forest while her family packs up their home. As a fire breaks out, her mother must race to reach her before the flames d...",
+        "source_link": "https://www.themoviedb.org/movie/1428862"
       }
     ]
   }
