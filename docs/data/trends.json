@@ -1,76 +1,69 @@
 {
-  "last_updated": "February 24, 2026, 20:30 UTC",
+  "last_updated": "February 24, 2026, 21:30 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/sharma-1152x648.jpg",
-        "title": "New Microsoft gaming chief has \"no tolerance for bad AI\" - Ars Technica",
-        "description": "But Asha Sharma faces scrutiny for lack of gaming experience.",
-        "source_link": "https://arstechnica.com/gaming/2026/02/new-microsoft-gaming-chief-has-no-tolerance-for-bad-ai/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012264/vpavic_4275_20201030_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Billions of dollars later and still nobody knows what an Xbox is - The Verge",
+        "description": "With leadership changes at Xbox, including the retirement of Phil Spencer, it\u2019s unclear where Microsoft\u2019s gaming division goes from here.",
+        "source_link": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass"
       },
       {
         "rank": 2,
+        "image": "https://www.trueachievements.com/imgs/172016/king-of-meat-servers-to-close-and-all-owners-will-be-refunded.jpg",
+        "title": "Amazon shutting down another online-only game and refunding Xbox players - TrueAchievements",
+        "description": "Amazon Games and Glowmade are shutting down the King of Meat servers soon, which will discontinue all Xbox achievements in the dungeon crawler.",
+        "source_link": "https://www.trueachievements.com/news/king-of-meat-servers"
+      },
+      {
+        "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2026/02/slay-the-spire-2-e1771863603398.jpg",
+        "title": "Indie Games Yeet Themselves Out Of Slay The Spire 2's Way - Kotaku",
+        "description": "No one wants to be in the deckbuilding roguelike juggernaut's way on Steam",
+        "source_link": "https://kotaku.com/slay-spire-2-steam-roguelike-delay-2000672790"
+      },
+      {
+        "rank": 4,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/acme_weather2.jpg?quality=90&strip=all&crop=0%2C10.720554088791%2C100%2C78.558891822417&w=1200",
         "title": "The creators of Dark Sky have a new weather app that shares multiple predictions - The Verge",
         "description": "The creators of Dark Sky have released Acme Weather for iOS, a new weather app that provides alternative predictions to its primary forecast.",
         "source_link": "https://www.theverge.com/tech/883089/acme-weather-forecast-app-ios-dark-sky-creators-subscription"
       },
       {
-        "rank": 3,
-        "image": "https://kotaku.com/app/uploads/2025/06/4b4525ca641eded69a76077c2d90102a-1200x675.jpg",
-        "title": "Ubisoft Taps 3 Assassin's Creed Black Flag Vets To Lead Franchise - Kotaku",
-        "description": "Ubisoft has picked three developers with a long history on Assassin's Creed to lead its future at Vantage Studios",
-        "source_link": "https://kotaku.com/assassins-creed-black-flag-vets-leading-frnachise-series-vantage-new-games-2000672792"
+        "rank": 5,
+        "image": "https://images.macrumors.com/t/P6o_sCTViql2FdQGH-vv-sg5FGU=/2000x/article-new/2025/09/iphone-17-cameras-zoom.jpg",
+        "title": "iPhone 18 Pro to Revive Feature Samsung Dropped Years Ago - MacRumors",
+        "description": "Apple's iPhone 18 Pro and iPhone 18 Pro Max are expected to resurrect a major feature Samsung's flagship Galaxy smartphones dropped years...",
+        "source_link": "https://www.macrumors.com/2026/02/23/iphone-18-pro-feature-samsung-dropped/"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://images.nintendolife.com/67abd8e026ba1/large.jpg",
         "title": "Fans Are Asking Nintendo To Refund Xenoblade Chronicles X's Switch 2 Upgrade - Nintendo Life",
         "description": "Potential upscaling issues are being called out",
         "source_link": "https://www.nintendolife.com/news/2026/02/fans-are-asking-nintendo-to-refund-xenoblade-chronicles-xs-switch-2-upgrade"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://kotaku.com/app/uploads/2025/02/f703a66e41a704d67d853e45ed0cfaed-1200x675.jpg",
+        "title": "Pok\u00e9mon FireRed And LeafGreen Are Topping The eShop Charts Despite Price Backlash - Kotaku",
+        "description": "The Switch ports of the GBA games have people debating game prices again",
+        "source_link": "https://kotaku.com/pokemon-firered-leafgreen-switch-price-release-date-2000672803"
+      },
+      {
+        "rank": 8,
         "image": "https://images.pushsquare.com/57e5a3cb55776/large.jpg",
         "title": "First PS Plus Essential Game for March 2026 Leaked Early - Push Square",
         "description": "Forward, March",
         "source_link": "https://www.pushsquare.com/news/2026/02/first-ps-plus-essential-game-for-march-2026-leaked-early"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://assets-prd.ignimgs.com/2026/02/19/ps5-sale-ps-direct-new-ign-2-1771504431766.png?width=1280&format=jpg&auto=webp&quality=80",
         "title": "PlayStation is Having a Big Sale on PS5 Games, Accessories and More at PS Direct This Week - IGN",
         "description": "You can currently save on PS5 games, accessories, and more in a brand new promotional sale at PS Direct this week.",
         "source_link": "https://www.ign.com/articles/playstation-launches-a-brand-new-promotional-sale-on-ps5-games-accessories-and-more"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/Dino-Crisis_Regina.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "\"Game preservation only works if people care\" As GOG doubles down on its commitment to saving old games, it's asking players \"who give a s**t\" to support its crusade - Eurogamer",
-        "description": "Digital game distribution and preservation platform GOG is asking players for support going into the future as it expands its efforts.",
-        "source_link": "https://www.eurogamer.net/gog-asks-for-support-regarding-game-preservation-efforts"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.huntshowdown.com/files/news/Blog_1920x1080222.jpg",
-        "title": "Celebrating 8 years of Hunt! - huntshowdown.com",
-        "description": "Hunt: Showdown is a competitive first-person PvP bounty hunting game with heavy PvE elements. Set in the darkest corners of the world, Hunt packs the thrill of survival games into a match-based format.",
-        "source_link": "https://www.huntshowdown.com/detailed"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.unsplash.com/photo-1557200134-90327ee9fafa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fGluYm94fGVufDB8fHx8MTc3MTg1OTg0OXww&ixlib=rb-4.1.0&q=80&w=2000",
-        "title": "Meta Director of AI Safety Allows AI Agent to Accidentally Delete Her Inbox - 404 Media",
-        "description": "Meta Superintelligence Labs\u2019 director of alignment called it a \u201crookie mistake.\u201d",
-        "source_link": "https://www.404media.co/meta-director-of-ai-safety-allows-ai-agent-to-accidentally-delete-her-inbox/"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/02/Nacon-Connect-Ann_02-23-26.jpg",
-        "title": "Nacon Connect 2026 set for March 4 - Gematsu",
-        "description": "Nacon will host Nacon Connect 2026 on March 4 at 11:00 a.m. PT / 2:00 p.m. ET, the company announced. You will be able to watch it on YouTube and Twitch.",
-        "source_link": "https://www.gematsu.com/2026/02/nacon-connect-2026-set-for-march-4"
       }
     ],
     "trending_movies": [
@@ -104,24 +97,24 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
-        "title": "Mercy",
-        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
-        "source_link": "https://www.themoviedb.org/movie/1236153"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
         "title": "Return to Silent Hill",
         "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
         "source_link": "https://www.themoviedb.org/movie/680493"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+        "title": "Mercy",
+        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
+        "source_link": "https://www.themoviedb.org/movie/1236153"
+      },
+      {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
+        "image": "https://image.tmdb.org/t/p/w200/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to \"hop\" human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
         "rank": 8,
@@ -132,17 +125,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to \"hop\" human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
+        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-        "title": "Marty Supreme",
-        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
+        "image": "https://image.tmdb.org/t/p/w200/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg",
+        "title": "Firebreak",
+        "description": "Little Lide disappears in the forest while her family packs up their home. As a fire breaks out, her mother must race to reach her before the flames d...",
+        "source_link": "https://www.themoviedb.org/movie/1428862"
       }
     ]
   }
