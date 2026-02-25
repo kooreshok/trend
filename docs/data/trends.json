@@ -1,76 +1,76 @@
 {
-  "last_updated": "February 25, 2026, 14:08 UTC",
+  "last_updated": "February 25, 2026, 15:58 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets.warhammer-community.com/40k_emailcomp-feb24-1-feature-l9hjvdgydj.jpg",
+        "title": "You could win a Captain Titus vs. Huron Blackheart face-off Combat Patrol bundle - Warhammer Community",
+        "description": "Enter in just a few short clicks \u2013 it\u2019s easy!",
+        "source_link": "https://www.warhammer-community.com/articles/3t4ojqii/you-could-win-a-captain-titus-vs-huron-blackheart-face-off-combat-patrol-bundle"
+      },
+      {
+        "rank": 2,
+        "image": "https://assets.warhammer-community.com/rumourengine-feb24-1-feature-7xz7kb8oso.jpg",
+        "title": "The Rumour Engine \u2013 24th of February - Warhammer Community",
+        "description": "What could it be?",
+        "source_link": "https://www.warhammer-community.com/articles/8h8u1nsa/the-rumour-engine-24th-of-february"
+      },
+      {
+        "rank": 3,
+        "image": "https://s.yimg.com/ny/api/res/1.2/S6PlD2UeIUlymcoAJv3TpA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/people_218/25d957ae1dca9c990d59ce9b8b66ead6",
+        "title": "Mom of 2 Died from Asbestos-Related Cancer After Hugging Her Dad as a Child Exposed Her to the Fibers - Yahoo News Singapore",
+        "description": "Elaine Ellery was exposed to asbestos on her father\u2019s work clothes as a child, which later resulted in her death at 67, a court was told on Feb. 16",
+        "source_link": "https://people.com/mom-died-from-asbestos-related-cancer-after-hugging-dad-as-child-exposed-her-fibers-11912763"
+      },
+      {
+        "rank": 4,
         "image": "https://assetsio.gnwcdn.com/phil-spencer-sarah-bond-xbox.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "\"Microsoft wants a turnaround and is worried about losing Xbox\" - Insider report paints a different picture of Phil Spencer's retirement and Sarah Bond's sudden departure - Eurogamer",
         "description": "Could this be a genuine reset and potential comeback?",
         "source_link": "https://www.eurogamer.net/xbox-insider-report-paints-different-picture-of-spencer-retirement-and-bond-departure"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
         "title": "Shrouded Sky - Patch Notes 1.17.0 - ARC Raiders",
         "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
         "source_link": "https://arcraiders.com/news/shrouded-sky-patch-notes-1-17-0"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://blog.tipranks.com/wp-content/uploads/2026/02/intel-shutterstock_2668546017-750x406.jpg",
         "title": "\u201cUnearthing Rationality\u201d: Intel Stock (NASDAQ:INTC) Dips as Nova Lake Gets Delayed - TipRanks",
         "description": "Bad news for those watching chip stock Intel ($INTC) emerged recently, as the Nova Lake line got hit with a bit of a delay. Reports note the chips will be",
         "source_link": "https://www.tipranks.com/news/unearthing-rationality-intel-stock-nasdaqintc-dips-as-nova-lake-gets-delayed"
       },
       {
-        "rank": 4,
+        "rank": 7,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/06/EU-smartphone-energy-label-showing-Pixel-9-Pro-XL-scaled.jpg",
+        "title": "Galaxy S26 series leak reveals a surprising downgrade for battery health - Android Authority",
+        "description": "Leaked Galaxy S26 EU labels suggest massive efficiency gains, but reveal a potential downgrade in long-term battery health and charge cycles.",
+        "source_link": "https://www.androidauthority.com/samsung-galaxy-s26-eu-label-leak-3643409/"
+      },
+      {
+        "rank": 8,
         "image": "https://cdn.mos.cms.futurecdn.net/d6iRrNAQeYiESHsFCyjoUK-2560-80.jpg",
         "title": "Gemini 3.1 Pro is a powerhouse for deep work \u2014 here are 7 prompts that prove it - Tom's Guide",
         "description": "Gemini 3.1 Pro is built for hard problems \u2014 here's how to unlock Gemini 3.1 Pro\u2019s best features",
         "source_link": "https://www.tomsguide.com/ai/gemini-3-1-pro-is-a-powerhouse-for-deep-work-here-are-7-prompts-that-prove-it"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://images.nintendolife.com/4f22d1095210f/large.jpg",
         "title": "Pok\u00e9mon FireRed And LeafGreen Are Already \"Best Sellers\" On The Switch eShop Charts - Nintendo Life",
         "description": "FireRed leads in top spot",
         "source_link": "https://www.nintendolife.com/news/2026/02/pokemon-firered-and-leafgreen-are-already-best-sellers-on-the-switch-eshop-charts"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/OnePlus-16-display-news.png",
         "title": "OnePlus 16 leak reveals sub-1 mm display bezels - Notebookcheck",
         "description": "The next-generation OnePlus flagship, expected to be called the OnePlus 16, has appeared in a fresh leak. It suggests the device could feature even thinner bezels than the OnePlus 15.",
         "source_link": "https://www.notebookcheck.net/OnePlus-16-leak-reveals-sub-1-mm-display-bezels.1232913.0.html"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2024/05/googles-find-hub-2.jpg",
-        "title": "The Galaxy S26 series may already be behind Pixel phones in one big way - Android Authority",
-        "description": "Logs posted by a Google employee confirm the Galaxy S26 Ultra does not support powered-off tracking via Google's Find Hub.",
-        "source_link": "https://www.androidauthority.com/galaxy-s26-find-offline-3643363/"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Pixel-all-colors.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google touts \u2018Pixel Colors Through the Years\u2019 \u2013 here\u2019s a look back [Gallery] - 9to5Google",
-        "description": "Before the next cycle begins, Google posted a fun \u201cPixel Colors Through the Years\u201d infographic today that...",
-        "source_link": "http://9to5google.com/2026/02/23/pixel-all-colors-10/"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.macrumors.com/t/53kqmWu4iOwYcrQNxKGfyO7t0mk=/2500x/article-new/2025/07/iPhone-17e-Feature-1.jpg",
-        "title": "What to Expect From the iPhone 17e Launching in March 2026 - MacRumors",
-        "description": "We've got just over a week to go until Apple's \"Special Experience\" on March 4, and we're expecting to see the iPhone 17e...",
-        "source_link": "https://www.macrumors.com/2026/02/23/iphone-17e-latest-rumors/"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.trueachievements.com/imgs/xl/113479/xbox-weekly-sales.jpg",
-        "title": "Xbox sale round-up February 24, 2026 - TrueAchievements",
-        "description": "New Xbox sales are now live, with big discounts on Atomic Heart, Dead Island 2, Saints Row IV: Re-Elected, Metro Exodus, Dead Island Definitive Edition, Metro: Last Light Redux, Tom Clancy's Ghost Recon: Future Soldier and more",
-        "source_link": "https://www.trueachievements.com/n61632/xbox-sale-roundup-february-24-2026"
       }
     ],
     "trending_movies": [
@@ -90,31 +90,31 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
-        "title": "Return to Silent Hill",
-        "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
-        "source_link": "https://www.themoviedb.org/movie/680493"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
         "title": "Scream 7",
         "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
         "source_link": "https://www.themoviedb.org/movie/1159559"
       },
       {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/dWIAOC9EKFehGs3CYvDQih3hxaG.jpg",
-        "title": "Toy Story 5",
-        "description": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime....",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
+        "title": "Return to Silent Hill",
+        "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
+        "source_link": "https://www.themoviedb.org/movie/680493"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
         "title": "Hamnet",
         "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
         "source_link": "https://www.themoviedb.org/movie/858024"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/dWIAOC9EKFehGs3CYvDQih3hxaG.jpg",
+        "title": "Toy Story 5",
+        "description": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime....",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
         "rank": 7,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/ipE3XiHqbSQm3HS0tJ09CDaJ2Fs.jpg",
+        "title": "Arco",
+        "description": "10-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age fr...",
+        "source_link": "https://www.themoviedb.org/movie/804370"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/hjre9SuECdBsuZ6KtKdFsnK2iRm.jpg",
         "title": "Dead Man's Wire",
         "description": "In 1977, former real estate developer Tony Kiritsis puts a dead man's switch on himself and the mortgage banker who did him wrong, demanding $5 millio...",
         "source_link": "https://www.themoviedb.org/movie/1263012"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
         "title": "Mercy",
         "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
         "source_link": "https://www.themoviedb.org/movie/1236153"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/ipE3XiHqbSQm3HS0tJ09CDaJ2Fs.jpg",
-        "title": "Arco",
-        "description": "10-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age fr...",
-        "source_link": "https://www.themoviedb.org/movie/804370"
       }
     ]
   }
