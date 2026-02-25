@@ -1,69 +1,76 @@
 {
-  "last_updated": "February 24, 2026, 23:27 UTC",
+  "last_updated": "February 25, 2026, 01:51 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012264/vpavic_4275_20201030_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Billions of dollars later and still nobody knows what an Xbox is - The Verge",
-        "description": "With leadership changes at Xbox, including the retirement of Phil Spencer, it\u2019s unclear where Microsoft\u2019s gaming division goes from here.",
-        "source_link": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass"
+        "image": "https://gizmodo.com/app/uploads/2026/02/lego-star-wars-smart-play-luke-vader-1200x675.jpg",
+        "title": "Lego\u2019s Smart Play Bricks Sound Awful - Gizmodo",
+        "description": "Lego's controversial wave of tech-enhanced 'Star Wars' sets are getting into people's hands, and showing the premium being paid isn't quite worth it.",
+        "source_link": "https://gizmodo.com/legos-smart-play-bricks-sound-awful-2000725514"
       },
       {
         "rank": 2,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Switch-games-sale-February-23.jpg",
+        "title": "Another first-party Nintendo Switch games sale has gone live - Nintendo Everything",
+        "description": "Another new first-party Nintendo Switch game sale is happening, including Super Mario Odyssey, Donkey Kong, Luigi's Mansion 2 HD, and more.",
+        "source_link": "https://nintendoeverything.com/another-first-party-nintendo-switch-games-sale-has-gone-live/"
+      },
+      {
+        "rank": 3,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/rainbow-GettyImages-104637612.jpg?resize=1200,799",
+        "title": "Ex-Apple team launches Acme Weather, a new take on weather forecasting - TechCrunch",
+        "description": "The team that sold their last app Dark Sky to Apple are back with Acme Weather, which offers alternative forecasts, rainbow and sunset alerts, and more.",
+        "source_link": "https://techcrunch.com/2026/02/23/ex-apple-team-launches-acme-weather-a-new-take-on-weather-forecasting/"
+      },
+      {
+        "rank": 4,
         "image": "https://www.trueachievements.com/imgs/172016/king-of-meat-servers-to-close-and-all-owners-will-be-refunded.jpg",
         "title": "Amazon shutting down another online-only game and refunding Xbox players - TrueAchievements",
         "description": "Amazon Games and Glowmade are shutting down the King of Meat servers soon, which will discontinue all Xbox achievements in the dungeon crawler.",
         "source_link": "https://www.trueachievements.com/news/king-of-meat-servers"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/02/Adidas-Five-Ten-Guide-Tennie-Pro-Lead.webp",
+        "title": "Adidas\u2019 Go-Anywhere, Do-It-All Adventure Sneaker Is So Much More than a Hiking Shoe - Gear Patrol",
+        "description": "The brand's outdoor performance footwear offshoot revamps one of its best all-around shoes and introduces a formidable new entry.",
+        "source_link": "https://www.gearpatrol.com/outdoors/adidas-five-ten-guide-tennie-pro/"
+      },
+      {
+        "rank": 6,
+        "image": "https://i.insider.com/699c640c2237a6a8f0cda21d?width=1200&format=jpeg",
+        "title": "Meta AI alignment director shares her OpenClaw email-deletion nightmare: 'I had to RUN to my Mac mini' - Business Insider",
+        "description": "Meta alignment director Summer Yue hooked OpenClaw up to her inbox. Then, the bot tried to delete her emails. Yue chalked it up to a \"rookie mistake.\"",
+        "source_link": "https://www.businessinsider.com/meta-ai-alignment-director-openclaw-email-deletion-2026-2"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.bgr.com/img/gallery/5-home-security-cameras-to-avoid-at-all-costs-according-to-consumer-reports/l-intro-1771398409.jpg",
+        "title": "5 Home Security Cameras To Avoid At All Costs, According To Consumer Reports - bgr.com",
+        "description": "These are five home security cameras that Consumer Reports suggests avoiding.",
+        "source_link": "https://www.bgr.com/2104009/home-secruity-cameras-avoid-according-to-consumer-reports/"
+      },
+      {
+        "rank": 8,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Gemini-app-video-templates.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Gemini app adds video templates to quick start generation - 9to5Google",
+        "description": "Following music generation last week, the Gemini app is upgrading video generation with templates to quick start...",
+        "source_link": "http://9to5google.com/2026/02/23/gemini-video-templates/"
+      },
+      {
+        "rank": 9,
         "image": "https://kotaku.com/app/uploads/2026/02/slay-the-spire-2-e1771863603398.jpg",
         "title": "Indie Games Yeet Themselves Out Of Slay The Spire 2's Way - Kotaku",
         "description": "No one wants to be in the deckbuilding roguelike juggernaut's way on Steam",
         "source_link": "https://kotaku.com/slay-spire-2-steam-roguelike-delay-2000672790"
       },
       {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/acme_weather2.jpg?quality=90&strip=all&crop=0%2C10.720554088791%2C100%2C78.558891822417&w=1200",
-        "title": "The creators of Dark Sky have a new weather app that shares multiple predictions - The Verge",
-        "description": "The creators of Dark Sky have released Acme Weather for iOS, a new weather app that provides alternative predictions to its primary forecast.",
-        "source_link": "https://www.theverge.com/tech/883089/acme-weather-forecast-app-ios-dark-sky-creators-subscription"
-      },
-      {
-        "rank": 5,
-        "image": "https://images.macrumors.com/t/P6o_sCTViql2FdQGH-vv-sg5FGU=/2000x/article-new/2025/09/iphone-17-cameras-zoom.jpg",
-        "title": "iPhone 18 Pro to Revive Feature Samsung Dropped Years Ago - MacRumors",
-        "description": "Apple's iPhone 18 Pro and iPhone 18 Pro Max are expected to resurrect a major feature Samsung's flagship Galaxy smartphones dropped years...",
-        "source_link": "https://www.macrumors.com/2026/02/23/iphone-18-pro-feature-samsung-dropped/"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.nintendolife.com/67abd8e026ba1/large.jpg",
-        "title": "Fans Are Asking Nintendo To Refund Xenoblade Chronicles X's Switch 2 Upgrade - Nintendo Life",
-        "description": "Potential upscaling issues are being called out",
-        "source_link": "https://www.nintendolife.com/news/2026/02/fans-are-asking-nintendo-to-refund-xenoblade-chronicles-xs-switch-2-upgrade"
-      },
-      {
-        "rank": 7,
-        "image": "https://kotaku.com/app/uploads/2025/02/f703a66e41a704d67d853e45ed0cfaed-1200x675.jpg",
-        "title": "Pok\u00e9mon FireRed And LeafGreen Are Topping The eShop Charts Despite Price Backlash - Kotaku",
-        "description": "The Switch ports of the GBA games have people debating game prices again",
-        "source_link": "https://kotaku.com/pokemon-firered-leafgreen-switch-price-release-date-2000672803"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.pushsquare.com/57e5a3cb55776/large.jpg",
-        "title": "First PS Plus Essential Game for March 2026 Leaked Early - Push Square",
-        "description": "Forward, March",
-        "source_link": "https://www.pushsquare.com/news/2026/02/first-ps-plus-essential-game-for-march-2026-leaked-early"
-      },
-      {
-        "rank": 9,
-        "image": "https://assets-prd.ignimgs.com/2026/02/19/ps5-sale-ps-direct-new-ign-2-1771504431766.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "PlayStation is Having a Big Sale on PS5 Games, Accessories and More at PS Direct This Week - IGN",
-        "description": "You can currently save on PS5 games, accessories, and more in a brand new promotional sale at PS Direct this week.",
-        "source_link": "https://www.ign.com/articles/playstation-launches-a-brand-new-promotional-sale-on-ps5-games-accessories-and-more"
+        "rank": 10,
+        "image": "https://chromeunboxed.com/wp-content/uploads/2026/02/GeminiInChromeArrivesChromebooksChromeOS.webp",
+        "title": "Gemini in Chrome landed on my Chromebook today, and it\u2019s really impressive - Chrome Unboxed",
+        "description": "For the past few months, we\u2019ve been tracking the eventual arrival of Gemini directly in the Chrome browser for ChromeOS. While I knew it was coming, and I knew it would be handy, I don\u2019t use a Windows or macOS machine on a daily basis (unless I absolutely hav\u2026",
+        "source_link": "https://chromeunboxed.com/gemini-in-chrome-landed-on-my-chromebook-today-and-its-really-impressive/"
       }
     ],
     "trending_movies": [
@@ -78,7 +85,7 @@
         "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/gaiMtK2ll6BLdK1qKFuZGDwwEuD.jpg",
         "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "description": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime....",
         "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
@@ -90,52 +97,52 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
-        "title": "28 Years Later: The Bone Temple",
-        "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with J...",
-        "source_link": "https://www.themoviedb.org/movie/1272837"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
         "title": "Return to Silent Hill",
         "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
         "source_link": "https://www.themoviedb.org/movie/680493"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to \"hop\" human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+        "title": "28 Years Later: The Bone Temple",
+        "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with J...",
+        "source_link": "https://www.themoviedb.org/movie/1272837"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/hjre9SuECdBsuZ6KtKdFsnK2iRm.jpg",
         "title": "Dead Man's Wire",
         "description": "In 1977, former real estate developer Tony Kiritsis puts a dead man's switch on himself and the mortgage banker who did him wrong, demanding $5 millio...",
         "source_link": "https://www.themoviedb.org/movie/1263012"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
         "title": "Mercy",
         "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
         "source_link": "https://www.themoviedb.org/movie/1236153"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+        "title": "\"Wuthering Heights\"",
+        "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
+        "source_link": "https://www.themoviedb.org/movie/1316092"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/62PDjxO03RhZ4SDB5pwEvjWT8Nz.jpg",
         "title": "Arco",
         "description": "10-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age fr...",
         "source_link": "https://www.themoviedb.org/movie/804370"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
       }
     ]
   }
