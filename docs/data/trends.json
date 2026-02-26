@@ -1,69 +1,76 @@
 {
-  "last_updated": "February 26, 2026, 06:55 UTC",
+  "last_updated": "February 26, 2026, 07:50 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://helios-i.mashable.com/imagery/articles/02ztPRz10FYzBMuf7QNNJvP/hero-image.fill.size_1200x675.v1771959266.jpg",
-        "title": "Leak: Samsung Galaxy S26 batteries include a surprising downgrade - Mashable",
-        "description": "An advanced report suggests the new Samsung Galaxy S26 line may have taken a hit in battery life.",
-        "source_link": "https://mashable.com/article/samsung-galaxy-s26-eu-label-battery-cycle-count-downgrade"
+        "image": "https://nintendoeverything.com/wp-content/uploads/Fallout-4-Switch-2-vs.-PS4-vs.-PS5-graphics-comparison.jpg",
+        "title": "Video: Fallout 4 Nintendo Switch 2 vs. PS4 vs. PS5 graphics comparison - Nintendo Everything",
+        "description": "Check out this Fallout 4 graphics comparison video, pitting the new Nintendo Switch 2 version up against PS5 an PS4.",
+        "source_link": "https://nintendoeverything.com/video-fallout-4-nintendo-switch-2-vs-ps4-vs-ps5-graphics-comparison/"
       },
       {
         "rank": 2,
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2025-08/20/16/thumb/jCPnoBFAO.jpg?crop=1245:830;3,0&resize=1250:830",
+        "title": "32 Products That Will Probably Confuse Regular People But Delight The Weirdos - BuzzFeed",
+        "description": "Only a certain kind of human is going to understand the necessity of this Froot Loops\u2013inspired body oil and judgmental light-up frog, and that's more than okay.",
+        "source_link": "https://www.buzzfeed.com/emmalord9/delight-weirdos-confuse-regular-people-an"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.macrumors.com/t/uiwYjKQfINRDAMaflgPT3jZiK1o=/2500x/article-new/2024/12/General-YouTube-Feature-Redux.jpg",
+        "title": "YouTube's More Affordable Premium Lite Plan Gets New Perks - MacRumors",
+        "description": "YouTube today updated its Premium Lite subscription plan with new features, including background play and downloads. Subscribers will be able to...",
+        "source_link": "https://www.macrumors.com/2026/02/24/youtube-lite-plan-upgrade/"
+      },
+      {
+        "rank": 4,
         "image": "https://gizmodo.com/app/uploads/2026/02/honor-robot-phone-1-1200x675.jpg",
         "title": "Okay, This AI-Powered \u2018Robot Phone\u2019 Has My Undivided Attention - Gizmodo",
         "description": "The next big thing for phones after foldables?",
         "source_link": "https://gizmodo.com/okay-this-ai-powered-robot-phone-has-my-undivided-attention-2000726222"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://cdn.mos.cms.futurecdn.net/KNRVebsDsnUXzhKJFmpYgU-2000-80.jpg",
+        "title": "Xbox CEO Asha Sharma \u2014 \"This team has brought it back before, and I'm here to help us do it again.\" - Windows Central",
+        "description": "We caught up with incoming CEO Asha Sharma and newly promoted CCO Matt Booty to learn about what the future holds for Microsoft's gaming operation.",
+        "source_link": "https://www.windowscentral.com/gaming/xbox/exclusive-talking-to-new-xbox-ceo-asha-sharma-and-cco-matt-booty"
+      },
+      {
+        "rank": 6,
         "image": "https://www.jalopnik.com/img/gallery/corvette-zr1-sets-car-and-drivers-new-lightning-lap-record-beats-mclaren-senna-by-0-7-seconds/l-intro-1771972056.jpg",
         "title": "Chevy Corvette ZR1 Sets Car And Driver's New Lightning Lap Record, Beats McLaren Senna By 0.7 Seconds - Jalopnik",
         "description": "This isn't one of those, \"Sure it's quick in a straight line, but what about corners?\" conversations that people normally have about cheap American performance.",
         "source_link": "https://www.jalopnik.com/2109419/chevy-corvette-zr1-sets-car-and-driver-lightning-lap-record/"
       },
       {
-        "rank": 4,
-        "image": "https://images.nintendolife.com/05844d472fde9/large.jpg",
-        "title": "Nintendo Treehouse Returns This Week With A Pair Of Gameplay Showcases - Nintendo Life",
-        "description": "Mario Wonder and Pokopia return",
-        "source_link": "https://www.nintendolife.com/news/2026/02/nintendo-treehouse-returns-this-week-with-a-pair-of-gameplay-showcases"
-      },
-      {
-        "rank": 5,
+        "rank": 7,
         "image": "https://images.macrumors.com/t/GEiBu2iaA9GrrmRRMXVC3ULLfZo=/2500x/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
         "title": "iPhone 18 Pro and Pro Max Expected to Feature Smaller Dynamic Island - MacRumors",
         "description": "The iPhone 18 Pro and Pro Max will have a smaller Dynamic Island, according to Bloomberg. Over the past year, there have been mixed rumors about...",
         "source_link": "https://www.macrumors.com/2026/02/24/iphone-18-pro-smaller-dynamic-island/"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izSVOGmHVVU8/v1/1200x800.jpg",
         "title": "Apple\u2019s Touch-Screen MacBook Pro to Have Dynamic Island, New Interface - Bloomberg",
         "description": "Apple Inc.\u2019s long-awaited foray into touch-screen laptops will bring major changes to the Mac interface, including the addition of the iPhone\u2019s Dynamic Island feature, according to people familiar with the matter.",
         "source_link": "https://www.bloomberg.com/news/articles/2026-02-24/apple-s-touch-screen-macbook-pro-to-have-dynamic-island-new-interface"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://cdn.mos.cms.futurecdn.net/L7En7oPkPf85C68UrpvAGj-1376-80.jpg",
         "title": "The latest Windows 11 update includes improvements you'll actually want - Windows Central",
         "description": "The Windows 11 non-security feature preview update for February just landed, and it's the first in a while that includes a number of actually good changes.",
         "source_link": "https://www.windowscentral.com/microsoft/windows-11/windows-11-actually-good-update-system-performance-improvements-kb5077241"
       },
       {
-        "rank": 8,
+        "rank": 10,
         "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/26.1-snapshot-10-1170x500.jpg",
         "title": "Minecraft 26.1 Snapshot 10 - Minecraft",
         "description": "Minecraft 26.1 Snapshot 10",
         "source_link": "https://www.minecraft.net/en-us/article/minecraft-26-1-snapshot-10"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.nintendolife.com/9735b523e37b2/1280x720.jpg",
-        "title": "Review: Caves Of Qud (Switch) - A Roguelike About Making Stories Through Unfathomable Systemic Interactions - Nintendo Life",
-        "description": "Anything Qud happen",
-        "source_link": "https://www.nintendolife.com/reviews/switch-eshop/caves-of-qud"
       }
     ],
     "trending_movies": [
@@ -104,17 +111,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/ipE3XiHqbSQm3HS0tJ09CDaJ2Fs.jpg",
-        "title": "Arco",
-        "description": "10-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age fr...",
-        "source_link": "https://www.themoviedb.org/movie/804370"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/gaiMtK2ll6BLdK1qKFuZGDwwEuD.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
+        "title": "28 Years Later: The Bone Temple",
+        "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with J...",
+        "source_link": "https://www.themoviedb.org/movie/1272837"
       },
       {
         "rank": 8,
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+        "title": "Marty Supreme",
+        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
         "title": "Mercy",
         "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
         "source_link": "https://www.themoviedb.org/movie/1236153"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
-        "title": "28 Years Later: The Bone Temple",
-        "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with J...",
-        "source_link": "https://www.themoviedb.org/movie/1272837"
       }
     ]
   }
