@@ -1,62 +1,69 @@
 {
-  "last_updated": "February 27, 2026, 18:36 UTC",
+  "last_updated": "February 27, 2026, 19:30 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://s100.iracing.com/wp-content/uploads/2026/02/iR_DevBlog_S2_26_web-350x197.jpg",
+        "title": "iRacing Development Update: February 2026 - iRacing",
+        "description": "Hello iRacers, The first few months of the year are an incredible time to be a motorsport fan. With real-world series deep into preseason testing or waving their first green flags, we get that first look at the new cars, technologies, and regulations that wil\u2026",
+        "source_link": "https://www.iracing.com/iracing-development-update-february-2026/"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/wi-fi-1152x648-1751309982.jpg",
+        "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises - Ars Technica",
+        "description": "That guest network you set up for your neighbors may not be as secure as you think.",
+        "source_link": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.videocardz.com/1/2026/02/LEGION-GO-FOLDABLE-CONCEPT-1.jpg",
+        "title": "Lenovo Legion Go Fold concept leaks with 7.7-inch to 11.6-inch folding POLED display, Lunar Lake SoC - VideoCardz.com",
+        "description": "Legion Go Fold concept to be presented next month We have just received a tip from Windows Latest that they have just shared the first pictures of",
+        "source_link": "https://videocardz.com/newz/lenovo-legion-go-fold-concept-leaks-with-7-7-inch-to-11-6-inch-folding-poled-display-lunar-lake-soc"
+      },
+      {
+        "rank": 4,
+        "image": "https://cdn.videocardz.com/1/2026/02/Geforce-595_59.jpg",
+        "title": "NVIDIA GeForce Game Ready 595.59 driver - VideoCardz.com",
+        "description": "Please note NVIDIA has pulled the driver: February 26th, 11am PT Update:\u00a0We have discovered a bug in the Game Ready and Studio 595.59 WHQL drivers",
+        "source_link": "https://videocardz.com/driver/nvidia-geforce-game-ready-595-59"
+      },
+      {
+        "rank": 5,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/PR_s26_9to5GOOGLE_01.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Unlock the full potential of your Galaxy S26 with Spigen\u2019s MagFit ecosystem - 9to5Google",
         "description": "The Galaxy S26 looks and feels pretty similar to previous phones in the series, so if you\u2019re upgrading this year,...",
         "source_link": "http://9to5google.com/2026/02/26/unlock-the-full-potential-of-your-galaxy-s26-with-spigens-magfit-ecosystem/"
       },
       {
-        "rank": 2,
-        "image": "https://images.digitalfoundry.net/bf1ef32c93746/large.jpg",
-        "title": "Review: Resident Evil Requiem: Excellent On All Systems But Brilliant on PS5 Pro - Digital Foundry",
-        "description": "Sony's enhanced console delivers stunning image quality and excellent RT effects.",
-        "source_link": "https://www.digitalfoundry.net/news/2026/02/review-resident-evil-requiem-excellent-on-all-systems-but-brilliant-on-ps5-pro"
+        "rank": 6,
+        "image": "https://images.purexbox.com/afb6884e03678/large.jpg",
+        "title": "Resident Evil Requiem Comparison Shows Difference Between Xbox Series X And Series S - Pure Xbox",
+        "description": "How the Xbox versions stack up",
+        "source_link": "https://www.purexbox.com/news/2026/02/resident-evil-requiem-comparison-shows-difference-between-xbox-series-x-and-series-s"
       },
       {
-        "rank": 3,
+        "rank": 7,
+        "image": "https://www.sammyfans.com/wp-content/uploads/2026/02/one-ui-8.5-1000x600.webp",
+        "title": "Samsung announces the start of One UI 8.5 update rollout - Sammy Fans",
+        "description": "While the Galaxy S26, S26+, and S26 Ultra ship with One UI 8.5 out of the box, Samsung has confirmed a sequential update rollout for older devices. It is a visual and AI reset built around two pillars: Ambient Design and a Perplexity-powered Bixby. Samsung co\u2026",
+        "source_link": "https://www.sammyfans.com/2026/02/25/samsung-announces-one-ui-8-5-update-rollout/"
+      },
+      {
+        "rank": 8,
         "image": "https://images.nintendolife.com/f207f84af95a0/large.jpg",
         "title": "Stardew Valley Is Celebrating 10 Years With A Special Anniversary Broadcast - nintendolife.com",
         "description": "New marriage candidates, pre-release footage and more",
         "source_link": "https://www.nintendolife.com/news/2026/02/stardew-valley-is-celebrating-10-years-with-a-special-anniversary-broadcast"
       },
       {
-        "rank": 4,
-        "image": "https://www.cnet.com/a/img/resize/cea55ff81b1c41dd3af06cf716794b9b9dd53b85/hub/2026/02/25/ffe87dfc-5fe4-499d-a7c6-a1f0c21f7892/screenshot-2026-02-25-at-1-10-35pm.png?auto=webp&fit=crop&height=675&width=1200",
-        "title": "The 8 Biggest Announcements from Samsung's Galaxy Unpacked 2026 Event - CNET",
-        "description": "CNET editors were on the ground at Samsung's first big reveal of 2026. Here's what caught our attention.",
-        "source_link": "https://www.cnet.com/tech/mobile/galaxy-unpacked-2026-biggest-announcements/"
-      },
-      {
-        "rank": 5,
-        "image": "https://cdn.mos.cms.futurecdn.net/gC5NmFkYQVxtCykWir8qFU-2000-80.jpg",
-        "title": "11 Apple deals you can grab before Apple\u2019s March event \u2014 iPads, AirPods and MacBooks - Tom's Guide",
-        "description": "Upgrade your Apple tech for less",
-        "source_link": "https://www.tomsguide.com/sales-events/11-apple-deals-you-can-grab-before-apples-march-event-ipads-airpods-and-macbooks"
-      },
-      {
-        "rank": 6,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-audio-eraser-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Samsung's Audio Eraser now works with YouTube and other apps, and it's impressive [Video] - 9to5Google",
-        "description": "Starting on Google Pixel and extending to Samsung Galaxy with last year\u2019s Galaxy S25 series, \u201cAudio Eraser\u201d features have proven...",
-        "source_link": "http://9to5google.com/2026/02/25/samsung-galaxy-audio-eraser-youtube/"
-      },
-      {
-        "rank": 7,
-        "image": "https://photos5.appleinsider.com/gallery/66831-140162-multimulticoloredmacbooks-xl.jpg",
-        "title": "Compromises for affordability ahead: Code leak spills details on new MacBook - AppleInsider",
-        "description": "Nobody claimed it was going to be equivalent to a MacBook Pro or even a MacBook Air. A code leak details the budget MacBook having an A18 Pro chip, limits on charging, no True Tone, and more.",
-        "source_link": "https://appleinsider.com/articles/26/02/25/compromises-for-affordability-ahead-code-leak-spills-details-on-new-macbook"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-now-nudge-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Galaxy S26 'Now Nudge' is basically Google Pixel's Magic Cue, but you're forced to use Samsung Keyboard - 9to5Google",
-        "description": "Samsung is completely changing directions this year, and among moves like adding Perplexity as an AI assistant instead of relying...",
-        "source_link": "http://9to5google.com/2026/02/25/samsung-galaxy-now-nudge-works-like-magic-cue/"
+        "rank": 9,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Motorola-Razr-FIFA-and-Fold-9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Motorola teases \u2018every detail\u2019 about Razr Fold is coming next week - 9to5Google",
+        "description": "Motorola has done well with its flip phone Razr series in recent years, but the company revealed at CES 2026...",
+        "source_link": "http://9to5google.com/2026/02/25/motorola-razr-fold-teaser-full-reveal/"
       }
     ],
     "trending_movies": [
@@ -118,17 +125,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to \"hop\" human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/ipE3XiHqbSQm3HS0tJ09CDaJ2Fs.jpg",
-        "title": "Arco",
-        "description": "10-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age fr...",
-        "source_link": "https://www.themoviedb.org/movie/804370"
       }
     ]
   }
