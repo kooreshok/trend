@@ -1,5 +1,5 @@
 {
-  "last_updated": "February 28, 2026, 01:27 UTC",
+  "last_updated": "February 28, 2026, 03:50 UTC",
   "categories": {
     "tech_news": [
       {
@@ -11,17 +11,17 @@
       },
       {
         "rank": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/Qgc8FouXfRDexQEKhZ2amZ-2048-80.jpg",
-        "title": "Samsung Galaxy S26 launch live: The Galaxy S26 series is here, plus Galaxy Buds 4 and tons of exciting new One UI features - Android Central",
-        "description": "Samsung is going to be launching its new devices today and we are closely following it all!",
-        "source_link": "https://www.androidcentral.com/phones/live/samsung-galaxy-s26-launch-live-s26-s26-plus-and-s26-ultra-specs-galaxy-buds-4-price-release-date-and-what-is-expected"
-      },
-      {
-        "rank": 3,
         "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/768x432+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F51%2F58%2F3272fc774a248257f51fe81175ee%2Fpia24161.jpg",
         "title": "NASA lost a lunar spacecraft one day after launch. A new report details what went wrong - NPR",
         "description": "Why did a $72 million mission to study water on the moon fail so soon after launch? A new NASA report has the answer.",
         "source_link": "https://www.npr.org/2026/02/26/nx-s1-5727622/nasa-lunar-trailblazer-moon-new-report-what-went-wrong"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/macbook-lid-glow.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Two unique new MacBook Pros are launching this year, starting next week - 9to5Mac",
+        "description": "Apple will launch its newest MacBook Pro next week with M5, and there\u2019s another distinct model coming later this year with M6.",
+        "source_link": "https://9to5mac.com/2026/02/26/two-unique-new-macbook-pros-are-launching-this-year-starting-next-week/"
       },
       {
         "rank": 4,
@@ -69,10 +69,10 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/sojEzvfxR2DBcDSJyAisX8TWjov.jpg",
-        "title": "The Bluff",
-        "description": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past...",
-        "source_link": "https://www.themoviedb.org/movie/799882"
+        "image": "https://image.tmdb.org/t/p/w200/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
+        "title": "In the Blink of an Eye",
+        "description": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection and the circle of life....",
+        "source_link": "https://www.themoviedb.org/movie/1032892"
       },
       {
         "rank": 2,
@@ -83,10 +83,10 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
-        "title": "In the Blink of an Eye",
-        "description": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection and the circle of life....",
-        "source_link": "https://www.themoviedb.org/movie/1032892"
+        "image": "https://image.tmdb.org/t/p/w200/sojEzvfxR2DBcDSJyAisX8TWjov.jpg",
+        "title": "The Bluff",
+        "description": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past...",
+        "source_link": "https://www.themoviedb.org/movie/799882"
       },
       {
         "rank": 4,
@@ -97,31 +97,31 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to \"hop\" human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
         "title": "28 Years Later: The Bone Temple",
         "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with J...",
         "source_link": "https://www.themoviedb.org/movie/1272837"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
         "title": "Hamnet",
         "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
         "source_link": "https://www.themoviedb.org/movie/858024"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
         "title": "Mercy",
         "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
         "source_link": "https://www.themoviedb.org/movie/1236153"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+        "title": "Marty Supreme",
+        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
         "rank": 9,
@@ -132,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
+        "image": "https://image.tmdb.org/t/p/w200/eeP55mdqj4KpWtEPBvZJoxmnkXI.jpg",
+        "title": "Accused",
+        "description": "When a celebrated queer doctor in London is accused of sexual misconduct, her life unravels. Now under a storm of suspicion and scrutiny, her marriage...",
+        "source_link": "https://www.themoviedb.org/movie/1389149"
       }
     ]
   }
