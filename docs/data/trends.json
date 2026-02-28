@@ -1,5 +1,5 @@
 {
-  "last_updated": "February 28, 2026, 13:33 UTC",
+  "last_updated": "February 28, 2026, 14:18 UTC",
   "categories": {
     "tech_news": [
       {
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/7cWTGH2svfNHWVRjsfKIBob9pDj.jpg",
-        "title": "Nuremberg",
-        "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a compl...",
-        "source_link": "https://www.themoviedb.org/movie/1214931"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/7cWTGH2svfNHWVRjsfKIBob9pDj.jpg",
+        "title": "Nuremberg",
+        "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a compl...",
+        "source_link": "https://www.themoviedb.org/movie/1214931"
       }
     ]
   }
