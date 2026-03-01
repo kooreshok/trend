@@ -1,20 +1,20 @@
 {
-  "last_updated": "March 01, 2026, 12:39 UTC",
+  "last_updated": "March 01, 2026, 13:36 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/IMG_5543.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+        "title": "Tenways nearly perfects the shareable city e-bike - The Verge",
+        "description": "Tenways CGO Compact e-bike twists and folds to create a slim, store-anywhere profile, with a quick-release saddle and handlebars to fit short and tall riders.",
+        "source_link": "https://www.theverge.com/reviews/885040/tenways-cgo-compact-review-sharable-adaptable"
+      },
+      {
+        "rank": 2,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg",
         "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space - Ars Technica",
         "description": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
         "source_link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/"
-      },
-      {
-        "rank": 2,
-        "image": "https://cdn.motor1.com/images/mgl/404jVo/s1/future-cars-2026-2030-bmw-3-series-neue-klasse.jpg",
-        "title": "BMW Mistakenly Publishes The Names Of All 2027 Cars - Motor1.com",
-        "description": "BMW USA's website already shows the names of the 2027 model lineup, including an M2 xDrive and an M350 performance sedan based on the next-generation 3 Series.",
-        "source_link": "https://www.motor1.com/news/788464/bmw-leaks-names-2027-cars/"
       },
       {
         "rank": 3,
@@ -25,24 +25,24 @@
       },
       {
         "rank": 4,
-        "image": "https://gizmodo.com/app/uploads/2026/02/cl-1-playing-doom-1200x675.png",
-        "title": "A Dish of Neurons Playing DOOM Is the Wildest Thing I\u2019ve Seen in Ages - Gizmodo",
-        "description": "Coming soon to a LAN party near you: a Petri dish.",
-        "source_link": "https://gizmodo.com/a-dish-of-neurons-playing-doom-is-the-wildest-thing-ive-seen-in-ages-2000727674"
-      },
-      {
-        "rank": 5,
         "image": "https://www.sammobile.com/wp-content/uploads/2026/02/Galaxy-Buds-4-Pro-hands-on-23-1200x675.jpg",
         "title": "Where have the blade lights gone on the Galaxy Buds 4 Pro? - SamMobile",
         "description": "Samsung introduced a substantial overhaul of the design of its wireless earbuds last year. The Galaxy Buds 3 Pro adopted a sleek look with stems that had a light strip in them. These blade lights, as they were called, were a significant departure from any des\u2026",
         "source_link": "https://www.sammobile.com/news/where-have-the-blade-lights-gone-on-the-galaxy-buds-4-pro/"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows_365_asus_dell_mini_pc.jpg",
         "title": "Asus and Dell announce new mini PCs for Windows 365 - Notebookcheck",
         "description": "Dell and Asus have announced new mini PCs intended for use with Windows 365. These systems will not power themselves, but will simply allow users to operate Windows running in the cloud.",
         "source_link": "https://www.notebookcheck.net/Asus-and-Dell-announce-new-mini-PCs-for-Windows-365.1236853.0.html"
+      },
+      {
+        "rank": 6,
+        "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/02/BMW-new-iX3-EV-2027.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "BMW\u2019s new 2027 EVs leak online before the site is taken down - Electrek",
+        "description": "BMW accidentally listed its 2027 lineup online, confirming several new electric vehicles, including the first Neue Klasse EV, the iX3....",
+        "source_link": "http://electrek.co/2026/02/27/bmws-new-2027-evs-leak/"
       },
       {
         "rank": 7,
@@ -57,13 +57,6 @@
         "title": "Sony\u2019s Bluepoint Pitched \u2018Bloodborne\u2019 Remake Before Closure - Bloomberg.com",
         "description": "The inside story of why PlayStation closed its beloved subsidiary",
         "source_link": "https://www.bloomberg.com/news/newsletters/2026-02-27/sony-s-bluepoint-pitched-bloodborne-remake-before-closure"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Windows-headpic.jpg",
-        "title": "Microsoft testing Windows 11 batch file security improvements - BleepingComputer",
-        "description": "Microsoft is rolling out new Windows 11 Insider Preview builds that improve security and performance during batch file or CMD script execution.",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-batch-file-security-improvements/"
       }
     ],
     "trending_movies": [
