@@ -1,69 +1,69 @@
 {
-  "last_updated": "March 01, 2026, 20:21 UTC",
+  "last_updated": "March 01, 2026, 21:18 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": null,
+        "title": "Bluepoint pitched a Bloodborne remake, but FromSoftware turned it down, not Sony - Eurogamer",
+        "description": null,
+        "source_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZi1razZHT1ZBdEJJbjdTUF9MOElFSWJHSE1reldfb2wzaURnUXBmcnFQN01GZUFEVTl6c28xVFFCbVRoZ2tuM0hNTVN2eXZTTi1NeFBGcW8wQ29tRGtBNmRieVhPeWY2c3E1REVhYkZEY1pNLWZPT2dpR01jaU5EeEp4cEliTGt3WW1JcnB0Q0FSaEZBaGFHbnVBZGhEeVhBUTNFXzV0MA?oc=5"
+      },
+      {
+        "rank": 2,
         "image": "https://image.cnbcfm.com/api/v1/image/108270916-1772198155025-Xiaomi_17_Ultra_1.png?v=1772198534&w=1920&h=1080",
         "title": "Xiaomi launches flagship smartphone as memory price surge threatens sales - CNBC",
         "description": "The Xiaomi 17 starts at 999 euros ($1,179) while the Xiaomi 17 Ultra starts at 1,499 euros, with the device priced the same as its predecessor.",
         "source_link": "https://www.cnbc.com/2026/02/28/xiaomi-17-and-17-ultra-launch-price-specs.html"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg",
         "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space - Ars Technica",
         "description": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
         "source_link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/"
       },
       {
-        "rank": 3,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/oppo-find-n5-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Oppo and Honor tease the first crease-less foldables \u2013 maybe for real this time - 9to5Google",
-        "description": "The display crease has been one of the biggest downsides of foldables, and it\u2019s one that we haven\u2019t really seen...",
-        "source_link": "http://9to5google.com/2026/02/27/oppo-and-honor-tease-the-first-crease-less-foldables-maybe-for-real-this-time/"
-      },
-      {
         "rank": 4,
-        "image": "https://i.pcmag.com/imagery/articles/070G2NpaaxVYxOY3eIJXhWe-1.fit_lim.size_1200x630.v1772215170.jpg",
-        "title": "Steam Deck Returns to Valve's Store in the US, But Act Fast If You Want One - PCMag",
-        "description": "No price hikes for the US, but effective March 6, shoppers in Asia face increases up to $100.",
-        "source_link": "https://www.pcmag.com/news/steam-deck-returns-to-valves-store-in-the-us-but-act-fast-if-you-want-one"
-      },
-      {
-        "rank": 5,
         "image": "https://aftermath.site/content/images/size/w1200/2026/02/clint-top-image.png",
         "title": "You Will Be Able To Marry Clint In Stardew Valley, Pleasing People Like, Um, Such As - aftermath.site",
         "description": "Fuck Clint, but not like that.",
         "source_link": "https://aftermath.site/stardew-valley-marriage-candidate-clint-loser/"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/02/27/porsche-resident-evil.jpg",
         "title": "Porsche responds after Resident Evil fans claim Leon will definitely destroy his Porsche in Resident Evil Requiem - Dexerto",
         "description": "Porsche\u2019s Resident Evil Requiem collaboration has taken a turn, after fans reacted to the reveal trailer by joking that Leon S. Kennedy would destroy the Cayenne Turbo GT before the game even ends.",
         "source_link": "https://www.dexerto.com/resident-evil/porsche-responds-after-resident-evil-fans-claim-leon-will-definitely-destroy-his-porsche-in-resident-evil-requiem-3326192/"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://www.digitaltrends.com/tachyon/2026/02/Sony-PS5-Pro-Shot-with-Blue-Light.jpg?resize=1200%2C630",
         "title": "PlayStation 5 Pro is getting a big graphics upgrade with AMD tech - Digital Trends",
         "description": "Sony and AMD confirm a new AI upscaling upgrade for PS5 Pro based on FSR 4 and Project Amethyst collaboration.",
         "source_link": "https://www.digitaltrends.com/gaming/playstation-5-pro-is-getting-a-big-graphics-upgrade-with-amd-tech/"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows_365_asus_dell_mini_pc.jpg",
         "title": "Asus and Dell announce new mini PCs for Windows 365 - Notebookcheck",
         "description": "Dell and Asus have announced new mini PCs intended for use with Windows 365. These systems will not power themselves, but will simply allow users to operate Windows running in the cloud.",
         "source_link": "https://www.notebookcheck.net/Asus-and-Dell-announce-new-mini-PCs-for-Windows-365.1236853.0.html"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/02/BMW-new-iX3-EV-2027.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "BMW\u2019s new 2027 EVs leak online before the site is taken down - Electrek",
         "description": "BMW accidentally listed its 2027 lineup online, confirming several new electric vehicles, including the first Neue Klasse EV, the iX3....",
         "source_link": "http://electrek.co/2026/02/27/bmws-new-2027-evs-leak/"
+      },
+      {
+        "rank": 9,
+        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/pokemon-firered-on-a-nintendo-switch.jpg?w=1600&h=900&fit=crop",
+        "title": "Switch's classic Pok\u00e9mon games won't let you name your trainer Dick, but a few words get past the censors - Polygon",
+        "description": "Gone are the days of defeating your rival naughty words in the Nintendo Switch ports of Pok\u00e9mon FireRed and LeafGreen.",
+        "source_link": "https://www.polygon.com/pokemon-firered-leafgreen-swear-word-censorship/"
       }
     ],
     "trending_movies": [
@@ -111,17 +111,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
         "title": "Hamnet",
         "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
         "source_link": "https://www.themoviedb.org/movie/858024"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
         "rank": 9,
@@ -132,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-        "title": "The Bride!",
-        "description": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdere...",
-        "source_link": "https://www.themoviedb.org/movie/1159831"
+        "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
+        "title": "Return to Silent Hill",
+        "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
+        "source_link": "https://www.themoviedb.org/movie/680493"
       }
     ]
   }
