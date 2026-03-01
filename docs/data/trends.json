@@ -1,27 +1,27 @@
 {
-  "last_updated": "March 01, 2026, 22:19 UTC",
+  "last_updated": "March 01, 2026, 23:19 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": null,
-        "title": "Bluepoint pitched a Bloodborne remake, but FromSoftware turned it down, not Sony - Eurogamer",
-        "description": null,
-        "source_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZi1razZHT1ZBdEJJbjdTUF9MOElFSWJHSE1reldfb2wzaURnUXBmcnFQN01GZUFEVTl6c28xVFFCbVRoZ2tuM0hNTVN2eXZTTi1NeFBGcW8wQ29tRGtBNmRieVhPeWY2c3E1REVhYkZEY1pNLWZPT2dpR01jaU5EeEp4cEliTGt3WW1JcnB0Q0FSaEZBaGFHbnVBZGhEeVhBUTNFXzV0MA?oc=5"
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/xiaomi.jpg?resize=1200,600",
+        "title": "Xiaomi launches 17 Ultra smartphone, an AirTag clone, and an ultra slim powerbank - TechCrunch",
+        "description": "We round up everything Xiaomi announced at its Mobile World Congress event.",
+        "source_link": "https://techcrunch.com/2026/02/28/xiaomi-launches-17-ultra-smartphone-an-airtag-clone-and-an-ultra-slim-powerbank/"
       },
       {
         "rank": 2,
-        "image": "https://image.cnbcfm.com/api/v1/image/108270916-1772198155025-Xiaomi_17_Ultra_1.png?v=1772198534&w=1920&h=1080",
-        "title": "Xiaomi launches flagship smartphone as memory price surge threatens sales - CNBC",
-        "description": "The Xiaomi 17 starts at 999 euros ($1,179) while the Xiaomi 17 Ultra starts at 1,499 euros, with the device priced the same as its predecessor.",
-        "source_link": "https://www.cnbc.com/2026/02/28/xiaomi-17-and-17-ultra-launch-price-specs.html"
+        "image": "https://images.nintendolife.com/05980ab9e2730/1280x720.jpg",
+        "title": "Review: Fallout 4: Anniversary Edition (Switch 2) - A Solid Port With Plenty Of Extra Content, And Bugs - Nintendo Life",
+        "description": "War never changes",
+        "source_link": "https://www.nintendolife.com/reviews/nintendo-switch-2/fallout-4-anniversary-edition"
       },
       {
         "rank": 3,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg",
-        "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space - Ars Technica",
-        "description": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
-        "source_link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/"
+        "image": "https://images.nintendolife.com/c375c16877729/large.jpg",
+        "title": "Pok\u00e9mon Winds & Waves Will Be Released \"Exclusively\" For Switch 2 - Nintendo Life",
+        "description": "Game Freak is moving on from the original Switch hardware",
+        "source_link": "https://www.nintendolife.com/news/2026/02/pokemon-winds-and-waves-will-be-released-exclusively-for-switch-2"
       },
       {
         "rank": 4,
@@ -39,31 +39,31 @@
       },
       {
         "rank": 6,
-        "image": "https://www.digitaltrends.com/tachyon/2026/02/Sony-PS5-Pro-Shot-with-Blue-Light.jpg?resize=1200%2C630",
-        "title": "PlayStation 5 Pro is getting a big graphics upgrade with AMD tech - Digital Trends",
-        "description": "Sony and AMD confirm a new AI upscaling upgrade for PS5 Pro based on FSR 4 and Project Amethyst collaboration.",
-        "source_link": "https://www.digitaltrends.com/gaming/playstation-5-pro-is-getting-a-big-graphics-upgrade-with-amd-tech/"
-      },
-      {
-        "rank": 7,
         "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows_365_asus_dell_mini_pc.jpg",
         "title": "Asus and Dell announce new mini PCs for Windows 365 - Notebookcheck",
         "description": "Dell and Asus have announced new mini PCs intended for use with Windows 365. These systems will not power themselves, but will simply allow users to operate Windows running in the cloud.",
         "source_link": "https://www.notebookcheck.net/Asus-and-Dell-announce-new-mini-PCs-for-Windows-365.1236853.0.html"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/02/BMW-new-iX3-EV-2027.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "BMW\u2019s new 2027 EVs leak online before the site is taken down - Electrek",
         "description": "BMW accidentally listed its 2027 lineup online, confirming several new electric vehicles, including the first Neue Klasse EV, the iX3....",
         "source_link": "http://electrek.co/2026/02/27/bmws-new-2027-evs-leak/"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/pokemon-firered-on-a-nintendo-switch.jpg?w=1600&h=900&fit=crop",
         "title": "Switch's classic Pok\u00e9mon games won't let you name your trainer Dick, but a few words get past the censors - Polygon",
         "description": "Gone are the days of defeating your rival naughty words in the Nintendo Switch ports of Pok\u00e9mon FireRed and LeafGreen.",
         "source_link": "https://www.polygon.com/pokemon-firered-leafgreen-swear-word-censorship/"
+      },
+      {
+        "rank": 9,
+        "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/02/26124051/mario_tennis_fever_1920.jpg",
+        "title": "It's time for Nintendo to free the RPG geniuses at Camelot from Mario sports games - AV Club",
+        "description": "The designers behind some of the best RPGs ever made have spent almost 30 years primarily making Mario sports games. That's got to stop.",
+        "source_link": "https://www.avclub.com/mario-tennis-fever-camelot-rpgs"
       }
     ],
     "trending_movies": [
@@ -111,17 +111,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
-        "title": "Mercy",
-        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
-        "source_link": "https://www.themoviedb.org/movie/1236153"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+        "title": "Mercy",
+        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
+        "source_link": "https://www.themoviedb.org/movie/1236153"
       },
       {
         "rank": 9,
@@ -132,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
+        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+        "title": "Marty Supreme",
+        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       }
     ]
   }
