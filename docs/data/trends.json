@@ -1,5 +1,5 @@
 {
-  "last_updated": "March 01, 2026, 09:25 UTC",
+  "last_updated": "March 01, 2026, 10:21 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,17 +76,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
-        "title": "In the Blink of an Eye",
-        "description": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life....",
-        "source_link": "https://www.themoviedb.org/movie/1032892"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/sojEzvfxR2DBcDSJyAisX8TWjov.jpg",
         "title": "The Bluff",
         "description": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past...",
         "source_link": "https://www.themoviedb.org/movie/799882"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
+        "title": "In the Blink of an Eye",
+        "description": "Three storylines, spanning thousands of years, intersect and reflect on hope, connection, and the circle of life....",
+        "source_link": "https://www.themoviedb.org/movie/1032892"
       },
       {
         "rank": 3,
@@ -111,17 +111,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
-        "title": "Mercy",
-        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
-        "source_link": "https://www.themoviedb.org/movie/1236153"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/eeP55mdqj4KpWtEPBvZJoxmnkXI.jpg",
         "title": "Accused",
         "description": "When a celebrated queer doctor in London is accused of sexual misconduct, her life unravels. Now under a storm of suspicion and scrutiny, her marriage...",
         "source_link": "https://www.themoviedb.org/movie/1389149"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+        "title": "Mercy",
+        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
+        "source_link": "https://www.themoviedb.org/movie/1236153"
       },
       {
         "rank": 8,
