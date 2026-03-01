@@ -1,48 +1,48 @@
 {
-  "last_updated": "March 01, 2026, 14:20 UTC",
+  "last_updated": "March 01, 2026, 15:18 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/IMG_5543.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-        "title": "Tenways nearly perfects the shareable city e-bike - The Verge",
-        "description": "Tenways CGO Compact e-bike twists and folds to create a slim, store-anywhere profile, with a quick-release saddle and handlebars to fit short and tall riders.",
-        "source_link": "https://www.theverge.com/reviews/885040/tenways-cgo-compact-review-sharable-adaptable"
-      },
-      {
-        "rank": 2,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg",
         "title": "Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space - Ars Technica",
         "description": "Merkle Tree Certificate support is already in Chrome. Soon, it will be everywhere.",
         "source_link": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/"
       },
       {
+        "rank": 2,
+        "image": "https://cdn.motor1.com/images/mgl/404jVo/s1/future-cars-2026-2030-bmw-3-series-neue-klasse.jpg",
+        "title": "BMW Mistakenly Publishes The Names Of All 2027 Cars - Motor1.com",
+        "description": "BMW USA's website already shows the names of the 2027 model lineup, including an M2 xDrive and an M350 performance sedan based on the next-generation 3 Series.",
+        "source_link": "https://www.motor1.com/news/788464/bmw-leaks-names-2027-cars/"
+      },
+      {
         "rank": 3,
+        "image": "https://aftermath.site/content/images/size/w1200/2026/02/clint-top-image.png",
+        "title": "You Will Be Able To Marry Clint In Stardew Valley, Pleasing People Like, Um, Such As - aftermath.site",
+        "description": "Fuck Clint, but not like that.",
+        "source_link": "https://aftermath.site/stardew-valley-marriage-candidate-clint-loser/"
+      },
+      {
+        "rank": 4,
         "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/02/27/porsche-resident-evil.jpg",
         "title": "Porsche responds after Resident Evil fans claim Leon will definitely destroy his Porsche in Resident Evil Requiem - Dexerto",
         "description": "Porsche\u2019s Resident Evil Requiem collaboration has taken a turn, after fans reacted to the reveal trailer by joking that Leon S. Kennedy would destroy the Cayenne Turbo GT before the game even ends.",
         "source_link": "https://www.dexerto.com/resident-evil/porsche-responds-after-resident-evil-fans-claim-leon-will-definitely-destroy-his-porsche-in-resident-evil-requiem-3326192/"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://www.sammobile.com/wp-content/uploads/2026/02/Galaxy-Buds-4-Pro-hands-on-23-1200x675.jpg",
         "title": "Where have the blade lights gone on the Galaxy Buds 4 Pro? - SamMobile",
         "description": "Samsung introduced a substantial overhaul of the design of its wireless earbuds last year. The Galaxy Buds 3 Pro adopted a sleek look with stems that had a light strip in them. These blade lights, as they were called, were a significant departure from any des\u2026",
         "source_link": "https://www.sammobile.com/news/where-have-the-blade-lights-gone-on-the-galaxy-buds-4-pro/"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows_365_asus_dell_mini_pc.jpg",
         "title": "Asus and Dell announce new mini PCs for Windows 365 - Notebookcheck",
         "description": "Dell and Asus have announced new mini PCs intended for use with Windows 365. These systems will not power themselves, but will simply allow users to operate Windows running in the cloud.",
         "source_link": "https://www.notebookcheck.net/Asus-and-Dell-announce-new-mini-PCs-for-Windows-365.1236853.0.html"
-      },
-      {
-        "rank": 6,
-        "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/02/BMW-new-iX3-EV-2027.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "BMW\u2019s new 2027 EVs leak online before the site is taken down - Electrek",
-        "description": "BMW accidentally listed its 2027 lineup online, confirming several new electric vehicles, including the first Neue Klasse EV, the iX3....",
-        "source_link": "http://electrek.co/2026/02/27/bmws-new-2027-evs-leak/"
       },
       {
         "rank": 7,
@@ -104,17 +104,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/eeP55mdqj4KpWtEPBvZJoxmnkXI.jpg",
-        "title": "Accused",
-        "description": "When a celebrated queer doctor in London is accused of sexual misconduct, her life unravels. Now under a storm of suspicion and scrutiny, her marriage...",
-        "source_link": "https://www.themoviedb.org/movie/1389149"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
         "title": "Mercy",
         "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
         "source_link": "https://www.themoviedb.org/movie/1236153"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/eeP55mdqj4KpWtEPBvZJoxmnkXI.jpg",
+        "title": "Accused",
+        "description": "When a celebrated queer doctor in London is accused of sexual misconduct, her life unravels. Now under a storm of suspicion and scrutiny, her marriage...",
+        "source_link": "https://www.themoviedb.org/movie/1389149"
       },
       {
         "rank": 9,
