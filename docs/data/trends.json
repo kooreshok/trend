@@ -1,5 +1,5 @@
 {
-  "last_updated": "March 02, 2026, 15:38 UTC",
+  "last_updated": "March 02, 2026, 16:39 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,38 +76,38 @@
     "trending_movies": [
       {
         "rank": 1,
+        "image": "https://image.tmdb.org/t/p/w200/3aPgHeiPoOSJPBR7TdBPPeE4pUo.jpg",
+        "title": "Scary Movie",
+        "description": "Two friends find themselves caught up in mayhem involving killers, monsters, and supernatural creatures once again....",
+        "source_link": "https://www.themoviedb.org/movie/1273221"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
         "title": "Scream 7",
         "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
         "source_link": "https://www.themoviedb.org/movie/1159559"
       },
       {
-        "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/3aPgHeiPoOSJPBR7TdBPPeE4pUo.jpg",
-        "title": "Scary Movie",
-        "description": "The sixth installment in the franchise. Plot TBA....",
-        "source_link": "https://www.themoviedb.org/movie/1273221"
-      },
-      {
-        "rank": 3,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/sojEzvfxR2DBcDSJyAisX8TWjov.jpg",
         "title": "The Bluff",
         "description": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past...",
         "source_link": "https://www.themoviedb.org/movie/799882"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
         "title": "The Bride!",
         "description": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdere...",
         "source_link": "https://www.themoviedb.org/movie/1159831"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
         "rank": 6,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
+        "image": "https://image.tmdb.org/t/p/w200/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
+        "title": "Mercy",
+        "description": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge h...",
+        "source_link": "https://www.themoviedb.org/movie/1236153"
       }
     ]
   }
