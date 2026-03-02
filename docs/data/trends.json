@@ -1,69 +1,76 @@
 {
-  "last_updated": "March 02, 2026, 22:23 UTC",
+  "last_updated": "March 02, 2026, 23:21 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": null,
-        "title": "Was Marathon\u2019s Server Slam A Success Or A Failure? - Forbes",
-        "description": null,
-        "source_link": "https://www.forbes.com/sites/paultassi/2026/03/01/was-marathons-server-slam-a-success-or-a-failure/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/19741925_4.jpg?quality=90&strip=all&crop=0%2C29.141520778796%2C100%2C52.356020942408&w=1200",
+        "title": "Portable Sonos Play speaker leaks on Canadian Best Buy - The Verge",
+        "description": "A leak of the new portable Sonos Play speaker suggests it\u2019s a more rugged successor to the Move 2.",
+        "source_link": "https://www.theverge.com/tech/887220/sonos-play-leak"
       },
       {
         "rank": 2,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/pokemon-leafgreen-version/0/0b/Pokemon-firered-leafgreen-nugget-bridge-location.jpg",
+        "title": "How to Get Money Fast (Nugget Bridge Glitch) - Pokemon Fire Red and Leaf Green Guide - IGN",
+        "description": "Whether it&apos;s for healing your Pokemon, curing a status effect, or buying Poke Balls, you need a lot of money in your Pokemon FireRed and LeafGreen",
+        "source_link": "https://www.ign.com/wikis/pokemon-firered-leafgreen-version/How_to_Get_Money_Fast_(Nugget_Bridge_Glitch)"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/03/image-24-1456x971-1.jpg",
+        "title": "\u201cEntry-Level PC Segment Will Disappear by 2028,\u201d Says Gartner, as Soaring Memory Costs Start to Cripple Manufacturers - Wccftech",
+        "description": "PC manufacturers won't find it viable to offer hardware to gamers at 'entry-level' prices, as memory costs have reached unprecedented levels.",
+        "source_link": "https://wccftech.com/entry-level-pc-segment-will-disappear-by-2028/"
+      },
+      {
+        "rank": 4,
+        "image": "https://assetsio.gnwcdn.com/godofwar-kratos.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "God of War developer is working on \"a new franchise within the God of War universe\" - Eurogamer",
+        "description": "A former senior writer from Sony Santa Monica has revealed the studio is working on \"a new franchise within the God of \u2026",
+        "source_link": "https://www.eurogamer.net/god-of-war-developer-is-working-on-a-new-franchise-within-the-god-of-war-universe"
+      },
+      {
+        "rank": 5,
         "image": "https://assets.warhammer-community.com/sundaypreview-mar01-1-feature-zz4kh0nuof.jpg",
         "title": "Sunday Preview \u2013 Ahoy me hearties, space pirates inbound - Warhammer Community",
         "description": "Corsairs of different flavours lead next week\u2019s pre-orders for Warhammer 40,000.",
         "source_link": "https://www.warhammer-community.com/articles/ewwcqh21/sunday-preview-ahoy-me-hearties-space-pirates-inbound"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2025/03/Microsoft-DirectX-Raytracing-DXR-1920x1080.jpg",
+        "title": "Microsoft\u2019s DirectX SER Delivers a 90% Performance Boost on Intel\u2019s Battlemage GPUs, Optimizing Intense Rendering Workloads - Wccftech",
+        "description": "Microsoft's latest attempt to optimize rendering has delivered impressive gains, with Intel's Battlemage GPUs seeing a significant boost.",
+        "source_link": "https://wccftech.com/microsoft-directx-ser-delivers-a-90-percent-performance-boost-on-intel-gpu/"
+      },
+      {
+        "rank": 7,
         "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2188822416.jpg?resize=1200,821",
         "title": "Investors spill what they aren\u2019t looking for anymore in AI SaaS companies - TechCrunch",
         "description": "TechCrunch spoke with VCs to learn what investors aren't looking for in AI SaaS startups anymore.",
         "source_link": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/"
       },
       {
-        "rank": 4,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/02/a-3d-battery-icon-inside-a-smartphone-frame-next-to-setting-toggle-switches-on-a-blue-background.png?w=1600&h=900&fit=crop",
-        "title": "I finally found 6 Android settings toggles that actually save my battery life - Android Police",
-        "description": "Small tweaks, big battery gains",
-        "source_link": "https://www.androidpolice.com/i-finally-found-android-settings-toggles-that-saves-my-battery-life/"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.jalopnik.com/img/gallery/heres-how-much-the-toyota-gr-supra-has-depreciated-in-5-years/l-intro-1772104717.jpg",
-        "title": "Here's How Much The Toyota GR Supra Has Depreciated In 5 Years - Jalopnik",
-        "description": "The Toyota GR Supra has lost roughly 23% of its MSRP in the past five years, which means used examples are still relatively expensive.",
-        "source_link": "https://www.jalopnik.com/2110548/2021-toyota-supra-gr-5-year-depreciation/"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.cnbcfm.com/api/v1/image/108270813-1772180150382-Robot_Phone_photo-1.jpg?v=1772180313&w=1920&h=1080",
-        "title": "China's Honor shows off smartphone with robotic camera arm and teases a humanoid robot - CNBC",
-        "description": "Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.",
-        "source_link": "https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.nintendolife.com/3f5d5079d552c/large.jpg",
-        "title": "Upcoming Nintendo Switch 2 Games & Accessories For March & April 2026 - Nintendo Life",
-        "description": "March is on",
-        "source_link": "https://www.nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-march-and-april-2026"
-      },
-      {
         "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/macbook-a18-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple believes low-cost MacBook will be an \u2018incredible value,\u2019 tempting switchers: report - 9to5Mac",
-        "description": "As early as tomorrow, Apple will be unveiling its highly anticipated low-cost MacBook. It\u2019ll be powered by an A18 Pro...",
-        "source_link": "https://9to5mac.com/2026/03/01/low-cost-macbook-incredible-value-convince-many-to-switch-report/"
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/siri-gemini.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple replacing Core ML with modernized Core AI framework for iOS 27 at WWDC - 9to5Mac",
+        "description": "A new report says that Apple will replace Core ML with a modernized Core AI framework at WWDC, helping developers...",
+        "source_link": "https://9to5mac.com/2026/03/01/apple-replacing-core-ml-with-modernized-core-ai-framework-for-ios-27-at-wwdc/"
       },
       {
         "rank": 9,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66029c730e7d63a0a51f5937/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "New Gmail Account Attack Warning\u2014Hackers Abuse Critical Security Check - Forbes",
-        "description": "As Gmail support forums continue to fill with pleas for help amid hacker attacks, a new report reveals that a critical Google security check is being abused.",
-        "source_link": "https://www.forbes.com/sites/daveywinder/2026/03/01/check-your-gmail-account-security-now-ongoing-attacks-reported/"
+        "image": "https://assetsio.gnwcdn.com/marathon-trailer-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Marathon dev Bungie responds to Server Slam feedback, particularly around UI, PC performance, and more - Eurogamer",
+        "description": "Bungie is continuing to respond to your feedback during Marathon's Server Slam event, paying particular attention to yo\u2026",
+        "source_link": "https://www.eurogamer.net/marathon-dev-bungie-responds-to-server-slam-feedback-particularly-around-ui-pc-performance-and-more"
+      },
+      {
+        "rank": 10,
+        "image": "https://kotaku.com/app/uploads/2026/03/TVanime-full-1200x675.jpg",
+        "title": "PlayStation Retro Anime Spoof Will Be Available Outside Japan For The First Time In 27 Years - Kotaku",
+        "description": "Geppy-X riffs on watching a 1970s block of Japanese television, shampoo commercials and all",
+        "source_link": "https://kotaku.com/playstation-retro-anime-geppyx-shmu-2000674842"
       }
     ],
     "trending_movies": [
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-        "title": "Marty Supreme",
-        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/rnrrZfFiUIpL00wUh15OBKStnDD.jpg",
         "title": "In Cold Light",
         "description": "Fresh out of prison, Ava's attempt to reclaim her drug operation collapses when she witnesses a brutal crime, forcing her to flee into a nightmarish u...",
         "source_link": "https://www.themoviedb.org/movie/1128377"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+        "title": "Marty Supreme",
+        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       }
     ]
   }
