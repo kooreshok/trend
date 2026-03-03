@@ -1,5 +1,5 @@
 {
-  "last_updated": "March 03, 2026, 06:44 UTC",
+  "last_updated": "March 03, 2026, 07:39 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,17 +76,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
         "title": "Scream 7",
         "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
         "source_link": "https://www.themoviedb.org/movie/1159559"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
         "rank": 3,
@@ -125,10 +125,10 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
+        "image": "https://image.tmdb.org/t/p/w200/rnrrZfFiUIpL00wUh15OBKStnDD.jpg",
+        "title": "In Cold Light",
+        "description": "Fresh out of prison, Ava's attempt to reclaim her drug operation collapses when she witnesses a brutal crime, forcing her to flee into a nightmarish u...",
+        "source_link": "https://www.themoviedb.org/movie/1128377"
       },
       {
         "rank": 9,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/qxMv3HwAB3XPuwNLMhVRg795Ktp.jpg",
-        "title": "Anaconda",
-        "description": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find th...",
-        "source_link": "https://www.themoviedb.org/movie/1234731"
+        "image": "https://image.tmdb.org/t/p/w200/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+        "title": "\"Wuthering Heights\"",
+        "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
+        "source_link": "https://www.themoviedb.org/movie/1316092"
       }
     ]
   }
