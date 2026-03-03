@@ -1,76 +1,69 @@
 {
-  "last_updated": "March 03, 2026, 01:51 UTC",
+  "last_updated": "March 03, 2026, 04:11 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.phoronix.net/image.php?id=2026&image=linux_7_rc2",
+        "title": "Linux 7.0-rc2 Released: \"So I'm Not Super-Happy With How Big This Is\" - Phoronix",
+        "description": "The second weekly release candidate of Linux 7.0 is now available for testing.",
+        "source_link": "https://www.phoronix.com/news/Linux-7.0-rc2-Released"
+      },
+      {
+        "rank": 2,
         "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/03/01/doom-original.jpg",
         "title": "Scientists train human brain cells on a microchip to play Doom - Dexerto",
         "description": "Scientists have demonstrated that human brain cells grown on a microchip can learn to play id Software\u2019s classic first-person shooter.",
         "source_link": "https://www.dexerto.com/gaming/scientists-train-human-brain-cells-on-a-chip-to-play-doom-3326709/"
       },
       {
-        "rank": 2,
-        "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2026/03/Pokemon_Fire_Red_Leaf_Green.jpg?fit=1920%2C1080&ssl=1",
-        "title": "Mystic & Aurora Ticket easily obtainable in Pokemon FireRed & LeafGreen on Switch - My Nintendo News",
-        "description": "Two things which were notoriously difficult to get in the original versions of Pokemon FireRed and LeafGreen were the Mystic and Aurora Tickets which could only be obtained via limited items that were\u2026",
-        "source_link": "https://mynintendonews.com/2026/03/01/mystic-aurora-ticket-easily-obtainable-in-pokemon-firered-leafgreen-on-switch/"
+        "rank": 3,
+        "image": "https://helios-i.mashable.com/imagery/articles/06kfrxT1NNkwSmKopJTCfm8/hero-image.fill.size_1200x675.v1772301016.png",
+        "title": "At MWC 2026, Lenovo comes in hot with 6 concept products and big ideas: Everything announced - Mashable",
+        "description": "So. Many. Laptops.",
+        "source_link": "https://mashable.com/article/everything-lenovo-announced-mwc-2026"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/lenovo-legion-tab-gen5-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Lenovo\u2019s new 8.8-inch Legion Tab is $849 with 9,000 mAh battery, new colors [Gallery] - 9to5Google",
+        "description": "Following up on its first release in the States, Lenovo is back with a new Legion Tab, Gen 5, which...",
+        "source_link": "http://9to5google.com/2026/03/01/lenovo-legion-tab-gen-5-2026-specs-release-hands-on/"
+      },
+      {
+        "rank": 5,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/11_ThinkPad-X13-Detachable_colorbg.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Lenovo\u2019s redesigned ThinkPad Detachable tablet has a bigger screen and legit keyboard - The Verge",
+        "description": "Lenovo is announcing a bunch of new ThinkPad laptops for MWC 2026 in Barcelona, as well as a new ThinkBook 2-in-1. The highlight is the new X13 Detachable Tablet.",
+        "source_link": "https://www.theverge.com/tech/886134/lenovo-thinkpad-x13-detachable-tablet-t14-t14s-t16-laptops-price-specs"
+      },
+      {
+        "rank": 6,
         "image": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Champions-storage-limits-subscription.jpg",
         "title": "Pokemon Champions storage limits and subscription details revealed - Nintendo Everything",
         "description": "New details have been released about the storage limits and subscription with Pokemon Champions. Pokemon Champions, which was first announced last year, is all about battling with your favorite creatures. The title \u201cwill feature familiar mechanics such as Pok\u2026",
         "source_link": "https://nintendoeverything.com/pokemon-champions-storage-limits-and-subscription-details-revealed/"
       },
       {
-        "rank": 4,
+        "rank": 7,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/baseus-am52-with-cable-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "This 10,000 mAh Qi2 battery bank for Pixel 10 is thin without compromise [Gallery] - 9to5Google",
+        "description": "Qi2 battery banks are perhaps one of the best accessories for a Pixel 10 owner, but finding one that\u2019s compact...",
+        "source_link": "http://9to5google.com/2026/03/01/baseus-10000-mah-qi2-battery-bank-pixel-10/"
+      },
+      {
+        "rank": 8,
         "image": "https://www.jalopnik.com/img/gallery/bruce-springsteen-has-an-extensive-car-collection-but-theres-only-one-european-model-in-the-bunch/l-intro-1772205403.jpg",
         "title": "Bruce Springsteen Has An Extensive Car Collection, But There's Only One European Model In The Bunch - Jalopnik",
         "description": "The only European car Bruce Springsteen owns is a 2009 Land Rover Range Rover L322. It's one of his daily drivers, along with Jeep Cherokees.",
         "source_link": "https://www.jalopnik.com/2111473/bruce-springsteen-car-collection-european-model-range-rover-l322/"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://www.jalopnik.com/img/gallery/chinese-suv-beats-lexus-gx-toyota-land-cruiser-in-off-road-test/l-intro-1772144957.jpg",
         "title": "Chinese SUV Beats Lexus GX, Toyota Land Cruiser In Off-Road Test - Jalopnik",
         "description": "The GWM Tank breezed through the same roller test that proved too much for the Toyota and the Lexus.",
         "source_link": "https://www.jalopnik.com/2111136/gwm-tank-chinese-suv-beats-lexus-gx-toyota-land-cruiser-off-road-test/"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/19741925_4.jpg?quality=90&strip=all&crop=0%2C29.141520778796%2C100%2C52.356020942408&w=1200",
-        "title": "Portable Sonos Play speaker leaks on Canadian Best Buy - The Verge",
-        "description": "A leak of the new portable Sonos Play speaker suggests it\u2019s a more rugged successor to the Move 2.",
-        "source_link": "https://www.theverge.com/tech/887220/sonos-play-leak"
-      },
-      {
-        "rank": 7,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/03/image-24-1456x971-1.jpg",
-        "title": "\u201cEntry-Level PC Segment Will Disappear by 2028,\u201d Says Gartner, as Soaring Memory Costs Start to Cripple Manufacturers - Wccftech",
-        "description": "PC manufacturers won't find it viable to offer hardware to gamers at 'entry-level' prices, as memory costs have reached unprecedented levels.",
-        "source_link": "https://wccftech.com/entry-level-pc-segment-will-disappear-by-2028/"
-      },
-      {
-        "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/godofwar-kratos.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "God of War developer is working on \"a new franchise within the God of War universe\" - Eurogamer",
-        "description": "A former senior writer from Sony Santa Monica has revealed the studio is working on \"a new franchise within the God of \u2026",
-        "source_link": "https://www.eurogamer.net/god-of-war-developer-is-working-on-a-new-franchise-within-the-god-of-war-universe"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2025/03/Microsoft-DirectX-Raytracing-DXR-1920x1080.jpg",
-        "title": "Microsoft\u2019s DirectX SER Delivers a 90% Performance Boost on Intel\u2019s Battlemage GPUs, Optimizing Intense Rendering Workloads - Wccftech",
-        "description": "Microsoft's latest attempt to optimize rendering has delivered impressive gains, with Intel's Battlemage GPUs seeing a significant boost.",
-        "source_link": "https://wccftech.com/microsoft-directx-ser-delivers-a-90-percent-performance-boost-on-intel-gpu/"
-      },
-      {
-        "rank": 10,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2188822416.jpg?resize=1200,821",
-        "title": "Investors spill what they aren\u2019t looking for anymore in AI SaaS companies - TechCrunch",
-        "description": "TechCrunch spoke with VCs to learn what investors aren't looking for in AI SaaS startups anymore.",
-        "source_link": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/"
       }
     ],
     "trending_movies": [
