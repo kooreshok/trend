@@ -1,85 +1,78 @@
 {
-  "last_updated": "March 04, 2026, 18:42 UTC",
+  "last_updated": "March 04, 2026, 19:35 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://images.macrumors.com/t/Upax6Co4kVg_By6ujonbPhzjpRg=/2500x/article-new/2026/02/Multicolored-Low-Cost-A18-Pro-MacBook-Feature.jpg",
-        "title": "Apple Accidentally Leaks 'MacBook Neo' - MacRumors",
-        "description": "Apple appears to have prematurely revealed the name of its rumored lower-cost MacBook model, which is expected to be announced this Wednesday.   A...",
-        "source_link": "https://www.macrumors.com/2026/03/03/apple-accidentally-leaks-macbook-neo/"
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-chrome-logo-circle-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google Chrome is switching to a two-week release cycle - 9to5Google",
+        "description": "Google will soon release a major update for its Chrome browser on all platforms every four weeks to \"get features [out] faster.\"",
+        "source_link": "http://9to5google.com/2026/03/03/chrome-two-week-updates/"
       },
       {
         "rank": 2,
+        "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
+        "title": "Trials season 3: what you need to know - ARC Raiders",
+        "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
+        "source_link": "https://arcraiders.com/news/quick-guide-to-trials-season-3"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.notateslaapp.com/img/containers/article_images/2025/tesla-carplay-2.webp/5e322a6979a7753641b6afb8d1a13baa/tesla-carplay-2.jpg",
+        "title": "Apple May Add AirPlay-Like Feature to CarPlay, Making Tesla Integration More Compelling - Not a Tesla App",
+        "description": "Apple is reportedly bringing native Apple TV support to CarPlay, just as Tesla works on officially adding the infotainment system to its vehicles",
+        "source_link": "https://www.notateslaapp.com/news/3614/apple-may-add-airplay-like-feature-to-carplay-making-tesla-integration-more-compelling"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Apple\u2019s website leaks MacBook \u2018Neo,\u2019 which could be its new cheaper laptop - The Verge",
+        "description": "A listing on a regulatory page on Apple\u2019s website appeared to leak the \u201cMacBook Neo,\u201d which could be an entry-level MacBook Apple has reportedly been developing.",
+        "source_link": "https://www.theverge.com/tech/888226/apple-macbook-neo-website-leak"
+      },
+      {
+        "rank": 5,
+        "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/5174778o955352/f1306bbf1027fa109405238e7dcc55ca514afbac.jpg",
+        "title": "Wrangle Double Rewards Selling Moonshine in Red Dead Online - Rockstar Games",
+        "description": "Fire the still and quench locals\u2019 thirst for the hard stuff to earn 2X RDO$, XP, and Role XP completing Moonshiner Sales this month in Red Dead Online.",
+        "source_link": "https://www.rockstargames.com/newswire/article/5174778o955352/wrangle-double-rewards-selling-moonshine-in-red-dead-online"
+      },
+      {
+        "rank": 6,
         "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4660980-indieworldmarch2026.jpg",
         "title": "Nintendo Indie World March 2026 Showcase: All The Biggest Announcements - GameSpot",
         "description": "Here's a closer look at several new games on the way to Switch 2 and Switch consoles.",
         "source_link": "https://www.gamespot.com/gallery/nintendo-indie-world-march-2026-showcase-all-the-biggest-announcements/2900-7555/"
       },
       {
-        "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_displays3.jpg?quality=90&strip=all&crop=10.5012%2C0%2C78.9976%2C100&w=1200",
-        "title": "Apple\u2019s new Studio Display XDR adds a Mini LED upgrade - The Verge",
-        "description": "Apple\u2019s new Studio Display XDR monitor costs $3,299 with Mini LED backlighting and a 120Hz refresh rate,",
-        "source_link": "https://www.theverge.com/tech/888119/apple-studio-display-xdr-5k-monitor"
+        "rank": 7,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-Studio-Display-and-Studio-Display-XDR-260303_big.jpg.large_2x.jpg?resize=1200,676",
+        "title": "Apple\u2019s new Studio Displays come with Thunderbolt 5 - TechCrunch",
+        "description": "The new displays come with better cameras, new sound systems, and Thunderbolt 5 ports.",
+        "source_link": "https://techcrunch.com/2026/03/03/apples-new-studio-displays-come-with-thunderbolt-5/"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://assetsio.gnwcdn.com/G2XxcQpbMAMUbiZ.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Bungie stands firm on Marathon aesthetic, while the 'fontslop' debate rages on - Eurogamer",
         "description": "Bungie will stick to its guns when it comes to the bold UI decisions in Marathon, while feedback about readability run amok after Server Slam.",
         "source_link": "https://www.eurogamer.net/bungie-stands-firm-on-marathon-aesthetic-while-the-fontslop-debate-rages-on"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-the-new-macbook-air-with-m5/tile/Apple-MacBook-Air-hero-260303-lp.jpg.og.jpg?202603031412",
         "title": "Apple introduces the new MacBook Air with M5 - Apple",
         "description": "Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI capabilities to the world\u2019s most popular laptop.",
         "source_link": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/"
-      },
-      {
-        "rank": 6,
-        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/XBOX_GamePass_Announcement_16x9_03.03.2026_EN-US-39f27295800e35f5c9c2.jpg",
-        "title": "Coming to Xbox Game Pass: Cyberpunk 2077, Planet of Lana II, and More - Xbox Wire",
-        "description": "Wake up samurai, we have games to play. Whether you want to check out haunted kingdoms, Night City, or the track, we have something for you. Here's what's coming soon to Xbox Game Pass!",
-        "source_link": "https://news.xbox.com/en-us/2026/03/03/xbox-game-pass-march-2026-wave-1/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/Meta-Ray-Ban-smart-glasses-send-video-to-human-data-annotators-with-unclear-controls.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Meta Ray-Ban smart glasses send \u2018sensitive\u2019 videos to human data annotators - 9to5mac.com",
-        "description": "A new report says that video feeds from Meta Ray-Ban smart glasses are sent for review by human data annotators...",
-        "source_link": "https://9to5mac.com/2026/03/03/meta-ray-ban-smart-glasses-send-sensitive-videos-to-human-data-annotators/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.sammobile.com/wp-content/uploads/2026/02/Galaxy-S26-Ultra-home-screen-1200x674.jpg",
-        "title": "The Galaxy S26 series doesn't feature 10-bit displays - SamMobile",
-        "description": "Samsung\u2019s latest flagship non-foldable smartphone, the Galaxy S26 Ultra, brings several upgrades over its predecessor, the Galaxy S25 Ultra. During the Galaxy S26 press briefing, Samsung told us that one of those upgrades was a display with 10-bit color depth\u2026",
-        "source_link": "https://www.sammobile.com/news/samsung-galaxy-s26-plus-ultra-doesnt-feature-10-bit-displays/"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "What\u2019s new in Android\u2019s March 2026 Google System Updates - 9to5Google",
-        "description": "The monthly \u201cGoogle System Release Notes\u201d primarily detail what\u2019s new in Play services, Play Store, and Play system update across...",
-        "source_link": "http://9to5google.com/2026/03/02/march-2026-google-system-updates/"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.staradvertiser.com/wp-content/uploads/2026/03/web1_20260302_brk_apl01.jpg",
-        "title": "Apple launches iPhone 17e at $599, boosts base storage - Honolulu Star-Advertiser",
-        "description": "Apple today launched iPhone 17e, its more affordable smartphone model that starts at a price of $599 with 256 gigabytes of storage, as it looks to defend its share in a fiercely competitive global handset market.",
-        "source_link": "https://www.staradvertiser.com/2026/03/02/breaking-news/apple-launches-iphone-17e-at-599-boosts-base-storage/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
-        "title": "The Moment",
-        "description": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground cul...",
-        "source_link": "https://www.themoviedb.org/movie/1422562"
+        "image": "https://image.tmdb.org/t/p/w200/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+        "title": "The Bride!",
+        "description": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdere...",
+        "source_link": "https://www.themoviedb.org/movie/1159831"
       },
       {
         "rank": 2,
@@ -90,38 +83,38 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-        "title": "The Bride!",
-        "description": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdere...",
-        "source_link": "https://www.themoviedb.org/movie/1159831"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
         "title": "Scream 7",
         "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
         "source_link": "https://www.themoviedb.org/movie/1159559"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/vl50ruzFWxrbK4zFz0ySjC3TdyK.jpg",
         "title": "Street Flow 3",
         "description": "Grieving and facing the consequences of their crimes, the Traor\u00e9 brothers get one last chance to forge a new path....",
         "source_link": "https://www.themoviedb.org/movie/1629382"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/sojEzvfxR2DBcDSJyAisX8TWjov.jpg",
         "title": "The Bluff",
         "description": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past...",
         "source_link": "https://www.themoviedb.org/movie/799882"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
+        "title": "The Moment",
+        "description": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground cul...",
+        "source_link": "https://www.themoviedb.org/movie/1422562"
       },
       {
         "rank": 8,
@@ -132,17 +125,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-        "title": "Marty Supreme",
-        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
         "title": "Hamnet",
         "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
         "source_link": "https://www.themoviedb.org/movie/858024"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "title": "The Housemaid",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
       }
     ]
   }
