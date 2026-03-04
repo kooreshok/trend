@@ -1,55 +1,55 @@
 {
-  "last_updated": "March 04, 2026, 22:27 UTC",
+  "last_updated": "March 04, 2026, 23:25 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/ss_6a0272b3cd10c3ffa73b8b8e7855817f3ab75d50.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "Highguard is shutting down this month - The Verge",
-        "description": "Wildlight Entertainment has announced that the free-to-play shooter Highguard has shut down soon after launch.",
-        "source_link": "https://www.theverge.com/games/880206/highguard-shut-down"
+        "image": "https://www.apple.com/newsroom/images/2026/03/apple-debuts-m5-pro-and-m5-max-to-supercharge-the-most-demanding-pro-workflows/tile/Apple-M5-Pro-M5-Max-chips-260303-lp.jpg.og.jpg?202603031721",
+        "title": "Apple debuts M5 Pro and M5 Max to supercharge the most demanding pro workflows - Apple",
+        "description": "Apple today announced M5 Pro and M5 Max, the world\u2019s most advanced chips for pro laptops, powering the new MacBook Pro.",
+        "source_link": "https://www.apple.com/newsroom/2026/03/apple-debuts-m5-pro-and-m5-max-to-supercharge-the-most-demanding-pro-workflows/"
       },
       {
         "rank": 2,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/pixel-10-pro-xl-colors.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Pixel March 2026 update fixes 16 issues: Pixel 10 GPU, battery, more - 9to5Google",
-        "description": "Besides the new features introduced with Android 16 QPR3, the March 2026 Pixel update includes several bug fixes across Audio,...",
-        "source_link": "http://9to5google.com/2026/03/03/pixel-march-2026-update/"
+        "image": "https://assets-prd.ignimgs.com/2026/03/03/highguard-1772569889463.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Highguard to Permanently Shut Down on March 12, Wildlight to Release One Final Update With a New Warden, a New Weapon, Skill Trees, and More - IGN",
+        "description": "Wildlight has announced that it will be permanently shutting down Highguard on March 12. Before then, it will release one final update that adds a new Warden, a new weapon, account level progression, and skill trees for those who want to get their final match\u2026",
+        "source_link": "https://www.ign.com/articles/highguard-to-permanently-shut-down-on-march-12-wildlight-to-release-one-final-update-with-a-new-warden-a-new-weapon-skill-trees-and-more"
       },
       {
         "rank": 3,
+        "image": "https://media.wired.com/photos/69a5fee53552f3bcbc80c606/191:100/w_1280,c_limit/sec-phone-hacking-2252317890.jpg",
+        "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals - WIRED",
+        "description": "A highly sophisticated set of iPhone hijacking techniques has likely infected tens of thousands of phones or more. Clues suggest it was originally built for the US government.",
+        "source_link": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257970_Pixel_Watch_4_AKrales_0392.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "The Pixel Watch now lets you tap to pay without opening the Wallet app - The Verge",
+        "description": "Google is launching a bunch of updates for the Pixel Watch, including a new \u201cexpress mode\u201d feature that lets you tap to pay without opening your wallet app.",
+        "source_link": "https://www.theverge.com/tech/888509/google-pixel-watch-update-express-pay"
+      },
+      {
+        "rank": 5,
         "image": "https://images.macrumors.com/t/2NqKhE_BbdoCrMciL8hOE7pWSeQ=/1944x/article-new/2026/03/studio-display-and-xdr.jpg",
         "title": "New Apple Studio Display and Studio Display XDR Don't Work With Intel Macs - MacRumors",
         "description": "If you still have a Mac with an Intel chip inside, you're not going to want to pick up one of the new Studio Display or Studio Display XDR...",
         "source_link": "https://www.macrumors.com/2026/03/03/apple-studio-display-no-intel-mac-support/"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/NEWMACBOOK.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "New MacBooks, the iPhone 17E, and more: Everything we know about Apple\u2019s March 2026 announcements - The Verge",
         "description": "Apple is making a bunch of product announcements, including for the iPhone, iPad, and for MacBooks, ahead of a \u201cspecial Apple experience\u201d on March 4th.",
         "source_link": "https://www.theverge.com/tech/888352/apple-march-2026-event-experience-announcements-iphone-macbook-ipad"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://techcrunch.com/wp-content/uploads/2026/03/chrome-browser-web.png?resize=1200,748",
         "title": "Amid new competition, Chrome speeds up its release schedule - TechCrunch",
         "description": "Google Chrome will begin shipping new releases every two weeks in September, instead of monthly.",
         "source_link": "https://techcrunch.com/2026/03/03/amid-new-competition-chrome-speeds-up-its-release-schedule/"
-      },
-      {
-        "rank": 6,
-        "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
-        "title": "Trials season 3: what you need to know - ARC Raiders",
-        "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
-        "source_link": "https://arcraiders.com/news/quick-guide-to-trials-season-3"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.macrumors.com/t/_r3EKijswZhEo9czSROBvlN1jcU=/2500x/article-new/2025/12/Low-Cost-A18-Pro-MacBook-Feature-Pink.jpg",
-        "title": "Leaked Apple Documents Detail MacBook Neo Features Ahead of Launch - MacRumors",
-        "description": "Accidentally leaked Apple documents that reveal the \"Neo\" name of the upcoming low-cost MacBook also reference some of the features that will...",
-        "source_link": "https://www.macrumors.com/2026/03/03/apple-documents-macbook-neo-features/"
       },
       {
         "rank": 8,
@@ -60,17 +60,17 @@
       },
       {
         "rank": 9,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6nJILjm5lAA/v1/1200x800.jpg",
-        "title": "Apple Raises Computer Prices With New MacBook Pro and Air Lines - Bloomberg.com",
-        "description": "Apple Inc. updated the MacBook Air and MacBook Pro, the company\u2019s two main laptop computer lines, adding faster processors and raising prices as it copes with an industrywide memory crunch.",
-        "source_link": "https://www.bloomberg.com/news/articles/2026-03-03/apple-launches-upgraded-macbook-pro-air-and-new-studio-monitors"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Apple\u2019s website leaks MacBook \u2018Neo,\u2019 which could be its new cheaper laptop - The Verge",
+        "description": "A listing on a regulatory page on Apple\u2019s website appeared to leak the \u201cMacBook Neo,\u201d which could be an entry-level MacBook Apple has reportedly been developing.",
+        "source_link": "https://www.theverge.com/tech/888226/apple-macbook-neo-website-leak"
       },
       {
         "rank": 10,
-        "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/5174778o955352/f1306bbf1027fa109405238e7dcc55ca514afbac.jpg",
-        "title": "Wrangle Double Rewards Selling Moonshine in Red Dead Online - Rockstar Games",
-        "description": "Fire the still and quench locals\u2019 thirst for the hard stuff to earn 2X RDO$, XP, and Role XP completing Moonshiner Sales this month in Red Dead Online.",
-        "source_link": "https://www.rockstargames.com/newswire/article/5174778o955352/wrangle-double-rewards-selling-moonshine-in-red-dead-online"
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/macbook-a18-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "MacBook Neo leaks as name for low-cost model powered by iPhone chip - 9to5Mac",
+        "description": "Apple is expected to announce an all-new, low-cost MacBook as soon as tomorrow, and MacBook Neo may be the official...",
+        "source_link": "https://9to5mac.com/2026/03/03/macbook-neo-could-be-name-for-low-cost-model-powered-by-iphone-chip/"
       }
     ],
     "trending_movies": [
@@ -83,17 +83,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/vl50ruzFWxrbK4zFz0ySjC3TdyK.jpg",
         "title": "Street Flow 3",
         "description": "Grieving and facing the consequences of their crimes, the Traor\u00e9 brothers get one last chance to forge a new path....",
         "source_link": "https://www.themoviedb.org/movie/1629382"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
         "rank": 4,
@@ -111,24 +111,24 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
-        "title": "The Moment",
-        "description": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground cul...",
-        "source_link": "https://www.themoviedb.org/movie/1422562"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/sojEzvfxR2DBcDSJyAisX8TWjov.jpg",
         "title": "The Bluff",
         "description": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past...",
         "source_link": "https://www.themoviedb.org/movie/799882"
       },
       {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
+        "title": "The Moment",
+        "description": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground cul...",
+        "source_link": "https://www.themoviedb.org/movie/1422562"
+      },
+      {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/grozteYTaspY4xaJRt3nw4zMtTs.jpg",
-        "title": "A Private Life",
-        "description": "When renowned psychiatrist Lilian Steiner learns of the sudden death of a patient, she suspects murder. She mounts a private investigation, enlisting ...",
-        "source_link": "https://www.themoviedb.org/movie/1290432"
+        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
       },
       {
         "rank": 9,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
+        "image": "https://image.tmdb.org/t/p/w200/grozteYTaspY4xaJRt3nw4zMtTs.jpg",
+        "title": "A Private Life",
+        "description": "When renowned psychiatrist Lilian Steiner learns of the sudden death of a patient, she suspects murder. She mounts a private investigation, enlisting ...",
+        "source_link": "https://www.themoviedb.org/movie/1290432"
       }
     ]
   }
