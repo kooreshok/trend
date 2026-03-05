@@ -1,5 +1,5 @@
 {
-  "last_updated": "March 05, 2026, 11:30 UTC",
+  "last_updated": "March 05, 2026, 12:52 UTC",
   "categories": {
     "tech_news": [
       {
@@ -69,24 +69,24 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/vl50ruzFWxrbK4zFz0ySjC3TdyK.jpg",
-        "title": "Street Flow 3",
-        "description": "Grieving and facing the consequences of their crimes, the Traor\u00e9 brothers get one last chance to forge a new path....",
-        "source_link": "https://www.themoviedb.org/movie/1629382"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
         "title": "The Bride!",
         "description": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdere...",
         "source_link": "https://www.themoviedb.org/movie/1159831"
       },
       {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/vl50ruzFWxrbK4zFz0ySjC3TdyK.jpg",
+        "title": "Street Flow 3",
+        "description": "Grieving and facing the consequences of their crimes, the Traor\u00e9 brothers get one last chance to forge a new path....",
+        "source_link": "https://www.themoviedb.org/movie/1629382"
+      },
+      {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/bRnTZCjHHMc7cM0HgNkQMB27GYT.jpg",
-        "title": "Whistle",
-        "description": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle ...",
-        "source_link": "https://www.themoviedb.org/movie/1193501"
+        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+        "title": "Scream 7",
+        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
+        "source_link": "https://www.themoviedb.org/movie/1159559"
       },
       {
         "rank": 4,
@@ -97,10 +97,10 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-        "title": "Scream 7",
-        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
-        "source_link": "https://www.themoviedb.org/movie/1159559"
+        "image": "https://image.tmdb.org/t/p/w200/bRnTZCjHHMc7cM0HgNkQMB27GYT.jpg",
+        "title": "Whistle",
+        "description": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle ...",
+        "source_link": "https://www.themoviedb.org/movie/1193501"
       },
       {
         "rank": 6,
@@ -125,17 +125,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
         "title": "The Moment",
         "description": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground cul...",
         "source_link": "https://www.themoviedb.org/movie/1422562"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
-        "title": "28 Years Later: The Bone Temple",
-        "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with J...",
-        "source_link": "https://www.themoviedb.org/movie/1272837"
       }
     ]
   }
