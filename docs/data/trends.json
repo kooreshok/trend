@@ -1,76 +1,69 @@
 {
-  "last_updated": "March 05, 2026, 06:45 UTC",
+  "last_updated": "March 05, 2026, 07:39 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/03/RE-Requiem-Sales_03-04-26.jpg",
+        "title": "Resident Evil Requiem sales top five million - Gematsu",
+        "description": "Total sales for Resident Evil Requiem have surpassed five million units, Capcom announced.",
+        "source_link": "https://www.gematsu.com/2026/03/resident-evil-requiem-sales-top-five-million"
+      },
+      {
+        "rank": 2,
+        "image": null,
+        "title": "The T-Mobile Samsung Galaxy S26 Ultra \"On Us\" Deal Explained (No Trade-In or Port-In Required) - IGN",
+        "description": null,
+        "source_link": "https://www.ign.com/articles/t-mobile-samsung-galaxy-s26-ultra-deals-no-trade-in-or-port-in-required"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.nintendolife.com/917d67cce9a17/large.jpg",
+        "title": "Pok\u00e9mon Pokopia For Switch 2 Receives A Day One Update - Nintendo Life",
+        "description": "You'll need it to access online play",
+        "source_link": "https://www.nintendolife.com/news/2026/03/pokemon-pokopia-for-switch-2-receives-a-day-one-update"
+      },
+      {
+        "rank": 4,
+        "image": "https://images.nintendolife.com/12a4b097f4c5e/large.jpg",
+        "title": "Legacy Of Kain: Defiance Remastered Switch Versions Hit With Last-Minute Delay - Nintendo Life",
+        "description": "Now launching at a \"later date\"",
+        "source_link": "https://www.nintendolife.com/news/2026/03/legacy-of-kain-defiance-remastered-switch-versions-hit-with-last-minute-delay"
+      },
+      {
+        "rank": 5,
         "image": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-the-new-macbook-air-with-m5/tile/Apple-MacBook-Air-hero-260303-lp.jpg.og.jpg?202603031722",
         "title": "Apple introduces the new MacBook Air with M5 - Apple",
         "description": "Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI capabilities to the world\u2019s most popular laptop.",
         "source_link": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/"
       },
       {
-        "rank": 2,
+        "rank": 6,
+        "image": null,
+        "title": "First M4 iPad Air Benchmarks Surface - MacRumors",
+        "description": null,
+        "source_link": "https://www.macrumors.com/2026/03/03/first-m4-ipad-air-benchmarks-surface/"
+      },
+      {
+        "rank": 7,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/01/apple-mac-iphone-security.jpg?resize=1200,797",
+        "title": "A suite of government hacking tools targeting iPhones is now being used by cybercriminals - TechCrunch",
+        "description": "Security researchers say exploits used by governments to hack into iPhones have been found to be used by cybercriminals. They warned of an emerging market for \"secondhand\" exploits.",
+        "source_link": "https://techcrunch.com/2026/03/03/a-suite-of-government-hacking-tools-targeting-iphones-is-now-being-used-by-cybercriminals/"
+      },
+      {
+        "rank": 8,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/android-s-iphone-problem-7-5-screenshot-1.png?w=1600&h=900&fit=crop",
+        "title": "March Pixel Drop unlocks new features you wish you had sooner - Android Police",
+        "description": "Get it now!",
+        "source_link": "https://www.androidpolice.com/march-pixel-drop-lands-with-new-upgrades-you-dont-want-to-miss/"
+      },
+      {
+        "rank": 9,
         "image": "https://images.macrumors.com/t/hxg0EY47Fe_UQyr_AkF7ncKuHzY=/1884x/article-new/2026/03/studio-display-xdr-medical-presets.jpg",
         "title": "Apple's Studio Display XDR Supports DICOM Medical Imaging for Diagnostic Radiology - MacRumors",
         "description": "The new Studio Display XDR is designed for all kinds of professional work, and it is uniquely suited for use in the medical field.   The Studio...",
         "source_link": "https://www.macrumors.com/2026/03/03/studio-display-xdr-dicom-medical-imaging/"
-      },
-      {
-        "rank": 3,
-        "image": "https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260214170655.jpg",
-        "title": "Resident Evil Requiem\u2019s \u2018Final Puzzle\u2019 Has Been Solved Without Datamining - Kotaku",
-        "description": "Now we know all the clues and steps to solve the game-long puzzle",
-        "source_link": "https://kotaku.com/resident-evil-requiem-final-puzzle-solution-datamine-video-2000675457"
-      },
-      {
-        "rank": 4,
-        "image": "https://media.wired.com/photos/69a5fee53552f3bcbc80c606/191:100/w_1280,c_limit/sec-phone-hacking-2252317890.jpg",
-        "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals - WIRED",
-        "description": "A highly sophisticated set of iPhone hijacking techniques has likely infected tens of thousands of phones or more. Clues suggest it was originally built for the US government.",
-        "source_link": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/"
-      },
-      {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKE007_GOOGLE_PIXEL_2025_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Google brings Android\u2019s desktop mode to Pixel devices - The Verge",
-        "description": "The Pixel 8 and up will display a desktop-like experience when connected to an external monitor.",
-        "source_link": "https://www.theverge.com/tech/888370/google-pixel-tablet-android-desktop-mode"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/google-find-my-device-trackers-12.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-        "title": "Android\u2019s Find Hub adds iPhone-like luggage tracking links - The Verge",
-        "description": "Google is launching a new luggage-tracking feature to its Find Hub, allowing you to provide airlines with a link to your missing bag\u2019s location.",
-        "source_link": "https://www.theverge.com/tech/888200/google-android-find-hub-luggage-tracking"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257917_Google_Pixel_10_review_AJohnson_0007.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "title": "Google\u2019s latest Pixel drop allows Gemini to order groceries for you and more - The Verge",
-        "description": "Google is launching a big update for Pixel phones, and that includes the ability for its Gemini AI assistant to complete tasks for you, like ordering groceries or booking a ride.",
-        "source_link": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026"
-      },
-      {
-        "rank": 8,
-        "image": "https://assets-prd.ignimgs.com/2026/03/03/mt-aghain-1772561968841.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Marathon Confirms Seasonal Resets, Which Means Everyone's Gear, Contract and Faction Progression, and Player Level Wipe Every Few Months - IGN",
-        "description": "Bungie has outlined what to expect from Marathon upon launch, and confirmed plans for seasonal wipes that mean all players lose their gear every few months.",
-        "source_link": "https://www.ign.com/articles/marathon-confirms-seasonal-resets-which-means-everyones-gear-contract-and-faction-progression-and-player-level-wipe-every-few-months"
-      },
-      {
-        "rank": 9,
-        "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2IkK9nezGfIb2yA7FyJ86r/b18b6934c1d62a91093531aaaf493be5/TCTD_Anniversary_Keyart.jpg",
-        "title": "The Division 10th Anniversary Showcase: The Division 2 Anniversary Season and Roadmap, The Division Resurgence Launch Date - Ubisoft",
-        "description": "The Division 2's Anniversary Season offers a limited-time Realism Mode, free access to the Warlords of New York expansion, new Tom Clancy Cosmetics, free permanent visual upgrades, and more.",
-        "source_link": "https://news.ubisoft.com/en-us/article/5pVBLd1upCxSwirB01VQ9m/the-division-10th-anniversary-showcase-the-division-2-anniversary-season-and-roadmap-the-division-resurgence-launch-date"
-      },
-      {
-        "rank": 10,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/03/Apple-MacBook-Air-lifestyle-on-the-go-250305.jpg?resize=1200,675",
-        "title": "Apple\u2019s rumored MacBook Neo, a lower-cost, colorful laptop, could launch this week - TechCrunch",
-        "description": "This would mark the first time Apple competes with cheaper hardware like the Chromebook.",
-        "source_link": "https://techcrunch.com/2026/03/03/apple-macbook-neo-a-low-cost-colorful-laptop-could-launch-this-week/"
       }
     ],
     "trending_movies": [
@@ -90,24 +83,24 @@
       },
       {
         "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/bRnTZCjHHMc7cM0HgNkQMB27GYT.jpg",
+        "title": "Whistle",
+        "description": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle ...",
+        "source_link": "https://www.themoviedb.org/movie/1193501"
+      },
+      {
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
         "title": "Scream 7",
         "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
         "source_link": "https://www.themoviedb.org/movie/1159559"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/bRnTZCjHHMc7cM0HgNkQMB27GYT.jpg",
-        "title": "Whistle",
-        "description": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle ...",
-        "source_link": "https://www.themoviedb.org/movie/1193501"
       },
       {
         "rank": 6,
@@ -118,17 +111,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
-        "title": "The Moment",
-        "description": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground cul...",
-        "source_link": "https://www.themoviedb.org/movie/1422562"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
         "title": "The Housemaid",
         "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
         "source_link": "https://www.themoviedb.org/movie/1368166"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
+        "title": "The Moment",
+        "description": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground cul...",
+        "source_link": "https://www.themoviedb.org/movie/1422562"
       },
       {
         "rank": 9,
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/opJeybZ5EL4zObkgFPFkke0KnIq.jpg",
-        "title": "Scary Movie",
-        "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
-        "source_link": "https://www.themoviedb.org/movie/1273221"
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       }
     ]
   }
