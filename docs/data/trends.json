@@ -1,69 +1,76 @@
 {
-  "last_updated": "March 05, 2026, 12:52 UTC",
+  "last_updated": "March 05, 2026, 13:58 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/03/RE-Requiem-Sales_03-04-26.jpg",
-        "title": "Resident Evil Requiem sales top five million - Gematsu",
-        "description": "Total sales for Resident Evil Requiem have surpassed five million units, Capcom announced.",
-        "source_link": "https://www.gematsu.com/2026/03/resident-evil-requiem-sales-top-five-million"
+        "image": "https://assets.warhammer-community.com/40k_quarterlyupdate-mar04-1-feature-jpnlctlxll.jpg",
+        "title": "The Warhammer 40,000 Quarterly Balance Update \u2013 March 2026 - Warhammer Community",
+        "description": "Big changes for C\u2019tan Shards and more.",
+        "source_link": "https://www.warhammer-community.com/articles/jlgyvik1/the-warhammer-40000-quarterly-balance-update-march-2026"
       },
       {
         "rank": 2,
+        "image": "https://ychef.files.bbci.co.uk/624x351/p0n4fkct.jpg",
+        "title": "People are selling your home address online. This privacy tool will help - BBC",
+        "description": "There's a free automated tool that removes information about you from Google search results. For some reason, most people don't use it.",
+        "source_link": "https://www.bbc.com/future/article/20260303-the-most-important-google-setting-you-arent-using"
+      },
+      {
+        "rank": 3,
         "image": "https://assets-prd.ignimgs.com/2026/02/27/samsunggalaxys26ultra-1772229184071.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "The T-Mobile Samsung Galaxy S26 Ultra \"On Us\" Deal Explained (No Trade-In or Port-In Required) - IGN",
         "description": "Preorder Samsung's new flagship phone for 2026.",
         "source_link": "https://www.ign.com/articles/t-mobile-samsung-galaxy-s26-ultra-deals-no-trade-in-or-port-in-required"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "image": "https://images.nintendolife.com/917d67cce9a17/large.jpg",
+        "title": "Pok\u00e9mon Pokopia For Switch 2 Receives A Day One Update - Nintendo Life",
+        "description": "You'll need it to access online play",
+        "source_link": "https://www.nintendolife.com/news/2026/03/pokemon-pokopia-for-switch-2-receives-a-day-one-update"
+      },
+      {
+        "rank": 5,
         "image": "https://www.zdnet.com/a/img/resize/6073117670a0e4de0282016d8fc2ac5061753165/2026/02/16/faadbabc-4083-4c99-9d75-a63ba39e222a/dsc09361.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "The latest Pixel Drop arrives with 8 useful upgrades for your Android phone - what's new - ZDNET",
         "description": "Not everything is exclusive to Pixel users. Some of the changes are coming to Android devices, too.",
         "source_link": "https://www.zdnet.com/article/march-pixel-drop-upgrades-android-devices-whats-new-mwc-2026/"
       },
       {
-        "rank": 4,
-        "image": "https://images.nintendolife.com/12a4b097f4c5e/large.jpg",
-        "title": "Legacy Of Kain: Defiance Remastered Switch Versions Hit With Last-Minute Delay - Nintendo Life",
-        "description": "Now launching at a \"later date\"",
-        "source_link": "https://www.nintendolife.com/news/2026/03/legacy-of-kain-defiance-remastered-switch-versions-hit-with-last-minute-delay"
+        "rank": 6,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/03/Nintendo-Classics-Additions_03-03-26.jpg",
+        "title": "Game Boy Advance and Virtual Boy - Nintendo Classics add Mario vs. Donkey Kong, Mario\u2019s Tennis, and Mario Clash on March 10 - Gematsu",
+        "description": "Game Boy Advance \u2013 Nintendo Classics will add Mario vs. Donkey Kong, and Virtual Boy \u2013 Nintendo Classics will add Mario\u2019s Tennis and Mario Clash on March 10, Nintendo announced.",
+        "source_link": "https://www.gematsu.com/2026/03/game-boy-advance-and-virtual-boy-nintendo-classics-add-mario-vs-donkey-kong-marios-tennis-and-mario-clash-on-march-10"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://m-cdn.phonearena.com/images/article/178657-wide-two_1200/Galaxy-A37-and-A57-leak-demonstrates-how-bad-smartphone-prices-will-be-this-year.jpg",
+        "title": "Galaxy A37 and A57 leak demonstrates how bad smartphone prices will be this year - PhoneArena",
+        "description": "Samsung\u2019s mid-range devices appear to come with hefty price increases",
+        "source_link": "https://www.phonearena.com/news/galaxy-a37-and-a57-leak-demonstrates-how-bad-smartphone-prices-will-be-this-year_id178657"
+      },
+      {
+        "rank": 8,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/A-million-SMS-two-factor-authentication-codes-were-intercepted-heres-what-to-do.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google and iVerify reveal government-grade iPhone exploit kit spreading to hackers - 9to5Mac",
+        "description": "Google and iVerify have shared details about Coruna, an exploit kit that chains multiple vulnerabilities to target iPhones running older iOS versions.",
+        "source_link": "https://9to5mac.com/2026/03/03/google-and-iverify-reveal-government-grade-iphone-exploit-kit-spreading-to-hackers/"
+      },
+      {
+        "rank": 9,
         "image": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-the-new-macbook-air-with-m5/tile/Apple-MacBook-Air-hero-260303-lp.jpg.og.jpg?202603031722",
         "title": "Apple introduces the new MacBook Air with M5 - Apple",
         "description": "Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI capabilities to the world\u2019s most popular laptop.",
         "source_link": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/"
       },
       {
-        "rank": 6,
-        "image": null,
+        "rank": 10,
+        "image": "https://images.macrumors.com/t/XenDcFdWlKKSGqUipGVYBMWDKiU=/2500x/article-new/2026/03/Apple-Experience-Pre-Orders-Feature.jpg",
         "title": "Here's When You Can Pre-Order the iPhone 17e, New Studio Displays and More in Every Time Zone - MacRumors",
-        "description": null,
+        "description": "Apple is going to be accepting pre-orders for a slew of new devices starting tomorrow, with orders set to begin at 6:15 a.m. Pacific Time. To give...",
         "source_link": "https://www.macrumors.com/2026/03/03/apple-march-4-preorders/"
-      },
-      {
-        "rank": 7,
-        "image": null,
-        "title": "First M4 iPad Air Benchmarks Surface - MacRumors",
-        "description": null,
-        "source_link": "https://www.macrumors.com/2026/03/03/first-m4-ipad-air-benchmarks-surface/"
-      },
-      {
-        "rank": 8,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/01/apple-mac-iphone-security.jpg?resize=1200,797",
-        "title": "A suite of government hacking tools targeting iPhones is now being used by cybercriminals - TechCrunch",
-        "description": "Security researchers say exploits used by governments to hack into iPhones have been found to be used by cybercriminals. They warned of an emerging market for \"secondhand\" exploits.",
-        "source_link": "https://techcrunch.com/2026/03/03/a-suite-of-government-hacking-tools-targeting-iphones-is-now-being-used-by-cybercriminals/"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.macrumors.com/t/hxg0EY47Fe_UQyr_AkF7ncKuHzY=/1884x/article-new/2026/03/studio-display-xdr-medical-presets.jpg",
-        "title": "Apple's Studio Display XDR Supports DICOM Medical Imaging for Diagnostic Radiology - MacRumors",
-        "description": "The new Studio Display XDR is designed for all kinds of professional work, and it is uniquely suited for use in the medical field.   The Studio...",
-        "source_link": "https://www.macrumors.com/2026/03/03/studio-display-xdr-dicom-medical-imaging/"
       }
     ],
     "trending_movies": [
@@ -83,59 +90,59 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-        "title": "Scream 7",
-        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
-        "source_link": "https://www.themoviedb.org/movie/1159559"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/bRnTZCjHHMc7cM0HgNkQMB27GYT.jpg",
         "title": "Whistle",
         "description": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle ...",
         "source_link": "https://www.themoviedb.org/movie/1193501"
       },
       {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+        "title": "Scream 7",
+        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
+        "source_link": "https://www.themoviedb.org/movie/1159559"
+      },
+      {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/sojEzvfxR2DBcDSJyAisX8TWjov.jpg",
-        "title": "The Bluff",
-        "description": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past...",
-        "source_link": "https://www.themoviedb.org/movie/799882"
+        "image": "https://image.tmdb.org/t/p/w200/gKn63ZWEVK66OaC1svlI7g6r9ah.jpg",
+        "title": "Subedaar",
+        "description": "Haunted by loss and drifting away from his daughter, a retired Subedaar Arjun Maurya\u2019s newly found civilian life is jolted by one reckless act. As old...",
+        "source_link": "https://www.themoviedb.org/movie/1262547"
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
         "title": "Hamnet",
         "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
         "source_link": "https://www.themoviedb.org/movie/858024"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/sojEzvfxR2DBcDSJyAisX8TWjov.jpg",
+        "title": "The Bluff",
+        "description": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past...",
+        "source_link": "https://www.themoviedb.org/movie/799882"
+      },
+      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
+        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
+        "title": "The Housemaid",
+        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
+        "source_link": "https://www.themoviedb.org/movie/1368166"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/dYgCgTqqMnWdsnP2XirdcFB28ch.jpg",
-        "title": "The Moment",
-        "description": "A rising pop sensation navigates fame and industry pressures while preparing for her arena tour debut, revealing the transformation of underground cul...",
-        "source_link": "https://www.themoviedb.org/movie/1422562"
+        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+        "title": "Marty Supreme",
+        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       }
     ]
   }
