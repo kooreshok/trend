@@ -1,92 +1,92 @@
 {
-  "last_updated": "March 05, 2026, 04:09 UTC",
+  "last_updated": "March 05, 2026, 05:43 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.apple.com/newsroom/images/2026/03/apple-introduces-the-new-macbook-air-with-m5/tile/Apple-MacBook-Air-hero-260303-lp.jpg.og.jpg?202603031722",
+        "title": "Apple introduces the new MacBook Air with M5 - Apple",
+        "description": "Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI capabilities to the world\u2019s most popular laptop.",
+        "source_link": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/"
+      },
+      {
+        "rank": 2,
         "image": "https://images.macrumors.com/t/hxg0EY47Fe_UQyr_AkF7ncKuHzY=/1884x/article-new/2026/03/studio-display-xdr-medical-presets.jpg",
         "title": "Apple's Studio Display XDR Supports DICOM Medical Imaging for Diagnostic Radiology - MacRumors",
         "description": "The new Studio Display XDR is designed for all kinds of professional work, and it is uniquely suited for use in the medical field.   The Studio...",
         "source_link": "https://www.macrumors.com/2026/03/03/studio-display-xdr-dicom-medical-imaging/"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2026/02/RESIDENT-EVIL-requiem_20260214170655.jpg",
+        "title": "Resident Evil Requiem\u2019s \u2018Final Puzzle\u2019 Has Been Solved Without Datamining - Kotaku",
+        "description": "Now we know all the clues and steps to solve the game-long puzzle",
+        "source_link": "https://kotaku.com/resident-evil-requiem-final-puzzle-solution-datamine-video-2000675457"
+      },
+      {
+        "rank": 4,
         "image": "https://media.wired.com/photos/69a5fee53552f3bcbc80c606/191:100/w_1280,c_limit/sec-phone-hacking-2252317890.jpg",
         "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals - WIRED",
         "description": "A highly sophisticated set of iPhone hijacking techniques has likely infected tens of thousands of phones or more. Clues suggest it was originally built for the US government.",
         "source_link": "https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKE007_GOOGLE_PIXEL_2025_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Google brings Android\u2019s desktop mode to Pixel devices - The Verge",
         "description": "The Pixel 8 and up will display a desktop-like experience when connected to an external monitor.",
         "source_link": "https://www.theverge.com/tech/888370/google-pixel-tablet-android-desktop-mode"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/google-find-my-device-trackers-12.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
         "title": "Android\u2019s Find Hub adds iPhone-like luggage tracking links - The Verge",
         "description": "Google is launching a new luggage-tracking feature to its Find Hub, allowing you to provide airlines with a link to your missing bag\u2019s location.",
         "source_link": "https://www.theverge.com/tech/888200/google-android-find-hub-luggage-tracking"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257917_Google_Pixel_10_review_AJohnson_0007.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "title": "Google\u2019s latest Pixel drop allows Gemini to order groceries for you and more - The Verge",
+        "description": "Google is launching a big update for Pixel phones, and that includes the ability for its Gemini AI assistant to complete tasks for you, like ordering groceries or booking a ride.",
+        "source_link": "https://www.theverge.com/tech/888295/google-gemini-pixel-drop-march-2026"
+      },
+      {
+        "rank": 8,
+        "image": "https://assets-prd.ignimgs.com/2026/03/03/mt-aghain-1772561968841.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Marathon Confirms Seasonal Resets, Which Means Everyone's Gear, Contract and Faction Progression, and Player Level Wipe Every Few Months - IGN",
+        "description": "Bungie has outlined what to expect from Marathon upon launch, and confirmed plans for seasonal wipes that mean all players lose their gear every few months.",
+        "source_link": "https://www.ign.com/articles/marathon-confirms-seasonal-resets-which-means-everyones-gear-contract-and-faction-progression-and-player-level-wipe-every-few-months"
+      },
+      {
+        "rank": 9,
         "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2IkK9nezGfIb2yA7FyJ86r/b18b6934c1d62a91093531aaaf493be5/TCTD_Anniversary_Keyart.jpg",
         "title": "The Division 10th Anniversary Showcase: The Division 2 Anniversary Season and Roadmap, The Division Resurgence Launch Date - Ubisoft",
         "description": "The Division 2's Anniversary Season offers a limited-time Realism Mode, free access to the Warlords of New York expansion, new Tom Clancy Cosmetics, free permanent visual upgrades, and more.",
         "source_link": "https://news.ubisoft.com/en-us/article/5pVBLd1upCxSwirB01VQ9m/the-division-10th-anniversary-showcase-the-division-2-anniversary-season-and-roadmap-the-division-resurgence-launch-date"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://techcrunch.com/wp-content/uploads/2025/03/Apple-MacBook-Air-lifestyle-on-the-go-250305.jpg?resize=1200,675",
         "title": "Apple\u2019s rumored MacBook Neo, a lower-cost, colorful laptop, could launch this week - TechCrunch",
         "description": "This would mark the first time Apple competes with cheaper hardware like the Chromebook.",
         "source_link": "https://techcrunch.com/2026/03/03/apple-macbook-neo-a-low-cost-colorful-laptop-could-launch-this-week/"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.macrumors.com/t/ALJ9t4uHvtVpxAmszZHd7_a-8n4=/2500x/article-new/2026/03/Apple-iPhone-17e-feature.jpg",
-        "title": "iPhone 16e vs. iPhone 17e Buyer's Guide: All Upgrades Compared - MacRumors",
-        "description": "Apple's new low-cost iPhone comes a year after its predecessor, offering over a dozen small changes. Here's how the latest model compares.  ...",
-        "source_link": "https://www.macrumors.com/guide/iphone-16e-vs-17e/"
-      },
-      {
-        "rank": 8,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/chrome-browser-web.png?resize=1200,748",
-        "title": "Amid new competition, Chrome speeds up its release schedule - TechCrunch",
-        "description": "Google Chrome will begin shipping new releases every two weeks in September, instead of monthly.",
-        "source_link": "https://techcrunch.com/2026/03/03/amid-new-competition-chrome-speeds-up-its-release-schedule/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.notateslaapp.com/img/containers/article_images/2025/tesla-carplay-2.webp/5e322a6979a7753641b6afb8d1a13baa/tesla-carplay-2.jpg",
-        "title": "Apple May Add AirPlay-Like Feature to CarPlay, Making Tesla Integration More Compelling - Not a Tesla App",
-        "description": "Apple is reportedly bringing native Apple TV support to CarPlay, just as Tesla works on officially adding the infotainment system to its vehicles",
-        "source_link": "https://www.notateslaapp.com/news/3614/apple-may-add-airplay-like-feature-to-carplay-making-tesla-integration-more-compelling"
-      },
-      {
-        "rank": 10,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGrDlg5p9TkI/v2/1200x800.jpg",
-        "title": "Apple Raises MacBook Air and Pro Prices in Face of Memory Crunch - Bloomberg.com",
-        "description": "Apple Inc. updated the MacBook Air and MacBook Pro, the company\u2019s two main laptop computer lines, adding faster processors and raising prices as it copes with an industrywide memory crunch.",
-        "source_link": "https://www.bloomberg.com/news/articles/2026-03-03/apple-launches-upgraded-macbook-pro-air-and-new-studio-monitors"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/vl50ruzFWxrbK4zFz0ySjC3TdyK.jpg",
-        "title": "Street Flow 3",
-        "description": "Grieving and facing the consequences of their crimes, the Traor\u00e9 brothers get one last chance to forge a new path....",
-        "source_link": "https://www.themoviedb.org/movie/1629382"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
         "title": "The Bride!",
         "description": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdere...",
         "source_link": "https://www.themoviedb.org/movie/1159831"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/vl50ruzFWxrbK4zFz0ySjC3TdyK.jpg",
+        "title": "Street Flow 3",
+        "description": "Grieving and facing the consequences of their crimes, the Traor\u00e9 brothers get one last chance to forge a new path....",
+        "source_link": "https://www.themoviedb.org/movie/1629382"
       },
       {
         "rank": 3,
@@ -97,17 +97,17 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-        "title": "Scream 7",
-        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
-        "source_link": "https://www.themoviedb.org/movie/1159559"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/d7WizU73PscO3dQor0Ogfx9xy8N.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+        "title": "Scream 7",
+        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
+        "source_link": "https://www.themoviedb.org/movie/1159559"
       },
       {
         "rank": 6,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
         "title": "Hamnet",
         "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
         "source_link": "https://www.themoviedb.org/movie/858024"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       }
     ]
   }
