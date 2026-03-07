@@ -1,69 +1,62 @@
 {
-  "last_updated": "March 06, 2026, 23:24 UTC",
+  "last_updated": "March 07, 2026, 01:42 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/HCq_qMNa4AANvrQ.jpg?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-        "title": "Microsoft teases its next Xbox, says \u2018Project Helix\u2019 will play PC games too - The Verge",
-        "description": "The next-generation Xbox console will play both Xbox and PC games, and its codename is \u201cProject Helix,\u201d according to Microsoft gaming CEO Asha Sharma.",
-        "source_link": "https://www.theverge.com/games/890194/microsoft-teases-its-next-xbox-says-project-helix-will-play-pc-games-too"
+        "image": "https://images.macrumors.com/t/eUtUULFLe-rs76M241emfNWEyQ4=/2500x/article-new/2026/03/MacBook-Neo-Feature-Pastel-1.jpg",
+        "title": "First MacBook Neo Benchmarks Are In: Here's How It Compares the M1 MacBook Air - MacRumors",
+        "description": "Benchmarks for the new MacBook Neo surfaced today, and unsurprisingly, CPU performance is almost identical to the iPhone 16 Pro. The MacBook Neo uses...",
+        "source_link": "https://www.macrumors.com/2026/03/05/macbook-neo-first-benchmarks/"
       },
       {
         "rank": 2,
+        "image": "https://images.macrumors.com/t/8YSmQuzYwbX05dR6RnXsZ9oOHps=/1600x/article-new/2025/03/iPad-A16-Colors.jpg",
+        "title": "Missing From Apple's Announcements: iPad 12 With Apple Intelligence - MacRumors",
+        "description": "In his newsletter over the weekend, Bloomberg's Mark Gurman said Apple was likely to announce at least some but possibly not all of the following...",
+        "source_link": "https://www.macrumors.com/2026/03/05/ipad-12-with-apple-intelligence/"
+      },
+      {
+        "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2026/03/ditoos.jpg",
+        "title": "Ditto Plushies Have Invaded Our Heart Right In Time For Pokopia Fever - Kotaku",
+        "description": "44 new Ditto transformations are yours to love and squeeze and cuddle",
+        "source_link": "https://kotaku.com/pokemon-center-ditto-plush-pokopia-cuddly-snorlax-2000676330"
+      },
+      {
+        "rank": 4,
+        "image": "https://cdn.mos.cms.futurecdn.net/qqTVueeYrqrYYkxn2CscDY-2560-80.jpg",
+        "title": "We finally know how much LG's new top end OLED TVs will cost, and it's good news - What Hi-Fi?",
+        "description": "Both models should be available this month",
+        "source_link": "https://www.whathifi.com/tv-home-cinema/televisions/lg-just-released-the-pricing-of-its-latest-oled-models-and-its-good-news"
+      },
+      {
+        "rank": 5,
         "image": "https://photos5.appleinsider.com/gallery/66914-140510-IMG_3781-xl.jpg",
         "title": "All of Apple's new launches graded from worst to best - AppleInsider",
         "description": "Apple's week of launches has seen it update its iPhones, MacBooks, iPads, and displays, but only some updates are stand-outs while the rest are trivial.",
         "source_link": "https://appleinsider.com/articles/26/03/05/grading-apples-release-week---macbook-pro-air-neo-and-more"
       },
       {
-        "rank": 3,
-        "image": null,
-        "title": "Exclusive: Apple executive details affordable new MacBook Neo, AI-integrated technology and more - ABC News",
-        "description": null,
-        "source_link": "https://abcnews.com/GMA/News/exclusive-apple-executive-details-affordable-new-macbook-neo/story?id\\\\u003d130782617"
-      },
-      {
-        "rank": 4,
+        "rank": 6,
         "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o394k121o8oa14/42c81fff865864f6273c41674a4cc5b4fab7cc26.jpg",
         "title": "Claim the Vapid Firebolt ASP Off-Roader and Much More with GTA+ - Rockstar Games",
         "description": "Conquer the off-road trails of Southern San Andreas with a flatbed beast that's free to claim for GTA+ Members. And beginning on March 10, dominate in the paint and on the perimeter with access to NBA 2K26 in the GTA+ Games Library for a limited time \u2014...",
         "source_link": "https://www.rockstargames.com/newswire/article/o394k121o8oa14/claim-the-vapid-firebolt-asp-off-roader-and-much-more-with-gta"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/FY26-FreePlayDays_03-05-2026_1920x1080-4shot-b0b2eca50d8a9f4fad29.jpg",
         "title": "Free Play Days \u2013 Call of Duty Black Ops 7, Sonic Racing: CrossWorlds, FBC: Firebreak and Black Desert - Xbox Wire",
         "description": "Free Play Days - enjoy Call of Duty Black Ops 7, Sonic Racing: CrossWorlds, FBC: Firebreak and Black Desert this weekend.",
         "source_link": "https://news.xbox.com/en-us/2026/03/05/free-play-days-03-05-2026/"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://assetsio.gnwcdn.com/Screenshot-from-Control-Resonant-showing-Dylan-with-his-eyes-shut-as-he-lies-on-a-bed-with-artwork-of-Jesse-from-Control-overlaid-on-top.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "\"We don't want to mislead players\" - Control Resonant devs confirm Jesse Faden won't be playable, there's no parry, and it's definitely not a Soulslike - Eurogamer.net",
         "description": "Remedy recently shared more details on its upcoming sequel, Control Resonant.",
         "source_link": "https://www.eurogamer.net/we-dont-want-to-mislead-players-control-resonant-devs-confirm-jesse-faden-wont-be-playable-theres-no-parry-and-its-definitely-not-a-soulslike"
-      },
-      {
-        "rank": 7,
-        "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/25241811285o98/62110a5ac010e63ec43603955b3421bba601da14.jpg",
-        "title": "Outfit the Pfister X-Treme in the New Premier Half Camo Livery - Rockstar Games",
-        "description": "They say you can\u2019t improve on perfection, but they say a lot of things that aren\u2019t true. Gild the lily by wrapping the Pfister X-Treme (Super) in the new Premier Half Camo Livery, available from all Vehicle Workshops in GTA Online.",
-        "source_link": "https://www.rockstargames.com/newswire/article/25241811285o98/outfit-the-pfister-x-treme-in-the-new-premier-half-camo-livery"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Apple-M5-hero-251015-1152x648.jpg",
-        "title": "macOS Tahoe 26.3.1 update will \u201cupgrade\u201d your M5\u2019s CPU to new \u201csuper\u201d cores - Ars Technica",
-        "description": "In otherwise minor software update, macOS now uses M5's new nomenclature.",
-        "source_link": "https://arstechnica.com/gadgets/2026/03/macos-tahoe-26-3-1-update-will-upgrade-your-m5s-cpu-to-new-super-cores/"
-      },
-      {
-        "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/Pokopia_first-event.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Pok\u00e9mon Pokopia is out today, but it already has its first limited-time event, with three cute Pok\u00e9mon only available for a two-week window this month - Eurogamer",
-        "description": "The first Pok\u00e9mon Pokopia event sees players meeting and befriending Hoppip, Skiploom and Jumpluff, but they'll only be around for a limited time.",
-        "source_link": "https://www.eurogamer.net/pokemon-pokopia-sets-first-limited-time-event-with-hoppip-skiploom-jumpluff"
       }
     ],
     "trending_movies": [
@@ -125,17 +118,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/sojEzvfxR2DBcDSJyAisX8TWjov.jpg",
-        "title": "The Bluff",
-        "description": "When her tranquil life on a remote island is shattered by the return of her vengeful former captain, a skilled ex-pirate must confront her bloody past...",
-        "source_link": "https://www.themoviedb.org/movie/799882"
+        "image": "https://image.tmdb.org/t/p/w200/3hF38t5vPgmXhY7fBOoY4bFH7nl.jpg",
+        "title": "Strangers in the Park",
+        "description": "A former communist militant and a \"live and let live\" man form an unlikely friendship on a park bench, sharing their life stories with humor and heart...",
+        "source_link": "https://www.themoviedb.org/movie/1631485"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/vl50ruzFWxrbK4zFz0ySjC3TdyK.jpg",
-        "title": "Street Flow 3",
-        "description": "Grieving and facing the consequences of their crimes, the Traor\u00e9 brothers get one last chance to forge a new path....",
-        "source_link": "https://www.themoviedb.org/movie/1629382"
+        "image": "https://image.tmdb.org/t/p/w200/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+        "title": "Shelter",
+        "description": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of ...",
+        "source_link": "https://www.themoviedb.org/movie/1290821"
       }
     ]
   }
