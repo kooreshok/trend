@@ -1,76 +1,76 @@
 {
-  "last_updated": "March 10, 2026, 22:24 UTC",
+  "last_updated": "March 10, 2026, 23:23 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/IMG_3650-1152x648.jpeg",
+        "title": "Testing Apple\u2019s 2026 16-inch MacBook Pro, M5 Max, and its new \u201cperformance\u201d cores - Ars Technica",
+        "description": "M5 Pro Max's \"performance\" CPU cores definitely aren't just rebranded E-cores.",
+        "source_link": "https://arstechnica.com/gadgets/2026/03/testing-apples-2026-16-inch-macbook-pro-m5-max-and-its-new-performance-cores/"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/m5-ipad-pro-ipados.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iPadOS 26.4 adds convenient new feature for iPad power users - 9to5Mac",
+        "description": "iPadOS 26.4 adds a key enhancement to Apple\u2019s new app windowing system that multi-window power users should appreciate.",
+        "source_link": "https://9to5mac.com/2026/03/09/ipados-26-4-adds-convenient-new-feature-for-ipad-power-users/"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.macrumors.com/t/n41-b1rE0MkguubsII_AViyuiaY=/2500x/article-new/2026/03/macbook-neo-new-lime.jpg",
+        "title": "MacBook Neo Wallpapers Now Available for All Macs in macOS Tahoe 26.4 Beta - MacRumors",
+        "description": "The colorful new wallpapers that Apple introduced with the MacBook Neo are available for all Macs in the fourth beta of macOS Tahoe 26.4 that came...",
+        "source_link": "https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/"
+      },
+      {
+        "rank": 4,
         "image": "https://kotaku.com/app/uploads/2026/03/gohostcoin-1200x675.jpg",
         "title": "Ghost Of Yotei Legends Will Add Online Coin-Flicking Action On March 10 - Kotaku",
         "description": "You can also compete with friends in bamboo cutting when Ghost of Yotei Legends launches for free on March 10",
         "source_link": "https://kotaku.com/ghost-of-yoteis-free-online-spin-off-will-let-you-play-that-awesome-coin-flicking-game-with-friends-2000677253"
       },
       {
-        "rank": 2,
-        "image": "https://assetsio.gnwcdn.com/Battlefield-6-image-showing-soldiers-jumping-from-a-helicopter.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "EA lays off staff across Battlefield Studios, following last year's record-breaking Battlefield 6 debut - Eurogamer.net",
-        "description": "Despite celebrating a record-breaking launch for Battlefield 6, EA has reportedly laid off an unspecified number of staff across its Battlefield teams.",
-        "source_link": "https://www.eurogamer.net/ea-lays-off-staff-across-battlefield-studios-following-last-years-record-breaking-battlefield-6-debut"
+        "rank": 5,
+        "image": "https://cdn.motor1.com/images/mgl/1Z276L/s1/2026-ford-mustang-dark-horse-sc-track-pack-front.jpg",
+        "title": "Official: Ford Mustang Dark Horse SC Costs $103,490 - Motor1.com",
+        "description": "Ford's powerful new Mustang Dark Horse SC could cost $103,490 before taxes and fees, or as much as $170,970 for the Special Edition trim.",
+        "source_link": "https://www.motor1.com/news/789394/ford-mustang-dark-horse-sc-price/"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/03/Sigma-Star-Saga-DX_03-09-26.jpg",
+        "title": "Sigma Star Saga DX launches April 7 - Gematsu",
+        "description": "Cult classic shoot \u2019em up RPG Sigma Star Saga DX will launch for PlayStation 5, Switch, and PC via Steam on April 7, developer WayForward announced announced.",
+        "source_link": "https://www.gematsu.com/2026/03/sigma-star-saga-dx-launches-april-7"
+      },
+      {
+        "rank": 7,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/pixel-11-pro-fold-onl-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Pixel 11 Pro Fold looks barely different and just barely thinner in first leak [Gallery] - 9to5Google",
         "description": "It\u2019s already Pixel 11 leak season folks, with the first CAD-based renders of the upcoming Pixel 11 Pro Fold having...",
         "source_link": "http://9to5google.com/2026/03/09/google-pixel-11-pro-fold-cad-render-leak/"
       },
       {
-        "rank": 4,
+        "rank": 8,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2024/09/google-pixel-9-pro-xl-charging.jpg?w=1600&h=900&fit=crop",
+        "title": "Pixel's 80 percent charging limit is turning into a battery bottleneck - Android Police",
+        "description": "It's an intended change",
+        "source_link": "https://www.androidpolice.com/march-update-has-broken-pixels-80-charge-limit-for-many/"
+      },
+      {
+        "rank": 9,
         "image": "https://www.oregonlive.com/resizer/v2/7MWYUVLV3FH2ZGIKONLOPPGLCM.JPG?auth=fa2a6325f6bd3c2f695a9dfc77c6f09d8881e5080cd1ef0a0595634cd1f8e2e1&width=1280&smart=true&quality=90",
         "title": "Video game publisher is a Portland true believer amid tech exodus - OregonLive.com",
         "description": "Big Walk is a new game from Portland-based Panic. Locals can sign up to demo the co-op adventure at its downtown office.",
         "source_link": "https://www.oregonlive.com/business/2026/03/video-game-publisher-is-a-portland-true-believer-amid-tech-exodus.html"
       },
       {
-        "rank": 5,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-Watch-4-tiles-fitbit.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Latest Pixel Watch update breaks SpO2, skin temperature readings in Fitbit for some - 9to5Google",
-        "description": "Following the March 2026 update for Google Pixel Watch devices, a number of users are reporting that their SpO2 (blood...",
-        "source_link": "http://9to5google.com/2026/03/09/latest-pixel-watch-update-breaks-spo2-skin-temperature-readings-in-fitbit-for-some/"
-      },
-      {
-        "rank": 6,
-        "image": "https://supercarblondie.com/wp-content/uploads/Screenshot-2026-03-09-145102.webp",
-        "title": "Alpine's Alpenglow is a fully running hydrogen V6 prototype with blue brake lights and the only thing coming out of its exhaust is water - supercarblondie.com",
-        "description": "The Alpine Alpenglow prototype uses a hydrogen V6 engine to produce 740bhp proving that clean-burning hydrogen can preserve the soul of the traditional supercar",
-        "source_link": "https://supercarblondie.com/alpine-alpenglow-prototype-hydrogen-v6-engine/"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.pushsquare.com/edff9d4b538d7/large.jpg",
-        "title": "Sony's Injecting More Story Than Ever Before into Your PS5 Roguelikes - Push Square",
-        "description": "Saros will tell you a tale in April",
-        "source_link": "https://www.pushsquare.com/news/2026/03/sonys-injecting-more-story-than-ever-before-into-your-ps5-roguelikes"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.huntshowdown.com/files/news/resultsu.jpg",
-        "title": "Developer Insight: Increased Lobby Survey Results - huntshowdown.com",
-        "description": "Hunt: Showdown is a competitive first-person PvP bounty hunting game with heavy PvE elements. Set in the darkest corners of the world, Hunt packs the thrill of survival games into a match-based format.",
-        "source_link": "https://www.huntshowdown.com/detailed"
-      },
-      {
-        "rank": 9,
-        "image": "https://assets.warhammer-community.com/thh_falchion-mar09-1-feature-74btj0xlmw.jpg",
-        "title": "Revealed: Give them both barrels with the new Titan-hunting Falchion tank - Warhammer Community",
-        "description": "A new Space Marine super-heavy rumbles into view.",
-        "source_link": "https://www.warhammer-community.com/articles/f7bd1ghe/revealed-give-them-both-barrels-with-the-new-titan-hunting-falchion-tank"
-      },
-      {
         "rank": 10,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-17e-2026.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Every iPhone now has a useful hardware feature that zero Samsung phones offer - 9to5Mac",
-        "description": "This week, Apple is releasing the new iPhone 17e, which doubles the storage and adds the \u201cmagic of MagSafe\u201d to...",
-        "source_link": "https://9to5mac.com/2026/03/09/every-iphone-now-has-a-useful-hardware-feature-that-zero-samsung-phones-offer/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/googlepixelwatch4deals.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Google\u2019s latest Pixel Watches have fallen to their lowest prices ever - The Verge",
+        "description": "Both the Pixel Watch 4 and the Pixel Watch 3 are down to an all-time low today. Sony\u2019s WH-1000XM5 headphones and Razer\u2019s Kishi V3 controller are on sale, too.",
+        "source_link": "https://www.theverge.com/gadgets/891339/google-pixel-watch-3-4-sony-wh-1000xm5-headphones-deal-sale"
       }
     ],
     "trending_movies": [
@@ -97,31 +97,31 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/vOhW7Lbt4kZAqe0vJhVC4Ced9x2.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
+      },
+      {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
+        "image": "https://image.tmdb.org/t/p/w200/vOhW7Lbt4kZAqe0vJhVC4Ced9x2.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
         "rank": 8,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/gZgWy4SDBDr5qmn2ql6H0uO7hMY.jpg",
-        "title": "Cold Storage",
-        "description": "When a mutating, highly contagious fungus escapes a sealed facility, two employees \u2013 joined by a grizzled bioterror operative \u2013 must survive the wilde...",
-        "source_link": "https://www.themoviedb.org/movie/696393"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
         "title": "The Bride!",
         "description": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdere...",
         "source_link": "https://www.themoviedb.org/movie/1159831"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/gZgWy4SDBDr5qmn2ql6H0uO7hMY.jpg",
+        "title": "Cold Storage",
+        "description": "When a mutating, highly contagious fungus escapes a sealed facility, two employees \u2013 joined by a grizzled bioterror operative \u2013 must survive the wilde...",
+        "source_link": "https://www.themoviedb.org/movie/696393"
       }
     ]
   }
