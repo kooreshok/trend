@@ -1,69 +1,55 @@
 {
-  "last_updated": "March 12, 2026, 22:21 UTC",
+  "last_updated": "March 12, 2026, 23:24 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCoG_d.qnb6w/v1/1200x800.jpg",
+        "title": "Apple\u2019s Foldable iPhone to Feature iPad-Like Interface When Opened - Bloomberg.com",
+        "description": "Apple Inc.\u2019s forthcoming foldable iPhone will include updates to the iOS operating system that enable iPad-like layouts and side-by-side apps for the first time, enhancing the device\u2019s appeal for multitasking.",
+        "source_link": "https://www.bloomberg.com/news/articles/2026-03-11/apple-s-foldable-iphone-to-feature-ipad-like-interface-when-opened"
+      },
+      {
+        "rank": 2,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/mac-lineup-tahoe.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "macOS 26.4: Four new features are coming to your Mac - 9to5Mac",
         "description": "macOS Tahoe 26.4 is coming soon as the next software update for your Mac. Here are four new features included in macOS 26.4.",
         "source_link": "https://9to5mac.com/2026/03/11/macos-26-4-four-new-features-are-coming-to-your-mac/"
       },
       {
-        "rank": 2,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/android-figures-mwc-2026-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google is making Android phones faster and improving battery life with this change - 9to5Google",
-        "description": "Google is working on some behind-the-scenes changes that should make Android phones feel faster while also improving battery life. Announced...",
-        "source_link": "http://9to5google.com/2026/03/11/google-android-kernel-optimization-efforts/"
-      },
-      {
         "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Xbox-Wire-FSE-Blog-Image-0c875350f0217148a2fa-2048x1152-1.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "Microsoft\u2019s \u2018Xbox mode\u2019 is coming to every Windows 11 PC - The Verge",
-        "description": "Starting in April Microsoft is bringing its full-screen Xbox mode to every kind of Windows 11 PC, including laptops, desktops, and tablets.",
-        "source_link": "https://www.theverge.com/games/892875/microsoft-xbox-mode-windows-11-gdc"
+        "image": "https://s.yimg.com/ny/api/res/1.2/snWw10rArz530bSrWI9fhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/1031d310-1d61-11f1-97e5-47ca3fb21dd8",
+        "title": "CVS is packed with beauty markdowns in March, but only 10 made my cart - Yahoo",
+        "description": "I'm loading up on brands like Dove, Olay and L'Or\u00e9al \u2014 all up to 50% off during one of the drugstore's biggest sales of the year.",
+        "source_link": "https://shopping.yahoo.com/deals/article/cvs-is-packed-with-beauty-markdowns-in-march-but-only-10-made-my-cart-184809637.html"
       },
       {
         "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/twarren_xboxseriesxwhite__1_.webp?quality=90&strip=all&crop=0%2C10.855311444928%2C100%2C78.289377110143&w=1200",
-        "title": "Microsoft\u2019s next Xbox, Project Helix, won\u2019t reach alpha until 2027 - The Verge",
-        "description": "Microsoft announced details about Project Helix, its next-generation Xbox, in a presentation at the GDC Festival of Gaming.",
-        "source_link": "https://www.theverge.com/games/893119/xbox-project-helix-jason-ronald-gdc-2026"
-      },
-      {
-        "rank": 5,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/intel-core-ultra-march11-launch-1-1536x864-1-1152x648.jpg",
         "title": "Intel shores up its desktop CPU lineup with boosted Core Ultra 200S Plus chips - Ars Technica",
         "description": "New CPUs are a bit faster and a bit cheaper than the ones they replace.",
         "source_link": "https://arstechnica.com/gadgets/2026/03/intel-shores-up-its-desktop-cpu-lineup-with-boosted-core-ultra-200s-plus-chips/"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://assetsio.gnwcdn.com/stonks-Pokopia.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Pok\u00e9mon Pokopia is such a \"viral hit\" that it's making Nintendo's share price surge (after months of going down) - Eurogamer.net",
         "description": "Pok\u00e9mon Pokopia is huge and a viral hit already. Moreover, it's boosted Nintendo's share price and Switch 2 sales following a few slower months.",
         "source_link": "https://www.eurogamer.net/pokemon-pokopia-boosts-nintendo-share-price-after-first-weekend-out"
       },
       {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/Persona-5-Royal-%E2%80%93-Ultimate-Edition-image-showing-a-character-holding-a-mask-on-a-red-background.-There-is-a-PS-Plus-logo-overlaid-on-top.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Here are our PlayStation Plus Extra and Premium games for March - Eurogamer.net",
-        "description": "Sony has lifted the lid on its PS Plus Premium and Extra game offerings for March.",
-        "source_link": "https://www.eurogamer.net/here-are-our-playstation-plus-extra-and-premium-games-for-march"
+        "rank": 6,
+        "image": "https://images.macrumors.com/t/sbQEiSsX5TFjzeIHvxvIsvkG4W0=/3840x/article-new/2024/10/Apple-MacBook-Pro-M4-hero.jpg",
+        "title": "MacBook Pro to Receive 'Major Upgrade' by Early Next Year - MacRumors",
+        "description": "Apple supply chain analyst Ming-Chi Kuo today said the MacBook Pro will receive a \"major upgrade\" with an OLED display by early next year.  ...",
+        "source_link": "https://www.macrumors.com/2026/03/11/macbook-pro-major-upgrade/"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/attend-events/_tiles/2026/league-kits/play-pokemon-169.png",
         "title": "Enjoy New Prizes and Newly Distributed Battle Boxes at Play! Pok\u00e9mon Stores - Pokemon.com",
         "description": "Acrylic standees, stickers, and Battle Boxes are coming to local Play! Pok\u00e9mon Stores starting April 1, 2026.",
         "source_link": "https://www.pokemon.com/us/pokemon-news/enjoy-new-prizes-and-newly-distributed-battle-boxes-at-play-pokemon-stores"
-      },
-      {
-        "rank": 9,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
-        "title": "WhatsApp is launching parent-linked accounts for pre-teens - TechCrunch",
-        "description": "WhatsApp is rolling out parent-managed accounts for under-13 users, limiting features to messaging and calls while giving parents PIN-protected controls, alerts, and approval over contacts and groups.",
-        "source_link": "https://techcrunch.com/2026/03/11/whatsapp-is-launching-parent-linked-accounts-for-pre-teens/"
       }
     ],
     "trending_movies": [
@@ -132,10 +118,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/ouOvRvsgF37yEx3D6ZLWyuxZFjE.jpg",
-        "title": "Louis Theroux: Inside the Manosphere",
-        "description": "With rare access and no holds barred, the acclaimed documentarian investigates a growing ultra-masculine network and its controversial influencers....",
-        "source_link": "https://www.themoviedb.org/movie/1633264"
+        "image": "https://image.tmdb.org/t/p/w200/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "Miranda Priestly navigates her career amid the decline of traditional magazine publishing. She faces off against Emily Charlton, her one-time assistan...",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
       }
     ]
   }
