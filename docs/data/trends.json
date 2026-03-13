@@ -1,76 +1,69 @@
 {
-  "last_updated": "March 13, 2026, 06:46 UTC",
+  "last_updated": "March 13, 2026, 07:42 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/e3954b58a909a/large.jpg",
+        "title": "Former Overwatch Director Breaks Silence About Sudden Departure From Blizzard - Nintendo Life",
+        "description": "\"I literally thought I'd retire from the place\"",
+        "source_link": "https://www.nintendolife.com/news/2026/03/former-overwatch-director-breaks-silence-about-sudden-departure-from-blizzard"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-silver.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "How well does the new MacBook Neo handle gaming? Andrew Tsai tested 10 games to find out - 9to5Mac",
+        "description": "From AAA games to Windows to Switch emulated games, Andrew Tsai set out to find whether the MacBook Neo can actually run games well.",
+        "source_link": "https://9to5mac.com/2026/03/11/how-well-does-the-new-macbook-neo-handle-gaming-andrew-tsai-tested-10-games-to-find-out/"
+      },
+      {
+        "rank": 3,
         "image": "https://images.nintendolife.com/2a78d89ac7ff6/large.jpg",
         "title": "Pok\u00e9mon Pokopia Sales Surpass 2.2 Million Units Globally In First Four Days - Nintendo Life",
         "description": "The Switch 2 exclusive is off to a strong start",
         "source_link": "https://www.nintendolife.com/news/2026/03/pokemon-pokopia-sales-surpass-2-2-million-units-globally-in-first-four-days"
       },
       {
-        "rank": 2,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Play-Games-Sidekick-cover2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google rolling out Play Games Sidekick and Game Trials - 9to5Google",
-        "description": "Back in September, Google previewed Play Games Sidekick. This experience is now beginning to roll out, with Google...",
-        "source_link": "http://9to5google.com/2026/03/11/google-play-games-sidekick/"
+        "rank": 4,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/Play-Games-PC-1-1152x648.jpg",
+        "title": "Google Play Games for PC is getting more premium titles and cross-buy with Android - Ars Technica",
+        "description": "Google is more focused on desktop gaming than ever before.",
+        "source_link": "https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-10038-6/MediaObjects/41586_2025_10038_Fig1_HTML.png",
         "title": "Nanophotonic waveguide chip-to-world beam scanning - Nature",
         "description": "A monolithically integrated photonic ski-jump enables scalable, diffraction-limited 2D beam scanning from photonic chips, achieving ultrahigh spot rates, compact footprints and applications spanning displays, sensing and quantum photonics.",
         "source_link": "https://www.nature.com/articles/s41586-025-10038-6"
       },
       {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/iPad_Mini_8.webp?quality=90&strip=all&crop=0%2C10.816353753293%2C100%2C78.367292493414&w=1200",
-        "title": "iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID - The Verge",
-        "description": "Apple\u2019s rumored folding iPhone could offer an iPad-like layout with the ability to view apps side-by-side, according to a report from Bloomberg\u2019s Mark Gurman.",
-        "source_link": "https://www.theverge.com/tech/893429/iphone-fold-rumor-ipad-multitasking-face-id-rumor"
-      },
-      {
-        "rank": 5,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/rog-xbox-ally-1152x648.jpeg",
-        "title": "Windows 11\u2019s Steam Deck-ish, streamlined Xbox gaming UI comes to all PCs in April - Ars Technica",
-        "description": "Running Windows on gaming handhelds is currently a blessing and a curse.",
-        "source_link": "https://arstechnica.com/gadgets/2026/03/windows-11s-steam-deck-ish-streamlined-xbox-gaming-ui-comes-to-all-pcs-in-april/"
-      },
-      {
         "rank": 6,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/mac-lineup-tahoe.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "macOS 26.4: Four new features are coming to your Mac - 9to5Mac",
-        "description": "macOS Tahoe 26.4 is coming soon as the next software update for your Mac. Here are four new features included in macOS 26.4.",
-        "source_link": "https://9to5mac.com/2026/03/11/macos-26-4-four-new-features-are-coming-to-your-mac/"
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCoG_d.qnb6w/v1/1200x800.jpg",
+        "title": "Apple\u2019s Foldable iPhone to Feature iPad-Like Interface When Opened - Bloomberg",
+        "description": "Apple Inc.\u2019s forthcoming foldable iPhone will include updates to the iOS operating system that enable iPad-like layouts and side-by-side apps for the first time, enhancing the device\u2019s appeal for multitasking.",
+        "source_link": "https://www.bloomberg.com/news/articles/2026-03-11/apple-s-foldable-iphone-to-feature-ipad-like-interface-when-opened"
       },
       {
         "rank": 7,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/Perplexity-Personal-Computer.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Perplexity\u2019s Personal Computer is a cloud-based AI agent running on Mac mini - 9to5Mac",
+        "description": "Apple\u2019s Mac mini is back in the AI headlines. Last month, Perplexity released its own version of the OpenClaw \u201cpersonal...",
+        "source_link": "https://9to5mac.com/2026/03/11/perplexitys-personal-computer-is-a-cloud-based-ai-agent-running-on-mac-mini/"
+      },
+      {
+        "rank": 8,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S26-family-1-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "The Galaxy S26 series is now officially on sale, and the trade-in values have plummeted - 9to5Google",
         "description": "You\u2019ve had two weeks to pre-order Samsung\u2019s new Galaxy S26 lineup, but if you missed your chance, you might\u2019ve also...",
         "source_link": "http://9to5google.com/2026/03/11/the-galaxy-s26-series-is-now-officially-on-sale-and-the-trade-in-values-have-plummeted/"
       },
       {
-        "rank": 8,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/intel-core-ultra-march11-launch-1-1536x864-1-1152x648.jpg",
-        "title": "Intel shores up its desktop CPU lineup with boosted Core Ultra 200S Plus chips - Ars Technica",
-        "description": "New CPUs are a bit faster and a bit cheaper than the ones they replace.",
-        "source_link": "https://arstechnica.com/gadgets/2026/03/intel-shores-up-its-desktop-cpu-lineup-with-boosted-core-ultra-200s-plus-chips/"
-      },
-      {
         "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/Persona-5-Royal-%E2%80%93-Ultimate-Edition-image-showing-a-character-holding-a-mask-on-a-red-background.-There-is-a-PS-Plus-logo-overlaid-on-top.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Here are our PlayStation Plus Extra and Premium games for March - Eurogamer.net",
-        "description": "Sony has lifted the lid on its PS Plus Premium and Extra game offerings for March.",
-        "source_link": "https://www.eurogamer.net/here-are-our-playstation-plus-extra-and-premium-games-for-march"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.macrumors.com/t/sbQEiSsX5TFjzeIHvxvIsvkG4W0=/3840x/article-new/2024/10/Apple-MacBook-Pro-M4-hero.jpg",
-        "title": "MacBook Pro to Receive 'Major Upgrade' by Early Next Year - MacRumors",
-        "description": "Apple supply chain analyst Ming-Chi Kuo today said the MacBook Pro will receive a \"major upgrade\" with an OLED display by early next year.  ...",
-        "source_link": "https://www.macrumors.com/2026/03/11/macbook-pro-major-upgrade/"
+        "image": "https://s.yimg.com/ny/api/res/1.2/snWw10rArz530bSrWI9fhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/1031d310-1d61-11f1-97e5-47ca3fb21dd8",
+        "title": "CVS is packed with beauty markdowns in March, but only 10 made my cart - Yahoo",
+        "description": "I'm loading up on brands like Dove, Olay and L'Or\u00e9al \u2014 all up to 50% off during one of the drugstore's biggest sales of the year.",
+        "source_link": "https://shopping.yahoo.com/deals/article/cvs-is-packed-with-beauty-markdowns-in-march-but-only-10-made-my-cart-184809637.html"
       }
     ],
     "trending_movies": [
@@ -118,10 +111,10 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/7RYO0KTXIJ0rS0LqnCQLxeNR3P3.jpg",
-        "title": "Disclosure Day",
-        "description": "If you found out we weren\u2019t alone, if someone showed you, proved it to you, would that frighten you?...",
-        "source_link": "https://www.themoviedb.org/movie/1275779"
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
         "rank": 8,
@@ -132,10 +125,10 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
+        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+        "title": "Scream 7",
+        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
+        "source_link": "https://www.themoviedb.org/movie/1159559"
       },
       {
         "rank": 10,
