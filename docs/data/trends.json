@@ -1,76 +1,62 @@
 {
-  "last_updated": "March 13, 2026, 12:51 UTC",
+  "last_updated": "March 13, 2026, 13:57 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://images.nintendolife.com/e3954b58a909a/large.jpg",
-        "title": "Former Overwatch Director Breaks Silence About Sudden Departure From Blizzard - Nintendo Life",
-        "description": "\"I literally thought I'd retire from the place\"",
-        "source_link": "https://www.nintendolife.com/news/2026/03/former-overwatch-director-breaks-silence-about-sudden-departure-from-blizzard"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/2lFbEKLJQ88PaaoZZTWuGV5rQY.avif?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "Perplexity\u2019s Personal Computer turns your spare Mac into an AI agent - The Verge",
+        "description": "Perplexity is positioning Personal Computer as a more secure version of OpenClaw that runs on a Mac.",
+        "source_link": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent"
       },
       {
         "rank": 2,
+        "image": "https://images.pushsquare.com/f0e541a382e09/large.jpg",
+        "title": "Poll: Has PS5's Dynamic Pricing Debacle Changed Your Relationship with the PS Store at All? - Push Square",
+        "description": "To buy or not to buy",
+        "source_link": "https://www.pushsquare.com/features/poll-has-ps5s-dynamic-pricing-debacle-changed-your-relationship-with-the-ps-store-at-all"
+      },
+      {
+        "rank": 3,
+        "image": "https://assetsio.gnwcdn.com/overwatch-director-jeff-kaplan-announces-departure-from-blizzard-after-19-years-1618943680401.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Former Overwatch Lead claims he was given a horrid ultimatum: meet revenue goals or 1,000 developers would lose jobs - Eurogamer.net",
+        "description": "In at interview with Lex Fridman, former Overwatch lead Jeff Kaplan claims he was told to hit revenue targets or 1,000 developers would lose their jobs.",
+        "source_link": "https://www.eurogamer.net/former-overwatch-lead-claims-he-was-given-a-horrid-ultimatum-meet-revenue-goals-or-1000-developers-would-lose-jobs"
+      },
+      {
+        "rank": 4,
+        "image": "https://rockstarintel.com/wp-content/uploads/2025/08/ab20558ed00e411be9c2294f4c606321fed04ffb-scaled.jpg",
+        "title": "New GTA Online Event Week: Showcase Special (March 12th-18th) - RockstarINTEL",
+        "description": "It's another GTA Online Weekly Update and this is a big week! There is new content for St. Patrick's Day plus a special showcase event! Check out everything happening in GTA Online during this Event Week which will run from March 12th through 18th.",
+        "source_link": "https://rockstarintel.com/new-gta-online-event-week-march-12th-18th/"
+      },
+      {
+        "rank": 5,
+        "image": "https://images.axios.com/B3sMOlcrtWYE7ZWZrwAmULcWrxU=/0x0:1280x720/1366x768/2026/03/06/1772837239489.jpg",
+        "title": "AI may never be as cheap as it is today - Axios",
+        "description": "AI companies like OpenAI, Google subsidize costs. For now.",
+        "source_link": "https://www.axios.com/2026/03/12/ai-models-costs-ipo-pricing"
+      },
+      {
+        "rank": 6,
+        "image": "https://cdn.videocardz.com/1/2026/03/ASUS-ROG-STRIX-OLED-HERO.jpg",
+        "title": "ASUS adds three 27-inch QHD ROG Strix OLED gaming monitors, starting at $599 - VideoCardz.com",
+        "description": "ASUS announces 240Hz and 280Hz 27-inch ROG Strix OLED monitors ASUS has announced three new 27-inch QHD OLED gaming monitors under its ROG Strix lineup,",
+        "source_link": "https://videocardz.com/newz/asus-adds-three-27-inch-qhd-rog-strix-oled-gaming-monitors-starting-at-599"
+      },
+      {
+        "rank": 7,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-silver.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "How well does the new MacBook Neo handle gaming? Andrew Tsai tested 10 games to find out - 9to5Mac",
         "description": "From AAA games to Windows to Switch emulated games, Andrew Tsai set out to find whether the MacBook Neo can actually run games well.",
         "source_link": "https://9to5mac.com/2026/03/11/how-well-does-the-new-macbook-neo-handle-gaming-andrew-tsai-tested-10-games-to-find-out/"
       },
       {
-        "rank": 3,
-        "image": "https://images.axios.com/KwLRjgHzIHGE0aBn0KF0KGds3Sk=/0x0:5712x3213/1366x768/2026/03/11/1773252173980.jpeg",
-        "title": "Perplexity rolls out enterprise AI agent tools - Axios",
-        "description": "The AI startup claims to offer a safer version of OpenClaw",
-        "source_link": "https://www.axios.com/2026/03/11/perplexity-personal-computer-mac"
-      },
-      {
-        "rank": 4,
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/03/Pokemon-Pokopia-Sales_03-11-26.jpg",
-        "title": "Pokemon Pokopia sales top 2.2 million in four days - Gematsu",
-        "description": "Total sales for Pokemon Pokopia surpassed 2.2 million units in its first four days of release, The Pokemon Company announced. One million units were sold in Japan alone.",
-        "source_link": "https://www.gematsu.com/2026/03/pokemon-pokopia-sales-top-2-2-million-in-four-days"
-      },
-      {
-        "rank": 5,
-        "image": "https://techcrunch.com/wp-content/uploads/2024/07/google-play-store.jpg?resize=1200,800",
-        "title": "Google Play is adding new paid and PC games, game trials, community posts, and more - TechCrunch",
-        "description": "The updates indicate that Google is focused on transforming Google Play into an enhanced gaming hub.",
-        "source_link": "https://techcrunch.com/2026/03/11/google-play-is-adding-new-paid-and-pc-games-game-trials-community-posts-and-more/"
-      },
-      {
-        "rank": 6,
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-025-10038-6/MediaObjects/41586_2025_10038_Fig1_HTML.png",
-        "title": "Nanophotonic waveguide chip-to-world beam scanning - Nature",
-        "description": "A monolithically integrated photonic ski-jump enables scalable, diffraction-limited 2D beam scanning from photonic chips, achieving ultrahigh spot rates, compact footprints and applications spanning displays, sensing and quantum photonics.",
-        "source_link": "https://www.nature.com/articles/s41586-025-10038-6"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/iPad_Mini_8.webp?quality=90&strip=all&crop=0%2C10.816353753293%2C100%2C78.367292493414&w=1200",
-        "title": "iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID - The Verge",
-        "description": "Apple\u2019s rumored folding iPhone could offer an iPad-like layout with the ability to view apps side-by-side, according to a report from Bloomberg\u2019s Mark Gurman.",
-        "source_link": "https://www.theverge.com/tech/893429/iphone-fold-rumor-ipad-multitasking-face-id-rumor"
-      },
-      {
         "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/Helix_header.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Xbox unveils first tech details of its next generation console, codenamed Project Helix - GamesIndustry.biz",
-        "description": "Xbox has revealed limited technical details about its next console, codenamed Project Helix.",
-        "source_link": "https://www.gamesindustry.biz/xbox-unveils-first-tech-details-of-its-next-generation-console-codenamed-project-helix"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/03/M5-Max-thermal-testing.jpg",
-        "title": "M5 Max\u2019s Fusion Architecture Allows For Better Sustained Performance While Running 8 Degrees Celsius Cooler Than M4 Max; Still Gets Uncomfortably Hot - Wccftech",
-        "description": "The Fusion Architecture allows the M5 Max to maintain better thermals than the M4 Max while delivering better performance, as shown in the latest comparison",
-        "source_link": "https://wccftech.com/m5-max-runs-cooler-than-m4-max-but-still-gets-scorching-hot/"
-      },
-      {
-        "rank": 10,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/rog-xbox-ally-1152x648.jpeg",
-        "title": "Windows 11\u2019s Steam Deck-ish, streamlined Xbox gaming UI comes to all PCs in April - Ars Technica",
-        "description": "Running Windows on gaming handhelds is currently a blessing and a curse.",
-        "source_link": "https://arstechnica.com/gadgets/2026/03/windows-11s-steam-deck-ish-streamlined-xbox-gaming-ui-comes-to-all-pcs-in-april/"
+        "image": "https://images.nintendolife.com/2a78d89ac7ff6/large.jpg",
+        "title": "Pok\u00e9mon Pokopia Sales Surpass 2.2 Million Units Globally In First Four Days - Nintendo Life",
+        "description": "The Switch 2 exclusive is off to a strong start",
+        "source_link": "https://www.nintendolife.com/news/2026/03/pokemon-pokopia-sales-surpass-2-2-million-units-globally-in-first-four-days"
       }
     ],
     "trending_movies": [
@@ -111,17 +97,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/huVzcVrlK8aiLd240ienleODvWl.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
         "rank": 8,
@@ -132,17 +118,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
         "title": "The Devil Wears Prada 2",
         "description": "Miranda Priestly navigates her career amid the decline of traditional magazine publishing. She faces off against Emily Charlton, her one-time assistan...",
         "source_link": "https://www.themoviedb.org/movie/1314481"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
       }
     ]
   }
