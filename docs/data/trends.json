@@ -1,51 +1,65 @@
 {
-  "last_updated": "March 13, 2026, 01:47 UTC",
+  "last_updated": "March 13, 2026, 04:08 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/Play-Games-PC-1-1152x648.jpg",
+        "title": "Google Play Games for PC is getting more premium titles and cross-buy with Android - Ars Technica",
+        "description": "Google is more focused on desktop gaming than ever before.",
+        "source_link": "https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/"
+      },
+      {
+        "rank": 2,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCoG_d.qnb6w/v1/1200x800.jpg",
         "title": "Apple\u2019s Foldable iPhone to Feature iPad-Like Interface When Opened - Bloomberg.com",
         "description": "Apple Inc.\u2019s forthcoming foldable iPhone will include updates to the iOS operating system that enable iPad-like layouts and side-by-side apps for the first time, enhancing the device\u2019s appeal for multitasking.",
         "source_link": "https://www.bloomberg.com/news/articles/2026-03-11/apple-s-foldable-iphone-to-feature-ipad-like-interface-when-opened"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/mac-lineup-tahoe.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "macOS 26.4: Four new features are coming to your Mac - 9to5Mac",
         "description": "macOS Tahoe 26.4 is coming soon as the next software update for your Mac. Here are four new features included in macOS 26.4.",
         "source_link": "https://9to5mac.com/2026/03/11/macos-26-4-four-new-features-are-coming-to-your-mac/"
       },
       {
-        "rank": 3,
-        "image": "https://s.yimg.com/ny/api/res/1.2/snWw10rArz530bSrWI9fhg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/1031d310-1d61-11f1-97e5-47ca3fb21dd8",
-        "title": "CVS is packed with beauty markdowns in March, but only 10 made my cart - Yahoo",
-        "description": "I'm loading up on brands like Dove, Olay and L'Or\u00e9al \u2014 all up to 50% off during one of the drugstore's biggest sales of the year.",
-        "source_link": "https://shopping.yahoo.com/deals/article/cvs-is-packed-with-beauty-markdowns-in-march-but-only-10-made-my-cart-184809637.html"
-      },
-      {
         "rank": 4,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/intel-core-ultra-march11-launch-1-1536x864-1-1152x648.jpg",
-        "title": "Intel shores up its desktop CPU lineup with boosted Core Ultra 200S Plus chips - Ars Technica",
-        "description": "New CPUs are a bit faster and a bit cheaper than the ones they replace.",
-        "source_link": "https://arstechnica.com/gadgets/2026/03/intel-shores-up-its-desktop-cpu-lineup-with-boosted-core-ultra-200s-plus-chips/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/20260311_085610.jpg?quality=90&strip=all&crop=0%2C13.547311220674%2C100%2C72.905377558652&w=1200",
+        "title": "Microsoft says you should build next-gen Xbox games by building them for PC. - The Verge",
+        "description": "",
+        "source_link": "https://www.theverge.com/news/893196/microsoft-says-you-should-build-next-gen-xbox-games-by-building-them-for-pc"
       },
       {
         "rank": 5,
-        "image": "https://assetsio.gnwcdn.com/stonks-Pokopia.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Pok\u00e9mon Pokopia is such a \"viral hit\" that it's making Nintendo's share price surge (after months of going down) - Eurogamer.net",
-        "description": "Pok\u00e9mon Pokopia is huge and a viral hit already. Moreover, it's boosted Nintendo's share price and Switch 2 sales following a few slower months.",
-        "source_link": "https://www.eurogamer.net/pokemon-pokopia-boosts-nintendo-share-price-after-first-weekend-out"
+        "image": "https://i.pcmag.com/imagery/reviews/06wgO3YBHt8sYmipLAAYMUL-2.fit_lim.size_1200x630.v1773194542.jpg",
+        "title": "After Testing the Samsung Galaxy S26, I Found It Falls Short on These 2 Features - PCMag",
+        "description": "The Galaxy S26 Ultra shines with incredible cameras, smart AI features, and a refined design, making it an exceptional phone for creatives, even if it doesn't offer the longest battery life or perfect viewing angles.",
+        "source_link": "https://www.pcmag.com/reviews/samsung-galaxy-s26-ultra"
       },
       {
         "rank": 6,
+        "image": "https://assetsio.gnwcdn.com/Persona-5-Royal-%E2%80%93-Ultimate-Edition-image-showing-a-character-holding-a-mask-on-a-red-background.-There-is-a-PS-Plus-logo-overlaid-on-top.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Here are our PlayStation Plus Extra and Premium games for March - Eurogamer.net",
+        "description": "Sony has lifted the lid on its PS Plus Premium and Extra game offerings for March.",
+        "source_link": "https://www.eurogamer.net/here-are-our-playstation-plus-extra-and-premium-games-for-march"
+      },
+      {
+        "rank": 7,
         "image": "https://images.macrumors.com/t/sbQEiSsX5TFjzeIHvxvIsvkG4W0=/3840x/article-new/2024/10/Apple-MacBook-Pro-M4-hero.jpg",
         "title": "MacBook Pro to Receive 'Major Upgrade' by Early Next Year - MacRumors",
         "description": "Apple supply chain analyst Ming-Chi Kuo today said the MacBook Pro will receive a \"major upgrade\" with an OLED display by early next year.  ...",
         "source_link": "https://www.macrumors.com/2026/03/11/macbook-pro-major-upgrade/"
       },
       {
-        "rank": 7,
+        "rank": 8,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "New iPhone 18 Pro leaks explore design details, dimensions, more - 9to5Mac",
+        "description": "New iPhone 18 Pro-related posts from Weibo leakers outline what to expect from the product\u2019s design, dimensions, and more.",
+        "source_link": "https://9to5mac.com/2026/03/11/new-iphone-18-pro-leaks-explore-design-details-dimensions-more/"
+      },
+      {
+        "rank": 9,
         "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/attend-events/_tiles/2026/league-kits/play-pokemon-169.png",
         "title": "Enjoy New Prizes and Newly Distributed Battle Boxes at Play! Pok\u00e9mon Stores - Pokemon.com",
         "description": "Acrylic standees, stickers, and Battle Boxes are coming to local Play! Pok\u00e9mon Stores starting April 1, 2026.",
@@ -69,38 +83,38 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
-        "title": "Good Luck, Have Fun, Don't Die",
-        "description": "A man claiming to be from the future takes the patrons of an iconic Los Angeles diner hostage in search of unlikely recruits in a quest to save the wo...",
-        "source_link": "https://www.themoviedb.org/movie/1119449"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/2HoR2x23bqKpopluoBD1FH3tBi7.jpg",
         "title": "Crime 101",
         "description": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this bei...",
         "source_link": "https://www.themoviedb.org/movie/1171145"
       },
       {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+        "title": "Good Luck, Have Fun, Don't Die",
+        "description": "A man claiming to be from the future takes the patrons of an iconic Los Angeles diner hostage in search of unlikely recruits in a quest to save the wo...",
+        "source_link": "https://www.themoviedb.org/movie/1119449"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/huVzcVrlK8aiLd240ienleODvWl.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
         "title": "\"Wuthering Heights\"",
         "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
         "source_link": "https://www.themoviedb.org/movie/1316092"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
         "rank": 8,
@@ -118,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/ouOvRvsgF37yEx3D6ZLWyuxZFjE.jpg",
-        "title": "Louis Theroux: Inside the Manosphere",
-        "description": "With rare access and no holds barred, the acclaimed documentarian investigates a growing ultra-masculine network and its controversial influencers....",
-        "source_link": "https://www.themoviedb.org/movie/1633264"
+        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+        "title": "Scream 7",
+        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
+        "source_link": "https://www.themoviedb.org/movie/1159559"
       }
     ]
   }
