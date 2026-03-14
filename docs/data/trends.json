@@ -1,76 +1,76 @@
 {
-  "last_updated": "March 14, 2026, 18:32 UTC",
+  "last_updated": "March 14, 2026, 19:23 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://kotaku.com/app/uploads/2022/04/18j1erop9hyhzjpg-1200x675.jpg",
+        "title": "FBI Announces Steam Investigation Into Indie Game Malware - Kotaku",
+        "description": "The games were removed from Valve's storefront earlier this year but concerns remain",
+        "source_link": "https://kotaku.com/steam-malware-fbi-indie-valve-2000678719"
+      },
+      {
+        "rank": 2,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFW3YSJVo2xM/v0/1200x793.jpg",
+        "title": "Five Takeaways From the 2026 Game Developers Conference - Bloomberg.com",
+        "description": "GDC in San Francisco this week was full of job-seekers, co-development studios and AI",
+        "source_link": "https://www.bloomberg.com/news/newsletters/2026-03-13/the-2026-game-developers-conference-s-five-major-takeaways"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26.4-settings.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iOS 26.4 adds three new ways to customize your iPhone - 9to5Mac",
+        "description": "iOS 26.4 is launching soon and bringing a lot of new features, including three new ways to customize your iPhone. Here\u2019s what\u2019s new.",
+        "source_link": "https://9to5mac.com/2026/03/13/ios-26-4-adds-three-new-ways-to-customize-your-iphone/"
+      },
+      {
+        "rank": 4,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/IMG_3717-1152x648.jpeg",
+        "title": "M5 MacBook Air review: Still the best MacBook for almost everybody - Ars Technica",
+        "description": "The M5 MacBook Air is a minor upgrade, but minor upgrades add up over time.",
+        "source_link": "https://arstechnica.com/gadgets/2026/03/m5-macbook-air-review-still-the-best-macbook-for-almost-everybody/"
+      },
+      {
+        "rank": 5,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/03/samsung-galaxy-z-flip8-batteries/-952x498w6/gsmarena_000.jpg",
+        "title": "Leaked info on Samsung Galaxy Z Flip8 batteries brings disappointing news - GSMArena.com news - GSMArena.com",
+        "description": "Previously, we heard that the Z Flip8 will not bring a camera upgrade - the Z Flip7 didn't either. With the Galaxy S26 series launch behind its back,...",
+        "source_link": "https://www.gsmarena.com/leaked_info_on_samsung_galaxy_z_flip8_batteries_brings_disappointing_news-news-71946.php"
+      },
+      {
+        "rank": 6,
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6KEGLRCVQVGHZFVNAVVCN7RGOE.jpg&w=1200",
+        "title": "Column | For eons, the Earth has been talking to us. New technology allows us to listen. - The Washington Post",
+        "description": "New technology enables us to perceive sounds beyond human hearing range, allowing a new perspective on our place on the planet.",
+        "source_link": "https://www.washingtonpost.com/climate-environment/interactive/2026/nature-sounds-human-hearing-infrasound-ultrasound/"
+      },
+      {
+        "rank": 7,
+        "image": "https://images.macrumors.com/t/b-krbYrUDlPHGrpWjLBf-xoJXSE=/1600x/article-new/2023/09/Apple-Logo-Spotlight.jpg",
+        "title": "Apple is Up to Something Secret in New York - MacRumors",
+        "description": "Apple's retail store at the Grand Central Terminal in New York is temporarily closed, but the reason why remains a mystery.   As seen in photos...",
+        "source_link": "https://www.macrumors.com/2026/03/13/apple-up-to-something-secret-in-new-york/"
+      },
+      {
+        "rank": 8,
         "image": "https://lifehacker.com/imagery/articles/01KKH90QNE3N7ES2BSGNS0TBC2/hero-image.fill.size_1200x675.png",
         "title": "If You Have One of These Older Apple Devices, Update It ASAP - Lifehacker",
         "description": "Apple is patching bugs that have been exploited by threat actors.",
         "source_link": "https://lifehacker.com/tech/older-apple-devices-security-update"
       },
       {
-        "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/dsc03092_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "title": "PSA: Don\u2019t buy a $4,400 gray market Samsung TriFold on eBay - The Verge",
-        "description": "Samsung\u2019s TriFold has been notoriously hard to get, so we took some desperate measures\u2026 and lived to regret it.",
-        "source_link": "https://www.theverge.com/tech/894063/samsung-galaxy-z-trifold-sold-out-ebay"
-      },
-      {
-        "rank": 3,
-        "image": "https://supercarblondie.com/wp-content/uploads/Thin-foldable-phone-featured.webp",
-        "title": "World's thinnest foldable phone is looking to challenge Samsung with a very striking price tag - supercarblondie.com",
-        "description": "The foldable phone race is heating up with Honor's latest Magic V6 contender, and it looks like a challenge to Samsung as the world's thinnest foldable phone",
-        "source_link": "https://supercarblondie.com/tech/worlds-thinnest-foldable-phone-is-looking-to-challenge-samsung/"
-      },
-      {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "PC makers are not ready for the MacBook Neo - The Verge",
-        "description": "Apple\u2019s affordable MacBook is out, and Windows laptop makers are ill-prepared for it. Even worse, some of them seem to not even understand what they\u2019re up against.",
-        "source_link": "https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth"
-      },
-      {
-        "rank": 5,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/03/NVIDIA-GDC-2026-HERO-1920x1058.jpg",
-        "title": "NVIDIA Says Its Future Gaming GPUs Will Bring A 1,000,000x Leap In Path Tracing Performance By Using RTX / AI Advances - Wccftech",
-        "description": "NVIDIA has teased its future GPUs with massive path tracing performance capabilities thanks to AI & RTX advancements, as Moore's Law is Dead.",
-        "source_link": "https://wccftech.com/nvidia-says-future-gaming-gpus-bring-a-1000000x-leap-path-tracing-performance-using-rtx-ai-advances/"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/02/Microsoft-DX12-DirectX-12-Custom-1920x1079.jpg",
-        "title": "Microsoft DirectX Gears Up For ML Era On Windows, Advanced Shader Delivery Solves Game Stutter & Load Times, DXR 2.0 Teased - Wccftech",
-        "description": "Microsoft has announced two new updates at GDC 2026: ML-Powered DirectX & Advanced Shader Delivery for the next chapter in gaming.",
-        "source_link": "https://wccftech.com/microsoft-directx-gears-up-for-ml-era-advanced-shader-delivery-solves-game-stutter-load-times-dxr-2-0-teased/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.bleepstatic.com/content/hl-images/2026/03/13/Google_Chrome.jpg",
-        "title": "Google fixes two new Chrome zero-days exploited in attacks - BleepingComputer",
-        "description": "Google has released emergency security updates to patch two high-severity Chrome vulnerabilities exploited in zero-day attacks.",
-        "source_link": "https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.nintendolife.com/d40352146c73e/large.jpg",
-        "title": "Tomb Raider I-III Remastered Gets A Switch 2 Release, Free Upgrade \"Coming Soon\" - Nintendo Life",
-        "description": "New 'Challenge Mode' and outfits also available",
-        "source_link": "https://www.nintendolife.com/news/2026/03/tomb-raider-i-iii-remastered-gets-a-switch-2-release-free-upgrade-coming-soon"
-      },
-      {
         "rank": 9,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Kirby-Air-Riders-City-Trial-original-map.jpg",
-        "title": "Kirby Air Riders almost brought back the old City Trial map, Sakurai explains why it didn't happen - Nintendo Everything",
-        "description": "Director Masahiro Sakurai reveals that the original City Trial map was considered for Kirby Air Riders and talks about why it didn't work.",
-        "source_link": "https://nintendoeverything.com/kirby-air-riders-almost-brought-back-the-old-city-trial-map-sakurai-explains-why-it-didnt-happen/"
+        "image": "https://images.macrumors.com/t/icmzY0udPl-C_yY7gZ4X4MCqKIw=/2500x/article-new/2025/12/3D-Printed-iPhone-Fold-Thumb-2.jpg",
+        "title": "iPhone Fold: 5 Things We Learned This Week About Apple's Foldable - MacRumors",
+        "description": "It's been a big week for foldable iPhone rumors. In case you missed any of them, here are five developments that we've covered over the last...",
+        "source_link": "https://www.macrumors.com/2026/03/13/iphone-fold-5-things-we-learned-this-week/"
       },
       {
         "rank": 10,
-        "image": "https://images.pushsquare.com/f8839cad8cf7a/large.jpg",
-        "title": "Crimson Desert PS5 Concern as Physical Copies Won't Run without Download - Push Square",
-        "description": "But will play offline after initial update",
-        "source_link": "https://www.pushsquare.com/news/2026/03/crimson-desert-ps5-concern-as-physical-copies-wont-run-without-download"
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/google-messages-logo-feb-2026-hero-1-scaled.jpg",
+        "title": "Google Messages is finally rolling out a fix for its most annoying oversight - Android Authority",
+        "description": "Google Messages is rolling out the ability to copy a part of a message in its latest beta update, fixing a major user annoyance.",
+        "source_link": "https://www.androidauthority.com/google-messages-selective-text-copy-rollout-3648928/"
       }
     ],
     "trending_movies": [
@@ -90,10 +90,10 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/heMdO64ys1hR896YE2jvTv8JlBX.jpg",
-        "title": "Crime 101",
-        "description": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this bei...",
-        "source_link": "https://www.themoviedb.org/movie/1171145"
+        "image": "https://image.tmdb.org/t/p/w200/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+        "title": "Good Luck, Have Fun, Don't Die",
+        "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest t...",
+        "source_link": "https://www.themoviedb.org/movie/1119449"
       },
       {
         "rank": 4,
@@ -104,45 +104,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
-        "title": "\"Wuthering Heights\"",
-        "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
-        "source_link": "https://www.themoviedb.org/movie/1316092"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
-        "title": "Good Luck, Have Fun, Don't Die",
-        "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest t...",
-        "source_link": "https://www.themoviedb.org/movie/1119449"
-      },
-      {
-        "rank": 8,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
         "title": "Hamnet",
         "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
         "source_link": "https://www.themoviedb.org/movie/858024"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/kQbmqipH7YvmILnB0PF8faOEcUp.jpg",
-        "title": "Mexicali",
-        "description": "A former special forces contractor is forced out of retirement as an avocado farmer in Mexico when local gangsters try to force him and his family off...",
-        "source_link": "https://www.themoviedb.org/movie/1636891"
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+        "title": "\"Wuthering Heights\"",
+        "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
+        "source_link": "https://www.themoviedb.org/movie/1316092"
       },
       {
-        "rank": 10,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+        "title": "Scream 7",
+        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
+        "source_link": "https://www.themoviedb.org/movie/1159559"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+        "title": "Sinners",
+        "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is wait...",
+        "source_link": "https://www.themoviedb.org/movie/1233413"
       }
     ]
   }
