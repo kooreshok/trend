@@ -1,76 +1,76 @@
 {
-  "last_updated": "March 14, 2026, 16:26 UTC",
+  "last_updated": "March 14, 2026, 17:23 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://lifehacker.com/imagery/articles/01KKH90QNE3N7ES2BSGNS0TBC2/hero-image.fill.size_1200x675.png",
+        "title": "If You Have One of These Older Apple Devices, Update It ASAP - Lifehacker",
+        "description": "Apple is patching bugs that have been exploited by threat actors.",
+        "source_link": "https://lifehacker.com/tech/older-apple-devices-security-update"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/dsc03092_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "title": "PSA: Don\u2019t buy a $4,400 gray market Samsung TriFold on eBay - The Verge",
+        "description": "Samsung\u2019s TriFold has been notoriously hard to get, so we took some desperate measures\u2026 and lived to regret it.",
+        "source_link": "https://www.theverge.com/tech/894063/samsung-galaxy-z-trifold-sold-out-ebay"
+      },
+      {
+        "rank": 3,
+        "image": "https://supercarblondie.com/wp-content/uploads/Thin-foldable-phone-featured.webp",
+        "title": "World's thinnest foldable phone is looking to challenge Samsung with a very striking price tag - supercarblondie.com",
+        "description": "The foldable phone race is heating up with Honor's latest Magic V6 contender, and it looks like a challenge to Samsung as the world's thinnest foldable phone",
+        "source_link": "https://supercarblondie.com/tech/worlds-thinnest-foldable-phone-is-looking-to-challenge-samsung/"
+      },
+      {
+        "rank": 4,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "PC makers are not ready for the MacBook Neo - The Verge",
         "description": "Apple\u2019s affordable MacBook is out, and Windows laptop makers are ill-prepared for it. Even worse, some of them seem to not even understand what they\u2019re up against.",
         "source_link": "https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://cdn.wccftech.com/wp-content/uploads/2026/03/NVIDIA-GDC-2026-HERO-1920x1058.jpg",
         "title": "NVIDIA Says Its Future Gaming GPUs Will Bring A 1,000,000x Leap In Path Tracing Performance By Using RTX / AI Advances - Wccftech",
         "description": "NVIDIA has teased its future GPUs with massive path tracing performance capabilities thanks to AI & RTX advancements, as Moore's Law is Dead.",
         "source_link": "https://wccftech.com/nvidia-says-future-gaming-gpus-bring-a-1000000x-leap-path-tracing-performance-using-rtx-ai-advances/"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/02/Microsoft-DX12-DirectX-12-Custom-1920x1079.jpg",
+        "title": "Microsoft DirectX Gears Up For ML Era On Windows, Advanced Shader Delivery Solves Game Stutter & Load Times, DXR 2.0 Teased - Wccftech",
+        "description": "Microsoft has announced two new updates at GDC 2026: ML-Powered DirectX & Advanced Shader Delivery for the next chapter in gaming.",
+        "source_link": "https://wccftech.com/microsoft-directx-gears-up-for-ml-era-advanced-shader-delivery-solves-game-stutter-load-times-dxr-2-0-teased/"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.bleepstatic.com/content/hl-images/2026/03/13/Google_Chrome.jpg",
+        "title": "Google fixes two new Chrome zero-days exploited in attacks - BleepingComputer",
+        "description": "Google has released emergency security updates to patch two high-severity Chrome vulnerabilities exploited in zero-day attacks.",
+        "source_link": "https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/"
+      },
+      {
+        "rank": 8,
         "image": "https://images.nintendolife.com/d40352146c73e/large.jpg",
         "title": "Tomb Raider I-III Remastered Gets A Switch 2 Release, Free Upgrade \"Coming Soon\" - Nintendo Life",
         "description": "New 'Challenge Mode' and outfits also available",
         "source_link": "https://www.nintendolife.com/news/2026/03/tomb-raider-i-iii-remastered-gets-a-switch-2-release-free-upgrade-coming-soon"
       },
       {
-        "rank": 4,
+        "rank": 9,
         "image": "https://nintendoeverything.com/wp-content/uploads/Kirby-Air-Riders-City-Trial-original-map.jpg",
         "title": "Kirby Air Riders almost brought back the old City Trial map, Sakurai explains why it didn't happen - Nintendo Everything",
         "description": "Director Masahiro Sakurai reveals that the original City Trial map was considered for Kirby Air Riders and talks about why it didn't work.",
         "source_link": "https://nintendoeverything.com/kirby-air-riders-almost-brought-back-the-old-city-trial-map-sakurai-explains-why-it-didnt-happen/"
       },
       {
-        "rank": 5,
+        "rank": 10,
         "image": "https://images.pushsquare.com/f8839cad8cf7a/large.jpg",
         "title": "Crimson Desert PS5 Concern as Physical Copies Won't Run without Download - Push Square",
         "description": "But will play offline after initial update",
         "source_link": "https://www.pushsquare.com/news/2026/03/crimson-desert-ps5-concern-as-physical-copies-wont-run-without-download"
-      },
-      {
-        "rank": 6,
-        "image": "https://supercarblondie.com/wp-content/uploads/posing-with-Nova.webp",
-        "title": "Man rebuilding abandoned 80s supercar finally gets it running again after weeks and weeks of setbacks - supercarblondie.com",
-        "description": "A long-forgotten 80s supercar known as the Nova has finally fired back to life thanks to one determined car restoration effort",
-        "source_link": "https://supercarblondie.com/man-rebuilding-80s-nova-supercar-video/"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets-prd.ignimgs.com/2026/03/12/blight-main-1773325702778.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Blight: Survival Remerges After 1.5 Million Steam Wishlists and a Viral Trailer With a New Look at Gameplay - IGN",
-        "description": "Blight: Survival has reemerged with a new gameplay trailer \u2014 and its developers are promising big news in 2026 after a whopping 1.5 million Steam wishlists.",
-        "source_link": "https://www.ign.com/articles/blight-survival-remerges-after-15-million-steam-wishlists-and-a-viral-trailer-with-a-new-look-at-gameplay"
-      },
-      {
-        "rank": 8,
-        "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/03/05/df6eb24e/project-helix-logo.jpg.webp",
-        "title": "Xbox Shares New Hardware Details For Next Generation Console, Project Helix - Game Informer",
-        "description": "We now have a better idea of what will power the next Xbox.",
-        "source_link": "https://gameinformer.com/2026/03/12/xbox-shares-new-hardware-details-for-next-generation-console-project-helix"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/ios-26-beta-3-new-wallpaper.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iOS 26 added four new features I\u2019ve been using almost every day - 9to5Mac",
-        "description": "Here are four new iOS 26 features I\u2019ve found myself using just about every day, even after several months running the latest software.",
-        "source_link": "https://9to5mac.com/2026/03/12/ios-26-added-four-new-features-ive-been-using-almost-every-day/"
-      },
-      {
-        "rank": 10,
-        "image": null,
-        "title": "First-person puzzle platformer Yerba Buena announced for PS5, Xbox Series, and PC - Gematsu",
-        "description": null,
-        "source_link": "https://www.gematsu.com/2026/03/first-person-puzzle-platformer-yerba-buena-announced-for-ps5-xbox-series-and-pc"
       }
     ],
     "trending_movies": [
@@ -104,24 +104,24 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
         "title": "Marty Supreme",
         "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
       },
       {
         "rank": 8,
