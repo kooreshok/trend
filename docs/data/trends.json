@@ -1,5 +1,5 @@
 {
-  "last_updated": "March 15, 2026, 08:32 UTC",
+  "last_updated": "March 15, 2026, 09:30 UTC",
   "categories": {
     "tech_news": [
       {
@@ -18,24 +18,24 @@
       },
       {
         "rank": 3,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/sts2-2-1152x648.jpg",
-        "title": "Slay the Spire 2 is a bit too familiar for its own good - Ars Technica",
-        "description": "Early Access impressions: New characters shine, but it feels like we've done this before.",
-        "source_link": "https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/"
+        "image": "https://assets-prd.ignimgs.com/2026/03/06/slaythespire2-earlyaccessreview-blogroll-1772836878749.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Slay the Spire 2 Early Access Review - IGN",
+        "description": "A sequel that's not too ambitious but just as enthralling.",
+        "source_link": "https://www.ign.com/articles/slay-the-spire-2-review-early-access"
       },
       {
         "rank": 4,
+        "image": null,
+        "title": "Bethesda Boss Todd Howard Will 'Stay the Course on Starfield,' Says Veteran Composer, Who Also Believes 'People Were Just Not Ready For It' at Launch - IGN",
+        "description": null,
+        "source_link": "https://www.ign.com/articles/bethesda-boss-todd-howard-will-stay-the-course-on-starfield-says-veteran-composer-who-also-believes-people-were-just-not-ready-for-it-at-launch"
+      },
+      {
+        "rank": 5,
         "image": "https://kotaku.com/app/uploads/2026/03/J3XzypGr7cQMAQUTepX7Le-1200x675.jpg",
         "title": "Arc Raiders Has Started Replacing AI Voices With Human Ones Which CEO Admits Are Better - Kotaku",
         "description": "Embark's CEO says 'most' of the in-game voice lines are now recorded by real actors",
         "source_link": "https://kotaku.com/arc-raiders-replaced-ai-generated-content-human-recorded-dialogue-voices-2000678774"
-      },
-      {
-        "rank": 5,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2230224523-1152x648.jpg",
-        "title": "Figuring out why AIs get flummoxed by some games - Ars Technica",
-        "description": "When winning depends on intuiting a mathematical function, AIs come up short.",
-        "source_link": "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/"
       },
       {
         "rank": 6,
@@ -60,10 +60,10 @@
       },
       {
         "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25676324/twarren_xboxseriesxwhite__6_.JPG?quality=90&strip=all&crop=0%2C10.467829490999%2C100%2C79.064341018002&w=1200",
-        "title": "Microsoft\u2019s Copilot AI assistant is coming to current-gen Xbox consoles this year - The Verge",
-        "description": "Xbox is planning to bring its Gaming Copilot AI assistant to \u201ccurrent-generation consoles\u201d this year, according to a report from GamesRadar.",
-        "source_link": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles"
+        "image": "https://images.macrumors.com/t/TGdlvgYAldOU92O9gyvrqMJ_xI8=/2000x/article-new/2026/03/apple-alicia-keys-50th.jpg",
+        "title": "Apple Kicks Off 50th Anniversary With Surprise Alicia Keys Concert in New York - MacRumors",
+        "description": "Apple mysteriously shut down its Grand Central Terminal store in New York City today, and it turns out it was for an impromptu Alicia Keys concert to...",
+        "source_link": "https://www.macrumors.com/2026/03/13/apple-50th-anniversary-alicia-keys-concert/"
       }
     ],
     "trending_movies": [
@@ -97,31 +97,31 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-        "title": "Hamnet",
-        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
-        "source_link": "https://www.themoviedb.org/movie/858024"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
         "title": "\"Wuthering Heights\"",
         "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
         "source_link": "https://www.themoviedb.org/movie/1316092"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-        "title": "Marty Supreme",
-        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+        "title": "Hamnet",
+        "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
+        "source_link": "https://www.themoviedb.org/movie/858024"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/huVzcVrlK8aiLd240ienleODvWl.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+        "title": "Marty Supreme",
+        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
         "rank": 9,
