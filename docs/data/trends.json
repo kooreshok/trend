@@ -1,76 +1,69 @@
 {
-  "last_updated": "March 15, 2026, 06:51 UTC",
+  "last_updated": "March 15, 2026, 07:42 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.slashgear.com/img/gallery/12-milwaukee-tools-under-50-worth-adding-to-your-collection/l-intro-1773133002.jpg",
+        "title": "12 Milwaukee Tools Under $50 Worth Adding To Your Collection - SlashGear",
+        "description": "Milwaukee is a toolmaker known for its high-end professional tools, but the brand has a lot to offer in the lowest price range as well.",
+        "source_link": "https://www.slashgear.com/2119676/milwaukee-tools-under-50-dollars-worth-buying/"
+      },
+      {
+        "rank": 2,
+        "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt3539823935b5ebc4/69b4995c127c165a0bcfc825/GDC_Header.png?disable=upscale&width=1200&height=630&fit=crop",
+        "title": "Rebranded GDC Festival of Gaming attracts 20,000 attendees - Game Developer",
+        "description": "The week-long showcase took place from March 9 to March 13.",
+        "source_link": "https://www.gamedeveloper.com/business/rebranded-gdc-festival-of-gaming-attracts-20-000-attendees"
+      },
+      {
+        "rank": 3,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/sts2-2-1152x648.jpg",
         "title": "Slay the Spire 2 is a bit too familiar for its own good - Ars Technica",
         "description": "Early Access impressions: New characters shine, but it feels like we've done this before.",
         "source_link": "https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/"
       },
       {
-        "rank": 2,
-        "image": "https://assets-prd.ignimgs.com/2023/12/14/starfield-thumb-1702592810532.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Bethesda Boss Todd Howard Will 'Stay the Course on Starfield,' Says Veteran Composer, Who Also Believes 'People Were Just Not Ready For It' at Launch - IGN",
-        "description": "Bethesda boss Todd Howard will continue to work on Starfield and ensure the company's ambitious space game can \"eventually become something that will be legendary,\" according to the game's composer.",
-        "source_link": "https://www.ign.com/articles/bethesda-boss-todd-howard-will-stay-the-course-on-starfield-says-veteran-composer-who-also-believes-people-were-just-not-ready-for-it-at-launch"
-      },
-      {
-        "rank": 3,
+        "rank": 4,
         "image": "https://kotaku.com/app/uploads/2026/03/J3XzypGr7cQMAQUTepX7Le-1200x675.jpg",
         "title": "Arc Raiders Has Started Replacing AI Voices With Human Ones Which CEO Admits Are Better - Kotaku",
         "description": "Embark's CEO says 'most' of the in-game voice lines are now recorded by real actors",
         "source_link": "https://kotaku.com/arc-raiders-replaced-ai-generated-content-human-recorded-dialogue-voices-2000678774"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2230224523-1152x648.jpg",
         "title": "Figuring out why AIs get flummoxed by some games - Ars Technica",
         "description": "When winning depends on intuiting a mathematical function, AIs come up short.",
         "source_link": "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://techcrunch.com/wp-content/uploads/2026/03/Nyne.jpg?resize=1200,800",
         "title": "Nyne, founded by a father-son duo, gives AI agents the human context they\u2019re missing - TechCrunch",
         "description": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
         "source_link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://kotaku.com/app/uploads/2024/07/e26da1103669ce356d4345fe1edfbac1-1200x675.jpg",
         "title": "Let Them Eat Skins: Fortnite Players Are Calling For A Boycott Over V-Buck Price Hikes - Kotaku",
         "description": "No one's buying Epic's defense of shrinkflation",
         "source_link": "https://kotaku.com/fortnite-v-buck-price-boycott-epic-2000678759"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://images.pushsquare.com/b9c726d7c9d24/large.jpg",
         "title": "'This Would Have Been $30 DLC by Most Studios': Players Praise Ghost of Yotei's Free PS5 Update - Push Square",
         "description": "\"This is absolutely insane\"",
         "source_link": "https://www.pushsquare.com/news/2026/03/this-would-have-been-usd30-dlc-by-most-studios-players-praise-ghost-of-yoteis-free-ps5-update"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25676324/twarren_xboxseriesxwhite__6_.JPG?quality=90&strip=all&crop=0%2C10.467829490999%2C100%2C79.064341018002&w=1200",
         "title": "Microsoft\u2019s Copilot AI assistant is coming to current-gen Xbox consoles this year - The Verge",
         "description": "Xbox is planning to bring its Gaming Copilot AI assistant to \u201ccurrent-generation consoles\u201d this year, according to a report from GamesRadar.",
         "source_link": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.macrumors.com/t/TGdlvgYAldOU92O9gyvrqMJ_xI8=/2000x/article-new/2026/03/apple-alicia-keys-50th.jpg",
-        "title": "Apple Kicks Off 50th Anniversary With Surprise Alicia Keys Concert in New York - MacRumors",
-        "description": "Apple mysteriously shut down its Grand Central Terminal store in New York City today, and it turns out it was for an impromptu Alicia Keys concert to...",
-        "source_link": "https://www.macrumors.com/2026/03/13/apple-50th-anniversary-alicia-keys-concert/"
-      },
-      {
-        "rank": 10,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFW3YSJVo2xM/v0/1200x793.jpg",
-        "title": "Five Takeaways From the 2026 Game Developers Conference - Bloomberg.com",
-        "description": "GDC in San Francisco this week was full of job-seekers, co-development studios and AI",
-        "source_link": "https://www.bloomberg.com/news/newsletters/2026-03-13/the-2026-game-developers-conference-s-five-major-takeaways"
       }
     ],
     "trending_movies": [
@@ -104,31 +97,31 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
-        "title": "Good Luck, Have Fun, Don't Die",
-        "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest t...",
-        "source_link": "https://www.themoviedb.org/movie/1119449"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
         "title": "\"Wuthering Heights\"",
         "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
         "source_link": "https://www.themoviedb.org/movie/1316092"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-        "title": "Marty Supreme",
-        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+        "title": "Good Luck, Have Fun, Don't Die",
+        "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest t...",
+        "source_link": "https://www.themoviedb.org/movie/1119449"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/huVzcVrlK8aiLd240ienleODvWl.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+        "title": "Marty Supreme",
+        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
         "rank": 9,
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-        "title": "The Housemaid",
-        "description": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream...",
-        "source_link": "https://www.themoviedb.org/movie/1368166"
+        "image": "https://image.tmdb.org/t/p/w200/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
       }
     ]
   }
