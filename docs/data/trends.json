@@ -1,85 +1,85 @@
 {
-  "last_updated": "March 15, 2026, 16:27 UTC",
+  "last_updated": "March 15, 2026, 17:23 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6995cef0d9b93ccd72ba5145/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "\u2018ARC Raiders\u2019 Head Praises \u2018Unusual\u2019 Marathon Turnaround - Forbes",
+        "description": "ARC Raiders and Marathon may be genre rivals, but the boss of Embark has kind words for Bungie and their turnaround sparked by implementing feedback quickly.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/03/14/arc-raiders-head-praises-unusual-marathon-turnaround/"
+      },
+      {
+        "rank": 2,
         "image": "https://imageio.forbes.com/specials-images/imageserve/1065606806/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "Google Zero-Day Alert For 3.5 Billion Chrome Users\u2014Attacks Underway - Forbes",
         "description": "Google has confirmed an emergency Chrome security update amid reports that attackers are exploiting two zero-day vulnerabilities.",
         "source_link": "https://www.forbes.com/sites/daveywinder/2026/03/14/google-zero-day-alert-for-35-billion-chrome-users-attacks-underway/"
       },
       {
-        "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268399_Samsung_Galaxy_S26_Ultra_review_AJohnson_0006.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "title": "Samsung Galaxy S26 Ultra review: show off - The Verge",
-        "description": "The Samsung Galaxy S26 Ultra features a unique Privacy Display to keep wandering eyes off your screen. It\u2019s a useful update to a feature-packed phone.",
-        "source_link": "https://www.theverge.com/tech/893936/samsung-galaxy-s26-ultra-review-show-off"
-      },
-      {
         "rank": 3,
-        "image": "https://img.huffingtonpost.com/asset/698c8bba1b0000eb094cb9c0.jpeg?cache=7vCVuy2ySl&ops=500_281%2Cscalefit_1200_630",
-        "title": "Do You Have \u2018Banana Poop\u2019? Here\u2019s What It Means For Your Health. - HuffPost",
-        "description": "There\u2019s a useful chart that can help you determine if your stool falls into a healthy or not-so-healthy category.",
-        "source_link": "https://www.huffpost.com/entry/banana-poop-sausage-colon-gut-health-goog_l_69b2e340e4b0aea6db0c2640"
+        "image": "https://www.iowaparkleader.com/wp-content/uploads/2026/03/1773105189_Linux-Finally-Catches-Up-to-Windows-with-a-Game-Changing-Performance.jpg",
+        "title": "Linux Finally Catches Up to Windows with a Game-Changing Performance Feature - Iowa Park Leader",
+        "description": null,
+        "source_link": "https://www.iowaparkleader.com/linux-finally-catches-up-to-windows-with-a-game-changing-performance-feature/"
       },
       {
         "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ss_25983b9fefc98de64ad91c80c472691ee2eb487e.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "5 great indie games from GDC 2026 - The Verge",
+        "description": "The 2026 GDC Festival of Gaming featured some cool indie titles like At Fate\u2019s End, Mina the Hollower, and The Melty Way.",
+        "source_link": "https://www.theverge.com/games/894511/gdc-2026-best-indie-games"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Nothing-Phone-4a-pro-Silver.jpg",
+        "title": "5 Android phones you should buy instead of the Nothing Phone 4a Pro - Android Authority",
+        "description": "The Nothing Phone 4a Pro has a crazy design and a good price. But should you buy it? These five other phones will make you think twice.",
+        "source_link": "https://www.androidauthority.com/nothing-phone-4a-pro-alternatives-3648028/"
+      },
+      {
+        "rank": 6,
         "image": "https://www.apple.com/newsroom/images/2026/03/apple-hosts-50th-anniversary-celebrations-around-the-world/tile/Apple-50-year-anniversary-New-York-Alicia-Keys-01-lp.jpg.og.jpg?202603140314",
         "title": "Apple hosts 50th anniversary celebrations around the world - Apple",
         "description": "Apple kicked off celebrations in New York for its 50th anniversary and will continue commemorating the milestone throughout the month.",
         "source_link": "https://www.apple.com/newsroom/2026/03/apple-hosts-50th-anniversary-celebrations-around-the-world/"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://www.bgr.com/img/gallery/costco-is-selling-a-75-inch-smart-tv-for-under-500-all-through-march-2026/l-intro-1773434246.jpg",
         "title": "Costco Is Selling A 75-Inch Smart TV For Under $500 All Through March 2026 - bgr.com",
         "description": "If you're eyeing a new TV and want something that's a big screen with a small price, Costco is offering a stellar deal on a 75-inch Smart TV.",
         "source_link": "https://www.bgr.com/2122872/costco-500-off-75-inch-tcl-tv-march-2026-deal/"
       },
       {
-        "rank": 6,
-        "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt3539823935b5ebc4/69b4995c127c165a0bcfc825/GDC_Header.png?disable=upscale&width=1200&height=630&fit=crop",
-        "title": "Rebranded GDC Festival of Gaming attracts 20,000 attendees - Game Developer",
-        "description": "The week-long showcase took place from March 9 to March 13.",
-        "source_link": "https://www.gamedeveloper.com/business/rebranded-gdc-festival-of-gaming-attracts-20-000-attendees"
-      },
-      {
-        "rank": 7,
+        "rank": 8,
         "image": "https://www.techpowerup.com/img/SpCrKhaobnv8H1iY.jpg",
         "title": "AMD Sees Agent Computers as the Next Step in AI PCs - TechPowerUp",
         "description": "AMD has published a guide for running OpenClaw locally on Windows through two distinct hardware paths it calls \"RyzenClaw\" and \"RadeonClaw,\" both built around its own silicon and designed to keep AI agent workloads off the cloud entirely. The push is part of \u2026",
         "source_link": "https://www.techpowerup.com/347367/amd-sees-agent-computers-as-the-next-step-in-ai-pcs"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://www.bleepstatic.com/content/hl-images/2025/03/26/Windows_11.jpg",
         "title": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs - BleepingComputer",
         "description": "Microsoft is investigating a new issue affecting some Samsung laptops running Windows 11 after installing the February 2026 security updates, in which users lose access to their C:\\ drive and are unable to launch applications.",
         "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/"
-      },
-      {
-        "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2024/07/e26da1103669ce356d4345fe1edfbac1-1200x675.jpg",
-        "title": "Let Them Eat Skins: Fortnite Players Are Calling For A Boycott Over V-Buck Price Hikes - Kotaku",
-        "description": "No one's buying Epic's defense of shrinkflation",
-        "source_link": "https://kotaku.com/fortnite-v-buck-price-boycott-epic-2000678759"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
-        "title": "War Machine",
-        "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine...",
-        "source_link": "https://www.themoviedb.org/movie/1265609"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
         "title": "Hamnet",
         "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
         "source_link": "https://www.themoviedb.org/movie/858024"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+        "title": "War Machine",
+        "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine...",
+        "source_link": "https://www.themoviedb.org/movie/1265609"
       },
       {
         "rank": 3,
@@ -90,38 +90,38 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
-        "title": "Good Luck, Have Fun, Don't Die",
-        "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest t...",
-        "source_link": "https://www.themoviedb.org/movie/1119449"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/705nQHqe4JGdEisrQmVYmXyjs1U.jpg",
         "title": "Sinners",
         "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is wait...",
         "source_link": "https://www.themoviedb.org/movie/1233413"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
-      },
-      {
-        "rank": 8,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
         "title": "Marty Supreme",
         "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
+        "title": "Good Luck, Have Fun, Don't Die",
+        "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest t...",
+        "source_link": "https://www.themoviedb.org/movie/1119449"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
       },
       {
         "rank": 9,
@@ -132,7 +132,7 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
