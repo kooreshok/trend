@@ -1,141 +1,148 @@
 {
-  "last_updated": "March 15, 2026, 18:33 UTC",
+  "last_updated": "March 15, 2026, 19:24 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6875c743612c9b34e62d976b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "\u2018Destiny 2\u2019 Has Lost 91% Of Players Since Edge Of Fate, 97% From Final Shape - Forbes",
+        "description": "Destiny 2's playercount drops are not just noticeable now, they are potentially disastrous and unrecoverable.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/03/14/destiny-2-has-lost-91-of-players-since-edge-of-fate-97-from-final-shape/"
+      },
+      {
+        "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2026/03/showcases.jpg",
+        "title": "15 Incredible Indie Games Made Computer Worlds A Must-Watch - Kotaku",
+        "description": "Noclip's Computer Worlds showcase was full of indie releases you should be paying attention to",
+        "source_link": "https://kotaku.com/indie-game-computer-world-showcase-steam-demo-2000678906"
+      },
+      {
+        "rank": 3,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+        "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others - TechCrunch",
+        "description": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
+        "source_link": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268381_Asus_Cetra_Wireless_earbuds_CFaulkner_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Asus\u2019 new open earbuds are a wonderful companion for handheld gaming - The Verge",
+        "description": "The Asus ROG Cetra Open Wireless earbuds offer great open-ear sound quality, long battery life, and a USB-C transmitter with passthrough charging.",
+        "source_link": "https://www.theverge.com/tech/893765/asus-cetra-open-wireless-gaming-earbuds-hands-on-impressions"
+      },
+      {
+        "rank": 5,
         "image": "https://imageio.forbes.com/specials-images/imageserve/6995cef0d9b93ccd72ba5145/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "\u2018ARC Raiders\u2019 Head Praises \u2018Unusual\u2019 Marathon Turnaround - Forbes",
         "description": "ARC Raiders and Marathon may be genre rivals, but the boss of Embark has kind words for Bungie and their turnaround sparked by implementing feedback quickly.",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/03/14/arc-raiders-head-praises-unusual-marathon-turnaround/"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://imageio.forbes.com/specials-images/imageserve/1065606806/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "Google Zero-Day Alert For 3.5 Billion Chrome Users\u2014Attacks Underway - Forbes",
         "description": "Google has confirmed an emergency Chrome security update amid reports that attackers are exploiting two zero-day vulnerabilities.",
         "source_link": "https://www.forbes.com/sites/daveywinder/2026/03/14/google-zero-day-alert-for-35-billion-chrome-users-attacks-underway/"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://www.iowaparkleader.com/wp-content/uploads/2026/03/1773105189_Linux-Finally-Catches-Up-to-Windows-with-a-Game-Changing-Performance.jpg",
         "title": "Linux Finally Catches Up to Windows with a Game-Changing Performance Feature - Iowa Park Leader",
         "description": null,
         "source_link": "https://www.iowaparkleader.com/linux-finally-catches-up-to-windows-with-a-game-changing-performance-feature/"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ss_25983b9fefc98de64ad91c80c472691ee2eb487e.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
         "title": "5 great indie games from GDC 2026 - The Verge",
         "description": "The 2026 GDC Festival of Gaming featured some cool indie titles like At Fate\u2019s End, Mina the Hollower, and The Melty Way.",
         "source_link": "https://www.theverge.com/games/894511/gdc-2026-best-indie-games"
       },
       {
-        "rank": 5,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/Nothing-Phone-4a-pro-Silver.jpg",
-        "title": "5 Android phones you should buy instead of the Nothing Phone 4a Pro - Android Authority",
-        "description": "The Nothing Phone 4a Pro has a crazy design and a good price. But should you buy it? These five other phones will make you think twice.",
-        "source_link": "https://www.androidauthority.com/nothing-phone-4a-pro-alternatives-3648028/"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.apple.com/newsroom/images/2026/03/apple-hosts-50th-anniversary-celebrations-around-the-world/tile/Apple-50-year-anniversary-New-York-Alicia-Keys-01-lp.jpg.og.jpg?202603140314",
-        "title": "Apple hosts 50th anniversary celebrations around the world - Apple",
-        "description": "Apple kicked off celebrations in New York for its 50th anniversary and will continue commemorating the milestone throughout the month.",
-        "source_link": "https://www.apple.com/newsroom/2026/03/apple-hosts-50th-anniversary-celebrations-around-the-world/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.bgr.com/img/gallery/costco-is-selling-a-75-inch-smart-tv-for-under-500-all-through-march-2026/l-intro-1773434246.jpg",
-        "title": "Costco Is Selling A 75-Inch Smart TV For Under $500 All Through March 2026 - bgr.com",
-        "description": "If you're eyeing a new TV and want something that's a big screen with a small price, Costco is offering a stellar deal on a 75-inch Smart TV.",
-        "source_link": "https://www.bgr.com/2122872/costco-500-off-75-inch-tcl-tv-march-2026-deal/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.techpowerup.com/img/SpCrKhaobnv8H1iY.jpg",
-        "title": "AMD Sees Agent Computers as the Next Step in AI PCs - TechPowerUp",
-        "description": "AMD has published a guide for running OpenClaw locally on Windows through two distinct hardware paths it calls \"RyzenClaw\" and \"RadeonClaw,\" both built around its own silicon and designed to keep AI agent workloads off the cloud entirely. The push is part of \u2026",
-        "source_link": "https://www.techpowerup.com/347367/amd-sees-agent-computers-as-the-next-step-in-ai-pcs"
-      },
-      {
         "rank": 9,
-        "image": "https://www.bleepstatic.com/content/hl-images/2025/03/26/Windows_11.jpg",
-        "title": "Microsoft: Windows 11 users can't access C: drive on some Samsung PCs - BleepingComputer",
-        "description": "Microsoft is investigating a new issue affecting some Samsung laptops running Windows 11 after installing the February 2026 security updates, in which users lose access to their C:\\ drive and are unable to launch applications.",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-users-cant-access-c-drive-on-some-samsung-pcs/"
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/bad-samsung-keyboard-swipe-galaxy-s24-ultra.jpg",
+        "title": "Samsung is giving all of Android a bad rep with its terrible keyboard - Android Authority",
+        "description": "There are many bad stereotypes about Android, and Samsung isn't helping by shipping such a bad keyboard to millions of Android users.",
+        "source_link": "https://www.androidauthority.com/samsung-keyboard-giving-android-bad-rep-3648898/"
+      },
+      {
+        "rank": 10,
+        "image": "https://regmedia.co.uk/2026/03/12/supplied_cortical_labs.jpg",
+        "title": "Inside the datacenter where the day starts with topping up cerebrospinal fluid - theregister.com",
+        "description": ": Biological computing is messy and gassy \u2013 It\u2019s now cloudy, too",
+        "source_link": "https://www.theregister.com/2026/03/14/cortical_labs_biological_cloud/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
-        "title": "\"Wuthering Heights\"",
-        "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
-        "source_link": "https://www.themoviedb.org/movie/1316092"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
         "title": "War Machine",
         "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine...",
         "source_link": "https://www.themoviedb.org/movie/1265609"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
         "title": "Hamnet",
         "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
         "source_link": "https://www.themoviedb.org/movie/858024"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/705nQHqe4JGdEisrQmVYmXyjs1U.jpg",
         "title": "Sinners",
         "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is wait...",
         "source_link": "https://www.themoviedb.org/movie/1233413"
       },
       {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+        "title": "Marty Supreme",
+        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
-        "title": "Shelter",
-        "description": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of ...",
-        "source_link": "https://www.themoviedb.org/movie/1290821"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
-        "title": "One Battle After Another",
-        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
-        "source_link": "https://www.themoviedb.org/movie/1054867"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
         "title": "Good Luck, Have Fun, Don't Die",
         "description": "A 'Man from the Future' arrives at an LA diner where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest t...",
         "source_link": "https://www.themoviedb.org/movie/1119449"
       },
       {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg",
+        "title": "One Battle After Another",
+        "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil ne...",
+        "source_link": "https://www.themoviedb.org/movie/1054867"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/jadCjQLZpX9yxlk4xPtyx4He2Ll.jpg",
+        "title": "The Secret Agent",
+        "description": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but s...",
+        "source_link": "https://www.themoviedb.org/movie/1220564"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-        "title": "Marty Supreme",
-        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
+        "image": "https://image.tmdb.org/t/p/w200/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+        "title": "\"Wuthering Heights\"",
+        "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
+        "source_link": "https://www.themoviedb.org/movie/1316092"
       }
     ]
   }
