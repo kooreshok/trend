@@ -1,76 +1,76 @@
 {
-  "last_updated": "March 16, 2026, 20:34 UTC",
+  "last_updated": "March 16, 2026, 21:35 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://helios-i.mashable.com/imagery/articles/00ykr55bmXmBM5mhvCxCXWi/hero-image.fill.size_1200x675.v1773503424.jpg",
+        "title": "Meta pulling end-to-end encryption on Instagram DMs - Mashable",
+        "description": "The company says the feature wasn't popular with users.",
+        "source_link": "https://mashable.com/article/instagram-meta-end-to-end-encryption"
+      },
+      {
+        "rank": 2,
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-03/15/18/thumb/cIJS654pb.jpg?crop=3000:1571;0,28%26downsize=1250:*",
+        "title": "My Lungs Are Physically Sore From Laughing So Hard At These Hilarious Black Twitter Tweets From The Week - BuzzFeed",
+        "description": "\"Im helping my grandma do some paperwork and she talmbout is she a Veteran.\"",
+        "source_link": "https://www.buzzfeed.com/michaelabramwell/best-black-twitter-tweets-from-the-week-march-15"
+      },
+      {
+        "rank": 3,
+        "image": "https://assetsio.gnwcdn.com/batman-arkham-spin-offs-gotham-knights.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Warner Bros. Montr\u00e9al devs report layoffs - Eurogamer",
+        "description": "Several Warner Bros. Montr\u00e9al developers are reporting that they have been laid off.",
+        "source_link": "https://www.eurogamer.net/warner-bros-montreal-devs-report-layoffs"
+      },
+      {
+        "rank": 4,
+        "image": "https://cdn.videocardz.com/1/2026/03/XBOX-ONE-HACKED-HERO.jpg",
+        "title": "Xbox One hacked, boot ROM exploit breaks into one of the most secure consoles - VideoCardz.com",
+        "description": "Xbox One boot ROM exploit shown at RE//verse 2026, Gaasedelen says work is about preservation, not piracy Security researcher Markus Gaasedelen used his",
+        "source_link": "https://videocardz.com/newz/xbox-one-hacked-boot-rom-exploit-breaks-into-one-of-the-most-secure-consoles"
+      },
+      {
+        "rank": 5,
+        "image": "https://assetsio.gnwcdn.com/Starfield-screenshot-of-a-man-in-a-space-ship-with-a-PlayStation-logo-overlayed-to-one-side.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Bethesda drops unusual tease that it'll have Starfield news for us \"next week\" - Eurogamer",
+        "description": "Bethesda has teased that we can expect new information about Starfield \"next week\".",
+        "source_link": "https://www.eurogamer.net/bethesda-drops-unusual-tease-that-itll-have-starfield-news-for-us-next-week"
+      },
+      {
+        "rank": 6,
+        "image": "https://images.macrumors.com/t/wxoXiDgw39WGfIwe3wuQ8v4XbLQ=/2500x/article-new/2025/11/iOS-27-Mock-Quick.jpg",
+        "title": "iOS 27 Will Reportedly Be Like Mac OS X Snow Leopard - MacRumors",
+        "description": "In his Power On newsletter today, Bloomberg's Mark Gurman reiterated that iOS 27 will be similar to 2009's Mac OS X Snow Leopard, in the...",
+        "source_link": "https://www.macrumors.com/2026/03/15/ios-27-will-reportedly-be-like-mac-os-x-snow-leopard/"
+      },
+      {
+        "rank": 7,
         "image": "https://images.ctfassets.net/s5n2t79q9icq/5LfG5lEuzQKKbKyNXbPEq9/192f59b1b1cafa2466c0e79edcf0e111/SL_Dandan_Island_960x540.jpg",
         "title": "From the Chaos Vault: Secret Lair Dand\u00e2n Decklist - Magic: The Gathering",
         "description": "Dand\u00e2n has officially surfaced in Secret Lair! This 80-card, Fish-filled deck will be available tomorrow, March 16, through the Chaos Vault.",
         "source_link": "https://magic.wizards.com/en/news/announcements/from-the-chaos-vault-secret-lair-dandan-decklist"
       },
       {
-        "rank": 2,
+        "rank": 8,
         "image": "https://imageio.forbes.com/specials-images/imageserve/1065606806/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "Google Zero-Day Alert For 3.5 Billion Chrome Users\u2014Attacks Underway - Forbes",
         "description": "Google has confirmed an emergency Chrome security update amid reports that attackers are exploiting two zero-day vulnerabilities.",
         "source_link": "https://www.forbes.com/sites/daveywinder/2026/03/15/google-zero-day-alert-for-35-billion-chrome-users-attacks-underway/"
       },
       {
-        "rank": 3,
+        "rank": 9,
         "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2014/01/pokemon_pokeball.jpg?fit=1280%2C751&ssl=1",
         "title": "Rumour: Pokemon Legends Galar to be prehistoric Pikmin-like game commanding groups of up to 30 Pokemon - My Nintendo News",
         "description": "The next Pokemon Legends game which is currently titled Pokemon Legends: Galar will seemingly have a Pikmin-like aspect where you can command up to thirty Pokemon in your squad. The game was leaked as\u2026",
         "source_link": "https://mynintendonews.com/2026/03/15/rumour-pokemon-legends-galar-to-be-prehistoric-pikmin-like-game-commanding-groups-of-up-to-30-pokemon/"
       },
       {
-        "rank": 4,
-        "image": "https://hackaday.com/wp-content/uploads/2026/03/DR-DOS-screenshot.png",
-        "title": "DR-DOS Is Back, But Not Quite As We Knew It - Hackaday",
-        "description": "If you weren\u2019t around for the early PC era, or were a little more casual about operating systems, you could perhaps be forgiven for not knowing that DOS is not synonymous with MS-DOS. MS-DOS \u2026",
-        "source_link": "https://hackaday.com/2026/03/15/dr-dos-is-back-but-not-quite-as-we-knew-it/"
-      },
-      {
-        "rank": 5,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ios-27-concept-04.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iOS 27 likely won\u2019t include any major changes to Liquid Glass: report - 9to5Mac",
-        "description": "In just a few months, Apple is expected to unveil its latest round of operating systems: iOS 27, macOS 27,...",
-        "source_link": "https://9to5mac.com/2026/03/15/ios-27-likely-wont-include-any-major-changes-to-liquid-glass-report/"
-      },
-      {
-        "rank": 6,
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260312-clevceland-clinic-ms-patient-ew-613p-aad4fe.jpg",
-        "title": "Can a groundbreaking cancer therapy help people with multiple sclerosis? - NBC News",
-        "description": "Grace Miller was a 24-year-old law school student when she was diagnosed with multiple sclerosis",
-        "source_link": "https://www.nbcnews.com/health/health-news/can-groundbreaking-cancer-therapy-help-people-multiple-sclerosis-rcna263262"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268384_Samsung_Galaxy_Buds_4_Pro_AKrales_0309.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "The Galaxy Buds 4 Pro have improved, but still rely on the Galaxy ecosystem - The Verge",
-        "description": "The Samsung Galaxy Buds 4 Pro have improved ANC performance and great sound alongside some nice features, but only work best when paired with a Galaxy device.",
-        "source_link": "https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review"
-      },
-      {
-        "rank": 8,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69b61c0c2480d75eea45599f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "Why Are People Hating \u2018Marathon\u2019 As A Sport? - Forbes",
-        "description": "Marathon has been the target of a relentless hate campaign for months now, which is amplifying after launch. But why?",
-        "source_link": "https://www.forbes.com/sites/paultassi/2026/03/15/why-are-people-hating-marathon-as-a-sport/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/03/iphone-18-pro-max-thickness-88mm-leak.jpg",
-        "title": "iPhone 18 Pro Max Leak: Why the Dynamic Island Isn\u2019t Going Away Just Yet - Geeky Gadgets",
-        "description": "New leaks suggest the iPhone 18 Pro Max will retain the Dynamic Island. Find out why Apple is reportedly delaying under-display Face ID",
-        "source_link": "https://www.geeky-gadgets.com/iphone-18-pro-max-dynamic-island-3/"
-      },
-      {
         "rank": 10,
-        "image": "https://assetsio.gnwcdn.com/switch-2-mouse-pokopia.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Pok\u00e9mon Pokopia has finally convinced me that the Switch 2's mouse controls are actually a worthwhile addition, after all - Eurogamer",
-        "description": "More than 20 hours in, and almost by accident, I rested my JoyCon on my desk to reply to an email. It changed the game.",
-        "source_link": "https://www.eurogamer.net/pokemon-pokopia-switch-2-mouse-control-worthwhile-addition"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268402_AI_companies_want_to_harvest_improv_actors_skills_to_train_large_AI_models_on_human_emotion_and_tone_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "AI companies want to harvest improv actors\u2019 skills to train AI on human emotion - The Verge",
+        "description": "Handshake AI has a job listing calling for improv actors and other performers to help it train frontier AI models for one of the world\u2019s leading labs.",
+        "source_link": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data"
       }
     ],
     "trending_movies": [
@@ -90,7 +90,7 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/cCx1m530ph5FmtabVVUpUchEmhe.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
@@ -111,10 +111,10 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
-        "title": "Frankenstein",
-        "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
-        "source_link": "https://www.themoviedb.org/movie/1062722"
+        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+        "title": "Marty Supreme",
+        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
         "rank": 7,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-        "title": "Marty Supreme",
-        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
+        "image": "https://image.tmdb.org/t/p/w200/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+        "title": "Frankenstein",
+        "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoi...",
+        "source_link": "https://www.themoviedb.org/movie/1062722"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg",
-        "title": "Sentimental Value",
-        "description": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in w...",
-        "source_link": "https://www.themoviedb.org/movie/1124566"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg",
+        "title": "Sentimental Value",
+        "description": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in w...",
+        "source_link": "https://www.themoviedb.org/movie/1124566"
       }
     ]
   }
