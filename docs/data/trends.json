@@ -1,76 +1,76 @@
 {
-  "last_updated": "March 16, 2026, 08:51 UTC",
+  "last_updated": "March 16, 2026, 10:02 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://hackaday.com/wp-content/uploads/2026/03/zipper_v3_cover_43-banner-1.png",
+        "title": "This Printed Zipper Repair Requires No Unsewing - Hackaday",
+        "description": "If a zipper breaks, a 3D printer might not be the first tool one reaches for \u2014 but it\u2019s more feasible than one might think. [MisterJ]\u2019s zipper slider replacement is the kind of 3D\u2026",
+        "source_link": "https://hackaday.com/2026/03/14/this-printed-zipper-repair-requires-no-unsewing/"
+      },
+      {
+        "rank": 2,
         "image": "https://i.pcmag.com/imagery/articles/05R82RXrzJKoNJ1iW6IXz96-1.fit_lim.size_1200x630.v1773488953.png",
         "title": "iPhone Fold Rumors Are Heating Up, But I'm Not Buying One. Here's Why - PCMag",
         "description": "I'm not against foldables, but some of the reports about what Apple has in store give me pause, including an eye-popping price tag and the lack of one key feature.",
         "source_link": "https://www.pcmag.com/news/iphone-fold-rumors-are-heating-up-but-im-not-buying-one-heres-why"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/03/grace-ashcroft.jpg?w=1600&h=900&fit=crop",
         "title": "Resident Evil Requiem Has Idle Reload Animations That Most Players Won't Ever See - TheGamer",
         "description": "It only triggers in the safe rooms.",
         "source_link": "https://www.thegamer.com/resident-evil-requiem-idle-reload-animation/"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://fdn.gsmarena.com/imgroot/news/26/03/spring-deals-us-11/-952x498w6/gsmarena_us.jpg",
         "title": "Deals: Galaxy S26 series now available, S25 and Pixel 10 models on sale - GSMArena.com news - GSMArena.com",
         "description": "With the pre-orders over, you now have to pay full price for a 512GB S26 phone - previously, you could get it at the price of a 256GB unit.",
         "source_link": "https://www.gsmarena.com/deals_galaxy_s26_series_now_available_s25_and_pixel_10_models_on_sale-news-71941.php"
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "image": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Windows-11.jpg",
+        "title": "Microsoft releases Windows 11 OOB hotpatch to fix RRAS RCE flaw - BleepingComputer",
+        "description": "Microsoft has released an out-of-band (OOB) update to fix a security vulnerabilities affecting Windows 11 Enterprise devices that receive hotpatch updates instead of the regular Patch Tuesday cumulative updates.",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-oob-hotpatch-to-fix-rras-rce-flaw/"
+      },
+      {
+        "rank": 6,
         "image": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-MacBook-Neo-lifestyle-01-260304_big.jpg.medium_2x.jpg?resize=1200,676",
         "title": "The MacBook Neo is \u2018the most repairable MacBook\u2019 in years, according to iFixit - TechCrunch",
         "description": "Apple\u2019s new MacBook Neo isn\u2019t just the most affordable MacBook \u2014 it\u2019s also the company's most repairable laptop in \u201cabout fourteen years.\"",
         "source_link": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://kotaku.com/app/uploads/2026/03/1AkKIRQNiuy2q7at1nJynbA.jpg",
         "title": "Venture Capitalist \u2018Shocked And Sad\u2019 About How Much Gamers Hate AI - Kotaku",
         "description": "Folks with money tied in Anthropic and Nvidia blame job losses for low approval",
         "source_link": "https://kotaku.com/investors-grapple-with-ai-unpopularity-at-gdc-xbox-2000678933"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://images.pushsquare.com/aa35a8307d247/large.jpg",
         "title": "PS5 Exclusive Intergalactic's Alleged New Webpage Is No Big Deal At All - Push Square",
         "description": "It's gone viral all the same",
         "source_link": "https://www.pushsquare.com/news/2026/03/ps5-exclusive-intergalactics-alleged-new-webpage-is-no-big-deal-at-all"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-Mario-Kart-World-racing-wheel.jpg",
         "title": "Switch 2 getting Nintendo-licensed Mario Kart World racing wheel, pre-orders open - Nintendo Everything",
         "description": "HORI has announced plans for a new Switch 2 racing wheel stylized after Mario Kart World, which has been officially licensed by Nintendo. Based on retailer listings, it\u2019s slated for March 23, 2026. While Mario Kart World is advertised here, it\u2019ll work with ot\u2026",
         "source_link": "https://nintendoeverything.com/switch-2-getting-nintendo-licensed-mario-kart-world-racing-wheel-pre-orders-open/"
       },
       {
-        "rank": 8,
+        "rank": 10,
         "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2025/04/Donkey_Kong_Bananza-1.jpg?fit=1280%2C720&ssl=1",
         "title": "Some ideas from Donkey Kong Bananza could be in Nintendo\u2019s next big project - My Nintendo News",
         "description": "When Donkey Kong Bananza was first revealed it was clear that it was from the team behind the excellent Super Mario Odyssey, though they both ended up becoming very different games.",
         "source_link": "https://mynintendonews.com/2026/03/14/some-ideas-from-donkey-kong-bananza-could-be-in-nintendos-next-big-project/"
-      },
-      {
-        "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2026/03/ex-vocto-1200x675.jpg",
-        "title": "Unremarkable Medieval Action Sim 1348 Ex Voto Gets Hit With Absurd Conspiracy Over Italian Tax Relief Funds - Kotaku",
-        "description": "Online chuds are claiming it's lesbian propaganda",
-        "source_link": "https://kotaku.com/1348-ex-voto-lgbtq-propaganda-tax-credits-steam-reviews-2000678922"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.digitalfoundry.net/8f61b02f5ae7a/large.jpg",
-        "title": "Crimson Desert PC: Nvidia And AMD ML Tech Delivers Vastly Improved Lighting - Digital Foundry",
-        "description": "Almost as transformative as RT on/off.",
-        "source_link": "https://www.digitalfoundry.net/news/2026/03/crimson-desert-pc-nvidia-and-amd-ml-tech-delivers-vastly-improved-lighting"
       }
     ],
     "trending_movies": [
@@ -104,45 +104,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg",
-        "title": "Sentimental Value",
-        "description": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in w...",
-        "source_link": "https://www.themoviedb.org/movie/1124566"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
         "title": "War Machine",
         "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine...",
         "source_link": "https://www.themoviedb.org/movie/1265609"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-        "title": "Marty Supreme",
-        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 9,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/cCx1m530ph5FmtabVVUpUchEmhe.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
-        "rank": 10,
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg",
+        "title": "Sentimental Value",
+        "description": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in w...",
+        "source_link": "https://www.themoviedb.org/movie/1124566"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       }
     ]
   }
