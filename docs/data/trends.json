@@ -1,76 +1,76 @@
 {
-  "last_updated": "March 16, 2026, 02:02 UTC",
+  "last_updated": "March 16, 2026, 05:11 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i.pcmag.com/imagery/articles/05R82RXrzJKoNJ1iW6IXz96-1.fit_lim.size_1200x630.v1773488953.png",
+        "title": "iPhone Fold Rumors Are Heating Up, But I'm Not Buying One. Here's Why - PCMag",
+        "description": "I'm not against foldables, but some of the reports about what Apple has in store give me pause, including an eye-popping price tag and the lack of one key feature.",
+        "source_link": "https://www.pcmag.com/news/iphone-fold-rumors-are-heating-up-but-im-not-buying-one-heres-why"
+      },
+      {
+        "rank": 2,
+        "image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/03/grace-ashcroft.jpg?w=1600&h=900&fit=crop",
+        "title": "Resident Evil Requiem Has Idle Reload Animations That Most Players Won't Ever See - TheGamer",
+        "description": "It only triggers in the safe rooms.",
+        "source_link": "https://www.thegamer.com/resident-evil-requiem-idle-reload-animation/"
+      },
+      {
+        "rank": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/03/spring-deals-us-11/-952x498w6/gsmarena_us.jpg",
+        "title": "Deals: Galaxy S26 series now available, S25 and Pixel 10 models on sale - GSMArena.com news - GSMArena.com",
+        "description": "With the pre-orders over, you now have to pay full price for a 512GB S26 phone - previously, you could get it at the price of a 256GB unit.",
+        "source_link": "https://www.gsmarena.com/deals_galaxy_s26_series_now_available_s25_and_pixel_10_models_on_sale-news-71941.php"
+      },
+      {
+        "rank": 4,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-MacBook-Neo-lifestyle-01-260304_big.jpg.medium_2x.jpg?resize=1200,676",
+        "title": "The MacBook Neo is \u2018the most repairable MacBook\u2019 in years, according to iFixit - TechCrunch",
+        "description": "Apple\u2019s new MacBook Neo isn\u2019t just the most affordable MacBook \u2014 it\u2019s also the company's most repairable laptop in \u201cabout fourteen years.\"",
+        "source_link": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/"
+      },
+      {
+        "rank": 5,
+        "image": "https://kotaku.com/app/uploads/2026/03/1AkKIRQNiuy2q7at1nJynbA.jpg",
+        "title": "Venture Capitalist \u2018Shocked And Sad\u2019 About How Much Gamers Hate AI - Kotaku",
+        "description": "Folks with money tied in Anthropic and Nvidia blame job losses for low approval",
+        "source_link": "https://kotaku.com/investors-grapple-with-ai-unpopularity-at-gdc-xbox-2000678933"
+      },
+      {
+        "rank": 6,
+        "image": "https://images.pushsquare.com/aa35a8307d247/large.jpg",
+        "title": "PS5 Exclusive Intergalactic's Alleged New Webpage Is No Big Deal At All - Push Square",
+        "description": "It's gone viral all the same",
+        "source_link": "https://www.pushsquare.com/news/2026/03/ps5-exclusive-intergalactics-alleged-new-webpage-is-no-big-deal-at-all"
+      },
+      {
+        "rank": 7,
         "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-Mario-Kart-World-racing-wheel.jpg",
         "title": "Switch 2 getting Nintendo-licensed Mario Kart World racing wheel, pre-orders open - Nintendo Everything",
         "description": "HORI has announced plans for a new Switch 2 racing wheel stylized after Mario Kart World, which has been officially licensed by Nintendo. Based on retailer listings, it\u2019s slated for March 23, 2026. While Mario Kart World is advertised here, it\u2019ll work with ot\u2026",
         "source_link": "https://nintendoeverything.com/switch-2-getting-nintendo-licensed-mario-kart-world-racing-wheel-pre-orders-open/"
       },
       {
-        "rank": 2,
+        "rank": 8,
+        "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2025/04/Donkey_Kong_Bananza-1.jpg?fit=1280%2C720&ssl=1",
+        "title": "Some ideas from Donkey Kong Bananza could be in Nintendo\u2019s next big project - My Nintendo News",
+        "description": "When Donkey Kong Bananza was first revealed it was clear that it was from the team behind the excellent Super Mario Odyssey, though they both ended up becoming very different games.",
+        "source_link": "https://mynintendonews.com/2026/03/14/some-ideas-from-donkey-kong-bananza-could-be-in-nintendos-next-big-project/"
+      },
+      {
+        "rank": 9,
         "image": "https://kotaku.com/app/uploads/2026/03/ex-vocto-1200x675.jpg",
         "title": "Unremarkable Medieval Action Sim 1348 Ex Voto Gets Hit With Absurd Conspiracy Over Italian Tax Relief Funds - Kotaku",
         "description": "Online chuds are claiming it's lesbian propaganda",
         "source_link": "https://kotaku.com/1348-ex-voto-lgbtq-propaganda-tax-credits-steam-reviews-2000678922"
       },
       {
-        "rank": 3,
-        "image": "https://helios-i.mashable.com/imagery/articles/00ykr55bmXmBM5mhvCxCXWi/hero-image.fill.size_1200x675.v1773503424.jpg",
-        "title": "Meta pulling end-to-end encryption on Instagram DMs - Mashable",
-        "description": "The company says the feature wasn't popular with users.",
-        "source_link": "https://mashable.com/article/instagram-meta-end-to-end-encryption"
-      },
-      {
-        "rank": 4,
-        "image": "https://i.pcmag.com/imagery/articles/07fGO7zuVuJNBxdQ7S7Zff3-1.fit_lim.size_1200x630.v1773235322.jpg",
-        "title": "Hands On: Razer's $1,337 Boomslang Throwback Is Absurd and Already Collector Bait - PCMag",
-        "description": "The internet is losing its mind at the price, but Razer's 20th-anniversary reboot of its legendary Boomslang mouse is collector candy for retro-tech lovers with deep, deep pockets. I got my hands on one.",
-        "source_link": "https://www.pcmag.com/news/hands-on-razer-boomslang-20th-anniversary-edition-mouse"
-      },
-      {
-        "rank": 5,
-        "image": "https://gizmodo.com/app/uploads/2026/03/channel-surfer-e1773428775493-1200x675.png",
-        "title": "New Website 'Channel Surfer' Reinvents the Cable TV Couch Vegetation Experience for 2026 - Gizmodo",
-        "description": "Turn on, tune in, drop out.",
-        "source_link": "https://gizmodo.com/new-website-channel-surfer-reinvents-the-cable-tv-couch-vegetation-experience-for-2026-2000733419"
-      },
-      {
-        "rank": 6,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6875c743612c9b34e62d976b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "\u2018Destiny 2\u2019 Has Lost 91% Of Players Since Edge Of Fate, 97% From Final Shape - Forbes",
-        "description": "Destiny 2's playercount drops are not just noticeable now, they are potentially disastrous and unrecoverable.",
-        "source_link": "https://www.forbes.com/sites/paultassi/2026/03/14/destiny-2-has-lost-91-of-players-since-edge-of-fate-97-from-final-shape/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.bgr.com/img/gallery/6-vpn-services-you-should-try-and-5-to-avoid-according-to-experts/l-intro-1773063546.jpg",
-        "title": "6 VPN Services You Should Try And 5 To Avoid According To Experts - bgr.com",
-        "description": "VPNs are a great way to access streaming services and increase your privacy, but some VPNs are worse than having none at all. Here are our recommendations.",
-        "source_link": "https://www.bgr.com/2118768/best-worst-vpn-services-according-experts/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.cnet.com/a/img/resize/c3bc9fbdc0c8d9cfb28e08dd335fc57c226d844c/hub/2026/03/13/4a2bb167-0829-4bef-8d92-d543b9f310c7/tapo-c120.png?auto=webp&fit=crop&height=675&width=1200",
-        "title": "CNET Readers Love to Buy Cool Tech. Here Are Your 20 Favorite Things From the Past Month - CNET",
-        "description": "If you're wondering what tech deals people are buying, take a look at the top 20 products CNET readers picked up last month.",
-        "source_link": "https://www.cnet.com/deals/top-20-products-readers-love-on-cnet/"
-      },
-      {
-        "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2026/03/slay-the-spires-1200x675.jpg",
-        "title": "Slay The Spire 2 Promises To Patch Out 1 Billion HP Exploit As It Sells A Whopping 3 Million Copies In Just One Week - Kotaku",
-        "description": "The game is doing gangbusters and it's still only in Early Access",
-        "source_link": "https://kotaku.com/slay-spire-2-patch-notes-sales-damage-build-2000678909"
-      },
-      {
         "rank": 10,
-        "image": "https://www.canonrumors.com/wp-content/uploads/2026/03/Canon-EOS-R7-Mark-II-Hidden-Teaser-Header.jpg",
-        "title": "Canon EOS R7 Mark II Info: 39MP Stacked Sensor and 2026 Release Date - Canon Rumors",
-        "description": "The Canon EOS R7 Mark II is the most anticipated EOS R camera coming in 2026. The current R7 is a much loved crop camera if you go by all of the related communities out there. The 7 series has always been a mix of performance and value. Sensor Resolution The \u2026",
-        "source_link": "https://www.canonrumors.com/canon-eos-r7-mark-ii-sensor-info-and-it-sounds-great/"
+        "image": "https://images.digitalfoundry.net/8f61b02f5ae7a/large.jpg",
+        "title": "Crimson Desert PC: Nvidia And AMD ML Tech Delivers Vastly Improved Lighting - Digital Foundry",
+        "description": "Almost as transformative as RT on/off.",
+        "source_link": "https://www.digitalfoundry.net/news/2026/03/crimson-desert-pc-nvidia-and-amd-ml-tech-delivers-vastly-improved-lighting"
       }
     ],
     "trending_movies": [
@@ -83,7 +83,7 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/705nQHqe4JGdEisrQmVYmXyjs1U.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
         "title": "Sinners",
         "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is wait...",
         "source_link": "https://www.themoviedb.org/movie/1233413"
@@ -97,17 +97,17 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
         "title": "Hamnet",
         "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet....",
         "source_link": "https://www.themoviedb.org/movie/858024"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 6,
@@ -118,10 +118,10 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-        "title": "Marty Supreme",
-        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
-        "source_link": "https://www.themoviedb.org/movie/1317288"
+        "image": "https://image.tmdb.org/t/p/w200/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg",
+        "title": "Sentimental Value",
+        "description": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in w...",
+        "source_link": "https://www.themoviedb.org/movie/1124566"
       },
       {
         "rank": 8,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
+        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+        "title": "Marty Supreme",
+        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/jadCjQLZpX9yxlk4xPtyx4He2Ll.jpg",
-        "title": "The Secret Agent",
-        "description": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but s...",
-        "source_link": "https://www.themoviedb.org/movie/1220564"
+        "image": "https://image.tmdb.org/t/p/w200/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg",
+        "title": "F1",
+        "description": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team\u2014and mentor a young hotshot driver\u2014while chasing one more cha...",
+        "source_link": "https://www.themoviedb.org/movie/911430"
       }
     ]
   }
