@@ -1,76 +1,76 @@
 {
-  "last_updated": "March 16, 2026, 14:55 UTC",
+  "last_updated": "March 16, 2026, 16:02 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/1065606806/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "Google Zero-Day Alert For 3.5 Billion Chrome Users\u2014Attacks Underway - Forbes",
+        "description": "Google has confirmed an emergency Chrome security update amid reports that attackers are exploiting two zero-day vulnerabilities.",
+        "source_link": "https://www.forbes.com/sites/daveywinder/2026/03/15/google-zero-day-alert-for-35-billion-chrome-users-attacks-underway/"
+      },
+      {
+        "rank": 2,
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260312-clevceland-clinic-ms-patient-ew-613p-aad4fe.jpg",
+        "title": "Can a groundbreaking cancer therapy help people with multiple sclerosis? - NBC News",
+        "description": "Grace Miller was a 24-year-old law school student when she was diagnosed with multiple sclerosis",
+        "source_link": "https://www.nbcnews.com/health/health-news/can-groundbreaking-cancer-therapy-help-people-multiple-sclerosis-rcna263262"
+      },
+      {
+        "rank": 3,
         "image": "https://imageio.forbes.com/specials-images/imageserve/69b61c0c2480d75eea45599f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "Why Are People Hating \u2018Marathon\u2019 As A Sport? - Forbes",
         "description": "Marathon has been the target of a relentless hate campaign for months now, which is amplifying after launch. But why?",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/03/15/why-are-people-hating-marathon-as-a-sport/"
       },
       {
-        "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VH_Clubhouse_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "The fast rise and epic fall of Clubhouse - The Verge",
-        "description": "The history of a fast-rising social network, how audio-first social became a big hit during the pandemic, and why it ultimately never took off.",
-        "source_link": "https://www.theverge.com/podcast/895044/clubhouse-audio-social-network-version-history"
+        "rank": 4,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/im4997mCyt9g/v7/1200x800.jpg",
+        "title": "Apple\u2019s Liquid Glass Interface Isn\u2019t Going Anywhere Anytime Soon - Bloomberg.com",
+        "description": "Also: Inside Apple\u2019s smart home delays.",
+        "source_link": "https://www.bloomberg.com/news/newsletters/2026-03-15/apple-s-liquid-glass-ui-isn-t-going-anywhere-siri-home-hub-foldable-iphone-mmrpcylx"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://pokemongohub.net/wp-content/uploads/2026/03/tinkatink-community-day-pokemon-go.jpg",
         "title": "Tinkatink Community Day April 2026: Shiny Odds, Bonuses & Gigaton Hammer Tinkaton - Pok\u00e9mon GO Hub",
         "description": "Trainers, get hyped! The next Community Day of 2026 stars Tinkatink, the Metal Hammer Pok\u00e9mon! Join the event on Saturday, April 11, 2026, from 2:00 p.m. to 5:00 p.m. local time to enjoy 2x catch Candy, increased Tinkatink spawns, and a chance to encounter Sh\u2026",
         "source_link": "https://pokemongohub.net/post/event/tinkatink-community-day-april-2026/"
       },
       {
-        "rank": 4,
-        "image": null,
-        "title": "Android's new desktop windowing mode has changed how I use my tablet - Android Authority",
-        "description": null,
-        "source_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNFNzeHR6bUM3c3U2UWlub3VnajBDUWJpTXdYYlNQbDVWVFNqNWZ3M20wSGtpQnBpOW12Zm9iQVMwMS1GSEZfUno3WWlLM3lsZlM5R2p2Qms2dFlRZFI2V05sNzZiMGRnNDhrY2tDaVEwYVVEMXBMdUhJbjlzbEl3aWlwbmNrNEJuUVE?oc=5"
-      },
-      {
-        "rank": 5,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/20260314_134225.jpg?w=1600&h=900&fit=crop",
-        "title": "I used the Galaxy S26 Ultra and iPhone 17 Pro Max, and the gap is widening - Android Police",
-        "description": "Apple is losing ground",
-        "source_link": "https://www.androidpolice.com/i-used-the-galaxy-s26-ultra-and-iphone-17-pro-max-and-the-gap-is-getting-wider/"
-      },
-      {
         "rank": 6,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/android-16-qpr3-multi-window-on-pixel-tablet-6.jpg",
+        "title": "Android's new desktop windowing mode has changed how I use my tablet - Android Authority",
+        "description": "Google just brought a full desktop experience to Android tablets, and I've been testing it to see how well it works. Here are my thoughts.",
+        "source_link": "https://www.androidauthority.com/android-new-desktop-window-mode-hands-on-3649023/"
+      },
+      {
+        "rank": 7,
+        "image": "https://m-cdn.phonearena.com/images/article/178931-wide-two_1200/Foldable-iPhone-prices-are-almost-impossible-to-believe.jpg",
+        "title": "Foldable iPhone prices are almost impossible to believe - PhoneArena",
+        "description": "The foldable iPhone is going to cost the same as its biggest rival. How is that even possible?",
+        "source_link": "https://www.phonearena.com/news/foldable-iphone-prices-almost-impossible-to-believe_id178931"
+      },
+      {
+        "rank": 8,
         "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/03/lte-vs-5g-smartwatch-signal-bars.jpg",
         "title": "The First of its Kind: Why the Galaxy Watch Ultra 2 is a \u2018Total Game Changer\u2019 for Samsung - Geeky Gadgets",
         "description": "Samsung Galaxy Watch Ultra 2 is rumored to add full 5G; a summer 2026 launch could bring phone-free calls and streaming.",
         "source_link": "https://www.geeky-gadgets.com/galaxy-watch-ultra-2-details/"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://images.nintendolife.com/eb615ac1018f3/large.jpg",
         "title": "Mario Kart World Hori Racing Wheels Releasing For Switch 2 This Month - Nintendo Life",
         "description": "Pre-orders open for the 'Mini' and 'Deluxe' versions",
         "source_link": "https://www.nintendolife.com/news/2026/03/mario-kart-world-hori-racing-wheels-releasing-for-switch-2-this-month"
       },
       {
-        "rank": 8,
+        "rank": 10,
         "image": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/03/europe-makes-big-changes-to-game-ratings.jpg",
         "title": "Europe Makes Big Changes To Game Ratings - Dark Horizons",
         "description": "The European game ratings board (PEGI) has announced that, starting in June, it will introduce minimum age ratings for games with what\u2019s dubbed \u2018interactive risk\u2019 features. Under the new rules games with \u2018paid random items\u2019 (aka. loot boxes) will have a defau\u2026",
         "source_link": "https://www.darkhorizons.com/europe-makes-big-changes-to-game-ratings/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.bgr.com/img/gallery/this-smart-gadget-on-amazon-can-change-the-way-you-watch-tv/l-intro-1773170833.jpg",
-        "title": "This Smart Gadget On Amazon Can Change The Way You Watch TV - bgr.com",
-        "description": "While a cinema-level experience is hard to match in a home theater, there are little touches like this lighting trick that can instantly improve immersion.",
-        "source_link": "https://www.bgr.com/2120362/amazon-backlight-gadget-change-how-watch-tv/"
-      },
-      {
-        "rank": 10,
-        "image": "https://hackaday.com/wp-content/uploads/2026/03/zipper_v3_cover_43-banner-1.png",
-        "title": "This Printed Zipper Repair Requires No Unsewing - Hackaday",
-        "description": "If a zipper breaks, a 3D printer might not be the first tool one reaches for \u2014 but it\u2019s more feasible than one might think. [MisterJ]\u2019s zipper slider replacement is the kind of 3D\u2026",
-        "source_link": "https://hackaday.com/2026/03/14/this-printed-zipper-repair-requires-no-unsewing/"
       }
     ],
     "trending_movies": [
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
-        "title": "Weapons",
-        "description": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what...",
-        "source_link": "https://www.themoviedb.org/movie/1078605"
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       }
     ]
   }
