@@ -1,5 +1,5 @@
 {
-  "last_updated": "March 17, 2026, 21:34 UTC",
+  "last_updated": "March 17, 2026, 22:28 UTC",
   "categories": {
     "tech_news": [
       {
@@ -62,7 +62,7 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/vOhW7Lbt4kZAqe0vJhVC4Ced9x2.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/cCx1m530ph5FmtabVVUpUchEmhe.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
@@ -90,17 +90,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
-        "title": "War Machine",
-        "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine...",
-        "source_link": "https://www.themoviedb.org/movie/1265609"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
         "title": "Sinners",
         "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is wait...",
         "source_link": "https://www.themoviedb.org/movie/1233413"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 7,
@@ -111,24 +111,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
+        "image": "https://image.tmdb.org/t/p/w200/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+        "title": "War Machine",
+        "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine...",
+        "source_link": "https://www.themoviedb.org/movie/1265609"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/1tfvaktQ578jMCMYW4rFZE2STrv.jpg",
         "title": "Ready or Not 2: Here I Come",
         "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
         "source_link": "https://www.themoviedb.org/movie/1266127"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
+        "title": "Preschool",
+        "description": "Two determined fathers engage in a comical battle to enroll their kids in an elite preschool, escalating into an absurd competition with unexpected re...",
+        "source_link": "https://www.themoviedb.org/movie/1440049"
       }
     ]
   }
