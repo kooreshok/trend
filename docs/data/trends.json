@@ -1,76 +1,69 @@
 {
-  "last_updated": "March 17, 2026, 14:51 UTC",
+  "last_updated": "March 17, 2026, 16:01 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.macrumors.com/t/10MrMmwoOO-MCXEzovdtM-192-Q=/1920x/article-new/2026/03/AirPods-Max-2-Feature.jpg",
+        "title": "Apple Announces AirPods Max 2 - MacRumors",
+        "description": "Apple today unveiled AirPods Max 2, with key upgrades including the H2 chip, increased active noise cancellation, improved sound quality, and...",
+        "source_link": "https://www.macrumors.com/2026/03/16/apple-announces-airpods-max-2/"
+      },
+      {
+        "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2026/03/marathon-terminals-1200x675.jpg",
+        "title": "Marathon Dev 'Truth Nukes' Claim Bungie Lost All Its Halo Talent - Kotaku",
+        "description": "There are still dozens of developers who have been there since Halo",
+        "source_link": "https://kotaku.com/marathon-bungie-halo-developers-who-worked-on-2000679056"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.nintendolife.com/4ab1ccaeb877e/large.jpg",
+        "title": "\"We Can All Exist At The Same Time\" - Zelda Voice Actor Rejects The Need To Pass The Torch - Nintendo Life",
+        "description": "\"There are already many torches\"",
+        "source_link": "https://www.nintendolife.com/news/2026/03/we-can-all-exist-at-the-same-time-zelda-voice-actor-rejects-the-need-to-pass-the-torch"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.phoronix.net/image.php?id=2026&image=retire_udp_lite",
+        "title": "Linux 7.1 To Retire UDP-Lite - Allows For Better Performance With Cleansed Code - Phoronix",
+        "description": "The upcoming Linux 7.1 kernel cycle is set to retire UDP-Lite support",
+        "source_link": "https://www.phoronix.com/news/Linux-7.1-Retiring-UDP-Lite"
+      },
+      {
+        "rank": 5,
+        "image": "https://images.nintendolife.com/3a925b3114d50/large.jpg",
+        "title": "UK Charts: Pok\u00e9mon Pokopia's Physical Troubles Continue As It Slips From The Podium - Nintendo Life",
+        "description": "Stock issues for Ditto",
+        "source_link": "https://www.nintendolife.com/news/2026/03/uk-charts-pokemon-pokopias-physical-troubles-continue-as-it-slips-from-the-podium"
+      },
+      {
+        "rank": 6,
+        "image": "https://assetsio.gnwcdn.com/3878ff92261c1fda7ce03772ac149514ce6f6bf5c715e64b.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Resident Evil Requiem crosses 6 million copies sold, becoming the fastest-selling game in the survival horror series' history - Eurogamer",
+        "description": "Resident Evil Requiem has already sold 6 million copies and become the fastest-selling entry in the series' history, Capcom has announced.",
+        "source_link": "https://www.eurogamer.net/resident-evil-requiem-sells-six-million-copies-march-2026"
+      },
+      {
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268372_Arielle_Tracking_devices_illness_EOrtiz_0081.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Misusing my fitness tracker to do less, not more - The Verge",
         "description": "Disabled folks are using their devices to manage long Covid, POTS, and more \u2014 and it\u2019s working",
         "source_link": "https://www.theverge.com/features/889835/fitness-trackers-chronic-illness-visible-whoop"
       },
       {
-        "rank": 2,
+        "rank": 8,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2024/05/Chromebook-with-Chromebook-logo-on-screen-stock-photo-12.jpg",
+        "title": "This popular Chrome extension just got flagged for malware - Android Authority",
+        "description": "Google has just blocked one of our favorite Chrome extensions for apparently containing malware. So what actually happened?",
+        "source_link": "https://www.androidauthority.com/favorite-chrome-image-extension-malware-3649252/"
+      },
+      {
+        "rank": 9,
         "image": "https://cdn.videocardz.com/1/2026/03/AMD-MEDUSA-RYZEN-500-HERO.jpg",
         "title": "AMD Zen6 \"Medusa Point\" 10-core CPU leak confirms 32MB L3 Cache - VideoCardz.com",
         "description": "One of the first Zen6 CPUs finally spotted on Geekbench Over at Geekbench, you may stumble upon a mysterious processor without a marketing name attached.",
         "source_link": "https://videocardz.com/newz/amd-zen6-medusa-point-10-core-cpu-leak-confirms-32mb-l3-cache"
-      },
-      {
-        "rank": 3,
-        "image": "https://assetsio.gnwcdn.com/wb-games-montreal.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Warner Bros Montr\u00e9al reportedly hit with staff cuts - GamesIndustry.biz",
-        "description": "Former employees state that roles across multiple divisions were made redundant last Friday",
-        "source_link": "https://www.gamesindustry.biz/warner-bros-montreal-reportedly-hit-with-staff-cuts"
-      },
-      {
-        "rank": 4,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2021/12/Spotify-stock-photo-3.jpg",
-        "title": "Spotify's mobile app may soon get a feature fans have wanted for 15 years - Android Authority",
-        "description": "Spotify is working towards finally bringing the 'Playlist folders' feature to its mobile app after it first launched back in 2010!",
-        "source_link": "https://www.androidauthority.com/spotify-playlists-folder-coming-to-mobile-app-3649237/"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.sammobile.com/wp-content/uploads/2025/12/Folding-Galaxy-Z-TriFold-1200x675.jpg",
-        "title": "Looks like Samsung doesn't want to sell the Galaxy Z TriFold anymore - SamMobile",
-        "description": "Samsung released its first trifold phone, the Galaxy Z TriFold, late last year. It has only been released in a handful of markets so far, and that too in very limited quantities. If you haven't been able to get your hands on one yet, you may soon be out of lu\u2026",
-        "source_link": "https://www.sammobile.com/news/looks-like-samsung-doesnt-want-to-sell-the-galaxy-z-trifold-anymore/"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.sammobile.com/wp-content/uploads/2026/03/Samsung-One-UI-9-1200x675.jpg",
-        "title": "Breaking: First One UI 9 build appears for the Galaxy S26 Ultra - SamMobile",
-        "description": "Samsung recently launched the Galaxy S26 series with One UI 8.5 onboard. The phones in the lineup were the first Galaxy devices to run the stable version of the new software. Now, the first One UI 9 build has appeared for the Galaxy S26 Ultra, marking an impo\u2026",
-        "source_link": "https://www.sammobile.com/news/galaxy-s26-first-one-ui-9-build-appears/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Samsung-Galaxy-S26-series-showing-screens.jpg",
-        "title": "Despite record Galaxy S26 pre-orders, Samsung's mobile unit is literally in emergency mode - Android Authority",
-        "description": "Samsung is seeing record Galaxy S26 series pre-orders, but the mobile unit is entering 'emergency management' due to financial concerns.",
-        "source_link": "https://www.androidauthority.com/samsung-mobile-division-emergency-management-3649220/"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.mos.cms.futurecdn.net/8TzJBa4veUdSABLYisTvYK-2560-80.jpg",
-        "title": "I wore Meta Ray-Ban smart glasses while shopping at Target \u2014 7 things that were surprisingly useful - Tom's Guide",
-        "description": "For the first time in forever, I actually remembered everything on my list",
-        "source_link": "https://www.tomsguide.com/ai/i-wore-meta-ray-ban-smart-glasses-while-shopping-at-target-7-things-that-were-surprisingly-useful"
-      },
-      {
-        "rank": 9,
-        "image": "https://i.insider.com/69b76d6ba7a4f9df67ba5df1?width=1200&format=jpeg",
-        "title": "Lovable exec says 'big boys and girls' like OpenAI and Anthropic worry her more than other vibe coding startups - Business Insider",
-        "description": "Other vibe coding players are not the biggest competition, says Elena Verna, Lovable's head of growth.",
-        "source_link": "https://www.businessinsider.com/lovable-growth-exec-openai-anthropic-competition-cursor-replit-vibe-coding-2026-3"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.sammobile.com/wp-content/uploads/2025/08/Galaxy-Z-Fold-7-review-Gaming-1200x675.jpg",
-        "title": "Galaxy Z Fold 8's widescreen version reportedly has a bigger battery - SamMobile",
-        "description": "Samsung is expected to launch three foldable phones in mid-2026: the Galaxy Z Flip 8, Galaxy Z Fold 8, and a wider version of the Galaxy Z Fold 8. A couple of days ago, the battery capacity of the Galaxy Z Flip 8 was revealed. Now, the battery capacity of the\u2026",
-        "source_link": "https://www.sammobile.com/news/galaxy-z-fold-8-widescreen-version-bigger-battery/"
       }
     ],
     "trending_movies": [
@@ -104,31 +97,31 @@
       },
       {
         "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/b4wekkUaxExzOeGe7hKXzhnyXHt.jpg",
+        "title": "Dune: Part Three",
+        "description": "The third and final installment in Villeneuve's Dune trilogy. Based on Frank Herbert's novel Dune Messiah....",
+        "source_link": "https://www.themoviedb.org/movie/1170608"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
         "title": "Sinners",
         "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is wait...",
         "source_link": "https://www.themoviedb.org/movie/1233413"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/eSSSZ7NGsSvQC2mE3YAZBqjJECd.jpg",
-        "title": "Dune: Part Three",
-        "description": "The third and final installment in Villeneuve's Dune trilogy. Based on Frank Herbert's novel Dune Messiah....",
-        "source_link": "https://www.themoviedb.org/movie/1170608"
-      },
-      {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
+        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+        "title": "Scream 7",
+        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
+        "source_link": "https://www.themoviedb.org/movie/1159559"
       },
       {
         "rank": 9,
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-        "title": "Scream 7",
-        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
-        "source_link": "https://www.themoviedb.org/movie/1159559"
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       }
     ]
   }
