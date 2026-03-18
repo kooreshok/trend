@@ -1,65 +1,72 @@
 {
-  "last_updated": "March 18, 2026, 14:58 UTC",
+  "last_updated": "March 18, 2026, 16:10 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DS7Z2QYCPYW7BXJEHFIQ3GZXRU_size-normalized.jpg&w=1440",
+        "title": "Column | This app is quietly reformulating America\u2019s food supply - The Washington Post",
+        "description": "Food scanning app Yuka is empowering consumers to demand that processed food brands make their products healthier.",
+        "source_link": "https://www.washingtonpost.com/climate-environment/2026/03/17/yuka-app-processed-food-health/"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/find-n6-en/list-page/442-600-orange.png",
+        "title": "OPPO Find N6 - Ultra Flat, Flexible & Powerful | OPPO Global - OPPO",
+        "description": "Discover the OPPO Find N6: foldable flagship featuring Zero-Feel Crease and 200MP Hasselblad Camera. Paired with OPPO AI Pen, unleash your creativity.",
+        "source_link": "https://www.oppo.com/en/smartphones/series-find-n/find-n6/"
+      },
+      {
+        "rank": 3,
+        "image": null,
+        "title": "How a MacBook Neo bought for a high school student is worth $50k to Apple - 9to5Mac",
+        "description": null,
+        "source_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUG1TNU5yQnA0U01Pako4cjY3Z01pa3d4bHBEU2RNSzFLa3FyUUdDTUhSUGJCSHpRbnhtbWxaRTN4S3Fob2N4SUhocDF4YWV0QThvU1drUnltNUVIWXdKeTBDR09TendoSHJNTDdhYU9Zd1MzcUhVdWJrWWpyVEpxaXltaGtKWEZGNXhyeVByZEN2cFh2Qnd4Vm9zRHd5M0hvMU9BVHlrOA?oc=5"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02025_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "title": "Samsung discontinues its Galaxy Z TriFold after just three months - The Verge",
+        "description": "Samsung is preparing to axe its first three-panel foldable phone less than three months after launching the device in the US.",
+        "source_link": "https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out"
+      },
+      {
+        "rank": 5,
         "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
         "title": "Patch Notes 1.20.0 - ARC Raiders",
         "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
         "source_link": "https://arcraiders.com/news/patch-notes-1-20-0"
       },
       {
-        "rank": 2,
-        "image": "https://images.nintendolife.com/84ae21d85370d/large.jpg",
-        "title": "PSA: Switch 2 Update Adds Handheld Mode Boost, Here's How To Use It - Nintendo Life",
-        "description": "Enhance your experience with Switch games",
-        "source_link": "https://www.nintendolife.com/news/2026/03/psa-switch-2-update-adds-handheld-mode-boost-heres-how-to-use-it"
-      },
-      {
-        "rank": 3,
+        "rank": 6,
         "image": "https://images.axios.com/kHPz8IP3GCN8hHlNgKAICIHfXSQ=/0x0:1920x1080/1366x768/2026/01/05/1767636385732.jpeg",
         "title": "Clean your feed: Refresh your Instagram diet - Axios",
         "description": "It's not about missing out; it's about reclaiming your attention.",
         "source_link": "https://www.axios.com/2026/03/17/clean-your-feed-refresh-your-instagram-diet"
       },
       {
-        "rank": 4,
-        "image": "https://static.outkick.com/www.outkick.com/content/uploads/2026/03/spin-zone-98.png",
-        "title": "GameStop Declares Xbox360, PS3 Retro Consoles, Millennials Are In Shambles - OutKick",
-        "description": "GameStop released a memo designating the Xbox 360, PlayStation 3, and Wii U retro consoles, reminding every Millennial who grew up with those systems they are now washed.",
-        "source_link": "https://www.outkick.com/culture/gamestop-declares-xbox360-ps3-retro-consoles-millennials-shambles"
-      },
-      {
-        "rank": 5,
-        "image": "https://images.unsplash.com/photo-1621259183018-5a0fd57fcfd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQ0fHx4Ym94fGVufDB8fHx8MTc3MzcwNzEwNXww&ixlib=rb-4.1.0&q=80&w=2000",
-        "title": "Is This What You Think Of Us - aftermath.site",
-        "description": "The feeding ramp is polished to a mirror sheen",
-        "source_link": "https://aftermath.site/microsoft-copilot-ai-xbox/"
-      },
-      {
-        "rank": 6,
+        "rank": 7,
         "image": "https://m-cdn.phonearena.com/images/article/178966-wide-two_1200/iPhone-18-Pro-leaks-are-all-good-news-that-could-guarantee-its-smashing-success.jpg",
         "title": "iPhone 18 Pro leaks are all good news that could guarantee its smashing success - PhoneArena",
         "description": "The iPhone 18 Pro could become Apple\u2019s best and most responsible upgrade in a long time.",
         "source_link": "https://www.phonearena.com/news/iPhone-18-Pro-leaks-are-all-good-news-that-could-guarantee-its-smashing-success_id178966"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://s.hdnux.com/photos/01/65/41/12/30806697/5/rawImage.jpg",
         "title": "One of S.F.\u2019s biggest tech conferences saw attendance plunge 30% this year - San Francisco Chronicle",
         "description": "One of San Francisco\u2019s biggest tech conferences saw its attendance plunge 30% this year, amid tech layoffs and fears of traveling",
         "source_link": "https://www.sfchronicle.com/bayarea/article/tech-conference-attendance-plunged-22079584.php"
       },
       {
-        "rank": 8,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Winds-Waves-beta-screenshot-March-2026-2.jpg",
-        "title": "New Pokemon Winds and Waves beta screenshot leaked - Nintendo Everything",
-        "description": "Here's another look at Pokemon Winds and Pokemon Waves, coming to Nintendo Switch 2 in 2027, with a new beta screenshot leak.",
-        "source_link": "https://nintendoeverything.com/new-pokemon-winds-and-waves-beta-screenshot-leaked/"
+        "rank": 9,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-march-4-event-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple has announced 8 new products this month - 9to5Mac",
+        "description": "Apple unveiled and launched seven new products in the first half of March, including iPhones, iPads, Macs, and more. Two...",
+        "source_link": "https://9to5mac.com/2026/03/16/apple-has-announced-8-new-products-this-month/"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://images.macrumors.com/t/7Lw_OuxXYws-tsCrC_o_Q-xdr0Q=/2500x/article-new/2024/10/airpods-max-dark-blue.jpeg",
         "title": "10 Audio Improvements in Apple's New AirPods Max 2 - MacRumors",
         "description": "Apple refreshed the AirPods Max today, and the main new addition is an H2 chip that replaces the H1 chip. The H2 chip has previously been used in the...",
@@ -69,24 +76,24 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/cCx1m530ph5FmtabVVUpUchEmhe.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/9JCQtDCSpPR2ld55yNlEg1VwcQo.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Four years after the events of Spider-Man: No Way Home, Peter Parker is no more and Spider-Man is at the top of his game keeping New York City safe. T...",
         "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
         "title": "Scream 7",
         "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
         "source_link": "https://www.themoviedb.org/movie/1159559"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/cCx1m530ph5FmtabVVUpUchEmhe.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
         "rank": 4,
@@ -111,10 +118,10 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
+        "image": "https://image.tmdb.org/t/p/w200/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
+        "title": "Preschool",
+        "description": "Two determined fathers engage in a comical battle to enroll their kids in an elite preschool, escalating into an absurd competition with unexpected re...",
+        "source_link": "https://www.themoviedb.org/movie/1440049"
       },
       {
         "rank": 8,
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
-        "title": "War Machine",
-        "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine...",
-        "source_link": "https://www.themoviedb.org/movie/1265609"
+        "image": "https://image.tmdb.org/t/p/w200/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
+        "title": "Ready or Not: Here I Come",
+        "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
+        "source_link": "https://www.themoviedb.org/movie/1266127"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
-        "title": "Preschool",
-        "description": "Two determined fathers engage in a comical battle to enroll their kids in an elite preschool, escalating into an absurd competition with unexpected re...",
-        "source_link": "https://www.themoviedb.org/movie/1440049"
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       }
     ]
   }
