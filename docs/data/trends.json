@@ -1,96 +1,89 @@
 {
-  "last_updated": "March 18, 2026, 16:10 UTC",
+  "last_updated": "March 18, 2026, 17:57 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/GP_Hero_US-37d4a26ce639e6978417.jpg",
+        "title": "Coming to Xbox Game Pass: Disco Elysium, Resident Evil 7: Biohazard, Final Fantasy IV and More - Xbox",
+        "description": "Coming soon to Xbox Game Pass: Disco Elysium, Resident Evil 7: Biohazard, Final Fantasy IV, and more!",
+        "source_link": "https://news.xbox.com/en-us/2026/03/17/xbox-game-pass-march-2026-wave-2/"
+      },
+      {
+        "rank": 2,
         "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DS7Z2QYCPYW7BXJEHFIQ3GZXRU_size-normalized.jpg&w=1440",
         "title": "Column | This app is quietly reformulating America\u2019s food supply - The Washington Post",
         "description": "Food scanning app Yuka is empowering consumers to demand that processed food brands make their products healthier.",
         "source_link": "https://www.washingtonpost.com/climate-environment/2026/03/17/yuka-app-processed-food-health/"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://assetsio.gnwcdn.com/Screenshot-of-a-female-character-from-Starfield-with-DLSS-5-on.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Bethesda promises Nvidia's controversial DLSS 5 AI filters will be \"totally optional\" for players - Eurogamer",
+        "description": "Bethesda is committed to \"further adjusting the lighting and final effect\" of Nvidia's DLSS 5 visuals on Starfield following the controversial AI-tech's reveal.",
+        "source_link": "https://www.eurogamer.net/bethesda-promises-nvidias-controversial-dlss-5-ai-filters-will-be-totally-optional-for-players"
+      },
+      {
+        "rank": 4,
         "image": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/find-n6-en/list-page/442-600-orange.png",
         "title": "OPPO Find N6 - Ultra Flat, Flexible & Powerful | OPPO Global - OPPO",
         "description": "Discover the OPPO Find N6: foldable flagship featuring Zero-Feel Crease and 200MP Hasselblad Camera. Paired with OPPO AI Pen, unleash your creativity.",
         "source_link": "https://www.oppo.com/en/smartphones/series-find-n/find-n6/"
       },
       {
-        "rank": 3,
-        "image": null,
-        "title": "How a MacBook Neo bought for a high school student is worth $50k to Apple - 9to5Mac",
-        "description": null,
-        "source_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUG1TNU5yQnA0U01Pako4cjY3Z01pa3d4bHBEU2RNSzFLa3FyUUdDTUhSUGJCSHpRbnhtbWxaRTN4S3Fob2N4SUhocDF4YWV0QThvU1drUnltNUVIWXdKeTBDR09TendoSHJNTDdhYU9Zd1MzcUhVdWJrWWpyVEpxaXltaGtKWEZGNXhyeVByZEN2cFh2Qnd4Vm9zRHd5M0hvMU9BVHlrOA?oc=5"
-      },
-      {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/DSC02025_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "title": "Samsung discontinues its Galaxy Z TriFold after just three months - The Verge",
-        "description": "Samsung is preparing to axe its first three-panel foldable phone less than three months after launching the device in the US.",
-        "source_link": "https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out"
-      },
-      {
         "rank": 5,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-blush.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "How a MacBook Neo bought for a high school student is worth $50k to Apple - 9to5Mac",
+        "description": "One of the biggest mysteries ahead of the MacBook Neo launch was the price. We\u2019d seen various estimates in the...",
+        "source_link": "https://9to5mac.com/2026/03/17/how-a-macbook-neo-bought-for-a-high-school-student-is-worth-50k-to-apple/"
+      },
+      {
+        "rank": 6,
+        "image": "https://images.nintendolife.com/88edf2a1dde4b/large.jpg",
+        "title": "Nintendo Switch App Update Introduces Support For Switch 2's New Friend List Features - Nintendo Life",
+        "description": "Noted",
+        "source_link": "https://www.nintendolife.com/news/2026/03/nintendo-switch-app-update-introduces-support-for-switch-2s-new-friend-list-features"
+      },
+      {
+        "rank": 7,
+        "image": "https://assetsio.gnwcdn.com/crimson-desert-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Base PS5 footage of Crimson Desert finally emerges, and it looks OK? - Eurogamer",
+        "description": "It's real, at least.",
+        "source_link": "https://www.eurogamer.net/base-ps5-footage-of-crimson-desert"
+      },
+      {
+        "rank": 8,
         "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
         "title": "Patch Notes 1.20.0 - ARC Raiders",
         "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
         "source_link": "https://arcraiders.com/news/patch-notes-1-20-0"
       },
       {
-        "rank": 6,
-        "image": "https://images.axios.com/kHPz8IP3GCN8hHlNgKAICIHfXSQ=/0x0:1920x1080/1366x768/2026/01/05/1767636385732.jpeg",
-        "title": "Clean your feed: Refresh your Instagram diet - Axios",
-        "description": "It's not about missing out; it's about reclaiming your attention.",
-        "source_link": "https://www.axios.com/2026/03/17/clean-your-feed-refresh-your-instagram-diet"
-      },
-      {
-        "rank": 7,
-        "image": "https://m-cdn.phonearena.com/images/article/178966-wide-two_1200/iPhone-18-Pro-leaks-are-all-good-news-that-could-guarantee-its-smashing-success.jpg",
-        "title": "iPhone 18 Pro leaks are all good news that could guarantee its smashing success - PhoneArena",
-        "description": "The iPhone 18 Pro could become Apple\u2019s best and most responsible upgrade in a long time.",
-        "source_link": "https://www.phonearena.com/news/iPhone-18-Pro-leaks-are-all-good-news-that-could-guarantee-its-smashing-success_id178966"
-      },
-      {
-        "rank": 8,
-        "image": "https://s.hdnux.com/photos/01/65/41/12/30806697/5/rawImage.jpg",
-        "title": "One of S.F.\u2019s biggest tech conferences saw attendance plunge 30% this year - San Francisco Chronicle",
-        "description": "One of San Francisco\u2019s biggest tech conferences saw its attendance plunge 30% this year, amid tech layoffs and fears of traveling",
-        "source_link": "https://www.sfchronicle.com/bayarea/article/tech-conference-attendance-plunged-22079584.php"
-      },
-      {
         "rank": 9,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-march-4-event-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple has announced 8 new products this month - 9to5Mac",
-        "description": "Apple unveiled and launched seven new products in the first half of March, including iPhones, iPads, Macs, and more. Two...",
-        "source_link": "https://9to5mac.com/2026/03/16/apple-has-announced-8-new-products-this-month/"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.macrumors.com/t/7Lw_OuxXYws-tsCrC_o_Q-xdr0Q=/2500x/article-new/2024/10/airpods-max-dark-blue.jpeg",
-        "title": "10 Audio Improvements in Apple's New AirPods Max 2 - MacRumors",
-        "description": "Apple refreshed the AirPods Max today, and the main new addition is an H2 chip that replaces the H1 chip. The H2 chip has previously been used in the...",
-        "source_link": "https://www.macrumors.com/2026/03/16/airpods-max-2-audio-improvements/"
+        "image": "https://cdn.videocardz.com/1/2026/03/NVIDIA-RTX-4500-Blackwell-Server-Edition-HERO.jpg",
+        "title": "NVIDIA launches RTX PRO 4500 Blackwell Server Edition, single-slot GPU with 32GB memory and 165W TDP - VideoCardz.com",
+        "description": "RTX PRO 4500 Blackwell Server Edition is a slimmer, passively cooled workstation card NVIDIA has just announced the RTX PRO 4500 Blackwell Server Edition,",
+        "source_link": "https://videocardz.com/newz/nvidia-launches-rtx-pro-4500-blackwell-server-edition-single-slot-gpu-with-32gb-memory-and-165w-tdp"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/9JCQtDCSpPR2ld55yNlEg1VwcQo.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Four years after the events of Spider-Man: No Way Home, Peter Parker is no more and Spider-Man is at the top of his game keeping New York City safe. T...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
         "title": "Scream 7",
         "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
         "source_link": "https://www.themoviedb.org/movie/1159559"
       },
       {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/9JCQtDCSpPR2ld55yNlEg1VwcQo.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Four years after the events of Spider-Man: No Way Home, Peter Parker is no more and Spider-Man is at the top of his game keeping New York City safe. T...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
+      },
+      {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/cCx1m530ph5FmtabVVUpUchEmhe.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/36gfW2Z7Vo7LbOFm2kbYvrbHDOd.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
@@ -118,31 +111,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
-        "title": "Preschool",
-        "description": "Two determined fathers engage in a comical battle to enroll their kids in an elite preschool, escalating into an absurd competition with unexpected re...",
-        "source_link": "https://www.themoviedb.org/movie/1440049"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/2O2tOyS4kvO9GtFPHpWmbXvfRQv.jpg",
         "title": "Scarlet",
         "description": "After failing to avenge her father's murder, Princess Scarlet, wakes up in the \"Land of the Dead.\" In this world filled with madness, if she does not ...",
         "source_link": "https://www.themoviedb.org/movie/1406657"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
         "title": "Ready or Not: Here I Come",
         "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
         "source_link": "https://www.themoviedb.org/movie/1266127"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "title": "Zootopia 2",
         "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
         "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
+        "title": "Preschool",
+        "description": "Two determined fathers engage in a comical battle to enroll their kids in an elite preschool, escalating into an absurd competition with unexpected re...",
+        "source_link": "https://www.themoviedb.org/movie/1440049"
       }
     ]
   }
