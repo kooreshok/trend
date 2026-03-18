@@ -1,69 +1,76 @@
 {
-  "last_updated": "March 18, 2026, 19:05 UTC",
+  "last_updated": "March 18, 2026, 20:31 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets-prd.ignimgs.com/2026/03/17/cyberpunk-tcg-kickstarter-launch-ign-1773760456850.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Cyberpunk TCG\u2019s Kickstarter Campaign Is Officially Now Live, Here\u2019s What\u2019s Included in Every Tier - IGN",
+        "description": "Cyberpunk TCG has now officially launched its Kickstarter campaign, here's the details on every tier available to back.",
+        "source_link": "https://www.ign.com/articles/cyberpunk-tcg-kickstarter-campaign-is-now-live-what-is-included-in-every-tier"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/dlss5-1152x648.png",
+        "title": "Gamers react with overwhelming disgust to DLSS 5's generative AI glow-ups - Ars Technica",
+        "description": "Nvidia's next frame-gen tech goes way beyond upscaling, and not in a good way...",
+        "source_link": "https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Z-trifold-1152x648.jpg",
+        "title": "After three months, Samsung is ending sales of the $2,899 Galaxy Z TriFold - Ars Technica",
+        "description": "Samsung didn't offer an explanation for its decision, but it's not exactly a surprise.",
+        "source_link": "https://arstechnica.com/gadgets/2026/03/after-three-months-samsung-is-ending-sales-of-the-2899-galaxy-z-trifold/"
+      },
+      {
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/tim-cook-gma.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Tim Cook names Apple\u2019s greatest contributions, talks tariff refunds and retirement rumors - 9to5Mac",
+        "description": "Apple CEO Tim Cook continues the company\u2019s 50th anniversary celebration with a press stop at Good Morning America on ABC...",
+        "source_link": "https://9to5mac.com/2026/03/17/tim-cook-names-apples-greatest-contributions-talks-tariff-refunds-and-retirement-rumors/"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/screenshots/26.1-pre3-1170x500.jpg",
+        "title": "Minecraft 26.1 Pre-Release 3 - Minecraft",
+        "description": "Minecraft 26.1 Pre-Release 3",
+        "source_link": "https://www.minecraft.net/en-us/article/minecraft-26-1-pre-release-3"
+      },
+      {
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0403.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Nintendo Switch 2 update adds \u2018Handheld Boost Mode\u2019 for original Switch games - The Verge",
+        "description": "Nintendo is launching a new \u201cHandheld Boost Mode\u201d feature for the Switch 2 that forces compatible Switch 1 titles to run in TV mode, allowing for an upgrade in performance.",
+        "source_link": "https://www.theverge.com/games/895919/nintendo-switch-2-handheld-boost-mode-update"
+      },
+      {
+        "rank": 7,
+        "image": "https://assetsio.gnwcdn.com/ps%3Dportal.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "The PlayStation Portal just got even better: a new High Quality Mode and 'refined streaming experience' headline the latest update - Eurogamer",
+        "description": "Sony's \"evolution\" of the PS Portal continues apace.",
+        "source_link": "https://www.eurogamer.net/playstation-portal-even-better-high-quality-mode-refined-streaming-experience"
+      },
+      {
+        "rank": 8,
         "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/GP_Hero_US-37d4a26ce639e6978417.jpg",
         "title": "Coming to Xbox Game Pass: Disco Elysium, Resident Evil 7: Biohazard, Final Fantasy IV and More - Xbox",
         "description": "Coming soon to Xbox Game Pass: Disco Elysium, Resident Evil 7: Biohazard, Final Fantasy IV, and more!",
         "source_link": "https://news.xbox.com/en-us/2026/03/17/xbox-game-pass-march-2026-wave-2/"
       },
       {
-        "rank": 2,
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DS7Z2QYCPYW7BXJEHFIQ3GZXRU_size-normalized.jpg&w=1440",
-        "title": "Column | This app is quietly reformulating America\u2019s food supply - The Washington Post",
-        "description": "Food scanning app Yuka is empowering consumers to demand that processed food brands make their products healthier.",
-        "source_link": "https://www.washingtonpost.com/climate-environment/2026/03/17/yuka-app-processed-food-health/"
-      },
-      {
-        "rank": 3,
-        "image": "https://assetsio.gnwcdn.com/Screenshot-of-a-female-character-from-Starfield-with-DLSS-5-on.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Bethesda promises Nvidia's controversial DLSS 5 AI filters will be \"totally optional\" for players - Eurogamer",
-        "description": "Bethesda is committed to \"further adjusting the lighting and final effect\" of Nvidia's DLSS 5 visuals on Starfield following the controversial AI-tech's reveal.",
-        "source_link": "https://www.eurogamer.net/bethesda-promises-nvidias-controversial-dlss-5-ai-filters-will-be-totally-optional-for-players"
-      },
-      {
-        "rank": 4,
-        "image": "https://www.oppo.com/content/dam/oppo_com/common/mkt/v2-2/find-n6-en/list-page/442-600-orange.png",
-        "title": "OPPO Find N6 - Ultra Flat, Flexible & Powerful | OPPO Global - OPPO",
-        "description": "Discover the OPPO Find N6: foldable flagship featuring Zero-Feel Crease and 200MP Hasselblad Camera. Paired with OPPO AI Pen, unleash your creativity.",
-        "source_link": "https://www.oppo.com/en/smartphones/series-find-n/find-n6/"
-      },
-      {
-        "rank": 5,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-blush.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "How a MacBook Neo bought for a high school student is worth $50k to Apple - 9to5Mac",
-        "description": "One of the biggest mysteries ahead of the MacBook Neo launch was the price. We\u2019d seen various estimates in the...",
-        "source_link": "https://9to5mac.com/2026/03/17/how-a-macbook-neo-bought-for-a-high-school-student-is-worth-50k-to-apple/"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.nintendolife.com/88edf2a1dde4b/large.jpg",
-        "title": "Nintendo Switch App Update Introduces Support For Switch 2's New Friend List Features - Nintendo Life",
-        "description": "Noted",
-        "source_link": "https://www.nintendolife.com/news/2026/03/nintendo-switch-app-update-introduces-support-for-switch-2s-new-friend-list-features"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/crimson-desert-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Base PS5 footage of Crimson Desert finally emerges, and it looks OK? - Eurogamer",
-        "description": "It's real, at least.",
-        "source_link": "https://www.eurogamer.net/base-ps5-footage-of-crimson-desert"
-      },
-      {
-        "rank": 8,
-        "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
-        "title": "Patch Notes 1.20.0 - ARC Raiders",
-        "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
-        "source_link": "https://arcraiders.com/news/patch-notes-1-20-0"
-      },
-      {
         "rank": 9,
-        "image": "https://cdn.videocardz.com/1/2026/03/NVIDIA-RTX-4500-Blackwell-Server-Edition-HERO.jpg",
-        "title": "NVIDIA launches RTX PRO 4500 Blackwell Server Edition, single-slot GPU with 32GB memory and 165W TDP - VideoCardz.com",
-        "description": "RTX PRO 4500 Blackwell Server Edition is a slimmer, passively cooled workstation card NVIDIA has just announced the RTX PRO 4500 Blackwell Server Edition,",
-        "source_link": "https://videocardz.com/newz/nvidia-launches-rtx-pro-4500-blackwell-server-edition-single-slot-gpu-with-32gb-memory-and-165w-tdp"
+        "image": "https://images.ctfassets.net/rporu91m20dc/17NWyfqVqtwg0qGCcsgFqm/c569b8778d225f14d850884afecf1799/76_LargeHero_PatchNotes_1920X870.jpg?fit=fill&w=1200&h=600",
+        "title": "Fallout 76 Update Notes \u2013 March 17, 2026 - Bethesda.net",
+        "description": "Our latest update for Fallout 76 brings improvements to Appalachia.",
+        "source_link": "https://bethesda.net/en/article/3ruetJXPdvHKgW0kZraAOI/fallout-76-update-notes-march-17-2026"
+      },
+      {
+        "rank": 10,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/oppo-find-n6-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Oppo Find N6 goes official with \u2018crease-less\u2019 display, but limited \u2018global\u2019 launch plans - 9to5Google",
+        "description": "After a few weeks of teasers, the Oppo Find N6 is now official with its \u201ccrease-less\u201d display, but you probably...",
+        "source_link": "http://9to5google.com/2026/03/17/oppo-find-n6-specs-display-launch/"
       }
     ],
     "trending_movies": [
@@ -76,7 +83,7 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/36gfW2Z7Vo7LbOFm2kbYvrbHDOd.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
@@ -97,45 +104,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
         "title": "Ready or Not: Here I Come",
         "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
         "source_link": "https://www.themoviedb.org/movie/1266127"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
-        "title": "Preschool",
-        "description": "Two determined fathers engage in a comical battle to enroll their kids in an elite preschool, escalating into an absurd competition with unexpected re...",
-        "source_link": "https://www.themoviedb.org/movie/1440049"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
-        "rank": 10,
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+        "title": "War Machine",
+        "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine...",
+        "source_link": "https://www.themoviedb.org/movie/1265609"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/2O2tOyS4kvO9GtFPHpWmbXvfRQv.jpg",
         "title": "Scarlet",
         "description": "After failing to avenge her father's murder, Princess Scarlet, wakes up in the \"Land of the Dead.\" In this world filled with madness, if she does not ...",
         "source_link": "https://www.themoviedb.org/movie/1406657"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
+        "title": "Preschool",
+        "description": "Two determined fathers engage in a comical battle to enroll their kids in an elite preschool, escalating into an absurd competition with unexpected re...",
+        "source_link": "https://www.themoviedb.org/movie/1440049"
       }
     ]
   }
