@@ -1,5 +1,5 @@
 {
-  "last_updated": "March 18, 2026, 17:57 UTC",
+  "last_updated": "March 18, 2026, 19:05 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,17 +76,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/9JCQtDCSpPR2ld55yNlEg1VwcQo.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Four years after the events of Spider-Man: No Way Home, Peter Parker is no more and Spider-Man is at the top of his game keeping New York City safe. T...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/36gfW2Z7Vo7LbOFm2kbYvrbHDOd.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/ucQ0QBXXQPSxeUmWfh4YQenIuB9.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Four years after the events of Spider-Man: No Way Home, Peter Parker is no more and Spider-Man is at the top of his game keeping New York City safe. T...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
         "rank": 4,
@@ -97,24 +97,24 @@
       },
       {
         "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/2O2tOyS4kvO9GtFPHpWmbXvfRQv.jpg",
-        "title": "Scarlet",
-        "description": "After failing to avenge her father's murder, Princess Scarlet, wakes up in the \"Land of the Dead.\" In this world filled with madness, if she does not ...",
-        "source_link": "https://www.themoviedb.org/movie/1406657"
       },
       {
         "rank": 8,
@@ -125,17 +125,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/o6JYj1sZDdLgKb6GW39AfGfrGhw.jpg",
         "title": "Preschool",
         "description": "Two determined fathers engage in a comical battle to enroll their kids in an elite preschool, escalating into an absurd competition with unexpected re...",
         "source_link": "https://www.themoviedb.org/movie/1440049"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/2O2tOyS4kvO9GtFPHpWmbXvfRQv.jpg",
+        "title": "Scarlet",
+        "description": "After failing to avenge her father's murder, Princess Scarlet, wakes up in the \"Land of the Dead.\" In this world filled with madness, if she does not ...",
+        "source_link": "https://www.themoviedb.org/movie/1406657"
       }
     ]
   }
