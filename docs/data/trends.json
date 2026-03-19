@@ -1,76 +1,55 @@
 {
-  "last_updated": "March 19, 2026, 06:53 UTC",
+  "last_updated": "March 19, 2026, 07:43 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.sciencealert.com/images/2026/03/Artists-impression-of-the-new-CERN-particle-which-contains-two-charm-quarks-and-one-down-quark.jpg",
+        "title": "CERN Discovers New Particle After Upgrading Large Hadron Collider - ScienceAlert",
+        "description": "The Large Hadron Collider has discovered a new particle, the 80th identified so far by the world's most powerful particle smasher, Europe's CERN physics laboratory announced Tuesday.",
+        "source_link": "https://www.sciencealert.com/cern-discovers-new-particle-after-upgrading-large-hadron-collider"
+      },
+      {
+        "rank": 2,
         "image": "https://images.nintendolife.com/e349cfcb4297d/large.jpg",
         "title": "Nintendo Expands Switch 2's GameCube Library This Week - Nintendo Life",
         "description": "Pok\u00e9mon XD: Gale Of Darkness is here",
         "source_link": "https://www.nintendolife.com/news/2026/03/nintendo-expands-switch-2s-gamecube-library-this-week"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://www.cnet.com/a/img/resize/97ed272a561774034fa4c07e15b202dc4d7c7824/hub/2026/02/18/da674784-87ca-4e77-a812-be4fcf348d79/p1043503.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "Samsung Halts Sale of Galaxy Z TriFold After Just 3 Months - CNET",
+        "description": "The 10-inch device cost nearly $3,000 and will no longer be available to buy in the US or South Korea.",
+        "source_link": "https://www.cnet.com/tech/mobile/samsung-ends-sales-galaxy-z-trifold/"
+      },
+      {
+        "rank": 4,
         "image": "https://fdn.gsmarena.com/imgroot/news/26/03/rumor-iphone-19e-promotion-display/-952x498w6/gsmarena_000.jpg",
         "title": "Rumor: iPhone 19e may bring ProMotion display - GSMArena.com news - GSMArena.com",
         "description": "Apple is at least considering it, according to a new report. It\u2019s been less than a week since the iPhone 17e was announced, but we\u2019re already getting our...",
         "source_link": "https://www.gsmarena.com/rumor_iphone_19e_may_bring_promotion_display-news-71995.php"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "WhatsApp update brings the new profile tab to iOS users - 9to5Mac",
+        "description": "Following a few weeks of testing, WhatsApp is officially rolling out the new profile tab to iOS users. Here are the details.",
+        "source_link": "https://9to5mac.com/2026/03/17/whatsapp-update-brings-the-new-profile-tab-to-ios-users/"
+      },
+      {
+        "rank": 6,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/musi-1152x648-1773782266.png",
         "title": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app - Ars Technica",
         "description": "Judge tosses Musi case against Apple, sanctions lawyers for \"mak[ing] up facts.\"",
         "source_link": "https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/"
       },
       {
-        "rank": 4,
-        "image": null,
-        "title": "A gaming CEO asked ChatGPT how to avoid paying a $250 million bonus. It didn\u2019t work - Fortune",
-        "description": null,
-        "source_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeTMwUldqSG1xX2pFNS1RbEZtOFRoSXpncFpqNldIWUJtbDZsZHlDa1ZIUUFnSElTNkNZSEc5ckVEZF9udTVNRjJ6OEU3bHpmOF83UURYTlllR3prN21zS0R4MTBLNjFUd2YyOWZjOWhhbEp6aVZ4UE9kSHJOdE5ZeTRldFE4b2NmVlc4NVZ3dVVVLWpiWFJrNGV4bw?oc=5"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4667457-es6.jpg",
-        "title": "Todd Howard On Elder Scrolls 6: \"Just Pretend We Didn't Announce It. It Doesn't Exist.\" - GameSpot",
-        "description": "\"We did it that way, but it's not my preference.\"",
-        "source_link": "https://www.gamespot.com/articles/todd-howard-on-elder-scrolls-6-just-pretend-we-didnt-announce-it-it-doesnt-exist/1100-6538842/"
-      },
-      {
-        "rank": 6,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/galaxy-s26-ultra-review-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Samsung admits Galaxy S26 Ultra\u2019s screen quality is slightly hindered by Privacy Display - 9to5Google",
-        "description": "The Galaxy S26 Ultra is a very good phone, with the new Privacy Display easily being its best new feature....",
-        "source_link": "http://9to5google.com/2026/03/17/samsung-galaxy-s26-ultra-display-quality-statement/"
-      },
-      {
         "rank": 7,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69b98fc523ff9d1cd6b240de/0x0.jpg?format=jpg&crop=3774,2122,x453,y512,safe&height=900&width=1600&fit=bounds",
-        "title": "Nvidia\u2019s AI-Powered Photorealistic Gaming Technology Roasted As \u2018AI Slop\u2019 - Forbes",
-        "description": "Nvidia promised its new technology is a \u201cdramatic leap in visual realism,\u201d though gamers voiced fears it will diminish the artistic appearance of video games.",
-        "source_link": "https://www.forbes.com/sites/conormurray/2026/03/17/nvidias-ai-powered-photorealistic-gaming-technology-roasted-as-ai-slop/"
-      },
-      {
-        "rank": 8,
-        "image": "https://assets-prd.ignimgs.com/2026/03/17/cyberpunk-tcg-kickstarter-launch-ign-1773760456850.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Cyberpunk TCG Blows Past Its Kickstarter Goal Immediately, Raising Over $3 Million in Support - IGN",
-        "description": "Cyberpunk TCG has now officially launched its Kickstarter campaign, here's the details on every tier available to back.",
-        "source_link": "https://www.ign.com/articles/cyberpunk-tcg-kickstarter-campaign-is-now-live-what-is-included-in-every-tier"
-      },
-      {
-        "rank": 9,
-        "image": "https://media.dcrainmaker.com/images/2026/03/WhatsAppGarmin2.jpg",
-        "title": "Garmin Launches WhatsApp Integration for Watches - DC Rainmaker",
-        "description": "Everything you need to know about Garmin's new WhatsApp integration on their newer watches.",
-        "source_link": "https://www.dcrainmaker.com/2026/03/garmin-launches-whatsapp-integration-for-watches.html"
-      },
-      {
-        "rank": 10,
-        "image": "https://cdn.videocardz.com/1/2026/02/DEATH-STRANDING-2.jpg",
-        "title": "Death Stranding 2 adds DLSS, FSR, XeSS and ray tracing on PC - VideoCardz.com",
-        "description": "Death Stranding 2 detailed for PC Death Stranding 2 launches on PC on March 19. Kojima Productions also confirmed that the same content additions arriving",
-        "source_link": "https://videocardz.com/newz/death-stranding-2-adds-dlss-fsr-xess-and-ray-tracing-on-pc"
+        "image": "https://simscommunity.info/wp-content/uploads/2026/03/Sims-4-Patch-Overview-March-17th-FI.jpg",
+        "title": "The Sims 4 Patch Features Overview: Marketplace, Gameplay Balance and Fixes - Sims Community",
+        "description": "The latest Sims 4 Patch Features for March 17th are finally here, bringing the long-awaited Marketplace, over 60 bug fixes, and major improvements to Sim",
+        "source_link": "https://simscommunity.info/2026/03/17/the-sims-4-patch-features-march-17th/"
       }
     ],
     "trending_movies": [
@@ -83,17 +62,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/ucQ0QBXXQPSxeUmWfh4YQenIuB9.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the li...",
         "source_link": "https://www.themoviedb.org/movie/969681"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
         "rank": 4,
@@ -104,45 +83,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/b4wekkUaxExzOeGe7hKXzhnyXHt.jpg",
-        "title": "Dune: Part Three",
-        "description": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the fu...",
-        "source_link": "https://www.themoviedb.org/movie/1170608"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
         "title": "Ready or Not: Here I Come",
         "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
         "source_link": "https://www.themoviedb.org/movie/1266127"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/b4wekkUaxExzOeGe7hKXzhnyXHt.jpg",
+        "title": "Dune: Part Three",
+        "description": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the fu...",
+        "source_link": "https://www.themoviedb.org/movie/1170608"
+      },
+      {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/705nQHqe4JGdEisrQmVYmXyjs1U.jpg",
-        "title": "Sinners",
-        "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is wait...",
-        "source_link": "https://www.themoviedb.org/movie/1233413"
+        "image": "https://image.tmdb.org/t/p/w200/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
+        "title": "One Mile: Chapter One",
+        "description": "After being released from prison, a father tries to reconnect with his daughter by taking her on a tour of college, but they soon find themselves figh...",
+        "source_link": "https://www.themoviedb.org/movie/1327688"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
-        "title": "Shelter",
-        "description": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of ...",
-        "source_link": "https://www.themoviedb.org/movie/1290821"
+        "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
+        "title": "Marty Supreme",
+        "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
+        "source_link": "https://www.themoviedb.org/movie/1317288"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
-        "title": "\"Wuthering Heights\"",
-        "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
-        "source_link": "https://www.themoviedb.org/movie/1316092"
+        "image": "https://image.tmdb.org/t/p/w200/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+        "title": "War Machine",
+        "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine...",
+        "source_link": "https://www.themoviedb.org/movie/1265609"
       }
     ]
   }
