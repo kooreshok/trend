@@ -1,78 +1,85 @@
 {
-  "last_updated": "March 19, 2026, 10:35 UTC",
+  "last_updated": "March 19, 2026, 11:32 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets.warhammer-community.com/bl_app-mar18-1-feature-qclwe8fp7d.png",
+        "title": "Download the brand new Black Library app today - Warhammer Community",
+        "description": "Get eight full stories for free when you try the app.",
+        "source_link": "https://www.warhammer-community.com/articles/ftfv93jv/download-the-brand-new-black-library-app-today"
+      },
+      {
+        "rank": 2,
+        "image": "https://assetsio.gnwcdn.com/nvidia-dlss_2m7KplY.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Nvidia CEO says critics are \"completely wrong\" about DLSS 5 technology - GamesIndustry.biz",
+        "description": "Following concerns that upscaling feature detracts from creative expression, Jensen Huang says it \"doesn't change artistic control\"",
+        "source_link": "https://www.gamesindustry.biz/nvidia-ceo-says-critics-are-completely-wrong-about-dlss-5-technology"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.videocardz.com/1/2026/03/INTEL-PRECOMPILED-SHADER-ARC-GPU-HERO.jpg",
+        "title": "Intel enables Precompiled Shader Delivery on Arc B-series and Core Ultra iGPUs in new driver, up to 3x faster loading times - VideoCardz.com",
+        "description": "Intel Arc gets Graphics Shader Distribution Service, 13 games supported at launch Today, Intel has rolled out its Graphics Shader Distribution Service in",
+        "source_link": "https://videocardz.com/newz/intel-enables-precompiled-shader-selivery-on-arc-b-series-and-core-ultra-igpus-in-new-driver-up-to-3x-faster-loading-times"
+      },
+      {
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-silver-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Benchmarks show MacBook Neo rivaling more powerful cloud servers in database workloads - 9to5Mac",
+        "description": "DuckDB compared the MacBook Neo with a range of cloud servers to see how Apple\u2019s new entry-level laptop performs on heavy database workloads.",
+        "source_link": "https://9to5mac.com/2026/03/17/benchmarks-show-macbook-neo-rivaling-more-powerful-cloud-servers-in-database-workloads/"
+      },
+      {
+        "rank": 5,
         "image": "https://www.sciencealert.com/images/2026/03/Artists-impression-of-the-new-CERN-particle-which-contains-two-charm-quarks-and-one-down-quark.jpg",
         "title": "CERN Discovers New Particle After Upgrading Large Hadron Collider - ScienceAlert",
         "description": "The Large Hadron Collider has discovered a new particle, the 80th identified so far by the world's most powerful particle smasher, Europe's CERN physics laboratory announced Tuesday.",
         "source_link": "https://www.sciencealert.com/cern-discovers-new-particle-after-upgrading-large-hadron-collider"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://images.nintendolife.com/e349cfcb4297d/large.jpg",
         "title": "Nintendo Expands Switch 2's GameCube Library This Week - Nintendo Life",
         "description": "Pok\u00e9mon XD: Gale Of Darkness is here",
         "source_link": "https://www.nintendolife.com/news/2026/03/nintendo-expands-switch-2s-gamecube-library-this-week"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://www.cnet.com/a/img/resize/97ed272a561774034fa4c07e15b202dc4d7c7824/hub/2026/02/18/da674784-87ca-4e77-a812-be4fcf348d79/p1043503.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "Samsung Halts Sale of Galaxy Z TriFold After Just 3 Months - CNET",
         "description": "The 10-inch device cost nearly $3,000 and will no longer be available to buy in the US or South Korea.",
         "source_link": "https://www.cnet.com/tech/mobile/samsung-ends-sales-galaxy-z-trifold/"
       },
       {
-        "rank": 4,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/03/rumor-iphone-19e-promotion-display/-952x498w6/gsmarena_000.jpg",
-        "title": "Rumor: iPhone 19e may bring ProMotion display - GSMArena.com news - GSMArena.com",
-        "description": "Apple is at least considering it, according to a new report. It\u2019s been less than a week since the iPhone 17e was announced, but we\u2019re already getting our...",
-        "source_link": "https://www.gsmarena.com/rumor_iphone_19e_may_bring_promotion_display-news-71995.php"
-      },
-      {
-        "rank": 5,
+        "rank": 8,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "WhatsApp update brings the new profile tab to iOS users - 9to5Mac",
         "description": "Following a few weeks of testing, WhatsApp is officially rolling out the new profile tab to iOS users. Here are the details.",
         "source_link": "https://9to5mac.com/2026/03/17/whatsapp-update-brings-the-new-profile-tab-to-ios-users/"
       },
       {
-        "rank": 6,
-        "image": "https://cdn.mos.cms.futurecdn.net/orTfopCt9W993wgRTXJSkC-2554-80.jpg",
-        "title": "Windows 11 is quietly testing 10 upgrades you\u2019ll actually notice - Windows Central",
-        "description": "Microsoft\u2019s latest Windows 11 Insider update for March brings a mix of UI polish, smarter Widgets, and several quality\u2011of\u2011life improvements across the OS.",
-        "source_link": "https://www.windowscentral.com/microsoft/windows-11/windows-11s-march-2026-insider-update-adds-new-features-and-changes"
-      },
-      {
-        "rank": 7,
+        "rank": 9,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/musi-1152x648-1773782266.png",
         "title": "Apple can delist apps \"with or without cause,\" judge says in loss for Musi app - Ars Technica",
         "description": "Judge tosses Musi case against Apple, sanctions lawyers for \"mak[ing] up facts.\"",
         "source_link": "https://arstechnica.com/tech-policy/2026/03/judge-upholds-apple-delisting-of-free-musi-app-that-streams-songs-from-youtube/"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iPhone 18 Pro: Three new design updates are coming this year - 9to5Mac",
-        "description": "iPhone 18 Pro and Pro Max will reportedly bring three new design changes for users. Here\u2019s what rumors say to expect.",
-        "source_link": "https://9to5mac.com/2026/03/17/iphone-18-pro-three-new-design-updates-are-coming-this-year/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-        "title": "Scream 7",
-        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
-        "source_link": "https://www.themoviedb.org/movie/1159559"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+        "title": "Scream 7",
+        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
+        "source_link": "https://www.themoviedb.org/movie/1159559"
       },
       {
         "rank": 3,
@@ -90,17 +97,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
-        "title": "One Mile: Chapter One",
-        "description": "After being released from prison, a father tries to reconnect with his daughter by taking her on a tour of college, but they soon find themselves figh...",
-        "source_link": "https://www.themoviedb.org/movie/1327688"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
+        "title": "One Mile: Chapter One",
+        "description": "After being released from prison, a father tries to reconnect with his daughter by taking her on a tour of college, but they soon find themselves figh...",
+        "source_link": "https://www.themoviedb.org/movie/1327688"
       },
       {
         "rank": 7,
@@ -111,17 +118,17 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
-        "title": "War Machine",
-        "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine...",
-        "source_link": "https://www.themoviedb.org/movie/1265609"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
         "title": "Marty Supreme",
         "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness....",
         "source_link": "https://www.themoviedb.org/movie/1317288"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+        "title": "War Machine",
+        "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine...",
+        "source_link": "https://www.themoviedb.org/movie/1265609"
       },
       {
         "rank": 10,
