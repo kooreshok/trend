@@ -1,5 +1,5 @@
 {
-  "last_updated": "March 19, 2026, 21:31 UTC",
+  "last_updated": "March 19, 2026, 22:23 UTC",
   "categories": {
     "tech_news": [
       {
@@ -90,24 +90,24 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
-        "title": "Dhurandhar: The Revenge",
-        "description": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the li...",
-        "source_link": "https://www.themoviedb.org/movie/1582770"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
         "title": "Ready or Not: Here I Come",
         "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
         "source_link": "https://www.themoviedb.org/movie/1266127"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+        "title": "Dhurandhar: The Revenge",
+        "description": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the li...",
+        "source_link": "https://www.themoviedb.org/movie/1582770"
       },
       {
         "rank": 7,
@@ -125,17 +125,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
-        "title": "War Machine",
-        "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine...",
-        "source_link": "https://www.themoviedb.org/movie/1265609"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/1GZaoYe0mQy211DgDSAxAXr30ul.jpg",
         "title": "One Mile: Chapter One",
         "description": "After being released from prison, a father tries to reconnect with his daughter by taking her on a tour of college, but they soon find themselves figh...",
         "source_link": "https://www.themoviedb.org/movie/1327688"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+        "title": "War Machine",
+        "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine...",
+        "source_link": "https://www.themoviedb.org/movie/1265609"
       }
     ]
   }
