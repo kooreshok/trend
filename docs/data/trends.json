@@ -1,69 +1,69 @@
 {
-  "last_updated": "March 21, 2026, 18:30 UTC",
+  "last_updated": "March 21, 2026, 19:20 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/ios-26-4-homescreen-ambient-music-widget.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iOS 26.4 adds brand new widgets for your iPhone\u2019s Home Screen - 9to5Mac",
+        "description": "iOS 26.4 comes packed with many new features, including brand new Ambient Music widgets that can be added to the iPhone\u2019s Home Screen.",
+        "source_link": "https://9to5mac.com/2026/03/20/ios-26-4-adds-brand-new-widgets-for-your-iphones-home-screen/"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10455389/mdoying_180117_2249_0206stills.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Google Search is now using AI to replace headlines - The Verge",
+        "description": "Google is beginning to replace news headlines in its search results with ones that are AI-generated. After AI clickbait nonsense in its Google Discover news feed, it\u2019s starting to mess with headlines in the \u201c10 blue links\u201d too.",
+        "source_link": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.macrumors.com/t/uM1O4t-WvpT_0N08sMzApDgK9eg=/1920x/article-new/2026/03/macbook-neo-product-film-feature.jpg",
+        "title": "Apple Announces New Mac Sales Record Following MacBook Neo Launch - MacRumors",
+        "description": "Apple's CEO Tim Cook today said the Mac just had its \"best launch week ever for first-time Mac customers,\" which suggests that the new...",
+        "source_link": "https://www.macrumors.com/2026/03/20/apple-shares-mac-sales-achievement/"
+      },
+      {
+        "rank": 4,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-revision-replaceable-battery.jpg",
+        "title": "Nintendo reportedly planning Switch 2 revision with replaceable battery for Europe - Nintendo Everything",
+        "description": "New report details Nintendo Switch 2 revision which will feature a replaceable battery for Europe.",
+        "source_link": "https://nintendoeverything.com/nintendo-reportedly-planning-switch-2-revision-with-replaceable-battery-for-europe/"
+      },
+      {
+        "rank": 5,
         "image": "https://assetsio.gnwcdn.com/Kliff-in-Crimson-Desert.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "After weeks of hype, Crimson Desert debuts to high player counts but \"Mixed\" Steam reviews, citing \"disjointed graphics\", lovable cats, \"awful\" UI and more - Eurogamer",
         "description": "Pearl Abyss' single player RPG spin-off Crimson Desert released last night, and has had a rocky debut.",
         "source_link": "https://www.eurogamer.net/crimson-desert-hype-mixed-steam-reviews-high-player-counts-disjointed-graphics"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://media.npr.org/assets/img/2020/04/29/lk_screenlifebalance_1_2_wide-b0c1121ae1134275754f716898e3cb220c315007.jpg?s=1400&c=85&f=jpeg",
         "title": "10 tried-and-true methods to stay off your phone, according to our readers - NPR",
         "description": "We asked our audience to share the creative ways they limit their own phone use. They range from the practical (keep your phone in another room) to the creative (pair your phone with a fun paperback).",
         "source_link": "https://www.npr.org/2026/03/20/nx-s1-5752170/clever-effective-ways-to-stay-off-your-phone"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://www.bleepstatic.com/content/hl-images/2025/09/22/Windows-11.jpg",
         "title": "Microsoft: March Windows updates break Teams, OneDrive sign-ins - BleepingComputer",
         "description": "Microsoft says the March Windows 11 update breaks sign-ins with Microsoft accounts across multiple Microsoft apps, including Teams and OneDrive.",
         "source_link": "https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/02/an-android-smartphone-with-the-quick-settings-panel-open-resting-on-a-sofa.png?w=1600&h=900&fit=crop",
         "title": "Google reverses one of Android\u2019s most annoying UI changes - Android Police",
         "description": "At least on the Canary channel",
         "source_link": "https://www.androidpolice.com/google-reverses-androids-most-annoying-ui-changes/"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPwgJpN_6bTBVT2q2xpQB_QFewyV2cp-Acaxnjpc4-KQKGpQZiz339xOYJ9ew_UlCgScvvWA940DyAf2E_HomGHQXljbHclluIiK57hJKo00KBdTXh8BeVi0toqDVevMaRY_fSlTzyYkkJjdKU0pA7iKX6_yTwsOveceby7OB08v9V2GAoasiLsl1Cu2DS/s16000/apple-logo.jpg",
         "title": "Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks - The Hacker News",
         "description": "Outdated iOS exploited via Coruna, DarkSword kits through web attacks, enabling mass data theft on unpatched devices.",
         "source_link": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.pushsquare.com/377267b6ecc1f/large.jpg",
-        "title": "A PS1-Era Cross Between Silent Hill and Truck Simulator Is Not Something We Knew We Wanted - Push Square",
-        "description": "Easy Delivery Co. heading to PS5",
-        "source_link": "https://www.pushsquare.com/news/2026/03/a-ps1-era-cross-between-silent-hill-and-truck-simulator-is-not-something-we-knew-we-wanted"
-      },
-      {
-        "rank": 7,
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260318-ai-speaking-lr-b30938.jpg",
-        "title": "AI is changing the style and substance of human writing, study finds - NBC News",
-        "description": "Teams from Google and leading universities found that large-language models change the voice, tone and intended meaning of human authors.",
-        "source_link": "https://www.nbcnews.com/tech/tech-news/ai-changing-style-substance-human-writing-study-finds-rcna263789"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.uploadvr.com/content/images/size/w1200/2026/03/GeForce-NOW-at-90-FPS.jpg",
-        "title": "GeForce Now On Quest 3, Pico & Apple Vision Pro Gets 90 FPS Streaming - UploadVR",
-        "description": "GeForce Now in the web browsers of Quest 3, Pico and Apple Vision Pro headsets now streams at up to 90 FPS for Ultimate subscribers.",
-        "source_link": "https://www.uploadvr.com/geforce-now-on-quest-3-pico-apple-vision-pro-gets-90-fps/"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/03/Costco-iBuypower-gaming-PC-deal.jpg",
-        "title": "User Grabs iBuyPower Gaming PC With Ryzen 9800X3D-RTX 5070 Combo, 32 GB RAM And 2 TB SSD For Just $1000 - Wccftech",
-        "description": "Redditor scores an iBuyPower gaming PC at Costco for $1000, featuring Ryzen 7 9800X3D and RTX 5070, worth nearly $2500",
-        "source_link": "https://wccftech.com/user-grabs-ibuypower-gaming-pc-with-ryzen-9800x3d-rtx-5070-combo-32-gb-ram-and-2-tb-ssd-for-just-1000/"
       }
     ],
     "trending_movies": [
@@ -90,10 +90,10 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
+        "image": "https://image.tmdb.org/t/p/w200/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+        "title": "Greenland 2: Migration",
+        "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a...",
+        "source_link": "https://www.themoviedb.org/movie/840464"
       },
       {
         "rank": 5,
@@ -104,38 +104,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
-        "title": "Greenland 2: Migration",
-        "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a...",
-        "source_link": "https://www.themoviedb.org/movie/840464"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/mNxebIggQk0mSZ0qF8MjCMTHYL4.jpg",
         "title": "Do Not Enter",
         "description": "A group of young explorers investigates an old abandoned hotel, only to encounter a strange supernatural being and a competing group looking for a leg...",
         "source_link": "https://www.themoviedb.org/movie/999136"
       },
       {
-        "rank": 9,
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
         "title": "War Machine",
         "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine...",
         "source_link": "https://www.themoviedb.org/movie/1265609"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
-        "title": "\"Wuthering Heights\"",
-        "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
-        "source_link": "https://www.themoviedb.org/movie/1316092"
+        "image": "https://image.tmdb.org/t/p/w200/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
+        "title": "Ready or Not: Here I Come",
+        "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
+        "source_link": "https://www.themoviedb.org/movie/1266127"
       }
     ]
   }
