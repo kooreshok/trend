@@ -1,69 +1,76 @@
 {
-  "last_updated": "March 22, 2026, 01:54 UTC",
+  "last_updated": "March 22, 2026, 04:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "This is Microsoft\u2019s plan to fix Windows 11 - The Verge",
-        "description": "Microsoft is focusing on performance, reliability, and experiences this year.",
-        "source_link": "https://www.theverge.com/news/897834/microsoft-windows-11-quality-performance-commitments-changes"
+        "image": "https://gizmodo.com/app/uploads/2025/11/framework-laptop-16-review-03-1200x675.jpg",
+        "title": "Microsoft Is Finally Ready to Make Windows 11 Less Terrible After Bloating It With AI Crap - Gizmodo",
+        "description": "Less Copilot, better search, and more taskbar customization are apparently in the pipeline.",
+        "source_link": "https://gizmodo.com/microsoft-is-finally-ready-to-make-windows-11-less-terrible-after-bloating-it-with-ai-crap-2000736302"
       },
       {
         "rank": 2,
+        "image": "https://images.macrumors.com/t/LIMJiu5Da6NSM_E4TAt3NtJNnEY=/1600x/article-new/2026/02/ios-26-4-pastel.jpg",
+        "title": "iOS 26.4: Top 10 New Features Coming to Your iPhone - MacRumors",
+        "description": "iOS 26.4 isn't the major update with new Siri features that we hoped for, but there are some useful quality of life improvements, and a little...",
+        "source_link": "https://www.macrumors.com/2026/03/20/ios-26-4-top-10-features/"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1639/16394322/4669082-4574295-crim.jpg",
+        "title": "Baffling Crimson Desert Images Have Ignited A Generative AI Controversy - GameSpot",
+        "description": "Did the developers mean to depict mushy-faced warriors atop many-limbed horses, or is generative AI simply back at it again?",
+        "source_link": "https://www.gamespot.com/articles/baffling-crimson-desert-images-have-ignited-a-generative-ai-controversy/1100-6538932/"
+      },
+      {
+        "rank": 4,
+        "image": "https://techcrunch.com/wp-content/uploads/2022/06/moshed-windows-11.jpg?resize=1200,752",
+        "title": "Microsoft rolls back some of its Copilot AI bloat on Windows - TechCrunch",
+        "description": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+        "source_link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/"
+      },
+      {
+        "rank": 5,
+        "image": "https://regmedia.co.uk/2024/04/12/fire_shutterstock.jpg",
+        "title": "Amazon's smartphone would be ill-timed: IDC analyst - theregister.com",
+        "description": ": The market is contracting",
+        "source_link": "https://www.theregister.com/2026/03/20/amazon_phone_worst_possible_time/"
+      },
+      {
+        "rank": 6,
+        "image": "https://media.wired.com/photos/69bd423627b92679d2037984/191:100/w_1280,c_limit/nvidia-dlss-5.jpeg",
+        "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren\u2019t Crazy About It Either - WIRED",
+        "description": "Nvidia\u2019s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be \u201cthe default\u201d in a few years.",
+        "source_link": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/"
+      },
+      {
+        "rank": 7,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Google-Messages-Mentions-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google Messages launches group RCS Mentions and Trash folder - 9to5Google",
         "description": "After beta testing for the past several weeks and months, Google Messages today officially announced Mentions and the Trash folder.",
         "source_link": "http://9to5google.com/2026/03/20/google-messages-mentions-trash/"
       },
       {
-        "rank": 3,
+        "rank": 8,
         "image": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
         "title": "WordPress.com now lets AI agents write and publish posts, and more - TechCrunch",
         "description": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
         "source_link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/"
       },
       {
-        "rank": 4,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2014/07/IMG_9890-1152x648.jpg",
-        "title": "Amazon is reportedly developing an AI-centric smartphone - Ars Technica",
-        "description": "Amazon's second smartphone could forego an app store.",
-        "source_link": "https://arstechnica.com/gadgets/2026/03/amazon-is-reportedly-developing-an-ai-centric-smartphone/"
+        "rank": 9,
+        "image": "https://substackcdn.com/image/fetch/$s_!EEmM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe31c6a6f-2f1f-4175-af69-efa4f4c774cf_1920x1080.png",
+        "title": "Slay the Spire 2: One of the best indie Steam launches of all time - The Alinea Insight newsletter",
+        "description": "In early access, Slay the Spire 2 has ALREADY made more money on Steam than Silksong & Hades 2. Keep reading for Alinea estimates on revenue, copies, DAUs, reviews, wishlist conversion, and more.",
+        "source_link": "https://alineaanalytics.substack.com/p/slay-the-spire-2-one-of-the-best"
       },
       {
-        "rank": 5,
+        "rank": 10,
         "image": "https://images.macrumors.com/t/YY5gy3rqOXCTJ-kepvN4J3FK7jI=/2507x/article-new/2023/01/M2-MBA-vs-M2-MacBook-Pro-Buyers-Guide-Feature.jpg",
         "title": "M5 MacBook Air vs. M5 MacBook Pro Buyer's Guide - MacRumors",
         "description": "Both the MacBook Air and entry-level MacBook Pro now feature the M5 chip, so how do the latest models compare?   While the 13-inch MacBook Air starts...",
         "source_link": "https://www.macrumors.com/guide/m5-macbook-air-vs-m5-macbook-pro/"
-      },
-      {
-        "rank": 6,
-        "image": "https://assetsio.gnwcdn.com/Crimson-Desert-image-showing-a-male-character-with-wings-and-a-mask-covering-his-face.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Crimson Desert developers \"doing our utmost\" to respond to its various launch issues, as game still passes huge one-day sales milestone - Eurogamer",
-        "description": "Crimson Desert - the ambitious single player RPG spin-off from Pearl Abyss - has sold through 2m copies following its release.",
-        "source_link": "https://www.eurogamer.net/crimson-desert-sales-milestone-launch-day-issues-fix"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/ios-26-4-homescreen-ambient-music-widget.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iOS 26.4 adds brand new widgets for your iPhone\u2019s Home Screen - 9to5Mac",
-        "description": "iOS 26.4 comes packed with many new features, including brand new Ambient Music widgets that can be added to the iPhone\u2019s Home Screen.",
-        "source_link": "https://9to5mac.com/2026/03/20/ios-26-4-adds-brand-new-widgets-for-your-iphones-home-screen/"
-      },
-      {
-        "rank": 8,
-        "image": "https://s100.iracing.com/wp-content/uploads/2022/01/iRacing-Inline-Color-White-288x197.png",
-        "title": "iRacing Brings the World\u2019s Premier Motorsport Simulation to Apple Vision Pro - iRacing.com",
-        "description": "iRacing is pleased to share that through a collaboration with Apple and NVIDIA, the world\u2019s premier motorsport simulation will be available on Apple Vision Pro later this spring with the release of visionOS 26.4 and NVIDIA\u2019s CloudXR 6.0 streaming platform. \u201cW\u2026",
-        "source_link": "https://www.iracing.com/iracing-brings-the-worlds-premier-motorsport-simulation-to-apple-vision-pro/"
-      },
-      {
-        "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/4_whhiumF.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Unknown Worlds co-founders' lawyers accuse Krafton of \"intentionally leaking\" Subnautica 2 release date - GamesIndustry.biz",
-        "description": "\"Krafton self-servingly announced the launch without any regard to its impact on the game, the team, or the community,\" say lawyers",
-        "source_link": "https://www.gamesindustry.biz/unknown-worlds-co-founders-lawyers-accuse-krafton-of-intentionally-leaking-subnautica-2-release-date"
       }
     ],
     "trending_movies": [
@@ -97,17 +104,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
-        "title": "Greenland 2: Migration",
-        "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a...",
-        "source_link": "https://www.themoviedb.org/movie/840464"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+        "title": "Greenland 2: Migration",
+        "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a...",
+        "source_link": "https://www.themoviedb.org/movie/840464"
       },
       {
         "rank": 7,
