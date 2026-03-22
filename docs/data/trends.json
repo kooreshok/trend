@@ -1,76 +1,76 @@
 {
-  "last_updated": "March 22, 2026, 04:16 UTC",
+  "last_updated": "March 22, 2026, 05:50 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/03/CookieRun-New-World-Ann_03-20-26.jpg",
+        "title": "Open-world adventure game CookieRun: New World announced for console, PC, and mobile - Gematsu",
+        "description": "Devsisters has announced CookieRun: New World, an open-world adventure game based on the CookieRun mobile game franchise with over 300 million players and more than $1 billion in lifetime revenue. \u2026",
+        "source_link": "https://www.gematsu.com/2026/03/open-world-adventure-game-cookierun-new-world-announced-for-console-pc-and-mobile"
+      },
+      {
+        "rank": 2,
+        "image": "https://helios-i.mashable.com/imagery/articles/05XSAOrKQaik3Nx4CLp9mUg/hero-image.fill.size_1200x675.v1773966280.jpg",
+        "title": "Google wants to fill Fitbit with AI \u2014 and your medical records - Mashable",
+        "description": "This isn't your father's Fitbit.",
+        "source_link": "https://mashable.com/article/google-fitbit-ai"
+      },
+      {
+        "rank": 3,
         "image": "https://gizmodo.com/app/uploads/2025/11/framework-laptop-16-review-03-1200x675.jpg",
         "title": "Microsoft Is Finally Ready to Make Windows 11 Less Terrible After Bloating It With AI Crap - Gizmodo",
         "description": "Less Copilot, better search, and more taskbar customization are apparently in the pipeline.",
         "source_link": "https://gizmodo.com/microsoft-is-finally-ready-to-make-windows-11-less-terrible-after-bloating-it-with-ai-crap-2000736302"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://images.macrumors.com/t/LIMJiu5Da6NSM_E4TAt3NtJNnEY=/1600x/article-new/2026/02/ios-26-4-pastel.jpg",
         "title": "iOS 26.4: Top 10 New Features Coming to Your iPhone - MacRumors",
         "description": "iOS 26.4 isn't the major update with new Siri features that we hoped for, but there are some useful quality of life improvements, and a little...",
         "source_link": "https://www.macrumors.com/2026/03/20/ios-26-4-top-10-features/"
       },
       {
-        "rank": 3,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1639/16394322/4669082-4574295-crim.jpg",
-        "title": "Baffling Crimson Desert Images Have Ignited A Generative AI Controversy - GameSpot",
-        "description": "Did the developers mean to depict mushy-faced warriors atop many-limbed horses, or is generative AI simply back at it again?",
-        "source_link": "https://www.gamespot.com/articles/baffling-crimson-desert-images-have-ignited-a-generative-ai-controversy/1100-6538932/"
-      },
-      {
-        "rank": 4,
+        "rank": 5,
         "image": "https://techcrunch.com/wp-content/uploads/2022/06/moshed-windows-11.jpg?resize=1200,752",
         "title": "Microsoft rolls back some of its Copilot AI bloat on Windows - TechCrunch",
         "description": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
         "source_link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://regmedia.co.uk/2024/04/12/fire_shutterstock.jpg",
         "title": "Amazon's smartphone would be ill-timed: IDC analyst - theregister.com",
         "description": ": The market is contracting",
         "source_link": "https://www.theregister.com/2026/03/20/amazon_phone_worst_possible_time/"
       },
       {
-        "rank": 6,
+        "rank": 7,
+        "image": "https://kotaku.com/app/uploads/2025/06/b9bef52bda98339558b107680508bc57-1200x675.jpg",
+        "title": "Crimson Desert Players Debate If The Game Secretly Uses AI Art - Kotaku",
+        "description": "One painting shows off a terrifying convention of weird-looking centaurs",
+        "source_link": "https://kotaku.com/crimson-desert-painting-gen-ai-art-2000680661"
+      },
+      {
+        "rank": 8,
         "image": "https://media.wired.com/photos/69bd423627b92679d2037984/191:100/w_1280,c_limit/nvidia-dlss-5.jpeg",
         "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren\u2019t Crazy About It Either - WIRED",
         "description": "Nvidia\u2019s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be \u201cthe default\u201d in a few years.",
         "source_link": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/"
       },
       {
-        "rank": 7,
+        "rank": 9,
+        "image": "https://i.pcmag.com/imagery/reviews/041OPl2P6laQkuJjF8Fbpbu-3.fit_lim.size_1200x630.v1773852937.png",
+        "title": "Samsung's Galaxy Z TriFold Replaced My Phone, Tablet, and Laptop\u2014But There's a Big Catch - PCMag",
+        "description": "The Galaxy Z TriFold aims to be an all-in-one device\u2014serving as your phone, tablet, and even a makeshift laptop. It largely delivers on that promise, though its price is undeniably steep, and Samsung is no longer selling new models.",
+        "source_link": "https://www.pcmag.com/reviews/samsung-galaxy-z-trifold"
+      },
+      {
+        "rank": 10,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Google-Messages-Mentions-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google Messages launches group RCS Mentions and Trash folder - 9to5Google",
         "description": "After beta testing for the past several weeks and months, Google Messages today officially announced Mentions and the Trash folder.",
         "source_link": "http://9to5google.com/2026/03/20/google-messages-mentions-trash/"
-      },
-      {
-        "rank": 8,
-        "image": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
-        "title": "WordPress.com now lets AI agents write and publish posts, and more - TechCrunch",
-        "description": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
-        "source_link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/"
-      },
-      {
-        "rank": 9,
-        "image": "https://substackcdn.com/image/fetch/$s_!EEmM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe31c6a6f-2f1f-4175-af69-efa4f4c774cf_1920x1080.png",
-        "title": "Slay the Spire 2: One of the best indie Steam launches of all time - The Alinea Insight newsletter",
-        "description": "In early access, Slay the Spire 2 has ALREADY made more money on Steam than Silksong & Hades 2. Keep reading for Alinea estimates on revenue, copies, DAUs, reviews, wishlist conversion, and more.",
-        "source_link": "https://alineaanalytics.substack.com/p/slay-the-spire-2-one-of-the-best"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.macrumors.com/t/YY5gy3rqOXCTJ-kepvN4J3FK7jI=/2507x/article-new/2023/01/M2-MBA-vs-M2-MacBook-Pro-Buyers-Guide-Feature.jpg",
-        "title": "M5 MacBook Air vs. M5 MacBook Pro Buyer's Guide - MacRumors",
-        "description": "Both the MacBook Air and entry-level MacBook Pro now feature the M5 chip, so how do the latest models compare?   While the 13-inch MacBook Air starts...",
-        "source_link": "https://www.macrumors.com/guide/m5-macbook-air-vs-m5-macbook-pro/"
       }
     ],
     "trending_movies": [
