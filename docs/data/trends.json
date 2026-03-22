@@ -1,76 +1,69 @@
 {
-  "last_updated": "March 22, 2026, 10:23 UTC",
+  "last_updated": "March 22, 2026, 11:20 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/0302381-orig.jpg?c=16x9&q=w_800,c_fill",
+        "title": "The end of the ISS is looming, and the US could have a big problem - CNN",
+        "description": "As NASA aims to return astronauts to the moon, a multibillion-dollar question mark looms: What will the space agency do when the International Space Station retires?",
+        "source_link": "https://www.cnn.com/2026/03/21/science/nasa-iss-space-station-retires"
+      },
+      {
+        "rank": 2,
         "image": "https://imageio.forbes.com/specials-images/imageserve/696f9917e18383b28f33c10b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "iOS 26.3.1 (a): Apple\u2019s Hidden iPhone Update Recommended For Hundreds Of Millions Of Users - Forbes",
         "description": "The latest iPhone update has arrived and it\u2019s different from previous updates. Here\u2019s why and what to do about it.",
         "source_link": "https://www.forbes.com/sites/davidphelan/2026/03/21/iphone-alert-why-you-must-check-this-hidden-setting-for-urgent-ios-2631-a-fix/"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://images.pushsquare.com/19f04f502f9dd/large.jpg",
         "title": "Gran Turismo 7 Was an Inspiration for Microsoft Flight Sim 2024's PSVR2 Mode, Coming Soon - Push Square",
         "description": "Out early this year",
         "source_link": "https://www.pushsquare.com/news/2026/03/gran-turismo-7-was-an-inspiration-for-microsoft-flight-sim-2024s-psvr2-mode-coming-soon"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://gizmodo.com/app/uploads/2025/11/framework-laptop-16-review-03-1200x675.jpg",
         "title": "Microsoft Is Finally Ready to Make Windows 11 Less Terrible After Bloating It With AI Crap - Gizmodo",
         "description": "Less Copilot, better search, and more taskbar customization are apparently in the pipeline.",
         "source_link": "https://gizmodo.com/microsoft-is-finally-ready-to-make-windows-11-less-terrible-after-bloating-it-with-ai-crap-2000736302"
       },
       {
-        "rank": 4,
-        "image": "https://media.wired.com/photos/69bd783533c22df804228fe4/191:100/w_1280,c_limit/Only-One-Reason-to-Be-Excited-About-a-Potential-Amazon-Smartphone-Gear-450824352.jpg",
-        "title": "There Aren\u2019t a Lot of Reasons to Get Excited About a New Amazon Smartphone - WIRED",
-        "description": "The company is reportedly building a new AI-powered mobile device. If Amazon follows through on the plan, experts warn it would be next to impossible to break into a crowded market.",
-        "source_link": "https://www.wired.com/story/amazon-smartphone-rumor-2026/"
-      },
-      {
         "rank": 5,
-        "image": "https://images.macrumors.com/t/LIMJiu5Da6NSM_E4TAt3NtJNnEY=/1600x/article-new/2026/02/ios-26-4-pastel.jpg",
-        "title": "iOS 26.4: Top 10 New Features Coming to Your iPhone - MacRumors",
-        "description": "iOS 26.4 isn't the major update with new Siri features that we hoped for, but there are some useful quality of life improvements, and a little...",
-        "source_link": "https://www.macrumors.com/2026/03/20/ios-26-4-top-10-features/"
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/ios-26-4-lock-security.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iOS 26.4 will automatically turn on strict security feature for all iPhones - 9to5Mac",
+        "description": "iOS 26.4 is the next big iPhone release, and Apple plans to enable a key security feature by default in the update: Stolen Device Protection.",
+        "source_link": "https://9to5mac.com/2026/03/20/ios-26-4-will-activate-key-theft-prevention-feature-on-all-iphones/"
       },
       {
         "rank": 6,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1639/16394322/4669082-4574295-crim.jpg",
-        "title": "Baffling Crimson Desert Images Have Ignited A Generative AI Controversy - GameSpot",
-        "description": "Did the developers mean to depict mushy-faced warriors atop many-limbed horses, or is generative AI simply back at it again?",
-        "source_link": "https://www.gamespot.com/articles/baffling-crimson-desert-images-have-ignited-a-generative-ai-controversy/1100-6538932/"
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/Apple-touts-Fusion-Architecture-for-M5-Pro-and-M5-Max-chips-with-super-cores.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple explains why M5 chips have three different core types in new interview - 9to5Mac",
+        "description": "Apple explains M5's three core types: super cores for single-thread tasks, performance cores for multi-threading, and efficiency cores.",
+        "source_link": "https://9to5mac.com/2026/03/20/apple-explains-why-m5-chips-have-three-different-core-types-in-new-interview/"
       },
       {
         "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0185_b09cc1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "A new Nintendo Switch 2 could be the poster child for replaceable batteries - The Verge",
-        "description": "Nintendo plans to release a Switch 2 revision in the European Union that will let users replace their own batteries, Nikkei reports.",
-        "source_link": "https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery"
+        "image": "https://media.wired.com/photos/69bd423627b92679d2037984/191:100/w_1280,c_limit/nvidia-dlss-5.jpeg",
+        "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren\u2019t Crazy About It, Either - WIRED",
+        "description": "Nvidia\u2019s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be \u201cthe default\u201d in a few years.",
+        "source_link": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/"
       },
       {
         "rank": 8,
-        "image": "https://www.techpowerup.com/img/Ql0lBEqmzHKEUvdk.jpg",
-        "title": "NVIDIA DLSS 5 Takes 2D Frame and Motion Vectors as Input - TechPowerUp",
-        "description": "The public is still learning more about DLSS 5 technology, and NVIDIA is gradually revealing additional details. In a conversation between YouTuber Daniel Owen and NVIDIA's GeForce Evangelist Jacob Freeman, we discover that DLSS 5 essentially takes 2D frames \u2026",
-        "source_link": "https://www.techpowerup.com/347585/nvidia-dlss-5-takes-2d-frame-and-motion-vectors-as-input"
-      },
-      {
-        "rank": 9,
         "image": "https://i.pcmag.com/imagery/reviews/041OPl2P6laQkuJjF8Fbpbu-3.fit_lim.size_1200x630.v1773852937.png",
         "title": "Samsung's Galaxy Z TriFold Replaced My Phone, Tablet, and Laptop\u2014But There's a Big Catch - PCMag",
         "description": "The Galaxy Z TriFold aims to be an all-in-one device\u2014serving as your phone, tablet, and even a makeshift laptop. It largely delivers on that promise, though its price is undeniably steep, and Samsung is no longer selling new models.",
         "source_link": "https://www.pcmag.com/reviews/samsung-galaxy-z-trifold"
       },
       {
-        "rank": 10,
-        "image": "https://assetsio.gnwcdn.com/slay-the-spire-2-new-art.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Slay the Spire 2 reveals first major patch, with \"huge\" balance pass, Phobia mode, and adjusted classes and cards - Eurogamer",
-        "description": "Mega Crit has detailed the first major balance patch coming to Slay the Spire 2.",
-        "source_link": "https://www.eurogamer.net/slay-the-spire-2-first-patch"
+        "rank": 9,
+        "image": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
+        "title": "WordPress.com now lets AI agents write and publish posts, and more - TechCrunch",
+        "description": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
+        "source_link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/"
       }
     ],
     "trending_movies": [
@@ -111,24 +104,24 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
-        "title": "War Machine",
-        "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine...",
-        "source_link": "https://www.themoviedb.org/movie/1265609"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/mNxebIggQk0mSZ0qF8MjCMTHYL4.jpg",
         "title": "Do Not Enter",
         "description": "A group of young explorers investigates an old abandoned hotel, only to encounter a strange supernatural being and a competing group looking for a leg...",
         "source_link": "https://www.themoviedb.org/movie/999136"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+        "title": "War Machine",
+        "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine...",
+        "source_link": "https://www.themoviedb.org/movie/1265609"
       },
       {
         "rank": 9,
