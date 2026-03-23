@@ -1,5 +1,5 @@
 {
-  "last_updated": "March 23, 2026, 01:56 UTC",
+  "last_updated": "March 23, 2026, 04:27 UTC",
   "categories": {
     "tech_news": [
       {
@@ -11,59 +11,66 @@
       },
       {
         "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/DSC02494_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "title": "Halide co-founder is suing former partner for bringing source code to Apple - The Verge",
+        "description": "Halide co-founder Ben Sandofsky claims Sebastiaan de With was fired for financial misconduct before joining Apple.",
+        "source_link": "https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/google-hq-logo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google Search test replaces headlines and website titles with AI - 9to5Google",
+        "description": "Google Search has started testing the use of AI to replace headlines and website titles, a change that seems both...",
+        "source_link": "http://9to5google.com/2026/03/21/google-search-test-replaces-headlines-and-website-titles-with-ai/"
+      },
+      {
+        "rank": 4,
         "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-backwards-compatibility-fixes-March-2026.jpg",
         "title": "Nintendo has fixed a new batch of Switch 1 games on Switch 2 for backwards compatibility - Nintendo Everything",
         "description": "Nintendo has put out fixes for a number of notable Switch 1 games on Switch 2 for backwards compatibility, and here's the full list.",
         "source_link": "https://nintendoeverything.com/nintendo-has-fixed-a-new-batch-of-switch-1-games-on-switch-2-for-backwards-compatibility/"
       },
       {
-        "rank": 3,
-        "image": "https://kotaku.com/app/uploads/2026/03/2026_Marathon_Cryo_Unlock_Press_Kit_LARGE_02-1200x675.jpg",
-        "title": "Marathon's Soulslike Endgame Dungeon Is Blowing Players Away - Kotaku",
-        "description": "The multi-vault zone has complex puzzles, brutal RNG, and extremely powerful loot",
-        "source_link": "https://kotaku.com/marathon-cryo-archive-endgame-raid-vault-compiler-contraband-2000680810"
-      },
-      {
-        "rank": 4,
+        "rank": 5,
         "image": "https://assetsio.gnwcdn.com/NET_assets_Article_1280x720_Spicewood.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Surprise! Minecraft Dungeons 2 is coming later this year - Eurogamer",
         "description": "Surprise! Minecraft Dungeons 2 is coming to PC via Xbox and Steam, PS5, Nintendo Switch and Switch 2, and Xbox Series a\u2026",
         "source_link": "https://www.eurogamer.net/surprise-minecraft-dungeons-2-is-coming-later-this-year"
       },
       {
-        "rank": 5,
-        "image": "https://kotaku.com/app/uploads/2026/03/Banner-Pokemon-FireRed-and-LeafGreen-Versions-1000x563-1.jpg",
-        "title": "Speedrunner Discovers Groundbreaking New Glitch In Pok\u00e9mon FireRed On Switch - Kotaku",
-        "description": "Swiss runner iamClemi accidentally hit the L button while choosing a starter, but something was off",
-        "source_link": "https://kotaku.com/pokemon-firered-leafgreen-glitch-speedrunning-2000680817"
+        "rank": 6,
+        "image": "https://s.yimg.com/ny/api/res/1.2/qaV9bsUwCeJEp6kTVrFJkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_stacker_articles_387/c35e4d5533f380a3f2ddf60c31ea0f27",
+        "title": "35 photos that show what life looked like in 1973 - AOL.com",
+        "description": "A senior portrait so perfectly 1973 it could have been Michael Kelso's yearbook photo \u2014 the side-swept hair, the wide lapels, the expression of a guy who kno...",
+        "source_link": "https://stacker.com/stories/retrospective/35-photos-show-would-life-looked-1973"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://kotaku.com/app/uploads/2026/03/crimsondes-1200x675.jpg",
         "title": "Crimson Desert Hears Your Complaints And Will Fix The Controls - Kotaku",
         "description": "Pearl Abyss says its listening to Crimson Desert players' complaints about the complicated controls and will patch in new options ASAP.",
         "source_link": "https://kotaku.com/crimson-desert-controls-fix-update-patch-2000680802"
       },
       {
-        "rank": 7,
+        "rank": 8,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKKhgq2XUNW0/v1/1200x800.jpg",
+        "title": "Apple M5 MacBook Pro and Air Review: When the Neo Isn\u2019t Enough - Bloomberg.com",
+        "description": "Apple\u2019s new laptops and high-end display fit the bill for the company\u2019s most demanding customers.",
+        "source_link": "https://www.bloomberg.com/news/articles/2026-03-21/apple-m5-macbook-pro-and-air-review-fast-enough-for-demanding-users"
+      },
+      {
+        "rank": 9,
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/carolina-chillpill.jpg?c=16x9&q=w_800,c_fill",
+        "title": "Shark\u2019s new ChillPill portable fan will be a savior when summer starts sizzling - CNN",
+        "description": "Our testing writers tried the Shark ChillPill, a portable fan with a swappable cooling plate and misting nozzle, to see how well it helps them beat the heat.",
+        "source_link": "https://www.cnn.com/cnn-underscored/reviews/shark-chillpill"
+      },
+      {
+        "rank": 10,
         "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/03/vo2-test.jpg",
         "title": "Calculate Your VO2 Max at Home in Just 5 Minutes, No Complex Lab Tests Needed - Outside Magazine",
         "description": "It's one of endurance sport's most talked about yet elusive numbers, until now. A simple power test will spare you a costly trip to a performance lab for specialist VO2 Max testing.",
         "source_link": "https://velo.outsideonline.com/road/road-training/calculate-vo2-max/#article"
-      },
-      {
-        "rank": 8,
-        "image": "https://futurism.com/wp-content/uploads/2026/03/staff-brain-data-center-spine-fluid.jpg?quality=85&w=1200",
-        "title": "Staff at New Data Center Powered by Human Brain Cells Need to Swap Out Cerebrospinal Fluid Every Day - Futurism",
-        "description": "To keep the human brain cell-powered computers running, technicians constantly replenish their stores of cerebrospinal fluid.",
-        "source_link": "http://futurism.com/robots-and-machines/staff-brain-data-center-spine-fluid"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.axios.com/6B3DCIPFdIajxE98LeyC-xCDScA=/1366x768/smart/2022/08/25/221410-1661465650505.jpg",
-        "title": "Spyware once used by governments is now spreading to cybercriminals - Axios",
-        "description": "Anyone with an iPhone can now be the target of invasive malware that siphons off personal texts, call histories and calendar data.",
-        "source_link": "https://www.axios.com/2026/03/21/iphone-spyware-is-everyones-problem-now"
       }
     ],
     "trending_movies": [
@@ -111,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
-        "title": "War Machine",
-        "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine...",
-        "source_link": "https://www.themoviedb.org/movie/1265609"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
-        "title": "Ready or Not: Here I Come",
-        "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
-        "source_link": "https://www.themoviedb.org/movie/1266127"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/tztql23n2UCoM76KyCSKoZxVUL1.jpg",
         "title": "BTS THE COMEBACK LIVE | ARIRANG",
         "description": "BTS is back. The iconic group returns to the stage for a live reunion concert to perform legendary hits and unveil brand-new tracks....",
         "source_link": "https://www.themoviedb.org/movie/1628123"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/mNxebIggQk0mSZ0qF8MjCMTHYL4.jpg",
+        "title": "Do Not Enter",
+        "description": "A group of young explorers investigates an old abandoned hotel, only to encounter a strange supernatural being and a competing group looking for a leg...",
+        "source_link": "https://www.themoviedb.org/movie/999136"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
+        "title": "Ready or Not: Here I Come",
+        "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
+        "source_link": "https://www.themoviedb.org/movie/1266127"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
-        "title": "Zootopia 2",
-        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
-        "source_link": "https://www.themoviedb.org/movie/1084242"
+        "image": "https://image.tmdb.org/t/p/w200/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+        "title": "War Machine",
+        "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine...",
+        "source_link": "https://www.themoviedb.org/movie/1265609"
       }
     ]
   }
