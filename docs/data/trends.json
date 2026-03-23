@@ -1,76 +1,76 @@
 {
-  "last_updated": "March 23, 2026, 20:34 UTC",
+  "last_updated": "March 23, 2026, 21:32 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": null,
+        "title": "Apple\u2019s busy March continues with three notable arrivals this week - 9to5Mac",
+        "description": null,
+        "source_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX0FHTFg1WmxYd0hZR0VZdG10WkhEU3BHX2pCeTR0dWhRSW90R3dsN0RuWGRwcU5ZY0lCLXFvLW5KUkdKaDljd1dDRlZLSFNNSTV3SUppVHVQWXY0RGlkZ0hBZm9qejI1MVhoZEtJYWZjZnBVQTB6VjdvMERGbDdHNjJWWGtJRXp2MGJWamhTYVBiaDlQS0ZQdklmR2RyZw?oc=5"
+      },
+      {
+        "rank": 2,
         "image": "https://kotaku.com/app/uploads/2026/03/HD5s3JIaoAE2g6p-1200x675.jpg",
         "title": "Crimson Desert Dev Breaks Silence Admitting AI Art Was Used - Kotaku",
         "description": "Developer Pearl Abyss apologizes for its inclusion and promises to replace the slop with new art",
         "source_link": "https://kotaku.com/crimson-desert-ai-art-peal-abyss-2000680884"
       },
       {
-        "rank": 2,
-        "image": null,
-        "title": "AMD Ryzen 9 9950X3D2 Spotted In CPU-Z; Specs Show 128 MB Of L3 Cache? - Wccftech",
-        "description": null,
-        "source_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVU1lTUlqQldpR0N6SUFIaUlEM05ONDdxc3VzT3dqaVZzNEdTbC16MVVKY2NZOTNON3BlQ3BDelNNR01YcG5hRk5HOHMtS2RZalNnb2tFWDVHR05TTVdnY3dlVUVCUXMyTmJBTTlOR3BtQWFMeFdqaldoRUswbVRyZkFkcW02eDhDZi1EZW5weTd2TVnSAZgBQVVfeXFMUFVMRkFmejlDTW84MDVJbjVYeklDdjd1N0NyZ0ZvazZKVXIteUt2VEdIcGlpZFRVaS1OZnBKWWVTUUFoTktoSnNveVFLdDhUbVpVbjg5cjRqV1p1RDA1cmp3NjVHdDFra2pNZ1JTZVVvZkNETGIxbHVQSllHTFZseUI3WVo1YjM3Wkd6LTh5a0lTWU02blo1Mm0?oc=5"
+        "rank": 3,
+        "image": "https://cdn.mos.cms.futurecdn.net/gha5TAcXTcC3AxvZhvjizK-2463-80.jpg",
+        "title": "'Crimson Desert' issues on Xbox PC underpins the vast amount of work required for Xbox Helix \u2014 Xbox PC can't afford to be this unreliable forever - Windows Central",
+        "description": "\"Crimson Desert\" should've been a big win for Xbox Play Anywhere on PC, but what followed was a swath of issues that casts a bit of a question mark over Xbox Helix.",
+        "source_link": "https://www.windowscentral.com/gaming/xbox/crimson-desert-issues-on-xbox-pc-underpins-the-vast-amount-of-work-required-for-xbox-helix-and-the-issues-persist"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/03/22/550x309/Changhan_Kim_1774190136785_1774190142158.jpg",
+        "title": "This CEO took legal advice from ChatGPT to avoid paying $250 million bonus. It backfired | Hindustan Times - Hindustan Times",
+        "description": "The court stressed that company executives are expected to exercise independent judgment, not outsource good-faith decisions to an AI.",
+        "source_link": "https://www.hindustantimes.com/trending/us/this-ceo-took-legal-advice-from-chatgpt-to-avoid-paying-250-million-bonus-it-backfired-101774189914426.html"
+      },
+      {
+        "rank": 5,
+        "image": "https://images.pushsquare.com/360a74f175bd6/large.jpg",
+        "title": "Congratulations to Resident Evil, 30 Years Old Today and Better Than Ever - Push Square",
+        "description": "What's your favourite?",
+        "source_link": "https://www.pushsquare.com/features/congratulations-to-resident-evil-30-years-old-today-and-better-than-ever"
+      },
+      {
+        "rank": 6,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/01/AMD-Ryzen-9-9950X3D2-Dual-3D-V-Cache-CPU-1-1920x980.jpg",
+        "title": "AMD Ryzen 9 9950X3D2 Spotted In CPU-Z; Specs Show 128 MB Of L3 Cache? - Wccftech",
+        "description": "AMD Ryzen 9 9950X3D2 may feature a 200W TDP and 192 MB L3 cache, but CPU-Z lists it incorrectly with 128 MB total cache.",
+        "source_link": "https://wccftech.com/amd-ryzen-9-9950x3d2-spotted-in-cpu-z-specs-show-128-mb-of-l3-cache/"
+      },
+      {
+        "rank": 7,
         "image": "https://kotaku.com/app/uploads/2026/03/MKTour-1200x675.jpg",
         "title": "Two Major Game Age Rating Agencies Split Over Dark Patterns - Kotaku",
         "description": "North American ESRB ratings are bucking global trends",
         "source_link": "https://kotaku.com/mario-kart-tour-gambling-esrb-pegi-age-rating-2000680828"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://images.macrumors.com/t/Zeedv2Uhp5RsSd48ugoPq_aNaTk=/2500x/article-new/2026/03/HomePod-mini-and-Apple-TV-Sage.jpg",
         "title": "New Apple TV and HomePod Mini Remain 'Ready' to Launch - MacRumors",
         "description": "Apple has unveiled nine new products this month, but the wait continues for the next-generation Apple TV 4K and HomePod mini models.   In his Power...",
         "source_link": "https://www.macrumors.com/2026/03/22/new-apple-tv-and-homepod-mini-remain-ready/"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/iPad-11-A16-v3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Report: New iPad with A18 chip still on track to launch in first half of 2026 - 9to5Mac",
         "description": "As part of Apple\u2019s week of product announcements earlier this month, many were hoping to see an update to Apple\u2019s...",
         "source_link": "https://9to5mac.com/2026/03/22/new-budget-ipad-with-a18-chip-launch-schedule-update/"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5715x3215+0+298/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2Fb4%2Fa47ae66e4ddf849c78cb08b9eac3%2Fdrug-discovery-1919.jpg",
         "title": "Inside a rare lab that's blazing a bold trail as it hunts for new drugs - NPR",
         "description": "A scientist from Zambia who loves \u2014 LOVES! \u2014 chemistry runs a lab in South Africa that is being hailed for \"extraordinary\" work.",
         "source_link": "https://www.npr.org/2026/03/22/g-s1-114038/new-drugs-health-medicine-africa-tuberculosis-measles"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2026/03/dragon_quest_x.jpg?fit=1600%2C900&ssl=1",
-        "title": "Square Enix announces it will integrate Google\u2019s generative AI Gemini into popular online game Dragon Quest X - My Nintendo News",
-        "description": "Square Enix has found a use for Google\u2019s generative AI Gemini and will be putting it to use in the popular online game, Dragon Quest X. Gemini will be used in-game as a feature that allows players to\u2026",
-        "source_link": "https://mynintendonews.com/2026/03/22/square-enix-announces-it-will-integrate-googles-generative-ai-gemini-into-popular-online-game-dragon-quest-x/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.jalopnik.com/img/gallery/cheaper-than-a-porsche-8-affordable-sports-cars-that-deliver-track-level-thrills/l-intro-1774033770.jpg",
-        "title": "Cheaper Than A Porsche: 8 Affordable Sports Cars That Deliver Track-Level Thrills - Jalopnik",
-        "description": "Some great and sporty alternatives to a Porsche include the 2016 Scion FR-S, the C5 Corvette, the 2018 Ford Mustang GT, and the 2016 Chevrolet Camaro SS.",
-        "source_link": "https://www.jalopnik.com/2128277/cheaper-than-porsche-affordable-sports-cars-track-level-thrills/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/marathon-cryo-archive-feedback-bungie-plans-changes-weekend-schedule-solos-subroutine-rng-drops.jpg",
-        "title": "Marathon's Cryo Archive is a hit, but Bungie admits it needs to be more accessible - PCGamesN",
-        "description": "The Marathon Cryo Archive is an incredible endgame mission reminiscent of Destiny raids, but Bungie knows it has too many restrictions.",
-        "source_link": "https://www.pcgamesn.com/marathon/cryo-archive-changes-more-accessible"
-      },
-      {
-        "rank": 10,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPgi6wt_zgMM/v9/1200x800.jpg",
-        "title": "Apple\u2019s AirPods Max 2 Blurs the Lines Between Marketing and Innovation - Bloomberg",
-        "description": "Also: The company hikes prices on external storage.",
-        "source_link": "https://www.bloomberg.com/news/newsletters/2026-03-22/apple-s-airpods-max-2-blurs-the-lines-between-marketing-and-innovation-mn1pfx3h"
       }
     ],
     "trending_movies": [
@@ -104,17 +104,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/1cKLG9KMoCjsgFB8Nw1EuglteVi.jpg",
-        "title": "Agent Zeta",
-        "description": "Four Spanish ex-intelligence officers are assassinated simultaneously worldwide. The CNI discovers all participated in the covert \"Operation Ci\u00e9naga\" ...",
-        "source_link": "https://www.themoviedb.org/movie/1314786"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
         "title": "Scream 7",
         "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
         "source_link": "https://www.themoviedb.org/movie/1159559"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/1cKLG9KMoCjsgFB8Nw1EuglteVi.jpg",
+        "title": "Agent Zeta",
+        "description": "Four Spanish ex-intelligence officers are assassinated simultaneously worldwide. The CNI discovers all participated in the covert \"Operation Ci\u00e9naga\" ...",
+        "source_link": "https://www.themoviedb.org/movie/1314786"
       },
       {
         "rank": 7,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
-        "title": "Ready or Not: Here I Come",
-        "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
-        "source_link": "https://www.themoviedb.org/movie/1266127"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
+        "title": "Ready or Not: Here I Come",
+        "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
+        "source_link": "https://www.themoviedb.org/movie/1266127"
       }
     ]
   }
