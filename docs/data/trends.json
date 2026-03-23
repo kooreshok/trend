@@ -1,34 +1,34 @@
 {
-  "last_updated": "March 23, 2026, 06:08 UTC",
+  "last_updated": "March 23, 2026, 07:59 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/63ec77975a5f8/large.jpg",
+        "title": "Multiple Switch Games Receive Switch 2 Compatibility Fixes - Nintendo Life",
+        "description": "Kirby, Final Fantasy and more",
+        "source_link": "https://www.nintendolife.com/news/2026/03/multiple-switch-games-receive-switch-2-compatibility-fixes"
+      },
+      {
+        "rank": 2,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/03/weekly-deals-20/-952x498w6/gsmarena_us.jpg",
+        "title": "Deals: Galaxy S26 series gets its first price drop, the Pixel 10 series drops even further - GSMArena.com news - GSMArena.com",
+        "description": "Meanwhile, the 2025 MacBook Airs are getting cheaper too - not quite as cheap as the Neo, but they are an important alternative for those who need more RAM.",
+        "source_link": "https://www.gsmarena.com/deals_galaxy_s26_series_gets_its_first_price_drop_the_pixel_10_series_drops_even_further-news-72031.php"
+      },
+      {
+        "rank": 3,
         "image": "https://images.pushsquare.com/eeb6c25a06d3d/large.jpg",
         "title": "PSN Service Returning on PS5, PS4 as Brief Outage Took Service Offline - Push Square",
         "description": "Taken offline for roughly two hours",
         "source_link": "https://www.pushsquare.com/news/2026/03/psn-service-returning-on-ps5-ps4-as-brief-outage-took-service-offline"
       },
       {
-        "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/DSC02494_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "title": "Halide co-founder is suing former partner for bringing source code to Apple - The Verge",
-        "description": "Halide co-founder Ben Sandofsky claims Sebastiaan de With was fired for financial misconduct before joining Apple.",
-        "source_link": "https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple"
-      },
-      {
-        "rank": 3,
+        "rank": 4,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/google-hq-logo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google Search test replaces headlines and website titles with AI - 9to5Google",
         "description": "Google Search has started testing the use of AI to replace headlines and website titles, a change that seems both...",
         "source_link": "http://9to5google.com/2026/03/21/google-search-test-replaces-headlines-and-website-titles-with-ai/"
-      },
-      {
-        "rank": 4,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-backwards-compatibility-fixes-March-2026.jpg",
-        "title": "Nintendo has fixed a new batch of Switch 1 games on Switch 2 for backwards compatibility - Nintendo Everything",
-        "description": "Nintendo has put out fixes for a number of notable Switch 1 games on Switch 2 for backwards compatibility, and here's the full list.",
-        "source_link": "https://nintendoeverything.com/nintendo-has-fixed-a-new-batch-of-switch-1-games-on-switch-2-for-backwards-compatibility/"
       },
       {
         "rank": 5,
@@ -39,38 +39,31 @@
       },
       {
         "rank": 6,
+        "image": "https://assets-prd.ignimgs.com/2026/03/21/ss-653759c43cbc7900686a917d4b165f33b8cd334f-1920x1080-1774106981616.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Crimson Desert Dev Promises Patch to Address 'Discomfort Many Players Have Experienced With the Controls,' Apologizes for Awful Keyboard and Mouse Experience - IGN",
+        "description": "Crimson Desert developer Pearl Abyss has told players it will address the game's widely criticized controls via an upcoming patch.",
+        "source_link": "https://www.ign.com/articles/crimson-desert-dev-promises-patch-to-address-discomfort-many-players-have-experienced-with-the-controls-apologizes-for-awful-keyboard-and-mouse-experience"
+      },
+      {
+        "rank": 7,
+        "image": "https://assets-prd.ignimgs.com/2026/03/21/mcv-tinytakeover-hero-1-overworldoverload-1920x1080-1774078136968.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Minecraft Gets Tiny Takeover Release Date as Mojang Digs Up Sulfur Blocks for Chaos Cubed Update Later This Year - IGN",
+        "description": "Mojang has unveiled more information about updates coming to Minecraft in 2026, including the release date for Tiny Takeover and a sneak peek at the Chaos Cubed game drop.",
+        "source_link": "https://www.ign.com/articles/mojang-reveals-chaos-cubed-update-coming-to-minecraft-later-this-year-with-tiny-takeover-release-date-set-for-next-week"
+      },
+      {
+        "rank": 8,
+        "image": "https://assetsio.gnwcdn.com/slay-the-spire-2-screenshot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "\"This progress will not be linear\": Mega Crit outline their patching process for Slay the Spire 2 after ruffling some feathers - Rock Paper Shotgun",
+        "description": "\"The game will go through constant changes with the ultimate goal of making it as balanced of an experience as StS1 became.\"",
+        "source_link": "https://www.rockpapershotgun.com/this-progress-will-not-be-linear-mega-crit-outline-their-patching-process-for-slay-the-spire-2-after-ruffling-some-feathers"
+      },
+      {
+        "rank": 9,
         "image": "https://s.yimg.com/ny/api/res/1.2/qaV9bsUwCeJEp6kTVrFJkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_stacker_articles_387/c35e4d5533f380a3f2ddf60c31ea0f27",
         "title": "35 photos that show what life looked like in 1973 - AOL.com",
         "description": "A senior portrait so perfectly 1973 it could have been Michael Kelso's yearbook photo \u2014 the side-swept hair, the wide lapels, the expression of a guy who kno...",
         "source_link": "https://stacker.com/stories/retrospective/35-photos-show-would-life-looked-1973"
-      },
-      {
-        "rank": 7,
-        "image": "https://kotaku.com/app/uploads/2026/03/crimsondes-1200x675.jpg",
-        "title": "Crimson Desert Hears Your Complaints And Will Fix The Controls - Kotaku",
-        "description": "Pearl Abyss says its listening to Crimson Desert players' complaints about the complicated controls and will patch in new options ASAP.",
-        "source_link": "https://kotaku.com/crimson-desert-controls-fix-update-patch-2000680802"
-      },
-      {
-        "rank": 8,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKKhgq2XUNW0/v1/1200x800.jpg",
-        "title": "Apple M5 MacBook Pro and Air Review: When the Neo Isn\u2019t Enough - Bloomberg.com",
-        "description": "Apple\u2019s new laptops and high-end display fit the bill for the company\u2019s most demanding customers.",
-        "source_link": "https://www.bloomberg.com/news/articles/2026-03-21/apple-m5-macbook-pro-and-air-review-fast-enough-for-demanding-users"
-      },
-      {
-        "rank": 9,
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/carolina-chillpill.jpg?c=16x9&q=w_800,c_fill",
-        "title": "Shark\u2019s new ChillPill portable fan will be a savior when summer starts sizzling - CNN",
-        "description": "Our testing writers tried the Shark ChillPill, a portable fan with a swappable cooling plate and misting nozzle, to see how well it helps them beat the heat.",
-        "source_link": "https://www.cnn.com/cnn-underscored/reviews/shark-chillpill"
-      },
-      {
-        "rank": 10,
-        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/03/vo2-test.jpg",
-        "title": "Calculate Your VO2 Max at Home in Just 5 Minutes, No Complex Lab Tests Needed - Outside Magazine",
-        "description": "It's one of endurance sport's most talked about yet elusive numbers, until now. A simple power test will spare you a costly trip to a performance lab for specialist VO2 Max testing.",
-        "source_link": "https://velo.outsideonline.com/road/road-training/calculate-vo2-max/#article"
       }
     ],
     "trending_movies": [
