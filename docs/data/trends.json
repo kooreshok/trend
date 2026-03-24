@@ -1,76 +1,76 @@
 {
-  "last_updated": "March 24, 2026, 05:56 UTC",
+  "last_updated": "March 24, 2026, 07:05 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/03/the-dlss-5-backlash-is-still-swirling.jpg",
+        "title": "The DLSS 5 Backlash Is Still Swirling - Dark Horizons",
+        "description": "Almost a week on, the controversy and backlash over NVIDIA\u2019s DLSS 5 announcement are still swirling, following some mixed messaging from the company about how the tech works. A reveal trailer on Tuesday showcased multiple games like \u201cResident Evil Requiem,\u201d \u201c\u2026",
+        "source_link": "https://www.darkhorizons.com/the-dlss-5-backlash-is-still-swirling/"
+      },
+      {
+        "rank": 2,
+        "image": "https://hackaday.com/wp-content/uploads/2026/03/3dfx-fpga-featured.jpg",
+        "title": "The 3DFX Voodoo Lives Again In An FPGA - Hackaday",
+        "description": "The 3DFX Voodoo was not the first dedicated 3D graphics chipset by any means, but it became the favourite for gamers among the early mass-market GPUs. It would be found on a 3D-processing-only PCI \u2026",
+        "source_link": "https://hackaday.com/2026/03/22/the-3dfx-voodoo-lives-again-in-an-fpga/"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.bgr.com/img/gallery/5-laptops-with-better-specs-than-the-macbook-neo-for-the-same-price/l-intro-1773853948.jpg",
+        "title": "5 Laptops With Better Specs Than The MacBook Neo For The Same Price - bgr.com",
+        "description": "The MacBook Neo starts at $600, but these five laptops deliver better RAM, storage, and larger screens for the same price or less.",
+        "source_link": "https://www.bgr.com/2126573/laptops-better-specs-macbook-neo-same-price/"
+      },
+      {
+        "rank": 4,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/samsung-quick-share-airdrop.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Samsung rolling out AirDrop over Quick Share on Galaxy S26, more devices coming - 9to5Google",
         "description": "Samsung has officially confirmed plans to start rolling out AirDrop support over Quick Share starting with the Galaxy S26 series...",
         "source_link": "http://9to5google.com/2026/03/22/samsung-galaxy-s26-airdrop-quick-share/"
       },
       {
-        "rank": 2,
+        "rank": 5,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/siri.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple already has the perfect platform for deploying conversational AI - 9to5Mac",
+        "description": "When Apple initially rolled out Apple Intelligence, the company was pretty openly against the idea of creating a Siri chatbot....",
+        "source_link": "https://9to5mac.com/2026/03/22/apple-already-has-the-perfect-platform-for-deploying-conversational-ai/"
+      },
+      {
+        "rank": 6,
         "image": "https://supercarblondie.com/wp-content/uploads/apple_products-3.png",
         "title": "Man who bought $75 worth of Apple products from a stranger in a car park realizes he might be sitting on a small fortune - supercarblondie.com",
         "description": "A tech enthusiast who bought a bunch of used Apple products off a stranger in a car park was left pleasantly surprised by the haul",
         "source_link": "https://supercarblondie.com/tech/man-75-worth-apple-products-from-stranger/"
       },
       {
-        "rank": 3,
+        "rank": 7,
+        "image": "https://www.phoronix.net/image.php?id=2026&image=linux_70_rc5",
+        "title": "Linux 7.0-rc5 Released: Linux 7.0 \"Starting To Calm Down\" - Phoronix",
+        "description": "Linus Torvalds just issued Linux 7.0-rc5 as we inch toward the stable Linux 7.0 kernel release in April.",
+        "source_link": "https://www.phoronix.com/news/Linux-7.0-rc5-Released"
+      },
+      {
+        "rank": 8,
+        "image": null,
+        "title": "Scary Good Spring Steam Sale Deals On Horror Games - Kotaku",
+        "description": null,
+        "source_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZE9ObTNlWWhnd0FLQVVxMjhZajdwVDl1MV9URlNkTjdiMVdrWmRuSEEzSjJubzVGXzZJTVhqWUdNSHVYdXNZUm5ZWWlSeWEzbTJjYzlBQUxxbGIxejRRWU80eTdFdy1NUHV2UEM4aDhkRFBZZ1V6Q1R5OHBOUHczRUFRRFE0Nk0?oc=5"
+      },
+      {
+        "rank": 9,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-messages-logo-circle-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "What new Google Messages features are rolling out [March 2026] - 9to5Google",
         "description": "Like other Google apps, Messages for Android A/B tests many features. It can take the RCS/SMS client a rather long...",
         "source_link": "http://9to5google.com/2026/03/22/new-google-messages-features/"
       },
       {
-        "rank": 4,
+        "rank": 10,
         "image": "https://gizmodo.com/app/uploads/2026/03/sandisk-ssd-1-1200x675.jpg",
         "title": "Apple Store Prices for SanDisk SSDs Are Suddenly Astronomical - Gizmodo",
         "description": "A 200% price hike is extraordinary.",
         "source_link": "https://gizmodo.com/apple-store-prices-for-sandisk-ssds-are-suddenly-astronomical-2000736615"
-      },
-      {
-        "rank": 5,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/03/M5-Pro-and-M5-Max-4-1.jpg",
-        "title": "M5 Pro & M5 Max Feature Vertically Stacked Dies That Mimic 3D Packaging, According To Apple\u2019s Platform Architecture Employee, Enabling Unrivaled Performance - Wccftech",
-        "description": "An Apple employee states that the M5 Pro and M5 Max sport a new chiplet design where the dies are stacked vertically on top of one another",
-        "source_link": "https://wccftech.com/m5-pro-and-m5-max-featured-vertically-stacked-dies-for-unrivaled-performance/"
-      },
-      {
-        "rank": 6,
-        "image": "https://static.wixstatic.com/media/a511ef_a1c9bd2c80b449a2bd84094d483a5d24~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/a511ef_a1c9bd2c80b449a2bd84094d483a5d24~mv2.jpg",
-        "title": "Pok\u00e9mon Pokopia - The Means Of Pok\u00e9production - The Jimquisition",
-        "description": "Pok\u00e9mon PokopiaReleased: March 5th, 2026Developer:\u00a0Omega Force, Game FreakPublisher:\u00a0Nintendo, The Pok\u00e9mon CompanySystems:\u00a0Switch 2Pok\u00e9mon Pokopia is so fantastic I\u2019m not even going to focus on the alleged nightmare fuel that is The Dittosapien. I\u2019ve obsessiv\u2026",
-        "source_link": "https://www.thejimquisition.com/post/pok\u00e9mon-pokopia-the-means-of-pok\u00e9production"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.jalopnik.com/img/gallery/pre-panamera-porsche-sports-sedan/l-intro-1774027006.jpg",
-        "title": "The OG Four-Door Porsche Sports Sedan Wasn't Even Built By Porsche - Jalopnik",
-        "description": "In 1967, a Texas-based car dealer wanted a four-door Porsche 911 S. Porsche wouldn't make it, so he turned to coachbuilders for help.",
-        "source_link": "https://www.jalopnik.com/2126955/pre-panamera-porsche-sports-sedan/"
-      },
-      {
-        "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/found-this-ai-painting-v0-otfba7ufh8qg1.webp?quality=90&strip=all&crop=0,3.4229797217454,100,93.154040556509",
-        "title": "Crimson Desert dev apologizes for use of AI art - The Verge",
-        "description": "It\u2019s performing a \u2018comprehensive audit\u2019 to remove any AI assets.",
-        "source_link": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art"
-      },
-      {
-        "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/Crimson-Desert-review-1.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "New report claims Crimson Desert's development was plagued by \"a hodgepodge of features crammed together\" and leaders who \"don't acknowledge anyone who doesn't share their exact mindset\" - Eurogamer",
-        "description": "Two Pearl Abyss developers have claimed Crimson Desert was developed in a troubled environment, characterised by an inv\u2026",
-        "source_link": "https://www.eurogamer.net/new-report-claims-crimson-deserts-development-was-plagued-by-a-hodgepodge-of-features-crammed-together-and-leaders-who-dont-acknowledge-anyone-who-doesnt-share-their-exact-mindset"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6CPQpqNcn1BPPtaMHhAWZI/aad349eac9a74697393eba5bdb329d94/Agent_chaos.png?w=800&q=75",
-        "title": "Testing autonomous agents (Or: how I learned to stop worrying and embrace chaos) - VentureBeat",
-        "description": null,
-        "source_link": "https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace"
       }
     ],
     "trending_movies": [
@@ -111,38 +111,38 @@
       },
       {
         "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
+      },
+      {
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
         "title": "GOAT",
         "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
         "source_link": "https://www.themoviedb.org/movie/1297842"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/1cKLG9KMoCjsgFB8Nw1EuglteVi.jpg",
-        "title": "Agent Zeta",
-        "description": "Four Spanish ex-intelligence officers are assassinated simultaneously worldwide. The CNI discovers all participated in the covert \"Operation Ci\u00e9naga\" ...",
-        "source_link": "https://www.themoviedb.org/movie/1314786"
-      },
-      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
-        "title": "Ready or Not: Here I Come",
-        "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
-        "source_link": "https://www.themoviedb.org/movie/1266127"
+        "image": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "title": "Zootopia 2",
+        "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery ...",
+        "source_link": "https://www.themoviedb.org/movie/1084242"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/tztql23n2UCoM76KyCSKoZxVUL1.jpg",
-        "title": "BTS THE COMEBACK LIVE | ARIRANG",
-        "description": "BTS is back. The iconic group returns to the stage for a live reunion concert to perform legendary hits and unveil brand-new tracks....",
-        "source_link": "https://www.themoviedb.org/movie/1628123"
+        "image": "https://image.tmdb.org/t/p/w200/8V2jpc1K8icNr0EScpqARyitXlc.jpg",
+        "title": "Do Not Enter",
+        "description": "A group of young explorers investigates an old abandoned hotel, only to encounter a strange supernatural being and a competing group looking for a leg...",
+        "source_link": "https://www.themoviedb.org/movie/999136"
       }
     ]
   }
