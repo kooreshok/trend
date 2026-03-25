@@ -1,76 +1,76 @@
 {
-  "last_updated": "March 25, 2026, 18:51 UTC",
+  "last_updated": "March 25, 2026, 19:43 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Sky-blue-S26-Ultra-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Samsung says AirDrop support is enabled by default after all on Galaxy phones [U] - 9to5Google",
+        "description": "Samsung will officially start rolling out AirDrop support over Quick Share on Galaxy S26 devices throughout this week and, as...",
+        "source_link": "http://9to5google.com/2026/03/24/samsung-galaxy-airdrop-disabled/"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iOS-26.4-hero_1404d9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple releases iOS 26.4 with 8 new emoji and 12 more changes to your iPhone - 9to5Mac",
+        "description": "Apple has released iOS 26.4, bringing 13 enhancements to your iPhone. The new software update includes 8 new emoji characters,...",
+        "source_link": "https://9to5mac.com/2026/03/24/apple-releases-ios-26-4-with-8-new-emoji-and-12-more-changes-to-your-iphone/"
+      },
+      {
+        "rank": 3,
         "image": "https://i.pcmag.com/imagery/articles/04bsMaBx7ferhVCc6d6VCnf-1.fit_lim.size_1200x630.v1774354296.jpg",
         "title": "I Tried Some Games With Nvidia's DLSS 5. It's Controversial, Yes, But Also an Eyeful - PCMag",
         "description": "Is Nvidia's forthcoming DLSS 5, shown last week at GTC 2026, a game-ethics question mark? Is it spectacular? Yes and yes.",
         "source_link": "https://www.pcmag.com/news/i-tried-games-with-nvidias-dlss-5-its-controversial-and-an-eyeful-gtc-2026"
       },
       {
-        "rank": 2,
-        "image": "https://assetsio.gnwcdn.com/fortnite-royale.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Epic Games lays off over 1,000 employees following \"downturn in Fortnite engagement\" - GamesIndustry.biz",
-        "description": "CEO Tim Sweeney says cuts are necessary to \"keep the company funded\" and to put it \"in a more stable place\"",
-        "source_link": "https://www.gamesindustry.biz/epic-games-lays-off-over-1000-employees-following-downturn-in-fortnite-engagement"
+        "rank": 4,
+        "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Tiny%20Takeover_keyart_1170x500.jpg",
+        "title": "Play the Tiny Takeover drop - Minecraft",
+        "description": "Tiny Takeover has officially stormed Minecraft! New versions of baby mobs are causing cuteness overload across biomes and builds. Pack your golden dandelions, craft name tags, and get ready to collect, cuddle, and coo over our new tiny rascals.",
+        "source_link": "https://www.minecraft.net/en-us/article/play-the-tiny-takeover-drop"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1287582736-1152x648.jpg",
+        "title": "Claude Code can now take over your computer to complete tasks - Ars Technica",
+        "description": "But Anthropic urges caution as \"research preview\" safeguards \"aren't absolute.\"",
+        "source_link": "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/"
+      },
+      {
+        "rank": 6,
+        "image": "https://techcrunch.com/wp-content/uploads/2024/12/epic-games-header.jpg?resize=1200,800",
+        "title": "Epic Games cuts 1,000 jobs, says Fortnite engagement is down - TechCrunch",
+        "description": "Epic Games also increased the price of V-Bucks, the Fortnite in-game currency.",
+        "source_link": "https://techcrunch.com/2026/03/24/epic-games-cuts-1000-jobs-says-fortnite-engagement-is-down/"
+      },
+      {
+        "rank": 7,
         "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-champions/2026/03/24/pokemon-champions-169.png",
         "title": "Pok\u00e9mon Champions Releases on Nintendo Switch and Nintendo Switch 2 on April 8, 2026 - Pokemon.com",
         "description": "Take on Trainers from around the world and battle with recently discovered Mega-Evolved Pok\u00e9mon.",
         "source_link": "https://www.pokemon.com/us/pokemon-news/pokemon-champions-releases-on-nintendo-switch-and-nintendo-switch-2-on-april-8-2026"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://www.androidheadlines.com/wp-content/uploads/2026/03/Galaxy-Z-Fold8-5K1-scaled.jpg",
         "title": "Exclusive: Samsung Galaxy Z Fold 8 Official CAD Renders & Rumors - Android Headlines",
         "description": "This is the Samsung Galaxy Z Fold 8. After a pretty huge upgrade last year, for the Galaxy Z Fold 7, Samsung doesn't appear to be making any massive",
         "source_link": "https://www.androidheadlines.com/samsung-galaxy-z-fold-8"
       },
       {
-        "rank": 5,
-        "image": "https://www.trueachievements.com/imgs/172876/xbox-game-pass-adds-easy-delivery-co-later-this-week.jpg",
-        "title": "Xbox Game Pass gets a new cozy game with unsettling vibes this week - TrueAchievements",
-        "description": "One of 2025's best relaxing driving games, Easy Delivery Co, comes to Xbox this week and will be available to play with Xbox Game Pass.",
-        "source_link": "https://www.trueachievements.com/news/xbox-game-pass-easy-delivery-co"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0403_3f603c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Nintendo cuts Switch 2 production amid weakening console sales - The Verge",
-        "description": "Output is reportedly being reduced from six million to four million units, despite the console\u2019s record debut.",
-        "source_link": "https://www.theverge.com/games/899291/nintendo-switch-2-production-cut-weak-us-sales"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.trueachievements.com/imgs/172873/minecraft-tiny-takeover.jpg",
-        "title": "Minecraft's Tiny Takeover update arrives today with cuter animals and new items - TrueAchievements",
-        "description": "Minecraft's first major 'game drop' of 2026, Tiny Takeover, arrives today, introducing 39 redesigned baby mobs to the game, as well as a few new items.",
-        "source_link": "https://www.trueachievements.com/news/minecraft-tiny-takeover"
-      },
-      {
-        "rank": 8,
-        "image": "https://static.wixstatic.com/media/a511ef_a1c9bd2c80b449a2bd84094d483a5d24~mv2.jpg/v1/fill/w_1000,h_563,al_c,q_85,usm_0.66_1.00_0.01/a511ef_a1c9bd2c80b449a2bd84094d483a5d24~mv2.jpg",
-        "title": "Pok\u00e9mon Pokopia - The Means Of Pok\u00e9production - The Jimquisition",
-        "description": "Pok\u00e9mon PokopiaReleased: March 5th, 2026Developer:\u00a0Omega Force, Game FreakPublisher:\u00a0Nintendo, The Pok\u00e9mon CompanySystems:\u00a0Switch 2Pok\u00e9mon Pokopia is so fantastic I\u2019m not even going to focus on the alleged nightmare fuel that is The Dittosapien. I\u2019ve obsessiv\u2026",
-        "source_link": "https://www.thejimquisition.com/post/pok\u00e9mon-pokopia-the-means-of-pok\u00e9production"
-      },
-      {
         "rank": 9,
-        "image": "https://image.cnbcfm.com/api/v1/image/108280119-1773909767513-gettyimages-2260944879-AFP_97F74MK.jpeg?v=1774340729&w=1920&h=1080",
-        "title": "Anthropic says Claude can now use your computer to finish tasks for you in AI agent push - CNBC",
-        "description": "Anthropic and its rivals are trying to ramp up capabilities of AI agents after OpenClaw went viral earlier this year.",
-        "source_link": "https://www.cnbc.com/2026/03/24/anthropic-claude-ai-agent-use-computer-finish-tasks.html"
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69c291b501898a548ee3274d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "\u2018Crimson Desert\u2019 Reviews Go From 51% To 80% Positive In Four Days - Forbes",
+        "description": "Crimson Desert reviews have flipped on their heads once players experienced more of the game and the developer dropped a huge patch.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/03/24/crimson-desert-reviews-go-from-51-to-80-positive-in-four-days/"
       },
       {
         "rank": 10,
-        "image": "https://gizmodo.com/app/uploads/2023/11/98e20376c70d02bf369d58685c12d7c6.jpg",
-        "title": "\u2018I Don\u2019t Use AI Much\u2019: Steve Wozniak Expresses Skepticism AI Can Replace Humans - Gizmodo",
-        "description": "\"I'm disappointed a lot,\" the Apple co-founder said of AI.",
-        "source_link": "https://gizmodo.com/i-dont-use-ai-much-apple-co-founder-expresses-skepticism-ai-can-replace-humans-2000737127"
+        "image": "https://www.thestreet.com/.image/w_1200,h_630,g_auto,c_fill/NDA6MDAwMDAwMDAyOTE4ODc5/tim-cook-chief-executive-officer-of-apple-inc-arrives-at-the-allen-co-media-and-technology-conference-in-sun-valley-idaho-us-on-tuesday-july-8-2025-the-annual-event-has-been-a-historic-breeding-ground.jpg",
+        "title": "Bank of America revamps Apple price target - thestreet.com",
+        "description": "Here\u2019s what BofA says could happen to Apple shares next.",
+        "source_link": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-apple-price-target"
       }
     ],
     "trending_movies": [
@@ -83,17 +83,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-        "title": "GOAT",
-        "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
-        "source_link": "https://www.themoviedb.org/movie/1297842"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
         "title": "Send Help",
         "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
         "source_link": "https://www.themoviedb.org/movie/1198994"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+        "title": "GOAT",
+        "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
+        "source_link": "https://www.themoviedb.org/movie/1297842"
       },
       {
         "rank": 4,
