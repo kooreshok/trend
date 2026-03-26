@@ -1,76 +1,76 @@
 {
-  "last_updated": "March 26, 2026, 08:00 UTC",
+  "last_updated": "March 26, 2026, 09:08 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/6bac69dfe913c/large.jpg",
+        "title": "Sonic Frontiers \"Definitive Edition\" Has Been Rated In Korea - Nintendo Life",
+        "description": "Super Sonic news",
+        "source_link": "https://www.nintendolife.com/news/2026/03/sonic-frontiers-definitive-edition-has-been-rated-in-korea"
+      },
+      {
+        "rank": 2,
+        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/Cover-page-fc7a9f340816d78b4975.jpeg",
+        "title": "Once Human Console Closed Beta \u2013 Join the Supernatural Survival World on Xbox - Xbox Wire",
+        "description": null,
+        "source_link": "https://news.xbox.com/en-us/2026/03/24/once-human-console-closed-beta-join-the-supernatural-survival-world-on-xbox/"
+      },
+      {
+        "rank": 3,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/BB-777-0184.jpg?quality=90&strip=all&crop=0%2C10.736930330346%2C100%2C78.526139339307&w=1200",
         "title": "The Bumpboxx BB-777 is the ultimate in boombox nostalgia - The Verge",
         "description": "The Bumpboxx BB-777 is a modern recreation of the iconic Sharp GF-777 with dual cassette decks, a CD player, AM / FM radio, and Bluetooth support.",
         "source_link": "https://www.theverge.com/tech/897876/the-bb-777-is-the-ultimate-in-boombox-nostalgia"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Apple-Music-iOS-26-icon.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple Music 5.2 for Android adds iOS 26.4 Playlist Playground, album redesign - 9to5Google",
         "description": "Following the first iOS 26.4 preview, Apple Music 5.2 entered beta earlier this week with three new features.",
         "source_link": "http://9to5google.com/2026/03/24/apple-music-5-2-android/"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://assets-prd.ignimgs.com/2024/07/25/marvelrivals-blogroll-1721939839505.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Marvel Rivals Devs Won't Introduce Original Characters Anytime Soon, Because There Are Simply Too Many Marvel Characters Already - IGN",
+        "description": "NetEase Games isn't worried about balance in Marvel Rivals as its roster expands with more playable heroes, but don't expect to see any original characters anytime soon.",
+        "source_link": "https://www.ign.com/articles/marvel-rivals-devs-wont-introduce-original-characters-anytime-soon-because-there-are-simply-too-many-marvel-characters-already"
+      },
+      {
+        "rank": 6,
         "image": "https://cdn.videocardz.com/1/2026/03/BORDERLANDS-4-PC-OPTIMIZATIONS.jpg",
         "title": "Borderlands 4 March patch improves PC performance, native FPS up by 43% - VideoCardz.com",
         "description": "Borderlands 4 PC update cuts crashes and improves frame rates Gearbox has shared a new PC performance update for Borderlands 4 ahead of its March 26",
         "source_link": "https://videocardz.com/newz/borderlands-4-march-patch-improves-pc-performance-native-fps-up-by-43"
       },
       {
-        "rank": 4,
-        "image": "https://images.pushsquare.com/85cc863741f83/large.jpg",
-        "title": "PS5 Players Seemingly Skip Marathon as Sales Estimates Look Very Weak - Push Square",
-        "description": "Better hope it's a marathon",
-        "source_link": "https://www.pushsquare.com/news/2026/03/ps5-players-seemingly-skip-marathon-as-sales-estimates-look-very-weak"
-      },
-      {
-        "rank": 5,
+        "rank": 7,
         "image": "https://cdn.videocardz.com/1/2026/03/PSSR-INT8-FSR-CERNY-HERO.jpg",
         "title": "Sony\u2019s new PSSR shares FSR Upscaling roots, but uses an INT8 implementation - VideoCardz.com",
         "description": "Mark Cerny says PS5 Pro\u2019s new PSSR uses INT8 (like the leaked FSR4 for RDNA3/2) Mark Cerny has now given the clearest description yet of how Sony\u2019s",
         "source_link": "https://videocardz.com/newz/sonys-new-pssr-shares-fsr-upscaling-roots-but-uses-an-int8-implementation"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Sky-blue-S26-Ultra-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Samsung says AirDrop support is enabled by default after all on Galaxy phones [U] - 9to5Google",
         "description": "Samsung will officially start rolling out AirDrop support over Quick Share on Galaxy S26 devices throughout this week and, as...",
         "source_link": "http://9to5google.com/2026/03/24/samsung-galaxy-airdrop-disabled/"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3n7IYXKsR05XI4tQFgOwkp/8d0100b20ce548e178cf5beacea503e1/1aS68uiyY5dFE4eQgj8Nr_HvTU5kee.jpg?w=800&q=75",
         "title": "Cloudflare\u2019s new Dynamic Workers ditch containers to run AI agent code 100x faster - VentureBeat",
         "description": "Cloudflare says dynamically loaded Workers are priced at $0.002 per unique Worker loaded per day, in addition to standard CPU and invocation charges",
         "source_link": "https://venturebeat.com/infrastructure/cloudflares-new-dynamic-workers-ditch-containers-to-run-ai-agent-code-100x"
       },
       {
-        "rank": 8,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3sR8ajUNCIc/v0/1200x800.jpg",
-        "title": "Apple Plans AI Reboot With Siri App, New Look and \u2018Ask Siri\u2019 Button in iOS 27 - Bloomberg.com",
-        "description": "Apple Inc. is testing a standalone app for its Siri voice assistant alongside a new \u201cAsk Siri\u201d feature that will work across the company\u2019s software, part of a broader artificial intelligence overhaul.",
-        "source_link": "https://www.bloomberg.com/news/articles/2026-03-24/ios-27-features-apple-ai-reboot-with-siri-app-new-interface-ask-siri-button"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/What-are-you-most-looking-forward-to-at-the-upcoming-Apple-event.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple releases new updates for old versions of iOS, macOS, watchOS, more - 9to5Mac",
-        "description": "Apple debuted new software updates today for old iOS, macOS, iPadOS, and watchOS versions, including iOS 18.7.7 and more.",
-        "source_link": "https://9to5mac.com/2026/03/24/apple-releases-new-updates-for-old-versions-of-ios-macos-watchos-more/"
-      },
-      {
         "rank": 10,
-        "image": "https://www.bleepstatic.com/content/hl-images/2024/03/22/Firefox-headpic.jpg",
-        "title": "Firefox now has a free built-in VPN with 50GB monthly data limit - BleepingComputer",
-        "description": "Mozilla released Firefox 149 with added privacy protection through a built-in VPN tool offering up to 50GB of monthly traffic.",
-        "source_link": "https://www.bleepingcomputer.com/news/security/firefox-now-has-a-free-built-in-vpn-with-50gb-monthly-data-limit/"
+        "image": "https://kotaku.com/app/uploads/2025/01/c00c0f69c36bb3d58146a55288c98310.jpg",
+        "title": "PlayStation Closes Shooter Studio Recently Formed By Ex- Call Of Duty Lead - Kotaku",
+        "description": "Dark Outlaw Games grew out of the ashes of another failed Sony project",
+        "source_link": "https://kotaku.com/dark-outlaw-games-jason-blundell-playstation-sony-closed-2000681529"
       }
     ],
     "trending_movies": [
@@ -83,17 +83,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-        "title": "GOAT",
-        "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
-        "source_link": "https://www.themoviedb.org/movie/1297842"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
         "title": "Send Help",
         "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
         "source_link": "https://www.themoviedb.org/movie/1198994"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+        "title": "GOAT",
+        "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
+        "source_link": "https://www.themoviedb.org/movie/1297842"
       },
       {
         "rank": 4,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
         "title": "They Will Kill You",
         "description": "A woman answers a help wanted ad to be a housekeeper in a mysterious high-rise in New York City, not realizing she is entering a community that has se...",
         "source_link": "https://www.themoviedb.org/movie/1292695"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
       }
     ]
   }
