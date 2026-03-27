@@ -1,20 +1,20 @@
 {
-  "last_updated": "March 27, 2026, 10:42 UTC",
+  "last_updated": "March 27, 2026, 11:38 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/79c442af43d33/large.jpg",
+        "title": "Pok\u00e9mon Champions Plans To Keep The Stadium Lights On For A Very Long Time - Nintendo Life",
+        "description": "\"Basically forever\"",
+        "source_link": "https://www.nintendolife.com/news/2026/03/pokemon-champions-plans-to-keep-the-stadium-lights-on-for-a-very-long-time"
+      },
+      {
+        "rank": 2,
         "image": "https://assets.warhammer-community.com/1-feature-03-dqqrlsx8yd.jpg",
         "title": "AdeptiCon Preview 2026 \u2013 The Red Terror hunts elite Cadians in new Kill Team expansion - Warhammer Community",
         "description": "A man-eating Tyranid terror stalks Devlan.",
         "source_link": "https://www.warhammer-community.com/articles/jwpyca89/adepticon-preview-2026-the-red-terror-hunts-elite-cadians-in-new-kill-team-expansion"
-      },
-      {
-        "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258180_Dell_XPS_14_16_laptops_CES_2026_ADiBenedetto_0018.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Intel and LG Display may have beaten Apple and Qualcomm with the best laptop battery life ever - The Verge",
-        "description": "Notebookcheck has tested a Dell XPS 16 with a 1-120Hz LG Display screen and a new Intel Panther Lake chip. It\u2019s the most efficient ever in its Wi-Fi web browsing test.",
-        "source_link": "https://www.theverge.com/tech/901155/dell-xps-16-best-battery-lg-display-1hz-panther-lake-intel"
       },
       {
         "rank": 3,
@@ -32,54 +32,54 @@
       },
       {
         "rank": 5,
+        "image": "https://images.macrumors.com/t/GAyquGnnVSnhxBeZ-t47PVsJQ04=/2500x/article-new/2024/06/apple-tv-4k-new-orange.jpg",
+        "title": "tvOS 26.4 Adds These New Features to Your Apple TV - MacRumors",
+        "description": "Apple this week released tvOS 26.4, and the software update includes a handful of new features and changes for the Apple TV.   tvOS 26.4 is...",
+        "source_link": "https://www.macrumors.com/2026/03/25/tvos-26-4-features-and-release-notes/"
+      },
+      {
+        "rank": 6,
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/amazon-tech-deals-cnnu.jpg?c=16x9&q=w_800,c_fill",
+        "title": "Shop the 34 best deals on earbuds, chargers and smart lights for spring Prime Day - CNN",
+        "description": "Amazon\u2019s Big Spring Sale is officially live. I used my decade of experience covering deals and the latest electronics to find my favorite tech discounts.",
+        "source_link": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-tech-sales-2026-03-25"
+      },
+      {
+        "rank": 7,
         "image": "https://kotaku.com/app/uploads/2026/03/ramcrisisnex-1200x675.jpg",
         "title": "RAM Crisis Is Forcing Super-Popular Kids Console To Raise Prices Again - Kotaku",
         "description": "The Nex Playground, which has at times outsold the Xbox and PS5, is getting a $50 price bump next month",
         "source_link": "https://kotaku.com/ram-shortage-nex-playground-console-price-increase-300-april-2000681935"
       },
       {
-        "rank": 6,
-        "image": "https://kotaku.com/app/uploads/2026/03/image-19-1200x675.jpg",
-        "title": "Jak And Daxter Fans, Prepare To Have Your Heart Broken - Kotaku",
-        "description": "Here\u2019s what a remake might\u2019ve looked like back in 2019",
-        "source_link": "https://kotaku.com/jak-daxter-remake-remaster-pitch-video-animation-cutscene-2000681937"
-      },
-      {
-        "rank": 7,
+        "rank": 8,
         "image": "https://www.techspot.com/images2/news/bigimage/2026/03/2026-03-25-image-6.jpg",
         "title": "Researchers build experimental drone that flies without moving parts - TechSpot",
         "description": "The concept, known as a solid-state ornithopter, replaces the typical network of actuators with electricity-driven materials that deform when voltage is applied. This approach could represent a...",
         "source_link": "https://www.techspot.com/news/111820-researchers-build-experimental-drone-flies-without-moving-parts.html"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_fe9169.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Woot is offering over 20 percent off Switch 2 controllers and games today - The Verge",
         "description": "Woot is hosting a fantastic sale on Nintendo Switch 2 games and controllers through March 25th. Just enter code SAVETWENTY at checkout to save.",
         "source_link": "https://www.theverge.com/gadgets/900490/nintendo-switch-2-controllers-games-amazon-big-spring-sale-2026-deals"
-      },
-      {
-        "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2025/02/62ef21b6124683450d381d47ef4dd209.jpg",
-        "title": "Kingdom Come Deliverance Lead Stans For DLSS 5's Slop Filter - Kotaku",
-        "description": "Daniel V\u00e1vra leaps to the defense of the despised Nvidia tech, says it's just the 'uncanny beginning'",
-        "source_link": "https://kotaku.com/dlss5-daniel-vavra-kingdom-come-deliverance-ai-slop-2000681874"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
-        "title": "Pretty Lethal",
-        "description": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a d...",
-        "source_link": "https://www.themoviedb.org/movie/1084187"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/6cA8tHo8TpGF3SsO2KGWgKZm6l.jpg",
         "title": "Mike & Nick & Nick & Alice",
         "description": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn\u2019t enough, there\u2019s one wild ingredient ad...",
         "source_link": "https://www.themoviedb.org/movie/1115544"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
+        "title": "Pretty Lethal",
+        "description": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a d...",
+        "source_link": "https://www.themoviedb.org/movie/1084187"
       },
       {
         "rank": 3,
@@ -118,17 +118,17 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
         "title": "How to Make a Killing",
         "description": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many re...",
         "source_link": "https://www.themoviedb.org/movie/467905"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
         "rank": 10,
