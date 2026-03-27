@@ -1,76 +1,76 @@
 {
-  "last_updated": "March 27, 2026, 16:50 UTC",
+  "last_updated": "March 27, 2026, 17:45 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/STALKER-DLC-Hero-ddc403450239c831b3b4.jpg",
+        "title": "S.T.A.L.K.E.R. 2: Cost of Hope \u2013 First Details About the Major Heart of Chornobyl Expansion - Xbox Wire",
+        "description": "A massive new storyline, two new regions - including the Chornobyl Nuclear Power Plant - that can take dozens of hours to explore, and much more. All in the S.T.A.L.K.E.R. 2: Cost of Hope expansion announced at #XboxPartnerPreview:",
+        "source_link": "https://news.xbox.com/en-us/2026/03/26/stalker-2-dlc-xbox-partner-preview/"
+      },
+      {
+        "rank": 2,
+        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/Stranger-Hero-8c89c6cb45153b12e124.jpg",
+        "title": "Stranger Than Heaven Gets a Wild New Trailer \u2013 and an Entirely New Broadcast on May 6 - Xbox Wire",
+        "description": "We just got a brand new look at RGG Studio's Stranger Than Heaven - and we'll be learning even more when we air an entire show about the game on May 6. Get all the details inside.",
+        "source_link": "https://news.xbox.com/en-us/2026/03/26/stranger-than-heaven-xbox-partner-preview/"
+      },
+      {
+        "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2026/03/Official-Marathon-promo-image.jpg",
+        "title": "Faked Screenshots Fuel Conspiracy About Sony Paying For Marathon Posts - Kotaku",
+        "description": "Some folks on the internet have fallen for a very obviously fake story about Sony and Bungie paying people to promote Marathon on Reddit",
+        "source_link": "https://kotaku.com/marathon-content-farm-discord-reddit-posts-bungie-fake-2000682208"
+      },
+      {
+        "rank": 4,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/03/AMD-Ryzen-9-9950X3D2-Dual-Edition-CPU-1920x1062.jpg",
+        "title": "AMD Unleashes Ryzen 9 9950X3D2 Dual Edition, The World\u2019s First CPU With Dual 3D V-Cache: 5.6 GHz, 208 MB Cache, 200W TDP - Wccftech",
+        "description": "AMD has officially announced its first dual 3D V-Cache CPU, the Ryzen 9 9950X3D2 Dual Edition, offering a massive 208 MB cache design.",
+        "source_link": "https://wccftech.com/amd-ryzen-9-9950x3d2-dual-edition-worlds-first-cpu-with-dual-3d-v-cache/"
+      },
+      {
+        "rank": 5,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/brooken-iphones.jpg?resize=1200,800",
+        "title": "A major hacking tool has leaked online, putting millions of iPhones at risk. Here\u2019s what you need to know. - TechCrunch",
+        "description": "Here\u2019s what we know, and what you need to know, about Coruna and DarkSword, two advanced iPhone hacking tools discovered by security researchers. DarkSword has now leaked online.",
+        "source_link": "https://techcrunch.com/2026/03/26/a-major-hacking-tool-has-leaked-online-putting-millions-of-iphones-at-risk-heres-what-you-need-to-know/"
+      },
+      {
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268417_Sonos_Play_speaker_JHiggins_0004.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "The versatile Play speaker is a great way into the Sonos world - The Verge",
+        "description": "The Play works both on a Wi-Fi connected Sonos system with all of the features that provides, and as a Bluetooth speaker when away from the home system.",
+        "source_link": "https://www.theverge.com/tech/901105/sonos-play-speaker-review"
+      },
+      {
+        "rank": 7,
         "image": "https://images.purexbox.com/2d1b448073939/large.jpg",
         "title": "Forza Horizon 6 PC Specs Revealed, Ray Tracing & ROG Xbox Ally Compatibility Confirmed - Pure Xbox",
         "description": "Here are all the details",
         "source_link": "https://www.purexbox.com/news/2026/03/forza-horizon-6-pc-specs-revealed-ray-tracing-and-rog-xbox-ally-compatibility-confirmed"
       },
       {
-        "rank": 2,
+        "rank": 8,
+        "image": "https://img.global.news.samsung.com/uk/wp-content/uploads/2026/03/005-galaxy-s25-fe-lifestyle.jpg",
+        "title": "Samsung Brings One UI 8.5 Beta Programme to More Galaxy Devices - samsung.com",
+        "description": "Samsung is expanding the One UI 8.5 beta programme to additional Galaxy devices. \u00a0 Introduced with the Galaxy S25 series, Galaxy Z Fold7 and Galaxy Z",
+        "source_link": "https://news.samsung.com/uk/samsung-brings-one-ui-8-5-beta-programme-to-more-galaxy-devices"
+      },
+      {
+        "rank": 9,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/dji-avata-360-11.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+        "title": "DJI\u2019s Avata 360 is a more functional, flexible 360 drone - The Verge",
+        "description": "I tested DJI\u2019s first 360 drone, the Avata 360, against the Antigravity A1 \u2014 but only one of them is going on sale in the US.",
+        "source_link": "https://www.theverge.com/tech/899735/dji-avata-360-release-date-price-specs-impressions-antigravity-a1-comparison"
+      },
+      {
+        "rank": 10,
         "image": "https://media.cnn.com/api/v1/images/stellar/prod/amazon-tech-deals-cnnu.jpg?c=16x9&q=w_800,c_fill",
         "title": "Shop the 34 best deals on earbuds, chargers and smart lights for spring Prime Day - CNN",
         "description": "Amazon\u2019s Big Spring Sale is officially live. I used my decade of experience covering deals and the latest electronics to find my favorite tech discounts.",
         "source_link": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-tech-sales-2026-03-25"
-      },
-      {
-        "rank": 3,
-        "image": "https://assetsio.gnwcdn.com/nvidia-dlss-5-new-blood-ceo-devs-resist-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "\"At this rate, why make game art at all?\": Nvidia DLSS 5 demands a sale damaging and stock tanking fightback, argues New Blood boss - Rock Paper Shotgun",
-        "description": "An Nvidia DLSS 5 boycott has been called for by the CEO of indie studio New Blood Interactive.",
-        "source_link": "https://www.rockpapershotgun.com/at-this-rate-why-make-game-art-at-all-nvidia-dlss-5-demands-a-sale-damaging-and-stock-tanking-fightback-argues-new-blood-boss"
-      },
-      {
-        "rank": 4,
-        "image": "https://www.sammobile.com/wp-content/uploads/2025/12/Galaxy-S24-Ultra-One-UI-8.5-1200x675.jpg",
-        "title": "Samsung opens One UI 8.5 beta program for Galaxy S24 - SamMobile",
-        "description": "A few days ago, we learned that Samsung may expand the One UI 8.5 (Android 16 QPR2) beta program to the Galaxy S24, Galaxy S24+, and Galaxy S24 Ultra. That report has turned out to be true as the brand has finally made it available for these phones. The first\u2026",
-        "source_link": "https://www.sammobile.com/news/samsung-opens-one-ui-8-5-beta-program-for-galaxy-s24/"
-      },
-      {
-        "rank": 5,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/693d2bc81607dd2aa1d99822/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "iOS 26.4\u2014Update Now Warning Issued To All iPhone Users - Forbes",
-        "description": "Apple has released iOS 26.4, along with a warning to update your iPhone now, because it contains a whopping 37 fixes. Here's what you need to know.",
-        "source_link": "https://www.forbes.com/sites/kateoflahertyuk/2026/03/26/ios-264-update-now-warning-issued-to-all-iphone-users/"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.nintendolife.com/79c442af43d33/large.jpg",
-        "title": "Pok\u00e9mon Champions Plans To Keep The Stadium Lights On For A Very Long Time - Nintendo Life",
-        "description": "\"Basically forever\"",
-        "source_link": "https://www.nintendolife.com/news/2026/03/pokemon-champions-plans-to-keep-the-stadium-lights-on-for-a-very-long-time"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2024/11/Samsung-Internet-Browser-stock-image-resized.jpg",
-        "title": "Samsung Browser for Windows is now official, and it really wants to replace Chrome - Android Authority",
-        "description": "Samsung Browser is now officially available on Windows after its beta period, complete with agentic AI features powered by Perplexity.",
-        "source_link": "https://www.androidauthority.com/samsung-browser-windows-release-3652072/"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/appgrid.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple blocks App Store updates for Mac app replacing Launchpad, a feature it no longer offers - 9to5Mac",
-        "description": "Apple is blocking App Store updates to AppGrid for resembling Launchpad, a feature the company recently discontinued. Here are the details.",
-        "source_link": "https://9to5mac.com/2026/03/25/apple-blocks-app-store-updates-for-mac-app-replacing-launchpad-a-feature-it-no-longer-offers/"
-      },
-      {
-        "rank": 9,
-        "image": "https://assets.warhammer-community.com/1-feature-04-qbri5wukxq.jpg",
-        "title": "AdeptiCon Preview 2026 \u2013 A new Lumineth Realm-lords warband breezes into Warhammer Underworlds - Warhammer Community",
-        "description": "Awesome aelves and their adorable vulpine spirit revealed.",
-        "source_link": "https://www.warhammer-community.com/articles/he0lfctv/adepticon-preview-2026-a-new-lumineth-realm-lords-warband-breezes-into-warhammer-underworlds"
-      },
-      {
-        "rank": 10,
-        "image": "https://assets.warhammer-community.com/1-feature-03-dqqrlsx8yd.jpg",
-        "title": "AdeptiCon Preview 2026 \u2013 The Red Terror hunts elite Cadians in new Kill Team expansion - Warhammer Community",
-        "description": "A man-eating Tyranid terror stalks Devlan.",
-        "source_link": "https://www.warhammer-community.com/articles/jwpyca89/adepticon-preview-2026-the-red-terror-hunts-elite-cadians-in-new-kill-team-expansion"
       }
     ],
     "trending_movies": [
