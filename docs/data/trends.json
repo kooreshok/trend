@@ -1,76 +1,76 @@
 {
-  "last_updated": "March 27, 2026, 18:50 UTC",
+  "last_updated": "March 27, 2026, 19:38 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioJd6Wrt.t5A/v0/1200x900.jpg",
+        "title": "Apple Plans to Open Up Siri to Rival AI Assistants in iOS 27 Update - Bloomberg.com",
+        "description": "Apple Inc. plans to open Siri to outside artificial intelligence assistants, a major move aimed at bolstering the iPhone as an AI platform.",
+        "source_link": "https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/HadesUnseenUpdateWallpaper.png?quality=90&strip=all&crop=0%2C9.5315780155298%2C100%2C80.93684396894&w=1200",
+        "title": "Xbox\u2019s latest games showcase had Hades 2, The Expanse, and Bluey - The Verge",
+        "description": "At its Xbox Partner Preview livestream, Microsoft showed off a number of upcoming games, including the Xbox port of Hades 2.",
+        "source_link": "https://www.theverge.com/games/901384/xbox-partner-preview-games-news-trailers"
+      },
+      {
+        "rank": 3,
+        "image": "https://traxion.gg/wp-content/uploads/2026/03/Project-Motor-Racing-free-on-PC.jpg",
+        "title": "Project Motor Racing free-to-play on PC - Traxion.GG",
+        "description": "The promotion means that those with a PC and Steam can play Project Motor Racing for no charge from now until the 30th March.",
+        "source_link": "https://traxion.gg/project-motor-racing-free-to-play-on-pc/"
+      },
+      {
+        "rank": 4,
+        "image": "https://kotaku.com/app/uploads/2024/06/150073ce29eab9b061e992aa4966a2d5-1200x675.jpg",
+        "title": "Hades 2 Coming To PS5 And Game Pass In April, Skipping PS4 - Kotaku",
+        "description": "The popular roguelike action game starring sexy gods is finally coming to more platforms, and to Game Pass",
+        "source_link": "https://kotaku.com/hades-2-coming-to-ps5-and-xbox-next-month-2000682249"
+      },
+      {
+        "rank": 5,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/dsc03111_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "title": "My brief, weird time with the Samsung TriFold - The Verge",
+        "description": "$4000 and a ROM update later, the Galaxy Z TriFold we bought on eBay is up and running. But we\u2019re starting to see why Samsung discontinued it abruptly.",
+        "source_link": "https://www.theverge.com/tech/901525/samsung-galaxy-z-trifold-hands-on-singapore-rom"
+      },
+      {
+        "rank": 6,
         "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/STALKER-DLC-Hero-ddc403450239c831b3b4.jpg",
         "title": "S.T.A.L.K.E.R. 2: Cost of Hope \u2013 First Details About the Major Heart of Chornobyl Expansion - Xbox Wire",
         "description": "A massive new storyline, two new regions - including the Chornobyl Nuclear Power Plant - that can take dozens of hours to explore, and much more. All in the S.T.A.L.K.E.R. 2: Cost of Hope expansion announced at #XboxPartnerPreview:",
         "source_link": "https://news.xbox.com/en-us/2026/03/26/stalker-2-dlc-xbox-partner-preview/"
       },
       {
-        "rank": 2,
-        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/Stranger-Hero-8c89c6cb45153b12e124.jpg",
-        "title": "Stranger Than Heaven Gets a Wild New Trailer \u2013 and an Entirely New Broadcast on May 6 - Xbox Wire",
-        "description": "We just got a brand new look at RGG Studio's Stranger Than Heaven - and we'll be learning even more when we air an entire show about the game on May 6. Get all the details inside.",
-        "source_link": "https://news.xbox.com/en-us/2026/03/26/stranger-than-heaven-xbox-partner-preview/"
+        "rank": 7,
+        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/Expanse-Hero-eeec60c43351deb2a4cc.jpg",
+        "title": "The Expanse: Osiris Reborn \u2013 Learn More About Gameplay, New Companions, the Closed Beta, and the Release Window - Xbox Wire",
+        "description": "The release of The Expanse: Osiris Reborn is planned for spring 2027, and players can gain access to an Xbox Series X|S Closed Beta on April 22, 2026.",
+        "source_link": "https://news.xbox.com/en-us/2026/03/26/the-expanse-osiris-reborn-xbox-partner-preview/"
       },
       {
-        "rank": 3,
+        "rank": 8,
+        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/Hunter-Hero-9e5cdce7ab3bec6d2f8e.jpg",
+        "title": "How You\u2019ll Go From Prey to Predator in Hunter: The Reckoning \u2013 Deathwish - Xbox Wire",
+        "description": "Hunter: The Reckoning - Deathwish is an upcoming action-RPG about contemporary monster hunters - we spoke to the game's director after its #XboxPartnerPreview debut:",
+        "source_link": "https://news.xbox.com/en-us/2026/03/26/hunter-reckoning-xbox-partner-preview/"
+      },
+      {
+        "rank": 9,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/IMG_7493-1152x648-1774105360.jpeg",
+        "title": "Intel Core Ultra 270K and 250K Plus review: Conditionally great CPUs - Ars Technica",
+        "description": "Great performance for the price, if you ignore the price of RAM, SSDs, and GPUs.",
+        "source_link": "https://arstechnica.com/gadgets/2026/03/intel-core-ultra-270k-and-250k-plus-review-conditionally-great-cpus/"
+      },
+      {
+        "rank": 10,
         "image": "https://kotaku.com/app/uploads/2026/03/Official-Marathon-promo-image.jpg",
         "title": "Faked Screenshots Fuel Conspiracy About Sony Paying For Marathon Posts - Kotaku",
         "description": "Some folks on the internet have fallen for a very obviously fake story about Sony and Bungie paying people to promote Marathon on Reddit",
         "source_link": "https://kotaku.com/marathon-content-farm-discord-reddit-posts-bungie-fake-2000682208"
-      },
-      {
-        "rank": 4,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/03/AMD-Ryzen-9-9950X3D2-Dual-Edition-CPU-1920x1062.jpg",
-        "title": "AMD Unleashes Ryzen 9 9950X3D2 Dual Edition, The World\u2019s First CPU With Dual 3D V-Cache: 5.6 GHz, 208 MB Cache, 200W TDP - Wccftech",
-        "description": "AMD has officially announced its first dual 3D V-Cache CPU, the Ryzen 9 9950X3D2 Dual Edition, offering a massive 208 MB cache design.",
-        "source_link": "https://wccftech.com/amd-ryzen-9-9950x3d2-dual-edition-worlds-first-cpu-with-dual-3d-v-cache/"
-      },
-      {
-        "rank": 5,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/brooken-iphones.jpg?resize=1200,800",
-        "title": "A major hacking tool has leaked online, putting millions of iPhones at risk. Here\u2019s what you need to know. - TechCrunch",
-        "description": "Here\u2019s what we know, and what you need to know, about Coruna and DarkSword, two advanced iPhone hacking tools discovered by security researchers. DarkSword has now leaked online.",
-        "source_link": "https://techcrunch.com/2026/03/26/a-major-hacking-tool-has-leaked-online-putting-millions-of-iphones-at-risk-heres-what-you-need-to-know/"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268417_Sonos_Play_speaker_JHiggins_0004.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "The versatile Play speaker is a great way into the Sonos world - The Verge",
-        "description": "The Play works both on a Wi-Fi connected Sonos system with all of the features that provides, and as a Bluetooth speaker when away from the home system.",
-        "source_link": "https://www.theverge.com/tech/901105/sonos-play-speaker-review"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.purexbox.com/2d1b448073939/large.jpg",
-        "title": "Forza Horizon 6 PC Specs Revealed, Ray Tracing & ROG Xbox Ally Compatibility Confirmed - Pure Xbox",
-        "description": "Here are all the details",
-        "source_link": "https://www.purexbox.com/news/2026/03/forza-horizon-6-pc-specs-revealed-ray-tracing-and-rog-xbox-ally-compatibility-confirmed"
-      },
-      {
-        "rank": 8,
-        "image": "https://img.global.news.samsung.com/uk/wp-content/uploads/2026/03/005-galaxy-s25-fe-lifestyle.jpg",
-        "title": "Samsung Brings One UI 8.5 Beta Programme to More Galaxy Devices - samsung.com",
-        "description": "Samsung is expanding the One UI 8.5 beta programme to additional Galaxy devices. \u00a0 Introduced with the Galaxy S25 series, Galaxy Z Fold7 and Galaxy Z",
-        "source_link": "https://news.samsung.com/uk/samsung-brings-one-ui-8-5-beta-programme-to-more-galaxy-devices"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/dji-avata-360-11.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-        "title": "DJI\u2019s Avata 360 is a more functional, flexible 360 drone - The Verge",
-        "description": "I tested DJI\u2019s first 360 drone, the Avata 360, against the Antigravity A1 \u2014 but only one of them is going on sale in the US.",
-        "source_link": "https://www.theverge.com/tech/899735/dji-avata-360-release-date-price-specs-impressions-antigravity-a1-comparison"
-      },
-      {
-        "rank": 10,
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/amazon-tech-deals-cnnu.jpg?c=16x9&q=w_800,c_fill",
-        "title": "Shop the 34 best deals on earbuds, chargers and smart lights for spring Prime Day - CNN",
-        "description": "Amazon\u2019s Big Spring Sale is officially live. I used my decade of experience covering deals and the latest electronics to find my favorite tech discounts.",
-        "source_link": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-tech-sales-2026-03-25"
       }
     ],
     "trending_movies": [
@@ -83,31 +83,31 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
-        "title": "Pretty Lethal",
-        "description": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a d...",
-        "source_link": "https://www.themoviedb.org/movie/1084187"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
         "title": "GOAT",
         "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
         "source_link": "https://www.themoviedb.org/movie/1297842"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
         "title": "Send Help",
         "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
         "source_link": "https://www.themoviedb.org/movie/1198994"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
+        "title": "Pretty Lethal",
+        "description": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a d...",
+        "source_link": "https://www.themoviedb.org/movie/1084187"
       },
       {
         "rank": 6,
@@ -118,10 +118,10 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg",
-        "title": "BTS: THE RETURN",
-        "description": "They're back! BTS gathers in LA to record their album \"Arirang\" in this documentary offering unprecedented access to the band as they enter a new era....",
-        "source_link": "https://www.themoviedb.org/movie/1628116"
+        "image": "https://image.tmdb.org/t/p/w200/olk6MkfHFWEpWmhQn6Mb4jNqspm.jpg",
+        "title": "53 Sundays",
+        "description": "Three siblings get together to decide what to do with their 86\u2011year\u2011old father, who has started behaving in a very peculiar way. Should they move him ...",
+        "source_link": "https://www.themoviedb.org/movie/1276704"
       },
       {
         "rank": 8,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/olk6MkfHFWEpWmhQn6Mb4jNqspm.jpg",
-        "title": "53 Sundays",
-        "description": "Three siblings get together to decide what to do with their 86\u2011year\u2011old father, who has started behaving in a very peculiar way. Should they move him ...",
-        "source_link": "https://www.themoviedb.org/movie/1276704"
+        "image": "https://image.tmdb.org/t/p/w200/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+        "title": "Shelter",
+        "description": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of ...",
+        "source_link": "https://www.themoviedb.org/movie/1290821"
       }
     ]
   }
