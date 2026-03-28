@@ -1,13 +1,13 @@
 {
-  "last_updated": "March 28, 2026, 08:34 UTC",
+  "last_updated": "March 28, 2026, 09:33 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2261589216-e1774529882233.jpg?resize=1200,600",
-        "title": "Exclusive: Anthropic left details of an unreleased model, an upcoming exclusive CEO event, in a public database - Fortune",
-        "description": "Anthropic stored information about an upcoming model, draft blog posts, and other private information in an unsecured, publicly-searchable data lake",
-        "source_link": "https://fortune.com/2026/03/26/anthropic-leaked-unreleased-model-exclusive-event-security-issues-cybersecurity-unsecured-data-store/"
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/google-pixel-charging-optimization.jpg",
+        "title": "Android 17 Beta 3 reveals Google is testing a new 'Priority Charging' feature (APK teardown) - Android Authority",
+        "description": "Android 17 Beta 3 includes hidden code for a new \"Priority Charging\" feature that pauses background activity to speed up charging.",
+        "source_link": "https://www.androidauthority.com/android-17-beta-3-priority-charging-3652492/"
       },
       {
         "rank": 2,
@@ -18,24 +18,24 @@
       },
       {
         "rank": 3,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Android-17-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Android 17 Beta 3 starts adding more blur to system UI [Gallery] - 9to5Google",
-        "description": "Android 16 introduced translucency to the notification shade and Quick Settings. As rumored, Android 17 Beta 3 continues that blur trend...",
-        "source_link": "http://9to5google.com/2026/03/26/android-17-background-blur/"
-      },
-      {
-        "rank": 4,
         "image": "https://www.sciencealert.com/images/2025/11/melanized-fungus.jpg",
         "title": "Chernobyl Fungus Seems to Have Evolved an Incredible Ability - ScienceAlert",
         "description": "The Chernobyl exclusion zone may be off-limits to humans, but not to every form of life.",
         "source_link": "https://www.sciencealert.com/chernobyl-fungus-seems-to-have-evolved-an-incredible-ability"
       },
       {
+        "rank": 4,
+        "image": "https://cdn.neowin.com/news/images/uploaded/2024/07/1721981905_windows_11_story.jpg",
+        "title": "Windows 11 25H2/24H2 get 1000 Hz+ refresh rate support, File Explorer improvements, and more - Neowin",
+        "description": "The March 2026 non-security update for Windows 11 is here with 1000Hz+ display refresh rate support, File Explorer improvements, and other changes.",
+        "source_link": "https://www.neowin.net/news/windows-11-25h224h2-get-1000-hz-refresh-rate-support-file-explorer-improvements-and-more/"
+      },
+      {
         "rank": 5,
-        "image": "https://images.macrumors.com/t/ZnWCapdza5uZM08uiZjE7HAH_qI=/2500x/article-new/2023/01/Mac-Pro-Feature-Teal.jpg",
-        "title": "Apple Confirms Mac Pro Is Dead, No Future Models Planned - MacRumors",
-        "description": "Apple has discontinued the Mac Pro and has removed the machine from its website, reports 9to5Mac. Apple said it does not plan to design a new version...",
-        "source_link": "https://www.macrumors.com/2026/03/26/apple-discontinues-mac-pro/"
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKNYybJrQvDk/v1/1200x901.jpg",
+        "title": "Apple Discontinues Mac Pro Desktop in Favor of the Mac Studio - Bloomberg.com",
+        "description": "Apple Inc. on Thursday discontinued the Mac Pro desktop, its highest-end computer aimed at video editors, photographers and other advanced users.",
+        "source_link": "https://www.bloomberg.com/news/articles/2026-03-26/apple-discontinues-mac-pro-desktop-in-favor-of-the-mac-studio"
       },
       {
         "rank": 6,
@@ -53,24 +53,17 @@
       },
       {
         "rank": 8,
-        "image": "https://s.yimg.com/ny/api/res/1.2/e6fKGdPxO5GWtgx5AHCQEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_holding_pen_162/3df02569e976ff7f11f6d78ba6ad3c54",
-        "title": "Apple Plans to Open Up Siri to Rival AI Assistants in iOS 27 Update - Yahoo Finance",
-        "description": "(Bloomberg) -- Apple Inc. plans to open Siri to outside artificial intelligence assistants, a major move aimed at bolstering the iPhone as an AI platform.The...",
-        "source_link": "https://finance.yahoo.com/sectors/technology/articles/apple-plans-open-siri-rival-182447551.html"
-      },
-      {
-        "rank": 9,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQ48NqsihryM/v1/1200x829.jpg",
-        "title": "Google Gemini Adds Tool to Make It Easier to Switch From ChatGPT - Bloomberg.com",
-        "description": "Google released new tools for its Gemini artificial intelligence assistant that will let users upload chat history and context from other AI apps, a move to lure users from rivals like OpenAI\u2019s ChatGPT and Anthropic PBC\u2019s Claude.",
-        "source_link": "https://www.bloomberg.com/news/articles/2026-03-26/google-gemini-adds-tool-to-make-it-easier-to-switch-from-chatgpt"
-      },
-      {
-        "rank": 10,
         "image": "https://indiandefencereview.com/wp-content/uploads/2026/03/student-develops-clear-nail-polish-that-turns-fingernails-into-touchscreen-styluses-scaled.png",
         "title": "Student Develops Clear Nail Polish That Turns Fingernails into Touchscreen Styluses - Indian Defence Review",
         "description": "A chemistry student\u2019s groundbreaking nail polish may soon allow anyone, no matter their hand conditions, to effortlessly use touchscreen devices.",
         "source_link": "https://indiandefencereview.com/clear-nail-polish-fingernail-into-stylus/"
+      },
+      {
+        "rank": 9,
+        "image": "https://assets-prd.ignimgs.com/2026/03/26/c4sh-1774536132954.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "'Come Back for the Adventure' \u2014 After a Turbulent 6 Months, Borderlands 4 Gets Its First Big DLC, and Gearbox Hopes Lapsed Fans Return for It - IGN",
+        "description": "IGN interviews Gearbox on Borderlands 4's first Story Pack DLC: Mad Ellie and the Vault of the Damned.",
+        "source_link": "https://www.ign.com/articles/come-back-for-the-adventure-after-a-turbulent-6-months-borderlands-4-gets-its-first-big-dlc-and-gearbox-hopes-lapsed-fans-return-for-it"
       }
     ],
     "trending_movies": [
@@ -83,17 +76,17 @@
       },
       {
         "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
         "title": "Send Help",
         "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
         "source_link": "https://www.themoviedb.org/movie/1198994"
-      },
-      {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/olk6MkfHFWEpWmhQn6Mb4jNqspm.jpg",
-        "title": "53 Sundays",
-        "description": "Three siblings get together to decide what to do with their 86\u2011year\u2011old father, who has started behaving in a very peculiar way. Should they move him ...",
-        "source_link": "https://www.themoviedb.org/movie/1276704"
       },
       {
         "rank": 4,
@@ -104,24 +97,24 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
+        "image": "https://image.tmdb.org/t/p/w200/olk6MkfHFWEpWmhQn6Mb4jNqspm.jpg",
+        "title": "53 Sundays",
+        "description": "Three siblings get together to decide what to do with their 86\u2011year\u2011old father, who has started behaving in a very peculiar way. Should they move him ...",
+        "source_link": "https://www.themoviedb.org/movie/1276704"
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
         "title": "GOAT",
         "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
         "source_link": "https://www.themoviedb.org/movie/1297842"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
         "rank": 8,
