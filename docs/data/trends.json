@@ -1,76 +1,76 @@
 {
-  "last_updated": "March 28, 2026, 12:45 UTC",
+  "last_updated": "March 28, 2026, 13:47 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://assets-prd.ignimgs.com/2024/11/07/untitled-design-1-1730992204967.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "PS5, PS5 Pro, and PlayStation Portal Price Rises Confirmed - IGN",
-        "description": "Sony has announced price rises for PS5, PS5 Pro, and PlayStation Portal, blaming \u201ccontinued pressures in the global economic landscape.\u201d",
-        "source_link": "https://www.ign.com/articles/sony-announces-price-rises-for-ps5-ps5-pro-and-playstation-portal-blames-continued-pressures-in-the-global-economic-landscape"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22015306/vpavic_4278_20201030_0292.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Sony is raising PS5 prices by $100 in April - The Verge",
+        "description": "Sony is raising the prices across all of its PS5 models, with the standard version costing $649.99 instead of $549.99.",
+        "source_link": "https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike"
       },
       {
         "rank": 2,
+        "image": "https://cdn.videocardz.com/1/2026/03/AMD-FSR4-RYZEN-9950X3D2.jpg",
+        "title": "Nearly one-third of comments under AMD\u2019s 9950X3D2 launch video ask for FSR 4 on older GPUs - VideoCardz.com",
+        "description": "AMD, it's time to react This is probably not what AMD expected to see. AMD\u2019s YouTube announcement for the Ryzen 9 9950X3D2 quickly turned into another",
+        "source_link": "https://videocardz.com/newz/nearly-one-third-of-comments-under-amds-9950x3d2-launch-video-ask-for-fsr-4-on-older-gpus"
+      },
+      {
+        "rank": 3,
         "image": "https://assetsio.gnwcdn.com/Saros---Pre-Order-Trailer-_-PS5-Games-0-41-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Saros has been made easier than Returnal due to player feedback, though creative director claims its still \"a very challenging game\" - Eurogamer",
         "description": "According to Saros' creative director, the game has been made easier thanks to player complaints around Returnal not having auto saves or multiple save slots.",
         "source_link": "https://www.eurogamer.net/saros-made-easier-than-returnal-creative-director-claims-still-a-very-challenging-game"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://i.insider.com/69c597c7b87081653c9a65bf?width=1200&format=jpeg",
         "title": "Google employees have a new AI tool called 'Agent Smith'. It's so popular that access got restricted. - Business Insider",
         "description": "Google employees are playing with Agent Smith, an autonomous coding agent, as cofounder Sergey Brin pushes an agent-driven future.",
         "source_link": "https://www.businessinsider.com/google-agent-smith-employees-ai-driven-coding-2026-3"
       },
       {
-        "rank": 4,
-        "image": null,
+        "rank": 5,
+        "image": "https://assetsio.gnwcdn.com/Leon-and-Grace-keyart-for-Resident-Evil-Requiem.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "New Resident Evil Requiem patch adds highly-anticipated photo mode feature - Eurogamer",
-        "description": null,
+        "description": "The powers that be at Capcom have released an update for Resident Evil Requiem, which along with other fixes and such also adds photo mode.",
         "source_link": "https://www.eurogamer.net/new-resident-evil-requiem-patch-adds-highly-anticipated-photo-mode-feature"
       },
       {
-        "rank": 5,
+        "rank": 6,
+        "image": "https://www.trueachievements.com/imgs/172992/dispatch-is-finally-coming-to-xbox-series-xs-this-summer.jpg",
+        "title": "Dispatch is finally coming to Xbox with Play Anywhere support this summer - TrueAchievements",
+        "description": "Following its 2025 launches on PS5 and PC, the excellent episodic adventure game Dispatch will launch on Xbox Series X|S later this year.",
+        "source_link": "https://www.trueachievements.com/news/dispatch-xbox-release"
+      },
+      {
+        "rank": 7,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Android-17-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Android 17 Beta 3 starts adding more blur to system UI [Gallery] - 9to5Google",
         "description": "Android 16 introduced translucency to the notification shade and Quick Settings. As rumored, Android 17 Beta 3 continues that blur trend...",
         "source_link": "http://9to5google.com/2026/03/26/android-17-background-blur/"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197065135.jpg?resize=1200,800",
         "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini - TechCrunch",
         "description": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
         "source_link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://images.macrumors.com/t/j7JwmZO3wHEi_7GTEMlb9SowRHc=/2096x/article-new/2026/03/google-translate-updates.jpg",
         "title": "Google Translate Gets Gemini AI for Smarter Translations and Real-Time Headphone Translation - MacRumors",
         "description": "Google is improving its translation features with Gemini integration, adding AI in search and the Google Translate app. Users can expect smarter and...",
         "source_link": "https://www.macrumors.com/2026/03/26/google-translate-gemini-ai/"
       },
       {
-        "rank": 8,
-        "image": "https://www.sciencealert.com/images/2025/11/melanized-fungus.jpg",
-        "title": "Chernobyl Fungus Seems to Have Evolved an Incredible Ability - ScienceAlert",
-        "description": "The Chernobyl exclusion zone may be off-limits to humans, but not to every form of life.",
-        "source_link": "https://www.sciencealert.com/chernobyl-fungus-seems-to-have-evolved-an-incredible-ability"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.neowin.com/news/images/uploaded/2024/07/1721981905_windows_11_story.jpg",
-        "title": "Windows 11 25H2/24H2 get 1000 Hz+ refresh rate support, File Explorer improvements, and more - Neowin",
-        "description": "The March 2026 non-security update for Windows 11 is here with 1000Hz+ display refresh rate support, File Explorer improvements, and other changes.",
-        "source_link": "https://www.neowin.net/news/windows-11-25h224h2-get-1000-hz-refresh-rate-support-file-explorer-improvements-and-more/"
-      },
-      {
         "rank": 10,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKNYybJrQvDk/v1/1200x901.jpg",
-        "title": "Apple Discontinues Mac Pro Desktop in Favor of the Mac Studio - Bloomberg.com",
-        "description": "Apple Inc. on Thursday discontinued the Mac Pro desktop, its highest-end computer aimed at video editors, photographers and other advanced users.",
-        "source_link": "https://www.bloomberg.com/news/articles/2026-03-26/apple-discontinues-mac-pro-desktop-in-favor-of-the-mac-studio"
+        "image": "https://www.windowslatest.com/wp-content/uploads/2026/03/Windows-11-KB5079391-update.jpg",
+        "title": "Windows 11 KB5079391 out with features, direct download links for offline installers (.msu) - Windows Latest",
+        "description": "Windows 11 KB5079391 released with 1000 Hz refresh rate support, ability to turn on or off Smart App Control without reinstall, and more.",
+        "source_link": "https://www.windowslatest.com/2026/03/27/windows-11-kb5079391-update-adds-1000hz-refrest-rate-smart-app-control-changes-explorer-fixes-direct-download-links-msu/"
       }
     ],
     "trending_movies": [
@@ -90,17 +90,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
-        "title": "Send Help",
-        "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
-        "source_link": "https://www.themoviedb.org/movie/1198994"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
         "title": "GOAT",
         "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
         "source_link": "https://www.themoviedb.org/movie/1297842"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
+        "title": "Send Help",
+        "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
+        "source_link": "https://www.themoviedb.org/movie/1198994"
       },
       {
         "rank": 5,
