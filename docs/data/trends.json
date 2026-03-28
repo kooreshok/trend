@@ -1,13 +1,13 @@
 {
-  "last_updated": "March 28, 2026, 06:54 UTC",
+  "last_updated": "March 28, 2026, 07:42 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2261589651.jpg?resize=1200,600",
-        "title": "Exclusive: Anthropic is testing 'Mythos' its 'most powerful AI model ever developed' - Fortune",
-        "description": "Anthropic is testing 'Mythos,\" a previously undisclosed and highly-capable AI model, the company said after accidental data leak reveals model's existence",
-        "source_link": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/"
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2261589216-e1774529882233.jpg?resize=1200,600",
+        "title": "Exclusive: Anthropic left details of an unreleased model, an upcoming exclusive CEO event, in a public database - Fortune",
+        "description": "Anthropic stored information about an upcoming model, draft blog posts, and other private information in an unsecured, publicly-searchable data lake",
+        "source_link": "https://fortune.com/2026/03/26/anthropic-leaked-unreleased-model-exclusive-event-security-issues-cybersecurity-unsecured-data-store/"
       },
       {
         "rank": 2,
@@ -32,34 +32,41 @@
       },
       {
         "rank": 5,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Motorola-Razr-70-Ultra-wide.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Motorola\u2019s next Razr Ultra is even thicker in first leak, and it makes me want to scream - 9to5Google",
-        "description": "Motorola is making its next Razr Ultra even thicker than the last one, despite the trend of slimmer and slimmer foldables.",
-        "source_link": "http://9to5google.com/2026/03/26/motorola-razr-ultra-2026-first-leak-thicker-chassis/"
+        "image": "https://images.macrumors.com/t/ZnWCapdza5uZM08uiZjE7HAH_qI=/2500x/article-new/2023/01/Mac-Pro-Feature-Teal.jpg",
+        "title": "Apple Confirms Mac Pro Is Dead, No Future Models Planned - MacRumors",
+        "description": "Apple has discontinued the Mac Pro and has removed the machine from its website, reports 9to5Mac. Apple said it does not plan to design a new version...",
+        "source_link": "https://www.macrumors.com/2026/03/26/apple-discontinues-mac-pro/"
       },
       {
         "rank": 6,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKNYybJrQvDk/v1/1200x901.jpg",
-        "title": "Apple Discontinues Mac Pro Desktop in Favor of the Mac Studio - Bloomberg.com",
-        "description": "Apple Inc. on Thursday discontinued the Mac Pro desktop, its highest-end computer aimed at video editors, photographers and other advanced users.",
-        "source_link": "https://www.bloomberg.com/news/articles/2026-03-26/apple-discontinues-mac-pro-desktop-in-favor-of-the-mac-studio"
-      },
-      {
-        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ankerqi2lead.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
         "title": "Anker\u2019s wireless charging pad offers Qi2 speeds for $15 - The Verge",
         "description": "During Amazon\u2019s Big Spring Sale, you can snag Anker\u2019s Qi2 wireless charging pad that offers 15W speeds for just $14.99. That\u2019s like a dollar per watt.",
         "source_link": "https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://insider-gaming.com/wp-content/uploads/2026/03/ubisoft-mess.jpg",
         "title": "Ubisoft\u2019s Cost-Cutting Crisis Could Put Its Biggest Games at Risk - Insider Gaming",
         "description": "Ubisoft's cost cutting measures will lead us to getting worse games, with decreased scope and less quality.",
         "source_link": "https://insider-gaming.com/ubisofts-cost-cutting-measures-will-give-us-worse-games/"
       },
       {
+        "rank": 8,
+        "image": "https://s.yimg.com/ny/api/res/1.2/e6fKGdPxO5GWtgx5AHCQEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/bloomberg_holding_pen_162/3df02569e976ff7f11f6d78ba6ad3c54",
+        "title": "Apple Plans to Open Up Siri to Rival AI Assistants in iOS 27 Update - Yahoo Finance",
+        "description": "(Bloomberg) -- Apple Inc. plans to open Siri to outside artificial intelligence assistants, a major move aimed at bolstering the iPhone as an AI platform.The...",
+        "source_link": "https://finance.yahoo.com/sectors/technology/articles/apple-plans-open-siri-rival-182447551.html"
+      },
+      {
         "rank": 9,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQ48NqsihryM/v1/1200x829.jpg",
+        "title": "Google Gemini Adds Tool to Make It Easier to Switch From ChatGPT - Bloomberg.com",
+        "description": "Google released new tools for its Gemini artificial intelligence assistant that will let users upload chat history and context from other AI apps, a move to lure users from rivals like OpenAI\u2019s ChatGPT and Anthropic PBC\u2019s Claude.",
+        "source_link": "https://www.bloomberg.com/news/articles/2026-03-26/google-gemini-adds-tool-to-make-it-easier-to-switch-from-chatgpt"
+      },
+      {
+        "rank": 10,
         "image": "https://indiandefencereview.com/wp-content/uploads/2026/03/student-develops-clear-nail-polish-that-turns-fingernails-into-touchscreen-styluses-scaled.png",
         "title": "Student Develops Clear Nail Polish That Turns Fingernails into Touchscreen Styluses - Indian Defence Review",
         "description": "A chemistry student\u2019s groundbreaking nail polish may soon allow anyone, no matter their hand conditions, to effortlessly use touchscreen devices.",
@@ -83,10 +90,10 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
+        "image": "https://image.tmdb.org/t/p/w200/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
+        "title": "Pretty Lethal",
+        "description": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a d...",
+        "source_link": "https://www.themoviedb.org/movie/1084187"
       },
       {
         "rank": 4,
@@ -97,24 +104,24 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
-        "title": "Pretty Lethal",
-        "description": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a d...",
-        "source_link": "https://www.themoviedb.org/movie/1084187"
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-        "title": "GOAT",
-        "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
-        "source_link": "https://www.themoviedb.org/movie/1297842"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+        "title": "GOAT",
+        "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
+        "source_link": "https://www.themoviedb.org/movie/1297842"
       },
       {
         "rank": 8,
