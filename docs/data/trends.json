@@ -1,69 +1,69 @@
 {
-  "last_updated": "March 28, 2026, 18:34 UTC",
+  "last_updated": "March 28, 2026, 19:26 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Anker-Prime-Charger-160W-3-Ports-Smart-Display-Press-Image.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Anker\u2019s 160W Prime Charger can power three devices at once, and it\u2019s $50 off - The Verge",
+        "description": "Anker\u2019s 160W Prime Charger is down to $99.99 for Amazon\u2019s Big Spring Sale. The USB-C charger can power up three devices at once, including beefier laptops.",
+        "source_link": "https://www.theverge.com/gadgets/902130/anker-prime-charger-160w-usb-c-amazon-big-spring-sale-2026-deal"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/03/27/SlapMac-the-moaning-app.jpg",
+        "title": "App that makes your Mac \u201cmoan\u201d goes viral after earning $5K in 3 days - Dexerto",
+        "description": "A Mac app that \u201cmoans\u201d when you slap your laptop has gone viral online, with its creator claiming it pulled in thousands of dollars just days after launch.",
+        "source_link": "https://www.dexerto.com/entertainment/app-that-makes-your-mac-moan-goes-viral-after-earning-5k-in-3-days-3341909/"
+      },
+      {
+        "rank": 3,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKkl_cFXasIE/v0/1200x800.jpg",
+        "title": "It Sucks to Work in the Video-Game Industry Right Now - Bloomberg.com",
+        "description": "Even developers who successfully release big hits, like Fortnite and Battlefield , are losing their jobs",
+        "source_link": "https://www.bloomberg.com/news/newsletters/2026-03-27/epic-layoffs-are-a-symptom-of-deeper-video-game-industry-problems"
+      },
+      {
+        "rank": 4,
+        "image": "https://images.digitalfoundry.net/af3cacd151901/large.jpg",
+        "title": "Review: Crimson Desert PC: Changing Just One Setting Dramatically Boosts Frame-Rate - Digital Foundry",
+        "description": "The optimised settings collection.",
+        "source_link": "https://www.digitalfoundry.net/news/2026/03/review-crimson-desert-pc-changing-just-one-setting-dramatically-boosts-frame-rate"
+      },
+      {
+        "rank": 5,
+        "image": "https://assetsio.gnwcdn.com/Artwork-for-Zelda-Ocarina-of-Time-showing-Link-and-Sheik-fighting-off-enemy-hordes.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "All-new Star Fox and Zelda: Ocarina of Time remake reportedly set for Switch 2 release this year - Eurogamer",
+        "description": "Nintendo reportedly has great plans to tap into (and benefit from) our nostalgia this year.",
+        "source_link": "https://www.eurogamer.net/all-new-star-fox-and-zelda-ocarina-of-time-remake-reportedly-set-for-switch-2-release-this-year"
+      },
+      {
+        "rank": 6,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Mac-Pro-main-view-scaled-1-1152x648-1774591771.jpg",
         "title": "Apple has finally discontinued the Mac Pro desktop after years of fitful effort - Ars Technica",
         "description": "M2 Ultra Mac Pro is no longer for sale, and Apple says no replacement is planned.",
         "source_link": "https://arstechnica.com/gadgets/2026/03/apple-has-finally-discontinued-the-mac-pro-desktop-after-years-of-fitful-effort/"
       },
       {
-        "rank": 2,
+        "rank": 7,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "All iPhone 18 models might offer key design change, per leaker - 9to5Mac",
         "description": "A new leak indicates that one of iPhone 18 Pro\u2019s rumored design changes\u2014a smaller Dynamic Island\u2014will apply to more iPhone 18 models too.",
         "source_link": "https://9to5mac.com/2026/03/27/all-iphone-18-models-might-offer-key-design-change-per-leaker/"
       },
       {
-        "rank": 3,
-        "image": "https://kotaku.com/app/uploads/2026/03/The-Expanse-Osiris-Reborn-official-image-from-Steam-Owlcat-Games-1200x675.jpg",
-        "title": "Expanse: Osiris Reborn Dev Defends Using Gen AI For The RPG - Kotaku",
-        "description": "Owlcat Games confirmed that their upcoming Mass Effect-like RPG is being developed with some help from generative AI",
-        "source_link": "https://kotaku.com/expanse-osiris-genai-sci-fi-rpg-mass-effect-owlcat-2000682315"
+        "rank": 8,
+        "image": "https://image.cnbcfm.com/api/v1/image/107283162-1691491519512-gettyimages-1580920005-porzycki-playstat230806_nph3Q.jpeg?v=1755718347&w=1920&h=1080",
+        "title": "Sony hikes PS5 prices by up to $150 citing 'pressures' in global economy - CNBC",
+        "description": "Sony, like other console makers, is contending with surging memory chip prices which have forced the company to raise prices.",
+        "source_link": "https://www.cnbc.com/2026/03/27/sony-playstation-5-ps5-price-rise.html"
       },
       {
-        "rank": 4,
+        "rank": 9,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Wi-Fi-toggle-in-Android-17-v1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Android 17 Beta 3 finally restores the single tap Wi-Fi toggle - 9to5Google",
         "description": "Google has decided to restore the ability to enable and disable Wi-Fi connections with a single tap of the QS toggle in Android 17 Beta 3.",
         "source_link": "http://9to5google.com/2026/03/27/android-17-beta-3-finally-restores-the-single-tap-wi-fi-toggle/"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/03/Blue-Reflection-Quartet-Announced_03-27-26.jpg",
-        "title": "Blue Reflection Quartet announced for PS5, Switch 2, Switch, and PC - Gematsu",
-        "description": "Publisher Koei Tecmo and developer Gust have announced Blue Reflection series collection Blue Reflection Quartet for PlayStation 5, Switch 2, Switch, and PC (Steam), including console remakes of th\u2026",
-        "source_link": "https://www.gematsu.com/2026/03/blue-reflection-quartet-announced-for-ps5-switch-2-switch-and-pc"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22015306/vpavic_4278_20201030_0292.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Sony is raising PS5 prices by $100 in April - The Verge",
-        "description": "Sony is raising the prices across all of its PS5 models, with the standard version costing $649.99 instead of $549.99.",
-        "source_link": "https://www.theverge.com/games/902224/sony-ps5-playstation-price-hike"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/Saros---Pre-Order-Trailer-_-PS5-Games-0-41-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Saros has been made easier than Returnal due to player feedback, though creative director claims its still \"a very challenging game\" - Eurogamer",
-        "description": "According to Saros' creative director, the game has been made easier thanks to player complaints around Returnal not having auto saves or multiple save slots.",
-        "source_link": "https://www.eurogamer.net/saros-made-easier-than-returnal-creative-director-claims-still-a-very-challenging-game"
-      },
-      {
-        "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/Leon-and-Grace-keyart-for-Resident-Evil-Requiem.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "New Resident Evil Requiem patch adds highly-anticipated photo mode feature - Eurogamer",
-        "description": "The powers that be at Capcom have released an update for Resident Evil Requiem, which along with other fixes and such also adds photo mode.",
-        "source_link": "https://www.eurogamer.net/new-resident-evil-requiem-patch-adds-highly-anticipated-photo-mode-feature"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.trueachievements.com/imgs/172992/dispatch-is-finally-coming-to-xbox-series-xs-this-summer.jpg",
-        "title": "Dispatch is finally coming to Xbox with Play Anywhere support this summer - TrueAchievements",
-        "description": "Following its 2025 launches on PS5 and PC, the excellent episodic adventure game Dispatch will launch on Xbox Series X|S later this year.",
-        "source_link": "https://www.trueachievements.com/news/dispatch-xbox-release"
       }
     ],
     "trending_movies": [
@@ -104,38 +104,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/olk6MkfHFWEpWmhQn6Mb4jNqspm.jpg",
-        "title": "53 Sundays",
-        "description": "Three siblings get together to decide what to do with their 86\u2011year\u2011old father, who has started behaving in a very peculiar way. Should they move him ...",
-        "source_link": "https://www.themoviedb.org/movie/1276704"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
-        "title": "Peaky Blinders: The Immortal Man",
-        "description": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family \u2014 and his nation...",
-        "source_link": "https://www.themoviedb.org/movie/875828"
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/olk6MkfHFWEpWmhQn6Mb4jNqspm.jpg",
+        "title": "53 Sundays",
+        "description": "Three siblings get together to decide what to do with their 86\u2011year\u2011old father, who has started behaving in a very peculiar way. Should they move him ...",
+        "source_link": "https://www.themoviedb.org/movie/1276704"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
         "title": "Shelter",
         "description": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of ...",
         "source_link": "https://www.themoviedb.org/movie/1290821"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/q3ROA6OqVA9rWSsC2DzdkPQvxWW.jpg",
+        "title": "The Red Line",
+        "description": "Three women fall prey to a ruthless phone scam. To settle the score, they'll take on the criminal network that stole their money \u2014 and their dignity....",
+        "source_link": "https://www.themoviedb.org/movie/1630433"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg",
-        "title": "BTS: THE RETURN",
-        "description": "They're back! BTS gathers in LA to record their album \"Arirang\" in this documentary offering unprecedented access to the band as they enter a new era....",
-        "source_link": "https://www.themoviedb.org/movie/1628116"
+        "image": "https://image.tmdb.org/t/p/w200/rBZA12Hf4yZZgud6iPuFU49L7zk.jpg",
+        "title": "Wardriver",
+        "description": "He\u2019s a Wardriver: a hacker who steals from banks, not people\u2014until he\u2019s noticed. Now the money turns violent, and the woman caught in it could save hi...",
+        "source_link": "https://www.themoviedb.org/movie/938150"
       }
     ]
   }
