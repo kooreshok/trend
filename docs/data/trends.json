@@ -1,41 +1,41 @@
 {
-  "last_updated": "March 28, 2026, 04:17 UTC",
+  "last_updated": "March 28, 2026, 05:53 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2261589651.jpg?resize=1200,600",
+        "title": "Exclusive: Anthropic is testing 'Mythos' its 'most powerful AI model ever developed' - Fortune",
+        "description": "Anthropic is testing 'Mythos,\" a previously undisclosed and highly-capable AI model, the company said after accidental data leak reveals model's existence",
+        "source_link": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/"
+      },
+      {
+        "rank": 2,
         "image": "https://nintendoeverything.com/wp-content/uploads/Devil-May-Cry-5-Switch-2.jpg",
         "title": "Devil May Cry 5 seemingly coming to Nintendo Switch 2, getting new Devil Hunter Edition - Nintendo Everything",
         "description": "Devil May Cry 5 has apparently been leaked for Nintendo Switch 2 with the console getting a new Devil Hunter Edition.",
         "source_link": "https://nintendoeverything.com/devil-may-cry-5-seemingly-coming-to-nintendo-switch-2-getting-new-devil-hunter-edition/"
       },
       {
-        "rank": 2,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197065135.jpg?resize=1200,800",
-        "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini - TechCrunch",
-        "description": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
-        "source_link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/"
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Android-17-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Android 17 Beta 3 starts adding more blur to system UI [Gallery] - 9to5Google",
+        "description": "Android 16 introduced translucency to the notification shade and Quick Settings. As rumored, Android 17 Beta 3 continues that blur trend...",
+        "source_link": "http://9to5google.com/2026/03/26/android-17-background-blur/"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://www.sciencealert.com/images/2025/11/melanized-fungus.jpg",
         "title": "Chernobyl Fungus Seems to Have Evolved an Incredible Ability - ScienceAlert",
         "description": "The Chernobyl exclusion zone may be off-limits to humans, but not to every form of life.",
         "source_link": "https://www.sciencealert.com/chernobyl-fungus-seems-to-have-evolved-an-incredible-ability"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Motorola-Razr-70-Ultra-wide.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Motorola\u2019s next Razr Ultra is even thicker in first leak, and it makes me want to scream - 9to5Google",
         "description": "Motorola is making its next Razr Ultra even thicker than the last one, despite the trend of slimmer and slimmer foldables.",
         "source_link": "http://9to5google.com/2026/03/26/motorola-razr-ultra-2026-first-leak-thicker-chassis/"
-      },
-      {
-        "rank": 5,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Android-17-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Multitasking \u2018Bubbles\u2019 now live in Android 17 Beta 3 update - 9to5Google",
-        "description": "It might be unfair to say that Android 17 Beta 3\u2019s Bubbles are a new feature, but the premise has...",
-        "source_link": "http://9to5google.com/2026/03/26/android-17-beta-3-adds-bubbles/"
       },
       {
         "rank": 6,
@@ -64,13 +64,6 @@
         "title": "Student Develops Clear Nail Polish That Turns Fingernails into Touchscreen Styluses - Indian Defence Review",
         "description": "A chemistry student\u2019s groundbreaking nail polish may soon allow anyone, no matter their hand conditions, to effortlessly use touchscreen devices.",
         "source_link": "https://indiandefencereview.com/clear-nail-polish-fingernail-into-stylus/"
-      },
-      {
-        "rank": 10,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/08/google-translate.jpg?resize=1200,800",
-        "title": "Google Translate\u2019s real-time headphone translations feature expands to iOS and more countries - TechCrunch",
-        "description": "The real-time headphone translations experience keeps each speaker\u2019s tone, emphasis, and cadence intact, so it\u2019s easier to follow the conversation and tell who\u2019s saying what.",
-        "source_link": "https://techcrunch.com/2026/03/26/google-translates-real-time-headphone-translations-feature-expands-to-ios-and-more-countries/"
       }
     ],
     "trending_movies": [
@@ -104,17 +97,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
         "title": "Pretty Lethal",
         "description": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a d...",
         "source_link": "https://www.themoviedb.org/movie/1084187"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
         "rank": 7,
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
+        "image": "https://image.tmdb.org/t/p/w200/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
+        "title": "Shelter",
+        "description": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of ...",
+        "source_link": "https://www.themoviedb.org/movie/1290821"
       }
     ]
   }
