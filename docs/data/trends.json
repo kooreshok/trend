@@ -1,69 +1,76 @@
 {
-  "last_updated": "March 28, 2026, 10:27 UTC",
+  "last_updated": "March 28, 2026, 11:24 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/google-pixel-charging-optimization.jpg",
-        "title": "Android 17 Beta 3 reveals Google is testing a new 'Priority Charging' feature (APK teardown) - Android Authority",
-        "description": "Android 17 Beta 3 includes hidden code for a new \"Priority Charging\" feature that pauses background activity to speed up charging.",
-        "source_link": "https://www.androidauthority.com/android-17-beta-3-priority-charging-3652492/"
+        "image": "https://assets-prd.ignimgs.com/2024/11/07/untitled-design-1-1730992204967.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "PS5, PS5 Pro, and PlayStation Portal Price Rises Confirmed - IGN",
+        "description": "Sony has announced price rises for PS5, PS5 Pro, and PlayStation Portal, blaming \u201ccontinued pressures in the global economic landscape.\u201d",
+        "source_link": "https://www.ign.com/articles/sony-announces-price-rises-for-ps5-ps5-pro-and-playstation-portal-blames-continued-pressures-in-the-global-economic-landscape"
       },
       {
         "rank": 2,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Devil-May-Cry-5-Switch-2.jpg",
-        "title": "Devil May Cry 5 seemingly coming to Nintendo Switch 2, getting new Devil Hunter Edition - Nintendo Everything",
-        "description": "Devil May Cry 5 has apparently been leaked for Nintendo Switch 2 with the console getting a new Devil Hunter Edition.",
-        "source_link": "https://nintendoeverything.com/devil-may-cry-5-seemingly-coming-to-nintendo-switch-2-getting-new-devil-hunter-edition/"
+        "image": "https://assetsio.gnwcdn.com/Saros---Pre-Order-Trailer-_-PS5-Games-0-41-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Saros has been made easier than Returnal due to player feedback, though creative director claims its still \"a very challenging game\" - Eurogamer",
+        "description": "According to Saros' creative director, the game has been made easier thanks to player complaints around Returnal not having auto saves or multiple save slots.",
+        "source_link": "https://www.eurogamer.net/saros-made-easier-than-returnal-creative-director-claims-still-a-very-challenging-game"
       },
       {
         "rank": 3,
+        "image": "https://i.insider.com/69c597c7b87081653c9a65bf?width=1200&format=jpeg",
+        "title": "Google employees have a new AI tool called 'Agent Smith'. It's so popular that access got restricted. - Business Insider",
+        "description": "Google employees are playing with Agent Smith, an autonomous coding agent, as cofounder Sergey Brin pushes an agent-driven future.",
+        "source_link": "https://www.businessinsider.com/google-agent-smith-employees-ai-driven-coding-2026-3"
+      },
+      {
+        "rank": 4,
+        "image": null,
+        "title": "New Resident Evil Requiem patch adds highly-anticipated photo mode feature - Eurogamer",
+        "description": null,
+        "source_link": "https://www.eurogamer.net/new-resident-evil-requiem-patch-adds-highly-anticipated-photo-mode-feature"
+      },
+      {
+        "rank": 5,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Android-17-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Android 17 Beta 3 starts adding more blur to system UI [Gallery] - 9to5Google",
+        "description": "Android 16 introduced translucency to the notification shade and Quick Settings. As rumored, Android 17 Beta 3 continues that blur trend...",
+        "source_link": "http://9to5google.com/2026/03/26/android-17-background-blur/"
+      },
+      {
+        "rank": 6,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197065135.jpg?resize=1200,800",
+        "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini - TechCrunch",
+        "description": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
+        "source_link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/"
+      },
+      {
+        "rank": 7,
+        "image": "https://images.macrumors.com/t/j7JwmZO3wHEi_7GTEMlb9SowRHc=/2096x/article-new/2026/03/google-translate-updates.jpg",
+        "title": "Google Translate Gets Gemini AI for Smarter Translations and Real-Time Headphone Translation - MacRumors",
+        "description": "Google is improving its translation features with Gemini integration, adding AI in search and the Google Translate app. Users can expect smarter and...",
+        "source_link": "https://www.macrumors.com/2026/03/26/google-translate-gemini-ai/"
+      },
+      {
+        "rank": 8,
         "image": "https://www.sciencealert.com/images/2025/11/melanized-fungus.jpg",
         "title": "Chernobyl Fungus Seems to Have Evolved an Incredible Ability - ScienceAlert",
         "description": "The Chernobyl exclusion zone may be off-limits to humans, but not to every form of life.",
         "source_link": "https://www.sciencealert.com/chernobyl-fungus-seems-to-have-evolved-an-incredible-ability"
       },
       {
-        "rank": 4,
+        "rank": 9,
         "image": "https://cdn.neowin.com/news/images/uploaded/2024/07/1721981905_windows_11_story.jpg",
         "title": "Windows 11 25H2/24H2 get 1000 Hz+ refresh rate support, File Explorer improvements, and more - Neowin",
         "description": "The March 2026 non-security update for Windows 11 is here with 1000Hz+ display refresh rate support, File Explorer improvements, and other changes.",
         "source_link": "https://www.neowin.net/news/windows-11-25h224h2-get-1000-hz-refresh-rate-support-file-explorer-improvements-and-more/"
       },
       {
-        "rank": 5,
+        "rank": 10,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKNYybJrQvDk/v1/1200x901.jpg",
         "title": "Apple Discontinues Mac Pro Desktop in Favor of the Mac Studio - Bloomberg.com",
         "description": "Apple Inc. on Thursday discontinued the Mac Pro desktop, its highest-end computer aimed at video editors, photographers and other advanced users.",
         "source_link": "https://www.bloomberg.com/news/articles/2026-03-26/apple-discontinues-mac-pro-desktop-in-favor-of-the-mac-studio"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ankerqi2lead.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-        "title": "Anker\u2019s wireless charging pad offers Qi2 speeds for $15 - The Verge",
-        "description": "During Amazon\u2019s Big Spring Sale, you can snag Anker\u2019s Qi2 wireless charging pad that offers 15W speeds for just $14.99. That\u2019s like a dollar per watt.",
-        "source_link": "https://www.theverge.com/gadgets/901836/anker-qi2-wireless-charging-iphone-magsafe-amazon-big-spring-sale-2026-deal"
-      },
-      {
-        "rank": 7,
-        "image": "https://insider-gaming.com/wp-content/uploads/2026/03/ubisoft-mess.jpg",
-        "title": "Ubisoft\u2019s Cost-Cutting Crisis Could Put Its Biggest Games at Risk - Insider Gaming",
-        "description": "Ubisoft's cost cutting measures will lead us to getting worse games, with decreased scope and less quality.",
-        "source_link": "https://insider-gaming.com/ubisofts-cost-cutting-measures-will-give-us-worse-games/"
-      },
-      {
-        "rank": 8,
-        "image": "https://indiandefencereview.com/wp-content/uploads/2026/03/student-develops-clear-nail-polish-that-turns-fingernails-into-touchscreen-styluses-scaled.png",
-        "title": "Student Develops Clear Nail Polish That Turns Fingernails into Touchscreen Styluses - Indian Defence Review",
-        "description": "A chemistry student\u2019s groundbreaking nail polish may soon allow anyone, no matter their hand conditions, to effortlessly use touchscreen devices.",
-        "source_link": "https://indiandefencereview.com/clear-nail-polish-fingernail-into-stylus/"
-      },
-      {
-        "rank": 9,
-        "image": "https://assets-prd.ignimgs.com/2026/03/26/c4sh-1774536132954.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "'Come Back for the Adventure' \u2014 After a Turbulent 6 Months, Borderlands 4 Gets Its First Big DLC, and Gearbox Hopes Lapsed Fans Return for It - IGN",
-        "description": "IGN interviews Gearbox on Borderlands 4's first Story Pack DLC: Mad Ellie and the Vault of the Damned.",
-        "source_link": "https://www.ign.com/articles/come-back-for-the-adventure-after-a-turbulent-6-months-borderlands-4-gets-its-first-big-dlc-and-gearbox-hopes-lapsed-fans-return-for-it"
       }
     ],
     "trending_movies": [
@@ -76,17 +83,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
-        "title": "Send Help",
-        "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
-        "source_link": "https://www.themoviedb.org/movie/1198994"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
+        "title": "Send Help",
+        "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
+        "source_link": "https://www.themoviedb.org/movie/1198994"
       },
       {
         "rank": 4,
