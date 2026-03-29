@@ -1,69 +1,69 @@
 {
-  "last_updated": "March 28, 2026, 23:26 UTC",
+  "last_updated": "March 29, 2026, 02:03 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/wofl3d-1.jpg",
+        "title": "Playing Wolfenstein 3D with one hand in 2026 - Ars Technica",
+        "description": "Over three decades later, this historical curiosity has more than a few rough edges...",
+        "source_link": "https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.macrumors.com/t/bk2N_fO8Kkb58OMudH1Nzd1LgGI=/2048x/article-new/2026/01/Apple-Event-Logo.jpeg",
+        "title": "Apple to Launch These 15+ New Products Later This Year - MacRumors",
+        "description": "March has been an incredibly busy month for Apple, with the company unveiling more than 10 new products and accessories. We said hello to the MacBook...",
+        "source_link": "https://www.macrumors.com/2026/03/27/apple-to-launch-15-products-later-this-year/"
+      },
+      {
+        "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2026/03/41196534651_b504403934_o-1200x675.jpg",
+        "title": "I Finally Tried Dark Souls And It's Even Better Than Everyone Said - Kotaku",
+        "description": "I was afraid to try it and now I'm so sad it's over",
+        "source_link": "https://kotaku.com/dark-souls-rpg-nostalgia-taurus-demon-2000682716"
+      },
+      {
+        "rank": 4,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Gemini redesigning glow on Android, rolls out free Personal Intelligence & Memory - 9to5Google",
         "description": "Google has a few other Gemini app updates, starting with Personal Intelligence seeing wide US availability.",
         "source_link": "http://9to5google.com/2026/03/27/gemini-free-personal-intelligence-rollout/"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://kotaku.com/app/uploads/2026/03/Screenshot-2026-03-18-152249-e1773861953538-1200x675.jpg",
         "title": "Slay The Spire 2 Reverts Controversial Nerf As Devs Get More Detailed About What\u2019s Changing And Why - Kotaku",
         "description": "Developer Mega Crit specifically stated that the in-game feedback tool, and not the review bombing on Steam, was 'instrumental in helping guide' the changes",
         "source_link": "https://kotaku.com/slay-spire-2-patch-notes-nerf-infinite-combo-silent-2000682645"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Anker-Prime-Charger-160W-3-Ports-Smart-Display-Press-Image.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Anker\u2019s 160W Prime Charger can power three devices at once, and it\u2019s $50 off - The Verge",
         "description": "Anker\u2019s 160W Prime Charger is down to $99.99 for Amazon\u2019s Big Spring Sale. The USB-C charger can power up three devices at once, including beefier laptops.",
         "source_link": "https://www.theverge.com/gadgets/902130/anker-prime-charger-160w-usb-c-amazon-big-spring-sale-2026-deal"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/MCV_TinyTakeover_CommunityChallenge1_dotNET_1170x500.jpg",
         "title": "Which tiny will take over? - Minecraft",
         "description": "Take on the first of two challenges in the Tiny Takeover drop and earn adorable rewards together! Choose a side: land or water! Then name as many baby mobs you can on land OR in water using name tags between Mar 27, 8 AM PT to Mar 30, 10 AM PT!",
         "source_link": "https://www.minecraft.net/en-us/article/which-tiny-will-take-over-"
       },
       {
-        "rank": 5,
-        "image": "https://s.yimg.com/os/en/reuters.com/c647557470e70a75515c34392c64fb50",
-        "title": "Apple hires ex-Google executive to head AI marketing amid push to improve Siri - ca.finance.yahoo.com",
-        "description": "SAN FRANCISCO, March 27 (Reuters) - Apple on Friday said it has hired Lilian Rincon, who previously spent nearly a decade at Google overseeing its shopping...",
-        "source_link": "https://ca.finance.yahoo.com/news/apple-hires-ex-google-executive-174159936.html"
-      },
-      {
-        "rank": 6,
+        "rank": 8,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKkl_cFXasIE/v0/1200x800.jpg",
         "title": "It Sucks to Work in the Video-Game Industry Right Now - Bloomberg.com",
         "description": "Even developers who successfully release big hits, like Fortnite and Battlefield , are losing their jobs",
         "source_link": "https://www.bloomberg.com/news/newsletters/2026-03-27/epic-layoffs-are-a-symptom-of-deeper-video-game-industry-problems"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://images.digitalfoundry.net/af3cacd151901/large.jpg",
         "title": "Review: Crimson Desert PC: Changing Just One Setting Dramatically Boosts Frame-Rate - Digital Foundry",
         "description": "The optimised settings collection.",
         "source_link": "https://www.digitalfoundry.net/news/2026/03/review-crimson-desert-pc-changing-just-one-setting-dramatically-boosts-frame-rate"
-      },
-      {
-        "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/Artwork-for-Zelda-Ocarina-of-Time-showing-Link-and-Sheik-fighting-off-enemy-hordes.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "All-new Star Fox and Zelda: Ocarina of Time remake reportedly set for Switch 2 release this year - Eurogamer",
-        "description": "Nintendo reportedly has great plans to tap into (and benefit from) our nostalgia this year.",
-        "source_link": "https://www.eurogamer.net/all-new-star-fox-and-zelda-ocarina-of-time-remake-reportedly-set-for-switch-2-release-this-year"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.purexbox.com/c52a255e001c6/large.jpg",
-        "title": "Microsoft Issues Statement On Why 'This Is An Xbox' Campaign Has Been Retired - Pure Xbox",
-        "description": "MS spokesperson confirms it's been nixed by the new Xbox boss",
-        "source_link": "https://www.purexbox.com/news/2026/03/microsoft-issues-statement-on-why-this-is-an-xbox-campaign-has-been-retired"
       }
     ],
     "trending_movies": [
@@ -97,38 +97,38 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
-        "title": "Pretty Lethal",
-        "description": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a d...",
-        "source_link": "https://www.themoviedb.org/movie/1084187"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/olk6MkfHFWEpWmhQn6Mb4jNqspm.jpg",
-        "title": "53 Sundays",
-        "description": "Three siblings get together to decide what to do with their 86\u2011year\u2011old father, who has started behaving in a very peculiar way. Should they move him ...",
-        "source_link": "https://www.themoviedb.org/movie/1276704"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
+        "title": "Pretty Lethal",
+        "description": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a d...",
+        "source_link": "https://www.themoviedb.org/movie/1084187"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/olk6MkfHFWEpWmhQn6Mb4jNqspm.jpg",
+        "title": "53 Sundays",
+        "description": "Three siblings get together to decide what to do with their 86\u2011year\u2011old father, who has started behaving in a very peculiar way. Should they move him ...",
+        "source_link": "https://www.themoviedb.org/movie/1276704"
+      },
+      {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+        "title": "Scream 7",
+        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
+        "source_link": "https://www.themoviedb.org/movie/1159559"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/q3ROA6OqVA9rWSsC2DzdkPQvxWW.jpg",
         "title": "The Red Line",
         "description": "Three women fall prey to a ruthless phone scam. To settle the score, they'll take on the criminal network that stole their money \u2014 and their dignity....",
         "source_link": "https://www.themoviedb.org/movie/1630433"
-      },
-      {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
-        "title": "Shelter",
-        "description": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of ...",
-        "source_link": "https://www.themoviedb.org/movie/1290821"
       },
       {
         "rank": 10,
