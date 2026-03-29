@@ -1,5 +1,5 @@
 {
-  "last_updated": "March 29, 2026, 14:30 UTC",
+  "last_updated": "March 29, 2026, 15:27 UTC",
   "categories": {
     "tech_news": [
       {
@@ -83,17 +83,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
-        "title": "Mike & Nick & Nick & Alice",
-        "description": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn\u2019t enough, there\u2019s one wild ingredient ad...",
-        "source_link": "https://www.themoviedb.org/movie/1115544"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+        "title": "Mike & Nick & Nick & Alice",
+        "description": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn\u2019t enough, there\u2019s one wild ingredient ad...",
+        "source_link": "https://www.themoviedb.org/movie/1115544"
       },
       {
         "rank": 4,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
-        "title": "Pretty Lethal",
-        "description": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a d...",
-        "source_link": "https://www.themoviedb.org/movie/1084187"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
+        "title": "Pretty Lethal",
+        "description": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a d...",
+        "source_link": "https://www.themoviedb.org/movie/1084187"
       }
     ]
   }
