@@ -1,41 +1,41 @@
 {
-  "last_updated": "March 29, 2026, 06:58 UTC",
+  "last_updated": "March 29, 2026, 07:53 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://images.nintendolife.com/507550ad6c1fb/large.jpg",
-        "title": "Video: Super Mario Bros. Wonder Side-By-Side Graphics Comparison (Switch & Switch 2) - Nintendo Life",
-        "description": "Spot the difference",
-        "source_link": "https://www.nintendolife.com/news/2026/03/video-super-mario-bros-wonder-side-by-side-graphics-comparison-switch-and-switch-2"
-      },
-      {
-        "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/sony2.jpg?quality=90&strip=all&crop=0,10.689643216255,100,78.620713567491",
-        "title": "Sony temporarily suspends memory card sales due to shortages - The Verge",
-        "description": "\ufeffSony Japan stopped accepting SD and CFexpress card orders from dealers and consumers today.",
-        "source_link": "https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage"
-      },
-      {
-        "rank": 3,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/wofl3d-1.jpg",
         "title": "Playing Wolfenstein 3D with one hand in 2026 - Ars Technica",
         "description": "Over three decades later, this historical curiosity has more than a few rough edges...",
         "source_link": "https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/"
       },
       {
+        "rank": 2,
+        "image": "https://www.windowslatest.com/wp-content/uploads/2026/03/Windows-11-apps-in-the-Start-menu.jpg",
+        "title": "Microsoft plans to build 100% native apps for Windows 11, as web apps ruin the OS experience - Windows Latest",
+        "description": "Microsoft has confirmed it will build 100% native apps for Windows 11 and form a new team to spearhead the project.",
+        "source_link": "https://www.windowslatest.com/2026/03/28/microsoft-plans-to-build-100-native-apps-for-windows-11-as-web-apps-ruin-the-os-experience/"
+      },
+      {
+        "rank": 3,
+        "image": null,
+        "title": "Android 17 Could Introduce \u201cPriority Charging\u201d Feature - droid-life.com",
+        "description": "Android 17 Beta 3 is packed with new features, some of which are hidden. Priority Charging is one that Pixel devices might soon get.",
+        "source_link": "https://www.droid-life.com/2026/03/27/android-17-priority-charging-feature/"
+      },
+      {
         "rank": 4,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Gemini redesigning glow on Android, rolls out free Personal Intelligence & Memory - 9to5Google",
+        "description": "Google has a few other Gemini app updates, starting with Personal Intelligence seeing wide US availability.",
+        "source_link": "http://9to5google.com/2026/03/27/gemini-free-personal-intelligence-rollout/"
+      },
+      {
+        "rank": 5,
         "image": "https://images.purexbox.com/c52a255e001c6/large.jpg",
         "title": "Microsoft Issues Statement On Why 'This Is An Xbox' Campaign Has Been Retired - purexbox.com",
         "description": "MS spokesperson confirms it's been nixed by the new Xbox boss",
         "source_link": "https://www.purexbox.com/news/2026/03/microsoft-issues-statement-on-why-this-is-an-xbox-campaign-has-been-retired"
-      },
-      {
-        "rank": 5,
-        "image": "https://kotaku.com/app/uploads/2026/03/Screenshot-2026-03-18-152249-e1773861953538-1200x675.jpg",
-        "title": "Slay The Spire 2 Reverts Controversial Nerf As Devs Get More Detailed About What\u2019s Changing And Why - Kotaku",
-        "description": "Developer Mega Crit specifically stated that the in-game feedback tool, and not the review bombing on Steam, was 'instrumental in helping guide' the changes",
-        "source_link": "https://kotaku.com/slay-spire-2-patch-notes-nerf-infinite-combo-silent-2000682645"
       },
       {
         "rank": 6,
@@ -60,17 +60,10 @@
       },
       {
         "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/Artwork-for-Zelda-Ocarina-of-Time-showing-Link-and-Sheik-fighting-off-enemy-hordes.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "All-new Star Fox and Zelda: Ocarina of Time remake reportedly set for Switch 2 release this year - Eurogamer",
-        "description": "Nintendo reportedly has great plans to tap into (and benefit from) our nostalgia this year.",
-        "source_link": "https://www.eurogamer.net/all-new-star-fox-and-zelda-ocarina-of-time-remake-reportedly-set-for-switch-2-release-this-year"
-      },
-      {
-        "rank": 10,
-        "image": "https://assetsio.gnwcdn.com/Dispatch's-Invisigal-and-Robert-looking-at-each-other-very-closely-in-the-face.-He-is-shirtless-and-bruised.-She-is-in-a-pink-jacket.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Don't worry, Dispatch isn't going to be censored on Xbox - Eurogamer",
-        "description": "Dispatch won't be censored by default on Xbox, AdHoc has confirmed.",
-        "source_link": "https://www.eurogamer.net/dont-worry-dispatch-isnt-going-to-be-censored-on-xbox"
+        "image": "https://assetsio.gnwcdn.com/slaythespire2-silent.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Slay the Spire 2's 'anti-infinite' balance patch has now itself been patched, much to the relief of some Silent and Necrobinder players - Rock Paper Shotgun",
+        "description": "Mega Crit have reverted some of the Slay the Spire 2 beta card nerfs that made Silent and Necrobinder players mad, while making the Doormaker boss less random.",
+        "source_link": "https://www.rockpapershotgun.com/slay-the-spire-2s-anti-infinite-balance-patch-has-now-itself-been-patched-much-to-the-relief-of-some-silent-and-necrobinder-players"
       }
     ],
     "trending_movies": [
@@ -90,10 +83,10 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
+        "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+        "title": "GOAT",
+        "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
+        "source_link": "https://www.themoviedb.org/movie/1297842"
       },
       {
         "rank": 4,
@@ -104,10 +97,10 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-        "title": "GOAT",
-        "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
-        "source_link": "https://www.themoviedb.org/movie/1297842"
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
         "rank": 6,
@@ -118,17 +111,17 @@
       },
       {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/olk6MkfHFWEpWmhQn6Mb4jNqspm.jpg",
         "title": "53 Sundays",
         "description": "Three siblings get together to decide what to do with their 86\u2011year\u2011old father, who has started behaving in a very peculiar way. Should they move him ...",
         "source_link": "https://www.themoviedb.org/movie/1276704"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/q3ROA6OqVA9rWSsC2DzdkPQvxWW.jpg",
-        "title": "The Red Line",
-        "description": "Three women fall prey to a ruthless phone scam. To settle the score, they'll take on the criminal network that stole their money \u2014 and their dignity....",
-        "source_link": "https://www.themoviedb.org/movie/1630433"
       },
       {
         "rank": 9,
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/vxMeKC7o5Gi8IHMi6lUgsdprTqv.jpg",
-        "title": "How to Make a Killing",
-        "description": "Disowned at birth by his obscenely wealthy family, blue-collar Becket Redfellow will stop at nothing to reclaim his inheritance, no matter how many re...",
-        "source_link": "https://www.themoviedb.org/movie/467905"
+        "image": "https://image.tmdb.org/t/p/w200/q3ROA6OqVA9rWSsC2DzdkPQvxWW.jpg",
+        "title": "The Red Line",
+        "description": "Three women fall prey to a ruthless phone scam. To settle the score, they'll take on the criminal network that stole their money \u2014 and their dignity....",
+        "source_link": "https://www.themoviedb.org/movie/1630433"
       }
     ]
   }
