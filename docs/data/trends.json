@@ -1,34 +1,34 @@
 {
-  "last_updated": "March 29, 2026, 02:03 UTC",
+  "last_updated": "March 29, 2026, 05:06 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/507550ad6c1fb/large.jpg",
+        "title": "Video: Super Mario Bros. Wonder Side-By-Side Graphics Comparison (Switch & Switch 2) - Nintendo Life",
+        "description": "Spot the difference",
+        "source_link": "https://www.nintendolife.com/news/2026/03/video-super-mario-bros-wonder-side-by-side-graphics-comparison-switch-and-switch-2"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/sony2.jpg?quality=90&strip=all&crop=0,10.689643216255,100,78.620713567491",
+        "title": "Sony temporarily suspends memory card sales due to shortages - The Verge",
+        "description": "\ufeffSony Japan stopped accepting SD and CFexpress card orders from dealers and consumers today.",
+        "source_link": "https://www.theverge.com/tech/902828/sony-sd-cfexpress-memory-card-shortage"
+      },
+      {
+        "rank": 3,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/wofl3d-1.jpg",
         "title": "Playing Wolfenstein 3D with one hand in 2026 - Ars Technica",
         "description": "Over three decades later, this historical curiosity has more than a few rough edges...",
         "source_link": "https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/"
       },
       {
-        "rank": 2,
-        "image": "https://images.macrumors.com/t/bk2N_fO8Kkb58OMudH1Nzd1LgGI=/2048x/article-new/2026/01/Apple-Event-Logo.jpeg",
-        "title": "Apple to Launch These 15+ New Products Later This Year - MacRumors",
-        "description": "March has been an incredibly busy month for Apple, with the company unveiling more than 10 new products and accessories. We said hello to the MacBook...",
-        "source_link": "https://www.macrumors.com/2026/03/27/apple-to-launch-15-products-later-this-year/"
-      },
-      {
-        "rank": 3,
-        "image": "https://kotaku.com/app/uploads/2026/03/41196534651_b504403934_o-1200x675.jpg",
-        "title": "I Finally Tried Dark Souls And It's Even Better Than Everyone Said - Kotaku",
-        "description": "I was afraid to try it and now I'm so sad it's over",
-        "source_link": "https://kotaku.com/dark-souls-rpg-nostalgia-taurus-demon-2000682716"
-      },
-      {
         "rank": 4,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Gemini redesigning glow on Android, rolls out free Personal Intelligence & Memory - 9to5Google",
-        "description": "Google has a few other Gemini app updates, starting with Personal Intelligence seeing wide US availability.",
-        "source_link": "http://9to5google.com/2026/03/27/gemini-free-personal-intelligence-rollout/"
+        "image": "https://images.purexbox.com/c52a255e001c6/large.jpg",
+        "title": "Microsoft Issues Statement On Why 'This Is An Xbox' Campaign Has Been Retired - purexbox.com",
+        "description": "MS spokesperson confirms it's been nixed by the new Xbox boss",
+        "source_link": "https://www.purexbox.com/news/2026/03/microsoft-issues-statement-on-why-this-is-an-xbox-campaign-has-been-retired"
       },
       {
         "rank": 5,
@@ -60,10 +60,17 @@
       },
       {
         "rank": 9,
-        "image": "https://images.digitalfoundry.net/af3cacd151901/large.jpg",
-        "title": "Review: Crimson Desert PC: Changing Just One Setting Dramatically Boosts Frame-Rate - Digital Foundry",
-        "description": "The optimised settings collection.",
-        "source_link": "https://www.digitalfoundry.net/news/2026/03/review-crimson-desert-pc-changing-just-one-setting-dramatically-boosts-frame-rate"
+        "image": "https://assetsio.gnwcdn.com/Artwork-for-Zelda-Ocarina-of-Time-showing-Link-and-Sheik-fighting-off-enemy-hordes.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "All-new Star Fox and Zelda: Ocarina of Time remake reportedly set for Switch 2 release this year - Eurogamer",
+        "description": "Nintendo reportedly has great plans to tap into (and benefit from) our nostalgia this year.",
+        "source_link": "https://www.eurogamer.net/all-new-star-fox-and-zelda-ocarina-of-time-remake-reportedly-set-for-switch-2-release-this-year"
+      },
+      {
+        "rank": 10,
+        "image": "https://assetsio.gnwcdn.com/Dispatch's-Invisigal-and-Robert-looking-at-each-other-very-closely-in-the-face.-He-is-shirtless-and-bruised.-She-is-in-a-pink-jacket.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Don't worry, Dispatch isn't going to be censored on Xbox - Eurogamer",
+        "description": "Dispatch won't be censored by default on Xbox, AdHoc has confirmed.",
+        "source_link": "https://www.eurogamer.net/dont-worry-dispatch-isnt-going-to-be-censored-on-xbox"
       }
     ],
     "trending_movies": [
@@ -111,31 +118,31 @@
       },
       {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
+        "title": "Your Heart Will Be Broken",
+        "description": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and...",
+        "source_link": "https://www.themoviedb.org/movie/1523145"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/olk6MkfHFWEpWmhQn6Mb4jNqspm.jpg",
         "title": "53 Sundays",
         "description": "Three siblings get together to decide what to do with their 86\u2011year\u2011old father, who has started behaving in a very peculiar way. Should they move him ...",
         "source_link": "https://www.themoviedb.org/movie/1276704"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
         "title": "Scream 7",
         "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
         "source_link": "https://www.themoviedb.org/movie/1159559"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/q3ROA6OqVA9rWSsC2DzdkPQvxWW.jpg",
         "title": "The Red Line",
         "description": "Three women fall prey to a ruthless phone scam. To settle the score, they'll take on the criminal network that stole their money \u2014 and their dignity....",
         "source_link": "https://www.themoviedb.org/movie/1630433"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
       }
     ]
   }
