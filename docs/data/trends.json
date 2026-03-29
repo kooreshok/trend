@@ -1,20 +1,20 @@
 {
-  "last_updated": "March 29, 2026, 12:46 UTC",
+  "last_updated": "March 29, 2026, 13:50 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/03/124440372.jpg?quality=75&strip=all&w=1200",
+        "title": "New Google tool allow users to scrub more personal data to keep safe from online thieves - New York Post",
+        "description": "Google is rolling out a new feature called \u201cResults about you\u201d to help users scrub more sensitive information such as social security and driver\u2019s license numbers from internet se\u2026",
+        "source_link": "https://nypost.com/2026/03/28/us-news/new-google-tool-allow-users-to-scrub-more-personal-data-to-keep-safe-from-online-thieves/"
+      },
+      {
+        "rank": 2,
         "image": "https://cdn.mos.cms.futurecdn.net/h4QjCAZxapRdMuaQXMmUZc-2560-80.jpg",
         "title": "Amazon is practically giving away smart home devices \u2014 31 deals from Blink, Fire TV, Echo and more - Tom's Guide",
         "description": "Grab these best-selling devices starting at $7",
         "source_link": "https://www.tomsguide.com/home/smart-home/amazon-is-practically-giving-away-smart-home-devices-31-deals-from-blink-fire-tv-echo-and-more"
-      },
-      {
-        "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/IMG_7424.jpeg?quality=90&strip=all&crop=0%2C29.998131490146%2C100%2C69.808027923211&w=1200",
-        "title": "Bluetti\u2019s Sora 500 solar panel is incredibly powerful for its size - The Verge",
-        "description": "Bluetti\u2019s Sora 500 can\u2019t compete with the Zoupw 480W and Jackery SolarSage 500 X in terms of raw output, price, and weight, but it wins handily in portability.",
-        "source_link": "https://www.theverge.com/reviews/899289/bluetti-sora-500-review-portable-solar-panel"
       },
       {
         "rank": 3,
@@ -46,20 +46,27 @@
       },
       {
         "rank": 7,
+        "image": "https://kotaku.com/app/uploads/2026/03/bl4dlc1pric-1200x675.jpg",
+        "title": "Borderlands 4\u2032 s New $30 Expansion Pack Isn\u2019t Winning Over Fans - Kotaku",
+        "description": "Mad Ellie and the Vault of the Damned includes a new playable character and region to explore, but is that enough to bring back lapsed players?",
+        "source_link": "https://kotaku.com/borderlands-4s-new-30-expansion-pack-isnt-winning-over-fans-2000682731"
+      },
+      {
+        "rank": 8,
         "image": "https://www.windowslatest.com/wp-content/uploads/2026/03/Windows-11-apps-in-the-Start-menu.jpg",
         "title": "Microsoft plans to build 100% native apps for Windows 11, as web apps ruin the OS experience - Windows Latest",
         "description": "Microsoft has confirmed it will build 100% native apps for Windows 11 and form a new team to spearhead the project.",
         "source_link": "https://www.windowslatest.com/2026/03/28/microsoft-plans-to-build-100-native-apps-for-windows-11-as-web-apps-ruin-the-os-experience/"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://media.eventhubs.com/images/2026/03/27-exclusive-blue-mary-interviewt.webp",
         "title": "Exclusive: Fatal Fury Director talks Blue Mary's return, her popularity among SNK ladies and designing unique grapplers - EventHubs",
         "description": "Fatal Fury: City of the Wolves just launched their latest Season 2 DLC character this week, and she's on of the fan favorites.We had the opportunity to interview Fatal Fury Director Hayato Konya about Blue Mary's return ...",
         "source_link": "https://www.eventhubs.com/news/2026/mar/27/exclusive-blue-mary-interview/"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Gemini redesigning glow on Android, rolls out free Personal Intelligence & Memory - 9to5Google",
         "description": "Google has a few other Gemini app updates, starting with Personal Intelligence seeing wide US availability.",
@@ -69,52 +76,52 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
-        "title": "Mike & Nick & Nick & Alice",
-        "description": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn\u2019t enough, there\u2019s one wild ingredient ad...",
-        "source_link": "https://www.themoviedb.org/movie/1115544"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+        "title": "Mike & Nick & Nick & Alice",
+        "description": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn\u2019t enough, there\u2019s one wild ingredient ad...",
+        "source_link": "https://www.themoviedb.org/movie/1115544"
+      },
+      {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
-        "title": "Send Help",
-        "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
-        "source_link": "https://www.themoviedb.org/movie/1198994"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-        "title": "GOAT",
-        "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
-        "source_link": "https://www.themoviedb.org/movie/1297842"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
-        "title": "Your Heart Will Be Broken",
-        "description": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and...",
-        "source_link": "https://www.themoviedb.org/movie/1523145"
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
+        "title": "Send Help",
+        "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
+        "source_link": "https://www.themoviedb.org/movie/1198994"
       },
       {
-        "rank": 7,
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+        "title": "GOAT",
+        "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
+        "source_link": "https://www.themoviedb.org/movie/1297842"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
+        "title": "Your Heart Will Be Broken",
+        "description": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and...",
+        "source_link": "https://www.themoviedb.org/movie/1523145"
       },
       {
         "rank": 8,
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/q3ROA6OqVA9rWSsC2DzdkPQvxWW.jpg",
-        "title": "The Red Line",
-        "description": "Three women fall prey to a ruthless phone scam. To settle the score, they'll take on the criminal network that stole their money \u2014 and their dignity....",
-        "source_link": "https://www.themoviedb.org/movie/1630433"
+        "image": "https://image.tmdb.org/t/p/w200/lGlJ2cTDwMacj5nuANd38UjVGNQ.jpg",
+        "title": "\"Wuthering Heights\"",
+        "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
+        "source_link": "https://www.themoviedb.org/movie/1316092"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/olk6MkfHFWEpWmhQn6Mb4jNqspm.jpg",
-        "title": "53 Sundays",
-        "description": "Three siblings get together to decide what to do with their 86\u2011year\u2011old father, who has started behaving in a very peculiar way. Should they move him ...",
-        "source_link": "https://www.themoviedb.org/movie/1276704"
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
       }
     ]
   }
