@@ -1,76 +1,76 @@
 {
-  "last_updated": "March 30, 2026, 20:40 UTC",
+  "last_updated": "March 30, 2026, 21:37 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://gizmodo.com/app/uploads/2026/03/jay-graber-1200x675.jpg",
+        "title": "Bluesky Has a New App, and It\u2019s All About AI - Gizmodo",
+        "description": "Jay Graber is not CEO anymore, but that doesn't mean she hasn't been busy.",
+        "source_link": "https://gizmodo.com/bluesky-has-a-new-app-and-its-all-about-ai-2000739514"
+      },
+      {
+        "rank": 2,
         "image": "https://assetsio.gnwcdn.com/hollow-knight-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Surprise! 9-year-old Hollow Knight's brutal final boss fight may be just that little bit easier after this patch - Eurogamer",
         "description": "Surprise! Team Cherry has just rolled out a patch not for Hollow Knight: Silksong, but its nine-year-old predecessor, H\u2026",
         "source_link": "https://www.eurogamer.net/surprise-9-year-old-hollow-knights-brutal-final-boss-fight-may-be-just-that-little-bit-easier-after-this-patch"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://assets.warhammer-community.com/sundaypreview-mar29-1-feature-zxuteex6pa.jpg",
         "title": "Sunday Preview \u2013 Into the Eye of Terror - Warhammer Community",
         "description": "What\u2019s coming up for pre-order next week?",
         "source_link": "https://www.warhammer-community.com/articles/avczirqt/sunday-preview-into-the-eye-of-terror"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/img_3065.jpg?w=1600&h=900&fit=crop",
+        "title": "My Google Pixel was draining battery left and right, and then I changed these settings - Android Police",
+        "description": "From 20% at noon to all-day power",
+        "source_link": "https://www.androidpolice.com/google-pixel-was-draining-battery-left-and-right-then-changed-these-settings/"
+      },
+      {
+        "rank": 5,
         "image": "https://images.macrumors.com/t/UlnEP1nDPXHioi-MK1vVZQsIF1k=/1920x/article-new/2026/03/Apple-Park-Rainbow-1.jpg",
         "title": "Apple's 50th Anniversary Finale Revealed - MacRumors",
         "description": "Apple has been celebrating its upcoming 50th anniversary by hosting surprise performances and other events around the world over the past few weeks,...",
         "source_link": "https://www.macrumors.com/2026/03/29/apples-50th-anniversary-finale-revealed/"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://kotaku.com/app/uploads/2026/03/tims.jpg",
         "title": "Epic Lays Off An Employee With Terminal Brain Cancer Who Can\u2019t Get Life Insurance Now [Update: Epic Responds] - Kotaku",
         "description": "The family is asking for help as it navigates the unthinkable",
         "source_link": "https://kotaku.com/epic-games-layoffs-fortnite-brain-cancer-2000682941"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://gizmodo.com/app/uploads/2026/03/exodus-game-hed-1200x675.jpg",
         "title": "2027 Is Shaping Up to Be a Great Year for Big Sci-Fi RPGs - Gizmodo",
         "description": "Whether you're excited for 'Exodus' or 'The Expanse: Osiris Reborn,' it looks like RPG fans will be eating good next year.",
         "source_link": "https://gizmodo.com/2027-is-shaping-up-to-be-a-great-year-for-big-sci-fi-rpgs-2000739240"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://pokemongohub.net/wp-content/uploads/2026/03/fashion-raid-day.jpg",
         "title": "Pok\u00e9mon GO Events This Week: 30 March-5 April 2026 - Pok\u00e9mon GO Hub",
         "description": "Pok\u00e9mon GO\u2019s March 30 to April 5 week has us firmly into the season of Memories in Motion! Have a Shockingly Good Time with electric type Pok\u00e9mon, and do a little turn on the catwalk with Fashion Raid Day. Plus the weekly rotating Raid Hours, Dynamax Battles \u2026",
         "source_link": "https://pokemongohub.net/post/news/pokemon-go-events-this-week-30-march-5-april-2026/"
       },
       {
-        "rank": 7,
+        "rank": 9,
+        "image": "https://www.bgr.com/img/gallery/11-of-the-weirdest-products-ever-made-by-nintendo/l-intro-1774527342.jpg",
+        "title": "11 Of The Weirdest Products Ever Made By Nintendo - bgr.com",
+        "description": "Nintendo has been a powerhouse in the gaming industry for over 50 years, but not all of their products have been hits.",
+        "source_link": "https://www.bgr.com/2133210/weirdest-products-made-by-nintendo/"
+      },
+      {
+        "rank": 10,
         "image": "https://imageio.forbes.com/specials-images/imageserve/69c53714075f9eb881e3f1d6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "Google Confirms High-Risk Update For 3.5 Billion Chrome Users - Forbes",
         "description": "Nearly all 3.5 billion Chrome browser users will soon see a \u2018high-risk\u2019 security update from Google. Here\u2019s what you need to know.",
         "source_link": "https://www.forbes.com/sites/daveywinder/2026/03/29/new-google-high-risk-security-update-for-35-billion-chrome-users/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.sammobile.com/wp-content/uploads/2026/03/Galaxy-S26-Ultra-AirDrop-Quick-Share-3-1200x675.jpg",
-        "title": "More Samsung phones get AirDrop support, but there's a catch - SamMobile",
-        "description": "A few days ago, Samsung rolled out a software update for the Galaxy S26 series that upgraded Quick Share with support for Apple\u2019s AirDrop, allowing users to exchange files with iPhones, iPads, and Macs more easily than ever. At the time, it was unclear whethe\u2026",
-        "source_link": "https://www.sammobile.com/news/samsung-expands-airdrop-support-older-galaxy-phones-theres-catch/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.sciencealert.com/images/2026/03/PlasticBottle.jpg",
-        "title": "Scientists Figured Out How to Turn Plastic Waste Into a Parkinson's Drug - ScienceAlert",
-        "description": "Scientists have found a new way to make a Parkinson's drug \u2013 out of old plastic.",
-        "source_link": "https://www.sciencealert.com/scientists-figured-out-how-to-turn-plastic-waste-into-a-parkinsons-drug"
-      },
-      {
-        "rank": 10,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifDybdg014Ro/v7/1200x800.jpg",
-        "title": "Apple Pivots Its AI Strategy to App Store, Search-Like Platform Approach - Bloomberg.com",
-        "description": "Also: The company finally kills the Mac Pro.",
-        "source_link": "https://www.bloomberg.com/news/newsletters/2026-03-29/apple-doubles-down-on-hardware-services-with-revamped-ai-strategy-rare-bonuses-mnbpiwon"
       }
     ],
     "trending_movies": [
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
-        "title": "Send Help",
-        "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
-        "source_link": "https://www.themoviedb.org/movie/1198994"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
         "title": "Pretty Lethal",
         "description": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a d...",
         "source_link": "https://www.themoviedb.org/movie/1084187"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
         "title": "The Drama",
         "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
         "source_link": "https://www.themoviedb.org/movie/1325734"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
+        "title": "Send Help",
+        "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
+        "source_link": "https://www.themoviedb.org/movie/1198994"
       }
     ]
   }
