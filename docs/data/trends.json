@@ -1,5 +1,5 @@
 {
-  "last_updated": "March 31, 2026, 21:35 UTC",
+  "last_updated": "March 31, 2026, 22:30 UTC",
   "categories": {
     "tech_news": [
       {
@@ -111,31 +111,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/sw5wCm2APRXlFd4GkxqgAv8mAUG.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-        "title": "GOAT",
-        "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
-        "source_link": "https://www.themoviedb.org/movie/1297842"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
-        "rank": 10,
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/sw5wCm2APRXlFd4GkxqgAv8mAUG.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
         "title": "Mike & Nick & Nick & Alice",
         "description": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn\u2019t enough, there\u2019s one wild ingredient ad...",
         "source_link": "https://www.themoviedb.org/movie/1115544"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+        "title": "GOAT",
+        "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
+        "source_link": "https://www.themoviedb.org/movie/1297842"
       }
     ]
   }
