@@ -1,76 +1,69 @@
 {
-  "last_updated": "March 30, 2026, 23:31 UTC",
+  "last_updated": "March 31, 2026, 02:01 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/attie-ai.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "Bluesky\u2019s new app is an AI for customizing your feed - The Verge",
-        "description": "Eventually Attie will be able to vibe code entire apps for the AT Protocol.",
-        "source_link": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds"
+        "image": "https://www.cnet.com/a/img/resize/6b88b391f4e2390b77f5bd2e77b9bdf6be316601/hub/2026/03/11/03fbc282-b836-42f3-8372-26b5becfa9f6/best-tv-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "Amazon Spring Sale TV Deals 2026: Best Prices on OLED, 4K and Smart TVs - CNET",
+        "description": "From budget buys to premium OLEDs, we've picked the top deals across brands.",
+        "source_link": "https://www.cnet.com/deals/amazon-spring-sale-tv-deals-2026-3-29/"
       },
       {
         "rank": 2,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/android-auto-gemini-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "YouTube adds Android Auto support for background play controls - 9to5Google",
+        "description": "YouTube for Android is rolling out support for Android Auto but, before you get too excited, keep in mind that...",
+        "source_link": "http://9to5google.com/2026/03/29/youtube-android-auto-controls-support/"
+      },
+      {
+        "rank": 3,
+        "image": "https://helios-i.mashable.com/imagery/articles/01jP2t3PDhVcA1oNCLXXqlr/hero-image.fill.size_1200x675.v1774604476.jpg",
+        "title": "Pay $16 to make the internet a little less annoying - Mashable",
+        "description": "Clean up your browsing across every screen.",
+        "source_link": "https://mashable.com/article/march-29-adguard-family-plan-lifetime-subscription"
+      },
+      {
+        "rank": 4,
+        "image": "https://images.pushsquare.com/85cc863741f83/large.jpg",
+        "title": "'We're in It for the Long Haul': Bungie Rejects Rumours It Could Move on from Marathon After Unremarkable PS5 Sales - Push Square",
+        "description": "It's aiming for a Marathon",
+        "source_link": "https://www.pushsquare.com/news/2026/03/were-in-it-for-the-long-haul-bungie-rejects-rumours-it-could-move-on-from-marathon-after-unremarkable-ps5-sales"
+      },
+      {
+        "rank": 5,
         "image": "https://techcrunch.com/wp-content/uploads/2026/03/Pixel-10a-Main.jpg?resize=1200,675",
         "title": "The Pixel 10a doesn\u2019t have a camera bump, and it\u2019s great - TechCrunch",
         "description": "The Google Pixel 10a can lay flat on a table, but otherwise the company hasn't brought a ton of upgrades to its newest budget smartphone.",
         "source_link": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://kotaku.com/app/uploads/2026/03/Resident-Evil-Code-Veronica-1200x675.jpg",
+        "title": "Players Keep Finding Veronica Easter Eggs In Resident Evil Requiem - Kotaku",
+        "description": "Rumors of a Code Veronica remake have been swirling for a while, but Requiem's in-game hints are the most intriguing evidence yet",
+        "source_link": "https://kotaku.com/resident-evil-code-veronica-remake-rumors-requiem-easter-eggs-2000682952"
+      },
+      {
+        "rank": 7,
         "image": "https://gizmodo.com/app/uploads/2026/03/avatar-legends-hed-1200x675.jpg",
         "title": "Even the \u2018Avatar\u2019 Fighting Game Is Disrespecting \u2018Legend of Korra\u2019 - Gizmodo",
         "description": "The roster for 'Avatar Legends' doesn't play favorites, but at launch, it doesn't really care for 'Legend of Korra.'",
         "source_link": "https://gizmodo.com/even-the-avatar-fighting-game-is-disrespecting-legend-of-korra-2000739485"
       },
       {
-        "rank": 4,
-        "image": "https://assetsio.gnwcdn.com/hollow-knight-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Surprise! 9-year-old Hollow Knight's brutal final boss fight may be just that little bit easier after this patch - Eurogamer",
-        "description": "Surprise! Team Cherry has just rolled out a patch not for Hollow Knight: Silksong, but its nine-year-old predecessor, H\u2026",
-        "source_link": "https://www.eurogamer.net/surprise-9-year-old-hollow-knights-brutal-final-boss-fight-may-be-just-that-little-bit-easier-after-this-patch"
-      },
-      {
-        "rank": 5,
-        "image": "https://assetsio.gnwcdn.com/DEATH-STRANDING-2_-ON-THE-BEACH_20250608142902.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Death Stranding 2: On the Beach's PC release takes sequel's total sales past 2 million - Eurogamer",
-        "description": "Death Stranding 2's PC release has pushed the sequel's cumulative sales past 2 million.",
-        "source_link": "https://www.eurogamer.net/death-stranding-2-on-the-beachs-pc-release-takes-sequels-total-sales-past-2-million"
-      },
-      {
-        "rank": 6,
-        "image": "https://assets.warhammer-community.com/sundaypreview-mar29-1-feature-zxuteex6pa.jpg",
-        "title": "Sunday Preview \u2013 Into the Eye of Terror - Warhammer Community",
-        "description": "What\u2019s coming up for pre-order next week?",
-        "source_link": "https://www.warhammer-community.com/articles/avczirqt/sunday-preview-into-the-eye-of-terror"
-      },
-      {
-        "rank": 7,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/03/img_3065.jpg?w=1600&h=900&fit=crop",
-        "title": "My Google Pixel was draining battery left and right, and then I changed these settings - Android Police",
-        "description": "From 20% at noon to all-day power",
-        "source_link": "https://www.androidpolice.com/google-pixel-was-draining-battery-left-and-right-then-changed-these-settings/"
-      },
-      {
         "rank": 8,
-        "image": "http://www.acc.org/-/media/B02021FC81E247E190A77D4EE1D1B1FF.jpg",
-        "title": "SPIRIT-HF: Does Spironolactone Benefit Patients With HFpEF, HFmrEF? - American College of Cardiology",
-        "description": "",
-        "source_link": "https://www.acc.org/latest-in-cardiology/articles/2026/03/25/21/27/sun-1045am-spirithf-acc-2026"
+        "image": "https://www.bgr.com/img/gallery/why-ipads-magic-keyboard-has-a-usb-c-port-and-when-to-use-it/l-intro-1774361045.jpg",
+        "title": "Why iPad's Magic Keyboard Has A USB-C Port \u2013 And When To Use It - bgr.com",
+        "description": "Apple's Magic Keyboard is a handy accessory for leveling up your iPad and it comes with a built-in USB-C port that can be used to charge your tablet.",
+        "source_link": "https://www.bgr.com/2130935/why-ipad-magic-keyboard-has-usb-c-port-when-to-use/"
       },
       {
         "rank": 9,
-        "image": "https://images.nintendolife.com/5e18fac6f9ecd/large.jpg",
-        "title": "Pok\u00e9mon VGC Competitions Officially Transition To Pok\u00e9mon Champions - Nintendo Life",
-        "description": "It's the \"standard platform\" for the VGC going forward",
-        "source_link": "https://www.nintendolife.com/news/2026/03/pokemon-vgc-competitions-officially-transition-to-pokemon-champions"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.macrumors.com/t/UlnEP1nDPXHioi-MK1vVZQsIF1k=/1920x/article-new/2026/03/Apple-Park-Rainbow-1.jpg",
-        "title": "Apple's 50th Anniversary Finale Revealed - MacRumors",
-        "description": "Apple has been celebrating its upcoming 50th anniversary by hosting surprise performances and other events around the world over the past few weeks,...",
-        "source_link": "https://www.macrumors.com/2026/03/29/apples-50th-anniversary-finale-revealed/"
+        "image": "https://www.bgr.com/img/gallery/4-devices-your-dualsense-controller-can-connect-to-other-than-your-playstation-5/l-intro-1774360575.jpg",
+        "title": "4 Devices Your DualSense Controller Can Connect To (Other Than Your PlayStation 5) - bgr.com",
+        "description": "Your DualSense can connect to PCs, Macs, mobile devices, smart TVs, and the Steam Deck. Here's how to pair it and which features work on each.",
+        "source_link": "https://www.bgr.com/2130928/devices-your-ps5-controller-can-connect-to/"
       }
     ],
     "trending_movies": [
@@ -111,38 +104,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
         "title": "GOAT",
         "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
         "source_link": "https://www.themoviedb.org/movie/1297842"
       },
       {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
+        "title": "Send Help",
+        "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
+        "source_link": "https://www.themoviedb.org/movie/1198994"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
         "title": "The Drama",
         "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
         "source_link": "https://www.themoviedb.org/movie/1325734"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg",
         "title": "Pretty Lethal",
         "description": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a d...",
         "source_link": "https://www.themoviedb.org/movie/1084187"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg",
-        "title": "Send Help",
-        "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work t...",
-        "source_link": "https://www.themoviedb.org/movie/1198994"
       }
     ]
   }
