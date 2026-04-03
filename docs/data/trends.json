@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 03, 2026, 11:34 UTC",
+  "last_updated": "April 03, 2026, 12:55 UTC",
   "categories": {
     "tech_news": [
       {
@@ -97,24 +97,24 @@
       },
       {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg",
+        "title": "Humint",
+        "description": "A South Korean agent hunts a drug ring in Russia and goes head-to-head with a North Korean operative \u2014 pulling both into peril and tangled secrets....",
+        "source_link": "https://www.themoviedb.org/movie/1268127"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
         "title": "Scream 7",
         "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
         "source_link": "https://www.themoviedb.org/movie/1159559"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg",
-        "title": "Humint",
-        "description": "A South Korean agent hunts a drug ring in Russia and goes head-to-head with a North Korean operative \u2014 pulling both into peril and tangled secrets....",
-        "source_link": "https://www.themoviedb.org/movie/1268127"
       },
       {
         "rank": 7,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
-        "title": "\"Wuthering Heights\"",
-        "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
-        "source_link": "https://www.themoviedb.org/movie/1316092"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
         "title": "GOAT",
         "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
         "source_link": "https://www.themoviedb.org/movie/1297842"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+        "title": "\"Wuthering Heights\"",
+        "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
+        "source_link": "https://www.themoviedb.org/movie/1316092"
       }
     ]
   }
