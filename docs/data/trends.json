@@ -1,76 +1,76 @@
 {
-  "last_updated": "April 04, 2026, 20:25 UTC",
+  "last_updated": "April 04, 2026, 21:27 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.pushsquare.com/391fdcbe81452/large.jpg",
+        "title": "Here's Why Starfield Will Be Best on PS5 When It Finally Releases Next Week - Push Square",
+        "description": "Bethesda going all-out",
+        "source_link": "https://www.pushsquare.com/news/2026/04/heres-why-starfield-will-be-best-on-ps5-when-it-finally-releases-next-week"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iOS-26.5-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple releases new iOS 26.5 beta 1 build for iPhone - 9to5Mac",
+        "description": "iOS 26.5 beta 1 arrived earlier this week for developers, but Apple has just shipped an updated beta 1 build for testing.",
+        "source_link": "https://9to5mac.com/2026/04/03/apple-releases-new-ios-26-5-beta-1-build-for-iphone/"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/fitbit-app-premium-health.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Fitbit 4.66 for Android rolling out water, food, & mood logging, more - 9to5google.com",
+        "description": "Fitbit is rolling out version 4.66 of the Android app with all the new Public Preview features announced earlier this week.",
+        "source_link": "http://9to5google.com/2026/04/03/fitbit-4-66-android/"
+      },
+      {
+        "rank": 4,
         "image": "https://nintendoeverything.com/wp-content/uploads/Mario-icon-changes.jpg",
         "title": "Nintendo has made some changes to Mario user icons in latest Switch 2 and Switch update - Nintendo Everything",
         "description": "A little interesting discovery has been made regarding the recent Switch 2 and Switch update, as Nintendo made some changes to a number of Mario icons. It looks like for the first batch, new renders are being used. The differences can be a bit hard to spot, b\u2026",
         "source_link": "https://nintendoeverything.com/nintendo-has-made-some-changes-to-mario-user-icons-in-latest-switch-2-and-switch-update/"
       },
       {
-        "rank": 2,
+        "rank": 5,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/04/Morbid-Metal-Early-Access_04-03-26_Top.jpg",
+        "title": "Morbid Metal launches in Early Access on April 8 - Gematsu",
+        "description": "Roguelike hack-and-slash action game Morbid Metal will launch in Early Access for PC via Steam on April 8 for a limited-time launch price of $13.49 / \u20ac13.49, publisher Ubisoft and developer SCREEN \u2026",
+        "source_link": "https://www.gematsu.com/2026/04/morbid-metal-launches-in-early-access-on-april-8"
+      },
+      {
+        "rank": 6,
         "image": "https://kotaku.com/app/uploads/2026/04/coinssss-1200x675.jpg",
         "title": "Ghost Of Yotei Devs Used Coins From The Game's Collector's Edition To Test Zeni Hajiki Multiplayer - Kotaku",
         "description": "Sucker Punch also explained how it built an online co-op game within a big single-player RPG",
         "source_link": "https://kotaku.com/ghost-of-yotei-devs-coins-collectors-edition-test-zeni-hajiki-multiplayer-2000684625"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://imageio.forbes.com/specials-images/imageserve/66ea694039731c8cbc3502a7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "Google Issues Zero-Day Attack Alert For 3.5 Billion Chrome Users - Forbes",
         "description": "Google has issued an update alert for 3.5 billion Chrome browser users following confirmation of a new zero-day attack exploit.",
         "source_link": "https://www.forbes.com/sites/daveywinder/2026/04/03/google-issues-zero-day-attack-alert-for-35-billion-chrome-users/"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://kotaku.com/app/uploads/2026/04/state-of-decay-3-1200x675.jpg",
         "title": "Fans Rejoice As State Of Decay 3 Proves It\u2019s Not Dead With An Alpha Playtest Six Years After It Was First Revealed - Kotaku",
         "description": "The zombie survival sim is calling for fans to try out the sequel",
         "source_link": "https://kotaku.com/state-decay-3-alpha-test-signup-release-date-2000684636"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268414_Linux_on_2017_ThinkPad_AKrales_0050.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "I saved a doomed Windows laptop by embracing Linux - The Verge",
         "description": "My laptop was supposed to be obsolete without Windows 11, but Linux helped me rescue it from the landfill \u2014 and you can use it to save your laptop, too.",
         "source_link": "https://www.theverge.com/tech/905946/windows-11-forced-obsolescence-linux-thinkpad"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://gizmodo.com/app/uploads/2025/10/lenovo-legion-go-2-review-01-1200x675.jpg",
         "title": "RAM Prices Are Killing Small Gaming Devices - Gizmodo",
         "description": "Lenovo's gaming handhelds and tablets, and several smaller handheld devices, are all suffering, and AI is to blame.",
         "source_link": "https://gizmodo.com/ram-prices-are-killing-small-gaming-devices-2000742064"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.sammobile.com/wp-content/uploads/2025/08/Galaxy-Z-Fold-7-game-1200x675.jpg",
-        "title": "One UI 9 reveals Galaxy Z Wide Fold's wider screen - SamMobile",
-        "description": "Samsung is working on three new foldable phones for this year: the Galaxy Z Flip 8, Galaxy Z Fold 8, and a new model tentatively called the Galaxy Z Wide Fold. The Galaxy Z Wide Fold is expected to differ significantly from existing Galaxy Z Fold devices, as \u2026",
-        "source_link": "https://www.sammobile.com/news/one-ui-9-reveals-galaxy-fold-wides-wider-screen/"
-      },
-      {
-        "rank": 8,
-        "image": "https://assets.warhammer-community.com/40k_defilerkitfocus-apr02-1-feature-nj3dsyiuz0.jpg",
-        "title": "Revealed: Inside the incredible new Defiler kit - Warhammer Community",
-        "description": "Sorry\u2026 how many heads do you get?",
-        "source_link": "https://www.warhammer-community.com/articles/tgz401zu/revealed-inside-the-incredible-new-defiler-kit"
-      },
-      {
-        "rank": 9,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Ratatan-Switch-1-cancelled.jpg",
-        "title": "Ratatan\u2019s Nintendo Switch version officially cancelled, dev explains why - Nintendo Everything",
-        "description": "It\u2019s now official that the Nintendo Switch version of Ratatan has been cancelled. You may recall that the game was featured in an Indie World Showcase presentation earlier this year. A Nintendo Switch 2 version was announced, but the original Switch version w\u2026",
-        "source_link": "https://nintendoeverything.com/ratatans-nintendo-switch-version-officially-cancelled-dev-explains-why/"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.macrumors.com/t/lYf14IFj-_I1liH_JpkCoQvPBPw=/2500x/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
-        "title": "iPhone 18 Pro Launching Later This Year With These 12 New Features - MacRumors",
-        "description": "While the iPhone 18 Pro and iPhone 18 Pro Max are not expected to launch for more than five more months, there are already plenty of rumors about the...",
-        "source_link": "https://www.macrumors.com/2026/04/03/iphone-18-pro-new-features/"
       }
     ],
     "trending_movies": [
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+        "title": "GOAT",
+        "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
+        "source_link": "https://www.themoviedb.org/movie/1297842"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/4Tf0qTA73XLhBnfP6YgvqtLZBnt.jpg",
         "title": "Feel My Voice",
         "description": "A teenager, the only hearing member of a deaf family, finds her voice and learns to believe in herself through her passion for singing....",
         "source_link": "https://www.themoviedb.org/movie/1620551"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg",
-        "title": "Humint",
-        "description": "A South Korean agent hunts a drug ring in Russia and goes head-to-head with a North Korean operative \u2014 pulling both into peril and tangled secrets....",
-        "source_link": "https://www.themoviedb.org/movie/1268127"
-      },
-      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-        "title": "GOAT",
-        "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
-        "source_link": "https://www.themoviedb.org/movie/1297842"
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       }
     ]
   }
