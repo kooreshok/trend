@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 04, 2026, 15:26 UTC",
+  "last_updated": "April 04, 2026, 16:30 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,17 +76,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
-        "title": "Crime 101",
-        "description": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this bei...",
-        "source_link": "https://www.themoviedb.org/movie/1171145"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
+        "title": "Crime 101",
+        "description": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this bei...",
+        "source_link": "https://www.themoviedb.org/movie/1171145"
       },
       {
         "rank": 3,
@@ -111,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/4Tf0qTA73XLhBnfP6YgvqtLZBnt.jpg",
-        "title": "Feel My Voice",
-        "description": "A teenager, the only hearing member of a deaf family, finds her voice and learns to believe in herself through her passion for singing....",
-        "source_link": "https://www.themoviedb.org/movie/1620551"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
         "title": "Scream 7",
         "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
         "source_link": "https://www.themoviedb.org/movie/1159559"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
         "title": "The Drama",
         "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
         "source_link": "https://www.themoviedb.org/movie/1325734"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/4Tf0qTA73XLhBnfP6YgvqtLZBnt.jpg",
+        "title": "Feel My Voice",
+        "description": "A teenager, the only hearing member of a deaf family, finds her voice and learns to believe in herself through her passion for singing....",
+        "source_link": "https://www.themoviedb.org/movie/1620551"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg",
         "title": "Humint",
         "description": "A South Korean agent hunts a drug ring in Russia and goes head-to-head with a North Korean operative \u2014 pulling both into peril and tangled secrets....",
         "source_link": "https://www.themoviedb.org/movie/1268127"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+        "title": "\"Wuthering Heights\"",
+        "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
+        "source_link": "https://www.themoviedb.org/movie/1316092"
       }
     ]
   }
