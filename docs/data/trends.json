@@ -1,76 +1,76 @@
 {
-  "last_updated": "April 03, 2026, 23:29 UTC",
+  "last_updated": "April 04, 2026, 01:51 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Google-Chrome-generic-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Chrome for Android gets Material 3 Expressive Settings - 9to5google.com",
+        "description": "Google is giving Chrome for Android more Material 3 Expressive with a redesign of the Settings page. This visual...",
+        "source_link": "http://9to5google.com/2026/04/02/chrome-material-3-expressive-settings/"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Reddit is moving on from r/all - The Verge",
+        "description": "Reddit is deprecating r/all, one of its feeds that shows popular posts on the platform, but you can still access it if you use old Reddit.",
+        "source_link": "https://www.theverge.com/tech/906314/reddit-r-all-deprecating"
+      },
+      {
+        "rank": 3,
         "image": "https://images.pushsquare.com/ef95d627bbabd/large.jpg",
         "title": "50% Off All PS Store Purchases with New Cash App Offer - Push Square",
         "description": "Save up to $50 on your purchase",
         "source_link": "https://www.pushsquare.com/news/2026/04/50percent-off-all-ps-store-purchases-with-new-cash-app-offer"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://kotaku.com/app/uploads/2026/03/cbFiZpcHUttvq5DFPgTJpV-1200x675.jpg",
         "title": "It Sure Sounds Like A Luma Drops An F-Bomb In The Mario Galaxy Movie - kotaku.com",
         "description": "Parents were shocked to find out the cute little star boy had the mouth of a sailor",
         "source_link": "https://kotaku.com/super-mario-galaxy-movie-luma-fuck-found-you-peach-2000684314"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/little-finder-guy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Watch new MacBook Neo ads starring the adorable Little Finder Guy [U: New ads] - 9to5Mac",
         "description": "Apple is doubling down on the adorable mini-Finder character it created for the MacBook Neo campaign. Watch the ads here.",
         "source_link": "https://9to5mac.com/2026/04/02/watch-new-macbook-neo-ads-starring-the-adorable-little-finder-guy/"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://kotaku.com/app/uploads/2026/04/20260401165137_1-1200x675.jpg",
         "title": "My New Favorite Way To Watch Classic Movies On VHS - kotaku.com",
         "description": "Retro Rewind is great, but its even better if you shove some old movies into it and I can help with that",
         "source_link": "https://kotaku.com/retro-rewind-how-to-install-custom-movies-mod-help-handbrake-download-vhs-2000684030"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2268822806-2.jpg?resize=1200,734",
+        "title": "NASA astronauts prove that sending an email really is rocket science - TechCrunch",
+        "description": "NASA Artemis II commander Reid Wiseman faced the most earthly possible conflict while in outer space: his Outlook wasn't working.",
+        "source_link": "https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/"
+      },
+      {
+        "rank": 8,
         "image": "https://assetsio.gnwcdn.com/slay-the-spire-2-coin-flip.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Mega Crit are working on three new Slay the Spire 2 modes, just don't place any bets on them all making it in - Rock Paper Shotgun",
         "description": "The new modes should appeal to different kinds of people, but only if they end up actually working.",
         "source_link": "https://www.rockpapershotgun.com/mega-crit-are-working-on-three-new-slay-the-spire-2-modes-just-dont-place-any-bets-on-them-all-making-it-in"
       },
       {
-        "rank": 6,
-        "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o3948k534952a8/0513971706a9e16cc3cf07f76cf12589c6aaa2aa.jpg",
-        "title": "Protect Los Santos and Acquire New Law Enforcement Vehicles During the Latest Neighborhood Watch Event - Rockstar Games",
-        "description": "Clean up the streets and assist residents across Los Santos and Blaine County during the new Neighborhood Watch Event in GTA Online.",
-        "source_link": "https://www.rockstargames.com/newswire/article/o3948k534952a8/protect-los-santos-and-acquire-new-law-enforcement-vehicles-during-the"
-      },
-      {
-        "rank": 7,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-        "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs - Ars Technica",
-        "description": "Both GDDRHammer and GeForge hammer GPU memory in ways that compromise the CPU.",
-        "source_link": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/"
-      },
-      {
-        "rank": 8,
-        "image": "https://media.wired.com/photos/69cc30f8d49844d66356c85d/191:100/w_1280,c_limit/Model-Behavior-Cursor-Build-Own-AI-Business%202%20(0-00-07-17).jpg",
-        "title": "Cursor Launches a New AI Agent Experience to Take on Claude Code and Codex - WIRED",
-        "description": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.",
-        "source_link": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/"
-      },
-      {
         "rank": 9,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemma-4_keyart_header-dark_16_9-1152x648.png",
-        "title": "Google announces Gemma 4 open AI models, switches to Apache 2.0 license - Ars Technica",
-        "description": "Gemma 4 brings the first major update to Google's open models in a year.",
-        "source_link": "https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/"
+        "image": "https://images.nintendolife.com/6b12382fae46b/large.jpg",
+        "title": "Former Nintendo Sales Lead Thinks Switch 2 Price Increase Is \"Inevitable\" - Nintendo Life",
+        "description": "\"There\u2019s just so many outside forces that are kind of forcing their hand\"",
+        "source_link": "https://www.nintendolife.com/news/2026/04/former-nintendo-sales-lead-thinks-switch-2-price-increase-is-inevitable"
       },
       {
         "rank": 10,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
-        "title": "Google now lets you direct avatars through prompts in its Vids app - TechCrunch",
-        "description": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
-        "source_link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/"
+        "image": "https://assets-prd.ignimgs.com/2026/04/02/gettyimages-2268237258-1-1775128017480.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Nintendo Making Movies as 'There's Only So Many People' Who Will Play Its Games - IGN",
+        "description": "Nintendo legend Shigeru Miyamoto has said he's aware of a limit to the number of people who will play his games \u2014 which is one of the reasons why he's making Mario movies.",
+        "source_link": "https://www.ign.com/articles/shigeru-miyamoto-admits-theres-only-so-many-people-wholl-play-nintendo-games-which-is-why-its-now-also-making-movies"
       }
     ],
     "trending_movies": [
@@ -97,7 +97,7 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/be0AGlXlJnXmk2xjXADlOMBX1Jm.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/2c2ib9pS3BTIoMnYHi4z6t9nxuA.jpg",
         "title": "Pizza Movie",
         "description": "A shy college student and his reckless roommate set out on a simple mission to grab pizza, but after a strange dose of a mind-bending experimental dru...",
         "source_link": "https://www.themoviedb.org/movie/1493859"
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
-        "title": "The Drama",
-        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
-        "source_link": "https://www.themoviedb.org/movie/1325734"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/4Tf0qTA73XLhBnfP6YgvqtLZBnt.jpg",
         "title": "Feel My Voice",
         "description": "A teenager, the only hearing member of a deaf family, finds her voice and learns to believe in herself through her passion for singing....",
         "source_link": "https://www.themoviedb.org/movie/1620551"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg",
-        "title": "Humint",
-        "description": "A South Korean agent hunts a drug ring in Russia and goes head-to-head with a North Korean operative \u2014 pulling both into peril and tangled secrets....",
-        "source_link": "https://www.themoviedb.org/movie/1268127"
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
+        "title": "The Drama",
+        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
+        "source_link": "https://www.themoviedb.org/movie/1325734"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
         "title": "GOAT",
         "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
         "source_link": "https://www.themoviedb.org/movie/1297842"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg",
+        "title": "Humint",
+        "description": "A South Korean agent hunts a drug ring in Russia and goes head-to-head with a North Korean operative \u2014 pulling both into peril and tangled secrets....",
+        "source_link": "https://www.themoviedb.org/movie/1268127"
       }
     ]
   }
