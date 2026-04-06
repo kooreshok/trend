@@ -1,76 +1,76 @@
 {
-  "last_updated": "April 06, 2026, 18:53 UTC",
+  "last_updated": "April 06, 2026, 19:49 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://gizmodo.com/app/uploads/2026/03/Super-Mario-Galaxy-party-1200x675.jpg",
+        "title": "'The Super Mario Galaxy Movie' & 'Avatar 3' Leak on Twitter - Gizmodo",
+        "description": "If you're still hanging around on Twitter, you've probably seen 'Avatar 3' and 'The Super Mario Galaxy' leaks on there. Second verse...",
+        "source_link": "https://gizmodo.com/twitter-super-mario-galaxy-avatar-3-leaks-2000742646"
+      },
+      {
+        "rank": 2,
+        "image": "https://assetsio.gnwcdn.com/Screenshot-2026-04-05-at-19.06.38.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Sony's battle against shovelware publishers persists as it purges another load of crap games from the PlayStation Store - Eurogamer",
+        "description": "Sony has once again delisted a number of games from its storefronts, including the catalogues of alleged shovelware pub\u2026",
+        "source_link": "https://www.eurogamer.net/sonys-battle-against-shovelware-publishers-persists-as-it-purges-another-load-of-crap-games-from-the-playstation-store"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Suno is a music copyright nightmare capable of pumping out AI cover slop - The Verge",
+        "description": "Suno makes it easy to flood streaming with AI slop covers of Beyonc\u00e9.",
+        "source_link": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers"
+      },
+      {
+        "rank": 4,
+        "image": "https://cdn.mos.cms.futurecdn.net/ViHmLXmmzQL4Y8nukkZEvn-2000-80.jpg",
+        "title": "'There are no words': Artemis II astronauts are sharing iPhone 17 Pro Max photos from space - TechRadar",
+        "description": "Gaze in awe and wonder at these shots being shared by NASA and the crew of the Artemis II.",
+        "source_link": "https://www.techradar.com/phones/iphone/the-first-iphone-17-pro-max-photos-sent-back-from-the-artemis-ii-mission-really-are-out-of-this-world"
+      },
+      {
+        "rank": 5,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6947c7600a7c619d4488927e/0x0.jpg?format=jpg&crop=1951,981,x744,y259,safe&height=900&width=1600&fit=bounds",
+        "title": "Apple\u2019s Update Mistake\u2014Hundreds Of Millions Of iPhones Affected - Forbes",
+        "description": "Why you need to change your iPhone settings now \u2014 don't leave this until it's too late.",
+        "source_link": "https://www.forbes.com/sites/zakdoffman/2026/04/05/apples-update-mistake-hundreds-of-millions-of-iphones-affected/"
+      },
+      {
+        "rank": 6,
+        "image": "https://images.macrumors.com/t/7GcZBu98viqCXkiZ4exo0anpd-M=/2500x/article-new/2026/04/m5-macbook-air-pink.jpeg",
+        "title": "Amazon Takes Up to $200 Off M5 MacBook Air With New Record Low Prices - macrumors.com",
+        "description": "Amazon has introduced a few new record low prices on the M5 MacBook Air this weekend, with up to $200 off these notebooks. We're tracking...",
+        "source_link": "https://www.macrumors.com/2026/04/05/200-off-m5-macbook-air/"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/04/best-new-motos-april-5-macro.webp",
+        "title": "12 Awesome New Motorcycles Rolling Out Right Now - Gear Patrol",
+        "description": "Attention-catching releases from Aprilia, Ducati, KTM and Triumph headline a bumper crop of bodacious bikes.",
+        "source_link": "https://www.gearpatrol.com/motorcycles/best-new-motorcycles-april-5-2026/"
+      },
+      {
+        "rank": 8,
+        "image": "https://cdn.videocardz.com/1/2026/04/INTEL-TEXTURE-SET-NEURAL-COMPRESSION-TSNC-GDC2026-HERO2.jpg",
+        "title": "Intel shows Texture Set Neural Compression, claims up to 18x smaller texture sets - VideoCardz.com",
+        "description": "TSNC Variant A delivers 9x texture compression, lower-quality B variant up to 18x Intel has shared new details on Texture Set Neural Compression, or TSNC,",
+        "source_link": "https://videocardz.com/newz/intel-shows-texture-set-neural-compression-claims-up-to-18x-smaller-texture-sets"
+      },
+      {
+        "rank": 9,
+        "image": "https://cdn.mos.cms.futurecdn.net/rEBoRy7ETBM9LLgULYf4UK-1920-80.jpg",
+        "title": "\u201cI couldn\u2019t enjoy it fully until now\u201d: Crimson Desert\u2019s once\u2011exclusive PS5 mode finally arrives on Xbox \u2014 and I\u2019m ready to dive back in - Windows Central",
+        "description": "After several days of questions from players, Xbox Series X now receives fixed 4K output, after first arriving only on PS5.",
+        "source_link": "https://www.windowscentral.com/gaming/xbox/i-couldnt-enjoy-it-fully-until-now-crimson-deserts-once-exclusive-ps5-mode-finally-arrives-on-xbox-and-im-ready-to-dive-back-in"
+      },
+      {
+        "rank": 10,
         "image": "https://blog.tipranks.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-5-2026-04_28_52-PM-750x406.png",
         "title": "Apple (AAPL) at a \u201cFork in the Road\u201d as It Races to Rebuild Siri - TipRanks",
         "description": "Apple Inc. ($AAPL) enters its next phase at a key moment, as AI reshapes the tech space. The company built its edge on devices and user trust, yet it now",
         "source_link": "https://www.tipranks.com/news/apple-aapl-at-a-fork-in-the-road-as-it-races-to-rebuild-siri"
-      },
-      {
-        "rank": 2,
-        "image": "https://www.cnet.com/a/img/resize/59b5691dec0f3ae2dc217e761f98bef263f3a630/hub/2026/04/03/587bc680-0de1-4abb-9db8-79f26cbb7eee/samsung-galaxy-s26-google-pixel-10-cnet-background.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Samsung Galaxy S26 vs. Google Pixel 10: The Big Differences Between Each Flagship - CNET",
-        "description": "The most affordable Samsung and Google flagship models are closer than ever, but the $100 price difference does make for a few key differences. Here's how they stack up.",
-        "source_link": "https://www.cnet.com/tech/mobile/samsung-galaxy-s26-vs-google-pixel-10-the-big-differences-between-each-flagship/"
-      },
-      {
-        "rank": 3,
-        "image": "https://images.nintendolife.com/15123a65ddc8e/large.jpg",
-        "title": "\"Stop Tagging Us About Bubsy!\" - Fabraz On Being Bullied Into Reviving A Maligned Mascot - Nintendo Life",
-        "description": "\"We were blown away by the reception\"",
-        "source_link": "https://www.nintendolife.com/features/stop-tagging-us-about-bubsy-fabraz-on-being-bullied-into-reviving-a-maligned-mascot"
-      },
-      {
-        "rank": 4,
-        "image": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/linkedin-browsergate-extension-scanning-privacy-fingerprint.png",
-        "title": "LinkedIn secretly scans 6,000+ browser extensions and fingerprints your device - The Next Web",
-        "description": "In short:\u00a0Every time you visit LinkedIn in a Chrome-based browser, a hidden JavaScript routine silently probes your browser for more than 6,000 installed extensions, collects 48 hardware and software characteristics about your device, encrypts the resulting f\u2026",
-        "source_link": "https://thenextweb.com/news/linkedin-browsergate-extension-scanning-privacy-fingerprint/"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.bgr.com/img/gallery/what-happened-to-zenith-tvs-why-the-american-brand-disappeared/l-intro-1774034277.jpg",
-        "title": "What Happened To Zenith TVs? Why The American Brand Disappeared - bgr.com",
-        "description": "At its height, Zenith was a premier American TV manufacturer well known for top-of-the-line sets. So, what went wrong that caused the brand to disappear?",
-        "source_link": "https://www.bgr.com/2128309/what-happened-to-zenith-tvs-why-brand-disappeared/"
-      },
-      {
-        "rank": 6,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69d0e4ae7ac388adaf3687e4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "iOS 26.5 Release Date: The Game-Changing iPhone Feature You\u2019ve Been Waiting For - Forbes",
-        "description": "The next big iPhone update is on its way and will land in a matter of weeks. When, exactly?",
-        "source_link": "https://www.forbes.com/sites/davidphelan/2026/04/05/ios-265-release-date-the-game-changing-iphone-feature-youve-been-waiting-for/"
-      },
-      {
-        "rank": 7,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2025/03/google-logo-with-the-logos-of-some-google-workspace-apps-below-and-some-microsoft-365-apps-blurred-in-the-background-1.jpg?w=1600&h=900&fit=crop",
-        "title": "I'm unable to switch from Microsoft to Google ecosystem because of this single app - Android Police",
-        "description": "Google's ecosystem has one giant problem",
-        "source_link": "https://www.androidpolice.com/unable-to-switch-from-microsoft-to-google-ecosystem-because-of-single-app/"
-      },
-      {
-        "rank": 8,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/66326c977605f1e72ab87c8d/0x0.jpg?format=jpg&crop=1257,761,x1215,y810,safe&height=900&width=1600&fit=bounds",
-        "title": "Microsoft\u2019s New Windows Update\u20141 Billion Users Must Now Decide - Forbes",
-        "description": "'Bad news' for Windows users, as controversial browser update turns up on PCs.",
-        "source_link": "https://www.forbes.com/sites/zakdoffman/2026/04/05/microsofts-new-windows-update-1-billion-users-must-now-decide/"
-      },
-      {
-        "rank": 9,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68b0cd8f97c3bf5ddea4d241/0x0.jpg?format=jpg&crop=1113,680,x725,y373,safe&height=900&width=1600&fit=bounds",
-        "title": "Google Changes Gmail After 22 Years\u2014Why You Need A New Email Address - Forbes",
-        "description": "Google's upgrade means 2 billion Gmail  users must now decide what to do next.",
-        "source_link": "https://www.forbes.com/sites/zakdoffman/2026/04/05/google-changes-gmail-after-22-years-why-you-need-a-new-email-address/"
-      },
-      {
-        "rank": 10,
-        "image": "https://pokemongohub.net/wp-content/uploads/2026/03/pgo-tinkatink-community-day-2026-nologo.png",
-        "title": "Pok\u00e9mon GO Events This Week: 6-12 April 2026 - Pok\u00e9mon GO Hub",
-        "description": "Pok\u00e9mon GO\u2019s April 6 to April 12 week has us firmly into the season of Memories in Motion! Tinkatink stars in Community Day, and A Shockingly Good Time draws to a close. Plus the weekly rotating Raid Hours, Dynamax Battles and Mega Raids. \u2b50Highlights Raid Bos\u2026",
-        "source_link": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-6-12-april-2026/"
       }
     ],
     "trending_movies": [
@@ -83,17 +83,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
         "rank": 4,
@@ -104,17 +104,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/2c2ib9pS3BTIoMnYHi4z6t9nxuA.jpg",
-        "title": "Pizza Movie",
-        "description": "A shy college student and his reckless roommate set out on a simple mission to grab pizza, but after a strange dose of a mind-bending experimental dru...",
-        "source_link": "https://www.themoviedb.org/movie/1493859"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
         "title": "The Drama",
         "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
         "source_link": "https://www.themoviedb.org/movie/1325734"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/2c2ib9pS3BTIoMnYHi4z6t9nxuA.jpg",
+        "title": "Pizza Movie",
+        "description": "A shy college student and his reckless roommate set out on a simple mission to grab pizza, but after a strange dose of a mind-bending experimental dru...",
+        "source_link": "https://www.themoviedb.org/movie/1493859"
       },
       {
         "rank": 7,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/4Tf0qTA73XLhBnfP6YgvqtLZBnt.jpg",
-        "title": "Feel My Voice",
-        "description": "A teenager, the only hearing member of a deaf family, finds her voice and learns to believe in herself through her passion for singing....",
-        "source_link": "https://www.themoviedb.org/movie/1620551"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
         "title": "Scream 7",
         "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
         "source_link": "https://www.themoviedb.org/movie/1159559"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+        "title": "\"Wuthering Heights\"",
+        "description": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England....",
+        "source_link": "https://www.themoviedb.org/movie/1316092"
       }
     ]
   }
