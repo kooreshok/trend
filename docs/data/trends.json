@@ -1,69 +1,76 @@
 {
-  "last_updated": "April 08, 2026, 02:02 UTC",
+  "last_updated": "April 08, 2026, 05:07 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-artemis.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Moonshot on iPhone: Astronaut Reid Wiseman snaps unbelievable photo of the lunar surface - 9to5Mac",
+        "description": "Artemis II's Commander Reid Wiseman showed off a fantastic photo of the lunar surface he took on his iPhone 17 Pro Max.",
+        "source_link": "https://9to5mac.com/2026/04/06/moonshot-on-iphone-astronaut-reid-wiseman-snaps-unbelievable-photo-of-the-lunar-surface/"
+      },
+      {
+        "rank": 2,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-Switch-update-22.1.0.jpg",
+        "title": "Nintendo Switch 2 and Switch update 22.1.0 out now, patch notes - Nintendo Everything",
+        "description": "Nintendo has now released a version 22.1.0 update for both Switch 2 and Switch, and here are the patch notes.",
+        "source_link": "https://nintendoeverything.com/nintendo-switch-2-and-switch-update-22-1-0-out-now-patch-notes/"
+      },
+      {
+        "rank": 3,
+        "image": "https://helios-i.mashable.com/imagery/articles/06cN28lwdgld63V3gm8BAmi/hero-image.fill.size_1200x675.v1775497866.jpg",
+        "title": "FBI warns against foreign mobile apps like CapCut in new PSA - Mashable",
+        "description": "A new public service announcement from the FBI is warning Americans about apps based in China.",
+        "source_link": "https://mashable.com/article/fbi-warns-against-foreign-mobile-apps-in-psa"
+      },
+      {
+        "rank": 4,
+        "image": "https://images.nintendolife.com/66327a56b2038/large.jpg",
+        "title": "Assassin's Creed Shadows Title Update 1.1.10 Out This Week On Switch 2, Here Are The Patch Notes - Nintendo Life",
+        "description": "Arriving alongside Title Update 1.1.10",
+        "source_link": "https://www.nintendolife.com/news/2026/04/assassins-creed-shadows-switch-2-update-adds-mouse-and-keyboard-support"
+      },
+      {
+        "rank": 5,
         "image": "https://kotaku.com/app/uploads/2026/04/0k8tji0auprg1-1200x675.jpg",
         "title": "Overwatch Reveals The Anran Redesign Fans Begged For - Kotaku",
         "description": "The character looked more like Kiriko and Juno than her brother Wuyang",
         "source_link": "https://kotaku.com/overwatch-season-2-anran-face-redesign-fareeha-voice-2000685284"
       },
       {
-        "rank": 2,
+        "rank": 6,
+        "image": "https://static.boredpanda.com/blog/wp-content/uploads/2026/04/fb_image_69d41f50859df.png",
+        "title": "NASA\u2019s Reply to Travis Kelce\u2019s 16-Year-Old Tweet Has Everyone Talking - Bored Panda",
+        "description": "\u201cThere\u2019s a blank space joke in here somewhere,\u201d one Swiftie wrote.",
+        "source_link": "https://www.boredpanda.com/nasas-reply-to-travis-kelces-16-year-old-tweet-has-everyone-talking/"
+      },
+      {
+        "rank": 7,
+        "image": "https://petapixel.com/assets/uploads/2026/04/artemis-ii-nikon-d5-featured.jpg",
+        "title": "The 10-Year-Old Nikon D5 DSLR Really Is the Best Camera for Artemis II - PetaPixel",
+        "description": "The Nikon D5 may be relatively old, but it's also uniquely powerful in low light.",
+        "source_link": "https://petapixel.com/2026/04/06/the-10-year-old-nikon-d5-dslr-really-is-the-best-camera-for-artemis-ii/"
+      },
+      {
+        "rank": 8,
+        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1581/15811374/4678324-michelangeloweirdness.jpg",
+        "title": "Magic: The Gathering's Teenage Mutant Ninja Turtles Is The Most Video Gamey Set Ever - GameSpot",
+        "description": "Other Magic sets draw from video game universes, but the TMNT set stands apart by making the language, mechanics, and culture of arcade games part of its identity.",
+        "source_link": "https://www.gamespot.com/articles/magic-the-gatherings-teenage-mutant-ninja-turtles-is-the-most-video-gamey-set-ever/1100-6539240/"
+      },
+      {
+        "rank": 9,
         "image": "https://images.macrumors.com/t/P_639iwJxiSwF5hbqwskJqvUTUQ=/1600x/article-new/2025/12/iphone-fold-text.jpg",
         "title": "iPhone Fold Enters Trial Production Phase Ahead of 2026 Launch - MacRumors",
         "description": "Apple partner Foxconn has started trial production on the iPhone Fold, according to Chinese leaker Instant Digital. Trial production comes before...",
         "source_link": "https://www.macrumors.com/2026/04/06/iphone-fold-trial-production/"
       },
       {
-        "rank": 3,
-        "image": "https://cdn.mos.cms.futurecdn.net/GYxSwELE9jbDae8k858of4-900-80.jpg",
-        "title": "Delisted Xbox 360 games show up on the Xbox Store ahead of Backwards Compatibility Program return - Windows Central",
-        "description": "Several delisted Xbox and Xbox 360 games have recently appeared on the Xbox Store, leading many to wonder if they'll be made backwards compatible soon.",
-        "source_link": "https://www.windowscentral.com/gaming/xbox/whoa-delisted-xbox-360-games-just-showed-up-on-the-xbox-store-did-microsoft-leak-new-xbox-backwards-compatibility-games"
-      },
-      {
-        "rank": 4,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68b0cd8f97c3bf5ddea4d241/0x0.jpg?format=jpg&crop=1113,680,x725,y373,safe&height=900&width=1600&fit=bounds",
-        "title": "Google Changes Gmail After 22 Years\u2014Why You Need A New Email Address - Forbes",
-        "description": "Google's upgrade means 2 billion Gmail  users must now decide what to do next.",
-        "source_link": "https://www.forbes.com/sites/zakdoffman/2026/04/06/google-changes-gmail-after-22-years-why-you-need-a-new-email-address/"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Windows_headpic.jpg",
-        "title": "Disgruntled researcher leaks \u201cBlueHammer\u201d Windows zero-day exploit - BleepingComputer",
-        "description": "Exploit code has been released for an unpatched Windows privilege escalation flaw reported privately to Microsoft, allowing attackers to gain SYSTEM or elevated administrator permissions.",
-        "source_link": "https://www.bleepingcomputer.com/news/security/disgruntled-researcher-leaks-bluehammer-windows-zero-day-exploit/"
-      },
-      {
-        "rank": 6,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
-        "title": "Google quietly launched an AI dictation app that works offline - techcrunch.com",
-        "description": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
-        "source_link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1647/16470614/4678296-wowlurasecretphase.jpg",
-        "title": "WoW Race To World First Thrown Into Chaos After Secret Boss Phase Reveal - GameSpot",
-        "description": "Screams of joy were quickly replaced by panic.",
-        "source_link": "https://www.gamespot.com/articles/wow-race-to-world-first-thrown-into-chaos-after-secret-boss-phase-reveal/1100-6539231/"
-      },
-      {
-        "rank": 8,
-        "image": "https://gonintendo.com/attachments/image/79200/file/medium-885c72089b3e16eaccdbd1637d203464.jpg",
-        "title": "Over 1,000 Super Mario Maker 2 levels have been deleted, and a cheater may be behind it all - GoNintendo",
-        "description": "Someone's got too much time on their hands",
-        "source_link": "https://www.gonintendo.com/contents/59635-over-1-000-super-mario-maker-2-levels-have-been-deleted-and-a-cheater-may-be-behind"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4678201-starfield-free-lanes.jpg",
-        "title": "Starfield Free Lanes And Terran Armada Release Date And Times Confirmed - GameSpot",
-        "description": "The next era of Starfield blasts off this week.",
-        "source_link": "https://www.gamespot.com/articles/starfield-free-lanes-and-terran-armada-global-launch-times-confirmed/1100-6539229/"
+        "rank": 10,
+        "image": "https://gizmodo.com/app/uploads/2026/04/nimo-glasses-FI-1200x675.jpg",
+        "title": "The Best Anti-Meta Smart Glasses Are About to Have Tough Competition - Gizmodo",
+        "description": "If camera-equipped smart glasses aren't your thing, you're about to have a new pair at your disposal.",
+        "source_link": "https://gizmodo.com/best-anti-meta-smart-glasses-are-about-to-have-tough-competition-2000742998"
       }
     ],
     "trending_movies": [
@@ -76,38 +83,38 @@
       },
       {
         "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+        "title": "Michael",
+        "description": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journe...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
+      },
+      {
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg",
-        "title": "Sniper: No Nation",
-        "description": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage....",
-        "source_link": "https://www.themoviedb.org/movie/1641319"
-      },
-      {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-        "title": "Michael",
-        "description": "The story of the famous and greatest musician of all time, Michael Jackson, known as the King of Pop....",
-        "source_link": "https://www.themoviedb.org/movie/936075"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg",
+        "title": "Sniper: No Nation",
+        "description": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage....",
+        "source_link": "https://www.themoviedb.org/movie/1641319"
       },
       {
         "rank": 7,
@@ -118,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
-        "title": "Crime 101",
-        "description": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this bei...",
-        "source_link": "https://www.themoviedb.org/movie/1171145"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/2c2ib9pS3BTIoMnYHi4z6t9nxuA.jpg",
         "title": "Pizza Movie",
         "description": "A shy college student and his reckless roommate set out on a simple mission to grab pizza, but after a strange dose of a mind-bending experimental dru...",
         "source_link": "https://www.themoviedb.org/movie/1493859"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
+        "title": "Crime 101",
+        "description": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this bei...",
+        "source_link": "https://www.themoviedb.org/movie/1171145"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-        "title": "Scream 7",
-        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
-        "source_link": "https://www.themoviedb.org/movie/1159559"
+        "image": "https://image.tmdb.org/t/p/w200/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
+        "title": "Psycho Killer",
+        "description": "Following the brutal murder of her husband, a Kansas highway patrol officer sets out on a journey to track down the perpetrator. As the hunt progresse...",
+        "source_link": "https://www.themoviedb.org/movie/1107166"
       }
     ]
   }
