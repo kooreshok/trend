@@ -1,62 +1,69 @@
 {
-  "last_updated": "April 08, 2026, 11:51 UTC",
+  "last_updated": "April 08, 2026, 13:13 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://helios-i.mashable.com/imagery/articles/06cN28lwdgld63V3gm8BAmi/hero-image.fill.size_1200x675.v1775497866.jpg",
+        "title": "FBI warns against foreign mobile apps like CapCut in new PSA - Mashable",
+        "description": "A new public service announcement from the FBI is warning Americans about apps based in China.",
+        "source_link": "https://mashable.com/article/fbi-warns-against-foreign-mobile-apps-in-psa"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.nintendolife.com/1b7e472096620/large.jpg",
+        "title": "New Tomodachi Life: Living The Dream Trailer Continues Hugh Morris' Rejected Romance Drama - Nintendo Life",
+        "description": "Clowning around",
+        "source_link": "https://www.nintendolife.com/news/2026/04/new-tomodachi-life-living-the-dream-trailer-continues-hugh-morris-rejected-romance-drama"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.axios.com/O_cvY9j-OVkGb6M3HoLlzTpiu_8=/0x0:1280x720/1366x768/2026/04/06/1775516469525.jpg",
+        "title": "Why AI agents are going rogue to save their peers - Axios",
+        "description": "Here's what that study about scheming bots really means.",
+        "source_link": "https://www.axios.com/2026/04/07/berkeley-santa-cruz-study-bots-protect-each-other"
+      },
+      {
+        "rank": 4,
         "image": "https://imageio.forbes.com/specials-images/imageserve/69d231d663e90f93d3b82f1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "Apple\u2019s 2026 Shake-Up: iPhone 18 Pro Leaks While iPhone Fold Steals The Show - Forbes",
         "description": "Which iPhone flagship should you be waiting for? This September\u2019s launches will be unlike any previous year.",
         "source_link": "https://www.forbes.com/sites/davidphelan/2026/04/07/apples-2026-shake-up-iphone-18-pro-leaks-while-iphone-fold-steals-the-show/"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://imageio.forbes.com/specials-images/imageserve/69d48f143cef99c1d38a9d5f/0x0.jpg?format=jpg&crop=2352,1437,x393,y482,safe&height=900&width=1600&fit=bounds",
         "title": "Google Offers Free PC Upgrade For 500 Million Windows Users - Forbes",
         "description": "All change for Windows \u2014 it's now decision time for 30% of all PC owners.",
         "source_link": "https://www.forbes.com/sites/zakdoffman/2026/04/07/google-offers-free-pc-upgrade-for-500-million-windows-users/"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://cdn.road.cc/wp-content/uploads/2026/04/2026-surly-sorceress-hero.jpg",
+        "title": "Surly returns to the aggro hardtail market: Surly Sorceress first ride review - road.cc",
+        "description": "With a raft of bikepacking-focused and rather mental bikes coming from the brand over the past few years, it\u2019s been a hot minute since we\u2019ve seen a proper mountain bike from Surly, until now. The Sorceress is its latest hardtail, and in classic Surly fashion,\u2026",
+        "source_link": "https://road.cc/offroad/feature/surly-returns-to-the-aggro-hardtail-market-surly-sorceress-first-ride-review"
+      },
+      {
+        "rank": 7,
         "image": "https://images.nintendolife.com/66327a56b2038/large.jpg",
         "title": "Assassin's Creed Shadows Switch 2 Update Adds Mouse And Keyboard Support - Nintendo Life",
         "description": "Included in the new game update",
         "source_link": "https://www.nintendolife.com/news/2026/04/assassins-creed-shadows-switch-2-update-adds-mouse-and-keyboard-support"
       },
       {
-        "rank": 4,
-        "image": "https://media.eventhubs.com/images/2026/04/06-ingrid-interest-vote-sf6t.webp",
-        "title": "Polls: Are you more or less interested to play with Ingrid after the divisive and mysterious girl's teaser in Street Fighter 6? - EventHubs",
-        "description": "Street Fighter 6 is now approaching the end of its third season, but the game still has one more character to add to the roster for it \u2014 and she's one of the most intriguing divisive choices in the series ...",
-        "source_link": "https://www.eventhubs.com/news/2026/apr/06/ingrid-interest-vote-sf6/"
-      },
-      {
-        "rank": 5,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-Switch-update-22.1.0.jpg",
-        "title": "Nintendo Switch 2 and Switch update 22.1.0 out now, patch notes - Nintendo Everything",
-        "description": "Nintendo has now released a version 22.1.0 update for both Switch 2 and Switch, and here are the patch notes.",
-        "source_link": "https://nintendoeverything.com/nintendo-switch-2-and-switch-update-22-1-0-out-now-patch-notes/"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.macrumors.com/t/SSD-BFKe5ErlyzvRJieM0HiTVQA=/1815x/article-new/2026/04/apple-liquid-glass-design.jpg",
-        "title": "Apple Continues Promoting iOS 26 and macOS 26 Liquid Glass With Updated Design Gallery - MacRumors",
-        "description": "Apple is continuing to highlight the Liquid Glass aesthetic that it introduced in iOS 26, iPadOS 26, and macOS 26. The company has shared an updated...",
-        "source_link": "https://www.macrumors.com/2026/04/06/apple-liquid-glass-design-gallery-update/"
-      },
-      {
-        "rank": 7,
-        "image": "https://petapixel.com/assets/uploads/2026/04/artemis-ii-nikon-d5-featured.jpg",
-        "title": "The 10-Year-Old Nikon D5 DSLR Really Is the Best Camera for Artemis II - PetaPixel",
-        "description": "The Nikon D5 may be relatively old, but it's also uniquely powerful in low light.",
-        "source_link": "https://petapixel.com/2026/04/06/the-10-year-old-nikon-d5-dslr-really-is-the-best-camera-for-artemis-ii/"
-      },
-      {
         "rank": 8,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1581/15811374/4678324-michelangeloweirdness.jpg",
-        "title": "Magic: The Gathering's Teenage Mutant Ninja Turtles Is The Most Video Gamey Set Ever - GameSpot",
-        "description": "Other Magic sets draw from video game universes, but the TMNT set stands apart by making the language, mechanics, and culture of arcade games part of its identity.",
-        "source_link": "https://www.gamespot.com/articles/magic-the-gatherings-teenage-mutant-ninja-turtles-is-the-most-video-gamey-set-ever/1100-6539240/"
+        "image": null,
+        "title": "PS5 Update for April 2026 Stealth Drops UI Redesign - PlayStation LifeStyle",
+        "description": null,
+        "source_link": "https://www.playstationlifestyle.net/2026/04/06/ps5-update-april-2026-ui-redesign/"
+      },
+      {
+        "rank": 9,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Google-Pixel-10a-Isai-Blue.jpg",
+        "title": "Google just launched a special edition Pixel with exclusive wallpapers and icons - Android Authority",
+        "description": "The Pixel 10a Isai Blue is not just a new color option, but a special edition Pixel designed to mark a decade of Google's phones.",
+        "source_link": "https://www.androidauthority.com/google-pixel-10a-isai-blue-3655256/"
       }
     ],
     "trending_movies": [
@@ -83,24 +90,24 @@
       },
       {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+        "title": "The Drama",
+        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
+        "source_link": "https://www.themoviedb.org/movie/1325734"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
-        "title": "The Drama",
-        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
-        "source_link": "https://www.themoviedb.org/movie/1325734"
       },
       {
         "rank": 7,
@@ -111,17 +118,17 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/2c2ib9pS3BTIoMnYHi4z6t9nxuA.jpg",
-        "title": "Pizza Movie",
-        "description": "A shy college student and his reckless roommate set out on a simple mission to grab pizza, but after a strange dose of a mind-bending experimental dru...",
-        "source_link": "https://www.themoviedb.org/movie/1493859"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
         "title": "Crime 101",
         "description": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this bei...",
         "source_link": "https://www.themoviedb.org/movie/1171145"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/2c2ib9pS3BTIoMnYHi4z6t9nxuA.jpg",
+        "title": "Pizza Movie",
+        "description": "A shy college student and his reckless roommate set out on a simple mission to grab pizza, but after a strange dose of a mind-bending experimental dru...",
+        "source_link": "https://www.themoviedb.org/movie/1493859"
       },
       {
         "rank": 10,
