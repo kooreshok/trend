@@ -1,69 +1,76 @@
 {
-  "last_updated": "April 08, 2026, 08:56 UTC",
+  "last_updated": "April 08, 2026, 10:07 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69d231d663e90f93d3b82f1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "Apple\u2019s 2026 Shake-Up: iPhone 18 Pro Leaks While iPhone Fold Steals The Show - Forbes",
+        "description": "Which iPhone flagship should you be waiting for? This September\u2019s launches will be unlike any previous year.",
+        "source_link": "https://www.forbes.com/sites/davidphelan/2026/04/07/apples-2026-shake-up-iphone-18-pro-leaks-while-iphone-fold-steals-the-show/"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.nintendolife.com/66327a56b2038/large.jpg",
+        "title": "Assassin's Creed Shadows Switch 2 Update Adds Mouse And Keyboard Support - Nintendo Life",
+        "description": "Included in the new game update",
+        "source_link": "https://www.nintendolife.com/news/2026/04/assassins-creed-shadows-switch-2-update-adds-mouse-and-keyboard-support"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F814344b6-68d2-4064-b5b0-e1ba63ea3972.jpg?source=next-barrier-page",
+        "title": "Say no to a \u2018camera on your face\u2019, says Meta smartglasses rival - Financial Times",
+        "description": "Shenzhen-based Even Realities pitches itself as a premium alternative that does not harvest user data",
+        "source_link": "https://www.ft.com/content/30390769-2dc1-4573-8d2e-2e8359b2ee39?syn-25a6b1a6\\\\u003d1"
+      },
+      {
+        "rank": 4,
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F9%2F9%2F12339927-1-eng-GB%2Fc87d9914bee3-2023-04-14T150801Z_550723412_RC2EE0AUZ293_RTRMADP_3_APPLE-PRODUCTS.JPG?width=1260&fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&height=630",
+        "title": "Foldable iPhone hits engineering snags, shipment delays possible: sources - Nikkei Asia",
+        "description": "April-May 'extremely critical' period for Apple to resolve issues in time",
+        "source_link": "https://asia.nikkei.com/spotlight/supply-chain/foldable-iphone-hits-engineering-snags-shipment-delays-possible-sources"
+      },
+      {
+        "rank": 5,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-artemis.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Moonshot on iPhone: Astronaut Reid Wiseman snaps unbelievable photo of the lunar surface - 9to5Mac",
         "description": "Artemis II's Commander Reid Wiseman showed off a fantastic photo of the lunar surface he took on his iPhone 17 Pro Max.",
         "source_link": "https://9to5mac.com/2026/04/06/moonshot-on-iphone-astronaut-reid-wiseman-snaps-unbelievable-photo-of-the-lunar-surface/"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://media.eventhubs.com/images/2026/04/06-ingrid-interest-vote-sf6t.webp",
         "title": "Polls: Are you more or less interested to play with Ingrid after the divisive and mysterious girl's teaser in Street Fighter 6? - EventHubs",
         "description": "Street Fighter 6 is now approaching the end of its third season, but the game still has one more character to add to the roster for it \u2014 and she's one of the most intriguing divisive choices in the series ...",
         "source_link": "https://www.eventhubs.com/news/2026/apr/06/ingrid-interest-vote-sf6/"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-Switch-update-22.1.0.jpg",
         "title": "Nintendo Switch 2 and Switch update 22.1.0 out now, patch notes - Nintendo Everything",
         "description": "Nintendo has now released a version 22.1.0 update for both Switch 2 and Switch, and here are the patch notes.",
         "source_link": "https://nintendoeverything.com/nintendo-switch-2-and-switch-update-22-1-0-out-now-patch-notes/"
       },
       {
-        "rank": 4,
-        "image": "https://helios-i.mashable.com/imagery/articles/06cN28lwdgld63V3gm8BAmi/hero-image.fill.size_1200x675.v1775497866.jpg",
-        "title": "FBI warns against foreign mobile apps like CapCut in new PSA - Mashable",
-        "description": "A new public service announcement from the FBI is warning Americans about apps based in China.",
-        "source_link": "https://mashable.com/article/fbi-warns-against-foreign-mobile-apps-in-psa"
+        "rank": 8,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/pixel-10a-isai-blue-2.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google Pixel 10a finally launches in Japan with exclusive \u2018Isai Blue\u2019 color [Video] - 9to5Google",
+        "description": "The Pixel 10a launched about a month ago in most of the world, but has been absent in Japan despite...",
+        "source_link": "http://9to5google.com/2026/04/06/google-pixel-10a-exclusive-blue-color-launch/"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/overwatch-anran-redesign.jpg?w=1600&h=900&fit=crop",
         "title": "Overwatch's Anran redesign is a massive improvement from Blizzard - Polygon.com",
         "description": "Blizzard revealed Anran's redesign in Overwatch, following backlash over how different her in-game model was from the Elemental Kin cinematic",
         "source_link": "https://www.polygon.com/overwatchs-anran-redesign-blizzard-better/"
       },
       {
-        "rank": 6,
-        "image": "https://images.nintendolife.com/66327a56b2038/large.jpg",
-        "title": "Assassin's Creed Shadows Title Update 1.1.10 Out This Week On Switch 2, Here Are The Patch Notes - Nintendo Life",
-        "description": "Arriving alongside Title Update 1.1.10",
-        "source_link": "https://www.nintendolife.com/news/2026/04/assassins-creed-shadows-switch-2-update-adds-mouse-and-keyboard-support"
-      },
-      {
-        "rank": 7,
+        "rank": 10,
         "image": "https://images.macrumors.com/t/SSD-BFKe5ErlyzvRJieM0HiTVQA=/1815x/article-new/2026/04/apple-liquid-glass-design.jpg",
         "title": "Apple Continues Promoting iOS 26 and macOS 26 Liquid Glass With Updated Design Gallery - MacRumors",
         "description": "Apple is continuing to highlight the Liquid Glass aesthetic that it introduced in iOS 26, iPadOS 26, and macOS 26. The company has shared an updated...",
         "source_link": "https://www.macrumors.com/2026/04/06/apple-liquid-glass-design-gallery-update/"
-      },
-      {
-        "rank": 8,
-        "image": "https://static.boredpanda.com/blog/wp-content/uploads/2026/04/fb_image_69d41f50859df.png",
-        "title": "NASA\u2019s Reply to Travis Kelce\u2019s 16-Year-Old Tweet Has Everyone Talking - Bored Panda",
-        "description": "\u201cThere\u2019s a blank space joke in here somewhere,\u201d one Swiftie wrote.",
-        "source_link": "https://www.boredpanda.com/nasas-reply-to-travis-kelces-16-year-old-tweet-has-everyone-talking/"
-      },
-      {
-        "rank": 9,
-        "image": "https://petapixel.com/assets/uploads/2026/04/artemis-ii-nikon-d5-featured.jpg",
-        "title": "The 10-Year-Old Nikon D5 DSLR Really Is the Best Camera for Artemis II - PetaPixel",
-        "description": "The Nikon D5 may be relatively old, but it's also uniquely powerful in low light.",
-        "source_link": "https://petapixel.com/2026/04/06/the-10-year-old-nikon-d5-dslr-really-is-the-best-camera-for-artemis-ii/"
       }
     ],
     "trending_movies": [
@@ -90,24 +97,24 @@
       },
       {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
         "rank": 7,
@@ -132,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
-        "title": "Psycho Killer",
-        "description": "Following the brutal murder of her husband, a Kansas highway patrol officer sets out on a journey to track down the perpetrator. As the hunt progresse...",
-        "source_link": "https://www.themoviedb.org/movie/1107166"
+        "image": "https://image.tmdb.org/t/p/w200/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "Miranda Priestly navigates her career amid the decline of traditional magazine publishing. She faces off against Emily Charlton, her one-time assistan...",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
       }
     ]
   }
