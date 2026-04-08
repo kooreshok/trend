@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 08, 2026, 13:13 UTC",
+  "last_updated": "April 08, 2026, 15:05 UTC",
   "categories": {
     "tech_news": [
       {
@@ -69,17 +69,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-        "title": "The Bride!",
-        "description": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdere...",
-        "source_link": "https://www.themoviedb.org/movie/1159831"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
         "title": "Michael",
         "description": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journe...",
         "source_link": "https://www.themoviedb.org/movie/936075"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+        "title": "The Bride!",
+        "description": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdere...",
+        "source_link": "https://www.themoviedb.org/movie/1159831"
       },
       {
         "rank": 3,
@@ -97,17 +97,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
         "rank": 7,
@@ -132,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
-        "title": "Psycho Killer",
-        "description": "Following the brutal murder of her husband, a Kansas highway patrol officer sets out on a journey to track down the perpetrator. As the hunt progresse...",
-        "source_link": "https://www.themoviedb.org/movie/1107166"
+        "image": "https://image.tmdb.org/t/p/w200/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "Miranda Priestly navigates her career amid the decline of traditional magazine publishing. She faces off against Emily Charlton, her one-time assistan...",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
       }
     ]
   }
