@@ -1,69 +1,69 @@
 {
-  "last_updated": "April 08, 2026, 15:05 UTC",
+  "last_updated": "April 08, 2026, 16:56 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://kotaku.com/app/uploads/2026/04/Twilight-1200x675.jpg",
+        "title": "A Native PC Port Of The Legend of Zelda: Twilight Princess Running At 60FPS Looks Glorious - Kotaku",
+        "description": "Twilight Princess: Courage Reborn, a 60fps port of the original GameCube release of Twilight Princess, looks borderline complete in its latest showcase video",
+        "source_link": "https://kotaku.com/zelda-twilight-princess-pc-60fps-mod-port-2000685391"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.macrumors.com/t/uM1O4t-WvpT_0N08sMzApDgK9eg=/1920x/article-new/2026/03/macbook-neo-product-film-feature.jpg",
+        "title": "Apple is Reportedly Facing a 'Massive Dilemma' With the MacBook Neo - MacRumors",
+        "description": "The all-new MacBook Neo has been such a hit that Apple is facing a \"massive dilemma,\" according to Taiwan-based tech columnist and former...",
+        "source_link": "https://www.macrumors.com/2026/04/07/macbook-neo-massive-dilemma/"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268251_Asus_Zenbook_A16_laptop_review_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Asus\u2019 lightweight 16-inch laptop is a formidable MacBook Air alternative - The Verge",
+        "description": "The Zenbook A16 is slightly larger than a 15-inch MacBook Air but significantly lighter, and quite a competitive performer thanks to its Qualcomm Snapdragon X2 Elite Extreme chip.",
+        "source_link": "https://www.theverge.com/tech/907864/asus-zenbook-a16-snapdragon-x2-elite-extreme-review"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/04/Gothic-Remake-Pre-Orders_04-07-26.jpg",
+        "title": "Gothic Remake digital pre-orders now available, include Gothic Classic as free bonus on consoles - Gematsu",
+        "description": "Digital pre-orders for Gothic Remake are now available for PlayStation 5, Xbox Series, and PC via Steam and GOG ahead of its June 5 release, publisher THQ Nordic and developer Alkimia Interactive a\u2026",
+        "source_link": "https://www.gematsu.com/2026/04/gothic-remake-digital-pre-orders-now-available-include-gothic-classic-as-free-bonus-on-consoles"
+      },
+      {
+        "rank": 5,
+        "image": "https://images.pushsquare.com/90a55d1f4a9f3/large.jpg",
+        "title": "PlayStation to Start Putting Fans into PS5 Games with New Playerbase Program - Push Square",
+        "description": "Beginning with Gran Turismo 7",
+        "source_link": "https://www.pushsquare.com/news/2026/04/playstation-to-start-putting-fans-into-ps5-games-with-new-playerbase-program"
+      },
+      {
+        "rank": 6,
+        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/04/XBOX_GamePass_Announcement_16x9_04.07.2026_EN-US-a02b8125f42ae811bb3e.jpg",
+        "title": "Coming to Xbox Game Pass: Kiln, Hades II, Vampire Crawlers, and More - Xbox Wire",
+        "description": "Coming soon to Xbox Game Pass: Kiln, Hades II, Vampire Crawlers, and more!",
+        "source_link": "https://news.xbox.com/en-us/2026/04/07/xbox-game-pass-april-2026-wave-1/"
+      },
+      {
+        "rank": 7,
+        "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800",
+        "title": "Adobe launches Acrobat Spaces, a free AI-powered study tool for students - TechCrunch",
+        "description": "Adobe Acrobat Student Spaces is a free tool for students to use AI and create different kinds of study material from documents.",
+        "source_link": "https://techcrunch.com/2026/04/07/adobe-launches-acrobat-spaces-a-free-ai-powered-study-tool-for-students/"
+      },
+      {
+        "rank": 8,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69d4fc829e10705c650c978b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "\u2018Marathon\u2019 Is Now Plagued With A Cheater Infestation - Forbes",
+        "description": "Marathon has many challenges, but its latest is dealing with a lot of cheaters infesting its higher-end matches.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/04/07/marathon-is-now-plagued-with-a-cheater-infestation/"
+      },
+      {
+        "rank": 9,
         "image": "https://helios-i.mashable.com/imagery/articles/06cN28lwdgld63V3gm8BAmi/hero-image.fill.size_1200x675.v1775497866.jpg",
         "title": "FBI warns against foreign mobile apps like CapCut in new PSA - Mashable",
         "description": "A new public service announcement from the FBI is warning Americans about apps based in China.",
         "source_link": "https://mashable.com/article/fbi-warns-against-foreign-mobile-apps-in-psa"
-      },
-      {
-        "rank": 2,
-        "image": "https://images.nintendolife.com/1b7e472096620/large.jpg",
-        "title": "New Tomodachi Life: Living The Dream Trailer Continues Hugh Morris' Rejected Romance Drama - Nintendo Life",
-        "description": "Clowning around",
-        "source_link": "https://www.nintendolife.com/news/2026/04/new-tomodachi-life-living-the-dream-trailer-continues-hugh-morris-rejected-romance-drama"
-      },
-      {
-        "rank": 3,
-        "image": "https://images.axios.com/O_cvY9j-OVkGb6M3HoLlzTpiu_8=/0x0:1280x720/1366x768/2026/04/06/1775516469525.jpg",
-        "title": "Why AI agents are going rogue to save their peers - Axios",
-        "description": "Here's what that study about scheming bots really means.",
-        "source_link": "https://www.axios.com/2026/04/07/berkeley-santa-cruz-study-bots-protect-each-other"
-      },
-      {
-        "rank": 4,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69d231d663e90f93d3b82f1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "Apple\u2019s 2026 Shake-Up: iPhone 18 Pro Leaks While iPhone Fold Steals The Show - Forbes",
-        "description": "Which iPhone flagship should you be waiting for? This September\u2019s launches will be unlike any previous year.",
-        "source_link": "https://www.forbes.com/sites/davidphelan/2026/04/07/apples-2026-shake-up-iphone-18-pro-leaks-while-iphone-fold-steals-the-show/"
-      },
-      {
-        "rank": 5,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69d48f143cef99c1d38a9d5f/0x0.jpg?format=jpg&crop=2352,1437,x393,y482,safe&height=900&width=1600&fit=bounds",
-        "title": "Google Offers Free PC Upgrade For 500 Million Windows Users - Forbes",
-        "description": "All change for Windows \u2014 it's now decision time for 30% of all PC owners.",
-        "source_link": "https://www.forbes.com/sites/zakdoffman/2026/04/07/google-offers-free-pc-upgrade-for-500-million-windows-users/"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.road.cc/wp-content/uploads/2026/04/2026-surly-sorceress-hero.jpg",
-        "title": "Surly returns to the aggro hardtail market: Surly Sorceress first ride review - road.cc",
-        "description": "With a raft of bikepacking-focused and rather mental bikes coming from the brand over the past few years, it\u2019s been a hot minute since we\u2019ve seen a proper mountain bike from Surly, until now. The Sorceress is its latest hardtail, and in classic Surly fashion,\u2026",
-        "source_link": "https://road.cc/offroad/feature/surly-returns-to-the-aggro-hardtail-market-surly-sorceress-first-ride-review"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.nintendolife.com/66327a56b2038/large.jpg",
-        "title": "Assassin's Creed Shadows Switch 2 Update Adds Mouse And Keyboard Support - Nintendo Life",
-        "description": "Included in the new game update",
-        "source_link": "https://www.nintendolife.com/news/2026/04/assassins-creed-shadows-switch-2-update-adds-mouse-and-keyboard-support"
-      },
-      {
-        "rank": 8,
-        "image": null,
-        "title": "PS5 Update for April 2026 Stealth Drops UI Redesign - PlayStation LifeStyle",
-        "description": null,
-        "source_link": "https://www.playstationlifestyle.net/2026/04/06/ps5-update-april-2026-ui-redesign/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Google-Pixel-10a-Isai-Blue.jpg",
-        "title": "Google just launched a special edition Pixel with exclusive wallpapers and icons - Android Authority",
-        "description": "The Pixel 10a Isai Blue is not just a new color option, but a special edition Pixel designed to mark a decade of Google's phones.",
-        "source_link": "https://www.androidauthority.com/google-pixel-10a-isai-blue-3655256/"
       }
     ],
     "trending_movies": [
@@ -90,24 +90,24 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
-        "title": "The Drama",
-        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
-        "source_link": "https://www.themoviedb.org/movie/1325734"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+        "title": "The Drama",
+        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
+        "source_link": "https://www.themoviedb.org/movie/1325734"
       },
       {
         "rank": 7,
@@ -125,17 +125,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/2c2ib9pS3BTIoMnYHi4z6t9nxuA.jpg",
-        "title": "Pizza Movie",
-        "description": "A shy college student and his reckless roommate set out on a simple mission to grab pizza, but after a strange dose of a mind-bending experimental dru...",
-        "source_link": "https://www.themoviedb.org/movie/1493859"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
         "title": "The Devil Wears Prada 2",
         "description": "Miranda Priestly navigates her career amid the decline of traditional magazine publishing. She faces off against Emily Charlton, her one-time assistan...",
         "source_link": "https://www.themoviedb.org/movie/1314481"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
+        "title": "Psycho Killer",
+        "description": "Following the brutal murder of her husband, a Kansas highway patrol officer sets out on a journey to track down the perpetrator. As the hunt progresse...",
+        "source_link": "https://www.themoviedb.org/movie/1107166"
       }
     ]
   }
