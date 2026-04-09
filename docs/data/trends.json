@@ -1,27 +1,27 @@
 {
-  "last_updated": "April 09, 2026, 01:55 UTC",
+  "last_updated": "April 09, 2026, 04:31 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.bgr.com/img/gallery/80s-inspired-amazon-gadgets/l-intro-1775068300.jpg",
+        "title": "4 '80s Inspired Retro Gadgets You Can Find On Amazon - bgr.com",
+        "description": "There are many retro-inspired gadgets on Amazon, such as typewriter-style keyboards, '80s-style mics, and even CD players styled as record players.",
+        "source_link": "https://www.bgr.com/2137868/80s-inspired-amazon-gadgets/"
+      },
+      {
+        "rank": 2,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Vision-Pro-HMD-1152x648.jpeg",
         "title": "Valve brings native Steam Link app to Apple's Vision Pro - Ars Technica",
         "description": "New app can replace third-party options that were jankier to use.",
         "source_link": "https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/CMF-Buds-2a-in-Dark-Grey.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
         "title": "Nothing\u2019s noise-canceling CMF Buds 2A are down to $19.99 for the rest of today - The Verge",
         "description": "Thanks to a lightning deal at Amazon, Nothing\u2019s CMF Buds 2A \u2014 which offer ANC and a host of more premium features \u2014 are on sale for a mere $19.99 ($29 off).",
         "source_link": "https://www.theverge.com/gadgets/908409/nothing-cmf-buds-2a-earbuds-amazon-lightning-deal-sale"
-      },
-      {
-        "rank": 3,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Apple-Self-Service-Repair-iPhone-1152x648.jpg",
-        "title": "Apple and Lenovo have the least repairable laptops, analysis finds - Ars Technica",
-        "description": "The MacBook Neo is a step in the right direction, though.",
-        "source_link": "https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/"
       },
       {
         "rank": 4,
@@ -39,38 +39,38 @@
       },
       {
         "rank": 6,
-        "image": "https://images.macrumors.com/t/FBjxti_AyvjIz6PJNG2zDFiYWPk=/2096x/article-new/2026/04/google-chrome-vertical-tabs.jpg",
-        "title": "Google Brings Vertical Tabs and Improved Reading Mode to Chrome - MacRumors",
-        "description": "Google today updated its Chrome browser with support for vertical tabs, which are displayed in a sidebar instead of at the top of the browser.   The...",
-        "source_link": "https://www.macrumors.com/2026/04/07/chrome-vertical-tabs/"
-      },
-      {
-        "rank": 7,
         "image": "https://kotaku.com/app/uploads/2025/08/PS5-grid.jpg",
         "title": "New PS5 Dashboard Update Leaks And Damn, Sony, That Looks Good - Kotaku",
         "description": "The PlayStation 5 home menu is about to get a lot easier to navigate, according to a beta tester",
         "source_link": "https://kotaku.com/new-ps5-dashboard-update-leaks-and-damn-sony-that-looks-good-2000685452"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://kotaku.com/app/uploads/2026/04/prat.jpg",
         "title": "Chris Pratt Gets Roasted For Fumbling Basic Mario Lore - Kotaku",
         "description": "\u2018It\u2019s one thing to not know the source material but how do you not even know what\u2019s happening in your own movie\u2019",
         "source_link": "https://kotaku.com/chris-pratt-mario-galaxy-movie-mushroom-planet-kingdom-2000685457"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://images.digitalfoundry.net/a2f5aa6285d23/large.jpg",
         "title": "Review: Cyberpunk 2077's PS5 Pro Patch Goes Heavy On RT And Performance Upgrades - Digital Foundry",
         "description": "Three new modes, backed by the new PSSR.",
         "source_link": "https://www.digitalfoundry.net/reviews/cyberpunk-2077s-ps5-pro-patch-goes-heavy-on-rt-and-performance-upgrades"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://cdn.wccftech.com/wp-content/uploads/2026/04/DLSS-5-1920x1073.jpg",
         "title": "NVIDIA DLSS 5 \u2014 Everything We Know So Far About NVIDIA\u2019s Latest Neural Rendering Technology - Wccftech",
         "description": "NVIDIA's DLSS 5 is set to launch Fall 2026, offering real-time neural rendering for photoreal graphics on RTX 50 Series GPUs.",
         "source_link": "https://wccftech.com/roundup/nvidia-dlss-5/"
+      },
+      {
+        "rank": 10,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/bluesky-vibe-coder-1152x648.jpg",
+        "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\" - Ars Technica",
+        "description": "Use of AI coding tools has become a convenient boogeyman for any tech issues.",
+        "source_link": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/"
       }
     ],
     "trending_movies": [
@@ -104,24 +104,24 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg",
         "title": "Sniper: No Nation",
         "description": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage....",
         "source_link": "https://www.themoviedb.org/movie/1641319"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
         "title": "The Drama",
         "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
         "source_link": "https://www.themoviedb.org/movie/1325734"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
         "rank": 8,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/2c2ib9pS3BTIoMnYHi4z6t9nxuA.jpg",
         "title": "Pizza Movie",
         "description": "A shy college student and his reckless roommate set out on a simple mission to grab pizza, but after a strange dose of a mind-bending experimental dru...",
         "source_link": "https://www.themoviedb.org/movie/1493859"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       }
     ]
   }
