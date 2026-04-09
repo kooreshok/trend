@@ -1,76 +1,76 @@
 {
-  "last_updated": "April 09, 2026, 20:03 UTC",
+  "last_updated": "April 09, 2026, 21:42 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/linkedin-logo-1152x648-1775680554.jpg",
+        "title": "LinkedIn scanning users\u2019 browser extensions sparks controversy and two lawsuits - Ars Technica",
+        "description": "LinkedIn says claims fabricated by extension maker suspended for scraping data.",
+        "source_link": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/"
+      },
+      {
+        "rank": 2,
+        "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/2024-Mustang-RTR-Spec-CD_Review-copy.png",
+        "title": "Vaughn Gittin Jr. Accuses Car And Driver Of Using AI After A Negative Review Of His 800 HP Mustang That\u2019s Slower Than A Mustang GT - The Autopian",
+        "description": "After disappointing test figures from an RTR Spec 3 Mustang, Vaughn Gittin Jr. seems to be accusing a writer of using AI.",
+        "source_link": "https://www.theautopian.com/vaughn-gittin-jr-baselessly-suggests-that-car-and-driver-is-using-ai-after-slightly-negative-review-of-his-spec-3-mustang/"
+      },
+      {
+        "rank": 3,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-865878412.jpg?resize=1200,797",
+        "title": "Amazon to end support for older Kindle devices - TechCrunch",
+        "description": "Amazon told Kindle owners this week that it's ending support for all e-readers released in 2012 or earlier, making them virtually unable to load any new content.",
+        "source_link": "https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/"
+      },
+      {
+        "rank": 4,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01695.jpg?quality=90&strip=all&crop=0%2C19.01830387254%2C78.703125%2C61.808702337889&w=1200",
         "title": "I finally get the iPhone Air - The Verge",
         "description": "The iPhone Air is delightfully slim but comes with a small battery and one rear camera. But maybe the key to enjoying the Air is leaning into MagSafe modularity.",
         "source_link": "https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://common.cdn.cdpr.app/news/303aab7c75ab44d5b13eeda7ae40db7e_q90_1920x1080.png",
         "title": "PlayStation\u00ae5 Pro Update Is Live! - cyberpunk.net",
         "description": "",
         "source_link": "https://www.cyberpunk.net/en/news/51938/playstation-r-5-pro-update-is-live"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69d48f143cef99c1d38a9d5f/0x0.jpg?format=jpg&crop=2352,1437,x393,y482,safe&height=900&width=1600&fit=bounds",
+        "title": "Google Offers Free PC Upgrade For 500 Million Windows Users - Forbes",
+        "description": "All change for Windows \u2014 it's now decision time for 30% of all PC owners.",
+        "source_link": "https://www.forbes.com/sites/zakdoffman/2026/04/08/google-offers-free-pc-upgrade-for-500-million-windows-users/"
+      },
+      {
+        "rank": 7,
         "image": "https://imageio.forbes.com/specials-images/imageserve/69d69af34b596db7f33b2f06/0x0.jpg?format=jpg&crop=2771,1558,x0,y222,safe&height=900&width=1600&fit=bounds",
         "title": "Pok\u00e9mon Fans Blast New \u2018Champions\u2019 Game As Nintendo Stock Erases Gains From \u2018Pokopia\u2019 - Forbes",
         "description": "Nintendo stock dipped Wednesday, closing at its lowest price in a month and erasing gains it made last month after the surprise success of \u201cPok\u00e9mon Pokopia.\u201d",
         "source_link": "https://www.forbes.com/sites/conormurray/2026/04/08/fans-blast-pokmon-champions-game-as-nintendo-wipes-pokopia-stock-gains/"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/04/0.-Hero-b0ffcd3842eae2b266ae-1024x576.png",
         "title": "Available for Xbox Insiders: New Improvements to Achievements - Xbox Wire",
         "description": null,
         "source_link": "https://news.xbox.com/en-us/2026/04/08/xbox-insiders-may-2026-console-features/"
       },
       {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Microsoft\u2019s executive shake-up continues as developer division chief resigns - The Verge",
-        "description": "Microsoft executive Julia Liuson is leaving the company after 34 years. Liuson is the head of Microsoft\u2019s developer division.",
-        "source_link": "https://www.theverge.com/tech/908793/microsoft-devdiv-julia-liuson-resignation"
-      },
-      {
-        "rank": 6,
-        "image": "https://media.wired.com/photos/69d679c9383b6979c9a47b1a/191:100/w_1280,c_limit/Amazon-Killing-Older-Kindles-Gear-86436640.jpg",
-        "title": "Amazon Pulls Support for Perfectly Fine Older Kindles - WIRED",
-        "description": "In an email to customers, Amazon announced that it would be ending service for Kindle devices older than the 2012 edition. Those devices will lose access to the Kindle Store.",
-        "source_link": "https://www.wired.com/story/amazon-pulls-support-for-perfectly-fine-older-kindles/"
-      },
-      {
-        "rank": 7,
+        "rank": 9,
         "image": "https://images.macrumors.com/t/2GmZRMbeiD3_nZtrbgiHsLCMrGU=/2000x/article-new/2025/09/iphone-air-all-colors.jpg",
         "title": "iPhone Air 2 and iPhone 18e Reportedly Launching Early Next Year - MacRumors",
         "description": "Apple plans to release an updated iPhone Air and a lower-end iPhone 18e early next year, according to the latest word from Bloomberg's Mark...",
         "source_link": "https://www.macrumors.com/2026/04/08/iphone-air-2-and-iphone-18e-early-next-year/"
       },
       {
-        "rank": 8,
+        "rank": 10,
         "image": "https://kotaku.com/app/uploads/2026/04/Screen-Shot-2026-04-08-at-12.26.48-PM-1200x675.jpg",
         "title": "Overwatch\u2019s Next Hero Isn\u2019t Who Fans Thought She Was - Kotaku",
         "description": "The game\u2019s 51st hero looked a lot like a character from the novels",
         "source_link": "https://kotaku.com/overwatch-hero-51-season-2-frankie-sierra-trailer-reveal-2000685793"
-      },
-      {
-        "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2026/04/the-cube-save-us-1200x675.jpg",
-        "title": "2026\u2019s Newest Sci-Fi Extraction Shooter Only Lasted Three Weeks Before Announcing It\u2019s Shutting Down - Kotaku",
-        "description": "Live-Service game The Cube, Save Us is closing in one month",
-        "source_link": "https://kotaku.com/the-cube-save-us-live-service-closure-extraction-shooter-2000685769"
-      },
-      {
-        "rank": 10,
-        "image": "https://kotaku.com/app/uploads/2026/04/image-53.jpg",
-        "title": "Early Build Of Mirror's Edge Reveals A Wonderfully Cringe Quote - Kotaku",
-        "description": "Also: Star Fox's big new game reveal could happen any day now",
-        "source_link": "https://kotaku.com/assassins-creed-black-flag-remake-star-fox-reveal-2000685729"
       }
     ],
     "trending_movies": [
@@ -97,10 +97,10 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg",
-        "title": "Sniper: No Nation",
-        "description": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage....",
-        "source_link": "https://www.themoviedb.org/movie/1641319"
+        "image": "https://image.tmdb.org/t/p/w200/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+        "title": "The Bride!",
+        "description": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdere...",
+        "source_link": "https://www.themoviedb.org/movie/1159831"
       },
       {
         "rank": 5,
@@ -111,10 +111,10 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-        "title": "The Bride!",
-        "description": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdere...",
-        "source_link": "https://www.themoviedb.org/movie/1159831"
+        "image": "https://image.tmdb.org/t/p/w200/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg",
+        "title": "Sniper: No Nation",
+        "description": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage....",
+        "source_link": "https://www.themoviedb.org/movie/1641319"
       },
       {
         "rank": 7,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-        "title": "Scream 7",
-        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
-        "source_link": "https://www.themoviedb.org/movie/1159559"
+        "image": "https://image.tmdb.org/t/p/w200/wjcPbV53ovhlogVFYdmkTDBooqg.jpg",
+        "title": "The Punisher: One Last Kill",
+        "description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight....",
+        "source_link": "https://www.themoviedb.org/movie/1439930"
       }
     ]
   }
