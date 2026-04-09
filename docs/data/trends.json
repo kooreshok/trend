@@ -1,76 +1,76 @@
 {
-  "last_updated": "April 09, 2026, 10:09 UTC",
+  "last_updated": "April 09, 2026, 11:52 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268422_Victoria_CGM_continuous_Glucose_Monitor_AKrales_0127.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "A year of continuous glucose monitoring pushed me to the edge - The Verge",
+        "description": "After over a year of testing continuous glucose monitors for non-diabetics, the jury is still out on how much it can help \u2014 or hinder \u2014 your health journey.",
+        "source_link": "https://www.theverge.com/features/907359/cgms-optimizing-metabolism-dexcom-abbott-wearables-health-tech"
+      },
+      {
+        "rank": 2,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69d231d663e90f93d3b82f1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "Apple\u2019s 2026 Shake-Up: iPhone 18 Pro Leaks While iPhone Fold Steals The Show - Forbes",
+        "description": "Which iPhone flagship should you be waiting for? This September\u2019s launches will be unlike any previous year.",
+        "source_link": "https://www.forbes.com/sites/davidphelan/2026/04/08/apples-2026-shake-up-iphone-18-pro-leaks-while-iphone-fold-steals-the-show/"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/controlpanel.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Why Microsoft\u2019s war on Windows\u2019 Control Panel is taking so long - theverge.com",
+        "description": "It\u2019s all to do with pesky printer and network drivers.",
+        "source_link": "https://www.theverge.com/news/908624/microsoft-windows-control-panel-removal-explanation"
+      },
+      {
+        "rank": 4,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/11/img_1140.jpg?w=1600&h=900&fit=crop",
+        "title": "Google\u2019s April 2026 Pixel update tackles some annoying bugs - androidpolice.com",
+        "description": "Fixes game crashes and Quick Share issues",
+        "source_link": "https://www.androidpolice.com/google-april-2026-pixel-update-tackles-some-annoying-bugs/"
+      },
+      {
+        "rank": 5,
         "image": "https://images.nintendolife.com/841c5b5bb7549/large.jpg",
         "title": "PSA: You Can Now Download Pok\u00e9mon Champions On Switch - Nintendo Life",
         "description": "There's also a free update for Switch 2",
         "source_link": "https://www.nintendolife.com/news/2026/04/psa-you-can-now-download-pokemon-champions-on-switch"
       },
       {
-        "rank": 2,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/whatsapp-carplay.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "WhatsApp\u2019s improved CarPlay experience is now available to all iPhone users - 9to5Mac",
-        "description": "Following just a few days of beta testing, WhatsApp has now released its improved CarPlay experience to all iPhone users.",
-        "source_link": "https://9to5mac.com/2026/04/07/whatsapps-improved-carplay-experience-is-now-available-to-all-iphone-users/"
+        "rank": 6,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/Android-Game-Controller-Remapping-Hero-Image-scaled.jpeg",
+        "title": "Google finally adds a long-requested gaming feature to Android 17 - Android Authority",
+        "description": "Google has added controller remapping in Android 17 Beta, allowing gamers to customize how their gamepad buttons, sticks, and triggers behave.",
+        "source_link": "https://www.androidauthority.com/android-17-controller-remapping-3655681/"
       },
       {
-        "rank": 3,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Vision-Pro-HMD-1152x648.jpeg",
-        "title": "Valve brings native Steam Link app to Apple's Vision Pro - Ars Technica",
-        "description": "New app can replace third-party options that were jankier to use.",
-        "source_link": "https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/"
+        "rank": 7,
+        "image": "https://images.macrumors.com/t/b-uvcvJdDNNAUOfDYKKpVDiu0eQ=/2000x/article-new/2026/04/whatsapp-carplay.jpg",
+        "title": "WhatsApp Gets New CarPlay App - MacRumors",
+        "description": "Facebook-owned messaging app WhatsApp was today updated with expanded support for CarPlay. CarPlay users are able to more easily call and message...",
+        "source_link": "https://www.macrumors.com/2026/04/07/whatsapp-gets-new-carplay-app/"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Apple-Self-Service-Repair-iPhone-1152x648.jpg",
         "title": "Apple and Lenovo have the least repairable laptops, analysis finds - Ars Technica",
         "description": "The MacBook Neo is a step in the right direction, though.",
         "source_link": "https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/amazonkindle2.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
         "title": "Amazon is ending support for older Kindles and Kindle Fires - The Verge",
         "description": "Amazon is ending support for several Kindle and Kindle Fire devices released in 2012 and earlier, including the original model from 2007.",
         "source_link": "https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://images.macrumors.com/t/FBjxti_AyvjIz6PJNG2zDFiYWPk=/2096x/article-new/2026/04/google-chrome-vertical-tabs.jpg",
         "title": "Google Brings Vertical Tabs and Improved Reading Mode to Chrome - MacRumors",
         "description": "Google today updated its Chrome browser with support for vertical tabs, which are displayed in a sidebar instead of at the top of the browser.   The...",
         "source_link": "https://www.macrumors.com/2026/04/07/chrome-vertical-tabs/"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets.techrepublic.com/uploads/2026/04/chromeos.jpg",
-        "title": "Google Introduces $3 ChromeOS Flex Kit for 500M Windows 10 Users - TechRepublic",
-        "description": "Google and Back Market\u2019s $3 ChromeOS Flex USB Kit offers Windows 10 users a low-cost way to revive older PCs as support winds down.",
-        "source_link": "https://www.techrepublic.com/article/news-google-3-dollar-chromeos-flex-kit-windows-10-users/"
-      },
-      {
-        "rank": 8,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Nickelodeon-Extreme-Tennis-Next.jpg",
-        "title": "Nickelodeon Extreme Tennis Next announced for Nintendo Switch - Nintendo Everything",
-        "description": "Today, Gameloft unveiled Nickelodeon Extreme Tennis Next for Nintendo Switch. The game is launching on May 28, 2026. Nickelodeon Extreme Tennis is a fast-paced arcade tennis game featuring popular characters from SpongeBob, Avatar, Teenage Mutant Ninja Turtle\u2026",
-        "source_link": "https://nintendoeverything.com/nickelodeon-extreme-tennis-next-announced-for-nintendo-switch/"
-      },
-      {
-        "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2026/04/prat.jpg",
-        "title": "Chris Pratt Gets Roasted For Fumbling Basic Mario Lore - Kotaku",
-        "description": "\u2018It\u2019s one thing to not know the source material but how do you not even know what\u2019s happening in your own movie\u2019",
-        "source_link": "https://kotaku.com/chris-pratt-mario-galaxy-movie-mushroom-planet-kingdom-2000685457"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.digitalfoundry.net/a2f5aa6285d23/large.jpg",
-        "title": "Review: Cyberpunk 2077's PS5 Pro Patch Goes Heavy On RT And Performance Upgrades - Digital Foundry",
-        "description": "Three new modes, backed by the new PSSR.",
-        "source_link": "https://www.digitalfoundry.net/reviews/cyberpunk-2077s-ps5-pro-patch-goes-heavy-on-rt-and-performance-upgrades"
       }
     ],
     "trending_movies": [
@@ -83,31 +83,31 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-        "title": "The Bride!",
-        "description": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdere...",
-        "source_link": "https://www.themoviedb.org/movie/1159831"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+        "title": "The Bride!",
+        "description": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdere...",
+        "source_link": "https://www.themoviedb.org/movie/1159831"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg",
         "title": "Sniper: No Nation",
         "description": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage....",
         "source_link": "https://www.themoviedb.org/movie/1641319"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
         "rank": 6,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/2c2ib9pS3BTIoMnYHi4z6t9nxuA.jpg",
-        "title": "Pizza Movie",
-        "description": "A shy college student and his reckless roommate set out on a simple mission to grab pizza, but after a strange dose of a mind-bending experimental dru...",
-        "source_link": "https://www.themoviedb.org/movie/1493859"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
         "title": "Crime 101",
         "description": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this bei...",
         "source_link": "https://www.themoviedb.org/movie/1171145"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/2c2ib9pS3BTIoMnYHi4z6t9nxuA.jpg",
+        "title": "Pizza Movie",
+        "description": "A shy college student and his reckless roommate set out on a simple mission to grab pizza, but after a strange dose of a mind-bending experimental dru...",
+        "source_link": "https://www.themoviedb.org/movie/1493859"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
-        "title": "Psycho Killer",
-        "description": "Following the brutal murder of her husband, a Kansas highway patrol officer sets out on a journey to track down the perpetrator. As the hunt progresse...",
-        "source_link": "https://www.themoviedb.org/movie/1107166"
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       }
     ]
   }
