@@ -1,92 +1,78 @@
 {
-  "last_updated": "April 09, 2026, 11:52 UTC",
+  "last_updated": "April 09, 2026, 13:17 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://helios-i.mashable.com/imagery/articles/02lxpt3fHCrVqU0hbMpG35J/hero-image.fill.size_1200x675.v1775637306.jpg",
+        "title": "Regularly $999, score a MacBook Air for $200 with this limited-time deal - Mashable",
+        "description": "High-end laptop, low-end price tag.",
+        "source_link": "https://mashable.com/article/april-8-macbook-air-13-3-inch-8gbram-128gb"
+      },
+      {
+        "rank": 2,
+        "image": "https://assets.warhammer-community.com/new40k_terrain-apr08-1-feature-we7yivqflx.jpg",
+        "title": "#New40k \u2013 Take cover with updated terrain rules - Warhammer Community",
+        "description": "It\u2019s not hiding, it\u2019s tactical! See how rocks and ruins have changed in the new edition.",
+        "source_link": "https://www.warhammer-community.com/articles/xlppkx5s/new40k-take-cover-with-updated-terrain-rules"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/ss_7775b5046e2fcc717f180577f482b2a5e3cbf0dc.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "Xbox\u2019s new era needs games like Forza Horizon 6 - The Verge",
+        "description": "Forza Horizon 6 launches on the Xbox and PC on May 19th, and it represents an important moment for Microsoft\u2019s gaming efforts.",
+        "source_link": "https://www.theverge.com/games/908305/forza-horizon-6-preview-xbox"
+      },
+      {
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple very cautious about iPhone Ultra sales, as Samsung wins major concession - 9to5Mac",
+        "description": "A new report suggests Apple is being extremely cautious in its expectations of demand for its most expensive ever smartphone,...",
+        "source_link": "https://9to5mac.com/2026/04/08/apple-very-cautious-about-iphone-ultra-sales-as-samsung-wins-major-concession/"
+      },
+      {
+        "rank": 5,
+        "image": "https://nintendoeverything.com/wp-content/uploads/007-First-Light-delay-Switch-2.jpg",
+        "title": "Rumor: 007 First Light delayed indefinitely on Nintendo Switch 2 [update: summer delay] - Nintendo Everything",
+        "description": "Original: Rumor has it that the Nintendo Switch 2 version of 007 First Light has been hit with its own delay. 007 First Light was originally planned for release for all platforms on March 27, 2026. IO Interactive later pushed the launch back to May 27, 2026, \u2026",
+        "source_link": "https://nintendoeverything.com/rumor-007-first-light-delayed-indefinitely-on-nintendo-switch-2/"
+      },
+      {
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268422_Victoria_CGM_continuous_Glucose_Monitor_AKrales_0127.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "A year of continuous glucose monitoring pushed me to the edge - The Verge",
         "description": "After over a year of testing continuous glucose monitors for non-diabetics, the jury is still out on how much it can help \u2014 or hinder \u2014 your health journey.",
         "source_link": "https://www.theverge.com/features/907359/cgms-optimizing-metabolism-dexcom-abbott-wearables-health-tech"
       },
       {
-        "rank": 2,
+        "rank": 7,
         "image": "https://imageio.forbes.com/specials-images/imageserve/69d231d663e90f93d3b82f1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "Apple\u2019s 2026 Shake-Up: iPhone 18 Pro Leaks While iPhone Fold Steals The Show - Forbes",
         "description": "Which iPhone flagship should you be waiting for? This September\u2019s launches will be unlike any previous year.",
         "source_link": "https://www.forbes.com/sites/davidphelan/2026/04/08/apples-2026-shake-up-iphone-18-pro-leaks-while-iphone-fold-steals-the-show/"
       },
       {
-        "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/controlpanel.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Why Microsoft\u2019s war on Windows\u2019 Control Panel is taking so long - theverge.com",
-        "description": "It\u2019s all to do with pesky printer and network drivers.",
-        "source_link": "https://www.theverge.com/news/908624/microsoft-windows-control-panel-removal-explanation"
-      },
-      {
-        "rank": 4,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/11/img_1140.jpg?w=1600&h=900&fit=crop",
-        "title": "Google\u2019s April 2026 Pixel update tackles some annoying bugs - androidpolice.com",
-        "description": "Fixes game crashes and Quick Share issues",
-        "source_link": "https://www.androidpolice.com/google-april-2026-pixel-update-tackles-some-annoying-bugs/"
-      },
-      {
-        "rank": 5,
-        "image": "https://images.nintendolife.com/841c5b5bb7549/large.jpg",
-        "title": "PSA: You Can Now Download Pok\u00e9mon Champions On Switch - Nintendo Life",
-        "description": "There's also a free update for Switch 2",
-        "source_link": "https://www.nintendolife.com/news/2026/04/psa-you-can-now-download-pokemon-champions-on-switch"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2025/12/Android-Game-Controller-Remapping-Hero-Image-scaled.jpeg",
-        "title": "Google finally adds a long-requested gaming feature to Android 17 - Android Authority",
-        "description": "Google has added controller remapping in Android 17 Beta, allowing gamers to customize how their gamepad buttons, sticks, and triggers behave.",
-        "source_link": "https://www.androidauthority.com/android-17-controller-remapping-3655681/"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.macrumors.com/t/b-uvcvJdDNNAUOfDYKKpVDiu0eQ=/2000x/article-new/2026/04/whatsapp-carplay.jpg",
-        "title": "WhatsApp Gets New CarPlay App - MacRumors",
-        "description": "Facebook-owned messaging app WhatsApp was today updated with expanded support for CarPlay. CarPlay users are able to more easily call and message...",
-        "source_link": "https://www.macrumors.com/2026/04/07/whatsapp-gets-new-carplay-app/"
-      },
-      {
         "rank": 8,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Apple-Self-Service-Repair-iPhone-1152x648.jpg",
-        "title": "Apple and Lenovo have the least repairable laptops, analysis finds - Ars Technica",
-        "description": "The MacBook Neo is a step in the right direction, though.",
-        "source_link": "https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/amazonkindle2.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
-        "title": "Amazon is ending support for older Kindles and Kindle Fires - The Verge",
-        "description": "Amazon is ending support for several Kindle and Kindle Fire devices released in 2012 and earlier, including the original model from 2007.",
-        "source_link": "https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.macrumors.com/t/FBjxti_AyvjIz6PJNG2zDFiYWPk=/2096x/article-new/2026/04/google-chrome-vertical-tabs.jpg",
-        "title": "Google Brings Vertical Tabs and Improved Reading Mode to Chrome - MacRumors",
-        "description": "Google today updated its Chrome browser with support for vertical tabs, which are displayed in a sidebar instead of at the top of the browser.   The...",
-        "source_link": "https://www.macrumors.com/2026/04/07/chrome-vertical-tabs/"
+        "image": "https://assets-prd.ignimgs.com/2024/09/25/ps5-pro-handsonpreview-blogroll-1727223976585.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Sony Testing New PlayStation 5 Dashboard, Fans Say, And the Hope is That Full Themes Are Next - IGN",
+        "description": "A new PlayStation 5 update is testing a fresh design for the console's dashboard, fans say.",
+        "source_link": "https://www.ign.com/articles/looks-like-sony-is-testing-a-new-playstation-5-dashboard-design-and-fans-hope-full-themes-are-next"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-        "title": "Michael",
-        "description": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journe...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+        "title": "Michael",
+        "description": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journe...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
       },
       {
         "rank": 3,
@@ -97,31 +83,31 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg",
-        "title": "Sniper: No Nation",
-        "description": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage....",
-        "source_link": "https://www.themoviedb.org/movie/1641319"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg",
+        "title": "Sniper: No Nation",
+        "description": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage....",
+        "source_link": "https://www.themoviedb.org/movie/1641319"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
         "title": "The Drama",
         "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
         "source_link": "https://www.themoviedb.org/movie/1325734"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
         "rank": 8,
