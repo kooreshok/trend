@@ -1,92 +1,92 @@
 {
-  "last_updated": "April 10, 2026, 02:07 UTC",
+  "last_updated": "April 10, 2026, 05:21 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.macrumors.com/t/lG7WfPPNLChspQLST-lns4Uitr4=/2500x/article-new/2026/04/iOS-26.4.1-Feature-1.jpg",
+        "title": "iOS 26.4.1 Includes These Two Changes for iPhones - MacRumors",
+        "description": "Apple today released a minor iOS 26.4.1 update for the iPhone 11 and newer. While the release notes for the update only mention unspecified \"bug...",
+        "source_link": "https://www.macrumors.com/2026/04/08/ios-26-4-1-has-two-changes-for-iphones/"
+      },
+      {
+        "rank": 2,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Pokopia-1.0.3-update.jpg",
+        "title": "Pokemon Pokopia 1.0.3 update out now, patch notes - Nintendo Everything",
+        "description": "Pokemon Pokopia version 1.0.3 update now released for all Nintendo Switch 2 players, and here are the patch notes.",
+        "source_link": "https://nintendoeverything.com/pokemon-pokopia-1-0-3-update-out-now-patch-notes/"
+      },
+      {
+        "rank": 3,
         "image": "https://images.nintendolife.com/fcf0820ca2a9a/large.jpg",
         "title": "Nintendo Expands Switch Online's NES Library With Three More Games - Nintendo Life",
         "description": "Play them today",
         "source_link": "https://www.nintendolife.com/news/2026/04/nintendo-expands-switch-onlines-nes-library-with-three-more-games"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Gemini gets notebooks to help you organize projects - The Verge",
         "description": "Google\u2019s Gemini is getting a feature called \u201cnotebooks\u201d to help you organize things about certain topics in a single place while using the AI chatbot.",
         "source_link": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm"
       },
       {
-        "rank": 3,
-        "image": "https://techcrunch.com/wp-content/uploads/2024/09/tunnel-vpn-v1.jpg?resize=1200,675",
-        "title": "WireGuard VPN developer can\u2019t ship software updates after Microsoft locks account - TechCrunch",
-        "description": "The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their ability to send software updates to users.",
-        "source_link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/"
+        "rank": 5,
+        "image": "https://images.nintendolife.com/3a17b71fce48b/large.jpg",
+        "title": "PSA: Pok\u00e9mon Champions First Mystery Gift Distribution Now Live - Nintendo Life",
+        "description": "Add some muscle to your team",
+        "source_link": "https://www.nintendolife.com/news/2026/04/psa-pokemon-champions-first-mystery-gift-distribution-now-live"
       },
       {
-        "rank": 4,
+        "rank": 6,
+        "image": "https://img-cdn.hltv.org/gallerypicture/crClB23Owm6BKPPW9isBn1.jpg?ixlib=java-2.1.0&w=1200&s=d65f8b33ee48eeb291e25162c634bcb2",
+        "title": "Breaking: ScreaM returns to action six years after hanging up the mouse - Dust2.us",
+        "description": "The 31-year-old fragger will look to roll back the clock on the Franco-Belgian roster.",
+        "source_link": "https://www.dust2.us/news/72626/breaking-scream-returns-to-action-six-years-after-hanging-up-the-mouse"
+      },
+      {
+        "rank": 7,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/youtube-shorts-logo-circle-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "YouTube Shorts will use AI to make avatars that look and sound like you - 9to5Google",
+        "description": "YouTube is now letting users create an AI avatar that looks and sounds likes them for use in Shorts. The feature...",
+        "source_link": "http://9to5google.com/2026/04/08/youtube-shorts-ai-avatar/"
+      },
+      {
+        "rank": 8,
+        "image": "https://kotaku.com/app/uploads/2024/07/b334eea9bc01bd3895826f71116d5d31.jpg",
+        "title": "Xbox Achievements Get Overdue Update To Address Feedback - Kotaku",
+        "description": "It's one of a number of features the platform is spiffing up to address fan feedback",
+        "source_link": "https://kotaku.com/xbox-achievements-update-completion-list-2000685840"
+      },
+      {
+        "rank": 9,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/linkedin-logo-1152x648-1775680554.jpg",
         "title": "LinkedIn scanning users\u2019 browser extensions sparks controversy and two lawsuits - Ars Technica",
         "description": "LinkedIn says claims fabricated by extension maker suspended for scraping data.",
         "source_link": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/"
-      },
-      {
-        "rank": 5,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.57.33-PM.jpg?resize=1200,604",
-        "title": "Poke makes AI agents as easy as sending a text - TechCrunch",
-        "description": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
-        "source_link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
-      },
-      {
-        "rank": 6,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/icloud-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iOS 26.4.1 fixes iPhone bug that stopped iCloud data from syncing, including Apple Passwords - 9to5Mac",
-        "description": "iOS 26.4.1 is available today. While the official release notes were vague, a thread on the developer forums indicates it...",
-        "source_link": "https://9to5mac.com/2026/04/08/iphone-icloud-sync-bug-apple-passwords-fixed/"
-      },
-      {
-        "rank": 7,
-        "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/2024-Mustang-RTR-Spec-CD_Review-copy.png",
-        "title": "Vaughn Gittin Jr. Accuses Car And Driver Of Using AI After A Negative Review Of His 800 HP Mustang That\u2019s Slower Than A Mustang GT - The Autopian",
-        "description": "After disappointing test figures from an RTR Spec 3 Mustang, Vaughn Gittin Jr. seems to be accusing a writer of using AI.",
-        "source_link": "https://www.theautopian.com/vaughn-gittin-jr-baselessly-suggests-that-car-and-driver-is-using-ai-after-slightly-negative-review-of-his-spec-3-mustang/"
-      },
-      {
-        "rank": 8,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-865878412.jpg?resize=1200,797",
-        "title": "Amazon to end support for older Kindle devices - TechCrunch",
-        "description": "Amazon told Kindle owners this week that it's ending support for all e-readers released in 2012 or earlier, making them virtually unable to load any new content.",
-        "source_link": "https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01695.jpg?quality=90&strip=all&crop=0%2C19.01830387254%2C78.703125%2C61.808702337889&w=1200",
-        "title": "I finally get the iPhone Air - The Verge",
-        "description": "The iPhone Air is delightfully slim but comes with a small battery and one rear camera. But maybe the key to enjoying the Air is leaning into MagSafe modularity.",
-        "source_link": "https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
+        "image": "https://image.tmdb.org/t/p/w200/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg",
+        "title": "Outcome",
+        "description": "Reef Hawk, Hollywood's poster child since age six, is not okay. When he learns about an extortion plot tied to a mysterious video, Reef preemptively s...",
+        "source_link": "https://www.themoviedb.org/movie/1049471"
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-        "title": "The Bride!",
-        "description": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdere...",
-        "source_link": "https://www.themoviedb.org/movie/1159831"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/6pUwaXT6tdA6sek8o6SdFYudJDj.jpg",
+        "title": "18th Rose",
+        "description": "A spirited teen dreaming of the perfect debut makes a deal with a lonely newcomer, but unexpected feelings and revelations may shatter their plans....",
+        "source_link": "https://www.themoviedb.org/movie/1631917"
       },
       {
         "rank": 4,
@@ -97,24 +97,24 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-        "title": "Michael",
-        "description": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journe...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
+        "image": "https://image.tmdb.org/t/p/w200/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+        "title": "The Bride!",
+        "description": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdere...",
+        "source_link": "https://www.themoviedb.org/movie/1159831"
       },
       {
         "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
+      },
+      {
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/6pUwaXT6tdA6sek8o6SdFYudJDj.jpg",
-        "title": "18th Rose",
-        "description": "A spirited teen dreaming of the perfect debut makes a deal with a lonely newcomer, but unexpected feelings and revelations may shatter their plans....",
-        "source_link": "https://www.themoviedb.org/movie/1631917"
       },
       {
         "rank": 8,
@@ -125,17 +125,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+        "title": "Michael",
+        "description": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journe...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
         "title": "Crime 101",
         "description": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this bei...",
         "source_link": "https://www.themoviedb.org/movie/1171145"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
       }
     ]
   }
