@@ -1,85 +1,78 @@
 {
-  "last_updated": "April 09, 2026, 23:34 UTC",
+  "last_updated": "April 10, 2026, 02:07 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/fcf0820ca2a9a/large.jpg",
+        "title": "Nintendo Expands Switch Online's NES Library With Three More Games - Nintendo Life",
+        "description": "Play them today",
+        "source_link": "https://www.nintendolife.com/news/2026/04/nintendo-expands-switch-onlines-nes-library-with-three-more-games"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Gemini gets notebooks to help you organize projects - The Verge",
+        "description": "Google\u2019s Gemini is getting a feature called \u201cnotebooks\u201d to help you organize things about certain topics in a single place while using the AI chatbot.",
+        "source_link": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm"
+      },
+      {
+        "rank": 3,
+        "image": "https://techcrunch.com/wp-content/uploads/2024/09/tunnel-vpn-v1.jpg?resize=1200,675",
+        "title": "WireGuard VPN developer can\u2019t ship software updates after Microsoft locks account - TechCrunch",
+        "description": "The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their ability to send software updates to users.",
+        "source_link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/"
+      },
+      {
+        "rank": 4,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/linkedin-logo-1152x648-1775680554.jpg",
         "title": "LinkedIn scanning users\u2019 browser extensions sparks controversy and two lawsuits - Ars Technica",
         "description": "LinkedIn says claims fabricated by extension maker suspended for scraping data.",
         "source_link": "https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/"
       },
       {
-        "rank": 2,
+        "rank": 5,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.57.33-PM.jpg?resize=1200,604",
+        "title": "Poke makes AI agents as easy as sending a text - TechCrunch",
+        "description": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+        "source_link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/"
+      },
+      {
+        "rank": 6,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/icloud-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iOS 26.4.1 fixes iPhone bug that stopped iCloud data from syncing, including Apple Passwords - 9to5Mac",
+        "description": "iOS 26.4.1 is available today. While the official release notes were vague, a thread on the developer forums indicates it...",
+        "source_link": "https://9to5mac.com/2026/04/08/iphone-icloud-sync-bug-apple-passwords-fixed/"
+      },
+      {
+        "rank": 7,
         "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/2024-Mustang-RTR-Spec-CD_Review-copy.png",
         "title": "Vaughn Gittin Jr. Accuses Car And Driver Of Using AI After A Negative Review Of His 800 HP Mustang That\u2019s Slower Than A Mustang GT - The Autopian",
         "description": "After disappointing test figures from an RTR Spec 3 Mustang, Vaughn Gittin Jr. seems to be accusing a writer of using AI.",
         "source_link": "https://www.theautopian.com/vaughn-gittin-jr-baselessly-suggests-that-car-and-driver-is-using-ai-after-slightly-negative-review-of-his-spec-3-mustang/"
       },
       {
-        "rank": 3,
+        "rank": 8,
         "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-865878412.jpg?resize=1200,797",
         "title": "Amazon to end support for older Kindle devices - TechCrunch",
         "description": "Amazon told Kindle owners this week that it's ending support for all e-readers released in 2012 or earlier, making them virtually unable to load any new content.",
         "source_link": "https://techcrunch.com/2026/04/08/amazon-to-end-support-for-older-kindle-devices-2012/"
       },
       {
-        "rank": 4,
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01695.jpg?quality=90&strip=all&crop=0%2C19.01830387254%2C78.703125%2C61.808702337889&w=1200",
         "title": "I finally get the iPhone Air - The Verge",
         "description": "The iPhone Air is delightfully slim but comes with a small battery and one rear camera. But maybe the key to enjoying the Air is leaning into MagSafe modularity.",
         "source_link": "https://www.theverge.com/gadgets/908788/iphone-air-magsafe-wallet-battery-modular"
-      },
-      {
-        "rank": 5,
-        "image": "https://common.cdn.cdpr.app/news/303aab7c75ab44d5b13eeda7ae40db7e_q90_1920x1080.png",
-        "title": "PlayStation\u00ae5 Pro Update Is Live! - cyberpunk.net",
-        "description": "",
-        "source_link": "https://www.cyberpunk.net/en/news/51938/playstation-r-5-pro-update-is-live"
-      },
-      {
-        "rank": 6,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69d48f143cef99c1d38a9d5f/0x0.jpg?format=jpg&crop=2352,1437,x393,y482,safe&height=900&width=1600&fit=bounds",
-        "title": "Google Offers Free PC Upgrade For 500 Million Windows Users - Forbes",
-        "description": "All change for Windows \u2014 it's now decision time for 30% of all PC owners.",
-        "source_link": "https://www.forbes.com/sites/zakdoffman/2026/04/08/google-offers-free-pc-upgrade-for-500-million-windows-users/"
-      },
-      {
-        "rank": 7,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69d69af34b596db7f33b2f06/0x0.jpg?format=jpg&crop=2771,1558,x0,y222,safe&height=900&width=1600&fit=bounds",
-        "title": "Pok\u00e9mon Fans Blast New \u2018Champions\u2019 Game As Nintendo Stock Erases Gains From \u2018Pokopia\u2019 - Forbes",
-        "description": "Nintendo stock dipped Wednesday, closing at its lowest price in a month and erasing gains it made last month after the surprise success of \u201cPok\u00e9mon Pokopia.\u201d",
-        "source_link": "https://www.forbes.com/sites/conormurray/2026/04/08/fans-blast-pokmon-champions-game-as-nintendo-wipes-pokopia-stock-gains/"
-      },
-      {
-        "rank": 8,
-        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/04/0.-Hero-b0ffcd3842eae2b266ae-1024x576.png",
-        "title": "Available for Xbox Insiders: New Improvements to Achievements - Xbox Wire",
-        "description": null,
-        "source_link": "https://news.xbox.com/en-us/2026/04/08/xbox-insiders-may-2026-console-features/"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.macrumors.com/t/2GmZRMbeiD3_nZtrbgiHsLCMrGU=/2000x/article-new/2025/09/iphone-air-all-colors.jpg",
-        "title": "iPhone Air 2 and iPhone 18e Reportedly Launching Early Next Year - MacRumors",
-        "description": "Apple plans to release an updated iPhone Air and a lower-end iPhone 18e early next year, according to the latest word from Bloomberg's Mark...",
-        "source_link": "https://www.macrumors.com/2026/04/08/iphone-air-2-and-iphone-18e-early-next-year/"
-      },
-      {
-        "rank": 10,
-        "image": "https://kotaku.com/app/uploads/2026/04/Screen-Shot-2026-04-08-at-12.26.48-PM-1200x675.jpg",
-        "title": "Overwatch\u2019s Next Hero Isn\u2019t Who Fans Thought She Was - Kotaku",
-        "description": "The game\u2019s 51st hero looked a lot like a character from the novels",
-        "source_link": "https://kotaku.com/overwatch-hero-51-season-2-frankie-sierra-trailer-reveal-2000685793"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
         "rank": 2,
@@ -90,10 +83,10 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
         "rank": 4,
@@ -118,17 +111,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg",
-        "title": "Sniper: No Nation",
-        "description": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage....",
-        "source_link": "https://www.themoviedb.org/movie/1641319"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/6pUwaXT6tdA6sek8o6SdFYudJDj.jpg",
         "title": "18th Rose",
         "description": "A spirited teen dreaming of the perfect debut makes a deal with a lonely newcomer, but unexpected feelings and revelations may shatter their plans....",
         "source_link": "https://www.themoviedb.org/movie/1631917"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg",
+        "title": "Sniper: No Nation",
+        "description": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage....",
+        "source_link": "https://www.themoviedb.org/movie/1641319"
       },
       {
         "rank": 9,
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/aW65JQVddskHqYQrtmQXUyibfIE.jpg",
-        "title": "The Punisher: One Last Kill",
-        "description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight....",
-        "source_link": "https://www.themoviedb.org/movie/1439930"
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       }
     ]
   }
