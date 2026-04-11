@@ -1,76 +1,76 @@
 {
-  "last_updated": "April 11, 2026, 12:50 UTC",
+  "last_updated": "April 11, 2026, 13:53 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/10/YouTube-Premium-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "YouTube Premium is getting a US price hike of up to $4/month - 9to5Google",
+        "description": "YouTube Premium is getting a price hike in the US, with all plans going up in cost by up to $4 effective over the next few months.",
+        "source_link": "http://9to5google.com/2026/04/10/youtube-premium-us-price-hike/"
+      },
+      {
+        "rank": 2,
+        "image": "https://assetsio.gnwcdn.com/bungie-marathon-wwbp.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "\"This is not a game that is about to face some sort of imminent shutdown\" - Marathon reportedly had a budget of $200m, and while player numbers are dipping, team morale remains good - Eurogamer",
+        "description": "Marathon reportedly had a development of over at least $200m, and likely over $250m.",
+        "source_link": "https://www.eurogamer.net/marathon-budget-over-200-million-dollars-likely-250-million"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/copilotbutton.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Microsoft starts removing Copilot buttons from Windows 11 apps - The Verge",
+        "description": "Microsoft is removing unnecessary Copilot buttons from Windows 11 apps. Notepad no longer has a Copilot button, as part of plans to fix Windows 11.",
+        "source_link": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons"
+      },
+      {
+        "rank": 4,
+        "image": "https://assets-prd.ignimgs.com/2026/04/10/crimson-desert-1775809268704.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Crimson Desert Dev Pearl Abyss Outlines Upcoming Changes in Response to Feedback - IGN",
+        "description": "Crimson Desert developer Pearl Abyss has outlined a number of significant changes coming to the game in the coming months, each addressing various community complaints that were highlighted recently. Here's everything you need to know.",
+        "source_link": "https://www.ign.com/articles/crimson-desert-dev-confirms-boss-rematches-hard-difficulty-enemy-territory-recapture-and-a-whole-lot-more-is-coming-soon"
+      },
+      {
+        "rank": 5,
         "image": "https://imageio.forbes.com/specials-images/imageserve/69d48f143cef99c1d38a9d5f/0x0.jpg?format=jpg&crop=2352,1437,x393,y482,safe&height=900&width=1600&fit=bounds",
         "title": "Google Offers Free PC Upgrade For 500 Million Windows Users - Forbes",
         "description": "All change for Windows \u2014 it's now decision time for 30% of all PC owners.",
         "source_link": "https://www.forbes.com/sites/zakdoffman/2026/04/10/google-offers-free-pc-upgrade-for-500-million-windows-users/"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "WhatsApp is bringing Status updates to the top of the Chats tab - 9to5Mac",
         "description": "The new WhatsApp build on TestFlight includes references to an upcoming change that will bring Status updates to the Chats tab.",
         "source_link": "https://9to5mac.com/2026/04/09/whatsapp-is-bringing-status-updates-to-the-top-of-the-chats-tab/"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://images.nintendolife.com/018ca4d719b04/large.jpg",
         "title": "Mario Kart World Has Been Updated To Version 1.6.1, Here Are The Full Patch Notes - Nintendo Life",
         "description": "This small update is available now",
         "source_link": "https://www.nintendolife.com/news/2026/04/mario-kart-world-has-been-updated-to-version-1-6-1-here-are-the-full-patch-notes"
       },
       {
-        "rank": 4,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/adobe-project-indigo-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Adobe\u2019s low-processing camera app expands support to select iPads and the iPhone 17e - 9to5Mac",
-        "description": "The new update to Adobe\u2019s experimental camera app adds initial support for iPads with at least 6GB of RAM and the new iPhone 17e.",
-        "source_link": "https://9to5mac.com/2026/04/09/adobes-low-processing-camera-app-expands-support-to-select-ipads-and-the-iphone-17e/"
-      },
-      {
-        "rank": 5,
+        "rank": 8,
         "image": "https://assets-prd.ignimgs.com/2026/04/08/forza-horizon-6-1280-1775632371146.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Forza Horizon 6 Is Every Japanese Driving Fantasy Rolled into One: Hands-On Preview - IGN",
         "description": "The Forza Horizon series took a long time to land in Japan. After a few days in its meticulously modelled map, I\u2019m doubtful I\u2019ll ever want to leave.",
         "source_link": "https://www.ign.com/articles/forza-horizon-6-is-every-japanese-driving-fantasy-rolled-into-one-hands-on-preview"
       },
       {
-        "rank": 6,
-        "image": "https://assets-prd.ignimgs.com/2026/04/09/ss-0e0f153c268acaa62f40f468f98306a4f8b5dc88-1920x1080-1775776612560.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Marathon Budget Reportedly Revealed - IGN",
-        "description": "A new report has claimed Marathon\u2019s budget is over $200 million, and while player numbers have fallen significantly since launch, Bungie\u2019s extraction shooter is allegedly not facing an imminent shutdown.",
-        "source_link": "https://www.ign.com/articles/marathon-reportedly-had-a-budget-of-over-200-million-and-while-the-pressure-is-on-bungie-to-gain-more-players-it-is-not-facing-an-imminent-concord-style-shutdown"
-      },
-      {
-        "rank": 7,
-        "image": "https://kotaku.com/app/uploads/2026/04/offthegridrant-1200x675.jpg",
-        "title": "Gunzilla CEO Denies Claims Of Not Paying Devs In Long Rant On Twitter - Kotaku",
-        "description": "Vlad Korolev also said people could pay him cryptocurrency to access player data for Off the Grid to see how successful it is",
-        "source_link": "https://kotaku.com/gunzilla-ceo-denies-claims-of-not-paying-staff-haters-twitter-rant-crunch-2000686412"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.droid-life.com/wp-content/uploads/2025/09/Pixel-10-Pro-Review-11-2292x1200-cropped.jpg",
-        "title": "Pixel 11 Series to See Big Display Upgrade - Droid Life",
-        "description": "Industry sources have confirmed that Google\u2019s upcoming Pixel 11 series will utilize Samsung\u2019s new M16 OLED panels. These are the same panels expected to be used by Apple for its iPhone 18 models, so that\u2019s cool, I guess. M16 OLED panels are said to deliver th\u2026",
-        "source_link": "https://www.droid-life.com/2026/04/09/pixel-11-series-will-use-samsungs-m16-oled-panels/"
-      },
-      {
         "rank": 9,
-        "image": "https://assets-prd.ignimgs.com/2026/02/27/wow-midnight-blogroll-1772220337942.JPG?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "World of Warcraft's Most Ill-Used Character Is Back, and Fans Are Wondering if This Means a Redemption Arc - IGN",
-        "description": "World of Warcraft: Midnight is a very purple expansion, so it's not too much of a shock that Blizzard finally brought back one of its favorite purple characters for a plot twist. But what is shocking is the news she brought with her: a hint that we may be goi\u2026",
-        "source_link": "https://www.ign.com/articles/world-of-warcraft-fans-think-blizzard-is-about-to-try-and-revisit-its-least-popular-expansion"
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/Reddit-comment-led-police-to-identify-Brown-University-shooter.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "FBI used iPhone notification data to retrieve deleted Signal messages - 9to5Mac",
+        "description": "The FBI was able to recover deleted Signal messages from an iPhone by extracting data stored in the device\u2019s notification database.",
+        "source_link": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/"
       },
       {
         "rank": 10,
-        "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/04/08180646/prove-your-human-main-1.jpg",
-        "title": "Can AI dream of electric sheep? The team behind the award-winning 1000XResist on their next game - AV Club",
-        "description": "We talked with Remy Siu, the Creative Director behind the award-winning 1000XResist, about their upcoming AI-centric game.",
-        "source_link": "https://www.avclub.com/prove-your-human-interview-remy-siu-1000xresist-sunset-visitor"
+        "image": "https://kotaku.com/app/uploads/2026/04/googles-1200x675.jpg",
+        "title": "Cult Hit Doki Doki Literature Club Fights Removal From Google Play Store Over \u2018Depiction Of Sensitive Themes\u2019 - Kotaku",
+        "description": "The acclaimed visual novel had amassed thousands of positive user reviews",
+        "source_link": "https://kotaku.com/doki-doki-literature-club-google-play-store-android-censorship-2000686431"
       }
     ],
     "trending_movies": [
@@ -104,38 +104,38 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/qW22SucWPODisKufindxiI5Frxm.jpg",
-        "title": "The Yeti",
-        "description": "When an oil tycoon and a famous adventurer vanish into the harsh winter of remote northern Alaska, a hand-picked rescue team endeavors to bring them h...",
-        "source_link": "https://www.themoviedb.org/movie/1418657"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
         "title": "The Bride!",
         "description": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdere...",
         "source_link": "https://www.themoviedb.org/movie/1159831"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg",
-        "title": "Sniper: No Nation",
-        "description": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage....",
-        "source_link": "https://www.themoviedb.org/movie/1641319"
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/qW22SucWPODisKufindxiI5Frxm.jpg",
+        "title": "The Yeti",
+        "description": "When an oil tycoon and a famous adventurer vanish into the harsh winter of remote northern Alaska, a hand-picked rescue team endeavors to bring them h...",
+        "source_link": "https://www.themoviedb.org/movie/1418657"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
         "title": "Crime 101",
         "description": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this bei...",
         "source_link": "https://www.themoviedb.org/movie/1171145"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg",
+        "title": "Sniper: No Nation",
+        "description": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage....",
+        "source_link": "https://www.themoviedb.org/movie/1641319"
       },
       {
         "rank": 10,
