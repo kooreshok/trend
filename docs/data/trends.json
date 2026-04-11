@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 11, 2026, 10:30 UTC",
+  "last_updated": "April 11, 2026, 11:26 UTC",
   "categories": {
     "tech_news": [
       {
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
-        "title": "The Drama",
-        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
-        "source_link": "https://www.themoviedb.org/movie/1325734"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/qW22SucWPODisKufindxiI5Frxm.jpg",
         "title": "The Yeti",
         "description": "When an oil tycoon and a famous adventurer vanish into the harsh winter of remote northern Alaska, a hand-picked rescue team endeavors to bring them h...",
         "source_link": "https://www.themoviedb.org/movie/1418657"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+        "title": "The Drama",
+        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
+        "source_link": "https://www.themoviedb.org/movie/1325734"
       }
     ]
   }
