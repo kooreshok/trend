@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 11, 2026, 07:03 UTC",
+  "last_updated": "April 11, 2026, 08:37 UTC",
   "categories": {
     "tech_news": [
       {
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/lKK9ImwpoTCwDZKgYpjIIJCnlf0.jpg",
+        "title": "Wasteman",
+        "description": "Taylor's hopes for a fresh start post-parole are jeopardised by cellmate Dee's arrival. As Dee takes Taylor under his wing, a vicious attack tests the...",
+        "source_link": "https://www.themoviedb.org/movie/1307373"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/6pUwaXT6tdA6sek8o6SdFYudJDj.jpg",
         "title": "18th Rose",
         "description": "A spirited teen dreaming of the perfect debut makes a deal with a lonely newcomer, but unexpected feelings and revelations may shatter their plans....",
         "source_link": "https://www.themoviedb.org/movie/1631917"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-        "title": "Michael",
-        "description": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journe...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
-      },
-      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
-        "title": "The Drama",
-        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
-        "source_link": "https://www.themoviedb.org/movie/1325734"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg",
         "title": "Sniper: No Nation",
         "description": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage....",
         "source_link": "https://www.themoviedb.org/movie/1641319"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+        "title": "The Drama",
+        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
+        "source_link": "https://www.themoviedb.org/movie/1325734"
       }
     ]
   }
