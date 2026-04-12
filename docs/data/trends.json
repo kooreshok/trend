@@ -1,13 +1,13 @@
 {
-  "last_updated": "April 11, 2026, 23:29 UTC",
+  "last_updated": "April 12, 2026, 02:09 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": null,
+        "image": "https://kotaku.com/app/uploads/2026/04/microsoft-pete-hines.jpg",
         "title": "Ex-Bethesda Exec Says The Elder Scrolls 6 Maker Isn't Part Of Something 'Genuine' Or 'Authentic' At Microsoft - Kotaku",
-        "description": null,
-        "source_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbGZxUl9NSEd2d2t4S3h5cDZ2UThmckJuWDNscnk5SVhzYjdoQVZqUlIyOVJBX09PUlhHbnMwYWoxeUplOUE5TWxNVGE2dkRXbW5OVzJkeXU2VjdwMjd3dkwzR1FjcWpPUlM5eUtwREhPdVJKcjRVUHFqTWxKT3pqX3BMQnR3ZmtWRmZJTF94N2RRdlZyRW1yNm0wUFVfZWIwLUk0V1I1TEd3REdDM1h6WDJrNzlCMGdoMTEwQUtIVVZPZnVPNEQ4eDdwSTdqdzA?oc=5"
+        "description": "Pete Hines is retired but still had harsh words for Microsoft",
+        "source_link": "https://kotaku.com/ex-bethesda-exec-says-the-elder-scrolls-6-maker-isnt-part-of-something-genuine-or-authentic-at-microsoft-2000686743"
       },
       {
         "rank": 2,
@@ -46,24 +46,24 @@
       },
       {
         "rank": 7,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKB369_LUNA_A.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Amazon Luna axes third-party game purchases - The Verge",
+        "description": "Amazon Luna is making a big change that will prevent players from purchasing third-party games and subscriptions through the service.",
+        "source_link": "https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions"
+      },
+      {
+        "rank": 8,
         "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/04/09115148/sonic-haste-feature.jpg",
         "title": "The Sonic Paradox: Do we, in fact, gotta go fast? - AV Club",
         "description": "The human mind simply can't process super-speed, but the game Haste does it better than the famously fast Sonic The Hedgehog games.",
         "source_link": "https://www.avclub.com/sonic-hedgehog-haste-game-speed"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/ny/NY0N3YUF3KIQ1775780241959.png",
         "title": "Diablo II: Resurrected PTR 3.2 Coming Soon - Blizzard News",
         "description": "The 3.2 PTR introduces balance changes for the Warlock Class, alongside updates to Terror Zones. Jump into the PTR to experience them firsthand on April 14 at 10:00 a.m. PT.",
         "source_link": "https://news.blizzard.com/en-us/article/24266710/diablo-ii-resurrected-ptr-3-2-coming-soon"
-      },
-      {
-        "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/Professor-Layton-and-the-New-World-of-Steam_reveal-cutscene.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Professor Layton and the New World of Steam gets a release window and adds PS5 and PC versions - Eurogamer",
-        "description": "Professor Layton and the New World of Steam is coming later in 2026, and will now also hit PC and PS5. Plus, new features have been revealed.",
-        "source_link": "https://www.eurogamer.net/professor-layton-and-the-new-world-of-steam-pc-ps5-release-window"
       }
     ],
     "trending_movies": [
@@ -125,10 +125,10 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/qW22SucWPODisKufindxiI5Frxm.jpg",
-        "title": "The Yeti",
-        "description": "When an oil tycoon and a famous adventurer vanish into the harsh winter of remote northern Alaska, a hand-picked rescue team endeavors to bring them h...",
-        "source_link": "https://www.themoviedb.org/movie/1418657"
+        "image": "https://image.tmdb.org/t/p/w200/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
+        "title": "Crime 101",
+        "description": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this bei...",
+        "source_link": "https://www.themoviedb.org/movie/1171145"
       },
       {
         "rank": 10,
