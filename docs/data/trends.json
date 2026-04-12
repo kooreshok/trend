@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 12, 2026, 11:31 UTC",
+  "last_updated": "April 12, 2026, 12:53 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,17 +76,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/adk8weka3O5648g3de4z3y4aE7G.jpg",
-        "title": "Thrash",
-        "description": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos and something far more frightening: hungry sharks....",
-        "source_link": "https://www.themoviedb.org/movie/1290417"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/adk8weka3O5648g3de4z3y4aE7G.jpg",
+        "title": "Thrash",
+        "description": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos and something far more frightening: hungry sharks....",
+        "source_link": "https://www.themoviedb.org/movie/1290417"
       },
       {
         "rank": 3,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
-        "title": "The Drama",
-        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
-        "source_link": "https://www.themoviedb.org/movie/1325734"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
         "title": "Crime 101",
         "description": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this bei...",
         "source_link": "https://www.themoviedb.org/movie/1171145"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg",
+        "title": "The Drama",
+        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
+        "source_link": "https://www.themoviedb.org/movie/1325734"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-        "title": "Scream 7",
-        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
-        "source_link": "https://www.themoviedb.org/movie/1159559"
+        "image": "https://image.tmdb.org/t/p/w200/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg",
+        "title": "Sniper: No Nation",
+        "description": "Brandon Beckett and Agent Zero lead a rescue mission in Venezuela when their friends are taken hostage....",
+        "source_link": "https://www.themoviedb.org/movie/1641319"
       }
     ]
   }
