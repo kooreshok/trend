@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 12, 2026, 17:30 UTC",
+  "last_updated": "April 12, 2026, 18:40 UTC",
   "categories": {
     "tech_news": [
       {
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
+        "title": "The Drama",
+        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
+        "source_link": "https://www.themoviedb.org/movie/1325734"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
         "title": "The Bride!",
         "description": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdere...",
         "source_link": "https://www.themoviedb.org/movie/1159831"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
         "title": "Crime 101",
         "description": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this bei...",
         "source_link": "https://www.themoviedb.org/movie/1171145"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
-        "title": "The Drama",
-        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
-        "source_link": "https://www.themoviedb.org/movie/1325734"
+        "image": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+        "title": "Scream 7",
+        "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becom...",
+        "source_link": "https://www.themoviedb.org/movie/1159559"
       }
     ]
   }
