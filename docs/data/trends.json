@@ -1,76 +1,76 @@
 {
-  "last_updated": "April 13, 2026, 13:17 UTC",
+  "last_updated": "April 13, 2026, 15:12 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69527b95c96fba9f63c69b9a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "Apple iPhone 18 Pro Latest Leak Signals Significant Design Change - Forbes",
+        "description": "This fall\u2019s iPhone 18 Pro and iPhone 18 Pro Max may have changes to the back and front, compared to the current versions.",
+        "source_link": "https://www.forbes.com/sites/davidphelan/2026/04/12/apple-iphone-18-pro-latest-leak-signals-significant-design-change/"
+      },
+      {
+        "rank": 2,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/it.8dIXe6jGE/v16/1200x799.jpg",
+        "title": "Apple AI Glasses Will Rival Meta\u2019s With Several Styles, Oval Cameras - Bloomberg.com",
+        "description": "Also: The latest on the foldable iPhone.",
+        "source_link": "https://www.bloomberg.com/news/newsletters/2026-04-12/apple-ai-smart-glasses-features-styles-colors-cameras-giannandrea-leaving-mnvtz4yg"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268446_Hisense_UR9_RGB_LED_TV_review_JHIGGINS1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "The Hisense UR9 is a great first shot against OLED\u2019s bow - The Verge",
+        "description": "Hisense is the first to release the tech at more affordable prices, but its pricing puts it up against tough competition in the LG G6 and Samsung S95H OLED TVs.",
+        "source_link": "https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review"
+      },
+      {
+        "rank": 4,
         "image": "https://images.seattletimes.com/wp-content/uploads/2026/04/urnpublicidap.org27fc7d9ec927ee7aef2e4b1716667338One_Tech_Tip-Gmail_Address_89248.jpg?d=1200x630",
         "title": "Google is now letting you change that awkward Gmail address - The Seattle Times",
         "description": "Google started quietly rolling out the change late last year in India, and it has now announced it\u2019s available for all Google Account users in the U.S.",
         "source_link": "https://www.seattletimes.com/business/google-is-now-letting-you-change-that-awkward-gmail-address/"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://nintendoeverything.com/wp-content/uploads/Pokemon-Champions-Battle-Pass-Season-M-2-rewards-leak.jpg",
         "title": "Pokemon Champions Battle Pass Season M-2 rewards leaked - Nintendo Everything",
         "description": "Pok\u00e9mon Champions has already leaked details about its Battle Pass Season M-2 rewards. The next season isn\u2019t expected to start for quite a bit. Pokemon Champions just launched this week, and alongside that, Season M-1 started up. It should be running until Ma\u2026",
         "source_link": "https://nintendoeverything.com/pokemon-champions-battle-pass-season-m-2-rewards-leaked/"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://cdn.mos.cms.futurecdn.net/qw3sEtLRpAcabUXNkkjMpd-1920-80.jpg",
+        "title": "I replaced my notes app with Gemini\u2019s new Notebooks \u2014 and I\u2019m not going back - Tom's Guide",
+        "description": "I was drowning in scattered notes and tabs \u2014 this new Gemini feature finally fixed it",
+        "source_link": "https://www.tomsguide.com/ai/i-replaced-my-notes-app-with-geminis-new-notebooks-and-im-not-going-back"
+      },
+      {
+        "rank": 7,
+        "image": "https://media.wired.com/photos/69d6e7052420b577665f5ee9/191:100/w_1280,c_limit/Screenmaxxers-Reveal-Their-Unhinged-Screen-Times-Culture-1067563922.jpg",
+        "title": "The Screenmaxxers Who Spend Every Waking Hour on Their Phones - WIRED",
+        "description": "As debates over social media addiction rage, people with extreme screen times tell WIRED they have no plans to cut back.",
+        "source_link": "https://www.wired.com/story/the-screenmaxxers-who-spend-every-waking-hour-on-their-phones/"
+      },
+      {
+        "rank": 8,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Samsung-Galaxy-S26-vs-Ultra-6-scaled.jpg",
+        "title": "I tested the Galaxy S26 and S26 Ultra for weeks. Here\u2019s why the Ultra is worth the extra money - Android Authority",
+        "description": "It's easy to discount the Galaxy S26 Ultra and its exorbitant price, but it's actually the better value \u2014 even over the base Galaxy S26.",
+        "source_link": "https://www.androidauthority.com/samsung-galaxy-s26-vs-s26-ultra-3655952/"
+      },
+      {
+        "rank": 9,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/04/a-dark-suv-driving-on-a-road-surrounded-by-large-android-auto-icons.png?w=1600&h=900&fit=crop",
+        "title": "5 underrated Android Auto features that make long trips not just bearable, but enjoyable - Android Police",
+        "description": "You must use these Android Auto features to enjoy long drives",
+        "source_link": "https://www.androidpolice.com/android-auto-features-make-long-trips-not-bearable-but-enjoyable/"
+      },
+      {
+        "rank": 10,
         "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/google-phone-take-a-message-custom-greeting-hero-2-scaled.jpg",
         "title": "Google Pixels just got a voicemail feature I've wanted for months \u2014 here's how to use it - Android Authority",
         "description": "The Take a Message feature in Google's Phone app is getting a big upgrade: custom greetings! Here's how to set yours up right now.",
         "source_link": "https://www.androidauthority.com/google-pixel-take-a-message-custom-greeting-how-to-3656399/"
-      },
-      {
-        "rank": 4,
-        "image": "https://images.nintendolife.com/5e5fb58ecba1e/large.jpg",
-        "title": "Mouse: P.I. For Hire Switch 2 Performance And Resolution Revealed - Nintendo Life",
-        "description": "Here's what you can expect",
-        "source_link": "https://www.nintendolife.com/news/2026/04/mouse-p-i-for-hire-switch-2-performance-and-resolution-revealed"
-      },
-      {
-        "rank": 5,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-eShop-Refund-guide.jpg",
-        "title": "How to get a refund on the Nintendo eShop - Nintendo Everything",
-        "description": "Here's what you can and can't get refunds for on the Nintendo eShop on Switch and Switch 2 with information on how to actually get one.",
-        "source_link": "https://nintendoeverything.com/how-to-get-a-refund-on-the-nintendo-eshop/"
-      },
-      {
-        "rank": 6,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/IMG_3537.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Hands-on with Belkin\u2019s newest 25W compact MagSafe docks for iPhone and Android users - 9to5Mac",
-        "description": "Belkin has just released two excellent new Qi2.2 chargers \u2013 providing 25W MagSafe charging in an ultra-compact design. Normally, these...",
-        "source_link": "https://9to5mac.com/2026/04/11/belkin-magsafe-qi2-charging-docks-hubs-25w-hands-on/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/MG_3572.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "This accessory lets you play Switch 2 games on your iPad or iMac display at 4K resolution - 9to5Mac",
-        "description": "Apple has included excellent display panels on iMacs for years, but for the longest time, there hasn\u2019t really been a...",
-        "source_link": "https://9to5mac.com/2026/04/11/play-switch-2-games-on-imac-hdmi-4k-capture-card/"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.nintendolife.com/c4f7571d7a573/large.jpg",
-        "title": "Two First-Party Switch 2 Ratings Have Been Spotted - Nintendo Life",
-        "description": "We're ready when you are, Nintendo",
-        "source_link": "https://www.nintendolife.com/news/2026/04/two-first-party-switch-2-ratings-have-been-spotted"
-      },
-      {
-        "rank": 9,
-        "image": "https://r2-media.wdwnt.com/2026/04/disneyland-haunted-mansion-department-56-figures.png",
-        "title": "Department 56 Reveals Disneyland Haunted Mansion Figure - WDW News Today",
-        "description": "Department 56, known for their miniature holiday village figures, has announced a new Disneyland-inspired Haunted Mansion figure.",
-        "source_link": "https://wdwnt.com/2026/04/department-56-reveals-disneyland-haunted-mansion-figure/"
-      },
-      {
-        "rank": 10,
-        "image": "https://helios-i.mashable.com/imagery/articles/00zDp9ctVqYdEHmnv5mdZKE/hero-image.fill.size_1200x675.v1775926984.png",
-        "title": "XChat to launch on iPhone and iPad - Mashable",
-        "description": "Can this X-affiliated chat app compete with WhatsApp and Signal?",
-        "source_link": "https://mashable.com/article/xchat-to-launch-on-iphone-and-ipad"
       }
     ],
     "trending_movies": [
@@ -111,31 +111,31 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
-        "title": "The Drama",
-        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
-        "source_link": "https://www.themoviedb.org/movie/1325734"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
         "title": "Reminders of Him",
         "description": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something tr...",
         "source_link": "https://www.themoviedb.org/movie/1367642"
       },
       {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
+        "title": "The Drama",
+        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
+        "source_link": "https://www.themoviedb.org/movie/1325734"
+      },
+      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-        "title": "The Bride!",
-        "description": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdere...",
-        "source_link": "https://www.themoviedb.org/movie/1159831"
+        "image": "https://image.tmdb.org/t/p/w200/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg",
+        "title": "Lee Cronin's The Mummy",
+        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
+        "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
         "rank": 10,
