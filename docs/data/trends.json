@@ -1,76 +1,76 @@
 {
-  "last_updated": "April 13, 2026, 20:02 UTC",
+  "last_updated": "April 13, 2026, 21:43 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/671e2f675ed725e431a7fa5c/0x0.jpg?format=jpg&crop=1686,980,x211,y420,safe&height=900&width=1600&fit=bounds",
+        "title": "Samsung Confirms Upgrade Offer\u2014Galaxy Owners Must Now Decide - Forbes",
+        "description": "Millions of Samsung phones are vulnerable to attack \u2014 you must act now.",
+        "source_link": "https://www.forbes.com/sites/zakdoffman/2026/04/12/samsung-confirms-upgrade-offer-galaxy-users-must-now-decide/"
+      },
+      {
+        "rank": 2,
+        "image": "https://assetsio.gnwcdn.com/doki-doki-literature-club-plus.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Cult horror game Doki Doki Literature Club pulled from Google Play Store for its \"depiction of sensitive themes\" and content that \"violates\" its TOS - Eurogamer",
+        "description": "Visual novel horror Doki Doki Literature Club has been pulled from Google Play Store for violating the Terms of Service\u2026",
+        "source_link": "https://www.eurogamer.net/cult-horror-game-doki-doki-literature-club-pulled-from-google-play-store-for-its-depiction-of-sensitive-themes-and-content-that-violates-its-tos"
+      },
+      {
+        "rank": 3,
         "image": "https://cdn.videocardz.com/1/2026/04/NOVA-LAKE-CORE-ULTRA-400K-SPECS-LEAK-HERO.jpg",
         "title": "Exclusive: Intel Core Ultra 400 \"Nova Lake-S\" preliminary SKU list leaked: 6 to 52 cores, DDR5-8000 and forward socket compatibility - VideoCardz.com",
         "description": "Intel Nova Lake-S leak confirms DDR5-8000, NPU6 and 175W desktop SKUs Recently we got a chance to look at updated Nova Lake-S roadmaps. You have already",
         "source_link": "https://videocardz.com/newz/exclusive-intel-core-ultra-400-nova-lake-s-preliminary-sku-list-leaked-6-to-52-cores-ddr5-8000-and-forward-socket-compatibility"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://assetsio.gnwcdn.com/Starfield-screenshot-of-a-man-in-a-space-ship-with-a-PlayStation-logo-overlayed-to-one-side.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Starfield PS5 players demand refunds, reporting widespread bugs and glitches that leave the game \"unplayable\" - Eurogamer",
         "description": "Within days of Starfield's much-anticipated launch on PS5, fans are complaining of \"totally unsurprising\" crashes, free\u2026",
         "source_link": "https://www.eurogamer.net/starfield-ps5-players-demand-refunds-reporting-widespread-bugs-and-glitches-that-leave-the-game-unplayable"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Jason_and_Lucia_02_With_Logos_landscape.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
         "title": "Rockstar Games says hack will have \u2018no impact\u2019 - The Verge",
         "description": "Player data isn\u2019t suspected to be compromised.",
         "source_link": "https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://images.pushsquare.com/08538c2ac4c9c/large.jpg",
         "title": "Fable PS5 Reportedly Delayed, GTA 6 Could Push It to 2027 - Push Square",
         "description": "Jeff Grubb hears of an internal delay at Microsoft",
         "source_link": "https://www.pushsquare.com/news/2026/04/fable-ps5-reportedly-delayed-gta-6-could-push-it-to-2027"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://assetsio.gnwcdn.com/arc-raiders-review-header-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Arc Raiders Launches Map Conditions tracker - here's what the tracker tells us - Eurogamer",
+        "description": "Embark Studios has released a new tracker to help players monitor map conditions across Arc Raiders.",
+        "source_link": "https://www.eurogamer.net/arc-raiders-launches-map-conditions-tracker-heres-what-the-tracker-tells-us"
+      },
+      {
+        "rank": 8,
+        "image": "https://insider-gaming.com/wp-content/uploads/2026/04/Screenshot-2026-04-12-161035-1024x575.png",
+        "title": "\u2018Tarkov in Space\u2019 Revealed as Fragmentary Order, a Sci-Fi \u2018Combat Simulator\u2019 - Insider Gaming",
+        "description": "Rant Gaming has unveiled Fragmentary Order, a new first-person shooter that many have dubbed Escape from Tarkov in space.",
+        "source_link": "https://insider-gaming.com/tarkov-in-space-fragmentary-order-sci-fi-combat/"
+      },
+      {
+        "rank": 9,
+        "image": "https://media.eventhubs.com/images/2026/04/12_tiers-bushin-bnrt.webp",
+        "title": "Guilty Gear Strive competitor releases day 1 tier list after the version 2.00 patch - EventHubs",
+        "description": "Jam Kuradoberi and the version 2.00 patch for Guilty Gear Strive were recently released. Due to the version 2.00 patch applying adjustments to every character, the meta has changed drastically.Just prior to the Arc System World Tour ...",
+        "source_link": "https://www.eventhubs.com/news/2026/apr/12/bushin-day-1-ggstrive-tiers/"
+      },
+      {
+        "rank": 10,
         "image": "https://assetsio.gnwcdn.com/Black-Ops-7-Camos---Header.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "New report claims Microsoft is considering changing Day One access to Call of Duty on Game Pass - Eurogamer",
         "description": "Microsoft is reportedly considering dropping Call of Duty from its Game Pass Day One offering.",
         "source_link": "https://www.eurogamer.net/new-report-claims-microsoft-is-considering-changing-day-one-access-to-call-of-duty-on-game-pass"
-      },
-      {
-        "rank": 6,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69da205706625b828c48f626/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "Apple iPhone Fold: Release Date Leaked And Striking Design Revealed In Photos - Forbes",
-        "description": "What will the first folding iPhone look like? How big will it be compared to the current models? The first images claiming to be dummy units have just leaked.",
-        "source_link": "https://www.forbes.com/sites/davidphelan/2026/04/12/apple-iphone-fold-design-and-size-revealed-in-first-leaked-photos/"
-      },
-      {
-        "rank": 7,
-        "image": "https://mp1st.com/wp-content/uploads/2026/04/PhysintPoster-600x338.png",
-        "title": "Report: Hideo Kojima\u2019s Physint New Casting Details Unearthed, Teasing a Villain - MP1st",
-        "description": "Production on Kojima's return to action-espionage is gearing up, and we've unearthed brand new exclusive Physint casting details.",
-        "source_link": "https://mp1st.com/news/report-hideo-kojimas-physint-new-casting-details-unearthed-teasing-a-villain"
-      },
-      {
-        "rank": 8,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
-        "title": "From LLMs to hallucinations, here\u2019s a simple guide to common AI terms - TechCrunch",
-        "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-        "source_link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
-      },
-      {
-        "rank": 9,
-        "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/04/09174332/resident-evil-2-original-main-1.jpg",
-        "title": "In a surprise move, Capcom now lets you buy the original Resident Evil games - AV Club",
-        "description": "Capcom recently re-released the original three Resident Evil games on Steam, and hopefully, it isn't a fluke.",
-        "source_link": "https://www.avclub.com/resident-evil-rerelease-capcom-emulation-old-games"
-      },
-      {
-        "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22954895/cgartenberg_211020_4803_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "You can grab a refurbished 2021 Kindle Paperwhite starting at just $49.99 - The Verge",
-        "description": "Amazon\u2019s 2021 Kindle Paperwhite is on sale at Woot in refurbished condition starting at $49.99, which is nearly $100 off the ebook reader\u2019s original list price.",
-        "source_link": "https://www.theverge.com/gadgets/910482/2021-amazon-kindle-paperwhite-signature-edition-refurbished-woot-deal-sale"
       }
     ],
     "trending_movies": [
@@ -104,17 +104,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg",
-        "title": "Outcome",
-        "description": "Reef Hawk, Hollywood's poster child since age six, is not okay. When he learns about an extortion plot tied to a mysterious video, Reef preemptively s...",
-        "source_link": "https://www.themoviedb.org/movie/1049471"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
         "title": "Reminders of Him",
         "description": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something tr...",
         "source_link": "https://www.themoviedb.org/movie/1367642"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg",
+        "title": "Outcome",
+        "description": "Reef Hawk, Hollywood's poster child since age six, is not okay. When he learns about an extortion plot tied to a mysterious video, Reef preemptively s...",
+        "source_link": "https://www.themoviedb.org/movie/1049471"
       },
       {
         "rank": 7,
