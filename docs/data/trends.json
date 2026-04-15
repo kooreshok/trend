@@ -1,76 +1,76 @@
 {
-  "last_updated": "April 15, 2026, 18:07 UTC",
+  "last_updated": "April 15, 2026, 20:00 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.macrumors.com/t/yVgaQKWw_jPQOfWi4d37dcIMR68=/3840x/article-new/2026/03/Apple-Business-hero.jpg",
+        "title": "Apple Launches New All-in-One Apple Business Platform for Device Management, Email, and Customer Engagement - MacRumors",
+        "description": "Apple today launched its new all-in-one Apple Business platform, debuting the refreshed Apple Business web portal and accompanying app.   Apple...",
+        "source_link": "https://www.macrumors.com/2026/04/14/apple-business-platform-launches/"
+      },
+      {
+        "rank": 2,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024",
+        "title": "Google adds AI Skills to Chrome to help you save favorite workflows - TechCrunch",
+        "description": "Google is adding \u201cSkills\u201d to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini\u2019s browser integration.",
+        "source_link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/"
+      },
+      {
+        "rank": 3,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/f919c87b96b0f72de811498af458079c8c488af7-1920x1080.jpg?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center",
+        "title": "/dev: Leveling Up Arena - League of Legends",
+        "description": "A rundown of all the changes coming to Arena in Season 2.",
+        "source_link": "https://www.leagueoflegends.com/en-us/news/dev/dev-leveling-up-arena/"
+      },
+      {
+        "rank": 4,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Hades-2-update-2.jpg",
+        "title": "Hades 2 update 2 out now, patch notes \u2013 bonus content and more - Nintendo Everything",
+        "description": "Hades 2 just released its second post-launch update, which includes new content and more - check out the patch notes here.",
+        "source_link": "https://nintendoeverything.com/hades-2-update-2-out-now-patch-notes-bonus-content-and-more/"
+      },
+      {
+        "rank": 5,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/Google-app-desktop-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "\u2018Google app for desktop\u2019 launches on Windows - 9to5Google",
+        "description": "After testing got underway in September, the\u00a0 \u201cGoogle app for desktop\u201d is now launching for \u201cWindows users globally in English.\u201d",
+        "source_link": "http://9to5google.com/2026/04/14/google-app-desktop-windows/"
+      },
+      {
+        "rank": 6,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-green-terminal-1152x648.jpg",
         "title": "Google will begin punishing sites for back button hijacking in June - Ars Technica",
         "description": "Google says it could penalize back button hijacking by demoting websites in search ranking.",
         "source_link": "https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/"
       },
       {
-        "rank": 2,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Rosalina-Samus-eShop-cards.jpg",
-        "title": "Rosalina and Samus have new Nintendo eShop cards, plus an eShop credit sale is live - Nintendo Everything",
-        "description": "New Rosalina and Samus Nintendo eShop cards have been revealed, and a sale is happening that can save you a bit of cash on eShop credit.",
-        "source_link": "https://nintendoeverything.com/rosalina-and-samus-nintendo-eshop-cards-new-sale/"
-      },
-      {
-        "rank": 3,
-        "image": null,
-        "title": "Apple Wallet keeps getting better, here\u2019s what\u2019s new and coming next - 9to5Mac",
-        "description": null,
-        "source_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZjdjYl9mTzIwSXhQdmxiazhnQWFkeFNhdkdkNjFsb2k0c3RRdUJSc1dNa1dURkR0YUFZTHo1WFNCWHAwODJDRzBhdF9EaDRLcTBsSTdoOElQN1pEanZVcVFXTU9aaDlPSlpDZl9rNmwzM21iTkVMVmFSdFlabHZ4cTRsUTBQNjdBaEpqSmhZY1Y3WFFlWkJJN2I0bGwtdw?oc=5"
-      },
-      {
-        "rank": 4,
-        "image": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=332395&w=700&h=467&crop=0&public=1&cs=e5ec90738d107497",
-        "title": "Lightweight cabriolet with a high-revving naturally aspirated engine and manual transmission - Porsche Newsroom",
-        "description": "The Porsche GT family welcomes a particularly exciting new member. The 911 GT3 S/C combines a range of \u2018driver's car\u2019 qualities that have already delighted customers of the limited-edition 911 Speedster and 911 S/T models.",
-        "source_link": "https://newsroom.porsche.com/en/2026/products/porsche-gt3-sc-world-premiere-lightweight-cabriolet-42136.html"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.trueachievements.com/imgs/173414/replaced-hits-game-pass-with-a-simple-list-of-xbox-achievements.jpg",
-        "title": "Xbox Game Pass finally gets big day-one game after multiple delays - TrueAchievements",
-        "description": "After numerous delays, Replaced finally joins Xbox Game Pass today, and we can now reveal its secretive list of Xbox achievements.",
-        "source_link": "https://www.trueachievements.com/news/replaced-xbox-achievements"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anbernic.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Anbernic\u2019s new handheld is a pocket-friendly Android device with a swiveling screen - The Verge",
-        "description": "The RG Rotate is a Game Boy clone with a rotating display that shrinks its size.",
-        "source_link": "https://www.theverge.com/tech/911600/anbernic-rg-rotate-square-handheld-gaming-console-emulator"
-      },
-      {
         "rank": 7,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/695161fa6388f0e5aa1f9a1e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "\u2018Marathon\u2019 Testing A Battle Royale-ish Mode, An Offering To Casuals - Forbes",
-        "description": "Marathon is attempting to extend a hand to casuals by putting all players on the same page for a battle royale type mode where everyone starts on equal footing.",
-        "source_link": "https://www.forbes.com/sites/paultassi/2026/04/14/marathon-testing-a-battle-royale-ish-mode-an-offering-to-casuals/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/davinci.jpg?quality=90&strip=all&crop=0%2C3.4530397026953%2C100%2C93.093920594609&w=1200",
+        "title": "DaVinci Resolve adds new photo editing tools to take on Lightroom and Photoshop - The Verge",
+        "description": "DaVinci Resolve 21\u2019s new photo mode makes it easier to organize, edit, and color correct multiple images.",
+        "source_link": "https://www.theverge.com/tech/911635/blackmagic-design-davinci-resolve-21-photo-page-raw-support"
       },
       {
         "rank": 8,
-        "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
-        "title": "Ask the Developer Vol. 21: Tomodachi Life: Living the Dream \u2014 Part 1 - Nintendo",
-        "description": "This article has been translated from the original Japanese content. This interview was conducted before the game was released. In this 21st volume of Ask the Developer, an interview series in which developers convey in their own words Nintendo's th\u2026",
-        "source_link": "https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-21-tomodachi-life-living-the-dream-part-1/"
+        "image": "https://gizmodo.com/app/uploads/2026/01/MSSurfacePro-1200x675.jpg",
+        "title": "The RAM Crisis Just Royally Screwed Microsoft Surface PCs - Gizmodo",
+        "description": "We likely won't see a new Surface PC as cheap as the MacBook Neo anytime soon.",
+        "source_link": "https://gizmodo.com/the-ram-crisis-just-royally-screwed-microsoft-surface-pcs-2000746236"
       },
       {
         "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/M1Series_family_wide_keyart.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "GoPro goes bigger and pro-er with support for Micro Four Thirds lenses - The Verge",
-        "description": "GoPro\u2019s new Mission 1 cameras use larger 1-inch-type sensors and the new GP3 processor for 8K and 4K open gate filming. And a later Mission 1 Pro ILS model will change lenses.",
-        "source_link": "https://www.theverge.com/gadgets/911324/gopro-mission1-pro-action-video-camera-price-specs"
+        "image": "https://assets.warhammer-community.com/40k_wazdakkarules-apr14-1-feature-pkpy3mvhdb.jpg",
+        "title": "Wazdakka Gutsmek rules revealed \u2013 Launch your own Speedwaaagh! - Warhammer Community",
+        "description": "Lead your Warbikers to the biggest and best fights around.",
+        "source_link": "https://www.warhammer-community.com/articles/g6f0lbmk/wazdakka-gutsmek-rules-revealed-launch-your-own-speedwaaagh"
       },
       {
         "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268447_Alienware_AW2726DM_27-inch_QD-OLED_monitor_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Alienware\u2019s new gaming monitor offers a 240Hz QD-OLED panel for just $350 - The Verge",
-        "description": "The Alienware AW2726DM is a 27-inch QD-OLED gaming monitor with QHD resolution and 240Hz refresh. At $350, it\u2019s now one of the most affordable OLEDs around.",
-        "source_link": "https://www.theverge.com/games/909344/alienware-aw2726dm-qdoled-240hz-gaming-monitor-affordable-price-specs"
+        "image": "https://kotaku.com/app/uploads/2026/04/replaced-1200x675.jpg",
+        "title": "Gorgeous Pixel Art Indie Game Arrives Busted On Xbox Series S After After An 8-Year Wait - Kotaku",
+        "description": "Replaced is scoring very well on PC, but the lower-tier Xbox has a game-breaking crash and incomplete ending",
+        "source_link": "https://kotaku.com/replaced-pixel-art-indie-game-busted-xbox-series-s-crash-2000687498"
       }
     ],
     "trending_movies": [
@@ -104,24 +104,24 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg",
         "title": "Lee Cronin's The Mummy",
         "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
         "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
         "title": "Michael",
         "description": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journe...",
         "source_link": "https://www.themoviedb.org/movie/936075"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
         "rank": 8,
