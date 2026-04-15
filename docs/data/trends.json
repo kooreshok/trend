@@ -1,69 +1,62 @@
 {
-  "last_updated": "April 15, 2026, 10:55 UTC",
+  "last_updated": "April 15, 2026, 11:54 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Animal-Crossing-New-Horizons-3.0.2-update.jpg",
-        "title": "Animal Crossing: New Horizons 3.0.2 update out now, patch notes \u2013 special gift available - Nintendo Everything",
-        "description": "Animal Crossing: New Horizons just released a version 3.0.2 update, and it includes a special item to celebrate the series' 25th anniversary.",
-        "source_link": "https://nintendoeverything.com/animal-crossing-new-horizons-3-0-2-update-out-now-special-gift-available/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-mobile-t1-phone-redesign-website-2026.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "The new Trump Phone design is here - The Verge",
+        "description": "A heavily redesigned Trump Mobile website brings with it a better look at the updated T1 Phone, matching the design shown on a video call in February.",
+        "source_link": "https://www.theverge.com/tech/911503/trump-mobile-t1-phone-redesign-new-website"
       },
       {
         "rank": 2,
+        "image": "https://hodinkee.imgix.net/uploads/images/28241357-f4eb-43a8-a749-144ffd2d5d60/bbcermaicheader.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
+        "title": "Introducing: Two Bracelet Updates For Tudor, Including A Full Ceramic Black Bay Bracelet - Hodinkee",
+        "description": "The brand's first ever ceramic bracelet, and a dressy addition to a classic GMT.",
+        "source_link": "https://www.hodinkee.com/articles/two-bracelet-updates-for-tudor-including-a-full-ceramic-black-bay-bracelet"
+      },
+      {
+        "rank": 3,
         "image": "https://www.androidauthority.com/wp-content/uploads/2022/04/Google-Messages-SMS-stock-photo-1.jpg",
         "title": "Google Messages is cooking up a feature Samsung Messages users will love - Android Authority",
         "description": "Sad about Samsung Messages dying? Well, it looks like Google Messages is working on a feature Samsung fans have been eagerly waiting for.",
         "source_link": "https://www.androidauthority.com/google-messages-chat-customization-themes-3657175/"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "image": "https://images.nintendolife.com/52c5a4acd5e9a/large.jpg",
+        "title": "Animal Crossing: New Horizons Has Been Updated To Version 3.0.2, Here Are The Full Patch Notes - Nintendo Life",
+        "description": "Celebrating 25 years with a special item...",
+        "source_link": "https://www.nintendolife.com/news/2026/04/animal-crossing-new-horizons-has-been-updated-to-version-3-0-2-here-are-the-full-patch-notes"
+      },
+      {
+        "rank": 5,
         "image": "https://chromeunboxed.com/wp-content/uploads/2026/04/GoogleGeminiNotebookLMnotebooks.webp",
         "title": "Google gives Gemini a productivity boost with synced \u2018Notebooks\u2019 - Chrome Unboxed",
         "description": "If you\u2019ve ever found yourself scrolling back through weeks of chat history to find that one specific research insight, Google just fixed a major headache. The Gemini app has recently introduced a new \"Notebooks\" feature that transforms it from a simple chatbo\u2026",
         "source_link": "https://chromeunboxed.com/google-gives-gemini-a-productivity-boost-with-synced-notebooks/"
       },
       {
-        "rank": 4,
+        "rank": 6,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/04/Exynos-2600-13.jpg",
+        "title": "Exynos 2600 Was Born Out Of Sheer Necessity And Wouldn\u2019t Have Entered Mass Production If Samsung\u2019s Mistakes Not Cost It $3 Billion Last Year - Wccftech",
+        "description": "As Samsung races towards self-sufficiency in the chipset race, it only mass produced the Exynos 2600 because it lost $3 billion in 2025",
+        "source_link": "https://wccftech.com/exynos-2600-was-only-made-because-samsung-lost-3-billion-in-2025/"
+      },
+      {
+        "rank": 7,
         "image": "https://cdn.onemileatatime.com/wp-content/uploads/2026/02/Malaysia-Airlines-Business-Lounge-737-4.jpeg",
         "title": "Blurry iPhone Text Picture Problem: Is There An Easy Solution I\u2019m Missing? - One Mile at a Time",
         "description": "I use my iPhone for all my pictures of airlines and hotels. It serves me well, with one major issue... is there something I'm missing?",
         "source_link": "https://onemileatatime.com/insights/blurry-iphone-text-picture-problem/"
       },
       {
-        "rank": 5,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-13-1152x648.jpg",
-        "title": "Google shoehorned Rust into Pixel 10 modem to make legacy code safer - Ars Technica",
-        "description": "Cellular modems are complex black boxes of legacy code, but Google is making them safer with Rust.",
-        "source_link": "https://arstechnica.com/gadgets/2026/04/google-shoehorned-rust-into-pixel-10-modem-to-make-legacy-code-safer/"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/06/12/youtube-ads-unskippable.jpg",
-        "title": "YouTube viewers can now work together to stop ads from playing - Dexerto",
-        "description": "YouTube is letting viewers combat ads by banding together and engaging in chat to keep ads from playing.",
-        "source_link": "https://www.dexerto.com/youtube/youtube-viewers-can-now-work-together-to-stop-ads-from-playing-3351343/"
-      },
-      {
-        "rank": 7,
-        "image": "https://cdn.mos.cms.futurecdn.net/sXuniqK5XnRHyBaKPPmyLK-1191-80.jpg",
-        "title": "The color grading tool used by Hollywood now supports still photos \u2013 and it\u2019s free - Digital Camera World",
-        "description": "DaVinci Resolve, a video editor popular for its color tools, now supports still photos to give photographers cinematic color tools \u2013 and aid hybrid creators",
-        "source_link": "https://www.digitalcameraworld.com/photography/photo-editing/the-color-grading-tool-used-by-hollywood-now-supports-still-photos-and-its-free-davinci-resolve-21-works-with-both-photos-and-videos"
-      },
-      {
         "rank": 8,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269268389.jpg?resize=1200,800",
-        "title": "Microsoft is officially killing its Outlook Lite app next month - TechCrunch",
-        "description": "Launched in 2022, Outlook Lite is a lightweight version of the regular Outlook app, designed for Android phones with limited storage and regions with slower internet connections.\u00a0The app had already been scheduled for retirement.",
-        "source_link": "https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month/"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257745_Surface_Pro_AKrales_0329.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "RAMageddon has come for Microsoft\u2019s Surface Pro and Surface Laptop - The Verge",
-        "description": "Microsoft is raising prices across its Surface lineup, with the Surface Pro 11 and Surface Laptop 7 now costing $1,499 instead of their $999 starting price.",
-        "source_link": "https://www.theverge.com/tech/911322/microsoft-surface-price-increase-ram"
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/04/wear-os-logo-oneplus-watch-3-2-scaled.jpeg",
+        "title": "This new Android app could be a lifesaver for sleepy commuters - Android Authority",
+        "description": "Sleep&Arrive is a new Android app with Wear OS support that tries to wake you based on your location rather than a fixed alarm time.",
+        "source_link": "https://www.androidauthority.com/sleeparrive-commuters-android-app-location-wear-os-3657137/"
       }
     ],
     "trending_movies": [
@@ -90,52 +83,52 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg",
-        "title": "Ready or Not: Here I Come",
-        "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
-        "source_link": "https://www.themoviedb.org/movie/1266127"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/1wREWUEHzjDWSreNFbFLDO7YEaM.jpg",
         "title": "undertone",
         "description": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way....",
         "source_link": "https://www.themoviedb.org/movie/1480387"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/pspkSVP39NGa6G2rvK5KlMjvYUe.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the li...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg",
+        "title": "Ready or Not: Here I Come",
+        "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
+        "source_link": "https://www.themoviedb.org/movie/1266127"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/pspkSVP39NGa6G2rvK5KlMjvYUe.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Four years have passed since the events of No Way Home, and Peter is now an adult living entirely alone, having voluntarily erased himself from the li...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
+      },
+      {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/adk8weka3O5648g3de4z3y4aE7G.jpg",
+        "title": "Thrash",
+        "description": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry...",
+        "source_link": "https://www.themoviedb.org/movie/1290417"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/eHZtr8fhSAzuUpg79NLTqrcW0MA.jpg",
         "title": "Reminders of Him",
         "description": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something tr...",
         "source_link": "https://www.themoviedb.org/movie/1367642"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg",
         "title": "Lee Cronin's The Mummy",
         "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
         "source_link": "https://www.themoviedb.org/movie/1304313"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/adk8weka3O5648g3de4z3y4aE7G.jpg",
-        "title": "Thrash",
-        "description": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry...",
-        "source_link": "https://www.themoviedb.org/movie/1290417"
       }
     ]
   }
