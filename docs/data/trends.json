@@ -1,62 +1,76 @@
 {
-  "last_updated": "April 15, 2026, 15:02 UTC",
+  "last_updated": "April 15, 2026, 16:58 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1070x602+237+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2Fc4%2F68a208594875b676a146754e06a4%2Faislop.jpg",
-        "title": "Millions of people are pretending to be AI chatbots \u2014 for fun - NPR",
-        "description": "Websites like youraislopbores.me have become playgrounds for people looking for light relief in a bot-heavy world.",
-        "source_link": "https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt"
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-green-terminal-1152x648.jpg",
+        "title": "Google will begin punishing sites for back button hijacking in June - Ars Technica",
+        "description": "Google says it could penalize back button hijacking by demoting websites in search ranking.",
+        "source_link": "https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath/"
       },
       {
         "rank": 2,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Rosalina-Samus-eShop-cards.jpg",
+        "title": "Rosalina and Samus have new Nintendo eShop cards, plus an eShop credit sale is live - Nintendo Everything",
+        "description": "New Rosalina and Samus Nintendo eShop cards have been revealed, and a sale is happening that can save you a bit of cash on eShop credit.",
+        "source_link": "https://nintendoeverything.com/rosalina-and-samus-nintendo-eshop-cards-new-sale/"
+      },
+      {
+        "rank": 3,
+        "image": null,
+        "title": "Apple Wallet keeps getting better, here\u2019s what\u2019s new and coming next - 9to5Mac",
+        "description": null,
+        "source_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZjdjYl9mTzIwSXhQdmxiazhnQWFkeFNhdkdkNjFsb2k0c3RRdUJSc1dNa1dURkR0YUFZTHo1WFNCWHAwODJDRzBhdF9EaDRLcTBsSTdoOElQN1pEanZVcVFXTU9aaDlPSlpDZl9rNmwzM21iTkVMVmFSdFlabHZ4cTRsUTBQNjdBaEpqSmhZY1Y3WFFlWkJJN2I0bGwtdw?oc=5"
+      },
+      {
+        "rank": 4,
+        "image": "https://porschepictures.flowcenter.de/pmdb/thumbnail.cgi?id=332395&w=700&h=467&crop=0&public=1&cs=e5ec90738d107497",
+        "title": "Lightweight cabriolet with a high-revving naturally aspirated engine and manual transmission - Porsche Newsroom",
+        "description": "The Porsche GT family welcomes a particularly exciting new member. The 911 GT3 S/C combines a range of \u2018driver's car\u2019 qualities that have already delighted customers of the limited-edition 911 Speedster and 911 S/T models.",
+        "source_link": "https://newsroom.porsche.com/en/2026/products/porsche-gt3-sc-world-premiere-lightweight-cabriolet-42136.html"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.trueachievements.com/imgs/173414/replaced-hits-game-pass-with-a-simple-list-of-xbox-achievements.jpg",
+        "title": "Xbox Game Pass finally gets big day-one game after multiple delays - TrueAchievements",
+        "description": "After numerous delays, Replaced finally joins Xbox Game Pass today, and we can now reveal its secretive list of Xbox achievements.",
+        "source_link": "https://www.trueachievements.com/news/replaced-xbox-achievements"
+      },
+      {
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/anbernic.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Anbernic\u2019s new handheld is a pocket-friendly Android device with a swiveling screen - The Verge",
+        "description": "The RG Rotate is a Game Boy clone with a rotating display that shrinks its size.",
+        "source_link": "https://www.theverge.com/tech/911600/anbernic-rg-rotate-square-handheld-gaming-console-emulator"
+      },
+      {
+        "rank": 7,
         "image": "https://imageio.forbes.com/specials-images/imageserve/695161fa6388f0e5aa1f9a1e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "\u2018Marathon\u2019 Testing A Battle Royale-ish Mode, An Offering To Casuals - Forbes",
         "description": "Marathon is attempting to extend a hand to casuals by putting all players on the same page for a battle royale type mode where everyone starts on equal footing.",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/04/14/marathon-testing-a-battle-royale-ish-mode-an-offering-to-casuals/"
       },
       {
-        "rank": 3,
+        "rank": 8,
         "image": "https://assets.nintendo.com/image/upload/v1643742733/ncom/global/social-share.jpg",
         "title": "Ask the Developer Vol. 21: Tomodachi Life: Living the Dream \u2014 Part 1 - Nintendo",
         "description": "This article has been translated from the original Japanese content. This interview was conducted before the game was released. In this 21st volume of Ask the Developer, an interview series in which developers convey in their own words Nintendo's th\u2026",
         "source_link": "https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-21-tomodachi-life-living-the-dream-part-1/"
       },
       {
-        "rank": 4,
-        "image": "https://images.purexbox.com/e85e02ead7a78/large.jpg",
-        "title": "Xbox Raises Eyebrows By Mentioning 'Exclusives' On The Series X|S Dashboard - Pure Xbox",
-        "description": "Interesting timing!",
-        "source_link": "https://www.purexbox.com/news/2026/04/xbox-raises-eyebrows-by-mentioning-exclusives-on-the-series-xs-dashboard"
+        "rank": 9,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/M1Series_family_wide_keyart.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "GoPro goes bigger and pro-er with support for Micro Four Thirds lenses - The Verge",
+        "description": "GoPro\u2019s new Mission 1 cameras use larger 1-inch-type sensors and the new GP3 processor for 8K and 4K open gate filming. And a later Mission 1 Pro ILS model will change lenses.",
+        "source_link": "https://www.theverge.com/gadgets/911324/gopro-mission1-pro-action-video-camera-price-specs"
       },
       {
-        "rank": 5,
-        "image": "https://images.macrumors.com/t/GEiBu2iaA9GrrmRRMXVC3ULLfZo=/2500x/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
-        "title": "10 Reasons to Wait for the iPhone 18 Pro - MacRumors",
-        "description": "Apple's iPhone development roadmap runs several years into the future and the company is continually working with suppliers on several successive...",
-        "source_link": "https://www.macrumors.com/2026/04/14/reasons-to-wait-iphone-18-pro-2/"
-      },
-      {
-        "rank": 6,
-        "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt9af335b57935a414/69de16bb957db0ab68e4c8b0/windrose-pirate-game.jpg",
-        "title": "Assassin's Creed Black Flag Rival Launches, Hailed As 'True AAAA Pirate Experience\" - GAMINGbible",
-        "description": "Assassin's Creed Black Flag remake fans check out this AAAA pirate experience!",
-        "source_link": "https://www.gamingbible.com/news/platform/pc/assassins-creed-black-flag-rival-pirate-experience-623622-20260414"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-mobile-t1-phone-redesign-website-2026.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "The new Trump Phone design is here - The Verge",
-        "description": "A heavily redesigned Trump Mobile website brings with it a better look at the updated T1 Phone, matching the design shown on a video call in February.",
-        "source_link": "https://www.theverge.com/tech/911503/trump-mobile-t1-phone-redesign-new-website"
-      },
-      {
-        "rank": 8,
-        "image": "https://hodinkee.imgix.net/uploads/images/28241357-f4eb-43a8-a749-144ffd2d5d60/bbcermaicheader.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
-        "title": "Introducing: Two Bracelet Updates For Tudor, Including A Full Ceramic Black Bay Bracelet - Hodinkee",
-        "description": "The brand's first ever ceramic bracelet, and a dressy addition to a classic GMT.",
-        "source_link": "https://www.hodinkee.com/articles/two-bracelet-updates-for-tudor-including-a-full-ceramic-black-bay-bracelet"
+        "rank": 10,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268447_Alienware_AW2726DM_27-inch_QD-OLED_monitor_ADiBenedetto_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Alienware\u2019s new gaming monitor offers a 240Hz QD-OLED panel for just $350 - The Verge",
+        "description": "The Alienware AW2726DM is a 27-inch QD-OLED gaming monitor with QHD resolution and 240Hz refresh. At $350, it\u2019s now one of the most affordable OLEDs around.",
+        "source_link": "https://www.theverge.com/games/909344/alienware-aw2726dm-qdoled-240hz-gaming-monitor-affordable-price-specs"
       }
     ],
     "trending_movies": [
@@ -97,24 +111,24 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg",
-        "title": "Ready or Not: Here I Come",
-        "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
-        "source_link": "https://www.themoviedb.org/movie/1266127"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
         "title": "Michael",
         "description": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journe...",
         "source_link": "https://www.themoviedb.org/movie/936075"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg",
         "title": "Lee Cronin's The Mummy",
         "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
         "source_link": "https://www.themoviedb.org/movie/1304313"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg",
+        "title": "Ready or Not: Here I Come",
+        "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
+        "source_link": "https://www.themoviedb.org/movie/1266127"
       },
       {
         "rank": 9,
