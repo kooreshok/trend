@@ -1,76 +1,69 @@
 {
-  "last_updated": "April 16, 2026, 16:19 UTC",
+  "last_updated": "April 16, 2026, 18:05 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.thedailybeast.com/resizer/v2/N5JTWKMGGJCBXPJKQQUV3RFHNA.JPG?smart=true&auth=0af943c187fef93d1839e027f401247b31edfffd73e75d04360a68341692c476&width=1200&height=630",
+        "title": "Trump Mobile Drops Trashy Update on New Phone - The Daily Beast",
+        "description": "Still no word on when exactly the garish device is supposed to hit the market, almost a year after the company\u2019s launch.",
+        "source_link": "https://www.thedailybeast.com/trump-mobile-drops-trashy-update-on-new-phone/"
+      },
+      {
+        "rank": 2,
+        "image": "https://gizmodo.com/app/uploads/2026/04/Asus-Zenbook-A16-review-11-1200x675.jpg",
+        "title": "There\u2019s No Saving Windows 11. It\u2019s Time for Windows 12 - Gizmodo",
+        "description": "Windows 11 can't overcome a slew of bugs, security holes, and AI slop. It's time for something new.",
+        "source_link": "https://gizmodo.com/theres-no-saving-windows-11-its-time-for-windows-12-2000746855"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/netflix-apple-tv.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Netflix ruined its Apple TV app by switching to a custom video player - 9to5Mac",
+        "description": "Netflix has once again made a controversial change to its Apple TV app. In recent weeks, the company has stopped...",
+        "source_link": "https://9to5mac.com/2026/04/15/netflix-ruined-its-apple-tv-app-by-switching-to-a-custom-video-player/"
+      },
+      {
+        "rank": 4,
+        "image": "https://assetsio.gnwcdn.com/Hades-2-Patch-2.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Hades 2's second post-launch update secretly adds a new game mode - Eurogamer",
+        "description": "Hades 2's second post-launch update, which has been released alongside the PS5 and Xbox ports, has secretly added a new game mode to the game.",
+        "source_link": "https://www.eurogamer.net/hades-2-patch-2-adds-secret-game-mode-and-romance-improvements"
+      },
+      {
+        "rank": 5,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iPhone Ultra is coming: Six new features in Apple\u2019s high-end model - 9to5Mac",
+        "description": "Apple\u2019s first foldable iPhone is coming this fall, and rumors say it will be called iPhone Ultra. Here are six new features to expect.",
+        "source_link": "https://9to5mac.com/2026/04/15/iphone-ultra-is-coming-six-new-features-in-apples-high-end-model/"
+      },
+      {
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/FROM_S4_UT_406_250822_REDJES_02727_R_3000.jpg?quality=90&strip=all&crop=0%2C10.654292878952%2C100%2C78.691414242097&w=1200",
+        "title": "The perfect successor to Lost has been hiding from me for years - The Verge",
+        "description": "There are too many streaming services, which makes it easy to miss shows like From.",
+        "source_link": "https://www.theverge.com/entertainment/912044/from-season-4-mgm-plus"
+      },
+      {
+        "rank": 7,
         "image": "https://assets.warhammer-community.com/gd_finalists-apr08-1-feature_2-m7jt5toetq.jpg",
         "title": "Golden Demon 2026 \u2013 AdeptiCon finalists part two - Warhammer Community",
         "description": "Take a look at the work of the other talented painters who earned a coveted Finalist pin.",
         "source_link": "https://www.warhammer-community.com/articles/4xazizwg/golden-demon-2026-adepticon-finalists-part-two"
       },
       {
-        "rank": 2,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69de4033b07c322f4ee121e7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "Dangerous Microsoft Windows Update Confirmed\u2014Do Not Download - Forbes",
-        "description": "As security researchers warn about a dangerous Microsoft Windows update that isn\u2019t, users must pay close attention to what they are actually downloading.",
-        "source_link": "https://www.forbes.com/sites/daveywinder/2026/04/15/dangerous-microsoft-windows-update-warning-do-not-download/"
-      },
-      {
-        "rank": 3,
-        "image": "https://assetsio.gnwcdn.com/Starfield_Terran-Armada_commander.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Starfield's PS5 port manages roughly 140K sales in a week, estimates analyst firm - Eurogamer",
-        "description": "Starfield's PS5 port has sold 140K units so far, falling below some previous Xbox releases on Sony's console, but it's got a long road ahead.",
-        "source_link": "https://www.eurogamer.net/starfield-ps5-port-sales-estimates-first-week"
-      },
-      {
-        "rank": 4,
-        "image": "https://assetsio.gnwcdn.com/PS5_on-blue-background.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "PlayStation 5 sees massive sales spike in the US, beating 2026 records so far as eager consumers rush to beat RAM crisis price hikes - Eurogamer",
-        "description": "PlayStation 5 sales have skyrocketed in the US following announced price rises, as people race to beat surging costs.",
-        "source_link": "https://www.eurogamer.net/ps5-sales-spike-people-rush-to-beat-ai-driven-price-hikes"
-      },
-      {
-        "rank": 5,
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/36f9/live/c3f2a8f0-38a7-11f1-bd3c-df67f5a99d2a.jpg",
-        "title": "Back button hijacking to be penalised in Google crackdown - bbc.com",
-        "description": "The tech giant said it will punish sites that block back button navigation from June.",
-        "source_link": "https://www.bbc.com/news/articles/c05dd2yj3z3o"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/04/tudor-black-bay-58-master-chronometer-9.webp",
-        "title": "The Decade\u2019s Definitive Everyday Dive Watch Just Reached Its Final Form - Gear Patrol",
-        "description": "With an updated movement and slimmer case, the new Black Bay 58 feels like the grand crescendo of an overture.",
-        "source_link": "https://www.gearpatrol.com/watches/tudor-black-back-58-master-chronometer/"
-      },
-      {
-        "rank": 7,
-        "image": "https://compote.slate.com/images/12477d16-f534-4878-952b-a4c93d67ed68.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-        "title": "Family advice: My brother found himself a gold digger. She has the wrong idea about me. - Slate",
-        "description": "She can consider this a permanent embargo.",
-        "source_link": "https://slate.com/advice/2026/04/family-advice-brother-girlfriend-money-gifts.html"
-      },
-      {
         "rank": 8,
-        "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blta2b3d65a4250a11e/69df53b501f03687ef267b36/psplusaprilleaknew.jpg",
-        "title": "PlayStation Plus 3 April Free Games Leak, Including First-Party Hit - GAMINGbible",
-        "description": "The full Extra and Premium tier line-up is due to be confirmed later today.",
-        "source_link": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-april-free-games-leak-first-party-276094-20260415"
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/onn-4k-pro-leak-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Walmart's Google TV Streamer competitor starts hitting store shelves for $60 with a big downgrade - 9to5Google",
+        "description": "Walmart\u2019s new Onn 4K Pro streaming box is starting to hit store shelves, with the device set to rival Google...",
+        "source_link": "http://9to5google.com/2026/04/15/walmarts-google-tv-streamer-competitor-starts-hitting-store-shelves-for-60-with-a-big-downgrade/"
       },
       {
         "rank": 9,
-        "image": "https://mp1st.com/wp-content/uploads/2026/04/Faye-600x338.png",
-        "title": "Report: God of War Faye Spin-Off Claimed to Feature Tyr and Multiple Mythologies - MP1st",
-        "description": "The next God of War game is said to be a spinoff starring Faye and even Tyr. MP1st has learned more about its mythologies, too.",
-        "source_link": "https://mp1st.com/news/god-of-war-faye-spin-off-feature-tyr-multiple-mythologies"
-      },
-      {
-        "rank": 10,
-        "image": "https://i.insider.com/69de627bd06bf1b9012737c0?width=1200&format=jpeg",
-        "title": "The Trump phone has a new look \u2014 but it's still not clear when it will be released - Business Insider",
-        "description": "There's no information on the website about when the phone will be released, and its \"Made in the USA\" claims have been further watered down.",
-        "source_link": "https://www.businessinsider.com/trump-phone-gets-new-look-release-date-still-unclear-2026-4"
+        "image": "https://kotaku.com/app/uploads/2026/04/OVR_S2_H51_Sierra_BeautyShot_Individual_002-1200x675.jpg",
+        "title": "Overwatch\u2019s New Hero Is So Powerful She Kills Most Heroes Instantly - Kotaku",
+        "description": "Sierra\u2019s ultimate probably needs a nerf or two",
+        "source_link": "https://kotaku.com/overwatch-season-2-sierra-ultimate-trailblazer-nerf-patch-2000687823"
       }
     ],
     "trending_movies": [
@@ -83,17 +76,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg",
-        "title": "Lee Cronin's The Mummy",
-        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
-        "source_link": "https://www.themoviedb.org/movie/1304313"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/gPiyTLo5GGwtJl0L8TlaJF9r0KE.jpg",
         "title": "Avatar: Aang, The Last Airbender",
         "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
         "source_link": "https://www.themoviedb.org/movie/980431"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg",
+        "title": "Lee Cronin's The Mummy",
+        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
+        "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
         "rank": 4,
@@ -104,24 +97,24 @@
       },
       {
         "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/cbYyWHc1dL1bfwEJbaMYDYKgWG2.jpg",
+        "title": "Toaster",
+        "description": "Murder and chaos erupt when a miser becomes obsessed with a toaster he gave as a wedding gift....",
+        "source_link": "https://www.themoviedb.org/movie/1416391"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/qDQbFRqpHaRFC2Pg3a8E3mFTxbh.jpg",
         "title": "undertone",
         "description": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way....",
         "source_link": "https://www.themoviedb.org/movie/1480387"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/cbYyWHc1dL1bfwEJbaMYDYKgWG2.jpg",
-        "title": "Toaster",
-        "description": "Murder and chaos erupt when a miser becomes obsessed with a toaster he gave as a wedding gift....",
-        "source_link": "https://www.themoviedb.org/movie/1416391"
       },
       {
         "rank": 8,
