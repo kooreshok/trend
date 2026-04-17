@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 17, 2026, 21:37 UTC",
+  "last_updated": "April 17, 2026, 22:34 UTC",
   "categories": {
     "tech_news": [
       {
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
-        "title": "Return to Silent Hill",
-        "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
-        "source_link": "https://www.themoviedb.org/movie/680493"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
         "title": "Ballistic",
         "description": "When a soldier's mother discovers the bullet that killed her son in Afghanistan was made at the factory where she works, she sets out on a path of rev...",
         "source_link": "https://www.themoviedb.org/movie/1243741"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
+        "title": "Return to Silent Hill",
+        "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
+        "source_link": "https://www.themoviedb.org/movie/680493"
       }
     ]
   }
