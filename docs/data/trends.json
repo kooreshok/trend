@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 17, 2026, 02:09 UTC",
+  "last_updated": "April 17, 2026, 05:24 UTC",
   "categories": {
     "tech_news": [
       {
@@ -32,45 +32,45 @@
       },
       {
         "rank": 5,
+        "image": "https://kotaku.com/app/uploads/2026/03/fortnite-1200x675.jpg",
+        "title": "Players Use Epic For Free Games But Then Just Go Back To Steam, Former Employees Claim - Kotaku",
+        "description": "The Epic Games Store is profitable but far from perfect",
+        "source_link": "https://kotaku.com/epic-free-games-store-steam-tim-sweeney-2000687958"
+      },
+      {
+        "rank": 6,
+        "image": "https://cdn.mos.cms.futurecdn.net/zMfTCB7etZh24KKfGMu7d9-1000-80.jpg",
+        "title": "Google just launched \u2018Chrome Skills\u2019 \u2014 and it fixes the most annoying part of using AI - Tom's Guide",
+        "description": "Why re-type the same prompt when you can turn it into a Skill?",
+        "source_link": "https://www.tomsguide.com/ai/google-chrome-just-launched-ai-skills-to-let-you-use-your-favorite-prompts-across-the-web-heres-how-to-build-your-own"
+      },
+      {
+        "rank": 7,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-1152x648.jpg",
         "title": "Google releases new apps for Windows and MacOS - Ars Technica",
         "description": "Google mostly creates products for the web, but it has some new desktop apps today.",
         "source_link": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/"
       },
       {
-        "rank": 6,
+        "rank": 8,
+        "image": "https://tii.imgix.net/production/articles/16936/5f6af127-829d-48bb-a6f6-1c2e3e397f3b.png?fm=jpg&auto=compress&w=1200&frame=0",
+        "title": "Apple Sends Siri Staffers to Coding \u2018Bootcamp\u2019 in Latest Shakeup For Organization - The Information",
+        "description": "Apple is sending a portion of its Siri programmers back to coding school just two months before the company is expected to unveil a major, AI-powered revamp of the voice assistant, people familiar with the team said. The company plans to send a significant ch\u2026",
+        "source_link": "https://www.theinformation.com/articles/apple-sends-siri-staffers-coding-bootcamp-latest-shakeup-organization"
+      },
+      {
+        "rank": 9,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-citrus.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Microsoft has a new idea on how to deter students from MacBook Neo - 9to5Mac",
         "description": "The effects of MacBook Neo continue to ripple through the PC industry this week. As spotted by The Verge, Microsoft...",
         "source_link": "https://9to5mac.com/2026/04/15/microsoft-has-a-new-idea-on-how-to-deter-students-from-macbook-neo/"
       },
       {
-        "rank": 7,
-        "image": "https://www.thedailybeast.com/resizer/v2/KS2EU52P3JEVJD5NTPXOIN3PWQ.png?smart=true&auth=308c7a82d9089484c622c88603521ab8bd5fb754ac1ef4d1095e1341f1a4c124&width=1200&height=630",
-        "title": "Trump Mobile Drops Trashy Update on New Phone - The Daily Beast",
-        "description": "The phone is marketed as being \u201cdesigned with American values in mind.\u201d",
-        "source_link": "https://www.thedailybeast.com/trump-mobile-drops-trashy-update-on-new-phone/"
-      },
-      {
-        "rank": 8,
+        "rank": 10,
         "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
         "title": "Google rolls out a native Gemini app for Mac - TechCrunch",
         "description": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
         "source_link": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
-        "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
-        "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!",
-        "source_link": "https://www.marvelrivals.com/gameupdate/20260415/41548_1296163.html"
-      },
-      {
-        "rank": 10,
-        "image": "https://dims.apnews.com/dims4/default/8f933f6/2147483647/strip/true/crop/3956x2636+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2f%2F2f%2Ff112b06cd4497b57e94d6e6bf8f9%2Fa7cc657f3a7847c1b45628249001eadf",
-        "title": "A small but growing movement wants you to put down your phone. But first read this - AP News",
-        "description": "Two decades after Steve Jobs premiered the iPhone, a small but intensely passionate movement is rebelling against the omnipresent screen. They say we're spending far too much time staring at our phones and missing out on real life. An \u201cattention activism\u201d mov\u2026",
-        "source_link": "https://apnews.com/article/internet-screens-phone-addiction-attention-bde9f575a54921ca320d30519783c250"
       }
     ],
     "trending_movies": [
@@ -104,7 +104,7 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/aSmAmNAK2VYfb0rYlleYJ10s3CC.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
+        "image": "https://image.tmdb.org/t/p/w200/adk8weka3O5648g3de4z3y4aE7G.jpg",
+        "title": "Thrash",
+        "description": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry...",
+        "source_link": "https://www.themoviedb.org/movie/1290417"
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
-        "title": "The Drama",
-        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
-        "source_link": "https://www.themoviedb.org/movie/1325734"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/cbYyWHc1dL1bfwEJbaMYDYKgWG2.jpg",
         "title": "Toaster",
         "description": "Murder and chaos erupt when a miser becomes obsessed with a toaster he gave as a wedding gift....",
         "source_link": "https://www.themoviedb.org/movie/1416391"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-        "title": "Michael",
-        "description": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journe...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
+        "image": "https://image.tmdb.org/t/p/w200/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
+        "title": "undertone",
+        "description": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way....",
+        "source_link": "https://www.themoviedb.org/movie/1480387"
       }
     ]
   }
