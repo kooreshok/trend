@@ -1,76 +1,76 @@
 {
-  "last_updated": "April 16, 2026, 23:36 UTC",
+  "last_updated": "April 17, 2026, 02:09 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Google-One-app-storage-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google One discount takes 50% off YouTube Premium for a year - 9to5Google",
+        "description": "After boosting AI Pro storage earlier this month, Google One is now running a limited-time YouTube Premium discount. This offer...",
+        "source_link": "http://9to5google.com/2026/04/15/google-one-youtube-premium/"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/youtube-shorts-feed-time-limit.jpg?quality=90&strip=all&crop=0,3.4199101935869,100,93.160179612826",
+        "title": "YouTube now lets you turn off Shorts - The Verge",
+        "description": "All YouTube users are getting an option to set their Shorts time limit to zero minutes.\ufeff",
+        "source_link": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes"
+      },
+      {
+        "rank": 3,
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10319-8/MediaObjects/41586_2026_10319_Fig1_HTML.png",
+        "title": "Language models transmit behavioural traits through hidden signals in data - Nature",
+        "description": "During model distillation, large language models can subtly transmit traits unrelated to the training data.",
+        "source_link": "https://www.nature.com/articles/s41586-026-10319-8"
+      },
+      {
+        "rank": 4,
         "image": "https://lifehacker.com/imagery/articles/01KP8VQNE3J5SXNNH1N1S0Z1JD/hero-image.fill.size_1200x675.jpg",
         "title": "These 108 Malicious Chrome Extensions Are Stealing Google and Telegram Data - Lifehacker",
         "description": "Be careful which extensions you install in Chrome.",
         "source_link": "https://lifehacker.com/tech/108-malicious-chrome-extensions-stealing-google-telegram-data"
       },
       {
-        "rank": 2,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/recall-02-1152x648.jpg",
-        "title": "\u201cTotalRecall Reloaded\u201d tool finds a side entrance to Windows 11\u2019s Recall database - Ars Technica",
-        "description": "The vault is solid. The delivery truck is not.\"",
-        "source_link": "https://arstechnica.com/gadgets/2026/04/totalrecall-reloaded-tool-finds-a-side-entrance-to-windows-11s-recall-database/"
-      },
-      {
-        "rank": 3,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/joe-prosser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple says Jon Prosser has only partially complied with subpoenas in iOS 26 leak case [U] - 9to5Mac",
-        "description": "In a joint status report, attorneys for Apple and Michael Ramacciotti updated the court on the latest developments in the trade secrets lawsuit over the leak of iOS 26 design details.",
-        "source_link": "https://9to5mac.com/2026/04/15/apple-says-jon-prosser-has-only-partially-complied-with-subpoenas-in-ios-26-leak-case/"
-      },
-      {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Gemini-for-MacOS_03_Capsule-Image_16x9.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "Google launches a Gemini AI app on Mac - The Verge",
-        "description": "Google is launching a new Gemini app for Mac, allowing you to pull up the AI assistant from anywhere on your desktop.",
-        "source_link": "https://www.theverge.com/tech/912638/google-gemini-mac-app"
-      },
-      {
         "rank": 5,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-1152x648.jpg",
+        "title": "Google releases new apps for Windows and MacOS - Ars Technica",
+        "description": "Google mostly creates products for the web, but it has some new desktop apps today.",
+        "source_link": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/"
+      },
+      {
+        "rank": 6,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-citrus.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Microsoft has a new idea on how to deter students from MacBook Neo - 9to5Mac",
+        "description": "The effects of MacBook Neo continue to ripple through the PC industry this week. As spotted by The Verge, Microsoft...",
+        "source_link": "https://9to5mac.com/2026/04/15/microsoft-has-a-new-idea-on-how-to-deter-students-from-macbook-neo/"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.thedailybeast.com/resizer/v2/KS2EU52P3JEVJD5NTPXOIN3PWQ.png?smart=true&auth=308c7a82d9089484c622c88603521ab8bd5fb754ac1ef4d1095e1341f1a4c124&width=1200&height=630",
+        "title": "Trump Mobile Drops Trashy Update on New Phone - The Daily Beast",
+        "description": "The phone is marketed as being \u201cdesigned with American values in mind.\u201d",
+        "source_link": "https://www.thedailybeast.com/trump-mobile-drops-trashy-update-on-new-phone/"
+      },
+      {
+        "rank": 8,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+        "title": "Google rolls out a native Gemini app for Mac - TechCrunch",
+        "description": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
+        "source_link": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/"
+      },
+      {
+        "rank": 9,
         "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
         "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
         "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!",
         "source_link": "https://www.marvelrivals.com/gameupdate/20260415/41548_1296163.html"
       },
       {
-        "rank": 6,
-        "image": "https://kotaku.com/app/uploads/2026/04/hidden-depths-1200x675.jpg",
-        "title": "Blue Prince Devs Want You To Go Into These Indie Games Blind - Kotaku",
-        "description": "Pick up Animal Well, Blue Prince, Outer Wilds and more, but don't find out anything else about them first",
-        "source_link": "https://kotaku.com/blue-prince-fez-outer-wilds-animal-well-tunic-bundle-steam-2000687887"
-      },
-      {
-        "rank": 7,
-        "image": "https://compote.slate.com/images/99da21ef-c4e4-4ca3-9baa-1023e789765f.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-        "title": "My Ex Bought Our Son a Much Too Grown-Up Gift for His Birthday. He\u2019s Only 6! - Slate",
-        "description": "This is totally inappropriate.",
-        "source_link": "https://slate.com/advice/2026/04/parenting-advice-inappropriate-gift.html"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/adobe-firefly-ai-assistant-1152x648.jpg",
-        "title": "Adobe takes Creative Cloud into Claude Code-esque territory - Ars Technica",
-        "description": "This is a big step in a new strategic direction for Adobe.",
-        "source_link": "https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/X300-Ultra-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Vivo X300 Ultra goes global with insane videography capabilities - 9to5Google",
-        "description": "After a Chinese launch, the Vivo X300 Ultra is now officially available in global markets with a slew of videography-focused...",
-        "source_link": "http://9to5google.com/2026/04/15/vivo-x300-ultra-goes-global-with-insane-videography-capabilities/"
-      },
-      {
         "rank": 10,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/samsung-airdrop.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Galaxy devices ditch some image data using AirDrop over Quick Share, fix coming - 9to5Google",
-        "description": "After a monumental update allowed Galaxy S26 phones to share with Apple\u2019s iOS devices using AirDrop, some users are reporting...",
-        "source_link": "http://9to5google.com/2026/04/15/galaxy-phones-ditch-location-data-during-airdrop/"
+        "image": "https://dims.apnews.com/dims4/default/8f933f6/2147483647/strip/true/crop/3956x2636+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2f%2F2f%2Ff112b06cd4497b57e94d6e6bf8f9%2Fa7cc657f3a7847c1b45628249001eadf",
+        "title": "A small but growing movement wants you to put down your phone. But first read this - AP News",
+        "description": "Two decades after Steve Jobs premiered the iPhone, a small but intensely passionate movement is rebelling against the omnipresent screen. They say we're spending far too much time staring at our phones and missing out on real life. An \u201cattention activism\u201d mov\u2026",
+        "source_link": "https://apnews.com/article/internet-screens-phone-addiction-attention-bde9f575a54921ca320d30519783c250"
       }
     ],
     "trending_movies": [
@@ -104,45 +104,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
-        "title": "The Drama",
-        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
-        "source_link": "https://www.themoviedb.org/movie/1325734"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-        "title": "Michael",
-        "description": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journe...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
+        "title": "Return to Silent Hill",
+        "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
+        "source_link": "https://www.themoviedb.org/movie/680493"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
+        "title": "The Drama",
+        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
+        "source_link": "https://www.themoviedb.org/movie/1325734"
+      },
+      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/adk8weka3O5648g3de4z3y4aE7G.jpg",
-        "title": "Thrash",
-        "description": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry...",
-        "source_link": "https://www.themoviedb.org/movie/1290417"
+        "image": "https://image.tmdb.org/t/p/w200/cbYyWHc1dL1bfwEJbaMYDYKgWG2.jpg",
+        "title": "Toaster",
+        "description": "Murder and chaos erupt when a miser becomes obsessed with a toaster he gave as a wedding gift....",
+        "source_link": "https://www.themoviedb.org/movie/1416391"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
-        "title": "Return to Silent Hill",
-        "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
-        "source_link": "https://www.themoviedb.org/movie/680493"
+        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+        "title": "Michael",
+        "description": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journe...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
       }
     ]
   }
