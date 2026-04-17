@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 17, 2026, 15:56 UTC",
+  "last_updated": "April 17, 2026, 16:54 UTC",
   "categories": {
     "tech_news": [
       {
@@ -97,17 +97,17 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/gPiyTLo5GGwtJl0L8TlaJF9r0KE.jpg",
         "title": "Avatar: Aang, The Last Airbender",
         "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
         "source_link": "https://www.themoviedb.org/movie/980431"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
         "rank": 6,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/cbYyWHc1dL1bfwEJbaMYDYKgWG2.jpg",
+        "title": "Toaster",
+        "description": "Murder and chaos erupt when a miser becomes obsessed with a toaster he gave as a wedding gift....",
+        "source_link": "https://www.themoviedb.org/movie/1416391"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
         "title": "Ballistic",
         "description": "When a soldier's mother discovers the bullet that killed her son in Afghanistan was made at the factory where she works, she sets out on a path of rev...",
         "source_link": "https://www.themoviedb.org/movie/1243741"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
-        "title": "Return to Silent Hill",
-        "description": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill\u2014a once-familiar town now consumed by darkness. As he searc...",
-        "source_link": "https://www.themoviedb.org/movie/680493"
       }
     ]
   }
