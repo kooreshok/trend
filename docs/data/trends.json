@@ -1,76 +1,76 @@
 {
-  "last_updated": "April 18, 2026, 02:00 UTC",
+  "last_updated": "April 18, 2026, 05:03 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-04/08/07/thumb/bJPcg0-1C.jpg?crop=3000:1571;0,2%26downsize=1250:*",
+        "title": "Homeowners Share The Minimal-Cost Projects That Solved Seriously Annoying Inconveniences - BuzzFeed",
+        "description": "\"It was supposed to be a temporary solution until I saved some money \u2014 but I like it so much I still haven't changed it three years later.\"",
+        "source_link": "https://www.buzzfeed.com/rossyoder/best-low-cost-home-projects-upgrades-fs"
+      },
+      {
+        "rank": 2,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/Chromebook-Pixel-light-bar.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google working on Pixel \u2018laptop\u2019 and \u2018Pixel Glow\u2019 lights that are also coming to phones - 9to5Google",
         "description": "Google is working on a Pixel \u201claptop\u201d of some sort that will feature a \u201cPixel Glow\u201d hardware feature. Based on the...",
         "source_link": "http://9to5google.com/2026/04/16/pixel-glow-laptop/"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/intel-core-series-3-1152x648.jpeg",
+        "title": "Intel refreshes non-Ultra Core CPUs with new silicon for the first time - Ars Technica",
+        "description": "For the first time in a while, the benefits of new Intel tech will trickle down.",
+        "source_link": "https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/"
+      },
+      {
+        "rank": 4,
         "image": "https://imageio.forbes.com/specials-images/imageserve/69d48f143cef99c1d38a9d5f/0x0.jpg?format=jpg&crop=2609,1468,x224,y480,safe&height=900&width=1600&fit=bounds",
         "title": "\u2018Starting In April\u2019\u2014Microsoft Changes Windows Update After 15 Years - Forbes",
         "description": "Security certificates on more than a billion Windows PCs expire in 8 weeks \u2014 check yours now.",
         "source_link": "https://www.forbes.com/sites/zakdoffman/2026/04/16/starting-in-april-microsoft-changes-windows-update-after-15-years/"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://images.macrumors.com/t/eOzyM8ISnV9IBZyEokzQ90qZ434=/2500x/article-new/2026/03/macbook-neo-launch-day.jpeg",
         "title": "Apple's $599 MacBook Neo Sold Out Through April Amid Surging Demand - MacRumors",
         "description": "Apple's MacBook Neo has been a huge hit, and it's still in high demand over a month after it launched. The MacBook Neo is just $599, and...",
         "source_link": "https://www.macrumors.com/2026/04/16/macbook-neo-demand-surging/"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://kotaku.com/app/uploads/2026/04/image-60.jpg",
         "title": "Arc Raiders Hits A \u2018Dead Game\u2019 Spiral Other Live Shooters Would Kill For - Kotaku",
         "description": "Also: the Call Of Duty movie will be out in summer 2028 and aims to be 'authentic'",
         "source_link": "https://kotaku.com/arc-raiders-hits-a-dead-game-spiral-other-live-shooters-would-kill-for-2000688321"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Android-17-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Here\u2019s everything new in Android 17 Beta 4 [Gallery] - 9to5Google",
+        "description": "Google today rolled out Android 17 Beta 4 for Pixel devices to continue the preview cycle. This is the last...",
+        "source_link": "http://9to5google.com/2026/04/16/android-17-beta-4-everything-new/"
+      },
+      {
+        "rank": 8,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/04/Second-Stone-Galaxies_04-16-26.jpg",
+        "title": "Second Stone \u2013 Galaxies Spring 2026 trailer - Gematsu",
+        "description": "Publisher Headup Games and developer Skyward Entertainment have released a new trailer for action RPG Second Stone as part of today\u2019s Galaxies Spring 2026 showcase.",
+        "source_link": "https://www.gematsu.com/2026/04/second-stone-galaxies-spring-2026-trailer"
+      },
+      {
+        "rank": 9,
         "image": "https://insider-gaming.com/wp-content/uploads/2026/04/black-flag-remake.jpg",
         "title": "Assassin\u2019s Creed: Black Flag Resynced Releases July 9, 2026 - Insider Gaming",
         "description": "The upcoming Assassin's Creed Blaf Flag remake, titled Assassin's Creed: Black Flag Resynced, will release on July 9, 2026.",
         "source_link": "https://insider-gaming.com/black-flag-resynced-release-date/"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://kotaku.com/app/uploads/2026/04/div2mmorpg-1200x675.jpg",
         "title": "The Division Was Originally A World Of Warcraft Clone, Says Ubisoft - Kotaku",
         "description": "There was a time when The Division didn't feature cover-based shooting, but instead had a hot bar and dog companion",
         "source_link": "https://kotaku.com/the-division-mmorgp-world-of-warcraft-gameplay-early-look-ubisoft-wow-2000688307"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-glasses-light.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Latest Apple Glasses reveal shows Apple truly playing to its strengths - 9to5Mac",
-        "description": "This week brought new details on what to expect from Apple Glasses\u2019 design, and Apple sounds like it\u2019s truly playing to its strengths.",
-        "source_link": "https://9to5mac.com/2026/04/16/latest-apple-glasses-reveal-shows-apple-truly-playing-to-its-strengths/"
-      },
-      {
-        "rank": 8,
-        "image": "https://simscommunity.info/wp-content/uploads/2026/04/KITSreturningssims4FI.jpg",
-        "title": "Change of Plans: The Sims 4 Kits Returning to EA App and Steam - Sims Community",
-        "description": "It seems that The Sims 4 Kits are returning to official Steam and EA App storefronts, per the latest leaked message.",
-        "source_link": "https://simscommunity.info/2026/04/16/sims-4-kits-ea-app-steam-return/"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.purexbox.com/122de87f3b910/large.jpg",
-        "title": "Metro 2039 Is Coming To Xbox This Winter, Gorgeous In-Engine Gameplay Revealed - Pure Xbox",
-        "description": "Welcome to the new world",
-        "source_link": "https://www.purexbox.com/news/2026/04/metro-2039-is-coming-to-xbox-this-winter-gorgeous-in-engine-gameplay-revealed"
-      },
-      {
-        "rank": 10,
-        "image": "https://media.wired.com/photos/69e0dd9494c73a543425c2c6/191:100/w_1280,c_limit/GettyImages-2261781731.jpg",
-        "title": "Google's AI Mode Update Tries to Kill Tab Hopping in Chrome - WIRED",
-        "description": "Google latest update to AI Mode in its Chrome browser is designed to keep the chatbot-style search tool always around once you start an online search journey.",
-        "source_link": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/"
       }
     ],
     "trending_movies": [
@@ -97,31 +97,31 @@
       },
       {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
+        "title": "Ballistic",
+        "description": "When a soldier's mother discovers the bullet that killed her son in Afghanistan was made at the factory where she works, she sets out on a path of rev...",
+        "source_link": "https://www.themoviedb.org/movie/1243741"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
         "title": "Balls Up",
         "description": "Two marketing executives go \"balls out\" and pitch a bold full\u2011coverage condom sponsorship with the World Cup. After their drunken celebration in Brazi...",
         "source_link": "https://www.themoviedb.org/movie/1084577"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
         "title": "Lee Cronin's The Mummy",
         "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
         "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
-        "title": "Ballistic",
-        "description": "When a soldier's mother discovers the bullet that killed her son in Afghanistan was made at the factory where she works, she sets out on a path of rev...",
-        "source_link": "https://www.themoviedb.org/movie/1243741"
       },
       {
         "rank": 8,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
+        "title": "Roommates",
+        "description": "When college freshman Devon asks cool, confident Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression....",
+        "source_link": "https://www.themoviedb.org/movie/1511057"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
         "title": "Michael",
         "description": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journe...",
         "source_link": "https://www.themoviedb.org/movie/936075"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/kyfsiPQsJxdgf8gOtYkUhwojN6l.jpg",
-        "title": "A Gorilla Story: Told by David Attenborough",
-        "description": "David Attenborough tells the remarkable story of his first encounter with the baby gorilla Pablo, how that gorilla grew up to be a top Silverback and ...",
-        "source_link": "https://www.themoviedb.org/movie/1623125"
       }
     ]
   }
