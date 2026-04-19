@@ -1,76 +1,76 @@
 {
-  "last_updated": "April 19, 2026, 08:49 UTC",
+  "last_updated": "April 19, 2026, 09:42 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.motor1.com/images/mgl/Rqkbjx/s1/porsche-911-gt3-rs-with-manthey-kit-nurburgring-lap-time.jpg",
+        "title": "It's No Mustang: 911 GT3 RS WIth Manthey Kit Sets N\u00fcrburgring Lap Time - Motor1.com",
+        "description": "Watch a 911 GT3 RS with the $116,160 Manthey Kit demolish the N\u00fcrburgring Nordschleife as it tries to set a lap record.",
+        "source_link": "https://www.motor1.com/news/793299/porsche-911-gt3-rs-manthey-kit-nubrurgring-lap/"
+      },
+      {
+        "rank": 2,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69e31225b144f448687b057e/0x0.jpg?format=jpg&crop=849,540,x202,y19,safe&height=900&width=1600&fit=bounds",
+        "title": "Google Starts Scanning All Your Photos As New Update Goes Live - Forbes",
+        "description": "Google wants its AI to see all the photos of \"you and your loved ones.\" Billions of users must now decide.",
+        "source_link": "https://www.forbes.com/sites/zakdoffman/2026/04/18/google-starts-scanning-all-your-photos-as-new-update-goes-live/"
+      },
+      {
+        "rank": 3,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69d48f143cef99c1d38a9d5f/0x0.jpg?format=jpg&crop=2609,1468,x224,y480,safe&height=900&width=1600&fit=bounds",
+        "title": "'Starting In April'\u2014Microsoft Changes Windows Update After 15 Years - Forbes",
+        "description": "Security certificates on more than a billion Windows PCs expire in 8 weeks \u2014 check yours now.",
+        "source_link": "https://www.forbes.com/sites/zakdoffman/2026/04/18/starting-in-april-microsoft-changes-windows-update-after-15-years/"
+      },
+      {
+        "rank": 4,
         "image": "https://images.macrumors.com/t/LX2SJf0l-MX75qIa3R6d1KYa9cE=/2500x/article-new/2023/06/mac-studio-green.jpg",
         "title": "5+ Things to Know About the Next Mac Studio - MacRumors",
         "description": "Apple is working on an updated version of the Mac Studio that's expected at some point in 2026, and with supplies of existing machines running...",
         "source_link": "https://www.macrumors.com/2026/04/17/mac-studio-rumor-recap-april/"
       },
       {
-        "rank": 2,
-        "image": "https://helios-i.mashable.com/imagery/articles/067fGljFtFH3dAYnixfhZY6/hero-image.fill.size_1200x675.v1776438999.jpg",
-        "title": "Latest iPhone rumors: iPhone 18 colors and cameras appear in new leaks - Mashable",
-        "description": "Spoiler alert: No more cosmic orange.",
-        "source_link": "https://mashable.com/article/iphone-18-color-camera-leaks-rumors"
+        "rank": 5,
+        "image": "https://assets-prd.ignimgs.com/2026/03/17/arc-raiders-march-1773758300338.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "'WTF Embark' \u2014 Arc Raiders Expedition Changes Leave Players Who Spent Months Saving Millions of Credits Feeling Left Behind - IGN",
+        "description": "Embark Studios has once again announced tweaks to the Arc Raiders Expedition window, and players who have spent months saving millions of credits are feeling left behind.",
+        "source_link": "https://www.ign.com/articles/arc-raiders-players-are-disappointed-in-the-new-expedition-changes"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://regmedia.co.uk/2026/04/17/core_series_3_chip.jpg",
+        "title": "Intel eases reliance on TSMC with Core Series 3 CPUs - theregister.com",
+        "description": ": Stripped-down Ultra for laptops and low-power edge boxes",
+        "source_link": "https://www.theregister.com/2026/04/17/intel_eases_reliance_on_tsmc/"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.techpowerup.com/img/SuFbbv2k9GsFW7Ml.jpg",
+        "title": "Pragmata Launch: Glowing Reviews and Chart-Topping Sales but Mediocre Player Counts - TechPowerUp",
+        "description": "Pragmata has officially launched on Steam, PlayStation 5, Nintendo Switch 2, and Xbox Series consoles after garnering a lot of hype leading up to its launch. The highly anticipated launch aside, though, it seems as though Pragmata's actual reception is a bit \u2026",
+        "source_link": "https://www.techpowerup.com/348321/pragmata-launch-glowing-reviews-and-chart-topping-sales-but-mediocre-player-counts"
+      },
+      {
+        "rank": 8,
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9558e6e2-8363-4244-890c-588f798e2982.jpg?source=next-barrier-page",
+        "title": "Months-old start-up Recursive Superintelligence raises $500mn for self-teaching AI - Financial Times",
+        "description": "Group founded by former engineers at DeepMind and OpenAI secures $4bn valuation in deal with Google\u2019s venture arm and Nvidia",
+        "source_link": "https://www.ft.com/content/a92bf04b-bbac-400f-9554-5b1c70957ad4?syn-25a6b1a6\\\\u003d1"
+      },
+      {
+        "rank": 9,
+        "image": "https://images.nintendolife.com/f670c10dc103e/large.jpg",
+        "title": "Tomodachi Life: Living The Dream: Beginner's Guide - Tips & Tricks - Nintendo Life",
+        "description": "How to get started on Tomodachi Life",
+        "source_link": "https://www.nintendolife.com/guides/tomodachi-life-living-the-dream-beginners-guide-tips-and-tricks"
+      },
+      {
+        "rank": 10,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-maps-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple Maps is quickly improving, and iOS 26.5 brings useful new addition - 9to5Mac",
         "description": "Apple Maps got several great new features in iOS 26, but another useful improvement is coming soon in iOS 26.5. Here are the details.",
         "source_link": "https://9to5mac.com/2026/04/17/apple-maps-is-quickly-improving-and-ios-26-5-brings-useful-new-addition/"
-      },
-      {
-        "rank": 4,
-        "image": "https://helios-i.mashable.com/imagery/articles/06U6CgL1lzkwMKNUjSgJmKs/hero-image.fill.size_1200x675.v1776444909.jpg",
-        "title": "Steph Curry is testing Google and Fitbit's screenless Whoop competitor: Everything we know - Mashable",
-        "description": "The NBA's greatest shooter has been not-so-subtly showing off the potential Whoop killer.",
-        "source_link": "https://mashable.com/article/steph-curry-google-fitbit-screenless-whoop-competitor"
-      },
-      {
-        "rank": 5,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/07/photo-mosh-getty-windows-logo.jpg?resize=1200,675",
-        "title": "Hackers are abusing unpatched Windows security flaws to hack into organizations - TechCrunch",
-        "description": "A security researcher published details of three security vulnerabilities in Windows Defender, and the code used to exploit them. Now, hackers are taking advantage of the vulnerabilities in real-life attacks, according to a cybersecurity firm.",
-        "source_link": "https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/"
-      },
-      {
-        "rank": 6,
-        "image": "https://kotaku.com/app/uploads/2026/04/a699dc2e9cf8568ee63b55a7c92eedc9_original-1200x675.jpg",
-        "title": "BAFTA Pulls Game From Showcase Due To Depiction Of Child Abuse - Kotaku",
-        "description": "The Quiet Things is an autobiographical narrative game about childhood trauma",
-        "source_link": "https://kotaku.com/bafta-game-awards-quiet-things-trailer-silver-script-2000688583"
-      },
-      {
-        "rank": 7,
-        "image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt828c6bc3e45b3952/69e26e5da047c95cfdc2228b/irongalaxycoollogofeatured.jpg?disable=upscale&width=1200&height=630&fit=crop",
-        "title": "Iron Galaxy Studios lays off 'a number' of workers as it reduces company size - Game Developer",
-        "description": "Co-development and porting firm Iron Galaxy Studios is adopting 'a new posture to accept these current market conditions as permanent.'",
-        "source_link": "https://www.gamedeveloper.com/business/iron-galaxy-studios-lays-off-a-number-of-workers-as-it-reduces-company-size"
-      },
-      {
-        "rank": 8,
-        "image": "https://cms-assets.unrealengine.com/cmkr1i7c9047e07n0es5291ez/cmo2zt99v8tzh06n1ofmqwbwa",
-        "title": "Unlock New Rewards in the Rivals and Rockets - Rocket League \u00ae",
-        "description": "Complete cross-game Quests and Challenges in Rocket League and Fortnite to unlock rewards in both games.",
-        "source_link": "https://www.rocketleague.com/news/get-the-havoc-car-body-as-rivals-and-rockets-kicks-off-april-17"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.spike-chunsoft.com/wp-content/uploads/Spike_2026_Nintendo_Spring_Sale_Social_Banner_1920x1080_003.jpg",
-        "title": "Save up to 90% on Spike Chunsoft Games During the Spike Chunsoft Spring Sale on Nintendo eShop April 17 to April 29, 2026 - Spike Chunsoft",
-        "description": "HUNTINGTON BEACH, Calif. (April 17, 2026) - Players can save up to 90% on these Spike Chunsoft, Inc. titles from April 17, 2026 to April 29, 2026, during the Spike Chunsoft Spring Sale on Nintendo eShop. *Visit the Nintendo eShop in your region for details. N\u2026",
-        "source_link": "https://www.spike-chunsoft.com/uncategorized/noa_noe_sale-spikechunsoftspring2026/"
-      },
-      {
-        "rank": 10,
-        "image": "https://assetsio.gnwcdn.com/kingdom-come-deliverance-2-director-lgbt-award-not-woke-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Kingdom Come: Deliverance 2 director \"really proud\" the gay romance he pushed for, which is somehow totally different to \"woke\" games' representation, is up for awards - Rock Paper Shotgun",
-        "description": "Kingdom Come: Deliverance 2 director Daniel V\u00e1vra has tweeted that he's proud of the game's gay romance storyline in totally normal fashion.",
-        "source_link": "https://www.rockpapershotgun.com/kingdom-come-deliverance-2-director-really-proud-the-gay-romance-he-pushed-for-which-is-somehow-totally-different-to-woke-games-representation-is-up-for-awards"
       }
     ],
     "trending_movies": [
@@ -83,45 +83,45 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
-        "title": "Roommates",
-        "description": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression....",
-        "source_link": "https://www.themoviedb.org/movie/1511057"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/gPiyTLo5GGwtJl0L8TlaJF9r0KE.jpg",
-        "title": "Avatar: Aang, The Last Airbender",
-        "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
-        "source_link": "https://www.themoviedb.org/movie/980431"
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
+        "title": "Roommates",
+        "description": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression....",
+        "source_link": "https://www.themoviedb.org/movie/1511057"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
         "title": "180",
         "description": "When an unexpected road rage incident puts his son in critical condition, an enraged father spirals down a dark path of emotional turmoil and vengeanc...",
         "source_link": "https://www.themoviedb.org/movie/1659087"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
-        "title": "Lee Cronin's The Mummy",
-        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
-        "source_link": "https://www.themoviedb.org/movie/1304313"
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/gPiyTLo5GGwtJl0L8TlaJF9r0KE.jpg",
+        "title": "Avatar: Aang, The Last Airbender",
+        "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
+        "source_link": "https://www.themoviedb.org/movie/980431"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
+        "title": "Lee Cronin's The Mummy",
+        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
+        "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
         "rank": 8,
