@@ -1,76 +1,76 @@
 {
-  "last_updated": "April 20, 2026, 10:06 UTC",
+  "last_updated": "April 20, 2026, 12:00 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.nj.com/resizer/v2/I5J4S2MNOBAADBUWGVJEM7O3VI.png?auth=e3b80845a61e4cd2ebd8499969d7241b4c5a766b9da3f31672a535503b8c506d&width=1280&smart=true&quality=90",
+        "title": "Lakefront N.J. home is a steal for $550,000. Here\u2019s why. - NJ.com",
+        "description": "It's listed for less than the statewide median sales price of $570,000.",
+        "source_link": "https://www.nj.com/realestate-news/2026/04/lakefront-nj-home-is-a-steal-for-550000-heres-why.html"
+      },
+      {
+        "rank": 2,
         "image": "https://images.nintendolife.com/a10d1587d8ab1/large.jpg",
         "title": "Metroid Prime Remastered Studio 'Iron Galaxy' Announces More Layoffs - Nintendo Life",
         "description": "It released Tony Hawk's Pro Skater 3 + 4 last year",
         "source_link": "https://www.nintendolife.com/news/2026/04/metroid-prime-remastered-studio-iron-galaxy-announces-more-layoffs"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/03/p-s-5-p-r-o.png?resize=2000,1125",
+        "title": "Next Big PS5 Exclusive Confirms Huge PS5 Pro Upgrade - ComicBook.com",
+        "description": "The next big PS5 exclusive game, which is set to release later this month, has confirmed a huge PS5 Pro upgrade.",
+        "source_link": "http://comicbook.com/gaming/news/ps5-pro-exclusive-game-upgrade-april/"
+      },
+      {
+        "rank": 4,
         "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltd913bf8eb10ab068/69e0df66a778322ad804b9ff/crimsondesertsteamfreegame.jpg",
         "title": "Steam Beloved RPG Surpasses Even Crimson Desert In Scale, And It's Free - GAMINGbible",
         "description": "Steam users have a free alternative to Crimson Desert they've been sleeping on.",
         "source_link": "https://www.gamingbible.com/news/platform/steam/steam-rpg-surpasses-crimson-desert-free-060133-20260416"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://www.windowslatest.com/wp-content/uploads/2026/04/Windows-11-File-Explorer-update.jpg",
+        "title": "Microsoft is giving Windows 11 File Explorer a speed boost, dark mode fix, and reducing explorer.exe crashes - Windows Latest",
+        "description": "Microsoft now says it's preparing a big update for File Explorer that would allow it to run faster, address 'white flashes,' and more.",
+        "source_link": "https://www.windowslatest.com/2026/04/19/microsoft-is-giving-windows-11-file-explorer-a-speed-boost-dark-mode-fix-and-new-archive-support-in-next-update/"
+      },
+      {
+        "rank": 6,
         "image": "https://hackaday.com/wp-content/uploads/2026/04/ORB.jpg",
         "title": "How One Line Of TF2 Code Ruined This Simple Feature - Hackaday",
         "description": "Ever encountered a minor annoying bug in a video game? How about one dating back to 2018? Usually, you have no hope of fixing it, but this time is different. [Joey Cheerio] shows the first-time pro\u2026",
         "source_link": "https://hackaday.com/2026/04/18/how-one-line-of-tf2-code-ruined-this-simple-feature/"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://nintendoeverything.com/wp-content/uploads/Super-Mario-kun-manga-ending-1.jpg",
         "title": "Super Mario-kun manga may finally be ending after more then 30 years - Nintendo Everything",
         "description": "Super Mario-kun has been a long-running manga in Japan having started in 1990, but it could finally be coming to an end soon. We\u2019re hearing that the series has reached its final arc. The story seems to be wrapping up and fans believe that it won\u2019t be long unt\u2026",
         "source_link": "https://nintendoeverything.com/?p=911790"
       },
       {
-        "rank": 5,
+        "rank": 8,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "MacBook Neo has a chip supply problem, here\u2019s how Apple could fix it - 9to5Mac",
+        "description": "Apple has a chip problem. MacBook Neo is selling far better than the company had expected, and now it seems...",
+        "source_link": "https://9to5mac.com/2026/04/18/macbook-neo-has-a-chip-supply-problem-heres-how-apple-could-fix-it/"
+      },
+      {
+        "rank": 9,
+        "image": "https://cdn.neowin.com/news/images/uploaded/2025/07/1752347808_windwos_11_update_1_story.webp",
+        "title": "Microsoft released Windows 11 KB5083826 update for OS recovery - Neowin",
+        "description": "New dynamic updates for Windows 11 26H1, 25H2, and 24H2, as well as Windows 11 22H2, under KB5083826, and more, have been released.",
+        "source_link": "https://www.neowin.net/news/microsoft-released-windows-11-kb5083826-update-for-os-recovery/"
+      },
+      {
+        "rank": 10,
         "image": "https://imageio.forbes.com/specials-images/imageserve/68b6c8d1fcaaf31544d0ba53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "Samsung To Release New Free Upgrade To Millions Of Galaxy Phones - Forbes",
         "description": "Samsung is bringing a major free Galaxy S26 upgrade to millions of Galaxy phones via the One UI 8.5 release.",
         "source_link": "https://www.forbes.com/sites/jaymcgregor/2026/04/18/samsung-one-ui-85-galaxy-s24-s25-ai-features-update/"
-      },
-      {
-        "rank": 6,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69e31f8e4f84e450f490c088/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "New Apple iPhone Fold Decision Changes Smartphones Forever - Forbes",
-        "description": "Apple's key design decision has forced and inspired its rivals to follow suit. A (partially) new way to making foldable phones will quickly become the norm.",
-        "source_link": "https://www.forbes.com/sites/jaymcgregor/2026/04/18/apple-iphone-fold-battery-vs-samsung-huawei/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tim-cook-iphone-15-launch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Here are all of the new Apple products worth waiting for, and what to avoid buying now - 9to5Mac",
-        "description": "Apple has already unveiled numerous products to date, including new versions of the MacBook Air and MacBook Pro, the iPad...",
-        "source_link": "https://9to5mac.com/2026/04/18/upcoming-apple-product-launches-worth-waiting-for-later-this-year/"
-      },
-      {
-        "rank": 8,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Bayonetta-3-ending-clarified.jpg",
-        "title": "Bayonetta creator explains what actually happened in Bayonetta 3\u2019s ending - Nintendo Everything",
-        "description": "The creator of Bayonetta argues that the inclusion of the multiverse didn't come out of nowhere and clarifies the ending of Bayonetta 3.",
-        "source_link": "https://nintendoeverything.com/bayonetta-3-multiverse-ending-explained/"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-march-2026-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Gemini app bug removes features, reverts UI on Android - 9to5Google",
-        "description": "A bug with the Gemini app today is responsible for several recent features being rolled back. For starters...",
-        "source_link": "http://9to5google.com/2026/04/18/gemini-app-bug/"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/amazon-fire-tv-stick-hd-2026.jpg",
-        "title": "Amazon\u2019s new Fire TV Stick HD signals the end of sideloading - Android Authority",
-        "description": "Amazon is weirdly warning only some customers that they will not be able to sideload apps on the new Fire TV Stick HD.",
-        "source_link": "https://www.androidauthority.com/fire-tv-stick-hd-sideloading-warning-3658819/"
       }
     ],
     "trending_movies": [
@@ -97,45 +97,45 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/gPiyTLo5GGwtJl0L8TlaJF9r0KE.jpg",
-        "title": "Avatar: Aang, The Last Airbender",
-        "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
-        "source_link": "https://www.themoviedb.org/movie/980431"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
         "title": "Lee Cronin's The Mummy",
         "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
         "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/3ZqaqAmOusw3f2bN164niCFWqgx.jpg",
-        "title": "WWE WrestleMania 42 Saturday",
-        "description": "Cody Rhodes clashes with longtime friend Randy Orton for the Undisputed WWE Title. Women's World Champion Stephanie Vaquer to defend against Liv Morga...",
-        "source_link": "https://www.themoviedb.org/movie/1674749"
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/gPiyTLo5GGwtJl0L8TlaJF9r0KE.jpg",
+        "title": "Avatar: Aang, The Last Airbender",
+        "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
+        "source_link": "https://www.themoviedb.org/movie/980431"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
         "title": "Vengeance",
         "description": "The brutal murder of the wife of \u201cToro,\u201d a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of...",
         "source_link": "https://www.themoviedb.org/movie/1613798"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
-        "title": "Roommates",
-        "description": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression....",
-        "source_link": "https://www.themoviedb.org/movie/1511057"
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/3ZqaqAmOusw3f2bN164niCFWqgx.jpg",
+        "title": "WWE WrestleMania 42 Saturday",
+        "description": "Cody Rhodes clashes with longtime friend Randy Orton for the Undisputed WWE Title. Women's World Champion Stephanie Vaquer to defend against Liv Morga...",
+        "source_link": "https://www.themoviedb.org/movie/1674749"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
         "title": "180",
         "description": "When an unexpected road rage incident puts his son in critical condition, an enraged father spirals down a dark path of emotional turmoil and vengeanc...",
         "source_link": "https://www.themoviedb.org/movie/1659087"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/1wA1uEoVY9QL2JGhNSGecue8euP.jpg",
+        "title": "WWE WrestleMania 42 Sunday",
+        "description": "World Heavyweight Champion CM Punk goes to war with Roman Reigns at WrestleMania 42....",
+        "source_link": "https://www.themoviedb.org/movie/1658464"
       },
       {
         "rank": 10,
