@@ -1,76 +1,76 @@
 {
-  "last_updated": "April 21, 2026, 22:34 UTC",
+  "last_updated": "April 21, 2026, 23:31 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "\u2018WhatsApp Plus\u2019 subscription launching soon with new features - 9to5Mac",
+        "description": "WhatsApp is planning a new \u2018WhatsApp Plus\u2019 paid subscription, and it just went live in the app\u2019s Android beta ahead of an iOS launch.",
+        "source_link": "https://9to5mac.com/2026/04/20/whatsapp-plus-subscription-launching-soon-with-new-features/"
+      },
+      {
+        "rank": 2,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/Chrome_Hero.png?resize=1200,677",
+        "title": "Google rolls out Gemini in Chrome in 7 new countries - TechCrunch",
+        "description": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
+        "source_link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/"
+      },
+      {
+        "rank": 3,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-Johny-Srouji.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Apple names Johny Srouji as chief hardware officer - The Verge",
         "description": "Apple has appointed Johny Srouji as its new hardware chief, replacing soon-to-be CEO John Ternus.",
         "source_link": "https://www.theverge.com/tech/915240/apple-johny-srouji-ternus-cook"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268457_HUBRIS_CVIRGINIA.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Silicon Valley has forgotten what normal people want - The Verge",
         "description": "NFTs, the metaverse and AI are the most recent Silicon Valley enthusiasms. Does anyone remember how to build a consumer product?",
         "source_link": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://assetsio.gnwcdn.com/forza-6_zI43FoM.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Forza Horizon 6 has reportedly pre-sold 500,000 copies on Steam a month before launch | News-in-brief - GamesIndustry.biz",
         "description": "The resource for people who make and sell games.",
         "source_link": "https://www.gamesindustry.biz/forza-horizon-6-has-reportedly-pre-sold-500000-copies-on-steam-a-month-before-launch-news-in-brief"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://kotaku.com/app/uploads/2024/06/933365a2b44724f85e355579857d38cf-1200x675.jpg",
         "title": "Starfield Was The Best-Selling Game In The U.S. During The Week It Finally Arrived On PS5 - Kotaku",
         "description": "Admittedly, the competition wasn't stiff",
         "source_link": "https://kotaku.com/starfield-best-selling-game-ps5-launch-2000689070"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/googlephotos1.jpg?quality=90&strip=all&crop=0,10.677756423001,100,78.644487153997",
+        "title": "Google Photos adds subtle touch-up tools for faces - The Verge",
+        "description": "The Google Photos app on Android is getting a collection of new touch-up tools for enhancing and refining faces in your photos.",
+        "source_link": "https://www.theverge.com/tech/915129/google-photos-image-editor-touch-up-whiten-teeth-skin-blemishes"
+      },
+      {
+        "rank": 8,
         "image": "https://s.yimg.com/ny/api/res/1.2/JZJstmSNqwY29gcFgp6v4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-1226573420_6617.jpg",
         "title": "This 'invisible' TV might be the upgrade your living room needs \u2014 and it's currently on sale - AOL.com",
         "description": "It's currently down to the lowest price in months, now might be the time to check out a Frame TV from Samsung.",
         "source_link": "https://www.aol.com/shopping/tech/article/this-invisible-tv-might-be-the-upgrade-your-living-room-needs--and-its-currently-on-sale-162918250.html"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://images.pushsquare.com/d386e168080f2/large.jpg",
         "title": "'Shimmering-Free 4K at a Silky-Smooth 60fps': Anime Open World NTE Will Push PS5 Pro - Push Square",
         "description": "Leveraging PSSR2 and more",
         "source_link": "https://www.pushsquare.com/news/2026/04/shimmering-free-4k-at-a-silky-smooth-60fps-anime-open-world-nte-will-push-ps5-pro"
       },
       {
-        "rank": 7,
+        "rank": 10,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-buds-4-pro-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Samsung\u2019s next pair of Galaxy Buds surface with apparent open-ear design - 9to5Google",
         "description": "Samsung has a new pair of Galaxy Buds in the works, \u201cGalaxy Buds Able,\u201d which appear to have an open-ear...",
         "source_link": "http://9to5google.com/2026/04/20/samsung-galaxy-buds-able-open-ear-leak/"
-      },
-      {
-        "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/kotaku_vluNoBi.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Kotaku hires Rebekah Valentine as Senior Reporter as site expands under new ownership - GamesIndustry.biz",
-        "description": "Owner Keleops says that traffic has doubled in under a year; further hires planned to drive further growth",
-        "source_link": "https://www.gamesindustry.biz/kotaku-hires-rebekah-valentine-as-senior-reporter-as-site-expands-under-new-ownership"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK467_AI_Music.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Deezer says AI song uploads have nearly overtaken human music - The Verge",
-        "description": "Deezer says it receives almost 75,000 AI-generated song submissions to its music streaming platform each day, which accounts for about 44 percent of all daily uploads.",
-        "source_link": "https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads"
-      },
-      {
-        "rank": 10,
-        "image": "https://assets-prd.ignimgs.com/2026/04/17/lgc5oled2-1776467503629.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Take Your Pick: Both LG and Samsung Have Discounted Their Most Popular 4K OLED TVs To a Monthly Low - IGN",
-        "description": "These are the best gaming TVs for PlayStation 5 and Switch 2.",
-        "source_link": "https://www.ign.com/articles/best-lg-samsung-4k-oled-tv-deals-april-2026"
       }
     ],
     "trending_movies": [
@@ -90,24 +90,24 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
-        "title": "The Devil Wears Prada 2",
-        "description": "Miranda Priestly navigates her career amid the decline of traditional magazine publishing. She faces off against Emily Charlton, her one-time assistan...",
-        "source_link": "https://www.themoviedb.org/movie/1314481"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
         "title": "Lee Cronin's The Mummy",
         "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
         "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "Miranda Priestly navigates her career amid the decline of traditional magazine publishing. She faces off against Emily Charlton, her one-time assistan...",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
       },
       {
         "rank": 6,
