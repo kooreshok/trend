@@ -1,76 +1,76 @@
 {
-  "last_updated": "April 21, 2026, 20:46 UTC",
+  "last_updated": "April 21, 2026, 21:41 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Apple-Johny-Srouji.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Apple names Johny Srouji as chief hardware officer - The Verge",
+        "description": "Apple has appointed Johny Srouji as its new hardware chief, replacing soon-to-be CEO John Ternus.",
+        "source_link": "https://www.theverge.com/tech/915240/apple-johny-srouji-ternus-cook"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268457_HUBRIS_CVIRGINIA.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Silicon Valley has forgotten what normal people want - The Verge",
+        "description": "NFTs, the metaverse and AI are the most recent Silicon Valley enthusiasms. Does anyone remember how to build a consumer product?",
+        "source_link": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos"
+      },
+      {
+        "rank": 3,
+        "image": "https://assetsio.gnwcdn.com/forza-6_zI43FoM.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Forza Horizon 6 has reportedly pre-sold 500,000 copies on Steam a month before launch | News-in-brief - GamesIndustry.biz",
+        "description": "The resource for people who make and sell games.",
+        "source_link": "https://www.gamesindustry.biz/forza-horizon-6-has-reportedly-pre-sold-500000-copies-on-steam-a-month-before-launch-news-in-brief"
+      },
+      {
+        "rank": 4,
+        "image": "https://kotaku.com/app/uploads/2024/06/933365a2b44724f85e355579857d38cf-1200x675.jpg",
+        "title": "Starfield Was The Best-Selling Game In The U.S. During The Week It Finally Arrived On PS5 - Kotaku",
+        "description": "Admittedly, the competition wasn't stiff",
+        "source_link": "https://kotaku.com/starfield-best-selling-game-ps5-launch-2000689070"
+      },
+      {
+        "rank": 5,
+        "image": "https://s.yimg.com/ny/api/res/1.2/JZJstmSNqwY29gcFgp6v4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-1226573420_6617.jpg",
+        "title": "This 'invisible' TV might be the upgrade your living room needs \u2014 and it's currently on sale - AOL.com",
+        "description": "It's currently down to the lowest price in months, now might be the time to check out a Frame TV from Samsung.",
+        "source_link": "https://www.aol.com/shopping/tech/article/this-invisible-tv-might-be-the-upgrade-your-living-room-needs--and-its-currently-on-sale-162918250.html"
+      },
+      {
+        "rank": 6,
         "image": "https://images.pushsquare.com/d386e168080f2/large.jpg",
         "title": "'Shimmering-Free 4K at a Silky-Smooth 60fps': Anime Open World NTE Will Push PS5 Pro - Push Square",
         "description": "Leveraging PSSR2 and more",
         "source_link": "https://www.pushsquare.com/news/2026/04/shimmering-free-4k-at-a-silky-smooth-60fps-anime-open-world-nte-will-push-ps5-pro"
       },
       {
-        "rank": 2,
+        "rank": 7,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-buds-4-pro-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Samsung\u2019s next pair of Galaxy Buds surface with apparent open-ear design - 9to5Google",
+        "description": "Samsung has a new pair of Galaxy Buds in the works, \u201cGalaxy Buds Able,\u201d which appear to have an open-ear...",
+        "source_link": "http://9to5google.com/2026/04/20/samsung-galaxy-buds-able-open-ear-leak/"
+      },
+      {
+        "rank": 8,
         "image": "https://assetsio.gnwcdn.com/kotaku_vluNoBi.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Kotaku hires Rebekah Valentine as Senior Reporter as site expands under new ownership - GamesIndustry.biz",
         "description": "Owner Keleops says that traffic has doubled in under a year; further hires planned to drive further growth",
         "source_link": "https://www.gamesindustry.biz/kotaku-hires-rebekah-valentine-as-senior-reporter-as-site-expands-under-new-ownership"
       },
       {
-        "rank": 3,
+        "rank": 9,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK467_AI_Music.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Deezer says AI song uploads have nearly overtaken human music - The Verge",
+        "description": "Deezer says it receives almost 75,000 AI-generated song submissions to its music streaming platform each day, which accounts for about 44 percent of all daily uploads.",
+        "source_link": "https://www.theverge.com/entertainment/915027/deezer-ai-music-daily-uploads"
+      },
+      {
+        "rank": 10,
         "image": "https://assets-prd.ignimgs.com/2026/04/17/lgc5oled2-1776467503629.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Take Your Pick: Both LG and Samsung Have Discounted Their Most Popular 4K OLED TVs To a Monthly Low - IGN",
         "description": "These are the best gaming TVs for PlayStation 5 and Switch 2.",
         "source_link": "https://www.ign.com/articles/best-lg-samsung-4k-oled-tv-deals-april-2026"
-      },
-      {
-        "rank": 4,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/google-photos-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google Photos rolls out touch-up tools for making \u2018quick, subtle fixes\u2019 to your selfies - 9to5Google",
-        "description": "Google Photos is rolling out new touch-up tools to most users globally, though it's careful to stress these are for \"subtle\" changes.",
-        "source_link": "http://9to5google.com/2026/04/20/google-photos-rolls-out-touch-up-tools-for-making-quick-subtle-fixes-to-your-selfies/"
-      },
-      {
-        "rank": 5,
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/04/126037634.jpg?quality=75&strip=all&w=1200",
-        "title": "Smartphone pickpockets can easily block access lost device location tools \u2014 here\u2019s the hack to stop them - New York Post",
-        "description": "Keep this tip in your back pocket instead of your phone.",
-        "source_link": "https://nypost.com/2026/04/20/tech/the-iphone-hack-to-stop-pickpocketers-from-stealing-your-phone/"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2148900484-1152x648-1775856309.jpg",
-        "title": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent - Ars Technica",
-        "description": "AI tracks account for a small fraction of Deezer streams, and most are demonetized for fraud.",
-        "source_link": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/"
-      },
-      {
-        "rank": 7,
-        "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/g8/G8NAM4UMWQ0D1620254978629.png",
-        "title": "Heroes of the Storm Live Patch Notes - April 20, 2026 - Blizzard News",
-        "description": "New patch arrived with a new mount, map updates, major Arthas rework, and balance changes!",
-        "source_link": "https://news.blizzard.com/en-us/article/24261475/heroes-of-the-storm-live-patch-notes-april-20-2026"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iOS-26.5-b3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple releases iOS 26.5 beta 3 for iPhone - 9to5Mac",
-        "description": "Apple has released the second iOS 26.5 beta for developers.\u00a0The previous beta introduced a new splash screen that signaled the...",
-        "source_link": "https://9to5mac.com/2026/04/20/apple-releases-ios-26-5-beta-3-for-iphone/"
-      },
-      {
-        "rank": 9,
-        "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/04/17120903/mother_3_20th_1026.jpg",
-        "title": "20 years later, Nintendo's weird RPG Mother 3 remains the greatest game never sold - AV Club",
-        "description": "Mother 3, the sequel to Earthbound, came out 20 years ago today--but not in America, where it's never been released.",
-        "source_link": "https://www.avclub.com/mother-3-release-nintendo-game"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.purexbox.com/2f6822b0607d6/large.jpg",
-        "title": "Xbox Unveils New Controller And Headset For Forza Horizon 6 - Pure Xbox",
-        "description": "Pre-orders go live today!",
-        "source_link": "https://www.purexbox.com/news/2026/04/xbox-unveils-new-controller-and-headset-for-forza-horizon-6"
       }
     ],
     "trending_movies": [
@@ -111,10 +111,10 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
-        "title": "Balls Up",
-        "description": "Two marketing executives go \"balls out\" and pitch a bold full\u2011coverage condom sponsorship with the World Cup. After their drunken celebration in Brazi...",
-        "source_link": "https://www.themoviedb.org/movie/1084577"
+        "image": "https://image.tmdb.org/t/p/w200/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
+        "title": "Roommates",
+        "description": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression....",
+        "source_link": "https://www.themoviedb.org/movie/1511057"
       },
       {
         "rank": 7,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
-        "title": "Roommates",
-        "description": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression....",
-        "source_link": "https://www.themoviedb.org/movie/1511057"
+        "image": "https://image.tmdb.org/t/p/w200/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
+        "title": "Balls Up",
+        "description": "Two marketing executives go \"balls out\" and pitch a bold full\u2011coverage condom sponsorship with the World Cup. After their drunken celebration in Brazi...",
+        "source_link": "https://www.themoviedb.org/movie/1084577"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
-        "title": "The Drama",
-        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
-        "source_link": "https://www.themoviedb.org/movie/1325734"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
         "title": "Vengeance",
         "description": "The brutal murder of the wife of \u201cToro,\u201d a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of...",
         "source_link": "https://www.themoviedb.org/movie/1613798"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
+        "title": "The Drama",
+        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
+        "source_link": "https://www.themoviedb.org/movie/1325734"
       }
     ]
   }
