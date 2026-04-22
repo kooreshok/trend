@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 22, 2026, 21:46 UTC",
+  "last_updated": "April 22, 2026, 22:42 UTC",
   "categories": {
     "tech_news": [
       {
@@ -55,17 +55,17 @@
     "trending_movies": [
       {
         "rank": 1,
+        "image": "https://image.tmdb.org/t/p/w200/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+        "title": "Clayface",
+        "description": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and ...",
+        "source_link": "https://www.themoviedb.org/movie/1400940"
+      },
+      {
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
         "title": "Michael",
         "description": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journe...",
         "source_link": "https://www.themoviedb.org/movie/936075"
-      },
-      {
-        "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-        "title": "Clayface",
-        "description": "After his face is disfigured by a gangster, up-and-coming actor Matt Hagen undergoes a scientific transformation that turns his body entirely into cla...",
-        "source_link": "https://www.themoviedb.org/movie/1400940"
       },
       {
         "rank": 3,
@@ -83,17 +83,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/aROe6QU12FTDhF6Lw9YHZqeCZUq.jpg",
-        "title": "Protector",
-        "description": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and milita...",
-        "source_link": "https://www.themoviedb.org/movie/1383731"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
         "title": "Lee Cronin's The Mummy",
         "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
         "source_link": "https://www.themoviedb.org/movie/1304313"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/aROe6QU12FTDhF6Lw9YHZqeCZUq.jpg",
+        "title": "Protector",
+        "description": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and milita...",
+        "source_link": "https://www.themoviedb.org/movie/1383731"
       },
       {
         "rank": 7,
@@ -118,10 +118,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
-        "title": "The Drama",
-        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
-        "source_link": "https://www.themoviedb.org/movie/1325734"
+        "image": "https://image.tmdb.org/t/p/w200/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
+        "title": "Avatar Aang: The Last Airbender",
+        "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
+        "source_link": "https://www.themoviedb.org/movie/980431"
       }
     ]
   }
