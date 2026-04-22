@@ -1,76 +1,69 @@
 {
-  "last_updated": "April 22, 2026, 11:00 UTC",
+  "last_updated": "April 22, 2026, 13:18 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/dysonsupersonictravel-2.jpg?quality=90&strip=all&crop=0%2C9.756192857701%2C100%2C80.487614284598&w=1200",
-        "title": "Dyson\u2019s back with a travel-size Supersonic hairdryer - The Verge",
-        "description": "Ten years after the original Supersonic hairdryer, Dyson is back with a $299.99 travel-size version that also supports universal voltage.",
-        "source_link": "https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price"
+        "image": "https://cdn.videocardz.com/1/2026/04/RYZEN-9950X3D2-REVIEWS-HERO.jpg",
+        "title": "AMD Ryzen 9 9950X3D2 Review Roundup - VideoCardz.com",
+        "description": "AMD Ryzen 9000, Featured, Review Roundup AMD Ryzen 9 9950X3D2 tested AMD\u2019s Ryzen 9 9950X3D2 is a new top-end AM5 desktop processor built around a dual 3D V-Cache design. It features 16 Zen 5",
+        "source_link": "https://videocardz.com/228337/amd-ryzen-9-9950x3d2-review-roundup"
       },
       {
         "rank": 2,
-        "image": "https://images.nintendolife.com/b447c0c1534f4/large.jpg",
-        "title": "THQ Nordic Website Lists Multiple Unannounced Projects For Switch 2 - Nintendo Life",
-        "description": "Following a handful of announcements last month",
-        "source_link": "https://www.nintendolife.com/news/2026/04/thq-nordic-website-lists-multiple-unannounced-projects-for-switch-2"
+        "image": "https://assets.warhammer-community.com/40k_armageddonlore-apr21-1-feature-3odwj5m2jx.jpg",
+        "title": "Lore of Armageddon Part 3 \u2013 Ghazghkull\u2019s grand plan - Warhammer Community",
+        "description": "What is Ghazghkull Thraka up to, and who are his most trusted Bosses?",
+        "source_link": "https://www.warhammer-community.com/articles/0gmcnp9x/lore-of-armageddon-part-3-ghazghkulls-grand-plan"
       },
       {
         "rank": 3,
+        "image": "https://s.yimg.com/ny/api/res/1.2/JZJstmSNqwY29gcFgp6v4Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-1226573420_6617.jpg",
+        "title": "This 'invisible' TV might be the upgrade your living room needs \u2014 and it's currently on sale - AOL.com",
+        "description": "It's currently down to the lowest price in months, now might be the time to check out a Frame TV from Samsung.",
+        "source_link": "https://www.aol.com/shopping/tech/article/this-invisible-tv-might-be-the-upgrade-your-living-room-needs--and-its-currently-on-sale-162918250.html"
+      },
+      {
+        "rank": 4,
+        "image": "https://images.purexbox.com/96c06d1e5f6ef/large.jpg",
+        "title": "Xbox Exec Chimes In As Rumours Suggest Project Helix Chip Will Be Used For 'Other Machines' - Pure Xbox",
+        "description": "Jason Ronald makes it clear we're getting a first-party console",
+        "source_link": "https://www.purexbox.com/news/2026/04/xbox-exec-chimes-in-as-rumours-suggest-project-helix-chip-will-be-used-for-other-machines"
+      },
+      {
+        "rank": 5,
+        "image": "https://media.wired.com/photos/69e295a92e2d64bf927d8ec2/191:100/w_1280,c_limit/wired%20final%20featured%20illustration.jpg",
+        "title": "They Built a Legendary Privacy Tool. Now They\u2019re Sworn Enemies - WIRED",
+        "description": "There\u2019s a lot of love all over the world for GrapheneOS, the gold standard of mobile security. There\u2019s very little love between the two guys at the center of its history.",
+        "source_link": "https://www.wired.com/story/they-built-privacy-tool-grapheneos-now-sworn-enemies/"
+      },
+      {
+        "rank": 6,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/04/iPhone-camera.jpg",
+        "title": "Apple Is Working On A High-Resolution Camera Upgrade That Its Chinese Competitors Have Been Investing Millions To Implement - Wccftech",
+        "description": "A rumor claims that Apple is working to bring a high-resolution camera upgrade to its iPhones, but Chinese manufacturers are investing millions to bring it",
+        "source_link": "https://wccftech.com/apple-working-on-high-resolution-camera-that-chinese-competitors-are-spending-millions-on/"
+      },
+      {
+        "rank": 7,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25357653/STK264_MICROSOFT_TEAMS_V2_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Microsoft Teams is trying to fix accidental hand-raising - The Verge",
+        "description": "\ufeffThe planned redesign will also allow users to customize their actions toolbar.",
+        "source_link": "https://www.theverge.com/tech/915586/microsoft-teams-accidental-hand-raising-fix"
+      },
+      {
+        "rank": 8,
+        "image": "https://images.pushsquare.com/40513cc404bc1/large.jpg",
+        "title": "April 2026 PS Plus Extra, Premium Games Available to Download Now - Push Square",
+        "description": "Eight more PS5, PS4, and Classic games to play",
+        "source_link": "https://www.pushsquare.com/news/2026/04/april-2026-ps-plus-extra-premium-games-available-to-download-now"
+      },
+      {
+        "rank": 9,
         "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-04/20/21/thumb/wwUDNg8We.jpg?crop=2490:1660;5,0&resize=1250:830",
         "title": "30 More Jaw-Droppingly Dumb Pictures Taken At JUST The Right Moment That Get Funnier And Funnier No Matter How Many Times I\u2019ve Seen Them - BuzzFeed",
         "description": "They're dumb, but they're so good.",
         "source_link": "https://www.buzzfeed.com/daves4/funniest-weirdest-screenshots-april-20-2026"
-      },
-      {
-        "rank": 4,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idhEyF2tAp6E/v0/1200x800.jpg",
-        "title": "Apple to Focus Hardware Team on Five Areas Under Johny Srouji - Bloomberg",
-        "description": "Apple Inc.\u2019s newly combined hardware engineering and hardware technologies division will be organized across five key areas, its new leader told staffers on Monday.",
-        "source_link": "https://www.bloomberg.com/news/articles/2026-04-21/apple-to-focus-hardware-team-on-five-areas-under-johny-srouji"
-      },
-      {
-        "rank": 5,
-        "image": "https://i.insider.com/69e6889e367066d7c296ec1a?width=1200&format=jpeg",
-        "title": "The drama between a software engineering veteran and Google is heating up \u2014 and playing out in public - Business Insider",
-        "description": "Computer programmer and ex-Googler Steve Yegge said he had heard AI use within the the company varies widely, sparking a firestorm of public pushback.",
-        "source_link": "https://www.businessinsider.com/steve-yegge-google-ai-adoption-curve-demis-hassabis-2026-4"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.tastingtable.com/img/gallery/people-are-ditching-kitchenaid-stand-mixers-for-a-brand-everyones-recommending/l-intro-1776368391.jpg",
-        "title": "People Are Ditching KitchenAid Stand Mixers For A Brand 'Everyone's Recommending' - Tasting Table",
-        "description": "KitchenAid stand mixers might be iconic, but that doesn't mean they're still the best when innovations and modern technologies are being added to appliances.",
-        "source_link": "https://www.tastingtable.com/2150173/kitchenaid-mixer-bad-reviews-brand-everyone-recommends-kenwood/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-02.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "\u2018WhatsApp Plus\u2019 subscription launching soon with new features - 9to5Mac",
-        "description": "WhatsApp is planning a new \u2018WhatsApp Plus\u2019 paid subscription, and it just went live in the app\u2019s Android beta ahead of an iOS launch.",
-        "source_link": "https://9to5mac.com/2026/04/20/whatsapp-plus-subscription-launching-soon-with-new-features/"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/Gemini-Chrome-Asia-Pacific.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Gemini in Chrome rolling out to Asia Pacific - 9to5Google",
-        "description": "Gemini in Chrome is now coming to seven more countries in Asia Pacific to bring the total number of markets to 11.",
-        "source_link": "http://9to5google.com/2026/04/20/gemini-chrome-more-countries/"
-      },
-      {
-        "rank": 9,
-        "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2025/11/keanu-reeves-in-cyberpunk-2077.jpg?w=1600&h=900&fit=crop",
-        "title": "Cyberpunk 2077 Prequel Night City 2045 Officially Revealed, Coming June 2026 - Comic Book Resources",
-        "description": "This June,\u00a0Night City 2045\u00a0will reveal the official hidden history of\u00a0Cyberpunk 2077.",
-        "source_link": "https://www.cbr.com/cyberpunk-2077-official-new-release-june-2026/"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1752/17528202/4684947-psn.jpg",
-        "title": "Sony Has Global Plans For PlayStation Age Verification - Report - GameSpot",
-        "description": "It's not clear when exactly the feature will roll out, but Sony's aiming to implement it \"later this year.\"",
-        "source_link": "https://www.gamespot.com/articles/sony-has-global-plans-for-playstation-age-verification-report/1100-6539507/"
       }
     ],
     "trending_movies": [
@@ -111,38 +104,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
-        "title": "Avatar Aang: The Last Airbender",
-        "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
-        "source_link": "https://www.themoviedb.org/movie/980431"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
         "title": "The Devil Wears Prada 2",
         "description": "Miranda Priestly navigates her career amid the decline of traditional magazine publishing. She faces off against Emily Charlton, her one-time assistan...",
         "source_link": "https://www.themoviedb.org/movie/1314481"
       },
       {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
+        "title": "Avatar Aang: The Last Airbender",
+        "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
+        "source_link": "https://www.themoviedb.org/movie/980431"
+      },
+      {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
+        "title": "Brothers Under Fire",
+        "description": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erup...",
+        "source_link": "https://www.themoviedb.org/movie/1414413"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg",
         "title": "Roommates",
         "description": "When shy college freshman Devon asks cool-girl Celeste to be her roommate, a blossoming friendship quickly spirals into a war of passive aggression....",
         "source_link": "https://www.themoviedb.org/movie/1511057"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
-        "title": "Vengeance",
-        "description": "The brutal murder of the wife of \u201cToro,\u201d a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of...",
-        "source_link": "https://www.themoviedb.org/movie/1613798"
-      },
-      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
-        "title": "Balls Up",
-        "description": "Two marketing executives go \"balls out\" and pitch a bold full\u2011coverage condom sponsorship with the World Cup. After their drunken celebration in Brazi...",
-        "source_link": "https://www.themoviedb.org/movie/1084577"
+        "image": "https://image.tmdb.org/t/p/w200/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg",
+        "title": "Ready or Not: Here I Come",
+        "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
+        "source_link": "https://www.themoviedb.org/movie/1266127"
       }
     ]
   }
