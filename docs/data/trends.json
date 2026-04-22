@@ -1,55 +1,76 @@
 {
-  "last_updated": "April 22, 2026, 22:42 UTC",
+  "last_updated": "April 22, 2026, 23:41 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2235759925-1152x648.jpg",
+        "title": "Mozilla: Anthropic\u2019s Mythos found 271 zero-day vulnerabilities in Firefox 150 - Ars Technica",
+        "description": "CTO says new AI model is \"every bit as capable\" as world's best security researchers.",
+        "source_link": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/"
+      },
+      {
+        "rank": 2,
+        "image": "https://media.eventhubs.com/images/2026/04/21-street-fighter-season-4-leakt.webp",
+        "title": "Rumor: Street Fighter 6 Season 4 DLC character roster potentially leaks online including big Final Fantasy crossover - EventHubs",
+        "description": "Street Fighter 6 is getting ready to close out its third season of DLC content with Ingrid on the way in the near future, but we may now already know who is coming after her.A potential leak of Street ...",
+        "source_link": "https://www.eventhubs.com/news/2026/apr/21/street-fighter-season-4-leak/"
+      },
+      {
+        "rank": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/04/moto-razr-70-listed-ahead-of-launch/-952x498w6/gsmarena_000.jpg",
+        "title": "Motorola Razr 70 listed ahead of announcement - GSMArena.com news - GSMArena.com",
+        "description": "It brings an updated 50MP ultrawide camera alongside a larger 4,800mAh battery compared to its predecessor. Motorola\u2019s next-gen Razr 70 series is expected...",
+        "source_link": "https://www.gsmarena.com/motorola_razr_70_listed_ahead_of_announcement-news-72474.php"
+      },
+      {
+        "rank": 4,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/04/imgi_6_hero-image.webp?w=1000",
+        "title": "Apple\u2019s Cal AI crackdown signals it\u2019s still policing the App Store - TechCrunch",
+        "description": "Apple tells TechCrunch Cal AI was removed not for web payments alone, but for deceptive billing, manipulative tactics, and App Store rule violations.",
+        "source_link": "https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/"
+      },
+      {
+        "rank": 5,
         "image": "https://futurism.com/wp-content/uploads/2026/04/prego-pivots-pasta-sauce-microphone.jpg?quality=85&w=1200",
         "title": "Prego Pivots From Budget-Tier Pasta Sauce to Small Microphones That Listen to Your Family's Intimate Conversations - Futurism",
         "description": "Prego, the pasta sauce brand, announced a new lid-shaped device designed to record and preserve family dinner conversations.",
         "source_link": "http://futurism.com/future-society/prego-pivots-pasta-sauce-microphone"
       },
       {
-        "rank": 2,
-        "image": "https://media.wired.com/photos/69e6df06b405035df7b7ce2e/191:100/w_1280,c_limit/security_GettyImages-2214075816.jpg",
-        "title": "Mozilla Used Anthropic\u2019s Mythos to Find and Fix 151 Bugs in Firefox - WIRED",
-        "description": "The Firefox team doesn\u2019t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
-        "source_link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/"
-      },
-      {
-        "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK160_X_TWITTER_2__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "X makes it 1,900 percent more expensive to post links - The Verge",
-        "description": "Posting links to X through custom social media software just got a lot more expensive. As a result, the tech news aggregator Techmeme is removing links from its X posts.",
-        "source_link": "https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme"
-      },
-      {
-        "rank": 4,
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/FW13-Pro-Touchscreen-1-RT.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Framework announces Laptop 13 Pro, \u2018the MacBook Pro for Linux users\u2019 - The Verge",
         "description": "Framework\u2019s new Laptop 13 Pro, on preorder today, takes on the M5 MacBook Pro with a CNC aluminum chassis, battery life, and its modular upgradable design.",
         "source_link": "https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DSC00397.jpg?quality=90&strip=all&crop=0%2C10.798320425817%2C100%2C78.403359148365&w=1200",
+        "title": "Framework is building a better couch keyboard because everyone hates the Logitech one - The Verge",
+        "description": "Framework is building a wireless keyboard and touchpad combo to beat the Logitech K400.",
+        "source_link": "https://www.theverge.com/tech/915497/framework-is-building-a-better-couch-keyboard-because-everyone-hates-the-logitech-one"
+      },
+      {
+        "rank": 8,
         "image": "https://nintendoeverything.com/wp-content/uploads/Alien-Rogue-Incursion.jpg",
         "title": "Alien: Rogue Incursion gets surprise release on Nintendo Switch 2 - Nintendo Everything",
         "description": "Alien: Rogue Incursion \u2013 Part One: Evolved Edition has not only been announced for Nintendo Switch 2, but you can get it right now. Survivos is putting the action-horror Alien shooter on Nintendo\u2019s latest console today. Mouse controls are supported, so when a\u2026",
         "source_link": "https://nintendoeverything.com/alien-rogue-incursion-gets-surprise-release-on-nintendo-switch-2/"
       },
       {
-        "rank": 6,
-        "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/04/21/c846719a/dialbo4loh_mephisto.jpg.webp",
-        "title": "Diablo IV: Lord of Hatred Review - Embrace The Hate - Game Informer",
-        "description": "Lord of Hatred is an exceptional cherry on top of Diablo IV, further cementing the entire package as among the best action RPGs of the generation.",
-        "source_link": "https://gameinformer.com/review/diablo-iv-lord-of-hatred/embrace-the-hate"
+        "rank": 9,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7674191/akrales_161216_1332_A_0143_v1.0.jpeg?quality=90&strip=all&crop=0%2C10.717639621171%2C100%2C78.564720757659&w=1200",
+        "title": "The AirPods are Tim Cook\u2019s most underrated achievement - The Verge",
+        "description": "\ufeffCook and incoming CEO John Ternus made a computer company the most important audio company of the 21st century.",
+        "source_link": "https://www.theverge.com/tech/916031/tim-cook-apple-airpods-legacy"
       },
       {
-        "rank": 7,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/04/Appstore-Screenshot-1.png?resize=1200,675",
-        "title": "Former Pinterest team redesigns email with Extra \u2014 and it\u2019s actually good - TechCrunch",
-        "description": "Extra, from a team of former Pinterest designers and engineers, reimagines email around your life instead of the traditional inbox.",
-        "source_link": "https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/"
+        "rank": 10,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/oppo-find-x9-ultra-pixel.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "I was happy with my Pixel camera until I tried the Oppo Find X9 Ultra [Gallery] - 9to5Google",
+        "description": "While there are a ton of different things I care about on my smartphone, the camera is a huge deciding...",
+        "source_link": "http://9to5google.com/2026/04/21/oppo-find-x9-ultra-camera-samples-gallery/"
       }
     ],
     "trending_movies": [
@@ -76,31 +97,31 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
-        "title": "The Devil Wears Prada 2",
-        "description": "Miranda Priestly navigates her career amid the decline of traditional magazine publishing. She faces off against Emily Charlton, her one-time assistan...",
-        "source_link": "https://www.themoviedb.org/movie/1314481"
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
-        "title": "Lee Cronin's The Mummy",
-        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
-        "source_link": "https://www.themoviedb.org/movie/1304313"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/aROe6QU12FTDhF6Lw9YHZqeCZUq.jpg",
         "title": "Protector",
         "description": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and milita...",
         "source_link": "https://www.themoviedb.org/movie/1383731"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "Miranda Priestly navigates her career amid the decline of traditional magazine publishing. She faces off against Emily Charlton, her one-time assistan...",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
+      },
+      {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
+        "image": "https://image.tmdb.org/t/p/w200/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
+        "title": "Lee Cronin's The Mummy",
+        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
+        "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
         "rank": 8,
@@ -111,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
-        "title": "Vengeance",
-        "description": "The brutal murder of the wife of \u201cToro,\u201d a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of...",
-        "source_link": "https://www.themoviedb.org/movie/1613798"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
         "title": "Avatar Aang: The Last Airbender",
         "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
         "source_link": "https://www.themoviedb.org/movie/980431"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
+        "title": "Vengeance",
+        "description": "The brutal murder of the wife of \u201cToro,\u201d a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of...",
+        "source_link": "https://www.themoviedb.org/movie/1613798"
       }
     ]
   }
