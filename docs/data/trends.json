@@ -1,69 +1,55 @@
 {
-  "last_updated": "April 22, 2026, 20:50 UTC",
+  "last_updated": "April 22, 2026, 21:46 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/ios-27-logo-security.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple says iOS 27 and macOS 27 will have stricter security requirements for networks - 9to5Mac",
-        "description": "Apple has a new support document that warns of a network security change coming in iOS 27, macOS 27, and more.",
-        "source_link": "https://9to5mac.com/2026/04/21/apple-says-ios-27-and-macos-27-will-have-stricter-security-requirements-for-networks/"
+        "image": "https://futurism.com/wp-content/uploads/2026/04/prego-pivots-pasta-sauce-microphone.jpg?quality=85&w=1200",
+        "title": "Prego Pivots From Budget-Tier Pasta Sauce to Small Microphones That Listen to Your Family's Intimate Conversations - Futurism",
+        "description": "Prego, the pasta sauce brand, announced a new lid-shaped device designed to record and preserve family dinner conversations.",
+        "source_link": "http://futurism.com/future-society/prego-pivots-pasta-sauce-microphone"
       },
       {
         "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290359/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-        "title": "Xbox Game Pass Ultimate gets a price cut but loses new Call of Duty games - The Verge",
-        "description": "Microsoft is adjusting Game Pass pricing. Game Pass Ultimate and PC Game Pass prices are dropping, but no more new Call of Duty games at launch.",
-        "source_link": "https://www.theverge.com/news/915928/microsoft-xbox-game-pass-ultimate-price-drop"
+        "image": "https://media.wired.com/photos/69e6df06b405035df7b7ce2e/191:100/w_1280,c_limit/security_GettyImages-2214075816.jpg",
+        "title": "Mozilla Used Anthropic\u2019s Mythos to Find and Fix 151 Bugs in Firefox - WIRED",
+        "description": "The Firefox team doesn\u2019t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
+        "source_link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/"
       },
       {
         "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK160_X_TWITTER_2__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "X makes it 1,900 percent more expensive to post links - The Verge",
+        "description": "Posting links to X through custom social media software just got a lot more expensive. As a result, the tech news aggregator Techmeme is removing links from its X posts.",
+        "source_link": "https://www.theverge.com/tech/916178/x-link-post-api-expensive-techmeme"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/FW13-Pro-Touchscreen-1-RT.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Framework announces Laptop 13 Pro, \u2018the MacBook Pro for Linux users\u2019 - The Verge",
+        "description": "Framework\u2019s new Laptop 13 Pro, on preorder today, takes on the M5 MacBook Pro with a CNC aluminum chassis, battery life, and its modular upgradable design.",
+        "source_link": "https://www.theverge.com/gadgets/915508/framework-announces-laptop-13-pro-the-macbook-pro-for-linux-users"
+      },
+      {
+        "rank": 5,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Alien-Rogue-Incursion.jpg",
+        "title": "Alien: Rogue Incursion gets surprise release on Nintendo Switch 2 - Nintendo Everything",
+        "description": "Alien: Rogue Incursion \u2013 Part One: Evolved Edition has not only been announced for Nintendo Switch 2, but you can get it right now. Survivos is putting the action-horror Alien shooter on Nintendo\u2019s latest console today. Mouse controls are supported, so when a\u2026",
+        "source_link": "https://nintendoeverything.com/alien-rogue-incursion-gets-surprise-release-on-nintendo-switch-2/"
+      },
+      {
+        "rank": 6,
+        "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/04/21/c846719a/dialbo4loh_mephisto.jpg.webp",
+        "title": "Diablo IV: Lord of Hatred Review - Embrace The Hate - Game Informer",
+        "description": "Lord of Hatred is an exceptional cherry on top of Diablo IV, further cementing the entire package as among the best action RPGs of the generation.",
+        "source_link": "https://gameinformer.com/review/diablo-iv-lord-of-hatred/embrace-the-hate"
+      },
+      {
+        "rank": 7,
         "image": "https://techcrunch.com/wp-content/uploads/2026/04/Appstore-Screenshot-1.png?resize=1200,675",
         "title": "Former Pinterest team redesigns email with Extra \u2014 and it\u2019s actually good - TechCrunch",
         "description": "Extra, from a team of former Pinterest designers and engineers, reimagines email around your life instead of the traditional inbox.",
         "source_link": "https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/"
-      },
-      {
-        "rank": 4,
-        "image": "https://assets-prd.ignimgs.com/2026/04/20/diablo4-lordofhatred-review-blogroll-1776726548394.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Diablo 4: Lord of Hatred Review - IGN",
-        "description": "An extremely satisfying conclusion to Diablo's latest demonic saga.",
-        "source_link": "https://www.ign.com/articles/diablo-4-lord-of-hatred-review"
-      },
-      {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Verge-Homepage-Announcement-Post.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "The next evolution of The Verge\u2019s homepage is here - The Verge",
-        "description": "We\u2019re continuously improving how The Verge works for you.",
-        "source_link": "https://www.theverge.com/bulletin/914842/the-next-evolution-of-the-verges-homepage-is-here"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.ctfassets.net/s5n2t79q9icq/7p600CIu7ylgHzsbuETgEJ/d9975a287ba8bc29d991c440e7bfe900/FIN_Emet_Selch_960x540.jpg",
-        "title": "A Realm Reborn in Magic: The Gathering\u00ae\u2014FINAL FANTASY\u2122 - Magic: The Gathering",
-        "description": "Cameron Williams discusses how Magic: The Gathering\u2014FINAL FANTASY's designers brought the critically acclaimed MMORPG to Magic.",
-        "source_link": "https://magic.wizards.com/en/news/feature/a-realm-reborn-in-final-fantasy"
-      },
-      {
-        "rank": 7,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/b428c14c41ee524cc92c30594ba4c48c8eceda39-1920x1080.png?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center",
-        "title": "/dev: Apex Tier Ranked Reset - League of Legends",
-        "description": "Why we\u2019re doing a Ranked reset for Master+ in NA, EUW, EUNE, BR, LAN, and TR in 26.9.",
-        "source_link": "https://www.leagueoflegends.com/en-us/news/dev/dev-apex-tier-ranked-reset/"
-      },
-      {
-        "rank": 8,
-        "image": "https://assets.warhammer-community.com/40k_orkdetachments-apr21-1-feature-jok3ciamcd.jpg",
-        "title": "Da Speedwaaagh! begins with two new Ork Detachments - Warhammer Community",
-        "description": "Join Wazdakka\u2019s lads for a high-speed krumpin\u2019 with new Warhammer 40,000 rules.",
-        "source_link": "https://www.warhammer-community.com/articles/zd2usx9o/da-speedwaaagh-begins-with-two-new-ork-detachments"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/john-ternus-product-launch.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple has 10+ new products rumored to launch first with John Ternus as CEO - 9to5Mac",
-        "description": "Here are the 10+ new Apple products rumored to be the first launched under CEO John Ternus starting this September.",
-        "source_link": "https://9to5mac.com/2026/04/21/apple-has-10-new-products-rumored-to-launch-first-with-john-ternus-as-ceo/"
       }
     ],
     "trending_movies": [
@@ -76,7 +62,7 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/y8chUhe1H104AxPHr5IuD7Cfppu.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
         "title": "Clayface",
         "description": "After his face is disfigured by a gangster, up-and-coming actor Matt Hagen undergoes a scientific transformation that turns his body entirely into cla...",
         "source_link": "https://www.themoviedb.org/movie/1400940"
