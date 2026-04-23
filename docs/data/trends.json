@@ -1,76 +1,69 @@
 {
-  "last_updated": "April 23, 2026, 20:47 UTC",
+  "last_updated": "April 23, 2026, 21:41 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/5b007edb13509b358bb4b391597b165ae15b1715-2867x1609.jpg?accountingTag=RB?w=1200&h=630&fm=webp&fit=crop&crop=center",
-        "title": "Lille\u2019s Top Decks - Riftbound | League of Legends Trading Card Game",
-        "description": "RQ Lille\u2019s 1800 players display the latest and greatest decks in Riftbound.",
-        "source_link": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/lilles-top-decks/"
+        "image": "https://images.digitalfoundry.net/d18668fedc3c4/large.jpg",
+        "title": "How To Run Pragmata At 1440p on PlayStation 5 - But Should You? - Digital Foundry",
+        "description": "A big improvement over stock 1080p - but frame-rates are impacted.",
+        "source_link": "https://www.digitalfoundry.net/features/how-to-run-pragmata-at-1440p-on-playstation-5-but-should-you"
       },
       {
         "rank": 2,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-17-pro-silver.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Leaker shares iPhone 18 Pro\u2019s new camera feature, plus future upgrades - 9to5Mac",
-        "description": "Four new camera upgrades are reportedly in development at Apple, at least one of which is coming with iPhone 18 Pro and Pro Max.",
-        "source_link": "https://9to5mac.com/2026/04/22/leaker-shares-iphone-18-pros-new-camera-feature-plus-future-upgrades/"
+        "image": "https://techcrunch.com/wp-content/uploads/2026/04/iphone-pop-up-notifications.jpg?resize=1200,900",
+        "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones - TechCrunch",
+        "description": "The iPhone and iPad bug allowed law enforcement using forensic tools to read messages that had long been deleted by the Signal app.",
+        "source_link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/"
       },
       {
         "rank": 3,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024",
+        "title": "Google turns Chrome into an AI co-worker for the workplace - TechCrunch",
+        "description": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+        "source_link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
+        "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
+        "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!",
+        "source_link": "https://www.marvelrivals.com/gameupdate/20260422/41548_1297228.html"
+      },
+      {
+        "rank": 5,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB354_GOOGLE_MEET_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Google Meet will take AI notes for in-person meetings too - The Verge",
+        "description": "Google\u2019s AI notetaker that uses Gemini to generate meeting transcripts and summaries now supports in-person meetings and works on Zoom and Teams.",
+        "source_link": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings"
+      },
+      {
+        "rank": 6,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Sayonara-Wild-Hearts-Switch-2.jpg",
+        "title": "Sayonara Wild Hearts, Lorelei and the Laser Eyes Nintendo Switch 2 Editions have just released - Nintendo Everything",
+        "description": "Two more Nintendo Switch 2 Editions have just dropped with Annapurna releasing new versions of\u00a0Sayonara Wild Hearts and Lorelei and the Laser Eyes. Right now we\u2019re only seeing it in Japan, but it should be rolling out in other regions over the next day. Sayon\u2026",
+        "source_link": "https://nintendoeverything.com/sayonara-wild-hearts-lorelei-and-the-laser-eyes-nintendo-switch-2-editions-have-just-released/"
+      },
+      {
+        "rank": 7,
         "image": "https://images.macrumors.com/t/wU5bj9slMLRlqbTClC2IbmpayIY=/1702x/article-new/2026/04/Sad-iPhone-18-Feature.jpg",
         "title": "Leaker: Apple to Downgrade iPhone 18 in Two Ways - MacRumors",
         "description": "Following the emergence of a rumor that Apple is planning to downgrade the iPhone 18 to cut costs, further detail has emerged suggesting that display...",
         "source_link": "https://www.macrumors.com/2026/04/22/leaker-apple-downgrade-iphone-18-two-ways/"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://www.quantamagazine.org/wp-content/uploads/2026/04/QR-Knots-cr-Dror-Bar-Natan_Roland-van-der-Veen_Quanta-Magazine-Social.jpg",
         "title": "A Powerful New \u2018QR Code\u2019 Untangles Math\u2019s Knottiest Knots - Quanta Magazine",
         "description": "With a newly discovered mathematical tool, researchers are hoping to gain unprecedented insight into the structure of complex knots.",
         "source_link": "https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://imageio.forbes.com/specials-images/imageserve/6985f2f184b02521221d4541/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "More Bungie Devs Are Working On \u2018Marathon\u2019 Than \u2018Destiny 2\u2019 Now - Forbes",
         "description": "Destiny 2 used to be the priority at Bungie, last we heard, but now that's changed in the wake of Marathon's launch.",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/04/22/more-bungie-devs-are-working-on-marathon-than-destiny-2-now/"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/04/Expanse-Osiris-Beta_04-22-26.jpg",
-        "title": "The Expanse: Osiris Reborn closed beta now available - Gematsu",
-        "description": "The closed beta test for third-person action RPG The Expanse: Osiris Reborn is now available for PlayStation 5, Xbox Series, and PC via Steam, developer Owlcat Games announced. A full launch will f\u2026",
-        "source_link": "https://www.gematsu.com/2026/04/the-expanse-osiris-reborn-closed-beta-now-available"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.bgr.com/img/gallery/8-cool-new-audio-gadgets-to-upgrade-your-music-setup/l-intro-1776385736.jpg",
-        "title": "8 Cool New Audio Gadgets To Upgrade Your Music Setup - bgr.com",
-        "description": "From sleek DACs to clever wireless add-ons, these audio gadgets bring sharper detail and richer sound to your setup without major replacements.",
-        "source_link": "https://www.bgr.com/2150344/cool-new-audio-gadgets-upgrade-music-setup/"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.pushsquare.com/f037582eb663b/large.jpg",
-        "title": "Mar 2026 USA Sales: Pok\u00e9mon-Powered Switch 2 Finally Beats 5-Year-Old PS5 - Push Square",
-        "description": "A wild Pokopia appears",
-        "source_link": "https://www.pushsquare.com/news/2026/04/mar-2026-usa-sales-pokemon-powered-switch-2-finally-beats-5-year-old-ps5"
-      },
-      {
-        "rank": 9,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Yoshi-and-the-Mysterious-Book-gameplay-1.jpg",
-        "title": "Yoshi and the Mysterious Book gets first gameplay on Nintendo Switch 2 - Nintendo Everything",
-        "description": "Check out the first actual gameplay of Yoshi and the Mysterious Book on Nintendo Switch 2.",
-        "source_link": "https://nintendoeverything.com/yoshi-and-the-mysterious-book-gets-first-gameplay-on-nintendo-switch-2/"
-      },
-      {
-        "rank": 10,
-        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/titanium-court-puzzle-close-up.jpg?w=1600&h=900&fit=crop",
-        "title": "2026 has a worthy Blue Prince contender that also plays like Candy Crush - Polygon.com",
-        "description": "Titanium Court fuses multiple genres together to create an absurd and inventive strategy game that delights in messing with you.",
-        "source_link": "https://www.polygon.com/titanium-court-review/"
       }
     ],
     "trending_movies": [
@@ -111,17 +104,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
-        "title": "Lee Cronin's The Mummy",
-        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
-        "source_link": "https://www.themoviedb.org/movie/1304313"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/vVdxddwjZAL5MxwRU1yHBkTMWOo.jpg",
         "title": "Protector",
         "description": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and milita...",
         "source_link": "https://www.themoviedb.org/movie/1383731"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
+        "title": "Lee Cronin's The Mummy",
+        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
+        "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
         "rank": 8,
