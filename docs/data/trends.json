@@ -1,69 +1,76 @@
 {
-  "last_updated": "April 24, 2026, 11:03 UTC",
+  "last_updated": "April 24, 2026, 13:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.videogameschronicle.com/files/2025/09/resident-evil-requiem-pic7.jpg",
+        "title": "\u2018Their favourite games were already built with AI\u2019: Google exec says almost every big studio uses AI, but not all disclose it - Video Games Chronicle",
+        "description": "Google Cloud's games boss cites Capcom as one major studio that uses AI tools",
+        "source_link": "https://www.videogameschronicle.com/news/their-favourite-games-were-already-built-with-ai-google-exec-says-almost-every-studio-uses-ai-but-not-all-disclose-it/"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.macrumors.com/t/GoV8fazu7flbRxHt0104yWsRAio=/4096x/article-new/2026/04/iphone-17-pro-max-foldable-comparison.jpg",
+        "title": "Here's How the iPhone Ultra Compares to Other Apple Devices - MacRumors",
+        "description": "With dummy models of Apple's rumored foldable iPhone now circulating, YouTube channel Max Tech's Vadim Yuryev has shared images and video of...",
+        "source_link": "https://www.macrumors.com/2026/04/23/iphone-ultra-dummy-apple-device-comparison/"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/X3MU32BN2FT3H6LVAHWK37VYHQ.JPG&w=1440",
+        "title": "Meet Carter Faith, the breakout country star who\u2019s not afraid to speak up - The Washington Post",
+        "description": "With witty and heart-breaking songs, Carter Faith is already playing sold-out rooms \u2014 and turning down a spot on the Kid Rock tour \u2014 even without radio airplay",
+        "source_link": "https://www.washingtonpost.com/style/2026/04/23/carter-faith-new-country-star/"
+      },
+      {
+        "rank": 4,
         "image": "https://assets-prd.ignimgs.com/2026/04/23/ss-da5b8d5347b66aa994119fc7052ca43896971da9-1920x1080-1776933671093.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Crimson Desert Update 1.04.00 Out Now \u2014 Check Out the Patch Notes - IGN",
         "description": "Crimson Desert developer Pearl Abyss has released update 1.04.00, which makes significant improvements to the game. Chief among them is the addition of difficulty settings, new storage improvements, new pets, keyboard/mouse and controller preset options, new \u2026",
         "source_link": "https://www.ign.com/articles/crimson-desert-gets-its-biggest-patch-yet-adds-difficulty-settings-much-needed-storage-improvements-and-even-birds-as-pets"
       },
       {
-        "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/honor-600-pro-orange.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "title": "Honor\u2019s new phones look like iPhones for Android - The Verge",
-        "description": "Want an iPhone 17 Pro* for less?",
-        "source_link": "https://www.theverge.com/gadgets/917301/honors-new-phones-look-like-iphones-for-android"
+        "rank": 5,
+        "image": "https://insider-gaming.com/wp-content/uploads/2026/04/Black-Flag-Price.jpg",
+        "title": "Black Flag Resynced Price Details Revealed - Insider Gaming",
+        "description": "Assassin's Creed Black Flag Resynced Price details are out for the launch and collector's editions. Here are more details.",
+        "source_link": "https://insider-gaming.com/black-flag-resynced-price-details-revealed/"
       },
       {
-        "rank": 3,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Android-17-stock-image.jpg",
-        "title": "Android 17 QPR1 Beta 1 is already here with a sneak peek at September's Feature Drop - Android Authority",
-        "description": "We've only had Android 17 Beta 4 for less than a week now, and Google's already giving us an early look at Android 17 QPR1 Beta 1.",
-        "source_link": "https://www.androidauthority.com/android-17-qpr1-beta-1-3660122/"
+        "rank": 6,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/04/android-17-is-about-to-make-life-a-lot-easier-3-29-screenshot.png?w=1600&h=900&fit=crop",
+        "title": "Android 17 QPR1 Beta 1 hits Pixel devices - Android Police",
+        "description": "Moving on to the next round",
+        "source_link": "https://www.androidpolice.com/android-17-qpr1-beta-1-hits-pixel-devices/"
       },
       {
-        "rank": 4,
+        "rank": 7,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Tomodachi-Life-Living-the-Dream-1.0.1-update.jpg",
+        "title": "Tomodachi Life: Living the Dream 1.0.1 update out now, patch notes - Nintendo Everything",
+        "description": "Tomodachi Life: Living the Dream has received its first update with version 1.0.1, and Nintendo has put out the patch notes available here.",
+        "source_link": "https://nintendoeverything.com/tomodachi-life-living-the-dream-1-0-1-update-out-now-patch-notes/"
+      },
+      {
+        "rank": 8,
         "image": "https://images.pushsquare.com/8dce7c44d4bc2/large.jpg",
         "title": "Round Up: This PS5 Game Changes Based on Other Players, and Reviewers Are Liking It - Push Square",
         "description": "Tides of Tomorrow attracting plenty of praise",
         "source_link": "https://www.pushsquare.com/features/round-up-this-ps5-game-changes-based-on-other-players-and-reviewers-are-liking-it"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10318-9/MediaObjects/41586_2026_10318_Fig1_HTML.png",
         "title": "Switchable 2D\u20133D display through a metasurface lenticular lens - Nature",
         "description": "A full-colour 2D\u20133D switchable light-field display powered by a metasurface lenticular lens is proposed that is a promising solution for next-generation display technologies in both consumer electronics and commercial applications.",
         "source_link": "https://www.nature.com/articles/s41586-026-10318-9"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://media.eventhubs.com/images/2026/04/22-ingrid-movelist-details-sf6t.webp",
         "title": "Ingrid's movelist and mechanics details revealed for Street Fighter 6 with her unique Sun Crest abilities and tons of attacks - EventHubs",
         "description": "After waiting 10 months since her initial reveal, Ingrid just received her gameplay trailer for Street Fighter 6, but that's not all we got to dig into.Capcom also just released a bunch of additional details on Ingrid's ...",
         "source_link": "https://www.eventhubs.com/news/2026/apr/22/ingrid-movelist-details-sf6/"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.macrumors.com/t/UEhdoexSwDSCtiSEKM4Zdc70qJQ=/2500x/article-new/2025/11/mac-mini-cyber.jpg",
-        "title": "Base Mac Mini Sold Out From Apple Online Store - MacRumors",
-        "description": "Apple appears to be sold out of the base Mac mini, and the machine is listed as \u201cCurrently Unavailable\u201d from the Apple Online Store.    The base Mac...",
-        "source_link": "https://www.macrumors.com/2026/04/22/base-mac-mini-sold-out-from-apple-online-store/"
-      },
-      {
-        "rank": 8,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJfsMZsVw06I/v1/1200x800.jpg",
-        "title": "Tim Cook Regrets Maps Flub, Sees Apple Watch as His Proudest Work - Bloomberg.com",
-        "description": "Apple Inc. Chief Executive Officer Tim Cook, who plans to step down in a few months, cited the launch of Apple Maps on the iPhone in 2012 as his \u201cfirst really big mistake\u201d as the company\u2019s boss.",
-        "source_link": "https://www.bloomberg.com/news/articles/2026-04-22/tim-cook-regrets-maps-flub-sees-apple-watch-as-his-proudest-work"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.digitalfoundry.net/d18668fedc3c4/large.jpg",
-        "title": "How To Run Pragmata At 1440p on PlayStation 5 - But Should You? - Digital Foundry",
-        "description": "A big improvement over stock 1080p - but frame-rates are impacted.",
-        "source_link": "https://www.digitalfoundry.net/features/how-to-run-pragmata-at-1440p-on-playstation-5-but-should-you"
       }
     ],
     "trending_movies": [
@@ -83,17 +90,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
-        "title": "The Devil Wears Prada 2",
-        "description": "Miranda Priestly navigates her career amid the decline of traditional magazine publishing. She faces off against Emily Charlton, her one-time assistan...",
-        "source_link": "https://www.themoviedb.org/movie/1314481"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "As Miranda Priestly nears retirement, she reunites with Andy Sachs to face off against her former assistant turned rival: Emily Charlton....",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
       },
       {
         "rank": 5,
@@ -111,17 +118,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
-        "title": "Lee Cronin's The Mummy",
-        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
-        "source_link": "https://www.themoviedb.org/movie/1304313"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
         "title": "Greenland 2: Migration",
         "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a...",
         "source_link": "https://www.themoviedb.org/movie/840464"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
+        "title": "Lee Cronin's The Mummy",
+        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
+        "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
         "rank": 9,
@@ -132,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-        "title": "Clayface",
-        "description": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and ...",
-        "source_link": "https://www.themoviedb.org/movie/1400940"
+        "image": "https://image.tmdb.org/t/p/w200/eGxPyseSnEZBMJaopGfRUO9HSYx.jpg",
+        "title": "Whistle",
+        "description": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle ...",
+        "source_link": "https://www.themoviedb.org/movie/1193501"
       }
     ]
   }
