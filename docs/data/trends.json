@@ -1,69 +1,76 @@
 {
-  "last_updated": "April 24, 2026, 02:12 UTC",
+  "last_updated": "April 24, 2026, 05:31 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/04/Fatal-Fury-Update_04-22-26.jpg",
+        "title": "Fatal Fury: City of the Wolves \u2018Wolves\u2019 Destiny\u2019 update detailed - Gematsu",
+        "description": "SNK has released a new series of trailers introducing the major update for\u00a0Fatal Fury: City of the Wolves due out alongside downloadable content character Wolfgang Krauser\u2019s release on April \u2026",
+        "source_link": "https://www.gematsu.com/2026/04/fatal-fury-city-of-the-wolves-wolves-destiny-update-detailed"
+      },
+      {
+        "rank": 2,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69e98777c8ecbcdcabd37867/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "Here\u2019s What\u2019s In Crimson Desert\u2019s Biggest Patch Since Launch - Forbes",
+        "description": "Crimson Desert just unleashed a new patch that is so sprawling it's hard to get through all the notes. So I'm here to pull out the best ones.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/04/22/heres-whats-in-crimson-deserts-biggest-patch-since-launch/"
+      },
+      {
+        "rank": 3,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Tomodachi-Life-Living-the-Dream-1.0.1-update.jpg",
+        "title": "Tomodachi Life: Living the Dream 1.0.1 update out now, patch notes - Nintendo Everything",
+        "description": "Tomodachi Life: Living the Dream has received its first update with version 1.0.1, and Nintendo has put out the patch notes available here.",
+        "source_link": "https://nintendoeverything.com/tomodachi-life-living-the-dream-1-0-1-update-out-now-patch-notes/"
+      },
+      {
+        "rank": 4,
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10318-9/MediaObjects/41586_2026_10318_Fig1_HTML.png",
+        "title": "Switchable 2D\u20133D display through a metasurface lenticular lens - Nature",
+        "description": "A full-colour 2D\u20133D switchable light-field display powered by a metasurface lenticular lens is proposed that is a promising solution for next-generation display technologies in both consumer electronics and commercial applications.",
+        "source_link": "https://www.nature.com/articles/s41586-026-10318-9"
+      },
+      {
+        "rank": 5,
         "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
         "title": "Google updates Workspace to make AI your new office intern - TechCrunch",
         "description": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
         "source_link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://media.wired.com/photos/69e9205d27d28cd206268af9/191:100/w_1280,c_limit/Sam-Altman-Orb-Company-Invented-Partnership-with-Bruno-Mars-Business.jpg",
         "title": "Sam Altman\u2019s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist - WIRED",
         "description": "\u201cTo be clear, we were never approached \u2026 nor were we in any discussions regarding a partnership or tour access,\u201d a spokesperson for the artist tells WIRED.",
         "source_link": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/"
       },
       {
-        "rank": 3,
+        "rank": 7,
+        "image": "https://images.macrumors.com/t/UEhdoexSwDSCtiSEKM4Zdc70qJQ=/2500x/article-new/2025/11/mac-mini-cyber.jpg",
+        "title": "Base Mac Mini Sold Out From Apple Online Store - MacRumors",
+        "description": "Apple appears to be sold out of the base Mac mini, and the machine is listed as \u201cCurrently Unavailable\u201d from the Apple Online Store.    The base Mac...",
+        "source_link": "https://www.macrumors.com/2026/04/22/base-mac-mini-sold-out-from-apple-online-store/"
+      },
+      {
+        "rank": 8,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJfsMZsVw06I/v1/1200x800.jpg",
+        "title": "Tim Cook Regrets Maps Flub, Sees Apple Watch as His Proudest Work - Bloomberg.com",
+        "description": "Apple Inc. Chief Executive Officer Tim Cook, who plans to step down in a few months, cited the launch of Apple Maps on the iPhone in 2012 as his \u201cfirst really big mistake\u201d as the company\u2019s boss.",
+        "source_link": "https://www.bloomberg.com/news/articles/2026-04-22/tim-cook-regrets-maps-flub-sees-apple-watch-as-his-proudest-work"
+      },
+      {
+        "rank": 9,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/android-17-easter-egg.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google releases Android 17 QPR1 Beta 1 for Pixel - 9to5Google",
+        "description": "With the final scheduled release for the Android 17 Beta coming last week, Google today is already moving on to Android 17 QPR1 Beta 1.",
+        "source_link": "http://9to5google.com/2026/04/22/android-17-qpr1-beta-1-pixel/"
+      },
+      {
+        "rank": 10,
         "image": "https://images.digitalfoundry.net/d18668fedc3c4/large.jpg",
         "title": "How To Run Pragmata At 1440p on PlayStation 5 - But Should You? - Digital Foundry",
         "description": "A big improvement over stock 1080p - but frame-rates are impacted.",
         "source_link": "https://www.digitalfoundry.net/features/how-to-run-pragmata-at-1440p-on-playstation-5-but-should-you"
-      },
-      {
-        "rank": 4,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-        "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat - Ars Technica",
-        "description": "When authentication fails, things can go very, very wrong.",
-        "source_link": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/"
-      },
-      {
-        "rank": 5,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/04/iphone-pop-up-notifications.jpg?resize=1200,900",
-        "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones - TechCrunch",
-        "description": "The iPhone and iPad bug allowed law enforcement using forensic tools to read messages that had long been deleted by the Signal app.",
-        "source_link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.macrumors.com/t/sX-QJs0ZDyuPcHjPxB8GiHdfR6Y=/2500x/article-new/2026/01/Gemini-Siri-Feature.jpg",
-        "title": "Google Confirms Gemini-Powered Siri Coming Later This Year - MacRumors",
-        "description": "Google today commented on its partnership with Apple, confirming that Gemini will power a new, more personalized version of Siri that's set to be...",
-        "source_link": "https://www.macrumors.com/2026/04/22/google-gemini-powered-siri-2026/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/www.aftvnews.com/wp-content/uploads/2026/04/2026-Fire-TV-Gigabit-USB-C-Ethernet-Adapter.jpg?fit=1920%2C1080&quality=100&ssl=1",
-        "title": "Amazon upgrades to Gigabit with its new Fire TV Ethernet adapter, but there\u2019s a catch - AFTVnews",
-        "description": "Despite its many Vega OS flaws, one of the new Fire TV Stick HD's few redeeming qualities is that it finally ditches micro-USB for a modern USB-C port.",
-        "source_link": "https://www.aftvnews.com/amazon-upgrades-to-gigabit-with-its-new-fire-tv-ethernet-adapter-but-theres-a-catch/"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-17-pro-silver.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Leaker shares iPhone 18 Pro\u2019s new camera feature, plus future upgrades - 9to5Mac",
-        "description": "Four new camera upgrades are reportedly in development at Apple, at least one of which is coming with iPhone 18 Pro and Pro Max.",
-        "source_link": "https://9to5mac.com/2026/04/22/leaker-shares-iphone-18-pros-new-camera-feature-plus-future-upgrades/"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.macrumors.com/t/wU5bj9slMLRlqbTClC2IbmpayIY=/1702x/article-new/2026/04/Sad-iPhone-18-Feature.jpg",
-        "title": "Leaker: Apple to Downgrade iPhone 18 in Two Ways - MacRumors",
-        "description": "Following the emergence of a rumor that Apple is planning to downgrade the iPhone 18 to cut costs, further detail has emerged suggesting that display...",
-        "source_link": "https://www.macrumors.com/2026/04/22/leaker-apple-downgrade-iphone-18-two-ways/"
       }
     ],
     "trending_movies": [
@@ -83,17 +90,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-        "title": "Clayface",
-        "description": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and ...",
-        "source_link": "https://www.themoviedb.org/movie/1400940"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
         "title": "The Devil Wears Prada 2",
         "description": "Miranda Priestly navigates her career amid the decline of traditional magazine publishing. She faces off against Emily Charlton, her one-time assistan...",
         "source_link": "https://www.themoviedb.org/movie/1314481"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+        "title": "Clayface",
+        "description": "Follow the terrifying descent into hell of a promising Hollywood actor who has become a monster driven by revenge, exploring the loss of identity and ...",
+        "source_link": "https://www.themoviedb.org/movie/1400940"
       },
       {
         "rank": 5,
@@ -104,10 +111,10 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/vVdxddwjZAL5MxwRU1yHBkTMWOo.jpg",
-        "title": "Protector",
-        "description": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and milita...",
-        "source_link": "https://www.themoviedb.org/movie/1383731"
+        "image": "https://image.tmdb.org/t/p/w200/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
+        "title": "Avatar Aang: The Last Airbender",
+        "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
+        "source_link": "https://www.themoviedb.org/movie/980431"
       },
       {
         "rank": 7,
@@ -118,10 +125,10 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
-        "title": "Avatar Aang: The Last Airbender",
-        "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
-        "source_link": "https://www.themoviedb.org/movie/980431"
+        "image": "https://image.tmdb.org/t/p/w200/vVdxddwjZAL5MxwRU1yHBkTMWOo.jpg",
+        "title": "Protector",
+        "description": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and milita...",
+        "source_link": "https://www.themoviedb.org/movie/1383731"
       },
       {
         "rank": 9,
