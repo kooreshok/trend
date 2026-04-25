@@ -1,69 +1,76 @@
 {
-  "last_updated": "April 25, 2026, 12:55 UTC",
+  "last_updated": "April 25, 2026, 14:01 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.pushsquare.com/4647deb852ad9/large.jpg",
+        "title": "Expedition 33 Gets Free PS5 Content Update as It Turns One Year Old and Surpasses 8 Million Sales - Push Square",
+        "description": "Available now",
+        "source_link": "https://www.pushsquare.com/news/2026/04/expedition-33-gets-free-ps5-content-update-as-it-turns-one-year-old-and-surpasses-8-million-sales"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/Apple-Watch-SE-3-Series-11-Ultra-3-stack.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Here\u2019s the next Apple Watch face coming in watchOS 26.5 - 9to5Mac",
+        "description": "There\u2019s a new Apple Watch face that will be included in the upcoming watchOS 26.5 software update. Apple\u2019s annual Pride...",
+        "source_link": "https://9to5mac.com/2026/04/24/heres-the-next-apple-watch-face-coming-in-watchos-26-5/"
+      },
+      {
+        "rank": 3,
+        "image": "https://assetsio.gnwcdn.com/xbox-game-pass_SEot71j.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Fresh off the news that Xbox is cutting Game Pass pricing, reports emerge of a new \"Starter Edition\" tier that bundles in a Discord sub - Eurogamer.net",
+        "description": "Will Microsoft begin introducing new tiers of Xbox Game Pass? That's the suggestion, and here's evidence of one such new tier - a Starter Edition - already.",
+        "source_link": "https://www.eurogamer.net/xbox-game-pass-starter-edition-discord"
+      },
+      {
+        "rank": 4,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Super-Mario-Galaxy-1-and-2-soundtracks-Spotify.jpg",
+        "title": "Nintendo releases Super Mario Galaxy 1 and 2 soundtracks on Spotify - Nintendo Everything",
+        "description": "Starting today, Super Mario Galaxy and Super Mario Galaxy music can be played on Spotify. Nintendo said that the music is being offered in celebration of Mario\u2019s 40th anniversary. Between the two games, you can listen to 130 tracks, coming in at about five ho\u2026",
+        "source_link": "https://nintendoeverything.com/nintendo-releases-super-mario-galaxy-1-and-2-soundtracks-on-spotify/"
+      },
+      {
+        "rank": 5,
+        "image": "https://images.macrumors.com/t/28K8GzT_qW1bSru-H9LUBSEsEIQ=/2500x/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
+        "title": "20th Anniversary iPhone to Feature Custom 'Micro-Curved' OLED Panel - MacRumors",
+        "description": "For its 20th-anniversary iPhone, Apple is tapping Samsung to produce a custom micro-curved OLED display that is brighter and thinner than existing...",
+        "source_link": "https://www.macrumors.com/2026/04/24/20th-anniversary-iphone-micro-curved-oled-panel/"
+      },
+      {
+        "rank": 6,
+        "image": "https://assetsio.gnwcdn.com/xbox-series-x_lxcHHt4.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Microsoft Gaming reverts to Xbox branding - GamesIndustry.biz",
+        "description": "\"Microsoft Gaming describes our structure, but it does not describe our ambition,\" says CEO Asha Sharma and CCO Matt Booty",
+        "source_link": "https://www.gamesindustry.biz/microsoft-gaming-reverts-to-xbox-branding"
+      },
+      {
+        "rank": 7,
+        "image": "https://cdn.mos.cms.futurecdn.net/uSWxjupVxkNGJEmixZEoe5-786-80.jpg",
+        "title": "\"We care deeply about this game, and we play it right alongside you\": World of Warcraft team apologizes for the state of the game \u2014 as patch 12.0.5 frustration boils over - Windows Central",
+        "description": "World of Warcraft is the most popular subscription based MMORPG in history owing to the absolute mountain of content it receieves in exchange for the monthly fee. Lately, though, it feels increasingly like Blizzard has spread itself thin.",
+        "source_link": "https://www.windowscentral.com/gaming/pc-gaming/world-of-warcraft-developers-lament-the-state-of-midnight-as-patch-12-0-5-frustration-boils-over"
+      },
+      {
+        "rank": 8,
+        "image": "https://images.timeextension.com/3f06fba6cdb05/large.jpg",
+        "title": "\"No Old, Stay Gold\" - It Looks Like Sega Is About To Revive More Of Its Classic Franchises - Time Extension",
+        "description": "'Sega Universe' project teases new developments",
+        "source_link": "https://www.timeextension.com/news/2026/04/no-old-stay-gold-it-looks-like-sega-is-about-to-revive-more-of-its-classic-franchises"
+      },
+      {
+        "rank": 9,
         "image": "https://images.digitalfoundry.net/671f5fc827b1e/large.jpg",
         "title": "Review: Saros on PS5/Pro: Beautiful Visuals, Polished And Approachable - Digital Foundry",
         "description": "An Unreal Engine 5 game that looks nothing like it.",
         "source_link": "https://www.digitalfoundry.net/reviews/saros-on-ps5pro-beautiful-visuals-polished-and-approachable"
       },
       {
-        "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/discordxboxgamepass_bacddd.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Leak reveals new Xbox Game Pass \u201cStarter Edition\u201d that\u2019s part of Discord Nitro - The Verge",
-        "description": "Microsoft is getting ready to bundle Xbox Game Pass with Discord Nitro. A more limited \u201cStarter Edition\u201d is on the way.",
-        "source_link": "https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle"
-      },
-      {
-        "rank": 3,
-        "image": "https://cdn.mos.cms.futurecdn.net/uivMtbJFfr9i3t6gA2s7oT-2560-80.jpg",
-        "title": "Diablo 4: Lord of Hatred will release earlier than expected in the US, and teams up with Overwatch for some of the coolest skins I've ever seen - Windows Central",
-        "description": "The Diablo 4 developer chat just dropped a bunch of new info, Overwatch Skins, Twitch Drops, and a bucket of updates with Patch 3.0.0",
-        "source_link": "https://www.windowscentral.com/gaming/diablo-4-lord-of-hatred-will-release-earlier-than-expected-in-the-us-and-teams-up-with-overwatch-for-some-of-the-coolest-skins-ive-ever-seen"
-      },
-      {
-        "rank": 4,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69a89dd24b8a0538e24e9c45/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "iOS 26.4.2: Apple Fixes iPhone Flaw Used By FBI To Read Deleted Messages - Forbes",
-        "description": "Apple has released a new iPhone update \u2014 that has taken many by surprise \u2014 to address a vulnerability that was recently exploited by the FBI.",
-        "source_link": "https://www.forbes.com/sites/davidphelan/2026/04/23/ios-2642-apple-issues-unexpected-iphone-update-to-block-fbi-data-extraction-method/"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.pokebeach.com/news/2026/04/Pokemon_TCG_Pocket_Pulsing_Aura_Mega_Lucario_ex.png",
-        "title": "\"Pulsing Aura\" Set Revealed for \"Pocket\" Featuring Mega Lucario ex! - PokeBeach",
-        "description": "The next Pocket set will be named\u00a0Pulsing Aura (B3) and will release on April 28th! It will feature Mega Lucario ex. (A future TCG set named Aura",
-        "source_link": "https://www.pokebeach.com/2026/04/pulsing-aura-set-revealed-for-pocket-featuring-mega-lucario"
-      },
-      {
-        "rank": 6,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-invites-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple Invites for iPhone adds 7 new features, including an iMessage app - 9to5Mac",
-        "description": "Apple Invites has its second new version in as many months, adding seven new features. One key highlight is an...",
-        "source_link": "https://9to5mac.com/2026/04/23/apple-invites-for-iphone-adds-7-new-features-including-an-imessage-app/"
-      },
-      {
-        "rank": 7,
-        "image": "https://kotaku.com/app/uploads/2026/04/Crossroads-1200x675.jpg",
-        "title": "Overwatch Is Making Good On A Decade-Old Promise - Kotaku",
-        "description": "The hero shooter\u2019s reboot is getting one thing right",
-        "source_link": "https://kotaku.com/overwatch-season-2-sierra-cassidy-ashe-audio-comic-2000690198"
-      },
-      {
-        "rank": 8,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/04/doomscrolling-GettyImages-2195349954.jpg?resize=1200,800",
-        "title": "Meet Noscroll, an AI bot that does your doomscrolling for you - TechCrunch",
-        "description": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
-        "source_link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.purexbox.com/828ea472ea195/large.jpg",
-        "title": "Microsoft Gaming Scrapped As Asha Sharma Promotes 'Return Of Xbox' At MS HQ - Pure Xbox",
-        "description": "Update: Now official!",
-        "source_link": "https://www.purexbox.com/news/2026/04/microsoft-gaming-scrapped-as-asha-sharma-promotes-return-of-xbox-at-ms-hq"
+        "rank": 10,
+        "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/2026/04/24/pokemon-pokopia-169.png",
+        "title": "Search for Treasure During Sableye\u2019s Gem Hunt in Pok\u00e9mon Pokopia - Pokemon.com",
+        "description": "Befriend Sableye and exchange red crystal fragments for unique items during this event.",
+        "source_link": "https://www.pokemon.com/us/pokemon-news/search-for-treasure-during-sableyes-gem-hunt-in-pokemon-pokopia"
       }
     ],
     "trending_movies": [
@@ -90,17 +97,17 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
-        "title": "The Devil Wears Prada 2",
-        "description": "As Miranda Priestly nears retirement, she reunites with Andy Sachs to face off against her former assistant turned rival: Emily Charlton....",
-        "source_link": "https://www.themoviedb.org/movie/1314481"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
         "title": "Greenland 2: Migration",
         "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a...",
         "source_link": "https://www.themoviedb.org/movie/840464"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "As Miranda Priestly nears retirement, she reunites with Andy Sachs to face off against her former assistant turned rival: Emily Charlton....",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
       },
       {
         "rank": 6,
