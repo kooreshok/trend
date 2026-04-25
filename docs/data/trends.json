@@ -1,76 +1,69 @@
 {
-  "last_updated": "April 25, 2026, 20:33 UTC",
+  "last_updated": "April 25, 2026, 21:33 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/04/24/ce9b73c7/final_fantasy_xiv_evercold_2.jpg.webp",
+        "title": "Final Fantasy XIV Is Coming To Nintendo Switch 2, But There's A Terrible And Expensive Catch - Game Informer",
+        "description": "Not the way I envisioned my Warrior of Light on the go...",
+        "source_link": "https://gameinformer.com/2026/04/24/final-fantasy-xiv-is-coming-to-nintendo-switch-2-but-theres-a-terrible-and-expensive"
+      },
+      {
+        "rank": 2,
         "image": "https://kotaku.com/app/uploads/2026/04/image-66.jpg",
         "title": "Alice: Madness Returns Dev Put Dildos On A Snail To Shut EA Up - Kotaku",
         "description": "Also Resident Evil Requiem is still killing it",
         "source_link": "https://kotaku.com/alice-madness-returns-sexy-american-mcgee-ea-snail-2000690452"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://images.macrumors.com/t/a63wTdKOm6Q4Sycz8dpdmeLDYSo=/2250x/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
+        "title": "Foldable 'iPhone Ultra' Could Be Missing These 5 Key Features Despite $2,000 Price Tag - MacRumors",
+        "description": "Apple's first foldable iPhone, dubbed the \"iPhone Ultra,\" could be missing at least five key features present on the iPhone 18 Pro models...",
+        "source_link": "https://www.macrumors.com/2026/04/24/iphone-ultra-could-be-missing-5-features/"
+      },
+      {
+        "rank": 4,
+        "image": "https://insider-gaming.com/wp-content/uploads/2026/04/fairgames.png",
+        "title": "EXCLUSIVE: FairGames Struggles to \u2018Find The Fun\u2019 in Latest Pre-Alpha Playtest - Insider Gaming",
+        "description": "Haven Studios' latest playtest of a pre-alpha version of Fairgames continues to 'find the fun', according to sources familiar.",
+        "source_link": "https://insider-gaming.com/fairgames-struggles-to-find-fun/"
+      },
+      {
+        "rank": 5,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-2-1152x648.jpg",
         "title": "Samsung may be bracing for first-ever annual loss in smartphone business - Ars Technica",
         "description": "The AI-driven memory shortage is hitting Samsung's bottom line.",
         "source_link": "https://arstechnica.com/gadgets/2026/04/samsung-may-be-bracing-for-first-ever-annual-loss-in-smartphone-business/"
       },
       {
-        "rank": 3,
-        "image": "https://gizmodo.com/app/uploads/2026/04/foldable-iphone-leak-1200x675.jpg",
-        "title": "The Foldable iPhone Is Basically an iPad Mini That Folds in Half - Gizmodo",
-        "description": "Watching videos and playing games is going to be so much more immersive.",
-        "source_link": "https://gizmodo.com/the-foldable-iphone-is-basically-an-ipad-mini-that-folds-in-half-2000750451"
+        "rank": 6,
+        "image": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8135.jpg?resize=1200,800",
+        "title": "Marked-up Mac minis flood eBay amid shortages driven by AI - TechCrunch",
+        "description": "Apple\u2019s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+        "source_link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/"
       },
       {
-        "rank": 4,
-        "image": null,
+        "rank": 7,
+        "image": "https://assetsio.gnwcdn.com/mario-spotify.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Famously streaming-averse Nintendo has finally added the Super Mario Galaxy 1 + 2 OST to Spotify, but the big picture makes it look like a very weird move - Eurogamer.net",
+        "description": "Nintendo is bringing one of its most celebrated OSTs to Spotify - but only for a limited time.",
+        "source_link": "https://www.eurogamer.net/super-mario-galaxy-1-2-ost-spotify-weird"
+      },
+      {
+        "rank": 8,
+        "image": "https://assetsio.gnwcdn.com/implicit-conversions.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Atari acquires emulation studio Implicit Conversions - GamesIndustry.biz",
-        "description": null,
+        "description": "Firm has been working with Atari over the past year on Mortal Kombat: Legacy Collection, Rayman, and other unannounced titles",
         "source_link": "https://www.gamesindustry.biz/atari-acquires-emulation-studio-implicit-conversions"
       },
       {
-        "rank": 5,
-        "image": "https://assetsio.gnwcdn.com/clair-obscur-haircuts-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Clair Obscur: Expedition 33 celebrates its one-year anniversary with... new haircuts? - Eurogamer.net",
-        "description": "As Clair Obscur: Expedition 33 celebrates its first anniversary and 8m sales, Sandfall Interactive has released a brand-new update for the acclaimed RPG.",
-        "source_link": "https://www.eurogamer.net/clair-obscur-expedition-33-one-year-anniversary-update"
-      },
-      {
-        "rank": 6,
+        "rank": 9,
         "image": "https://assets.warhammer-community.com/aos_coainfluencers-apr24-1-feature-0bluvj6xpz.jpg",
         "title": "Community painters enter the City of Ash - Warhammer Community",
         "description": "The Warhammer hobby community has painted the new Skaven and Cities of Sigmar miniatures.",
         "source_link": "https://www.warhammer-community.com/articles/duqtqeo3/community-painters-enter-the-city-of-ash"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-03.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Leaker details next year\u2019s \u2018iPhone 20\u2019 display features - 9to5Mac",
-        "description": "Next year is rumored to bring a radical new 20th anniversary iPhone model. Here\u2019s what the latest leaks say about the \u2018iPhone 20\u2019 display.",
-        "source_link": "https://9to5mac.com/2026/04/24/leaker-details-next-years-iphone-20-display-features/"
-      },
-      {
-        "rank": 8,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/04/samsung-galaxy-z-fold8-front-camera-cutout-dimension/-952x498w6/gsmarena_001.jpg",
-        "title": "Samsung Galaxy Z Fold8 to bring a smaller punch hole for the selfie camera - GSMArena.com news - GSMArena.com",
-        "description": "It's rumored to be slightly thicker than the Fold7, though. While the Samsung Galaxy Z Fold8 is rumored to be slightly thicker than its predecessor, the...",
-        "source_link": "https://www.gsmarena.com/samsung_galaxy_z_fold8_front_camera_cutout_dimension-news-72533.php"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.phoronix.net/image.php?id=2026&image=bus_mouse",
-        "title": "Linux 7.1 Removes Drivers For Long Obsolete Input Hardware: Bye Bus Mouse Support - Phoronix",
-        "description": "Beyond Linux looking to remove old drivers due to the surge of AI/LLM bug reports, the Linux 7.1 kernel is also removing some old hardware drivers simply on the basis of long obsolete hardware",
-        "source_link": "https://www.phoronix.com/news/Linux-7.1-Input"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/04/Disgaea-Mayhem-Date_04-24-26.jpg",
-        "title": "Disgaea Mayhem launches July 23 in the west - Gematsu",
-        "description": "Action RPG Disgaea Mayhem will launch for PlayStation 5, Switch 2, Switch, and PC via Steam on July 23 in the west, publisher NIS America announced.",
-        "source_link": "https://www.gematsu.com/2026/04/disgaea-mayhem-launches-july-23-in-the-west"
       }
     ],
     "trending_movies": [
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
+        "image": "https://image.tmdb.org/t/p/w200/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
+        "title": "Avatar Aang: The Last Airbender",
+        "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
+        "source_link": "https://www.themoviedb.org/movie/980431"
       }
     ]
   }
