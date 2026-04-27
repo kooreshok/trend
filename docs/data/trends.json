@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 26, 2026, 23:35 UTC",
+  "last_updated": "April 27, 2026, 02:27 UTC",
   "categories": {
     "tech_news": [
       {
@@ -60,17 +60,17 @@
       },
       {
         "rank": 9,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Installer-125.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "The most exciting laptop I\u2019ve seen in forever - The Verge",
+        "description": "Plus: Stranger Things Tales from \u201885, Spotify for Claude, Vampire Crawlers, and more in this week\u2019s Installer newsletter.",
+        "source_link": "https://www.theverge.com/tech/918695/framework-laptop-stranger-things-installer"
+      },
+      {
+        "rank": 10,
         "image": "https://assetsio.gnwcdn.com/bafkreibieaazpuoiqhjkbss7vphvdnzlofl25a3l66kn7s72ep3pn3sy4u.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Final Fantasy 14 is coming to Nintendo Switch 2 in August \u2013 but there's a catch - Eurogamer.net",
         "description": "Final Fantasy 14 is coming to Nintendo Switch 2 in August.",
         "source_link": "https://www.eurogamer.net/final-fantasy-14-is-coming-to-nintendo-switch-2-in-august-but-theres-a-catch"
-      },
-      {
-        "rank": 10,
-        "image": "https://assetsio.gnwcdn.com/zero-parades-demo-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Disco Elysium dev's highly-anticipated follow-up, Zero Parades: For Dead Spies, has things to say about our nostalgia - Eurogamer.net",
-        "description": "Our impressions from the first few hours of the Zero Parades: For Dead Spies demo, available now on Steam.",
-        "source_link": "https://www.eurogamer.net/disco-elysium-zaum-follow-up-zero-parades-for-dead-spies-nostalgia-preview"
       }
     ],
     "trending_movies": [
@@ -104,10 +104,10 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
-        "title": "Greenland 2: Migration",
-        "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a...",
-        "source_link": "https://www.themoviedb.org/movie/840464"
+        "image": "https://image.tmdb.org/t/p/w200/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "As Miranda Priestly nears retirement, she reunites with Andy Sachs to face off against her former assistant turned rival: Emily Charlton....",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
       },
       {
         "rank": 6,
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
-        "title": "The Devil Wears Prada 2",
-        "description": "As Miranda Priestly nears retirement, she reunites with Andy Sachs to face off against her former assistant turned rival: Emily Charlton....",
-        "source_link": "https://www.themoviedb.org/movie/1314481"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
-        "title": "Lee Cronin's The Mummy",
-        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
-        "source_link": "https://www.themoviedb.org/movie/1304313"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",
+        "title": "Greenland 2: Migration",
+        "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a...",
+        "source_link": "https://www.themoviedb.org/movie/840464"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
+        "title": "Lee Cronin's The Mummy",
+        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
+        "source_link": "https://www.themoviedb.org/movie/1304313"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-        "title": "GOAT",
-        "description": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated ...",
-        "source_link": "https://www.themoviedb.org/movie/1297842"
+        "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
+        "title": "The Drama",
+        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
+        "source_link": "https://www.themoviedb.org/movie/1325734"
       }
     ]
   }
