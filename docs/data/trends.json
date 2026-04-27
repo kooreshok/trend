@@ -1,82 +1,82 @@
 {
-  "last_updated": "April 27, 2026, 22:46 UTC",
+  "last_updated": "April 27, 2026, 23:50 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/img_8328-2.jpeg?w=1600&h=900&fit=crop",
+        "title": "I had Claude, ChatGPT, and Gemini each build the same Chrome extension, and only one actually worked - MakeUseOf",
+        "description": "Three LLMs, one prompt, and a lot of disappointment.",
+        "source_link": "https://www.makeuseof.com/had-claude-chatgpt-and-gemini-each-vibe-code-the-same-chrome-extension/"
+      },
+      {
+        "rank": 2,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258090_EOY_2025_CVirginia_GOOGLE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Google\u2019s new gradient icon design is coming to more apps - The Verge",
         "description": "The looks are softer and more varied.",
         "source_link": "https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://comicbook.com/wp-content/uploads/sites/4/2024/12/the-legend-of-zelda.png?resize=2000,1125",
+        "title": "New Legend of Zelda Game Reportedly Leaked Ahead of Reveal - comicbook.com",
+        "description": "A new Legend of Zelda game, a 2D game, specifically, for the Nintendo Switch 2 has reportedly leaked ahead of its reveal.",
+        "source_link": "http://comicbook.com/gaming/news/the-legend-of-zelda-new-2d-game-nintendo-switch-2-release-2027/"
+      },
+      {
+        "rank": 4,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/walmart-onn-4k-pro-2026-11.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Walmart\u2019s new Google TV streamers are now available for some as wide launch nears - 9to5Google",
         "description": "After weeks of leaks from retail stores, Walmart\u2019s new Onn 4K Pro and Onn 4K streaming stick with Google TV...",
         "source_link": "http://9to5google.com/2026/04/26/walmart-google-tv-official-launch-nears-2026/"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-run-out-of-battery-dead.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "The new iPhones have a problem turning back on after the battery runs out - 9to5Mac",
         "description": "Last night, my iPhone Air battery went to zero about 11 PM. I plugged in the USB-C charging cable within...",
         "source_link": "https://9to5mac.com/2026/04/26/iphone-turned-off-dead-how-to-turn-back-on/"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/04/hand-holding-a-phone-with-a-blue-ethernet-cable-wrapped-around-it-and-no-wi-fi-icons-on-a-green-background.png?w=1600&h=900&fit=crop",
         "title": "I finally stopped fighting with spotty hotel Wi-Fi thanks to this Netflix USB hack - Android Police",
         "description": "No more fighting slow hotel internet",
         "source_link": "https://www.androidpolice.com/i-stopped-fighting-spotty-wifi-thanks-android-ethernet/"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://www.phoronix.net/image.php?id=2026&image=cachyos_april",
         "title": "CachyOS Introduces New Default GUI Package Manager, Kyber For NVMe I/O Scheduler - Phoronix",
         "description": "The April 2026 ISO refresh of the Arch Linux based CachyOS is now available with a variety of refinements, new hardware support, and other polishing.",
         "source_link": "https://www.phoronix.com/news/CachyOS-April-2026"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/universal-patterns-eme.jpg",
         "title": "Universal patterns emerge across 22 languages, mapping how vocabularies evolve - Phys.org",
         "description": "Human languages are known to have grown and changed considerably over the course of history, often reflecting technological, cultural, and societal shifts. Studying the evolution of languages can thus offer valuable insight into how human societies and cultur\u2026",
         "source_link": "https://phys.org/news/2026-04-universal-patterns-emerge-languages-vocabularies.html"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://gizmodo.com/app/uploads/2026/04/alien-isolation-hed-1200x675.jpg",
         "title": "The First Look at \u2018Alien: Isolation 2\u2019 Calls You Back for More - Gizmodo",
         "description": "You'll probably be scared to death in 'Alien: Isolation 2,' but at least there'll be payphones for you to stop and catch your breath.",
         "source_link": "https://gizmodo.com/the-first-look-at-alien-isolation-2-calls-you-back-for-more-2000750960"
       },
       {
-        "rank": 8,
+        "rank": 10,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-pro-xl-review-19-gboard.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google Pixel ruined voice typing on every other phone for me, but the fix is in sight - 9to5Google",
         "description": "Every time I use a Google Pixel phone, voice-to-text on every other Android phone is ruined for me, but this app fixes it.",
         "source_link": "http://9to5google.com/2026/04/26/google-pixel-voice-to-text-android-app/"
-      },
-      {
-        "rank": 9,
-        "image": "https://insider-gaming.com/wp-content/uploads/2023/09/UFC5FighterHands.png",
-        "title": "EA Sports UFC 6 Planned For June Release - Insider Gaming",
-        "description": "To paraphrase Bruce Buffer, it's almost time to step back into the virtual octagon for the next EA Sports UFC game.",
-        "source_link": "https://insider-gaming.com/ea-sports-ufc-6-planned-for-june-release/"
-      },
-      {
-        "rank": 10,
-        "image": "https://kotaku.com/app/uploads/2026/04/Final-Fantasy-XIV-Fan-Festival-2026-Livestream-image-Square-Enix-e1777216814148-1200x675.jpg",
-        "title": "Final Fantasy 14 Localizer Draws Criticism For AI Art At Fan Fest - Kotaku",
-        "description": "The long-serving Square Enix localizer and lyricist revealed that the Final Fantasy maker's CEO \"has been keen on incorporating AI tools into our daily work\"",
-        "source_link": "https://kotaku.com/ff14-fanfest-panel-koji-fox-ai-art-square-enix-2000690711"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/nSXCFSvI2p5WLgMrOHACbVnEJSR.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
         "title": "They Will Kill You",
         "description": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a...",
         "source_link": "https://www.themoviedb.org/movie/1292695"
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
-        "title": "Avatar Aang: The Last Airbender",
-        "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
-        "source_link": "https://www.themoviedb.org/movie/980431"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
         "title": "Lee Cronin's The Mummy",
         "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
         "source_link": "https://www.themoviedb.org/movie/1304313"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
+        "title": "Avatar Aang: The Last Airbender",
+        "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
+        "source_link": "https://www.themoviedb.org/movie/980431"
       }
     ]
   }
