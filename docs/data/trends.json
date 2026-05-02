@@ -1,76 +1,76 @@
 {
-  "last_updated": "May 02, 2026, 09:01 UTC",
+  "last_updated": "May 02, 2026, 10:46 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg?resize=1200,800",
+        "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet - TechCrunch",
+        "description": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals \u2014 from avatars to cinematic portraits.",
+        "source_link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/"
+      },
+      {
+        "rank": 2,
         "image": "https://www.gematsu.com/wp-content/uploads/2026/04/World-Heroes-Perfect-Ann_04-30-26.jpg",
         "title": "World Heroes Perfect \u2018NEO GEO Premium Selection\u2019 edition announced for PC - Gematsu",
         "description": "SNK has announced a new version of 1995-released fighting game World Heroes Perfect for PC (Steam) as part of its \u201cNEO GEO Premium Selection\u201d\u2014a selection of NEO GEO titles upgrade\u2026",
         "source_link": "https://www.gematsu.com/2026/04/world-heroes-perfect-neo-geo-premium-selection-edition-announced-for-pc"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://media.wired.com/photos/69f3d1f6fd3259b38c3421e7/191:100/w_1280,c_limit/You-Bought-All-MacMinis-Business.jpg",
         "title": "Good Luck Getting a Mac Mini for the Next \u2018Several Months\u2019 - WIRED",
         "description": "Apple CEO Tim Cook told analysts that AI adoption has happened faster than expected.",
         "source_link": "https://www.wired.com/story/apple-sold-out-mac-mini-openclaw/"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "image": "https://images.macrumors.com/t/f3VEEbWYtJRKFzkdAIZytTWXIpg=/2676x/article-new/2022/01/Apple-Logo-Cash-Feature-Mint.jpg",
+        "title": "Apple Expects 'Significantly Higher Memory Costs' in June Quarter and Beyond - MacRumors",
+        "description": "Apple had higher memory costs during the March quarter, and the impact is expected to get worse as the year goes on. Apple CEO Tim Cook said that...",
+        "source_link": "https://www.macrumors.com/2026/04/30/apple-memory-costs-significantly-higher/"
+      },
+      {
+        "rank": 5,
         "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/04/30/best-buy-pokemon-cards-overnight-arrest.jpg",
         "title": "45-year-old man caught hiding in Best Buy overnight to be early Pokemon card release - Dexerto",
         "description": "A California man has been arrested ahead of a Pokemon card release at Best Buy after he found a way to stay in the store overnight once it closed.",
         "source_link": "https://www.dexerto.com/pokemon/45-year-old-man-caught-hiding-in-best-buy-overnight-to-be-early-pokemon-card-release-3359072/"
       },
       {
-        "rank": 4,
-        "image": "https://images.purexbox.com/59d5d9924cfce/large.jpg",
-        "title": "Xbox Mode Has Officially Arrived, Aiming To Bring A 'Console-Inspired Experience' To PC Users - Pure Xbox",
-        "description": "Rolling out to Windows 11 PCs in select markets",
-        "source_link": "https://www.purexbox.com/news/2026/04/xbox-mode-has-officially-arrived-aiming-to-bring-a-console-inspired-experience-to-pc-users"
+        "rank": 6,
+        "image": "https://cdn.mos.cms.futurecdn.net/ueuv49sKPu73m7YGxRbgtc-1024-80.jpg",
+        "title": "\u201cXbox Mode is here\u201d: Microsoft rolls out console-style experience on Windows 11, barely meeting its own deadline - Windows Central",
+        "description": "Microsoft begins rolling out Xbox Mode on Windows 11, bringing a controller friendly full screen experience designed to make PC gaming feel closer to a console.",
+        "source_link": "https://www.windowscentral.com/gaming/xbox/xbox-mode-is-here-microsoft-rolls-out-console-style-experience-on-windows-11-barely-meeting-its-own-deadline"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
         "title": "The most severe Linux threat to surface in years catches the world flat-footed - Ars Technica",
         "description": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
         "source_link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/"
       },
       {
-        "rank": 6,
+        "rank": 8,
+        "image": "https://cdn.mos.cms.futurecdn.net/qkGos8GSXGA5yZ4Yu7f9hi-1920-80.jpg",
+        "title": "Xbox Series X|S and Xbox on PC get big upgrades with Microsoft's new April Update \u2014 here's what's new - Windows Central",
+        "description": "Xbox Series X|S consoles and the Xbox on PC app just got big upgrades to customization and gameplay options, refining the user experience on these platforms.",
+        "source_link": "https://www.windowscentral.com/gaming/xbox/xboxs-new-april-update-brings-awesome-improvements-to-xbox-and-pc-including-one-ive-wanted-microsoft-to-add-for-years"
+      },
+      {
+        "rank": 9,
         "image": "https://techcrunch.com/wp-content/uploads/2026/04/cpanel-security-flaw-bug.jpeg?resize=1200,784",
         "title": "Hackers are actively exploiting a bug in cPanel, used by millions of websites - TechCrunch",
         "description": "Web hosts are scrambling to fix the bug under active attack by hackers. One company said hackers have been abusing the bug for months.",
         "source_link": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/"
       },
       {
-        "rank": 7,
-        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/04/XBOX_Mode_16x9_Static_EN-US-8d44ba879870e10c1395.jpg",
-        "title": "Xbox Mode Begins Rolling Out to Players on Windows 11 PCs Today - Xbox Wire",
-        "description": "Beginning today, we\u2019re excited to share that Xbox mode will begin rolling out to Windows 11 PCs, bringing a console-inspired Xbox experience to more players than ever.",
-        "source_link": "https://news.xbox.com/en-us/2026/04/30/xbox-mode-pc-windows-11/"
-      },
-      {
-        "rank": 8,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/04/Gemini-google-vehicles.jpeg?w=1200",
-        "title": "Google\u2019s Gemini AI assistant is hitting the road in millions of vehicles - TechCrunch",
-        "description": "The move signals Google\u2019s push to bring more advanced, conversational AI into the driving experience.",
-        "source_link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/"
-      },
-      {
-        "rank": 9,
-        "image": "https://blog.tipranks.com/wp-content/uploads/2026/04/microsoft-shutterstock_2773362251-750x406.jpg",
-        "title": "\u201cWin Back Fans\u201d: Microsoft Stock (NASDAQ:MSFT) Plunges as Microsoft Admits It Is Losing - TipRanks",
-        "description": "Tech giant Microsoft ($MSFT) has not exactly made a lot of friends lately with some of its moves, and Microsoft is apparently starting to feel the impact in the bottom",
-        "source_link": "https://www.tipranks.com/news/win-back-fans-microsoft-stock-nasdaqmsft-plunges-as-microsoft-admits-it-is-losing"
-      },
-      {
         "rank": 10,
-        "image": "https://image.cnbcfm.com/api/v1/image/108294282-1776723285352-Apple-John-Ternus-Tim-Cook.jpg?v=1776723345&w=1920&h=1080",
-        "title": "Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone, per traders on Kalshi - CNBC",
-        "description": "Apple is set to report earnings after the bell on Thursday, with its conference call scheduled for 5:00 pm ET.",
-        "source_link": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html"
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/04/vlcsnap-2026-04-30-13h12m26s935-1.png",
+        "title": "Teenage Mutant Ninja Turtles: Empire City Review - Go Ninja Go Ninja Go - UploadVR",
+        "description": "Teenage Mutant Ninja Turtles: Empire City as a whole is better than the sum of its parts, and lives up to its source material.",
+        "source_link": "https://www.uploadvr.com/teenage-mutant-ninja-turtles-empire-city-review/"
       }
     ],
     "trending_movies": [
@@ -83,17 +83,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg",
-        "title": "My Dearest Se\u00f1orita",
-        "description": "Adela, a solitary only child from a conservative family, spends her days between the family antique shop and the catechism classes she teaches, marked...",
-        "source_link": "https://www.themoviedb.org/movie/1239198"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
         "title": "The Devil Wears Prada 2",
         "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
         "source_link": "https://www.themoviedb.org/movie/1314481"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg",
+        "title": "My Dearest Se\u00f1orita",
+        "description": "A young woman from a traditional family learns she's intersex, sparking a journey of self-discovery, gender identity and love found in unexpected plac...",
+        "source_link": "https://www.themoviedb.org/movie/1239198"
       },
       {
         "rank": 4,
@@ -104,24 +104,24 @@
       },
       {
         "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
         "title": "They Will Kill You",
         "description": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a...",
         "source_link": "https://www.themoviedb.org/movie/1292695"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/fRE3KlLo0tBBRtwxThqClvSgk0J.jpg",
         "title": "Son-In-Law",
         "description": "Jos\u00e9 S\u00e1nchez has big ambitions, terrible instincts, and a mustache to match. After a string of bad deals, he accidentally bluffs his way into becoming...",
         "source_link": "https://www.themoviedb.org/movie/1651233"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
         "rank": 8,
@@ -132,10 +132,10 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
         "rank": 10,
