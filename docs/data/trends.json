@@ -1,76 +1,76 @@
 {
-  "last_updated": "May 01, 2026, 23:47 UTC",
+  "last_updated": "May 02, 2026, 02:24 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/04/30/best-buy-pokemon-cards-overnight-arrest.jpg",
-        "title": "45-year-old man caught hiding in Best Buy overnight to be early Pokemon card release - Dexerto",
-        "description": "A California man has been arrested ahead of a Pokemon card release at Best Buy after he found a way to stay in the store overnight once it closed.",
-        "source_link": "https://www.dexerto.com/pokemon/45-year-old-man-caught-hiding-in-best-buy-overnight-to-be-early-pokemon-card-release-3359072/"
-      },
-      {
-        "rank": 2,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
         "title": "The most severe Linux threat to surface in years catches the world flat-footed - Ars Technica",
         "description": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
         "source_link": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "image": "https://techcrunch.com/wp-content/uploads/2026/04/cpanel-security-flaw-bug.jpeg?resize=1200,784",
         "title": "Hackers are actively exploiting a bug in cPanel, used by millions of websites - TechCrunch",
         "description": "Web hosts are scrambling to fix the bug under active attack by hackers. One company said hackers have been abusing the bug for months.",
         "source_link": "https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/04/XBOX_Mode_16x9_Static_EN-US-8d44ba879870e10c1395.jpg",
         "title": "Xbox Mode Begins Rolling Out to Players on Windows 11 PCs Today - Xbox Wire",
         "description": "Beginning today, we\u2019re excited to share that Xbox mode will begin rolling out to Windows 11 PCs, bringing a console-inspired Xbox experience to more players than ever.",
         "source_link": "https://news.xbox.com/en-us/2026/04/30/xbox-mode-pc-windows-11/"
       },
       {
+        "rank": 4,
+        "image": "https://blog.tipranks.com/wp-content/uploads/2026/04/microsoft-shutterstock_2773362251-750x406.jpg",
+        "title": "\u201cWin Back Fans\u201d: Microsoft Stock (NASDAQ:MSFT) Plunges as Microsoft Admits It Is Losing - TipRanks",
+        "description": "Tech giant Microsoft ($MSFT) has not exactly made a lot of friends lately with some of its moves, and Microsoft is apparently starting to feel the impact in the bottom",
+        "source_link": "https://www.tipranks.com/news/win-back-fans-microsoft-stock-nasdaqmsft-plunges-as-microsoft-admits-it-is-losing"
+      },
+      {
         "rank": 5,
-        "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/04/30/apex-season-29-patch-notes.jpg",
-        "title": "Apex Legends Season 29 patch notes: New Legend Axle, Deathbox Respawns, buffs and nerfs - Dexerto",
-        "description": "Here\u2019s everything coming to Season 29 of Apex Legends, including a new hypermobile legend, changes to respawns, and tweaks to existing legends.",
-        "source_link": "https://www.dexerto.com/apex-legends/apex-legends-season-29-patch-notes-3358938/"
-      },
-      {
-        "rank": 6,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/04/Gemini-google-vehicles.jpeg?w=1200",
-        "title": "Google\u2019s Gemini AI assistant is hitting the road in millions of vehicles - TechCrunch",
-        "description": "The move signals Google\u2019s push to bring more advanced, conversational AI into the driving experience.",
-        "source_link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/"
-      },
-      {
-        "rank": 7,
         "image": "https://image.cnbcfm.com/api/v1/image/108294282-1776723285352-Apple-John-Ternus-Tim-Cook.jpg?v=1776723345&w=1920&h=1080",
         "title": "Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone, per traders on Kalshi - CNBC",
         "description": "Apple is set to report earnings after the bell on Thursday, with its conference call scheduled for 5:00 pm ET.",
         "source_link": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html"
       },
       {
-        "rank": 8,
+        "rank": 6,
+        "image": "https://gizmodo.com/app/uploads/2025/01/OpenAI-Sam-Altman-at-an-Apple-event--1200x675.jpg",
+        "title": "'The Goblins Came Back to Haunt Us': OpenAI Explains How ChatGPT's 'Nerdy' Personality Got Out of Control - Gizmodo",
+        "description": "OpenAI is ready to talk about ChatGPT\u2019s goblin obsession.",
+        "source_link": "https://gizmodo.com/the-goblins-came-back-to-haunt-us-openai-explains-how-chatgpts-nerdy-personality-got-out-of-control-2000752670"
+      },
+      {
+        "rank": 7,
         "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/04/Hero_16x9_Family-24532c618df934088ca8.jpg",
         "title": "April Xbox Update: Customize Your Console, Manually Add Your Favorite Games on PC, and More - Xbox Wire",
         "description": "The April Xbox Update is rolling out today featuring an array of improvements for console, PC, mobile, and more.",
         "source_link": "https://news.xbox.com/en-us/2026/04/30/april-xbox-update-2026/"
       },
       {
+        "rank": 8,
+        "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2023/12/final_fantasy_vii_rebirth.jpeg?fit=1920%2C1080&ssl=1",
+        "title": "IGN: Final Fantasy VII Rebirth demo on Switch 2 removes most interior decor and background props - My Nintendo News",
+        "description": "The Nintendo Switch 2 version of Final Fantasy VII Rebirth was also going to be a challenging port for the system. Now IGN via GVG is reporting that one of the concessions that Square Enix has made is\u2026",
+        "source_link": "https://mynintendonews.com/2026/04/30/ign-final-fantasy-vii-rebirth-on-switch-2-removes-most-of-interior-decor-and-background-props/"
+      },
+      {
         "rank": 9,
-        "image": "https://assets-prd.ignimgs.com/2026/04/30/tmnt-empirecity-review-blogroll-1777564829320.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Teenage Mutant Ninja Turtles: Empire City Review - IGN",
-        "description": "This empty shell of an adventure falls short of realizing the awesome potential of being the turtle bros in VR.",
-        "source_link": "https://www.ign.com/articles/teenage-mutant-ninja-turtles-empire-city-review"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Google-Gemini-car-AI-assistant-upgrade.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Gemini is rolling out to cars with Google built-in - The Verge",
+        "description": "Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant.",
+        "source_link": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade"
       },
       {
         "rank": 10,
-        "image": "https://gizmodo.com/app/uploads/2026/04/mood-swings-wizards-of-the-coast-reveal-1200x675.jpg",
-        "title": "Wizards of the Coast Is Making a Brand New Trading Card Game - Gizmodo",
-        "description": "Almost 30 years in the making, 'Mood Swings' wants to deliver a smaller, quicker, and more accessible card game experience that not even 'Magic: The Gathering' can provide.",
-        "source_link": "https://gizmodo.com/magic-the-gathering-mood-swings-reveal-wizards-of-the-coast-2000752647"
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Google-Search-Preferred-Sources-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google expands \u2018Preferred Sources\u2019 to everyone so you actually see your favorite sites - 9to5Google",
+        "description": "Launched in the second half of 2025, Google is now expanding its \u201cPreferred Sources\u201d tool in Search to all users...",
+        "source_link": "http://9to5google.com/2026/04/30/google-preferred-sources-global-language-expansion/"
       }
     ],
     "trending_movies": [
@@ -97,45 +97,45 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/j57QWe3OoaXL9Idi9gLtsAybWLP.jpg",
-        "title": "Michael",
-        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/j57QWe3OoaXL9Idi9gLtsAybWLP.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
+      },
+      {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
-        "title": "They Will Kill You",
-        "description": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a...",
-        "source_link": "https://www.themoviedb.org/movie/1292695"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/gVkNgA7K5dnv26X6PFK8TkY2kFD.jpg",
         "title": "Son-In-Law",
         "description": "Jos\u00e9 S\u00e1nchez has big ambitions, terrible instincts, and a mustache to match. After a string of bad deals, he accidentally bluffs his way into becoming...",
         "source_link": "https://www.themoviedb.org/movie/1651233"
       },
       {
-        "rank": 9,
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+        "title": "They Will Kill You",
+        "description": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a...",
+        "source_link": "https://www.themoviedb.org/movie/1292695"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg",
         "title": "My Dearest Se\u00f1orita",
         "description": "Adela, a solitary only child from a conservative family, spends her days between the family antique shop and the catechism classes she teaches, marked...",
         "source_link": "https://www.themoviedb.org/movie/1239198"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
         "rank": 10,
