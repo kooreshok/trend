@@ -1,69 +1,69 @@
 {
-  "last_updated": "May 02, 2026, 23:38 UTC",
+  "last_updated": "May 03, 2026, 02:33 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "http://cybersecuritynews.com/wp-content/uploads/2026/04/Linux-Kernel-0-Day-Copy-Fail.webp",
-        "title": "Linux Kernel 0-Day \"Copy Fail\" Roots Every Major Distribution Since 2017 - CyberSecurityNews",
-        "description": "A critical zero-day vulnerability in the Linux kernel has been publicly disclosed, enabling any unprivileged local user to obtain root access on virtually every major Linux distribution shipped since 2017. Dubbed \"Copy Fail\" and tracked as CVE-2026-31431, the\u2026",
-        "source_link": "https://cybersecuritynews.com/linux-kernel-0-day-copy-fail/"
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/press_oled_orb-1-1152x648.jpeg",
+        "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS - Ars Technica",
+        "description": "Op-ed: Valve has made a dent in Windows' gaming share, but can it keep going?",
+        "source_link": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/"
       },
       {
         "rank": 2,
-        "image": "https://media.eventhubs.com/images/2026/05/01-mai-kula-doa6-last-roundt.webp",
-        "title": "Despite saying otherwise, Mai Shiranui and Kula Diamond are coming back for Dead or Alive 6: Last Round, but there's a catch - EventHubs",
-        "description": "It's already been almost three months since we first learned about the revival of Dead or Alive, but there's been some mixed messaging since then.Despite stating that Mai Shiranui and Kula Diamond would not be returning for ...",
-        "source_link": "https://www.eventhubs.com/news/2026/may/01/mai-kula-doa6-last-round/"
-      },
-      {
-        "rank": 3,
         "image": "https://assets.warhammer-community.com/1-feature-5kyrzfpj9m.jpg",
         "title": "Warhammer 40,000: Armageddon Unboxing \u2013 The Space Marines - Warhammer Community",
         "description": "What are the Angels of Death bringing to Armageddon?",
         "source_link": "https://www.warhammer-community.com/articles/kunoahk1/warhammer-40000-armageddon-unboxing-the-space-marines"
       },
       {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0008_6.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Severe Linux Copy Fail security flaw uncovered using AI scanning help - The Verge",
+        "description": "The CVE-2026-31431 \u201cCopy Fail\u201d exploit affects nearly all recent Linux distributions, giving attackers with any level of access a way to grant themselves admin privileges without leaving a trail.",
+        "source_link": "https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit"
+      },
+      {
         "rank": 4,
+        "image": "https://gizmodo.com/app/uploads/2026/05/e2-MPD_comet-1200x675.jpg",
+        "title": "NASA\u2019s Lithium-Fed Nuclear Thruster Flares to Life in First of Its Kind Test - Gizmodo",
+        "description": "The next-generation thruster could one day propel humans to Mars.",
+        "source_link": "https://gizmodo.com/nasas-lithium-fed-nuclear-thruster-flares-to-life-in-first-of-its-kind-test-2000753195"
+      },
+      {
+        "rank": 5,
         "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/04/GettyImages-542860355.jpg",
         "title": "Watch Out For Those Fees - Defector",
         "description": "Obviously, going to print with piddly retail squabbles is the stuff of hacks. But I\u2019m hacky enough, and still stunned enough by the upselling tactics, that I just gotta share. I\u2019ve previously noted that some power people here at Defector have occasionally sug\u2026",
         "source_link": "https://defector.com/watch-out-for-those-fees"
       },
       {
-        "rank": 5,
+        "rank": 6,
+        "image": "https://assetsio.gnwcdn.com/subnautica-2-pc-requirements.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Subnautica 2's early access PC system requirements are on the punishing side - Rock Paper Shotgun",
+        "description": "Unknown Worlds and Krafton have released the minimum, recommended and ultra system requirements for Subnautica 2.",
+        "source_link": "https://www.rockpapershotgun.com/subnautica-2s-early-access-system-requirements-are-on-the-punishing-side"
+      },
+      {
+        "rank": 7,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-01.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Next year\u2019s iPhone Pro models could get all-new design, quad-curved display - 9to5Mac",
         "description": "Apple\u2019s rumored 20th anniversary iPhone might actually just be an all-new design that\u2019s coming to next year\u2019s iPhone Pro models.",
         "source_link": "https://9to5mac.com/2026/05/01/next-years-iphone-pro-models-could-get-all-new-design-quad-curved-display/"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://images.macrumors.com/t/uM1O4t-WvpT_0N08sMzApDgK9eg=/1920x/article-new/2026/03/macbook-neo-product-film-feature.jpg",
         "title": "Apple Was Caught Off Guard by MacBook Neo's 'Off the Charts' Demand - MacRumors",
         "description": "Apple's most affordable MacBook ever appears to be a resounding hit with customers, based on comments shared by CEO Tim Cook this week.   On an...",
         "source_link": "https://www.macrumors.com/2026/05/01/apple-was-caught-off-guard-by-macbook-neo/"
       },
       {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-17-pro-dark.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple plans \u2018aggressive pricing\u2019 for iPhone 18 Pro models, per report - 9to5Mac",
-        "description": "Rising memory costs have led to price increases on many Android smartphones, but in a new report, analyst Jeff Pu...",
-        "source_link": "https://9to5mac.com/2026/05/01/apple-plans-aggressive-pricing-for-iphone-18-pro-models-per-report/"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Cosmo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google releases experimental \u2018COSMO\u2019 AI assistant app on Play Store - 9to5Google",
-        "description": "Yesterday, Google published \u201cCOSMO,\u201d an\u00a0\u201cexperimental AI assistant application for Android devices\u201d on the Play Store.",
-        "source_link": "http://9to5google.com/2026/05/01/google-cosmo-assistant/"
-      },
-      {
         "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/the-blood-of-dawnwalker-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "The freeform structure of The Blood of Dawnwalker means \"it is absolutely possible to skip everything\" and beat the game immediately, providing you're skilled enough - Eurogamer",
-        "description": "Speedrunners take note: the freeform nature of The Blood of Dawnwalker means you can attempt to finish it the moment it begins.",
-        "source_link": "https://www.eurogamer.net/blood-of-dawnwalker-speedrun"
+        "image": "https://cdn.mos.cms.futurecdn.net/ph6Wkx7MJ7i6UAg6BWFa5o-1200-80.jpg",
+        "title": "Thinner than a hair and stretchy like rubber: New material could shield against radiation in next-gen space tech - Space",
+        "description": "It can even be 3D-printed.",
+        "source_link": "https://www.space.com/technology/thinner-than-a-hair-and-stretchy-like-rubber-new-material-could-shield-against-radiation-in-next-gen-space-tech"
       }
     ],
     "trending_movies": [
@@ -111,31 +111,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/fRE3KlLo0tBBRtwxThqClvSgk0J.jpg",
-        "title": "Son-in-Law",
-        "description": "Jos\u00e9 S\u00e1nchez has big ambitions, terrible instincts, and a mustache to match. After a string of bad deals, he accidentally bluffs his way into becoming...",
-        "source_link": "https://www.themoviedb.org/movie/1651233"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg",
-        "title": "My Dearest Se\u00f1orita",
-        "description": "A young woman from a traditional family learns she's intersex, sparking a journey of self-discovery, gender identity and love found in unexpected plac...",
-        "source_link": "https://www.themoviedb.org/movie/1239198"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/fRE3KlLo0tBBRtwxThqClvSgk0J.jpg",
+        "title": "Son-in-Law",
+        "description": "Jos\u00e9 S\u00e1nchez has big ambitions, terrible instincts, and a mustache to match. After a string of bad deals, he accidentally bluffs his way into becoming...",
+        "source_link": "https://www.themoviedb.org/movie/1651233"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg",
+        "title": "My Dearest Se\u00f1orita",
+        "description": "A young woman from a traditional family learns she's intersex, sparking a journey of self-discovery, gender identity and love found in unexpected plac...",
+        "source_link": "https://www.themoviedb.org/movie/1239198"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
+        "image": "https://image.tmdb.org/t/p/w200/7yy4cVr9obHOZC9lj3uct4DwDEn.jpg",
+        "title": "Hard Matter",
+        "description": "North America has been divided into four main quadrants. A power-hungry corporation has taken over the conventional prison system and made criminals t...",
+        "source_link": "https://www.themoviedb.org/movie/949536"
       }
     ]
   }
