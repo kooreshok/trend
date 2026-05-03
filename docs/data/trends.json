@@ -1,76 +1,76 @@
 {
-  "last_updated": "May 03, 2026, 18:53 UTC",
+  "last_updated": "May 03, 2026, 19:52 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69f3c23472e65a2da5a7fae1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "Motorola Beats Apple And Samsung: The Razr Ultra 2026 Debuts Innovative Battery Tech - Forbes",
+        "description": "Motorola\u2019s latest is the first major U.S.-focused smartphone brand to use a carbon-silicon battery.",
+        "source_link": "https://www.forbes.com/sites/davidphelan/2026/05/02/motorola-beats-apple-and-samsung-the-razr-ultra-2026-debuts-game-changing-battery-tech/"
+      },
+      {
+        "rank": 2,
+        "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+        "title": "The best AI dictation apps, tested and ranked - TechCrunch",
+        "description": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+        "source_link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/"
+      },
+      {
+        "rank": 3,
+        "image": "https://piunikaweb.com/wp-content/uploads/2026/05/Ask-Jeeves-Logo-Featured-Image.jpg",
+        "title": "Ask.com shuts down after nearly 30 years, marking the end of Ask Jeeves - PiunikaWeb",
+        "description": "After nearly 30 years, Ask.com has officially closed on May 1, 2026. It was the pioneer of question-answering search engines.",
+        "source_link": "https://piunikaweb.com/2026/05/02/ask-com-shuts-down-after-nearly-30-years/"
+      },
+      {
+        "rank": 4,
         "image": "https://unknownworlds.com/_next/image?url=https:/d17c72h1ypygg7.cloudfront.net/Showcase_teasing_1920x1080_0d8b5a13fc.jpg&w=720&q=75",
         "title": "Watch The Subnautica 2 Pre-launch Showcase On May 9! - Unknown Worlds",
         "description": "Watch the Subnautica 2 Pre-Launch Showcase live and claim in-game rewards through Twitch Drops.",
         "source_link": "https://unknownworlds.com/news/subnautica-2-pre-launch-showcase-announce"
       },
       {
-        "rank": 2,
+        "rank": 5,
+        "image": "https://kotaku.com/app/uploads/2026/05/d9139f1dd9320260402102900592-1200x675.jpg",
+        "title": "Crimson Desert Gets A Surprise Feature To Keep Fans Playing - Kotaku",
+        "description": "The latest patch makes an important change to how war works",
+        "source_link": "https://kotaku.com/crimson-desert-1-05-patch-notes-stronghold-blockade-boss-rematch-2000692680"
+      },
+      {
+        "rank": 6,
         "image": "https://imageio.forbes.com/specials-images/imageserve/69f60e19baf8c0b7cb149116/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "The \u2018Diablo 4: Lord Of Hatred\u2019 Build And Class Tier List Is Out - Forbes",
         "description": "It\u2019s been at least a little while since Lord of Hatred launched, and Diablo players are already coming together to figure out what the best current builds are.",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/05/02/the-diablo-4-lord-of-hatred-build-and-class-tier-list-is-out/"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://kotaku.com/app/uploads/2026/05/marvel-snap.jpg",
         "title": "Marvel Snap Dev Tries To Head Off Concerns About Recent Layoffs - Kotaku",
         "description": "Designer Ben Brode said the mobile card game's roadmap hasn't changed",
         "source_link": "https://kotaku.com/marvel-snap-dev-says-painful-layoffs-needed-to-make-sure-we-can-keep-going-2000692674"
       },
       {
-        "rank": 4,
-        "image": "https://www.oregonlive.com/resizer/v2/SDXGJSVCXFGS5IV3WRRGQCZ2U4.jpg?auth=26839fa9325f289aca4f62206af494dc5e02e38d3fcfc3a269451f13e8102418&width=1280&smart=true&quality=90",
-        "title": "Scientists stunned to find thriving life forms in mysterious black goo found in a sealed part of a ship. - OregonLive.com",
-        "description": "DNA testing revealing microbes never seen before by science.",
-        "source_link": "https://www.oregonlive.com/environment/2026/05/a-mysterious-black-goo-was-oozing-from-this-great-lakes-ship-what-scientists-found-inside-has-them-rethinking-everything.html"
-      },
-      {
-        "rank": 5,
+        "rank": 8,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Anker-140W-2-in-1-USB-C-to-USB-C-Cable-Press-Image.jpg?quality=90&strip=all&crop=0,15.095986038394,100,69.808027923211",
         "title": "Anker\u2019s discounted 2-in-1 USB-C cable is a great way to spend $15 - The Verge",
         "description": "Native Union and Anker\u2019s 2-in-1 USB-C cables, which can charge two devices from a single power source, are both on sale, with the cheapest starting at $14.99.",
         "source_link": "https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal"
       },
       {
-        "rank": 6,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/04/smart-home-devices-inside-a-house-shape-connected-via-thread-mesh-network.png?w=1600&h=900&fit=crop",
-        "title": "I moved my smart home off Wi-Fi and onto Thread, and my router finally stopped crashing - Android Police",
-        "description": "Thread fixed the one smart home problem I couldn't troubleshoot away",
-        "source_link": "https://www.androidpolice.com/moved-smart-home-off-wi-fi-onto-thread-router-finally-stopped-crashing/"
-      },
-      {
-        "rank": 7,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Amazon-Wii-DS.jpg",
-        "title": "Former Nintendo exec reveals why it stopped selling Wii and DS systems to Amazon - Nintendo Everything",
-        "description": "Reggie Fils-Aime, former president of Nintendo of America, has shared behind-the-scenes information as to why the company stopped selling Wii and DS systems to Amazon back in the day. Over the years, the two companies have had a bit of tumultuous relationship\u2026",
-        "source_link": "https://nintendoeverything.com/nintendo-amazon-wii-ds-relationship/"
-      },
-      {
-        "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Installer-126.png?quality=90&strip=all&crop=0%2C10.705075966465%2C100%2C78.589848067069&w=1200",
-        "title": "The things we\u2019re building now - The Verge",
-        "description": "Plus: The Steam Controller, The Devil Wears Prada 2, and John Oliver on AI chatbots.",
-        "source_link": "https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer"
-      },
-      {
         "rank": 9,
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/crop-39254016_02c5bf.jpg?quality=75&strip=all&w=1200",
-        "title": "Scientists discover enzyme that could supercharge Ozempic-like weight-loss drugs - New York Post",
-        "description": "Researchers at the University of Utah have discovered an enzyme called Pap B that will chemically change and update drugs like Ozempic and Wegovy making them stronger and last longer.",
-        "source_link": "https://nypost.com/2026/05/02/us-news/scientists-discover-enzyme-that-could-supercharge-ozempic-like-weight-loss-drugs/"
+        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19327023/companion_specials_1920.jpg?w=1600&h=900&fit=crop",
+        "title": "The Outer Worlds will soon be delisted \u2014 but there's a catch - Polygon.com",
+        "description": "The Outer Worlds will be delisted on certain platforms, but the Spacer's Choice Edition will continue to receive updates.",
+        "source_link": "https://www.polygon.com/the-outer-worlds-delisting/"
       },
       {
         "rank": 10,
-        "image": "https://www.bgr.com/img/gallery/old-school-ipods-are-making-a-comeback-thanks-to-a-gen-z-loophole/l-intro-1777299277.jpg",
-        "title": "Old-School iPods Are Making A Comeback Thanks To A Gen Z Loophole - bgr.com",
-        "description": "Old-school iPods are popular with Gen Z, partly because they have no connectivity. That means they can be used in places that iPhones and other devices can't.",
-        "source_link": "https://www.bgr.com/2158017/ipods-making-comeback-thanks-to-gen-z-loophole/"
+        "image": "https://cdn.mos.cms.futurecdn.net/EsRCnnCk9aWqu2uZKBiYNW-2048-80.jpg",
+        "title": "A foundation of Windows security expires in 8 weeks, and your PC might be at risk. Here's how you can avoid the fallout. - Windows Central",
+        "description": "Microsoft's original Windows Secure Boot certificates issued in 2011 expire in June 2026. Here's what that means for your PC and what you can do if you're not eligible for the update.",
+        "source_link": "https://www.windowscentral.com/microsoft/windows/secure-boot-certificates-expire-how-to-check"
       }
     ],
     "trending_movies": [
@@ -83,17 +83,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
-        "title": "The Devil Wears Prada 2",
-        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
-        "source_link": "https://www.themoviedb.org/movie/1314481"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
         "title": "Michael",
         "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
         "source_link": "https://www.themoviedb.org/movie/936075"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
       },
       {
         "rank": 4,
@@ -111,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/hypEABFazVTU4zTZYcVFmaPYdIH.jpg",
-        "title": "Pegasus 3",
-        "description": "Bearing the glory of being the 'King of Bayanbulak', Zhang Chi once again embarks on his racing journey, aiming not only to win the race but also to a...",
-        "source_link": "https://www.themoviedb.org/movie/1462229"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
-        "rank": 9,
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/fRE3KlLo0tBBRtwxThqClvSgk0J.jpg",
         "title": "Son-in-Law",
         "description": "Jos\u00e9 S\u00e1nchez has big ambitions, terrible instincts, and a mustache to match. After a string of bad deals, he accidentally bluffs his way into becoming...",
         "source_link": "https://www.themoviedb.org/movie/1651233"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       }
     ]
   }
