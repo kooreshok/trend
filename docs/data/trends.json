@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 03, 2026, 15:42 UTC",
+  "last_updated": "May 03, 2026, 16:43 UTC",
   "categories": {
     "tech_news": [
       {
@@ -83,7 +83,7 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
         "title": "The Devil Wears Prada 2",
         "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
         "source_link": "https://www.themoviedb.org/movie/1314481"
@@ -97,17 +97,17 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
-        "title": "They Will Kill You",
-        "description": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a...",
-        "source_link": "https://www.themoviedb.org/movie/1292695"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
         "title": "Apex",
         "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's pr...",
         "source_link": "https://www.themoviedb.org/movie/1318447"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+        "title": "They Will Kill You",
+        "description": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a...",
+        "source_link": "https://www.themoviedb.org/movie/1292695"
       },
       {
         "rank": 6,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/fRE3KlLo0tBBRtwxThqClvSgk0J.jpg",
-        "title": "Son-in-Law",
-        "description": "Jos\u00e9 S\u00e1nchez has big ambitions, terrible instincts, and a mustache to match. After a string of bad deals, he accidentally bluffs his way into becoming...",
-        "source_link": "https://www.themoviedb.org/movie/1651233"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
         "title": "Avatar: Fire and Ash",
         "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
         "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/fRE3KlLo0tBBRtwxThqClvSgk0J.jpg",
+        "title": "Son-in-Law",
+        "description": "Jos\u00e9 S\u00e1nchez has big ambitions, terrible instincts, and a mustache to match. After a string of bad deals, he accidentally bluffs his way into becoming...",
+        "source_link": "https://www.themoviedb.org/movie/1651233"
       }
     ]
   }
