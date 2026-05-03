@@ -1,69 +1,69 @@
 {
-  "last_updated": "May 03, 2026, 02:33 UTC",
+  "last_updated": "May 03, 2026, 05:54 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/press_oled_orb-1-1152x648.jpeg",
-        "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS - Ars Technica",
-        "description": "Op-ed: Valve has made a dent in Windows' gaming share, but can it keep going?",
-        "source_link": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/"
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/05/Melty-Blood-Twi-Lumina-Announce_05-02-26.jpg",
+        "title": "Melty Blood: Twi-Lumina announced for PS5, Switch 2, PS4, Xbox One, Switch, and PC - Gematsu",
+        "description": "Publisher Aniplex and developer French-Bread have announced fighting game Melty Blood: Twi-Lumina for PlayStation 5, Switch 2, PlayStation 4, Xbox One, Switch, and PC (Steam). It will launch in ear\u2026",
+        "source_link": "https://www.gematsu.com/2026/05/melty-blood-twi-lumina-announced-for-ps5-switch-2-ps4-xbox-one-switch-and-pc"
       },
       {
         "rank": 2,
+        "image": "https://media.eventhubs.com/images/2026/05/01-mr-karate-fatal-fury-revealt.webp",
+        "title": "Mr. Karate revealed for Fatal Fury: City of the Wolves though he looks a bit different now - EventHubs",
+        "description": "Although it just began months ago, Fatal Fury: City of the Wolves is quickly approaching the end of its second season already, but there's still a few characters left joining the roster soon.During Evo Japan 2026, SNK revealed ...",
+        "source_link": "https://www.eventhubs.com/news/2026/may/01/mr-karate-fatal-fury-reveal/"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.cnet.com/a/img/resize/852a92792d1e2a35d9483043cfc150bc63d087cd/hub/2026/05/01/3fc24634-0fc6-4477-9a6e-b1b1270c58c4/screenshot-2026-05-01-at-12-48-31pm.png?auto=webp&fit=crop&height=675&width=1200",
+        "title": "Google Photos' New AI Tool Will Help You Picture Yourself in All Your Clothes - CNET",
+        "description": "The Google Photos wardrobe feature uses AI to scan your camera roll and create a digital version of your closet.",
+        "source_link": "https://www.cnet.com/tech/services-and-software/google-photos-wardrobe-ai-try-on-feature/"
+      },
+      {
+        "rank": 4,
+        "image": "https://spacenews.com/wp-content/uploads/2026/03/im-5.jpeg",
+        "title": "NASA to increase value of CLPS contract to support surge of lunar lander missions - SpaceNews",
+        "description": "NASA is planning to increase the total value of a contract for robotic lunar lander missions to support a proposed surge in flights for a moon base.",
+        "source_link": "http://spacenews.com/nasa-to-increase-value-of-clps-contract-to-support-surge-of-lunar-lander-missions/"
+      },
+      {
+        "rank": 5,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1338190481-1152x648.jpg",
+        "title": "Study: AI models that consider user's feeling are more likely to make errors - Ars Technica",
+        "description": "Overtuning can cause models to \"prioritize user satisfaction over truthfulness.\u201d...",
+        "source_link": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/"
+      },
+      {
+        "rank": 6,
+        "image": "https://www.pcworld.com/wp-content/uploads/2026/05/Windows-11-logo-2.jpg?quality=50&strip=all&w=1024",
+        "title": "Microsoft\u2019s faster, less annoying Windows 11 is coming into focus - PCWorld",
+        "description": "Microsoft is starting to roll out its promised changes to make Windows 11 cleaner, calmer, faster, and more productive.",
+        "source_link": "https://www.pcworld.com/article/3129795/microsofts-faster-less-annoying-windows-11-is-coming-into-focus.html"
+      },
+      {
+        "rank": 7,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/01/google-gemini-assistant-overlay-hero.jpg?w=1600&h=900&fit=crop",
+        "title": "Google pulls mysterious COSMO app from Play Store - Android Police",
+        "description": "Will we see this at Google I/O?",
+        "source_link": "https://www.androidpolice.com/google-cosmo-makes-its-unofficial-debut/"
+      },
+      {
+        "rank": 8,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/04/Subnautica-2-Release-Date.jpg",
+        "title": "Subnautica 2\u2019s System Requirements Could Have You Diving for a Little Extra RAM Just to Reach 30FPS at 1080p - Wccftech",
+        "description": "Unknown Worlds has revealed Subnautica 2's PC system requirements, and they may have players with older PCs diving for more RAM.",
+        "source_link": "https://wccftech.com/subnautica-2-pc-requirements/"
+      },
+      {
+        "rank": 9,
         "image": "https://assets.warhammer-community.com/1-feature-5kyrzfpj9m.jpg",
         "title": "Warhammer 40,000: Armageddon Unboxing \u2013 The Space Marines - Warhammer Community",
         "description": "What are the Angels of Death bringing to Armageddon?",
         "source_link": "https://www.warhammer-community.com/articles/kunoahk1/warhammer-40000-armageddon-unboxing-the-space-marines"
-      },
-      {
-        "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0008_6.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Severe Linux Copy Fail security flaw uncovered using AI scanning help - The Verge",
-        "description": "The CVE-2026-31431 \u201cCopy Fail\u201d exploit affects nearly all recent Linux distributions, giving attackers with any level of access a way to grant themselves admin privileges without leaving a trail.",
-        "source_link": "https://www.theverge.com/tech/922243/linux-cve-2026-3141-copy-fail-exploit"
-      },
-      {
-        "rank": 4,
-        "image": "https://gizmodo.com/app/uploads/2026/05/e2-MPD_comet-1200x675.jpg",
-        "title": "NASA\u2019s Lithium-Fed Nuclear Thruster Flares to Life in First of Its Kind Test - Gizmodo",
-        "description": "The next-generation thruster could one day propel humans to Mars.",
-        "source_link": "https://gizmodo.com/nasas-lithium-fed-nuclear-thruster-flares-to-life-in-first-of-its-kind-test-2000753195"
-      },
-      {
-        "rank": 5,
-        "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/04/GettyImages-542860355.jpg",
-        "title": "Watch Out For Those Fees - Defector",
-        "description": "Obviously, going to print with piddly retail squabbles is the stuff of hacks. But I\u2019m hacky enough, and still stunned enough by the upselling tactics, that I just gotta share. I\u2019ve previously noted that some power people here at Defector have occasionally sug\u2026",
-        "source_link": "https://defector.com/watch-out-for-those-fees"
-      },
-      {
-        "rank": 6,
-        "image": "https://assetsio.gnwcdn.com/subnautica-2-pc-requirements.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Subnautica 2's early access PC system requirements are on the punishing side - Rock Paper Shotgun",
-        "description": "Unknown Worlds and Krafton have released the minimum, recommended and ultra system requirements for Subnautica 2.",
-        "source_link": "https://www.rockpapershotgun.com/subnautica-2s-early-access-system-requirements-are-on-the-punishing-side"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-01.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Next year\u2019s iPhone Pro models could get all-new design, quad-curved display - 9to5Mac",
-        "description": "Apple\u2019s rumored 20th anniversary iPhone might actually just be an all-new design that\u2019s coming to next year\u2019s iPhone Pro models.",
-        "source_link": "https://9to5mac.com/2026/05/01/next-years-iphone-pro-models-could-get-all-new-design-quad-curved-display/"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.macrumors.com/t/uM1O4t-WvpT_0N08sMzApDgK9eg=/1920x/article-new/2026/03/macbook-neo-product-film-feature.jpg",
-        "title": "Apple Was Caught Off Guard by MacBook Neo's 'Off the Charts' Demand - MacRumors",
-        "description": "Apple's most affordable MacBook ever appears to be a resounding hit with customers, based on comments shared by CEO Tim Cook this week.   On an...",
-        "source_link": "https://www.macrumors.com/2026/05/01/apple-was-caught-off-guard-by-macbook-neo/"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.mos.cms.futurecdn.net/ph6Wkx7MJ7i6UAg6BWFa5o-1200-80.jpg",
-        "title": "Thinner than a hair and stretchy like rubber: New material could shield against radiation in next-gen space tech - Space",
-        "description": "It can even be 3D-printed.",
-        "source_link": "https://www.space.com/technology/thinner-than-a-hair-and-stretchy-like-rubber-new-material-could-shield-against-radiation-in-next-gen-space-tech"
       }
     ],
     "trending_movies": [
@@ -76,10 +76,10 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
-        "title": "Apex",
-        "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's pr...",
-        "source_link": "https://www.themoviedb.org/movie/1318447"
+        "image": "https://image.tmdb.org/t/p/w200/j57QWe3OoaXL9Idi9gLtsAybWLP.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
       },
       {
         "rank": 3,
@@ -90,31 +90,31 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/j57QWe3OoaXL9Idi9gLtsAybWLP.jpg",
-        "title": "Michael",
-        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
+        "image": "https://image.tmdb.org/t/p/w200/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+        "title": "Apex",
+        "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's pr...",
+        "source_link": "https://www.themoviedb.org/movie/1318447"
       },
       {
         "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
         "title": "They Will Kill You",
         "description": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a...",
         "source_link": "https://www.themoviedb.org/movie/1292695"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
         "rank": 8,
@@ -132,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/7yy4cVr9obHOZC9lj3uct4DwDEn.jpg",
-        "title": "Hard Matter",
-        "description": "North America has been divided into four main quadrants. A power-hungry corporation has taken over the conventional prison system and made criminals t...",
-        "source_link": "https://www.themoviedb.org/movie/949536"
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
       }
     ]
   }
