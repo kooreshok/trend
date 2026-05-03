@@ -1,69 +1,76 @@
 {
-  "last_updated": "May 03, 2026, 13:00 UTC",
+  "last_updated": "May 03, 2026, 14:44 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://images.nintendolife.com/de5898374613e/large.jpg",
-        "title": "Melty Blood: \ufeffTwi-Lumina Announced For Switch 1 & 2, Out \"Early 2027\" - Nintendo Life",
-        "description": "\"Type Lumina is back and better than ever\"",
-        "source_link": "https://www.nintendolife.com/news/2026/05/melty-blood-twi-lumina-announced-for-switch-1-and-2-out-early-2027"
+        "image": "https://www.bgr.com/img/gallery/old-school-ipods-are-making-a-comeback-thanks-to-a-gen-z-loophole/l-intro-1777299277.jpg",
+        "title": "Old-School iPods Are Making A Comeback Thanks To A Gen Z Loophole - bgr.com",
+        "description": "Old-school iPods are popular with Gen Z, partly because they have no connectivity. That means they can be used in places that iPhones and other devices can't.",
+        "source_link": "https://www.bgr.com/2158017/ipods-making-comeback-thanks-to-gen-z-loophole/"
       },
       {
         "rank": 2,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/04/google-g-logo-surrounded-by-expressive-workspace-app-icons.png?w=1600&h=900&fit=crop",
+        "title": "Google is finally fixing its most annoying design mistake - Android Police",
+        "description": "I can finally tell Google's apps apart again",
+        "source_link": "https://www.androidpolice.com/google-is-finally-fixing-its-most-annoying-design-mistake/"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.slashgear.com/img/gallery/5-summer-tires-that-outperform-michelin-in-price-and-performance/l-intro-1776072882.jpg",
+        "title": "5 Summer Tires That Outperform Michelin In Price And Performance - SlashGear",
+        "description": "Michelin tires frequently dominate just about every tire test you can think of, but nowadays, there are other options that perform better than the French giant.",
+        "source_link": "https://www.slashgear.com/2157790/summer-tires-that-outperform-michelin-price-performance/"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Galaxy-S26-Ultra-rock-background-scaled.jpeg",
+        "title": "Private or not, I couldn't live with the S26 Ultra's screen - Android Authority",
+        "description": "The Privacy Display on the Galaxy S26 Ultra is an impressive feat of engineering, but as much as I want to love it, I can't use it.",
+        "source_link": "https://www.androidauthority.com/couldnt-live-with-s26-screen-3660952/"
+      },
+      {
+        "rank": 5,
+        "image": "https://assets-prd.ignimgs.com/2026/05/02/ss-54b5c0b89a83fd2383b67861c148144461d5a87c-1920x1080-1777701431888.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Crimson Desert Update 1.05.00 Out Now \u2014 Check Out the Patch Notes - IGN",
+        "description": "Crimson Desert developer Pearl Abyss has dropped another major patch for the game, this time adding brand new features designed for endgame players who had cleared out the world of combat. Check out the 1.05.00 patch notes.",
+        "source_link": "https://www.ign.com/articles/crimson-desert-gets-major-patch-designed-for-players-whod-made-pywel-too-peaceful-because-theyd-killed-all-the-enemies"
+      },
+      {
+        "rank": 6,
+        "image": "https://cdn.mos.cms.futurecdn.net/LZQ4Wtm5fAMyx6xtWdcNgg-2000-80.jpg",
+        "title": "Your Roku TV is watching you \u2014 3 settings to change right now - Tom's Guide",
+        "description": "The hidden Roku settings that are snitching on your viewing habits",
+        "source_link": "https://www.tomsguide.com/entertainment/streaming-devices/how-to-stop-your-roku-from-tracking-everything-you-watch"
+      },
+      {
+        "rank": 7,
         "image": "https://media.eventhubs.com/images/2026/05/01-mr-karate-fatal-fury-revealt.webp",
         "title": "Mr. Karate revealed for Fatal Fury: City of the Wolves though he looks a bit different now - EventHubs",
         "description": "Although it just began months ago, Fatal Fury: City of the Wolves is quickly approaching the end of its second season already, but there's still a few characters left joining the roster soon.During Evo Japan 2026, SNK revealed ...",
         "source_link": "https://www.eventhubs.com/news/2026/may/01/mr-karate-fatal-fury-reveal/"
       },
       {
-        "rank": 3,
+        "rank": 8,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Super-Mario-Galaxy-2-Rosalina-storybook-explained.webp",
+        "title": "Super Mario Galaxy 2\u2019s new storybook epilogue explained - Nintendo Everything",
+        "description": "Super Mario Galaxy 2 has added a new chapter of Rosalina's Storybook. Here's what it could mean for the story.",
+        "source_link": "https://nintendoeverything.com/super-mario-galaxy-2s-new-storybook-epilogue-explained/"
+      },
+      {
+        "rank": 9,
         "image": "https://www.cnet.com/a/img/resize/852a92792d1e2a35d9483043cfc150bc63d087cd/hub/2026/05/01/3fc24634-0fc6-4477-9a6e-b1b1270c58c4/screenshot-2026-05-01-at-12-48-31pm.png?auto=webp&fit=crop&height=675&width=1200",
         "title": "Google Photos' New AI Tool Will Help You Picture Yourself in All Your Clothes - CNET",
         "description": "The Google Photos wardrobe feature uses AI to scan your camera roll and create a digital version of your closet.",
         "source_link": "https://www.cnet.com/tech/services-and-software/google-photos-wardrobe-ai-try-on-feature/"
       },
       {
-        "rank": 4,
+        "rank": 10,
         "image": "https://spacenews.com/wp-content/uploads/2026/03/im-5.jpeg",
         "title": "NASA to increase value of CLPS contract to support surge of lunar lander missions - SpaceNews",
         "description": "NASA is planning to increase the total value of a contract for robotic lunar lander missions to support a proposed surge in flights for a moon base.",
         "source_link": "http://spacenews.com/nasa-to-increase-value-of-clps-contract-to-support-surge-of-lunar-lander-missions/"
-      },
-      {
-        "rank": 5,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1338190481-1152x648.jpg",
-        "title": "Study: AI models that consider user's feeling are more likely to make errors - Ars Technica",
-        "description": "Overtuning can cause models to \"prioritize user satisfaction over truthfulness.\u201d...",
-        "source_link": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/press_oled_orb-1-1152x648.jpeg",
-        "title": "The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS - Ars Technica",
-        "description": "Op-ed: Valve has made a dent in Windows' gaming share, but can it keep going?",
-        "source_link": "https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/"
-      },
-      {
-        "rank": 7,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/04/Subnautica-2-Release-Date.jpg",
-        "title": "Subnautica 2\u2019s System Requirements Could Have You Diving for a Little Extra RAM Just to Reach 30FPS at 1080p - Wccftech",
-        "description": "Unknown Worlds has revealed Subnautica 2's PC system requirements, and they may have players with older PCs diving for more RAM.",
-        "source_link": "https://wccftech.com/subnautica-2-pc-requirements/"
-      },
-      {
-        "rank": 8,
-        "image": "https://assets.warhammer-community.com/1-feature-5kyrzfpj9m.jpg",
-        "title": "Warhammer 40,000: Armageddon Unboxing \u2013 The Space Marines - Warhammer Community",
-        "description": "What are the Angels of Death bringing to Armageddon?",
-        "source_link": "https://www.warhammer-community.com/articles/kunoahk1/warhammer-40000-armageddon-unboxing-the-space-marines"
-      },
-      {
-        "rank": 9,
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilUS_xmTpvaJtwhFTnxsBtKSx2hWroMJKWUCKeB_CNx_9-5T85bdpqGfTZ0__XITi-i6ZnndaiiiFggf3Cgf-35KK-G6sEwvnlqom2DK6U-oH_o9GhEGNyd9kiSti-QC_dpl3v7b7IniC9kAUzV265yVbVsWAnLnH1RfQxrftUHj5MFAm03MOBw3Z6UEVb/s1600/phish.jpg",
-        "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign - The Hacker News",
-        "description": "30,000 Facebook accounts hacked via AppSheet phishing emails, exploiting Meta lures, leading to large-scale account theft and resale.",
-        "source_link": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html"
       }
     ],
     "trending_movies": [
@@ -83,31 +90,31 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/j57QWe3OoaXL9Idi9gLtsAybWLP.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
         "title": "Michael",
         "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
         "source_link": "https://www.themoviedb.org/movie/936075"
       },
       {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
         "title": "They Will Kill You",
         "description": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a...",
         "source_link": "https://www.themoviedb.org/movie/1292695"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
         "title": "Apex",
         "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's pr...",
         "source_link": "https://www.themoviedb.org/movie/1318447"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
         "rank": 7,
@@ -132,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
-        "title": "Hokum",
-        "description": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Dist...",
-        "source_link": "https://www.themoviedb.org/movie/1430077"
+        "image": "https://image.tmdb.org/t/p/w200/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       }
     ]
   }
