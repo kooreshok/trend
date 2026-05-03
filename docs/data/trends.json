@@ -1,76 +1,76 @@
 {
-  "last_updated": "May 03, 2026, 16:43 UTC",
+  "last_updated": "May 03, 2026, 17:42 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://unknownworlds.com/_next/image?url=https:/d17c72h1ypygg7.cloudfront.net/Showcase_teasing_1920x1080_0d8b5a13fc.jpg&w=720&q=75",
+        "title": "Watch The Subnautica 2 Pre-launch Showcase On May 9! - Unknown Worlds",
+        "description": "Watch the Subnautica 2 Pre-Launch Showcase live and claim in-game rewards through Twitch Drops.",
+        "source_link": "https://unknownworlds.com/news/subnautica-2-pre-launch-showcase-announce"
+      },
+      {
+        "rank": 2,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69f60e19baf8c0b7cb149116/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "The \u2018Diablo 4: Lord Of Hatred\u2019 Build And Class Tier List Is Out - Forbes",
+        "description": "It\u2019s been at least a little while since Lord of Hatred launched, and Diablo players are already coming together to figure out what the best current builds are.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/05/02/the-diablo-4-lord-of-hatred-build-and-class-tier-list-is-out/"
+      },
+      {
+        "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2026/05/marvel-snap.jpg",
+        "title": "Marvel Snap Dev Tries To Head Off Concerns About Recent Layoffs - Kotaku",
+        "description": "Designer Ben Brode said the mobile card game's roadmap hasn't changed",
+        "source_link": "https://kotaku.com/marvel-snap-dev-says-painful-layoffs-needed-to-make-sure-we-can-keep-going-2000692674"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.oregonlive.com/resizer/v2/SDXGJSVCXFGS5IV3WRRGQCZ2U4.jpg?auth=26839fa9325f289aca4f62206af494dc5e02e38d3fcfc3a269451f13e8102418&width=1280&smart=true&quality=90",
+        "title": "Scientists stunned to find thriving life forms in mysterious black goo found in a sealed part of a ship. - OregonLive.com",
+        "description": "DNA testing revealing microbes never seen before by science.",
+        "source_link": "https://www.oregonlive.com/environment/2026/05/a-mysterious-black-goo-was-oozing-from-this-great-lakes-ship-what-scientists-found-inside-has-them-rethinking-everything.html"
+      },
+      {
+        "rank": 5,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Anker-140W-2-in-1-USB-C-to-USB-C-Cable-Press-Image.jpg?quality=90&strip=all&crop=0,15.095986038394,100,69.808027923211",
+        "title": "Anker\u2019s discounted 2-in-1 USB-C cable is a great way to spend $15 - The Verge",
+        "description": "Native Union and Anker\u2019s 2-in-1 USB-C cables, which can charge two devices from a single power source, are both on sale, with the cheapest starting at $14.99.",
+        "source_link": "https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal"
+      },
+      {
+        "rank": 6,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/04/smart-home-devices-inside-a-house-shape-connected-via-thread-mesh-network.png?w=1600&h=900&fit=crop",
+        "title": "I moved my smart home off Wi-Fi and onto Thread, and my router finally stopped crashing - Android Police",
+        "description": "Thread fixed the one smart home problem I couldn't troubleshoot away",
+        "source_link": "https://www.androidpolice.com/moved-smart-home-off-wi-fi-onto-thread-router-finally-stopped-crashing/"
+      },
+      {
+        "rank": 7,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Amazon-Wii-DS.jpg",
+        "title": "Former Nintendo exec reveals why it stopped selling Wii and DS systems to Amazon - Nintendo Everything",
+        "description": "Reggie Fils-Aime, former president of Nintendo of America, has shared behind-the-scenes information as to why the company stopped selling Wii and DS systems to Amazon back in the day. Over the years, the two companies have had a bit of tumultuous relationship\u2026",
+        "source_link": "https://nintendoeverything.com/nintendo-amazon-wii-ds-relationship/"
+      },
+      {
+        "rank": 8,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Installer-126.png?quality=90&strip=all&crop=0%2C10.705075966465%2C100%2C78.589848067069&w=1200",
+        "title": "The things we\u2019re building now - The Verge",
+        "description": "Plus: The Steam Controller, The Devil Wears Prada 2, and John Oliver on AI chatbots.",
+        "source_link": "https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer"
+      },
+      {
+        "rank": 9,
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/crop-39254016_02c5bf.jpg?quality=75&strip=all&w=1200",
+        "title": "Scientists discover enzyme that could supercharge Ozempic-like weight-loss drugs - New York Post",
+        "description": "Researchers at the University of Utah have discovered an enzyme called Pap B that will chemically change and update drugs like Ozempic and Wegovy making them stronger and last longer.",
+        "source_link": "https://nypost.com/2026/05/02/us-news/scientists-discover-enzyme-that-could-supercharge-ozempic-like-weight-loss-drugs/"
+      },
+      {
+        "rank": 10,
         "image": "https://www.bgr.com/img/gallery/old-school-ipods-are-making-a-comeback-thanks-to-a-gen-z-loophole/l-intro-1777299277.jpg",
         "title": "Old-School iPods Are Making A Comeback Thanks To A Gen Z Loophole - bgr.com",
         "description": "Old-school iPods are popular with Gen Z, partly because they have no connectivity. That means they can be used in places that iPhones and other devices can't.",
         "source_link": "https://www.bgr.com/2158017/ipods-making-comeback-thanks-to-gen-z-loophole/"
-      },
-      {
-        "rank": 2,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/04/google-g-logo-surrounded-by-expressive-workspace-app-icons.png?w=1600&h=900&fit=crop",
-        "title": "Google is finally fixing its most annoying design mistake - Android Police",
-        "description": "I can finally tell Google's apps apart again",
-        "source_link": "https://www.androidpolice.com/google-is-finally-fixing-its-most-annoying-design-mistake/"
-      },
-      {
-        "rank": 3,
-        "image": "https://www.slashgear.com/img/gallery/5-summer-tires-that-outperform-michelin-in-price-and-performance/l-intro-1776072882.jpg",
-        "title": "5 Summer Tires That Outperform Michelin In Price And Performance - SlashGear",
-        "description": "Michelin tires frequently dominate just about every tire test you can think of, but nowadays, there are other options that perform better than the French giant.",
-        "source_link": "https://www.slashgear.com/2157790/summer-tires-that-outperform-michelin-price-performance/"
-      },
-      {
-        "rank": 4,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/04/Galaxy-S26-Ultra-rock-background-scaled.jpeg",
-        "title": "Private or not, I couldn't live with the S26 Ultra's screen - Android Authority",
-        "description": "The Privacy Display on the Galaxy S26 Ultra is an impressive feat of engineering, but as much as I want to love it, I can't use it.",
-        "source_link": "https://www.androidauthority.com/couldnt-live-with-s26-screen-3660952/"
-      },
-      {
-        "rank": 5,
-        "image": "https://assets-prd.ignimgs.com/2026/05/02/ss-54b5c0b89a83fd2383b67861c148144461d5a87c-1920x1080-1777701431888.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Crimson Desert Update 1.05.00 Out Now \u2014 Check Out the Patch Notes - IGN",
-        "description": "Crimson Desert developer Pearl Abyss has dropped another major patch for the game, this time adding brand new features designed for endgame players who had cleared out the world of combat. Check out the 1.05.00 patch notes.",
-        "source_link": "https://www.ign.com/articles/crimson-desert-gets-major-patch-designed-for-players-whod-made-pywel-too-peaceful-because-theyd-killed-all-the-enemies"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.mos.cms.futurecdn.net/LZQ4Wtm5fAMyx6xtWdcNgg-2000-80.jpg",
-        "title": "Your Roku TV is watching you \u2014 3 settings to change right now - Tom's Guide",
-        "description": "The hidden Roku settings that are snitching on your viewing habits",
-        "source_link": "https://www.tomsguide.com/entertainment/streaming-devices/how-to-stop-your-roku-from-tracking-everything-you-watch"
-      },
-      {
-        "rank": 7,
-        "image": "https://media.eventhubs.com/images/2026/05/01-mr-karate-fatal-fury-revealt.webp",
-        "title": "Mr. Karate revealed for Fatal Fury: City of the Wolves though he looks a bit different now - EventHubs",
-        "description": "Although it just began months ago, Fatal Fury: City of the Wolves is quickly approaching the end of its second season already, but there's still a few characters left joining the roster soon.During Evo Japan 2026, SNK revealed ...",
-        "source_link": "https://www.eventhubs.com/news/2026/may/01/mr-karate-fatal-fury-reveal/"
-      },
-      {
-        "rank": 8,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Super-Mario-Galaxy-2-Rosalina-storybook-explained.webp",
-        "title": "Super Mario Galaxy 2\u2019s new storybook epilogue explained - Nintendo Everything",
-        "description": "Super Mario Galaxy 2 has added a new chapter of Rosalina's Storybook. Here's what it could mean for the story.",
-        "source_link": "https://nintendoeverything.com/super-mario-galaxy-2s-new-storybook-epilogue-explained/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.cnet.com/a/img/resize/852a92792d1e2a35d9483043cfc150bc63d087cd/hub/2026/05/01/3fc24634-0fc6-4477-9a6e-b1b1270c58c4/screenshot-2026-05-01-at-12-48-31pm.png?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Google Photos' New AI Tool Will Help You Picture Yourself in All Your Clothes - CNET",
-        "description": "The Google Photos wardrobe feature uses AI to scan your camera roll and create a digital version of your closet.",
-        "source_link": "https://www.cnet.com/tech/services-and-software/google-photos-wardrobe-ai-try-on-feature/"
-      },
-      {
-        "rank": 10,
-        "image": "https://spacenews.com/wp-content/uploads/2026/03/im-5.jpeg",
-        "title": "NASA to increase value of CLPS contract to support surge of lunar lander missions - SpaceNews",
-        "description": "NASA is planning to increase the total value of a contract for robotic lunar lander missions to support a proposed surge in flights for a moon base.",
-        "source_link": "http://spacenews.com/nasa-to-increase-value-of-clps-contract-to-support-surge-of-lunar-lander-missions/"
       }
     ],
     "trending_movies": [
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
-        "title": "Avatar: Fire and Ash",
-        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
-        "source_link": "https://www.themoviedb.org/movie/83533"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/fRE3KlLo0tBBRtwxThqClvSgk0J.jpg",
         "title": "Son-in-Law",
         "description": "Jos\u00e9 S\u00e1nchez has big ambitions, terrible instincts, and a mustache to match. After a string of bad deals, he accidentally bluffs his way into becoming...",
         "source_link": "https://www.themoviedb.org/movie/1651233"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
       }
     ]
   }
