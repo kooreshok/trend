@@ -1,76 +1,76 @@
 {
-  "last_updated": "May 04, 2026, 17:43 UTC",
+  "last_updated": "May 04, 2026, 19:23 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assetsio.gnwcdn.com/MarvelSnap_2023_S18_KA_V08.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Marvel Snap studio insists: \"This is us making hard decisions to keep going, not a sign we're winding down\" - Eurogamer.net",
+        "description": "Marvel Snap developer Second Dinner has assured fans \"we're still here\" after high-profile exits triggered fears about \u2026",
+        "source_link": "https://www.eurogamer.net/marvel-snap-studio-insists-this-is-us-making-hard-decisions-to-keep-going-not-a-sign-were-winding-down"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.bleepstatic.com/content/hl-images/2024/01/26/microsoft-red-header.jpg",
+        "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha - BleepingComputer",
+        "description": "Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, and in some cases,\u00a0removing\u00a0certificates from Windows.",
+        "source_link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/"
+      },
+      {
+        "rank": 3,
         "image": "https://images.nintendolife.com/d3cb4bd2680d3/large.jpg",
         "title": "ICYMI: Indiana Jones And The Great Circle Estimated Switch 2 File Size Revealed - Nintendo Life",
         "description": "Make some space",
         "source_link": "https://www.nintendolife.com/news/2026/05/icymi-indiana-jones-and-the-great-circle-estimated-switch-2-file-size-revealed"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/AMD-Ryzen-AI-MAX-495-Gorgon-Halo-APU-1920x1080.jpg",
+        "title": "AMD Ryzen AI MAX+ 495 \u201cGorgon Halo\u201d Leak Smokes Strix Halo by 10%, Packs 192GB Memory and Radeon 8065S - Wccftech",
+        "description": "AMD's next-generation Halo flagship, the Ryzen AI MAX+ 495, has leaked out, featuring a 10% bump in performance & a new Radeon 8065 iGPU.",
+        "source_link": "https://wccftech.com/amd-ryzen-ai-max-495-gorgon-halo-leak-192gb-memory-radeon-8065s/"
+      },
+      {
+        "rank": 5,
         "image": "https://kotaku.com/app/uploads/2026/05/invictusfallguys-1198x675.jpg",
         "title": "Rumored Assassin\u2019s Creed PvP Game\u2019s Playtest Reportedly A Huge Letdown - Kotaku",
         "description": "The repeatedly delayed and much speculated Fall Guys-esque \u201cAssassin\u2019s Creed Invictus\u201d had a reportedly rocky outing last month",
         "source_link": "https://kotaku.com/rumored-assassins-creed-invictus-pvp-games-playtest-reportedly-a-huge-letdown-2000692801"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://assets.warhammer-community.com/sundaypreview-may03-1-feature-yfywhjaw0q.jpg",
+        "title": "Sunday Preview \u2013 Take on the Red Terror - Warhammer Community",
+        "description": "Sunday Preview \u2013 Take on the Red Terror",
+        "source_link": "https://www.warhammer-community.com/articles/mmvq6nnx/sunday-preview-take-on-the-red-terror"
+      },
+      {
+        "rank": 7,
+        "image": "https://assets-prd.ignimgs.com/2024/09/25/ps5-pro-handsonpreview-blogroll-1727223976585.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Sony Lawsuit Settlement May Result in PlayStation Refunds - IGN",
+        "description": "Select PlayStation users may be eligible for refunds tied to digital PSN purchases after a judge offered preliminary approval for a class action lawsuit settlement.",
+        "source_link": "https://www.ign.com/articles/sony-expected-to-pay-78-million-in-playstation-refunds-after-psn-lawsuit-settlement-gets-preliminary-approval-from-california-judge"
+      },
+      {
+        "rank": 8,
         "image": "https://kotaku.com/app/uploads/2026/05/thisisfine.jpg",
         "title": "\"This Is Fine\" Dog Fights For Therapy In Official Metroidvania - Kotaku",
         "description": "In This Is Fine: Maximum Cope, help Question Hound overcome his anxieties in this nightmare-inspired video game debut",
         "source_link": "https://kotaku.com/this-is-fine-dog-fights-for-overdue-therapy-in-official-metroidvania-2000692724"
       },
       {
-        "rank": 4,
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25158242/94827653.jpg?quality=90&strip=all&crop=0%2C9.3193310470797%2C100%2C81.361337905841&w=1200",
         "title": "Reggie Fils-Aim\u00e9 says Amazon once asked Nintendo to break the law - The Verge",
         "description": "Amazon wanted \u2018obscene\u2019 financial support to undercut Walmart on Nintendo consoles.",
         "source_link": "https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal"
       },
       {
-        "rank": 5,
+        "rank": 10,
         "image": "https://cdn.neowin.com/news/images/uploaded/2026/03/1774274688_windows_11_neowin_logo_red_story.webp",
         "title": "Registry hack lets you bypass Windows 11 KB5083769, KB5083631 patch that blocks some apps - Neowin",
         "description": "Microsoft earlier confirmed that its latest Windows 11 updates under KB5083769 and KB5083631 have new entries in its blocklist. A Registry fix can unpatch it.",
         "source_link": "https://www.neowin.net/news/registry-hack-lets-you-bypass-windows-11-kb5083769-kb5083631-patch-that-blocks-some-apps/"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.bgr.com/img/gallery/why-almost-no-one-needs-an-rfid-blocking-wallet-anymore/l-intro-1776717944.jpg",
-        "title": "Why Almost No One Needs An RFID Blocking Wallet Anymore - bgr.com",
-        "description": "One of the more common wallet types you'll see are ones with RFID blocking technology, but it may not be as effective as deterring theft as you think.",
-        "source_link": "https://www.bgr.com/2158163/why-almost-no-one-needs-rfid-blocking-wallet-anymore/"
-      },
-      {
-        "rank": 7,
-        "image": "https://s.yimg.com/ny/api/res/1.2/rzrkGLAFNqg5NTFirgnOyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMTE0O2NmPXdlYnA-/https://media.zenfs.com/en/popular_mechanics_642/f918c3644c937723c35ab0ba5aefeba2",
-        "title": "All Life on Earth Comes From One Single Ancestor. And It's So Much Older Than We Thought. - Yahoo",
-        "description": "All life on Earth can be traced back to a Last Universal Common Ancestor, or LUCA\u2014and it likely lived on Earth only 400 million years after its formation.",
-        "source_link": "https://www.popularmechanics.com/science/environment/a71195054/one-single-ancestor-life-luca-found/"
-      },
-      {
-        "rank": 8,
-        "image": null,
-        "title": "2026 Toyota Tacoma vs. Toyota 4Runner: To Truck or Not to Truck? - Edmunds",
-        "description": null,
-        "source_link": "https://www.edmunds.com/car-news/2026-toyota-4runner-toyota-tacoma-spec-comparison.html"
-      },
-      {
-        "rank": 9,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/04/IMG_7411-1.jpg?resize=1200,900",
-        "title": "This tiny, magnetic e-reader could stop you from doomscrolling - TechCrunch",
-        "description": "The Xteink X3 is a delightfully tiny, MagSafe-compatible e-ink reader that attaches to the back of your phone like a Pop Socket.",
-        "source_link": "https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/"
-      },
-      {
-        "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Vrg_illo_squirrel_influencer.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "How the internet\u2019s favorite squirrel dad made the hottest camera app of 2026 - The Verge",
-        "description": "Derrick Downey Jr. is known for his videos starring neighborhood squirrels. He\u2019s also the developer behind a popular new app: DualShot Recorder.",
-        "source_link": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr"
       }
     ],
     "trending_movies": [
@@ -104,38 +104,38 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
-        "title": "Apex",
-        "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's pr...",
-        "source_link": "https://www.themoviedb.org/movie/1318447"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
         "title": "Mortal Kombat II",
         "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
         "source_link": "https://www.themoviedb.org/movie/931285"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+        "title": "Apex",
+        "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's pr...",
+        "source_link": "https://www.themoviedb.org/movie/1318447"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
         "title": "They Will Kill You",
         "description": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a...",
         "source_link": "https://www.themoviedb.org/movie/1292695"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
         "rank": 10,
