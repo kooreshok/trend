@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 04, 2026, 09:13 UTC",
+  "last_updated": "May 04, 2026, 11:44 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,17 +76,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
-        "title": "The Devil Wears Prada 2",
-        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
-        "source_link": "https://www.themoviedb.org/movie/1314481"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
         "title": "Swapped",
         "description": "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives....",
         "source_link": "https://www.themoviedb.org/movie/1007757"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
       },
       {
         "rank": 3,
