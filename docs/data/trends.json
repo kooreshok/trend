@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 05, 2026, 08:03 UTC",
+  "last_updated": "May 05, 2026, 10:42 UTC",
   "categories": {
     "tech_news": [
       {
@@ -39,38 +39,38 @@
       },
       {
         "rank": 6,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/Gemini-for-Home-Nest-Display-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google Home will roll out Gemini upgrades more widely in Europe, Asia-Pacific this week - 9to5Google",
-        "description": "Following an announcement in early April, Google says that Gemini for Home upgrades are set to roll out more widely...",
-        "source_link": "http://9to5google.com/2026/05/03/google-home-gemini-europe-asia-pacific-broader-rollout/"
-      },
-      {
-        "rank": 7,
         "image": "https://mp1st.com/wp-content/uploads/2026/04/v2-600x338.png",
         "title": "PS6 Early Info on Cloud Streaming, Machine Learning, and New Horror Game Uncovered - MP1st",
         "description": "PS6 advanced machine learning, cloud streaming upgrades, and a new horror game in development on Unreal Engine 5 uncovered.",
         "source_link": "https://mp1st.com/news/ps6-early-info-cloud-streaming-machine-learning-new-horror-game-uncovered"
       },
       {
-        "rank": 8,
-        "image": "https://hackaday.com/wp-content/uploads/2026/04/iPod-nano-Triple-Monitor-Workstation-9-18-screenshot.png",
-        "title": "IPod Nano Gets Three Monitors - Hackaday",
-        "description": "Triple monitor workstations are pretty common these days, particularly for those wishing to maximise screen space for greater productivity. [Will It Work?] has put together a sillier take on this c\u2026",
-        "source_link": "https://hackaday.com/2026/05/03/ipod-nano-gets-three-monitors/"
-      },
-      {
-        "rank": 9,
+        "rank": 7,
         "image": "https://assetsio.gnwcdn.com/MarvelSnap_2023_S18_KA_V08.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Marvel Snap studio insists: \"This is us making hard decisions to keep going, not a sign we're winding down\" - Eurogamer.net",
         "description": "Marvel Snap developer Second Dinner has assured fans \"we're still here\" after high-profile exits triggered fears about \u2026",
         "source_link": "https://www.eurogamer.net/marvel-snap-studio-insists-this-is-us-making-hard-decisions-to-keep-going-not-a-sign-were-winding-down"
       },
       {
-        "rank": 10,
+        "rank": 8,
         "image": "https://cdn.neowin.com/news/images/uploaded/2024/05/1714631433_steam_story.jpg",
         "title": "Valve: 67.74% of Steam users run Windows 11 - Neowin",
         "description": "Valve has released the latest Steam Hardware &amp; Software Survey data, showing Windows 11&#039;s continuous climb among the gaming audience.",
         "source_link": "https://www.neowin.net/news/valve-6774-of-steam-users-run-windows-11/"
+      },
+      {
+        "rank": 9,
+        "image": "https://www.bleepstatic.com/content/hl-images/2024/01/26/microsoft-red-header.jpg",
+        "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha - BleepingComputer",
+        "description": "Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, and in some cases,\u00a0removing\u00a0certificates from Windows.",
+        "source_link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/"
+      },
+      {
+        "rank": 10,
+        "image": "https://insider-gaming.com/wp-content/uploads/2023/11/modern-warfare-32.jpg",
+        "title": "Modern Warfare 4 Being Playtested on PS4, It\u2019s Claimed - Insider Gaming",
+        "description": "A prominent Call of Duty player on social media has claimed to have heard updates about Call of Duty: Modern Warfare 4.",
+        "source_link": "https://insider-gaming.com/modern-warfare-4-being-playtested-on-ps4-its-claimed/"
       }
     ],
     "trending_movies": [
@@ -83,66 +83,66 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-        "title": "Swapped",
-        "description": "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives....",
-        "source_link": "https://www.themoviedb.org/movie/1007757"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
         "title": "The Drama",
         "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
         "source_link": "https://www.themoviedb.org/movie/1325734"
       },
       {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-        "title": "The Devil Wears Prada 2",
-        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
-        "source_link": "https://www.themoviedb.org/movie/1314481"
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
-        "title": "Mortal Kombat II",
-        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
-        "source_link": "https://www.themoviedb.org/movie/931285"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-        "title": "Michael",
-        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
-        "title": "Apex",
-        "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's pr...",
-        "source_link": "https://www.themoviedb.org/movie/1318447"
-      },
-      {
-        "rank": 9,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/2jzjE3OtXekGtn3vdRGXpyWrHe7.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary Greek king of Ithaca, embarks on a long and perilous journey home following the Trojan War, chronicling his encounters with my...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+        "title": "Swapped",
+        "description": "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives....",
+        "source_link": "https://www.themoviedb.org/movie/1007757"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/bfSXubbZatAbr4ShyQUhKsaGe96.jpg",
+        "title": "Mortal Kombat II",
+        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
+        "source_link": "https://www.themoviedb.org/movie/931285"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+        "title": "Apex",
+        "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's pr...",
+        "source_link": "https://www.themoviedb.org/movie/1318447"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       }
     ]
   }
