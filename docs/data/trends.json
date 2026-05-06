@@ -1,76 +1,76 @@
 {
-  "last_updated": "May 06, 2026, 11:02 UTC",
+  "last_updated": "May 06, 2026, 13:59 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2194614711-1152x648.jpg",
+        "title": "Why Reddit blocked my daily visit to its mobile website - Ars Technica",
+        "description": "Reddit REALLY wants you to use its app.",
+        "source_link": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.trueachievements.com/imgs/173893/xbox-is-giving-achievement-art-an-upgrade-on-series-x-consoles.jpg",
+        "title": "Xbox is giving achievement art an upgrade on Series X consoles - TrueAchievements",
+        "description": "Microsoft has rolled out an update to some Xbox Insiders that improves the sharpness of achievement art on Xbox Series X consoles.",
+        "source_link": "https://www.trueachievements.com/news/xbox-achievement-art-upgrade-series-x"
+      },
+      {
+        "rank": 3,
+        "image": "https://compote.slate.com/images/6b1f28bb-ff47-4ba5-b9d5-da627c0c6cfb.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+        "title": "Our Daughter Overheard Some \u2026 Bombastic Noises While Staying at Our Friends\u2019 House. Now She\u2019s Traumatized. - Slate",
+        "description": "I'm not sure if I should tell them.",
+        "source_link": "https://slate.com/advice/2026/05/parenting-advice-sex-noise-trauma.html"
+      },
+      {
+        "rank": 4,
         "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
         "title": "Patch Notes 1.27.0 - ARC Raiders",
         "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
         "source_link": "https://arcraiders.com/news/patch-notes-1-27-0"
       },
       {
-        "rank": 2,
+        "rank": 5,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/galaxy-z-fold-wide-cad-render-1.jpg",
+        "title": "Samsung can't stop leaking its upcoming foldables in One UI 9 - Android Authority",
+        "description": "We dug into Samsung's One UI 9 software and found images showing off the Wide Fold and Galaxy Z Fold 8 devices.",
+        "source_link": "https://www.androidauthority.com/samsung-wide-fold-galaxy-z-fold-8-one-ui-9-leak-3663410/"
+      },
+      {
+        "rank": 6,
+        "image": "http://cybersecuritynews.com/wp-content/uploads/2026/05/Microsoft-Edge-Passwords-Cleartext.webp",
+        "title": "Microsoft Edge Stores All Saved Passwords in Cleartext Process Memory at Launch - CyberSecurityNews",
+        "description": "A security researcher has discovered that Microsoft Edge decrypts every stored password into process memory the moment the browser launches and keeps them there as cleartext, regardless of whether the user ever visits those sites. The finding, disclosed on Ap\u2026",
+        "source_link": "https://cybersecuritynews.com/microsoft-edge-passwords-cleartext/"
+      },
+      {
+        "rank": 7,
+        "image": "https://s.yimg.com/ny/api/res/1.2/86xva0G8ealgfzRMHn_OPA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/18a31b8df395e820373d9d041667c9cd",
+        "title": "Apple Plans to Let Users Build Their Own Passes in iOS 27 Wallet App - Yahoo Finance",
+        "description": "(Bloomberg) -- Apple Inc. is preparing a new \u201cCreate a Pass\u201d feature for its next major iPhone software update, allowing users to build and customize their...",
+        "source_link": "https://finance.yahoo.com/sectors/technology/articles/apple-plans-let-users-build-173410420.html"
+      },
+      {
+        "rank": 8,
         "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/n1/N130B64H34UI1777312890948.jpg",
         "title": "35.4 Patch Notes - Blizzard Entertainment",
         "description": "This patch features the debut of Class Sets, the return of Dual Class Arena, new event rewards, and more!",
         "source_link": "https://playhearthstone.com/en-us/blog/24266874/"
       },
       {
-        "rank": 3,
+        "rank": 9,
         "image": "http://cybersecuritynews.com/wp-content/uploads/2026/05/Defender-Flags-DigiCert-Root-Certificates.webp",
         "title": "Microsoft Defender Mistakenly Flags DigiCert Root Certificates as Malware - CyberSecurityNews",
         "description": "Microsoft Defender triggered widespread false positive alerts after a faulty security update caused it to flag two legitimate DigiCert root certificates as malicious, potentially disrupting SSL/TLS validation and code-signing operations across enterprise envi\u2026",
         "source_link": "https://cybersecuritynews.com/defender-flags-digicert-root-certificates/"
       },
       {
-        "rank": 4,
+        "rank": 10,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/lg-display-5k-220ppi-oled.jpg?quality=90&strip=all&crop=0%2C17.755072907963%2C100%2C64.489854184073&w=1200",
         "title": "LG Display has a 27-inch 5K OLED screen. - The Verge",
         "description": "",
         "source_link": "https://www.theverge.com/tech/923831/lg-display-has-a-27-inch-5k-oled-monitor-panel-at-sid"
-      },
-      {
-        "rank": 5,
-        "image": "https://images.nintendolife.com/18d93b561af79/large.jpg",
-        "title": "007 First Light's Campaign Length Reportedly Revealed - Nintendo Life",
-        "description": "And there'll be plenty of replay value",
-        "source_link": "https://www.nintendolife.com/news/2026/05/007-first-lights-campaign-length-reportedly-revealed"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0014.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
-        "title": "Valve just imported 50 tons of game consoles in two days - The Verge",
-        "description": "Valve imported roughly 50 tons of \u201cGame Consoles\u201d into the United States in the two-day period between May 1st and April 30th, according to import records.",
-        "source_link": "https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Video offers clearest look yet at foldable iPhone Ultra dummy unit - 9to5Mac",
-        "description": "Unbox Therapy has published a 10-minute close-up look at a dummy unit that aligns with what the iPhone Ultra is increasingly expected to look like.",
-        "source_link": "https://9to5mac.com/2026/05/04/video-offers-clearest-look-yet-at-foldable-iphone-ultra-dummy-unit/"
-      },
-      {
-        "rank": 8,
-        "image": "https://kubrick.htvapps.com/htv-prod/images/7c3abdc2-5339-4bcc-a782-8331a85c503c.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-        "title": "Cruise ship outbreaks hit 23 in 2025, with norovirus the most common virus - WLWT",
-        "description": "While taking a cruise is generally safe, having a high concentration of people in a semienclosed space makes it easy for viruses to spread among passengers.",
-        "source_link": "https://www.wlwt.com/article/cruise-ship-outbreaks/71201503"
-      },
-      {
-        "rank": 9,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/05/lukas-NLSXFjl_nhc-unsplash.jpg?resize=1200,975",
-        "title": "US government warns of severe CopyFail bug affecting major versions of Linux - TechCrunch",
-        "description": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux.",
-        "source_link": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/"
-      },
-      {
-        "rank": 10,
-        "image": "https://regmedia.co.uk/2024/11/13/2024_mac_mini.jpg",
-        "title": "Bad news for OpenClaw stans: Apple\u2019s Mac Mini now starts at $799 - theregister.com",
-        "description": ": The tiny desktop is no longer Apple's most affordable computer",
-        "source_link": "https://www.theregister.com/2026/05/04/mac_mini_ai_memory/"
       }
     ],
     "trending_movies": [
@@ -90,31 +90,31 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
-        "title": "Ready or Not 2: Here I Come",
-        "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
-        "source_link": "https://www.themoviedb.org/movie/1266127"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
         "title": "Swapped",
         "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
         "source_link": "https://www.themoviedb.org/movie/1007757"
       },
       {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/oR1oiQ3YnpWjRE42I0Rb8LBd8Dg.jpg",
+        "title": "Ready or Not 2: Here I Come",
+        "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
+        "source_link": "https://www.themoviedb.org/movie/1266127"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
         "title": "Mortal Kombat II",
         "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
         "source_link": "https://www.themoviedb.org/movie/931285"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
       },
       {
         "rank": 7,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-        "title": "Michael",
-        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/2jzjE3OtXekGtn3vdRGXpyWrHe7.jpg",
-        "title": "The Odyssey",
-        "description": "In this adaptation of Homer\u2019s epic, we follow Odysseus, the legendary King of Ithaca, on his long and perilous journey home following the Trojan War. ...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
         "title": "Evil Dead Burn",
         "description": "After the loss of her husband, a woman seeks solace with her in-laws in their secluded family home. As one by one they are transformed into Deadites\u2014t...",
         "source_link": "https://www.themoviedb.org/movie/1212763"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+        "title": "Apex",
+        "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's pr...",
+        "source_link": "https://www.themoviedb.org/movie/1318447"
       }
     ]
   }
