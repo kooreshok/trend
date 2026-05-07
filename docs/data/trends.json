@@ -1,62 +1,76 @@
 {
-  "last_updated": "May 07, 2026, 11:06 UTC",
+  "last_updated": "May 07, 2026, 13:57 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/05/Yug1-1.jpg",
+        "title": "Man Finds $1 Million Worth of Yu-Gi-Oh Cards in a Dumpster - 404 Media",
+        "description": "It was already a sordid tale of online drama, blurry photographs, and erratic TikToks. Then his mom started posting.",
+        "source_link": "https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-quick-settings-1_a4f5a7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Liquid Glass for Android is \u2018not happening,\u2019 at least not for Pixels - 9to5Google",
+        "description": "Apple\u2019s Liquid Glass redesign of its platforms, especially iOS, has been divisive to say the least but, thankfully, Google\u2019s President...",
+        "source_link": "http://9to5google.com/2026/05/06/liquid-glass-for-android-is-not-happening-at-least-not-for-pixels/"
+      },
+      {
+        "rank": 3,
+        "image": "https://assets.warhammer-community.com/kt_bossbattles-may06-1-feature-jnxapkzp6v.jpg",
+        "title": "How do you kill a tank-sized monster in Kill Team? - Warhammer Community",
+        "description": "Take on the Red Terror with new rules and missions.",
+        "source_link": "https://www.warhammer-community.com/articles/ij95ia48/how-do-you-kill-a-tank-sized-monster-in-kill-team"
+      },
+      {
+        "rank": 4,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/1-reMarkable_Paper_Pure_Packshot.jpeg?resize=1200,675",
+        "title": "reMarkable\u2019s new Paper Pure tablet goes back to basics with a monochrome screen - TechCrunch",
+        "description": "The new Paper Pure is lighter and faster than the reMarkable 2, which is going to be retired six years since its launch.",
+        "source_link": "https://techcrunch.com/2026/05/06/remarkables-new-paper-pure-tablet-goes-back-to-basics-with-a-monochrome-screen/"
+      },
+      {
+        "rank": 5,
+        "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/05/04091931/Samsung-Mobile-One-UI-8.5-Galaxy-S25_Thumb932.jpg",
+        "title": "Samsung\u2019s One UI 8.5 Official Rollout Starts May 6 - samsung.com",
+        "description": "Samsung is expanding the One UI 8.5 rollout to more devices, bringing the latest Galaxy AI features across the Samsung Galaxy ecosystem.1 The update focuses on enhancing communication and creative experiences on Galaxy mobile phones and tablets, including the\u2026",
+        "source_link": "https://news.samsung.com/global/samsungs-one-ui-8-5-official-rollout-starts-may-6"
+      },
+      {
+        "rank": 6,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/siri-services-apps.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple may have just made one of the most important new Siri announcements - 9to5Mac",
+        "description": "Apple\u2019s painfully slow launch of the new Siri has become such a long-running saga, it seems to have all the...",
+        "source_link": "https://9to5mac.com/2026/05/06/apple-may-have-just-made-one-of-the-most-important-new-siri-announcements/"
+      },
+      {
+        "rank": 7,
+        "image": "https://assets-prd.ignimgs.com/2026/05/06/boobie-ike-01-8aee3bef-1778064108354.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "GTA 6 Estimated to Have Cost Take-Two $1 Billion to $1.5 Billion So Far, CEO Strauss Zelnick Says 'It Was Expensive' - IGN",
+        "description": "GTA 6 may well be the most expensive video game ever made, with parent company Take-Two estimated to have spent $1 billion to $1.5 billion so far.",
+        "source_link": "https://www.ign.com/articles/gta-6-estimated-to-have-cost-take-two-1-billion-to-15-billion-so-far-ceo-strauss-zelnick-says-it-was-expensive"
+      },
+      {
+        "rank": 8,
+        "image": "https://images.digitalfoundry.net/3c92cc0f72edb/large.jpg",
+        "title": "Pragmata Gets PS5 Pro Resolution Bump: Version 1.21 Comes With an Undocumented Upgrade - Digital Foundry",
+        "description": "PS5 Increasingly Professional.",
+        "source_link": "https://www.digitalfoundry.net/features/pragmata-gets-ps5-pro-resolution-bump-version-1-21-comes-with-an-undocumented-upgrade"
+      },
+      {
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24418650/STK114_Google_Chrome_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Chrome\u2019s AI features may be hogging 4GB of your computer storage - The Verge",
         "description": "Chrome users are discovering that Google is installing a 4GB weights.bin file inside their browser directory when certain AI browser features are enabled.",
         "source_link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
       },
       {
-        "rank": 2,
-        "image": "https://www.sammobile.com/wp-content/uploads/2026/01/Galaxy-S25-Ultra-One-UI-8.5-1200x675.jpg",
-        "title": "Stable One UI 8.5 update is rolling out to the Galaxy S25 series - SamMobile",
-        "description": "Samsung has released the stable version of One UI 8.5 (Android 16) for the Galaxy S25, Galaxy S25+, and Galaxy S25 Ultra. At the moment, the company is rolling out the update in South Korea. The update carries the build number CZDP. A wider rollout in other c\u2026",
-        "source_link": "https://www.sammobile.com/news/samsung-galaxy-s25-stable-one-ui-8-5-update/"
-      },
-      {
-        "rank": 3,
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF11tAg5Rdf8st9TeSlgPkW_Rn1I3Xi4Xl6wJjNMThFLB0oYYl2kKURYxYxgtnEphAJkeHzRxVrm8LX_7i8RDXgdLQhq4HM5ecZCrv3biRciuLM2JufgdxHqJR3eNTcTsIBWJBAz1Nv8Gac1fhW0vZ8Kgb7RFOC7_9zkL7Uy_SCrFOKps1scenY4c_LPSH/s16000/paloalto.jpg",
-        "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution - The Hacker News",
-        "description": "CVE-2026-0300 exploited via public PAN-OS portal before May 13, 2026 patch, enabling root RCE on firewalls.",
-        "source_link": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html"
-      },
-      {
-        "rank": 4,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S25-Ultra-and-S26-Ultra.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Galaxy S26 Ultra outsold its predecessor, but still dropped off of 2026\u2019s first top 10 list - 9to5Google",
-        "description": "The numbers are in for Q1 2026 and, for the first time in a while, Samsung\u2019s Galaxy S26 Ultra almost...",
-        "source_link": "http://9to5google.com/2026/05/05/galaxy-s26-ultra-outsold-its-predecessor-but-still-dropped-off-of-2026s-first-top-10-list/"
-      },
-      {
-        "rank": 5,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/11/why-the-pixel-10-pro-xl-will-wow-you-10-0-screenshot.png?w=1600&h=900&fit=crop",
-        "title": "Pixel update fixes wireless charging, camera zoom video glitch, and more - Android Police",
-        "description": "It's time to update your Pixel",
-        "source_link": "https://www.androidpolice.com/pixel-update-fixes-wireless-charging-camera-zoom-and-more/"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23028907/dseifert_20210323_4485_0004.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Google Home\u2019s Gemini AI can handle more complicated requests - The Verge",
-        "description": "Google is upgrading Gemini for Home to Gemini 3.1, allowing users to give the smart home assistant more complex, multi-step requests.",
-        "source_link": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.pokebeach.com/news/2026/05/Pokemon-TCG-Vending-Machine-Off.jpg",
-        "title": "TPCi's TCG Vending Machines Grow 27% in Second-Biggest Year, But 1 in 7 from Last Summer Are Gone - PokeBeach",
-        "description": "After manually going through Pokemon.com's locator, we can confirm TPCi now operates 1,871 Pokemon TCG vending machines across 28 states. That's a 27%",
-        "source_link": "https://www.pokebeach.com/2026/05/tpcis-tcg-vending-machines-grow-27-in-second-biggest-year-but-1-in-7-from-last-summer-are-gone"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.windowslatest.com/wp-content/uploads/2026/05/Microsoft-begins-rolling-out-Windows-11-improvements.jpg",
-        "title": "Microsoft\u2019s Windows 11 update just fixed memory leaks, slow startup, and File Explorer bugs - Windows Latest",
-        "description": "Microsoft is fixing Windows 11's biggest bugs. The new update stops the File Explorer white flash, lowers RAM usage, and speeds up PC startup.",
-        "source_link": "https://www.windowslatest.com/2026/05/06/microsofts-windows-11-update-just-fixed-memory-leaks-slow-startup-and-file-explorer-bugs/"
+        "rank": 10,
+        "image": "https://assets-prd.ignimgs.com/2026/05/06/ss-535045ba6877519d2d95a3c89716a72c174eab7e-1920x1080-1778061287849.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Ed Boon Confirms Another Mortal Kombat Game and More Are in the Works, Amid Injustice 3 Rumors - IGN",
+        "description": "NetherRealm development chief Ed Boon has confirmed another Mortal Kombat video game is in the works, as rumors continue to point to Injustice 3 being the studio\u2019s next game.",
+        "source_link": "https://www.ign.com/articles/ed-boon-confirms-another-mortal-kombat-game-and-more-are-in-the-works-amid-injustice-3-rumors"
       }
     ],
     "trending_movies": [
@@ -90,45 +104,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
         "title": "Michael",
         "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
         "source_link": "https://www.themoviedb.org/movie/936075"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-        "title": "Swapped",
-        "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
-        "source_link": "https://www.themoviedb.org/movie/1007757"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
         "title": "The Devil Wears Prada 2",
         "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
         "source_link": "https://www.themoviedb.org/movie/1314481"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
-      },
-      {
-        "rank": 10,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
         "title": "My Dearest Assassin",
         "description": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces....",
         "source_link": "https://www.themoviedb.org/movie/1630423"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+        "title": "Swapped",
+        "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
+        "source_link": "https://www.themoviedb.org/movie/1007757"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
       }
     ]
   }
