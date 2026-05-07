@@ -1,62 +1,62 @@
 {
-  "last_updated": "May 07, 2026, 08:38 UTC",
+  "last_updated": "May 07, 2026, 11:06 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Camera.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Pixel 10\u2019s May 2026 update prevents you from installing older Android versions - 9to5Google",
-        "description": "With the May 2026 update, rolling out now, Google is implementing an anti-rollback measure on Pixel 10 series devices that...",
-        "source_link": "http://9to5google.com/2026/05/05/google-pixel-10-update-anti-rollback-may-2026/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24418650/STK114_Google_Chrome_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Chrome\u2019s AI features may be hogging 4GB of your computer storage - The Verge",
+        "description": "Chrome users are discovering that Google is installing a 4GB weights.bin file inside their browser directory when certain AI browser features are enabled.",
+        "source_link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
       },
       {
         "rank": 2,
+        "image": "https://www.sammobile.com/wp-content/uploads/2026/01/Galaxy-S25-Ultra-One-UI-8.5-1200x675.jpg",
+        "title": "Stable One UI 8.5 update is rolling out to the Galaxy S25 series - SamMobile",
+        "description": "Samsung has released the stable version of One UI 8.5 (Android 16) for the Galaxy S25, Galaxy S25+, and Galaxy S25 Ultra. At the moment, the company is rolling out the update in South Korea. The update carries the build number CZDP. A wider rollout in other c\u2026",
+        "source_link": "https://www.sammobile.com/news/samsung-galaxy-s25-stable-one-ui-8-5-update/"
+      },
+      {
+        "rank": 3,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF11tAg5Rdf8st9TeSlgPkW_Rn1I3Xi4Xl6wJjNMThFLB0oYYl2kKURYxYxgtnEphAJkeHzRxVrm8LX_7i8RDXgdLQhq4HM5ecZCrv3biRciuLM2JufgdxHqJR3eNTcTsIBWJBAz1Nv8Gac1fhW0vZ8Kgb7RFOC7_9zkL7Uy_SCrFOKps1scenY4c_LPSH/s16000/paloalto.jpg",
+        "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution - The Hacker News",
+        "description": "CVE-2026-0300 exploited via public PAN-OS portal before May 13, 2026 patch, enabling root RCE on firewalls.",
+        "source_link": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html"
+      },
+      {
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S25-Ultra-and-S26-Ultra.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Galaxy S26 Ultra outsold its predecessor, but still dropped off of 2026\u2019s first top 10 list - 9to5Google",
+        "description": "The numbers are in for Q1 2026 and, for the first time in a while, Samsung\u2019s Galaxy S26 Ultra almost...",
+        "source_link": "http://9to5google.com/2026/05/05/galaxy-s26-ultra-outsold-its-predecessor-but-still-dropped-off-of-2026s-first-top-10-list/"
+      },
+      {
+        "rank": 5,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/11/why-the-pixel-10-pro-xl-will-wow-you-10-0-screenshot.png?w=1600&h=900&fit=crop",
+        "title": "Pixel update fixes wireless charging, camera zoom video glitch, and more - Android Police",
+        "description": "It's time to update your Pixel",
+        "source_link": "https://www.androidpolice.com/pixel-update-fixes-wireless-charging-camera-zoom-and-more/"
+      },
+      {
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23028907/dseifert_20210323_4485_0004.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Google Home\u2019s Gemini AI can handle more complicated requests - The Verge",
         "description": "Google is upgrading Gemini for Home to Gemini 3.1, allowing users to give the smart home assistant more complex, multi-step requests.",
         "source_link": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade"
       },
       {
-        "rank": 3,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-apps-GettyImages-2214375253.jpg?resize=1200,800",
-        "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models - TechCrunch",
-        "description": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
-        "source_link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/"
-      },
-      {
-        "rank": 4,
+        "rank": 7,
         "image": "https://www.pokebeach.com/news/2026/05/Pokemon-TCG-Vending-Machine-Off.jpg",
         "title": "TPCi's TCG Vending Machines Grow 27% in Second-Biggest Year, But 1 in 7 from Last Summer Are Gone - PokeBeach",
         "description": "After manually going through Pokemon.com's locator, we can confirm TPCi now operates 1,871 Pokemon TCG vending machines across 28 states. That's a 27%",
         "source_link": "https://www.pokebeach.com/2026/05/tpcis-tcg-vending-machines-grow-27-in-second-biggest-year-but-1-in-7-from-last-summer-are-gone"
       },
       {
-        "rank": 5,
-        "image": "https://images.macrumors.com/t/tJKeDjZoS1Sv0B5V4ZVpGCeprP0=/2500x/article-new/2025/11/mac-mini-green-2.jpeg",
-        "title": "Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens - MacRumors",
-        "description": "Apple has removed more desktop Macs from its online store as the global memory shortage continues. Mac mini models with 32GB and 64GB of RAM are no...",
-        "source_link": "https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.mos.cms.futurecdn.net/L2YeSh7zFbQFuyoNjmfAV6-2560-80.jpg",
-        "title": "The Star Wars: Fate of the Old Republic team has several KotOR and Mass Effect devs from BioWare's golden years - Windows Central",
-        "description": "Star Wars: Fate of the Old Republic director Casey Hudson announced the game's lead dev team on Star Wars Day, and it's full of KotOR and Mass Effect talent.",
-        "source_link": "https://www.windowscentral.com/gaming/star-wars-fate-of-the-old-republic-announced-its-dev-team-and-its-full-of-mass-effect-and-kotor-bioware-talent"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/gip-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "IGN Entertainment releases internal data as public report, developed by Kantar and UC Berkeley - GamesIndustry.biz",
-        "description": "Generations in Play report highlights differences in game consumption habits, with Gen X as completionist Google users and Gen Z committed to social media",
-        "source_link": "https://www.gamesindustry.biz/ign-entertainment-releases-internal-data-as-public-report-developed-by-kantar-and-uc-berkeley"
-      },
-      {
         "rank": 8,
-        "image": "https://assets-prd.ignimgs.com/2026/05/05/vice-city-1778003331599.JPG?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "GTA 6 Fan Creates Trailer 3 Release Date Theory With Astronomy - IGN",
-        "description": "The hype for GTA 6 has led fans down some excessively deep rabbit holes in an effort to predict the game's marketing cycle, most recently when Trailer 3 will be released. This latest fan theory, though, comes direct from the stars.",
-        "source_link": "https://www.ign.com/articles/gta-6-fan-spends-3-months-charting-the-planetary-positions-for-every-rockstar-trailer-drop-since-2007-to-predict-trailer-3-release-date"
+        "image": "https://www.windowslatest.com/wp-content/uploads/2026/05/Microsoft-begins-rolling-out-Windows-11-improvements.jpg",
+        "title": "Microsoft\u2019s Windows 11 update just fixed memory leaks, slow startup, and File Explorer bugs - Windows Latest",
+        "description": "Microsoft is fixing Windows 11's biggest bugs. The new update stops the File Explorer white flash, lowers RAM usage, and speeds up PC startup.",
+        "source_link": "https://www.windowslatest.com/2026/05/06/microsofts-windows-11-update-just-fixed-memory-leaks-slow-startup-and-file-explorer-bugs/"
       }
     ],
     "trending_movies": [
@@ -76,31 +76,31 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/oR1oiQ3YnpWjRE42I0Rb8LBd8Dg.jpg",
-        "title": "Ready or Not 2: Here I Come",
-        "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
-        "source_link": "https://www.themoviedb.org/movie/1266127"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-        "title": "Michael",
-        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/oR1oiQ3YnpWjRE42I0Rb8LBd8Dg.jpg",
+        "title": "Ready or Not 2: Here I Come",
+        "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
+        "source_link": "https://www.themoviedb.org/movie/1266127"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
       },
       {
         "rank": 7,
@@ -125,10 +125,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
-        "title": "Apex",
-        "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's pr...",
-        "source_link": "https://www.themoviedb.org/movie/1318447"
+        "image": "https://image.tmdb.org/t/p/w200/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
+        "title": "My Dearest Assassin",
+        "description": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces....",
+        "source_link": "https://www.themoviedb.org/movie/1630423"
       }
     ]
   }
