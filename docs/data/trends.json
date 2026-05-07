@@ -1,65 +1,58 @@
 {
-  "last_updated": "May 06, 2026, 23:44 UTC",
+  "last_updated": "May 07, 2026, 02:32 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Camera.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Pixel 10\u2019s May 2026 update prevents you from installing older Android versions - 9to5Google",
+        "description": "With the May 2026 update, rolling out now, Google is implementing an anti-rollback measure on Pixel 10 series devices that...",
+        "source_link": "http://9to5google.com/2026/05/05/google-pixel-10-update-anti-rollback-may-2026/"
+      },
+      {
+        "rank": 2,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23028907/dseifert_20210323_4485_0004.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Google Home\u2019s Gemini AI can handle more complicated requests - The Verge",
         "description": "Google is upgrading Gemini for Home to Gemini 3.1, allowing users to give the smart home assistant more complex, multi-step requests.",
         "source_link": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-apps-GettyImages-2214375253.jpg?resize=1200,800",
         "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models - TechCrunch",
         "description": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
         "source_link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://www.pokebeach.com/news/2026/05/Pokemon-TCG-Vending-Machine-Off.jpg",
         "title": "TPCi's TCG Vending Machines Grow 27% in Second-Biggest Year, But 1 in 7 from Last Summer Are Gone - PokeBeach",
         "description": "After manually going through Pokemon.com's locator, we can confirm TPCi now operates 1,871 Pokemon TCG vending machines across 28 states. That's a 27%",
         "source_link": "https://www.pokebeach.com/2026/05/tpcis-tcg-vending-machines-grow-27-in-second-biggest-year-but-1-in-7-from-last-summer-are-gone"
       },
       {
-        "rank": 4,
-        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/xbox-series-x.jpg?w=1600&h=900&fit=crop",
-        "title": "Xbox officially kills console's AI chatbot in another big shakeup - Polygon.com",
-        "description": "Asha Sharma confirms that Xbox is ending development for Copilot on Xbox as the brand continues to restructure ahead of Project Helix.",
-        "source_link": "https://www.polygon.com/xbox-ai-gaming-copilot-canceled-asha-sharma-microsoft/"
-      },
-      {
         "rank": 5,
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd9983fde-60ac-4cd9-bc9e-497ef1465481.jpg?source=next-barrier-page",
-        "title": "Apple reaches $250mn settlement over delayed \u2018AI Siri\u2019 - Financial Times",
-        "description": "iPhone buyers sued the tech giant for touting features in 2024 that have yet to launch",
-        "source_link": "https://www.ft.com/content/f2c6a27e-8ed9-487c-9384-7e0f0dca3061?syn-25a6b1a6\\\\u003d1"
-      },
-      {
-        "rank": 6,
         "image": "https://images.macrumors.com/t/tJKeDjZoS1Sv0B5V4ZVpGCeprP0=/2500x/article-new/2025/11/mac-mini-green-2.jpeg",
         "title": "Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens - MacRumors",
         "description": "Apple has removed more desktop Macs from its online store as the global memory shortage continues. Mac mini models with 32GB and 64GB of RAM are no...",
         "source_link": "https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/"
       },
       {
-        "rank": 7,
-        "image": "https://cdn.mos.cms.futurecdn.net/BfTF9ZDCe3w4vU2zJiRxoT-2048-80.jpg",
-        "title": "Fixes spotted: Google's May update solves its slow wireless Pixel charging - Android Central",
-        "description": "Google rolls out its monthly security update, which again targets the Pixel 10's display problems, but also fixes a grueling wireless charging issue.",
-        "source_link": "https://www.androidcentral.com/phones/google-pixel/googles-may-security-patch-for-pixels-is-here-targeting-charging-and-display"
-      },
-      {
-        "rank": 8,
+        "rank": 6,
         "image": "https://assetsio.gnwcdn.com/gip-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "IGN Entertainment releases internal data as public report, developed by Kantar and UC Berkeley - GamesIndustry.biz",
         "description": "Generations in Play report highlights differences in game consumption habits, with Gen X as completionist Google users and Gen Z committed to social media",
         "source_link": "https://www.gamesindustry.biz/ign-entertainment-releases-internal-data-as-public-report-developed-by-kantar-and-uc-berkeley"
       },
       {
-        "rank": 9,
+        "rank": 7,
+        "image": "https://cdn.mos.cms.futurecdn.net/mVAGPGLyYvBjmemLtKPotd-2000-80.jpg",
+        "title": "'I was watching my TV and it just stopped showing pictures': Roku and TCL accused of bricking TVs with poor software updates in new class action lawsuit - Tom's Guide",
+        "description": "Accused of defective software updates that brick TVs.",
+        "source_link": "https://www.tomsguide.com/tvs/roku-and-tcl-accused-of-bricking-tvs-with-poor-software-updates-in-new-class-action-lawsuit"
+      },
+      {
+        "rank": 8,
         "image": "https://assets-prd.ignimgs.com/2026/05/05/vice-city-1778003331599.JPG?width=1280&format=jpg&auto=webp&quality=80",
         "title": "GTA 6 Fan Creates Trailer 3 Release Date Theory With Astronomy - IGN",
         "description": "The hype for GTA 6 has led fans down some excessively deep rabbit holes in an effort to predict the game's marketing cycle, most recently when Trailer 3 will be released. This latest fan theory, though, comes direct from the stars.",
@@ -69,17 +62,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
-        "title": "The Drama",
-        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
-        "source_link": "https://www.themoviedb.org/movie/1325734"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
         "title": "Mortal Kombat II",
         "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
         "source_link": "https://www.themoviedb.org/movie/931285"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
+        "title": "The Drama",
+        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
+        "source_link": "https://www.themoviedb.org/movie/1325734"
       },
       {
         "rank": 3,
@@ -97,45 +90,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-        "title": "Michael",
-        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-        "title": "The Devil Wears Prada 2",
-        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
-        "source_link": "https://www.themoviedb.org/movie/1314481"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
         "title": "Swapped",
         "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
         "source_link": "https://www.themoviedb.org/movie/1007757"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/2jzjE3OtXekGtn3vdRGXpyWrHe7.jpg",
-        "title": "The Odyssey",
-        "description": "In this adaptation of Homer\u2019s epic, we follow Odysseus, the legendary King of Ithaca, on his long and perilous journey home following the Trojan War. ...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
       },
       {
-        "rank": 10,
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+        "title": "Apex",
+        "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's pr...",
+        "source_link": "https://www.themoviedb.org/movie/1318447"
       }
     ]
   }
