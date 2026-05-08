@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 07, 2026, 23:56 UTC",
+  "last_updated": "May 08, 2026, 02:46 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,17 +76,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
-        "title": "Mortal Kombat II",
-        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
-        "source_link": "https://www.themoviedb.org/movie/931285"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
         "title": "My Dearest Assassin",
         "description": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces....",
         "source_link": "https://www.themoviedb.org/movie/1630423"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+        "title": "Mortal Kombat II",
+        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
+        "source_link": "https://www.themoviedb.org/movie/931285"
       },
       {
         "rank": 3,
@@ -97,7 +97,7 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/yPV87cvDabRMTZs6NIbZLOufBLR.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
         "title": "The Drama",
         "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
         "source_link": "https://www.themoviedb.org/movie/1325734"
@@ -118,24 +118,24 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
         "title": "The Devil Wears Prada 2",
         "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
         "source_link": "https://www.themoviedb.org/movie/1314481"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
         "title": "Swapped",
         "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
         "source_link": "https://www.themoviedb.org/movie/1007757"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
         "rank": 10,
