@@ -1,76 +1,76 @@
 {
-  "last_updated": "May 08, 2026, 20:55 UTC",
+  "last_updated": "May 08, 2026, 21:56 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assetsio.gnwcdn.com/path-of-exile-alternate-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Path of Exile 2 aims for a full 1.0 release this year, but not all of the promised character classes will make it - Eurogamer.net",
+        "description": "It's nearly the end of the early access road for Path of Exile 2. We ask the director about launching this year and which features will, and won't, make it.",
+        "source_link": "https://www.eurogamer.net/path-of-exile-2-full-release-classes"
+      },
+      {
+        "rank": 2,
+        "image": "https://media.wired.com/photos/69fcafc792b22c38295c7ab7/191:100/w_1280,c_limit/GettyImages-2229158788.jpg",
+        "title": "You Can Disable Gemini in Chrome if It\u2019s Freaking You Out - WIRED",
+        "description": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
+        "source_link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.digitalfoundry.net/a26963aa1022a/large.jpg",
+        "title": "Project Helix Stream: Xbox Game Dev Update Spring '26 Is Here - Digital Foundry",
+        "description": "Microsoft, this is a welcome surprise.",
+        "source_link": "https://www.digitalfoundry.net/news/2026/05/project-helix-stream-xbox-game-dev-update-spring-26-is-here"
+      },
+      {
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/apple-notes-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple Notes is a killer app, and iOS 27\u2019s rumored upgrade excites me for more - 9to5Mac",
+        "description": "Apple Notes is one of my most-used apps, and iOS 27 is rumored to add a powerful capability that I know will quickly become a go-to feature.",
+        "source_link": "https://9to5mac.com/2026/05/07/apple-notes-is-a-killer-app-and-ios-27s-rumored-upgrade-excites-me-for-more/"
+      },
+      {
+        "rank": 5,
         "image": "https://www.pokebeach.com/news/2026/05/Chaos-Rising-Cards.jpg",
         "title": "\"Chaos Rising\" Set Guide: Full Set List, Product Lineup, Store Promos, and More! - PokeBeach",
         "description": "We now have the full English set list for Chaos Rising starring Mega Greninja ex! As posted before, it will release on May 22nd as our fourth English Mega",
         "source_link": "https://www.pokebeach.com/2026/05/chaos-rising-set-guide-full-set-list-product-lineup-store-promos-and-more"
       },
       {
-        "rank": 2,
+        "rank": 6,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Perplexity AI app introduces \u2018all-new native Mac experience\u2019 for Personal Computer - 9to5Mac",
+        "description": "Perplexity has released a brand new version of its macOS app that is replacing the company\u2019s previous Mac software. Perplexity...",
+        "source_link": "https://9to5mac.com/2026/05/07/perplexity-ai-app-introduces-all-new-native-mac-experience-for-personal-computer/"
+      },
+      {
+        "rank": 7,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAXhXRP5Zb3w/v2/1200x800.jpg",
         "title": "Apple\u2019s Camera-Equipped AirPods Reach Advanced Testing Stage in AI Device Push - Bloomberg.com",
         "description": "Apple Inc. has reached the late stages of development for new AirPods with built-in cameras, a significant milestone for what will likely be its first wearable device designed for the artificial intelligence era.",
         "source_link": "https://www.bloomberg.com/news/articles/2026-05-07/apple-s-camera-equipped-airpods-reach-advanced-testing-stage-in-ai-device-push"
       },
       {
-        "rank": 3,
+        "rank": 8,
         "image": "https://kotaku.com/app/uploads/2026/05/blindfire-game-1200x675.jpg",
         "title": "Failed Online Shooter Won\u2019t Shut Down Because \u2018Games Are Art And Deserve To Be Preserved\u2019 - Kotaku",
         "description": "Blindfire is now free to play and will stick around for 'years' so players can see what the studio created",
         "source_link": "https://kotaku.com/blindfire-free-to-play-steam-shooter-fps-update-shut-down-2000694020"
       },
       {
-        "rank": 4,
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268455_Steam_Controller_AKrales_0082.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Valve is fighting Steam Controller scalpers with a new reservations system - The Verge",
         "description": "Valve\u2019s Steam Controller sold out quickly when it went on sale on Monday, and the company is going to open a \u201creservations queue\u201d on Friday at 1PM ET for anyone who missed that initial run.",
         "source_link": "https://www.theverge.com/games/926286/valve-steam-controller-reservations-queue-scalpers"
       },
       {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xboxuiteaser.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
-        "title": "Did Microsoft just tease a new Xbox UI? - The Verge",
-        "description": "Microsoft is working on a more consistent Xbox UI across consoles, PC, and cloud gaming.",
-        "source_link": "https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud"
-      },
-      {
-        "rank": 6,
-        "image": "https://img.pastemagazine.com/wp-content/avuploads/2026/05/06111201/MixCollage-06-May-2026-10-04-AM-7051.jpg",
-        "title": "Power and vulnerability are at play in Pragmata - AV Club",
-        "description": "Power and vulnerability are at play in Pragmata",
-        "source_link": "https://www.avclub.com/pragmata-power-dynamic-dad-child-ico"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.purexbox.com/782bcfa20d5f8/large.jpg",
-        "title": "Xbox Teases More Project Helix News For 2026, Shares Full Presentation From GDC - Pure Xbox",
-        "description": "\"The console is absolutely core to Xbox\"",
-        "source_link": "https://www.purexbox.com/news/2026/05/xbox-teases-more-project-helix-news-for-2026-shares-full-presentation-from-gdc"
-      },
-      {
-        "rank": 8,
-        "image": "https://media.wired.com/photos/69fb7b089165f81762ebbc1c/191:100/w_1280,c_limit/Made-In-China-Why-Chinese-AI-Slop-All-Sounds-the-Same-Business.jpg",
-        "title": "ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily' - WIRED",
-        "description": "OpenAI's chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
-        "source_link": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/"
-      },
-      {
-        "rank": 9,
-        "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/cwEqbVSZxzk9DfYbgz8cl/89ea24e2508d30d46c9b707e7e0f8e83/ACBFR_Thumb.jpg",
-        "title": "Assassin\u2019s Creed Black Flag Resynced Accessibility Spotlight - Ubisoft",
-        "description": "The Director of User Experience and Game Designer share their insights and favorite new features on accessibility in this fresh experience.",
-        "source_link": "https://news.ubisoft.com/en-us/article/759plQmVmAvQySTmxx0r09/assassins-creed-black-flag-resynced-accessibility-spotlight"
-      },
-      {
         "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xboxlogo.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "Inside the return of Xbox - The Verge",
-        "description": "Microsoft\u2019s new Xbox CEO is starting to make bigger changes.",
-        "source_link": "https://www.theverge.com/tech/925966/microsoft-return-to-xbox-town-hall-notepad"
+        "image": "https://www.droid-life.com/wp-content/uploads/2026/05/Gemini-Logo-1200x628.jpg",
+        "title": "Google's New 24/7 AI Agent Can Make Purchases on Your Behalf - Droid Life",
+        "description": "Google is internally working on Remy, a Gemini-powered AI Agent that will have the ability to learn your preferences and take action your behalf. Currently being used and tested by Google employees, Business Insider reports that Remy will have power to do muc\u2026",
+        "source_link": "https://www.droid-life.com/2026/05/07/google-ai-agent-remy/"
       }
     ],
     "trending_movies": [
@@ -111,17 +111,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
-        "title": "The Drama",
-        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
-        "source_link": "https://www.themoviedb.org/movie/1325734"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/oR1oiQ3YnpWjRE42I0Rb8LBd8Dg.jpg",
         "title": "Ready or Not 2: Here I Come",
         "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
         "source_link": "https://www.themoviedb.org/movie/1266127"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
+        "title": "The Drama",
+        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
+        "source_link": "https://www.themoviedb.org/movie/1325734"
       },
       {
         "rank": 8,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-        "title": "Swapped",
-        "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
-        "source_link": "https://www.themoviedb.org/movie/1007757"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
         "title": "The Devil Wears Prada 2",
         "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
         "source_link": "https://www.themoviedb.org/movie/1314481"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+        "title": "Swapped",
+        "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
+        "source_link": "https://www.themoviedb.org/movie/1007757"
       }
     ]
   }
