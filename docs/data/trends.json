@@ -1,69 +1,76 @@
 {
-  "last_updated": "May 08, 2026, 15:18 UTC",
+  "last_updated": "May 08, 2026, 17:11 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/05/Aliens-Fireteam-Elite-2-Announce_05-07-26.jpg",
+        "title": "Aliens: Fireteam Elite 2 announced for PS5, Xbox Series, and PC - Gematsu",
+        "description": "Publisher Daybreak Game Company and developer Cold Iron Studios have announced cooperative third-person shooter sequel Aliens: Fireteam Elite 2 for PlayStation 5, Xbox Series, and PC (Steam, Epic G\u2026",
+        "source_link": "https://www.gematsu.com/2026/05/aliens-fireteam-elite-2-announced-for-ps5-xbox-series-and-pc"
+      },
+      {
+        "rank": 2,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/fitbit-air.png?resize=1200,752",
+        "title": "Google unveils Whoop-like screenless Fitbit Air - TechCrunch",
+        "description": "The device comes with health and fitness tracking like 24/7 heart rate, heart rhythm monitoring with A-fib alerts, SpO2, resting heart rate, heart rate variability, sleep stages and duration, and more.",
+        "source_link": "https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/"
+      },
+      {
+        "rank": 3,
         "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/7597ok2a78857o/ed90b22a7aff21206038701c29af81d0c4398554.jpg",
         "title": "Boost Your Nightclub's Popularity and Bring in Doubled Daily Income - Rockstar Games",
         "description": "Running the hottest club in town can be both a formidable and prosperous enterprise. This week, nightlife impresarios are poised to be handsomely compensated by keeping the dance floor packed, the troublemakers out of sight, and their connected illicit...",
         "source_link": "https://www.rockstargames.com/newswire/article/7597ok2a78857o/boost-your-nightclub-s-popularity-and-bring-in-doubled-daily-income"
       },
       {
-        "rank": 2,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Fitbit-Air-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google announces $99 Fitbit Air for screen-less, all-day tracking - 9to5Google",
-        "description": "Google today announced the Fitbit Air as a screen-less fitness tracker that has a low profile and affordable $99.99 price.",
-        "source_link": "http://9to5google.com/2026/05/07/fitbit-air-launch/"
-      },
-      {
-        "rank": 3,
+        "rank": 4,
         "image": "https://kotaku.com/app/uploads/2022/05/2af005c6cd21db7f4d2e7db655910e36-1200x675.jpg",
         "title": "BioShock 4 \u2018Wasted A Lot Of Time And Money\u2019 On Dead Ends, But Take-Two Boss Is \u2018Feeling A Lot Better\u2019 About It Now - Kotaku",
         "description": "The next game in the steampunk horror shooter franchise is taking a long time",
         "source_link": "https://kotaku.com/bioshock-4-wasted-a-lot-of-time-and-money-on-dead-ends-but-take-two-boss-is-feeling-a-lot-better-about-it-now-2000693957"
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "image": "https://assets.warhammer-community.com/kt_-redterrorinfluencer-may07-1-feature-ad3anwu2np.jpg",
+        "title": "Community Painting \u2013 The Red Terror burrows into our hearts - Warhammer Community",
+        "description": "The new-old Tyranid nightmare, as painted by the wider Warhammer community.",
+        "source_link": "https://www.warhammer-community.com/articles/l4ao9v9p/community-painting-the-red-terror-burrows-into-our-hearts"
+      },
+      {
+        "rank": 6,
+        "image": "https://images.digitalfoundry.net/9a9cf6a8fa0fb/large.jpg",
+        "title": "Is Xbox Project Helix a console or a PC? - Digital Foundry",
+        "description": "And is that even the most important question we should be asking?",
+        "source_link": "https://www.digitalfoundry.net/features/is-xbox-project-helix-a-console-or-a-pc"
+      },
+      {
+        "rank": 7,
         "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/CLQWPX76OZAZJC6O7YZ24NOP3M.jpg&w=1440",
         "title": "How \u2018Crimson Desert\u2019 beat the critics and became a global hit - The Washington Post",
         "description": "After launching to high sales but tepid reviews, South Korean studio Pearl Abyss has dramatically transformed \u201cCrimson Desert\u201d with nearly weekly updates.",
         "source_link": "https://www.washingtonpost.com/entertainment/video-games/2026/05/07/crimson-desert-pearl-abyss-updates/"
       },
       {
-        "rank": 5,
+        "rank": 8,
+        "image": "https://images.digitalfoundry.net/3bcc3dc5140f4/large.jpg",
+        "title": "Star Fox 64 Remake For Switch 2 Announced, Arrives Next Month - Digital Foundry",
+        "description": "Our initial reaction to the surprise reveal.",
+        "source_link": "https://www.digitalfoundry.net/news/2026/05/star-fox-64-remake-for-switch-2-announced-arrives-next-month"
+      },
+      {
+        "rank": 9,
         "image": "https://kotaku.com/app/uploads/2026/05/Screen-Shot-2026-05-07-at-8.54.13-AM-1200x675.jpg",
         "title": "GameStop CEO Accused Of Auctioning Off History From The Game Informer Vault As Part Of His eBay Acquisition Stunt - Kotaku",
         "description": "Ryan Cohen tried to fund an acquisition he can't afford by selling what seem to be games from the publication's 'Vault'",
         "source_link": "https://kotaku.com/gamestop-ebay-ryan-cohen-auction-game-informer-ban-2000693746"
       },
       {
-        "rank": 6,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/MH10574__2_A3_RGB-1-1152x648.jpg",
-        "title": "Is your Porsche Taycan too slow at the N\u00fcrburgring? You need this Manthey Kit. - Ars Technica",
-        "description": "Nordschleife-specialist Manthey has developed an upgrade package for the Porsche EV.",
-        "source_link": "https://arstechnica.com/cars/2026/05/is-your-porsche-taycan-too-slow-at-the-nurbugring-you-need-this-manthey-kit/"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.macrumors.com/t/eOzyM8ISnV9IBZyEokzQ90qZ434=/2500x/article-new/2026/03/macbook-neo-launch-day.jpeg",
-        "title": "Apple May Drop Base $599 MacBook Neo as Chip, DRAM Costs Climb - MacRumors",
-        "description": "Apple is considering dropping the cheapest MacBook Neo configuration as one possible response to the rising cost of building the popular laptop,...",
-        "source_link": "https://www.macrumors.com/2026/05/07/apple-drop-base-macbook-neo-costs-climb/"
-      },
-      {
-        "rank": 8,
-        "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
-        "title": "Ensuring Fair Play - ARC Raiders",
-        "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
-        "source_link": "https://arcraiders.com/news/ensuring-fair-play"
-      },
-      {
-        "rank": 9,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2025/09/ray-ban-meta-in-hand.JPG?w=1600&h=900&fit=crop",
-        "title": "The smartglasses privacy situation just keeps getting worse - Android Police",
-        "description": "Privacy worries, now with added blackmail",
-        "source_link": "https://www.androidpolice.com/the-smartglasses-privacy-situation-just-keeps-getting-worse/"
+        "rank": 10,
+        "image": "https://gizmodo.com/app/uploads/2026/04/Floor-Lamp-3-front-and-back-1200x675.jpg",
+        "title": "Govee\u2019s More Color-Accurate Lighting Comes to Its New Floor Lamp - Gizmodo",
+        "description": "The colorful, rigid, upright rod of accent lighting has smooth, band-less gradients even at the lowest brightness.",
+        "source_link": "https://gizmodo.com/govees-more-color-accurate-lighting-comes-to-its-new-floor-lamp-2000752841"
       }
     ],
     "trending_movies": [
@@ -104,17 +111,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-        "title": "Michael",
-        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
         "title": "The Drama",
         "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
         "source_link": "https://www.themoviedb.org/movie/1325734"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+        "title": "Swapped",
+        "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
+        "source_link": "https://www.themoviedb.org/movie/1007757"
       },
       {
         "rank": 8,
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-        "title": "The Devil Wears Prada 2",
-        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
-        "source_link": "https://www.themoviedb.org/movie/1314481"
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-        "title": "Swapped",
-        "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
-        "source_link": "https://www.themoviedb.org/movie/1007757"
+        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
       }
     ]
   }
