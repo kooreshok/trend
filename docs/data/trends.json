@@ -1,69 +1,76 @@
 {
-  "last_updated": "May 09, 2026, 20:39 UTC",
+  "last_updated": "May 09, 2026, 21:38 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/05/08/550x309/Discord_down_1778267820852_1778267820986.jpg",
+        "title": "Discord down today: What is wrong with servers? Company addresses API errors - how to fix | Hindustan Times - Hindustan Times",
+        "description": "Users across multiple regions reported issues accessing Discord today, with many complaining about API errors",
+        "source_link": "https://www.hindustantimes.com/world-news/us-news/discord-down-today-what-is-wrong-with-servers-company-addresses-api-errors-how-to-fix-downdetector-101778267510807.html"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/chromecast-onn-4k-streaming-stick-google-tv.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Walmart\u2019s new 4K Google TV stick is the Chromecast replacement I needed [Gallery] - 9to5Google",
+        "description": "Walmart is in the process of launching its new Google TV streamer lineup and, while I\u2019m pretty intrigued by the...",
+        "source_link": "http://9to5google.com/2026/05/08/walmart-chromecast-with-google-tv-replacement-hands-on/"
+      },
+      {
+        "rank": 3,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/sprinkle-some-ai-on-it-1152x648.jpg",
         "title": "No, Google hasn't changed Chrome's local AI features\u2014it's just as confusing as ever - Ars Technica",
         "description": "You can stop Chrome from taking up 4GB of storage for local AI, but that shouldn't be your problem.",
         "source_link": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Snapseed-old-new-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google starts rolling out big Snapseed 4.0 update for Android - 9to5Google",
+        "description": "In June of 2025, Google surprisingly released a major update for Snapseed after a long dormancy. After confirming at the...",
+        "source_link": "http://9to5google.com/2026/05/08/snapseed-4-android-update/"
+      },
+      {
+        "rank": 5,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/fitbitairfog.jpg?quality=90&strip=all&crop=0%2C10.757449723541%2C100%2C78.485100552919&w=1200",
+        "title": "Google Fitbit Air preorders come with a second band for free - The Verge",
+        "description": "The $99.99 Google Fitbit Air fitness tracker launches on May 26th. Preordering it beforehand will net you a free silicone band from Amazon and Best Buy.",
+        "source_link": "https://www.theverge.com/gadgets/926766/google-fitbit-air-preorder-free-band-deal-sale"
+      },
+      {
+        "rank": 6,
         "image": "https://imageio.forbes.com/specials-images/imageserve/69fdfbb12a1423add1552418/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "Here Are The Best \u2018Diablo 4: Lord Of Hatred\u2019 Horadric Cube Recipes - Forbes",
         "description": "There are a ton of great Horadric Cube recipes in Diablo 4: Lord of Hatred, and these are the most important ones in the game.",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/05/08/here-are-the-best-diablo-4-lord-of-hatred-horadric-cube-recipes/"
       },
       {
-        "rank": 3,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_2326-1152x648.jpeg",
-        "title": "Which Macs are suffering from shortages\u2014and where are things getting worse? - Ars Technica",
-        "description": "There are a couple signs of strain beyond the MacBook Neo and the desktops.",
-        "source_link": "https://arstechnica.com/gadgets/2026/05/were-tracking-423-mac-configurations-to-see-how-apple-is-handling-shortages/"
+        "rank": 7,
+        "image": "https://assetsio.gnwcdn.com/leaf-pokemon-red-green-money.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Pricing and censorship complaints be damned: Pok\u00e9mon FireRed and LeafGreen sold over 4 million units in six weeks - Eurogamer.net",
+        "description": "Both versions managed to sell an impressive amount in the first month and a half on sale.",
+        "source_link": "https://www.eurogamer.net/pokemon-fire-red-leaf-green-sales-switch-2"
       },
       {
-        "rank": 4,
+        "rank": 8,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/YouTube-Google-TV-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "YouTube app for Google TV, more revamps side menu with easier library access, recent channels [Gallery] - 9to5Google",
+        "description": "The YouTube app for TVs, including Google TV, is rolling out a new design for the sidebar that makes it...",
+        "source_link": "http://9to5google.com/2026/05/08/youtube-app-tv-sidebar-subscription-library-access/"
+      },
+      {
+        "rank": 9,
+        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4692538-ps5.jpg",
+        "title": "PS5 Sales Drop Almost 50%, As Sony Discusses AI Ambitions, Including New Hair Tech - GameSpot",
+        "description": "Sony sold 1.5 million PS5 systems over the past three months.",
+        "source_link": "https://www.gamespot.com/articles/ps5-sales-drop-almost-50-as-sony-discusses-ai-ambitions-including-new-hair-tech/1100-6539860/"
+      },
+      {
+        "rank": 10,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/oneplus-nord-ce6.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "OnePlus\u2019 latest phone cuts OS updates in half, because clearly everything is fine - 9to5Google",
         "description": "The new OnePlus Nord CE6 looks good, but it cuts software updates in half amid a seemingly crumbling brand with a bleak future.",
         "source_link": "http://9to5google.com/2026/05/08/oneplus-software-updates-nord-ce6/"
-      },
-      {
-        "rank": 5,
-        "image": "https://assetsio.gnwcdn.com/marathon-stock-loss.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Marathon and Destiny developer Bungie underperformed last year, causing a $765 million impairment loss for PlayStation - Eurogamer.net",
-        "description": "Marathon and Destiny 2 continue to be a loss leader for Bungie and PlayStation.",
-        "source_link": "https://www.eurogamer.net/bungie-marathon-destiny-765-million-impairment-loss-sony"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.digitalfoundry.net/5d2f49f6db32a/large.jpg",
-        "title": "Frame-Gen to 30fps? Lego Batman's \"Bizarre\" PC Specs Sheet Is a Case Study in How Not To Market a Game - Digital Foundry",
-        "description": "\"It's a bad decision and kind of funny.\"",
-        "source_link": "https://www.digitalfoundry.net/features/frame-gen-to-30fps-lego-batmans-bizarre-pc-specs-sheet-is-a-case-study-in-how-not-to-market-a-game"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.purexbox.com/4967c5e8de1a3/large.jpg",
-        "title": "Two More Big Xbox Series X|S Sequels Have Just Been Confirmed For Summer 2026 - Pure Xbox",
-        "description": "The return of Aliens and Sinking City!",
-        "source_link": "https://www.purexbox.com/news/2026/05/two-more-big-xbox-series-xs-sequels-have-just-been-confirmed-for-summer-2026"
-      },
-      {
-        "rank": 8,
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3044/live/e5384bf0-d40d-11ef-b387-69ed9121b472.jpg",
-        "title": "Nintendo Switch 2 price rise takes effect from September - BBC",
-        "description": "The Japanese company behind Mario says \"global market conditions\" contributed to the decision.",
-        "source_link": "https://www.bbc.com/news/articles/c9we8lzw8x8o"
-      },
-      {
-        "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/ps6-price-date.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Sony hasn't decided on PS6 release date or price yet, and may even \"change business models\" in response to the memory crisis - Eurogamer.net",
-        "description": "\"We have not yet decided on at what timing we will launch the new console, or at what prices,\" says Sony CEO.",
-        "source_link": "https://www.eurogamer.net/ps6-release-plans-sony-business-model"
       }
     ],
     "trending_movies": [
@@ -83,38 +90,38 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/oR1oiQ3YnpWjRE42I0Rb8LBd8Dg.jpg",
-        "title": "Ready or Not 2: Here I Come",
-        "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
-        "source_link": "https://www.themoviedb.org/movie/1266127"
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-        "title": "Swapped",
-        "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
-        "source_link": "https://www.themoviedb.org/movie/1007757"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
+        "title": "Ready or Not 2: Here I Come",
+        "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
+        "source_link": "https://www.themoviedb.org/movie/1266127"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+        "title": "Swapped",
+        "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
+        "source_link": "https://www.themoviedb.org/movie/1007757"
+      },
+      {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
         "rank": 8,
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/6n95Q0HGpFnA4rlnfAKknkoy6XV.jpg",
-        "title": "No Place to Be Single",
-        "description": "A brilliant and intelligent love comedy that celebrates second chances and new horizons, starring a strong and determined woman who settles the score....",
-        "source_link": "https://www.themoviedb.org/movie/1317448"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
         "title": "The Drama",
         "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
         "source_link": "https://www.themoviedb.org/movie/1325734"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/6n95Q0HGpFnA4rlnfAKknkoy6XV.jpg",
+        "title": "No Place to Be Single",
+        "description": "A brilliant and intelligent love comedy that celebrates second chances and new horizons, starring a strong and determined woman who settles the score....",
+        "source_link": "https://www.themoviedb.org/movie/1317448"
       }
     ]
   }
