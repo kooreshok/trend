@@ -1,69 +1,76 @@
 {
-  "last_updated": "May 09, 2026, 05:45 UTC",
+  "last_updated": "May 09, 2026, 07:51 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://images.nintendolife.com/496ab13f0cf99/large.jpg",
-        "title": "Resident Evil Requiem Update Adds New Minigame Mode 'Leon Must Die Forever' - Nintendo Life",
-        "description": "Try it out today on Switch 2",
-        "source_link": "https://www.nintendolife.com/news/2026/05/resident-evil-requiem-update-adds-new-minigame-mode-leon-must-die-forever"
+        "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-price-increase.jpg",
+        "title": "Nintendo announces Switch 2 price increase, going into effect worldwide - Nintendo Everything",
+        "description": "Nintendo is increasing the price of Switch 2 worldwide, the company has announced. In the U.S. and Canada, the system is going up by $50. Europe will essentially see the console rise by \u20ac30. Over in Japan, Nintendo Switch 2 will increase by 10,000 yen, and th\u2026",
+        "source_link": "https://nintendoeverything.com/nintendo-announces-switch-2-price-increase-going-into-effect-worldwide/"
       },
       {
         "rank": 2,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Resident-Evil-Requiem-update-Leon-Must-Die-Forever.jpg",
+        "title": "Resident Evil Requiem update live, adds Leon Must Die Forever mini-game - Nintendo Everything",
+        "description": "The much-discussed mini-game for Resident Evil Requiem has just been made available as part of a new update for the game, which is revealed to be Leon Must Die Forever. Nintendo Switch 2 players can access it now. The mode can be unlocked after finishing the \u2026",
+        "source_link": "https://nintendoeverything.com/resident-evil-requiem-update-live-adds-leon-must-die-forever-mini-game/"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5I4zuQbx738JfOAQbToZdD/b5c7c367d367e55b484dc1480e399cba/Nuneybits_Vector_art_of_burnt-orange_moonlit_sleeper_dissolving_71200d84-78a7-48eb-890e-fb59ef136db1.webp?w=800&q=75",
+        "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes - VentureBeat",
+        "description": "Anthropic has launched \u201cdreaming\u201d for AI agents, giving Claude new self-improving tools designed to boost enterprise automation, reliability, and scale.",
+        "source_link": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes"
+      },
+      {
+        "rank": 4,
         "image": "https://www.phoronix.net/image.php?id=2026&image=dirty_frag",
         "title": "Dirty Frag Vulnerability Made Public Early: Root Privilege On All Distributions - Phoronix",
         "description": "One week after the Copy Fail vulnerability, a new Linux local privilege escalation bug has been made public",
         "source_link": "https://www.phoronix.com/news/Dirty-Frag-Linux"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Gmail-AI-Inbox-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Gmail adds AI Inbox to the bottom bar as Help me write becomes more personal - 9to5Google",
         "description": "After its introduction on the web, AI Inbox is coming to Gmail for Android and iOS. In the navigation drawer, \u201cAI Inbox\u201d appears below...",
         "source_link": "http://9to5google.com/2026/05/07/gmail-ai-inbox-android-ios/"
       },
       {
-        "rank": 4,
-        "image": "https://helios-i.mashable.com/imagery/articles/05zrLPEtIVIF39AwgxHqHbs/hero-image.fill.size_1200x675.v1778189192.jpg",
-        "title": "AirPods with cameras reportedly in final testing at Apple - Mashable",
-        "description": "But the cameras aren't used for what you think they're used for.",
-        "source_link": "https://mashable.com/article/apple-airpods-ai-cameras-final-testing"
-      },
-      {
-        "rank": 5,
+        "rank": 6,
         "image": "https://assetsio.gnwcdn.com/path-of-exile-alternate-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Path of Exile 2 aims for a full 1.0 release this year, but not all of the promised character classes will make it - Eurogamer.net",
         "description": "It's nearly the end of the early access road for Path of Exile 2. We ask the director about launching this year and which features will, and won't, make it.",
         "source_link": "https://www.eurogamer.net/path-of-exile-2-full-release-classes"
       },
       {
-        "rank": 6,
-        "image": null,
+        "rank": 7,
+        "image": "https://assets-prd.ignimgs.com/2025/12/05/gtaonlinethumb-1764947113513.png?width=1280&format=jpg&auto=webp&quality=80",
         "title": "With GTA 6 Due Out in November, Rockstar Teases 'Exciting New Update' for GTA Online This Summer - IGN",
-        "description": null,
+        "description": "In a blog post, Rockstar Games teased that an \"exciting\" new GTA Online update will be released this summer, sparking speculation about what it could involve given GTA 6 is set to launch in November.",
         "source_link": "https://www.ign.com/articles/with-gta-6-due-out-in-november-rockstar-teases-exciting-new-update-for-gta-online-this-summer"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://kotaku.com/app/uploads/2026/05/Screenshot-2026-05-07-162009-e1778185352538-1200x675.jpg",
         "title": "New Yakuza Prequel Game Uses The Likeness Of An Actor Who Died 12 Years Ago - Kotaku",
         "description": "Bunta Sugawara, whose likeness is used in the upcoming prequel game Stranger than Heaven, died in 2014",
         "source_link": "https://kotaku.com/stranger-than-heaven-yakuza-like-a-dragon-bunta-sugawara-dead-actor-likeness-rgg-studio-2000694063"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://media.wired.com/photos/69fcafc792b22c38295c7ab7/191:100/w_1280,c_limit/GettyImages-2229158788.jpg",
         "title": "You Can Disable Gemini in Chrome if It\u2019s Freaking You Out - WIRED",
         "description": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
         "source_link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/"
       },
       {
-        "rank": 9,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/05/personal-computer.jpeg?w=1199",
-        "title": "Perplexity\u2019s Personal Computer is now available everyone on Mac - TechCrunch",
-        "description": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
-        "source_link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/"
+        "rank": 10,
+        "image": "https://images.digitalfoundry.net/a26963aa1022a/large.jpg",
+        "title": "Project Helix Stream: Xbox Game Dev Update Spring '26 Is Here - Digital Foundry",
+        "description": "Microsoft, this is a welcome surprise.",
+        "source_link": "https://www.digitalfoundry.net/news/2026/05/project-helix-stream-xbox-game-dev-update-spring-26-is-here"
       }
     ],
     "trending_movies": [
@@ -76,66 +83,66 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
-        "title": "Mortal Kombat II",
-        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
-        "source_link": "https://www.themoviedb.org/movie/931285"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/6n95Q0HGpFnA4rlnfAKknkoy6XV.jpg",
         "title": "No Place to Be Single",
         "description": "A brilliant and intelligent love comedy that celebrates second chances and new horizons, starring a strong and determined woman who settles the score....",
         "source_link": "https://www.themoviedb.org/movie/1317448"
       },
       {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+        "title": "Mortal Kombat II",
+        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
+        "source_link": "https://www.themoviedb.org/movie/931285"
+      },
+      {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-        "title": "Swapped",
-        "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
-        "source_link": "https://www.themoviedb.org/movie/1007757"
+        "image": "https://image.tmdb.org/t/p/w200/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+        "title": "Beast",
+        "description": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, h...",
+        "source_link": "https://www.themoviedb.org/movie/1292415"
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg",
         "title": "My Dearest Assassin",
         "description": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces....",
         "source_link": "https://www.themoviedb.org/movie/1630423"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+        "title": "Swapped",
+        "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
+        "source_link": "https://www.themoviedb.org/movie/1007757"
+      },
+      {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/oR1oiQ3YnpWjRE42I0Rb8LBd8Dg.jpg",
         "title": "Ready or Not 2: Here I Come",
         "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this ti...",
         "source_link": "https://www.themoviedb.org/movie/1266127"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
         "title": "The Drama",
         "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
         "source_link": "https://www.themoviedb.org/movie/1325734"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
-        "title": "Beast",
-        "description": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, h...",
-        "source_link": "https://www.themoviedb.org/movie/1292415"
       }
     ]
   }
