@@ -1,76 +1,76 @@
 {
-  "last_updated": "May 11, 2026, 13:44 UTC",
+  "last_updated": "May 11, 2026, 16:29 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9xFhtZsO4tM/v1/1200x800.jpg",
+        "title": "Apple to Make Design Changes in macOS 27 to Address Tahoe Quirks - Bloomberg",
+        "description": "Also: The latest on iOS 27 and the truth about the Vision Pro.",
+        "source_link": "https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268504_Cricut_Joy_2_SVasani_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Cricut\u2019s $99 craft cutting machine helped me feel creative again - The Verge",
+        "description": "The Joy 2 is an affordable, capable machine for cutting and drawing crafts at home. However, its companion app isn\u2019t as beginner-friendly as Cricut claims.",
+        "source_link": "https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on"
+      },
+      {
+        "rank": 3,
+        "image": "https://compote.slate.com/images/82812f13-488b-419b-857a-778c9aff5dcd.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+        "title": "I Knew Shopping for a Wedding Dress Would Be Hard. I Didn\u2019t Expect It to Go Like This. - Slate",
+        "description": "I\u2019ve seen hundreds of dresses that defy the laws of physics.",
+        "source_link": "https://slate.com/culture/2026/05/wedding-dress-shopping-ai-fake.html"
+      },
+      {
+        "rank": 4,
         "image": "https://kotaku.com/app/uploads/2025/10/0ueDx9hZX1VftHOha-1200x675.jpg",
         "title": "Rifle Finally Unlocked In Bully 20 Years Later Thanks To Wild Glitch - Kotaku",
         "description": "It's imperative that we not let this news reach Jack Thompson",
         "source_link": "https://kotaku.com/newly-discovered-exploit-for-rockstars-bully-exploit-lets-you-unlock-lets-you-finally-unlock-bb-rifle-20-years-later-2000694646"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://cdn.videocardz.com/1/2026/05/AMD-DGF-SUPER-COMPRESSION-HERO.jpg",
         "title": "AMD DGF SuperCompression cuts geometry storage size by up to 22% - VideoCardz.com",
         "description": "AMD\u2019s DGF SuperCompression reduces asset size for future GPU support AMD has released DGF SDK 1.2, adding a new feature called DGF SuperCompression. The",
         "source_link": "https://videocardz.com/newz/amd-dgf-supercompression-cuts-geometry-storage-size-by-up-to-22"
       },
       {
-        "rank": 3,
-        "image": null,
+        "rank": 6,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92eUjjTTMJPizvUJGwq7Ych7nrXHwGRNt3hS9yjNGRJk5d3pdIKjeZhQDVuFp0DnKjP4qoieGWFjswm7nHDLBaxWC3DxFIfLfRjMSEXd0Ta04vcTrbCpS9PEXebUUbMBxBt0VOb-PKVk-7Cq0FjuMXl4VtKneb5a3ujCo872goPN22GBFFhReJtWsQJLK/s16000/oll.jpg",
         "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak - The Hacker News",
-        "description": null,
-        "source_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPck9Cakd0Qm9xQnlVN0dpWWJqYjZCY3U4bWV6SExFMzlkakdSM2djSmtodVk4c05ocXRmeEtCS2VsOUx3ODl5V2xTRzlURmh4bktIZURScnZuQXZFUkZVaXBMOVRvMFRpcFc3Y1lud1ZoVTNEWjY2a0I3LTBQaDNOd0thQTM?oc=5"
+        "description": "Critical out-of-bounds read in Ollama before 0.17.1 leaks process memory including API keys from over 300000 servers via crafted GGUF files.",
+        "source_link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html"
       },
       {
-        "rank": 4,
+        "rank": 7,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/05/Iron-Bramble-Ann_05-10-26.jpg",
+        "title": "PLAYISM and Rusted Moss developer announce \u2018momentum Metroidvania\u2019 game Iron Bramble for PC - Gematsu",
+        "description": "Publisher PLAYISM, Rusted Moss developer Emlise, and developer Mini Bunnies have announced Iron Bramble, a momentum-based Metroidvania game. It will launch for PC via Steam in 2027 with English, Sp\u2026",
+        "source_link": "https://www.gematsu.com/2026/05/playism-and-rusted-moss-developer-announce-momentum-metroidvania-game-iron-bramble-for-pc"
+      },
+      {
+        "rank": 8,
+        "image": "https://www.jalopnik.com/img/gallery/what-are-the-differences-between-the-ford-and-gm-10-speed-automatic-transmissions/l-intro-1777987389.jpg",
+        "title": "What Are The Differences Between The Ford And GM 10-Speed Automatic Transmissions? - Jalopnik",
+        "description": "Ford and GM 10-speed automatic transmissions share the same core architecture, but they use different fluids, software, and even some internal parts.",
+        "source_link": "https://www.jalopnik.com/2164987/difference-between-ford-gm-10-speed-transmission/"
+      },
+      {
+        "rank": 9,
         "image": "https://www.bgr.com/img/gallery/not-apple-tv-not-fire-tv-stick-this-streaming-device-gets-consumer-reports-top-rating/l-intro-1777846947.jpg",
         "title": "Not Apple TV, Not Fire TV Stick: This Streaming Device Gets Consumer Reports' Top Rating - bgr.com",
         "description": "When it comes to top streaming devices, many might point to the Apple TV or the Amazon Fire TV Stick, but according to Consumer Reports, another device wins.",
         "source_link": "https://www.bgr.com/2163875/consumer-reports-top-rated-streaming-device-nvidia-shield/"
       },
       {
-        "rank": 5,
-        "image": "https://www.phoronix.net/image.php?id=2026&image=axboe_60p",
-        "title": "Axboe Hacking On New Linux Patches For 60% Increase To Per-Core I/O Performance - Phoronix",
-        "description": "Following a presentation at last week's Linux storage, file-system, memory management and BPF summit (LSFMM) in Croatia where Linux I/O overhead compared to the Storage Performance Development Kit (SPDK) was presented, Jens Axboe was motivated to pursue some \u2026",
-        "source_link": "https://www.phoronix.com/news/Axboe-60p-Faster-Per-Core-Perf"
-      },
-      {
-        "rank": 6,
-        "image": "https://bloodyelbow.com/wp-content/uploads/1/2026/05/GettyImages-2275391962-scaled.jpg",
-        "title": "Dricus du Plessis crowns himself 'world champion again' after Sean Strickland beat Khamzat Chimaev - Bloody Elbow",
-        "description": "Saturday's UFC 328 main event result was a good one for Dricus du Plessis.",
-        "source_link": "https://bloodyelbow.com/2026/05/10/dricus-du-plessis-crowns-himself-world-champion-again-after-sean-strickland-beat-khamzat-chimaev/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.bgr.com/img/gallery/5-cool-usb-c-gadgets-you-should-plug-into-your-new-ipad/l-intro-1777056020.jpg",
-        "title": "5 Cool USB-C Gadgets You Should Plug Into Your New iPad - bgr.com",
-        "description": "The USB-C port on your iPad is good for more than just charging your device, as you can use these devices to get the most out of your tablet.",
-        "source_link": "https://www.bgr.com/2163872/cool-usb-c-gadgets-plug-into-with-new-ipad/"
-      },
-      {
-        "rank": 8,
-        "image": "https://pokemongohub.net/wp-content/uploads/2022/06/deino-family-image.jpg",
-        "title": "Pok\u00e9mon GO Events This Week: 11 \u2013 17 May 2026 - Pok\u00e9mon GO Hub",
-        "description": "Pok\u00e9mon GO\u2019s May 11-17 week sees us enter the final month of the season of Memories in Motion! Welcome Spring with the Spring Marathon, and enjoy Deino Community Day Classic. Plus the weekly rotating Raid Hours, Dynamax Battles and Mega Raids. \u2b50Highlights Rai\u2026",
-        "source_link": "https://pokemongohub.net/post/event/pokemon-go-events-this-week-11-17-may-2026/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.jalopnik.com/img/gallery/gms-rare-quadrasteer-system-for-pickup-trucks-was-innovative-and-a-massive-failure/l-intro-1777585947.jpg",
-        "title": "GM's Rare Quadrasteer System For Pickup Trucks Was Innovative (And A Massive Failure) - Jalopnik",
-        "description": "The Quadrasteer system from GM drew plenty of praise when it debuted, but only lasted a few years. Here's why it never caught on.",
-        "source_link": "https://www.jalopnik.com/2164412/gm-quadrasteer-innovative-failure/"
-      },
-      {
         "rank": 10,
-        "image": "https://www.phoronix.net/image.php?id=2026&image=kconfirm",
-        "title": "Kconfirm Is On A Quest To Clean Up The Linux Kernel's Configuration System - Phoronix",
-        "description": "New tooling being worked on for possible mainline Linux kernel inclusion is Kconfirm as a new tool for detecting misusage and efforts stemming from Kconfig, the configuration system for kernel builds.",
-        "source_link": "https://www.phoronix.com/news/Linux-Kconfirm"
+        "image": "https://s.yimg.com/lo/mysterio/api/16B72EE1941C440FE6084AE1C84A939963BF39D3540051C6C090154967915D6A/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_people_articles_471%2F6f3b64cd3956f938b69ab372ba8c8838",
+        "title": "Study Shows 75% of Americans Prefer to Text Instead of Call Their Moms on Mother\u2019s Day - AOL.com",
+        "description": "The new study also revealed the top 10 U.S. cities where people call and text their moms the most on Mother\u2019s Day",
+        "source_link": "https://people.com/75-percent-of-americans-prefer-to-text-instead-of-call-their-moms-on-mothers-day-study-11969958"
       }
     ],
     "trending_movies": [
@@ -83,17 +83,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
-        "title": "Remarkably Bright Creatures",
-        "description": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her ...",
-        "source_link": "https://www.themoviedb.org/movie/1330021"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
         "title": "Mortal Kombat II",
         "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
         "source_link": "https://www.themoviedb.org/movie/931285"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+        "title": "Remarkably Bright Creatures",
+        "description": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her ...",
+        "source_link": "https://www.themoviedb.org/movie/1330021"
       },
       {
         "rank": 4,
@@ -111,24 +111,24 @@
       },
       {
         "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+        "title": "Swapped",
+        "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
+        "source_link": "https://www.themoviedb.org/movie/1007757"
+      },
+      {
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
         "title": "The Drama",
         "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
         "source_link": "https://www.themoviedb.org/movie/1325734"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-        "title": "Swapped",
-        "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
-        "source_link": "https://www.themoviedb.org/movie/1007757"
       },
       {
         "rank": 9,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
-        "title": "Apex",
-        "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's pr...",
-        "source_link": "https://www.themoviedb.org/movie/1318447"
+        "image": "https://image.tmdb.org/t/p/w200/httlhu80GnOx3bCAXi4sYdbDny0.jpg",
+        "title": "No Place to Be Single",
+        "description": "A brilliant and intelligent love comedy that celebrates second chances and new horizons, starring a strong and determined woman who settles the score....",
+        "source_link": "https://www.themoviedb.org/movie/1317448"
       }
     ]
   }
