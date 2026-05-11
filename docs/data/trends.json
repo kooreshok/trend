@@ -1,76 +1,76 @@
 {
-  "last_updated": "May 11, 2026, 16:29 UTC",
+  "last_updated": "May 11, 2026, 18:54 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assetsio.gnwcdn.com/gta-header_jY1XRjR.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "GTA 6 hopefuls encouraged by Sony to upgrade to PS5 now - Eurogamer",
+        "description": "PlayStation is writing to PS4 owners to suggest they'll need to upgrade to a PS5 if they want to play Grand Theft Auto \u2026",
+        "source_link": "https://www.eurogamer.net/gta-6-hopefuls-encouraged-by-sony-to-upgrade-to-ps5-now"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/fitbit-google-account-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google Health kills the Fitbit we knew, but maybe that\u2019s not a bad thing - 9to5Google",
+        "description": "Alongside its new Fitbit Air, Google this week announced that the Fitbit app is dead, to be replaced by \u201cGoogle...",
+        "source_link": "http://9to5google.com/2026/05/10/google-health-kills-the-fitbit-we-knew-but-maybe-thats-not-a-bad-thing/"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2026/05/dusk_zelda.jpeg?fit=1200%2C630&ssl=1",
+        "title": "Zelda: Twilight Princess unofficially ported to PC with lots of extra features & quality of life - My Nintendo News",
+        "description": "The long-awaited Dusk, which is an unofficial enhanced port of the acclaimed The Legend of Zelda: Twilight Princess, has just been released on PC with iOS and Android coming too.",
+        "source_link": "https://mynintendonews.com/2026/05/10/zelda-twilight-princess-unofficially-ported-to-pc-with-lots-of-extra-features-quality-of-life/"
+      },
+      {
+        "rank": 4,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9xFhtZsO4tM/v1/1200x800.jpg",
         "title": "Apple to Make Design Changes in macOS 27 to Address Tahoe Quirks - Bloomberg",
         "description": "Also: The latest on iOS 27 and the truth about the Vision Pro.",
         "source_link": "https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268504_Cricut_Joy_2_SVasani_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Cricut\u2019s $99 craft cutting machine helped me feel creative again - The Verge",
         "description": "The Joy 2 is an affordable, capable machine for cutting and drawing crafts at home. However, its companion app isn\u2019t as beginner-friendly as Cricut claims.",
         "source_link": "https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://compote.slate.com/images/82812f13-488b-419b-857a-778c9aff5dcd.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
         "title": "I Knew Shopping for a Wedding Dress Would Be Hard. I Didn\u2019t Expect It to Go Like This. - Slate",
         "description": "I\u2019ve seen hundreds of dresses that defy the laws of physics.",
         "source_link": "https://slate.com/culture/2026/05/wedding-dress-shopping-ai-fake.html"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://kotaku.com/app/uploads/2025/10/0ueDx9hZX1VftHOha-1200x675.jpg",
         "title": "Rifle Finally Unlocked In Bully 20 Years Later Thanks To Wild Glitch - Kotaku",
         "description": "It's imperative that we not let this news reach Jack Thompson",
         "source_link": "https://kotaku.com/newly-discovered-exploit-for-rockstars-bully-exploit-lets-you-unlock-lets-you-finally-unlock-bb-rifle-20-years-later-2000694646"
       },
       {
-        "rank": 5,
+        "rank": 8,
         "image": "https://cdn.videocardz.com/1/2026/05/AMD-DGF-SUPER-COMPRESSION-HERO.jpg",
         "title": "AMD DGF SuperCompression cuts geometry storage size by up to 22% - VideoCardz.com",
         "description": "AMD\u2019s DGF SuperCompression reduces asset size for future GPU support AMD has released DGF SDK 1.2, adding a new feature called DGF SuperCompression. The",
         "source_link": "https://videocardz.com/newz/amd-dgf-supercompression-cuts-geometry-storage-size-by-up-to-22"
       },
       {
-        "rank": 6,
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92eUjjTTMJPizvUJGwq7Ych7nrXHwGRNt3hS9yjNGRJk5d3pdIKjeZhQDVuFp0DnKjP4qoieGWFjswm7nHDLBaxWC3DxFIfLfRjMSEXd0Ta04vcTrbCpS9PEXebUUbMBxBt0VOb-PKVk-7Cq0FjuMXl4VtKneb5a3ujCo872goPN22GBFFhReJtWsQJLK/s16000/oll.jpg",
-        "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak - The Hacker News",
-        "description": "Critical out-of-bounds read in Ollama before 0.17.1 leaks process memory including API keys from over 300000 servers via crafted GGUF files.",
-        "source_link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html"
-      },
-      {
-        "rank": 7,
+        "rank": 9,
         "image": "https://www.gematsu.com/wp-content/uploads/2026/05/Iron-Bramble-Ann_05-10-26.jpg",
         "title": "PLAYISM and Rusted Moss developer announce \u2018momentum Metroidvania\u2019 game Iron Bramble for PC - Gematsu",
         "description": "Publisher PLAYISM, Rusted Moss developer Emlise, and developer Mini Bunnies have announced Iron Bramble, a momentum-based Metroidvania game. It will launch for PC via Steam in 2027 with English, Sp\u2026",
         "source_link": "https://www.gematsu.com/2026/05/playism-and-rusted-moss-developer-announce-momentum-metroidvania-game-iron-bramble-for-pc"
       },
       {
-        "rank": 8,
-        "image": "https://www.jalopnik.com/img/gallery/what-are-the-differences-between-the-ford-and-gm-10-speed-automatic-transmissions/l-intro-1777987389.jpg",
-        "title": "What Are The Differences Between The Ford And GM 10-Speed Automatic Transmissions? - Jalopnik",
-        "description": "Ford and GM 10-speed automatic transmissions share the same core architecture, but they use different fluids, software, and even some internal parts.",
-        "source_link": "https://www.jalopnik.com/2164987/difference-between-ford-gm-10-speed-transmission/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.bgr.com/img/gallery/not-apple-tv-not-fire-tv-stick-this-streaming-device-gets-consumer-reports-top-rating/l-intro-1777846947.jpg",
-        "title": "Not Apple TV, Not Fire TV Stick: This Streaming Device Gets Consumer Reports' Top Rating - bgr.com",
-        "description": "When it comes to top streaming devices, many might point to the Apple TV or the Amazon Fire TV Stick, but according to Consumer Reports, another device wins.",
-        "source_link": "https://www.bgr.com/2163875/consumer-reports-top-rated-streaming-device-nvidia-shield/"
-      },
-      {
         "rank": 10,
-        "image": "https://s.yimg.com/lo/mysterio/api/16B72EE1941C440FE6084AE1C84A939963BF39D3540051C6C090154967915D6A/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_people_articles_471%2F6f3b64cd3956f938b69ab372ba8c8838",
-        "title": "Study Shows 75% of Americans Prefer to Text Instead of Call Their Moms on Mother\u2019s Day - AOL.com",
-        "description": "The new study also revealed the top 10 U.S. cities where people call and text their moms the most on Mother\u2019s Day",
-        "source_link": "https://people.com/75-percent-of-americans-prefer-to-text-instead-of-call-their-moms-on-mothers-day-study-11969958"
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/05/Samurai-Bringer-Rampage-Ann_05-10-26.jpg",
+        "title": "Deckbuilding autobattler Samurai Bringer: Rampage announced for PC - Gematsu",
+        "description": "Publisher PLAYISM and developer Alphawing have announced Samurai Bringer: Rampage, a deckbuilding autobattler entry in the Bringer series. It will launch for PC via Steam in 2026 with English, Japa\u2026",
+        "source_link": "https://www.gematsu.com/2026/05/deckbuilding-autobattler-samurai-bringer-rampage-announced-for-pc"
       }
     ],
     "trending_movies": [
@@ -111,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-        "title": "Swapped",
-        "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
-        "source_link": "https://www.themoviedb.org/movie/1007757"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
         "title": "The Drama",
         "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
         "source_link": "https://www.themoviedb.org/movie/1325734"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+        "title": "They Will Kill You",
+        "description": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a...",
+        "source_link": "https://www.themoviedb.org/movie/1292695"
+      },
+      {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+        "title": "Swapped",
+        "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
+        "source_link": "https://www.themoviedb.org/movie/1007757"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/httlhu80GnOx3bCAXi4sYdbDny0.jpg",
-        "title": "No Place to Be Single",
-        "description": "A brilliant and intelligent love comedy that celebrates second chances and new horizons, starring a strong and determined woman who settles the score....",
-        "source_link": "https://www.themoviedb.org/movie/1317448"
       }
     ]
   }
