@@ -1,69 +1,69 @@
 {
-  "last_updated": "May 13, 2026, 09:40 UTC",
+  "last_updated": "May 13, 2026, 12:00 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assetsio.gnwcdn.com/Indiana-Jones_Switch-2_snake-boss.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Indiana Jones and the Great Circle's Nintendo Switch 2 port is finally here and it holds up pretty well - Eurogamer",
+        "description": "Bethesda and MachineGames' Nintendo Switch 2 port of Indiana Jones and the Great Circle is a looker with robust performance and a few neat tricks.",
+        "source_link": "https://www.eurogamer.net/indiana-jones-and-the-great-circle-nintendo-switch-2"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.axios.com/zBV0HyQvQGaOuRhecwJ3xbcMFWw=/0x0:1280x720/1366x768/2026/05/10/1778389302474.jpg",
+        "title": "AI-assisted hacking is already here, Google warns - Axios",
+        "description": "Researchers have found the first known case of cybercriminals using AI to exploit a zero-day flaw.",
+        "source_link": "https://www.axios.com/2026/05/12/ai-hacking-found-google-report"
+      },
+      {
+        "rank": 3,
+        "image": "https://i.insider.com/69fb3d60f9e4752b6d6014e4?width=1200&format=jpeg",
+        "title": "AI coders are carrying half-open laptops through airports, offices, and ice rinks - Business Insider",
+        "description": "Techies are walking with their laptops open to keep their agents running. They told Business Insider their stories, from offices to school halls.",
+        "source_link": "https://www.businessinsider.com/coders-keep-laptops-open-in-public-ai-agent-2026-5"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.sammobile.com/wp-content/uploads/2026/04/Android-17-One-UI-9-Galaxy-S26-Ultra-1-1200x675.jpg",
+        "title": "Samsung is preparing the One UI 9 beta program - SamMobile",
+        "description": "Now that the stable One UI 8.5 update has started rolling out for eligible Galaxy devices, Samsung seems to be taking the next logical step. The company appears to be preparing for the One UI 9.0 beta program, as related pages have started appearing in Samsun\u2026",
+        "source_link": "https://www.sammobile.com/news/samsung-one-ui-9-beta-program-open-soon/"
+      },
+      {
+        "rank": 5,
+        "image": "https://hackaday.com/wp-content/uploads/2026/05/cern-libraries-featured.jpg",
+        "title": "Another Gift To The World From CERN: Their Entire Set Of KiCad Libraries - Hackaday",
+        "description": "As the foremost boffins of Europe toil deep underneath the border between Switzerland and France in their never-ending quest to truly understand the fabric of the Universe, they rely on a vast amou\u2026",
+        "source_link": "https://hackaday.com/2026/05/12/another-gift-to-the-world-from-cern-their-entire-set-of-kicad-libraries/"
+      },
+      {
+        "rank": 6,
+        "image": "https://images.nintendolife.com/7e40577f7a053/large.jpg",
+        "title": "Sega Has Officially Cancelled Its \"Super Game\" - Nintendo Life",
+        "description": "Other projects and revivals are still on the way",
+        "source_link": "https://www.nintendolife.com/news/2026/05/sega-has-officially-cancelled-its-super-game"
+      },
+      {
+        "rank": 7,
         "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2271655163.jpg?resize=1200,879",
         "title": "Thinking Machines wants to build an AI that actually listens while it talks - TechCrunch",
         "description": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like\u2026",
         "source_link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/"
       },
       {
-        "rank": 2,
-        "image": "https://images.nintendolife.com/f851b08766014/large.jpg",
-        "title": "The Legend Of Zelda: Tears Of The Kingdom 'Mineru's Construct' amiibo Is Finally Getting Released - Nintendo Life",
-        "description": "Pre-orders for this amiibo with \"articulated arms\" are live",
-        "source_link": "https://www.nintendolife.com/news/2026/05/the-legend-of-zelda-tears-of-the-kingdom-minerus-construct-amiibo-is-finally-getting-released"
-      },
-      {
-        "rank": 3,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/08/whatsapp-glass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "WhatsApp beta previews Liquid Glass changes for message reactions, more - 9to5Mac",
-        "description": "WhatsApp is continuing its Liquid Glass redesign on iOS, with the latest TestFlight build revealing work on updated message reactions and context menus.",
-        "source_link": "https://9to5mac.com/2026/05/11/whatsapp-beta-previews-liquid-glass-changes-for-message-reactions-more/"
-      },
-      {
-        "rank": 4,
-        "image": "https://images.macrumors.com/t/nGk7H3zYbX0TnHuaiBpWfc6f4c8=/2500x/article-new/2026/03/iOS-26.5-Glass-Feature-Purple.jpg",
-        "title": "iOS 26.5 Features: Everything New in iOS 26.5 - MacRumors",
-        "description": "Apple released iOS 26.5 after a few months of beta testing, and while it doesn't have the Siri features we were hoping for since those are being...",
-        "source_link": "https://www.macrumors.com/2026/05/11/ios-26-5-features/"
-      },
-      {
-        "rank": 5,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
-        "title": "Linux bitten by second severe vulnerability in as many weeks - Ars Technica",
-        "description": "Production-version patches are coming online and should be installed pronto.",
-        "source_link": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/"
-      },
-      {
-        "rank": 6,
-        "image": "https://assetsio.gnwcdn.com/forza-horizon-6-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Forza Horizon 6 is being played early, though would-be pirates are getting their accounts slammed with bans - Eurogamer",
-        "description": "Forza Horizon 6 files were accidentally uploaded to Steam, leading to the game getting cracked. Early players are getting accounts banned.",
-        "source_link": "https://www.eurogamer.net/forza-horizon-6-leak-account-banned"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.seattletimes.com/wp-content/uploads/2026/05/05112026_Funko_tzr_111222.jpg?d=1200x630",
-        "title": "Everett-based Funko is hit with a new lawsuit - The Seattle Times",
-        "description": "A new lawsuit claims Everett-based Funko, known for its Pop! vinyl figures, misleads users about how their data will be used.",
-        "source_link": "https://www.seattletimes.com/business/funko-accused-of-collecting-user-data-without-permission/"
-      },
-      {
         "rank": 8,
-        "image": "https://gizmodo.com/app/uploads/2025/11/Steam-Machine-Console-1-1200x675.jpg",
-        "title": "Valve Has a Plan to Stop Scalpers From Botting the Steam Machine - Gizmodo",
-        "description": "It's what Valve should have done with the Steam Controller from the start.",
-        "source_link": "https://gizmodo.com/valve-has-a-plan-to-stop-scalpers-from-botting-the-steam-machine-2000757147"
+        "image": "https://helios-i.mashable.com/imagery/articles/055OTLWgOptyOREwqxMVO0x/hero-image.fill.size_1200x675.v1778519220.jpg",
+        "title": "Google Fitbit Air: 6 unique features that could tempt us to switch - Mashable",
+        "description": "The upcoming Fitbit Air has some features that should make smartwatches and Whoop sweat.",
+        "source_link": "https://mashable.com/article/google-fitbit-air-top-features"
       },
       {
         "rank": 9,
-        "image": "https://images.pushsquare.com/e858f93601daf/large.jpg",
-        "title": "You Need a PS5 Pro to Play 007 First Light at Its Best on Console - Push Square",
-        "description": "First clip of PS5 Pro gameplay revealed",
-        "source_link": "https://www.pushsquare.com/news/2026/05/you-need-a-ps5-pro-to-play-007-first-light-at-its-best-on-console"
+        "image": "https://nintendoeverything.com/wp-content/uploads/Zelda-Tears-of-the-Kingdom-Mineru-Construct-amiibo-release-date-1.jpg",
+        "title": "Zelda: Tears of the Kingdom \u2013 Mineru Construct amiibo release date finally revealed - Nintendo Everything",
+        "description": "We\u2019ve been waiting a long time for this one, but Nintendo just provided the release date for the Zelda: Tears of the Kingdom Mineru Construct amiibo. It\u2019s slated for September 17, 2026. The Mineru Construct amiibo has articulated arms that can be moved around\u2026",
+        "source_link": "https://nintendoeverything.com/zelda-tears-of-the-kingdom-mineru-construct-amiibo-release-date-finally-revealed/"
       }
     ],
     "trending_movies": [
@@ -111,31 +111,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
-        "title": "The Christophers",
-        "description": "The estranged children of a once-famous artist hire a forger to complete his unfinished works so they can be \"discovered\" and sold after his death....",
-        "source_link": "https://www.themoviedb.org/movie/1400357"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
         "title": "You, Me & Tuscany",
         "description": "When a woman crashes at an empty Italian villa, posing as the owner's fianc\u00e9e, she discovers an unexpected romance that could transform her life....",
         "source_link": "https://www.themoviedb.org/movie/1455079"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
+        "title": "The Christophers",
+        "description": "The estranged children of a once-famous artist hire a forger to complete his unfinished works so they can be \"discovered\" and sold after his death....",
+        "source_link": "https://www.themoviedb.org/movie/1400357"
+      },
+      {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
         "title": "Swapped",
         "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
         "source_link": "https://www.themoviedb.org/movie/1007757"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-        "title": "The Devil Wears Prada 2",
-        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
-        "source_link": "https://www.themoviedb.org/movie/1314481"
       }
     ]
   }
