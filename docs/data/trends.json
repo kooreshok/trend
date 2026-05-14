@@ -1,69 +1,76 @@
 {
-  "last_updated": "May 14, 2026, 13:59 UTC",
+  "last_updated": "May 14, 2026, 16:12 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.pushsquare.com/371c07c43c0ad/large.jpg",
+        "title": "8 PS Plus Extra, Premium Games for May 2026 Announced - Push Square",
+        "description": "Available from 19th May",
+        "source_link": "https://www.pushsquare.com/news/2026/05/8-ps-plus-extra-premium-games-for-may-2026-announced"
+      },
+      {
+        "rank": 2,
+        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/Bootup_Wire-9c068aa206c9a72d2b1f.png",
+        "title": "Available for Xbox Insiders: New Xbox Console Updates Bring Updated Boot Up, Gamerscore Badges and More - Xbox Wire",
+        "description": "Xbox Insiders can now test new Achievement features, including a visual refresh, game hiding, and highlighting fully completed games. These improvements aim to give players more control and personalization over their profiles, with broader availability coming\u2026",
+        "source_link": "https://news.xbox.com/en-us/2026/05/13/xbox-insiders-june-2026-console-features/"
+      },
+      {
+        "rank": 3,
+        "image": "https://assets.warhammer-community.com/40k_taufaction-may13-1-feature-ixewqurv5x.jpg",
+        "title": "Warhammer 40,000 Faction Focus: T\u2019au Empire - Warhammer Community",
+        "description": "New detachments, for the Greater Good!",
+        "source_link": "https://www.warhammer-community.com/articles/jmtd7k9g/warhammer-40000-faction-focus-tau-empire"
+      },
+      {
+        "rank": 4,
+        "image": "https://images.unsplash.com/photo-1611890798517-07b0fcb4a811?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQ5fHxjb21wdXRlciUyMHNjcmVlbiUyMGJyb2tlbnxlbnwwfHx8fDE3Nzg2MTU5NTd8MA&ixlib=rb-4.1.0&q=80&w=2000",
+        "title": "Software Developers Say AI Is Rotting Their Brains - 404 Media",
+        "description": "\u201cIt's making me dumber for sure.\u201d",
+        "source_link": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/"
+      },
+      {
+        "rank": 5,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Sky-blue-S26-Ultra-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Here\u2019s the changelog for Samsung\u2019s Android 17 update, One UI 9 - 9to5Google",
+        "description": "Samsung is rolling out the first beta update for One UI 9 which, for Galaxy devices, will bring Android 17...",
+        "source_link": "http://9to5google.com/2026/05/13/samsung-one-ui-9-android-17-changelog/"
+      },
+      {
+        "rank": 6,
+        "image": "https://www.cined.com/content/uploads/2026/05/Sony-A7R-VI-2.jpg",
+        "title": "Sony Alpha 7R VI Announced \u2013 66.8MP Stacked Sensor, 8K 30p, 4K 120p and Sensor-Level Dual Gain - CineD",
+        "description": "Sony Alpha 7R VI announced with 66.8MP stacked Exmor RS sensor, 8K 30p, 4K 120p video, and new sensor-level Dual Gain mode.",
+        "source_link": "https://www.cined.com/sony-alpha-7r-vi-announced-66-8mp-stacked-sensor-8k-30p-4k-120p-and-sensor-level-dual-gain/"
+      },
+      {
+        "rank": 7,
+        "image": "https://kotaku.com/app/uploads/2025/09/stateofplay-saros-blogroll-17394-1200x675.jpg",
+        "title": "PS5 Exclusive Saros Reportedly Selling Worse Than You'd Expect - Kotaku",
+        "description": "Will Marvel's Wolverine be the blockbuster to snap the current rough spell?",
+        "source_link": "https://kotaku.com/analyst-claims-sonys-latest-ps5-exclusive-saros-isnt-selling-great-either-2000695652"
+      },
+      {
+        "rank": 8,
         "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4693784-switch-2-main.jpg",
         "title": "Nintendo Increased The Switch 2 Price to $500, And It Still Isn't Enough - GameSpot",
         "description": "Nintendo is aiming to add value to the Switch 2 console with a \"robust\" lineup of games.",
         "source_link": "https://www.gamespot.com/articles/nintendo-increased-the-switch-2-price-to-500-and-it-still-isnt-enough/1100-6539893/"
       },
       {
-        "rank": 2,
-        "image": "https://petapixel.com/assets/uploads/2026/05/canon-eos-r6-v-featured.jpg",
-        "title": "The Canon EOS R6 V Removes the R6 III\u2019s EVF and Adds an Internal Fan - PetaPixel",
-        "description": "The R6 III but with a fan. And no EVF.",
-        "source_link": "https://petapixel.com/2026/05/13/the-canon-eos-r6-v-removes-the-r6-iiis-evf-and-adds-an-internal-fan/"
-      },
-      {
-        "rank": 3,
-        "image": "https://cdn.motor1.com/images/mgl/NGPVWl/s1/embargo-rivian-assistant.jpg",
-        "title": "Rivian's New AI Voice Assistant Is Rolling Out. Here's What It Can Do - InsideEVs",
-        "description": "The Rivian Assistant hits the R1S and R1T via the startup's latest software update. The R2 is next.",
-        "source_link": "https://insideevs.com/news/795539/rivian-assistant-launch-r1-r2-2026/"
-      },
-      {
-        "rank": 4,
-        "image": "https://traxion.gg/wp-content/uploads/2026/05/Forza-Horizon-6-will-rebalance-Wheelspin-rewards.jpg",
-        "title": "Forza Horizon 6 will rebalance Wheelspin rewards - Traxion.GG",
-        "description": "Playground Games details Forza Horizon 6\u2019s new progression systems.",
-        "source_link": "https://traxion.gg/forza-horizon-6-will-rebalance-wheelspin-rewards/"
-      },
-      {
-        "rank": 5,
-        "image": "https://helios-i.mashable.com/imagery/articles/07JaDzqrz9xnLGe1iDzOeDV/hero-image.fill.size_1200x675.v1778601463.jpg",
-        "title": "Pre-order the Google Fitbit Air at Amazon and get a free Active Band - Mashable",
-        "description": "The first screen-free Fitbit launches on May 26.",
-        "source_link": "https://mashable.com/article/may-12-fitbit-air-amazon-preorder-deal"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSCF4689.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Amazon\u2019s Panos Panay addresses new Fire phone rumors - The Verge",
-        "description": "Amazon\u2019s head of devices and services doesn\u2019t quite deny plans: \u2018If I black and white say no, I would say that was accurate. But I also think it\u2019s misleading.\u2019",
-        "source_link": "https://www.theverge.com/tech/929412/amazon-panos-panay-interview-phone-transformer"
-      },
-      {
-        "rank": 7,
-        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/05/DSC_5300.jpg",
-        "title": "This 4.9kg Evolve Bike Undercuts Western Brands by Thousands - Outside Magazine",
-        "description": "It didn't even take a headline-breaking lightweight frame to build a bike that's lighter than anything offered by major Western brands \u2014 for thousands less than you'd expect.",
-        "source_link": "https://velo.outsideonline.com/road/road-gear/4-9kg-evolve-bike-china-undercuts-western-brands/#article"
-      },
-      {
-        "rank": 8,
-        "image": "https://assets.techrepublic.com/uploads/2026/05/WWDC-2026.jpg?f=jpeg",
-        "title": "WWDC 2026 Preview: Apple Readies Siri Overhaul, AI Updates, and More - TechRepublic",
-        "description": "Apple\u2019s WWDC 2026 is expected to preview iOS 27, a smarter Siri, broader AI model options, and macOS 27 design refinements.",
-        "source_link": "https://www.techrepublic.com/article/news-apple-wwdc-2026-ios-27-siri-ai-preview/"
-      },
-      {
         "rank": 9,
-        "image": "https://image.theregister.com/5239252.jpg?imageId=5239252&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "title": "Doozy of a Patch Tuesday includes 30 critical Microsoft CVEs - The Register",
-        "description": "The good news: no 0-days. The bad news: busy week ahead for Microsoft admins",
-        "source_link": "https://www.theregister.com/patches/2026/05/13/doozy-of-a-patch-tuesday-includes-30-critical-microsoft-cves/5239224"
+        "image": "https://petapixel.com/assets/uploads/2026/05/canon-rf-20-50-featured.jpg",
+        "title": "Canon\u2019s RF 20-50mm f/4L IS USM PZ Is its First Power Zoom L-Series Lens - PetaPixel",
+        "description": "Canon brings Power Zoom to the RF family.",
+        "source_link": "https://petapixel.com/2026/05/13/canons-rf-20-50mm-f-4l-is-usm-pz-is-its-first-power-zoom-l-series-lens/"
+      },
+      {
+        "rank": 10,
+        "image": "https://assets.warhammer-community.com/aos_cosnewunits-may13-1-feature-2ppjhf6aqn.jpg",
+        "title": "Cities of Sigmar rules \u2013 New units - Warhammer Community",
+        "description": "Get a glimpse at some of the rules for the new Warhammer Age of Sigmar miniatures.",
+        "source_link": "https://www.warhammer-community.com/articles/m2dw9uao/cities-of-sigmar-rules-new-units"
       }
     ],
     "trending_movies": [
@@ -83,10 +90,10 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
-        "title": "Mortal Kombat II",
-        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
-        "source_link": "https://www.themoviedb.org/movie/931285"
+        "image": "https://image.tmdb.org/t/p/w200/40I66L7QKguTFDPvcLcdiTbAD7I.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
         "rank": 4,
@@ -97,10 +104,10 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/40I66L7QKguTFDPvcLcdiTbAD7I.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
+        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+        "title": "Mortal Kombat II",
+        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
+        "source_link": "https://www.themoviedb.org/movie/931285"
       },
       {
         "rank": 6,
@@ -111,17 +118,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
-        "title": "Remarkably Bright Creatures",
-        "description": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her ...",
-        "source_link": "https://www.themoviedb.org/movie/1330021"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/z1dGYCdc8imuQ6LFkd9moc0zaBe.jpg",
+        "title": "Dhurandhar: The Revenge",
+        "description": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the li...",
+        "source_link": "https://www.themoviedb.org/movie/1582770"
       },
       {
         "rank": 9,
@@ -132,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/kDAB1LqDroHuzq6tbskKVJGMR1y.jpg",
-        "title": "In the Grey",
-        "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back\u2014an i...",
-        "source_link": "https://www.themoviedb.org/movie/1122573"
+        "image": "https://image.tmdb.org/t/p/w200/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+        "title": "Remarkably Bright Creatures",
+        "description": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her ...",
+        "source_link": "https://www.themoviedb.org/movie/1330021"
       }
     ]
   }
