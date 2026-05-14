@@ -1,76 +1,76 @@
 {
-  "last_updated": "May 14, 2026, 16:12 UTC",
+  "last_updated": "May 14, 2026, 18:51 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://images.pushsquare.com/371c07c43c0ad/large.jpg",
-        "title": "8 PS Plus Extra, Premium Games for May 2026 Announced - Push Square",
-        "description": "Available from 19th May",
-        "source_link": "https://www.pushsquare.com/news/2026/05/8-ps-plus-extra-premium-games-for-may-2026-announced"
+        "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
+        "title": "Changes to the ARC Raiders update schedule - ARC Raiders",
+        "description": "Update cadence changes, October update, and the future of ARC Raiders",
+        "source_link": "https://arcraiders.com/news/development-update"
       },
       {
         "rank": 2,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/06/Chromebook-Plus-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google on its \u2018continued commitment to Chromebooks\u2019 after Googlebooks - 9to5Google",
+        "description": "Following yesterday\u2019s Googlebook announcement, the company released a post aimed at existing enterprise and educational Chromebook users.",
+        "source_link": "http://9to5google.com/2026/05/13/google-on-its-continued-commitment-to-chromebooks-after-googlebook/"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/instagram-instants-app.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Meta launches Instants, a new iPhone app and Instagram feature for ephemeral sharing - 9to5Mac",
+        "description": "Meta just launched a brand new iPhone app called Instants. Built around ephemeral photo sharing, the new social media app...",
+        "source_link": "https://9to5mac.com/2026/05/13/meta-launches-instants-a-new-iphone-app-and-instagram-feature-for-ephemeral-sharing/"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.phoronix.net/image.php?id=2026&image=fragnesia",
+        "title": "Fragnesia Made Public As Latest Linux Local Privilege Escalation Vulnerability - Phoronix",
+        "description": "Following last week's disclosure of the Dirty Frag vulnerability for the Linux kernel, which only finished being patched up in mainline on Monday, Fragnesia is now public as a similar local privilege escalation (LPE) vulnerability.",
+        "source_link": "https://www.phoronix.com/news/Linux-Fragnesia"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.sammobile.com/wp-content/uploads/2026/05/exploded-galaxy-s24-korea-2026-1.jpg.jpeg",
+        "title": "Galaxy S24 explodes in a user's hands for no apparent reason - SamMobile",
+        "description": "It's quite uncommon for smartphones to just combust for no apparent reason, but there are rare cases where it does happen. A Reddit user from South Korea claims that their Galaxy S24 \"exploded\" in their hand during use for no clear reason. The device wasn't b\u2026",
+        "source_link": "https://www.sammobile.com/news/galaxy-s24-explodes-in-a-users-hands-for-no-apparent-reason/"
+      },
+      {
+        "rank": 6,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/05/PS-Plus-Catalog_05-13-26.jpg",
+        "title": "PlayStation Plus Game Catalog and Classics Catalog lineup for May 2026 announced - Gematsu",
+        "description": "Sony Interactive Entertainment has announced the May 2026 Game Catalog lineup for Extra and Premium subscribers, and Classics Catalog titles for Premium subscribers.",
+        "source_link": "https://www.gematsu.com/2026/05/playstation-plus-game-catalog-and-classics-catalog-lineup-for-may-2026-announced"
+      },
+      {
+        "rank": 7,
         "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/Bootup_Wire-9c068aa206c9a72d2b1f.png",
         "title": "Available for Xbox Insiders: New Xbox Console Updates Bring Updated Boot Up, Gamerscore Badges and More - Xbox Wire",
         "description": "Xbox Insiders can now test new Achievement features, including a visual refresh, game hiding, and highlighting fully completed games. These improvements aim to give players more control and personalization over their profiles, with broader availability coming\u2026",
         "source_link": "https://news.xbox.com/en-us/2026/05/13/xbox-insiders-june-2026-console-features/"
       },
       {
-        "rank": 3,
+        "rank": 8,
         "image": "https://assets.warhammer-community.com/40k_taufaction-may13-1-feature-ixewqurv5x.jpg",
         "title": "Warhammer 40,000 Faction Focus: T\u2019au Empire - Warhammer Community",
         "description": "New detachments, for the Greater Good!",
         "source_link": "https://www.warhammer-community.com/articles/jmtd7k9g/warhammer-40000-faction-focus-tau-empire"
       },
       {
-        "rank": 4,
-        "image": "https://images.unsplash.com/photo-1611890798517-07b0fcb4a811?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQ5fHxjb21wdXRlciUyMHNjcmVlbiUyMGJyb2tlbnxlbnwwfHx8fDE3Nzg2MTU5NTd8MA&ixlib=rb-4.1.0&q=80&w=2000",
-        "title": "Software Developers Say AI Is Rotting Their Brains - 404 Media",
-        "description": "\u201cIt's making me dumber for sure.\u201d",
-        "source_link": "https://www.404media.co/software-developers-say-ai-is-rotting-their-brains/"
-      },
-      {
-        "rank": 5,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Sky-blue-S26-Ultra-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Here\u2019s the changelog for Samsung\u2019s Android 17 update, One UI 9 - 9to5Google",
-        "description": "Samsung is rolling out the first beta update for One UI 9 which, for Galaxy devices, will bring Android 17...",
-        "source_link": "http://9to5google.com/2026/05/13/samsung-one-ui-9-android-17-changelog/"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.cined.com/content/uploads/2026/05/Sony-A7R-VI-2.jpg",
-        "title": "Sony Alpha 7R VI Announced \u2013 66.8MP Stacked Sensor, 8K 30p, 4K 120p and Sensor-Level Dual Gain - CineD",
-        "description": "Sony Alpha 7R VI announced with 66.8MP stacked Exmor RS sensor, 8K 30p, 4K 120p video, and new sensor-level Dual Gain mode.",
-        "source_link": "https://www.cined.com/sony-alpha-7r-vi-announced-66-8mp-stacked-sensor-8k-30p-4k-120p-and-sensor-level-dual-gain/"
-      },
-      {
-        "rank": 7,
-        "image": "https://kotaku.com/app/uploads/2025/09/stateofplay-saros-blogroll-17394-1200x675.jpg",
-        "title": "PS5 Exclusive Saros Reportedly Selling Worse Than You'd Expect - Kotaku",
-        "description": "Will Marvel's Wolverine be the blockbuster to snap the current rough spell?",
-        "source_link": "https://kotaku.com/analyst-claims-sonys-latest-ps5-exclusive-saros-isnt-selling-great-either-2000695652"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4693784-switch-2-main.jpg",
-        "title": "Nintendo Increased The Switch 2 Price to $500, And It Still Isn't Enough - GameSpot",
-        "description": "Nintendo is aiming to add value to the Switch 2 console with a \"robust\" lineup of games.",
-        "source_link": "https://www.gamespot.com/articles/nintendo-increased-the-switch-2-price-to-500-and-it-still-isnt-enough/1100-6539893/"
-      },
-      {
         "rank": 9,
-        "image": "https://petapixel.com/assets/uploads/2026/05/canon-rf-20-50-featured.jpg",
-        "title": "Canon\u2019s RF 20-50mm f/4L IS USM PZ Is its First Power Zoom L-Series Lens - PetaPixel",
-        "description": "Canon brings Power Zoom to the RF family.",
-        "source_link": "https://petapixel.com/2026/05/13/canons-rf-20-50mm-f-4l-is-usm-pz-is-its-first-power-zoom-l-series-lens/"
+        "image": "https://petapixel.com/assets/uploads/2026/05/Sony-a7R-VI-Has-a-Stacked-66.8MP-Sensor-and-Captures-30-FPS-Bursts.jpg",
+        "title": "Sony a7R VI Has a Stacked 66.8MP Sensor and Captures 30 FPS Bursts - PetaPixel",
+        "description": "You got your speed in my resolution! You got your resolution in my speed!",
+        "source_link": "https://petapixel.com/2026/05/13/sony-a7r-vi-has-a-stacked-66-8mp-sensor-and-captures-30-fps-bursts/"
       },
       {
         "rank": 10,
-        "image": "https://assets.warhammer-community.com/aos_cosnewunits-may13-1-feature-2ppjhf6aqn.jpg",
-        "title": "Cities of Sigmar rules \u2013 New units - Warhammer Community",
-        "description": "Get a glimpse at some of the rules for the new Warhammer Age of Sigmar miniatures.",
-        "source_link": "https://www.warhammer-community.com/articles/m2dw9uao/cities-of-sigmar-rules-new-units"
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/Incognito-chat-with-Meta-AI_Image.jpeg?resize=1200,673",
+        "title": "WhatsApp adds an incognito mode in Meta AI chats - TechCrunch",
+        "description": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
+        "source_link": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/"
       }
     ],
     "trending_movies": [
@@ -90,31 +90,31 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/40I66L7QKguTFDPvcLcdiTbAD7I.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-        "title": "Michael",
-        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
         "title": "Mortal Kombat II",
         "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
         "source_link": "https://www.themoviedb.org/movie/931285"
       },
       {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/40I66L7QKguTFDPvcLcdiTbAD7I.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
+      },
+      {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg",
-        "title": "Faces of Death",
-        "description": "A woman, employed as a website content moderator, comes across a series of violent videos reproducing death scenes from a film....",
-        "source_link": "https://www.themoviedb.org/movie/855435"
+        "image": "https://image.tmdb.org/t/p/w200/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
+        "title": "You, Me & Tuscany",
+        "description": "When a woman crashes at an empty Italian villa, posing as the owner's fianc\u00e9e, she discovers an unexpected romance that could transform her life....",
+        "source_link": "https://www.themoviedb.org/movie/1455079"
       },
       {
         "rank": 7,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+        "title": "Swapped",
+        "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
+        "source_link": "https://www.themoviedb.org/movie/1007757"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg",
+        "title": "Faces of Death",
+        "description": "A woman, employed as a website content moderator, comes across a series of violent videos reproducing death scenes from a film....",
+        "source_link": "https://www.themoviedb.org/movie/855435"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/z1dGYCdc8imuQ6LFkd9moc0zaBe.jpg",
         "title": "Dhurandhar: The Revenge",
         "description": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the li...",
         "source_link": "https://www.themoviedb.org/movie/1582770"
-      },
-      {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-        "title": "The Devil Wears Prada 2",
-        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
-        "source_link": "https://www.themoviedb.org/movie/1314481"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
-        "title": "Remarkably Bright Creatures",
-        "description": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her ...",
-        "source_link": "https://www.themoviedb.org/movie/1330021"
       }
     ]
   }
