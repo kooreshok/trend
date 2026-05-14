@@ -1,76 +1,69 @@
 {
-  "last_updated": "May 14, 2026, 11:48 UTC",
+  "last_updated": "May 14, 2026, 13:59 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-17-Max-official.png",
-        "title": "Xiaomi officially announces new flagship phone with Leica cameras and large display - Notebookcheck",
-        "description": "The Xiaomi 17 Max has been confirmed for a May launch in China, with pre-orders already open. The company has teased the device in a light blue colorway, revealing its design language and a few key highlights. Separately, a leak has shown the device in multip\u2026",
-        "source_link": "https://www.notebookcheck.net/Xiaomi-officially-announces-new-flagship-phone-with-Leica-cameras-and-large-display.1295508.0.html"
+        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4693784-switch-2-main.jpg",
+        "title": "Nintendo Increased The Switch 2 Price to $500, And It Still Isn't Enough - GameSpot",
+        "description": "Nintendo is aiming to add value to the Switch 2 console with a \"robust\" lineup of games.",
+        "source_link": "https://www.gamespot.com/articles/nintendo-increased-the-switch-2-price-to-500-and-it-still-isnt-enough/1100-6539893/"
       },
       {
         "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/sony-xperia-1-viii-colors.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-        "title": "Sony\u2019s new Xperia phone gets an overdue redesign - The Verge",
-        "description": "The Sony Xperia 1 VIII gets a new look with a refreshed square camera module, but still no US release.",
-        "source_link": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs"
+        "image": "https://petapixel.com/assets/uploads/2026/05/canon-eos-r6-v-featured.jpg",
+        "title": "The Canon EOS R6 V Removes the R6 III\u2019s EVF and Adds an Internal Fan - PetaPixel",
+        "description": "The R6 III but with a fan. And no EVF.",
+        "source_link": "https://petapixel.com/2026/05/13/the-canon-eos-r6-v-removes-the-r6-iiis-evf-and-adds-an-internal-fan/"
       },
       {
         "rank": 3,
+        "image": "https://cdn.motor1.com/images/mgl/NGPVWl/s1/embargo-rivian-assistant.jpg",
+        "title": "Rivian's New AI Voice Assistant Is Rolling Out. Here's What It Can Do - InsideEVs",
+        "description": "The Rivian Assistant hits the R1S and R1T via the startup's latest software update. The R2 is next.",
+        "source_link": "https://insideevs.com/news/795539/rivian-assistant-launch-r1-r2-2026/"
+      },
+      {
+        "rank": 4,
+        "image": "https://traxion.gg/wp-content/uploads/2026/05/Forza-Horizon-6-will-rebalance-Wheelspin-rewards.jpg",
+        "title": "Forza Horizon 6 will rebalance Wheelspin rewards - Traxion.GG",
+        "description": "Playground Games details Forza Horizon 6\u2019s new progression systems.",
+        "source_link": "https://traxion.gg/forza-horizon-6-will-rebalance-wheelspin-rewards/"
+      },
+      {
+        "rank": 5,
+        "image": "https://helios-i.mashable.com/imagery/articles/07JaDzqrz9xnLGe1iDzOeDV/hero-image.fill.size_1200x675.v1778601463.jpg",
+        "title": "Pre-order the Google Fitbit Air at Amazon and get a free Active Band - Mashable",
+        "description": "The first screen-free Fitbit launches on May 26.",
+        "source_link": "https://mashable.com/article/may-12-fitbit-air-amazon-preorder-deal"
+      },
+      {
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/DSCF4689.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Amazon\u2019s Panos Panay addresses new Fire phone rumors - The Verge",
+        "description": "Amazon\u2019s head of devices and services doesn\u2019t quite deny plans: \u2018If I black and white say no, I would say that was accurate. But I also think it\u2019s misleading.\u2019",
+        "source_link": "https://www.theverge.com/tech/929412/amazon-panos-panay-interview-phone-transformer"
+      },
+      {
+        "rank": 7,
+        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/05/DSC_5300.jpg",
+        "title": "This 4.9kg Evolve Bike Undercuts Western Brands by Thousands - Outside Magazine",
+        "description": "It didn't even take a headline-breaking lightweight frame to build a bike that's lighter than anything offered by major Western brands \u2014 for thousands less than you'd expect.",
+        "source_link": "https://velo.outsideonline.com/road/road-gear/4-9kg-evolve-bike-china-undercuts-western-brands/#article"
+      },
+      {
+        "rank": 8,
         "image": "https://assets.techrepublic.com/uploads/2026/05/WWDC-2026.jpg?f=jpeg",
         "title": "WWDC 2026 Preview: Apple Readies Siri Overhaul, AI Updates, and More - TechRepublic",
         "description": "Apple\u2019s WWDC 2026 is expected to preview iOS 27, a smarter Siri, broader AI model options, and macOS 27 design refinements.",
         "source_link": "https://www.techrepublic.com/article/news-apple-wwdc-2026-ios-27-siri-ai-preview/"
       },
       {
-        "rank": 4,
+        "rank": 9,
         "image": "https://image.theregister.com/5239252.jpg?imageId=5239252&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
         "title": "Doozy of a Patch Tuesday includes 30 critical Microsoft CVEs - The Register",
         "description": "The good news: no 0-days. The bad news: busy week ahead for Microsoft admins",
         "source_link": "https://www.theregister.com/patches/2026/05/13/doozy-of-a-patch-tuesday-includes-30-critical-microsoft-cves/5239224"
-      },
-      {
-        "rank": 5,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Googlebook-Magic-Pointer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "DeepMind details Googlebook \u2018Magic Pointer\u2019 with demos you can try, also coming to Gemini in Chrome - 9to5Google",
-        "description": "The Magic Pointer on Googlebook was built with Google DeepMind. The research team behind this underlying capability...",
-        "source_link": "http://9to5google.com/2026/05/12/deepmind-googlebook-magic-pointer/"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ThinkPad-X13-Gen-7_AMD_03.png",
-        "title": "Ultralight laptop under 1 kg: Lenovo officially launches ThinkPad X13 Gen 7 - Notebookcheck",
-        "description": "Lenovo has officially unveiled a new addition to their ThinkPad line: The ultralight Lenovo ThinkPad X13 Gen 7, which has a starting weight of less than 1 kg. The new model launches with both AMD Ryzen 400 and Intel Panther Lake CPUs.",
-        "source_link": "https://www.notebookcheck.net/Ultralight-laptop-under-1-kg-Lenovo-officially-launches-ThinkPad-X13-Gen-7.1295182.0.html"
-      },
-      {
-        "rank": 7,
-        "image": "https://kotaku.com/app/uploads/2026/05/image-78-1200x675.jpg",
-        "title": "Playing Forza Horizon 6 Early Gets Modder Banned For 7,973 Years - Kotaku",
-        "description": "Also: Devil Dinosaur comes to Marvel Rivals and Alan Wake comes to Phasmophobia",
-        "source_link": "https://kotaku.com/playing-forza-horizon-6-early-gets-modder-banned-for-7973-years-2000695347"
-      },
-      {
-        "rank": 8,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/new-android-auto-hero.jpg?w=1200&h=675&fit=crop",
-        "title": "Android Auto's big 2026 makeover brings immersive maps and FHD YouTube - Android Police",
-        "description": "The perfect UI for ever screen, regardless of the shape and size",
-        "source_link": "https://www.androidpolice.com/everything-new-with-android-auto/"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.macrumors.com/t/fM58NY7kK-P6J1UNyp4LNqANUxI=/2096x/article-new/2026/05/google-gemini-intelligence.jpg",
-        "title": "Google Previews Android 17 With 'Gemini Intelligence' a Month Before Apple's iOS 27 Reveal - MacRumors",
-        "description": "Google today previewed Android 17, the next version of Android that it is bringing to smartphones and other devices. Android 17 includes multiple new...",
-        "source_link": "https://www.macrumors.com/2026/05/12/google-previews-android-17/"
-      },
-      {
-        "rank": 10,
-        "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/05/Rivian-AI-assistant.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Rivian rolls out \u2018Hey Rivian\u2019 AI assistant with full vehicle control - Electrek",
-        "description": "Rivian launches its AI-powered voice assistant to all R1 owners with Connect+, offering deep vehicle control that Tesla's Grok still lacks.",
-        "source_link": "http://electrek.co/2026/05/12/rivian-hey-rivian-ai-assistant-vehicle-control/"
       }
     ],
     "trending_movies": [
@@ -111,38 +104,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-        "title": "Swapped",
-        "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
-        "source_link": "https://www.themoviedb.org/movie/1007757"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
-        "title": "Remarkably Bright Creatures",
-        "description": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her ...",
-        "source_link": "https://www.themoviedb.org/movie/1330021"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg",
         "title": "Faces of Death",
         "description": "A woman, employed as a website content moderator, comes across a series of violent videos reproducing death scenes from a film....",
         "source_link": "https://www.themoviedb.org/movie/855435"
       },
       {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
+        "title": "Remarkably Bright Creatures",
+        "description": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her ...",
+        "source_link": "https://www.themoviedb.org/movie/1330021"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/mJS0IF7Af3WpPRhSTDT6rGpiLzw.jpg",
-        "title": "You, Me & Tuscany",
-        "description": "When a woman crashes at an empty Italian villa, posing as the owner's fianc\u00e9e, she discovers an unexpected romance that could transform her life....",
-        "source_link": "https://www.themoviedb.org/movie/1455079"
+        "image": "https://image.tmdb.org/t/p/w200/kDAB1LqDroHuzq6tbskKVJGMR1y.jpg",
+        "title": "In the Grey",
+        "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back\u2014an i...",
+        "source_link": "https://www.themoviedb.org/movie/1122573"
       }
     ]
   }
