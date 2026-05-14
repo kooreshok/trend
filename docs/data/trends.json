@@ -1,76 +1,76 @@
 {
-  "last_updated": "May 14, 2026, 09:30 UTC",
+  "last_updated": "May 14, 2026, 11:48 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Xiaomi-17-Max-official.png",
+        "title": "Xiaomi officially announces new flagship phone with Leica cameras and large display - Notebookcheck",
+        "description": "The Xiaomi 17 Max has been confirmed for a May launch in China, with pre-orders already open. The company has teased the device in a light blue colorway, revealing its design language and a few key highlights. Separately, a leak has shown the device in multip\u2026",
+        "source_link": "https://www.notebookcheck.net/Xiaomi-officially-announces-new-flagship-phone-with-Leica-cameras-and-large-display.1295508.0.html"
+      },
+      {
+        "rank": 2,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/sony-xperia-1-viii-colors.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
         "title": "Sony\u2019s new Xperia phone gets an overdue redesign - The Verge",
         "description": "The Sony Xperia 1 VIII gets a new look with a refreshed square camera module, but still no US release.",
         "source_link": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://assets.techrepublic.com/uploads/2026/05/WWDC-2026.jpg?f=jpeg",
+        "title": "WWDC 2026 Preview: Apple Readies Siri Overhaul, AI Updates, and More - TechRepublic",
+        "description": "Apple\u2019s WWDC 2026 is expected to preview iOS 27, a smarter Siri, broader AI model options, and macOS 27 design refinements.",
+        "source_link": "https://www.techrepublic.com/article/news-apple-wwdc-2026-ios-27-siri-ai-preview/"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.theregister.com/5239252.jpg?imageId=5239252&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "title": "Doozy of a Patch Tuesday includes 30 critical Microsoft CVEs - The Register",
+        "description": "The good news: no 0-days. The bad news: busy week ahead for Microsoft admins",
+        "source_link": "https://www.theregister.com/patches/2026/05/13/doozy-of-a-patch-tuesday-includes-30-critical-microsoft-cves/5239224"
+      },
+      {
+        "rank": 5,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Googlebook-Magic-Pointer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "DeepMind details Googlebook \u2018Magic Pointer\u2019 with demos you can try, also coming to Gemini in Chrome - 9to5Google",
         "description": "The Magic Pointer on Googlebook was built with Google DeepMind. The research team behind this underlying capability...",
         "source_link": "http://9to5google.com/2026/05/12/deepmind-googlebook-magic-pointer/"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ThinkPad-X13-Gen-7_AMD_03.png",
         "title": "Ultralight laptop under 1 kg: Lenovo officially launches ThinkPad X13 Gen 7 - Notebookcheck",
         "description": "Lenovo has officially unveiled a new addition to their ThinkPad line: The ultralight Lenovo ThinkPad X13 Gen 7, which has a starting weight of less than 1 kg. The new model launches with both AMD Ryzen 400 and Intel Panther Lake CPUs.",
         "source_link": "https://www.notebookcheck.net/Ultralight-laptop-under-1-kg-Lenovo-officially-launches-ThinkPad-X13-Gen-7.1295182.0.html"
       },
       {
-        "rank": 4,
+        "rank": 7,
+        "image": "https://kotaku.com/app/uploads/2026/05/image-78-1200x675.jpg",
+        "title": "Playing Forza Horizon 6 Early Gets Modder Banned For 7,973 Years - Kotaku",
+        "description": "Also: Devil Dinosaur comes to Marvel Rivals and Alan Wake comes to Phasmophobia",
+        "source_link": "https://kotaku.com/playing-forza-horizon-6-early-gets-modder-banned-for-7973-years-2000695347"
+      },
+      {
+        "rank": 8,
         "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/new-android-auto-hero.jpg?w=1200&h=675&fit=crop",
         "title": "Android Auto's big 2026 makeover brings immersive maps and FHD YouTube - Android Police",
         "description": "The perfect UI for ever screen, regardless of the shape and size",
         "source_link": "https://www.androidpolice.com/everything-new-with-android-auto/"
       },
       {
-        "rank": 5,
-        "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/4693809-bioshock.jpg",
-        "title": "Ken Levine On Why He Quit Making BioShock Games--\"Scary And Risky And Crazy\" - GameSpot",
-        "description": "\"I wanted to step away and challenge myself in a different way.\"",
-        "source_link": "https://www.gamespot.com/articles/ken-levine-on-why-he-quit-making-bioshock-games-scary-and-risky-and-crazy/1100-6539902/"
+        "rank": 9,
+        "image": "https://images.macrumors.com/t/fM58NY7kK-P6J1UNyp4LNqANUxI=/2096x/article-new/2026/05/google-gemini-intelligence.jpg",
+        "title": "Google Previews Android 17 With 'Gemini Intelligence' a Month Before Apple's iOS 27 Reveal - MacRumors",
+        "description": "Google today previewed Android 17, the next version of Android that it is bringing to smartphones and other devices. Android 17 includes multiple new...",
+        "source_link": "https://www.macrumors.com/2026/05/12/google-previews-android-17/"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/05/Rivian-AI-assistant.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Rivian rolls out \u2018Hey Rivian\u2019 AI assistant with full vehicle control - Electrek",
         "description": "Rivian launches its AI-powered voice assistant to all R1 owners with Connect+, offering deep vehicle control that Tesla's Grok still lacks.",
         "source_link": "http://electrek.co/2026/05/12/rivian-hey-rivian-ai-assistant-vehicle-control/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
-        "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days - BleepingComputer",
-        "description": "Today is Microsoft's May 2026\u00a0Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed this month.",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
-        "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
-        "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!",
-        "source_link": "https://www.marvelrivals.com/balancepost/20260512/41667_1299947.html"
-      },
-      {
-        "rank": 9,
-        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/0ea2261682452a5440fe634590f39bd8e12ae7fb-1920x1080.jpg?accountingTag=TFT?w=1200&h=630&fm=webp&fit=crop&crop=center",
-        "title": "Teamfight Tactics patch 17.3 - Teamfight Tactics",
-        "description": "God balancing, new Blessings and trait Augments join a patch full of balance changes certain to shake up the meta!",
-        "source_link": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-patch-17-3/"
-      },
-      {
-        "rank": 10,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-maps-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iOS 26.5\u2019s Apple Maps app has two notable changes, here\u2019s what\u2019s new - 9to5Mac",
-        "description": "Apple Maps is one of several apps with new features in iOS 26.5, the latest iPhone update. Here\u2019s what\u2019s new for Maps users.",
-        "source_link": "https://9to5mac.com/2026/05/12/ios-26-5s-apple-maps-app-has-two-notable-changes-heres-whats-new/"
       }
     ],
     "trending_movies": [
@@ -111,10 +111,10 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg",
-        "title": "Faces of Death",
-        "description": "A woman, employed as a website content moderator, comes across a series of violent videos reproducing death scenes from a film....",
-        "source_link": "https://www.themoviedb.org/movie/855435"
+        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
+        "title": "Swapped",
+        "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
+        "source_link": "https://www.themoviedb.org/movie/1007757"
       },
       {
         "rank": 7,
@@ -132,10 +132,10 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-        "title": "Swapped",
-        "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
-        "source_link": "https://www.themoviedb.org/movie/1007757"
+        "image": "https://image.tmdb.org/t/p/w200/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg",
+        "title": "Faces of Death",
+        "description": "A woman, employed as a website content moderator, comes across a series of violent videos reproducing death scenes from a film....",
+        "source_link": "https://www.themoviedb.org/movie/855435"
       },
       {
         "rank": 10,
