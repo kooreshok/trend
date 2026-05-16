@@ -1,76 +1,76 @@
 {
-  "last_updated": "May 16, 2026, 22:40 UTC",
+  "last_updated": "May 16, 2026, 23:48 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://blog.tipranks.com/wp-content/uploads/2026/05/shutterstock_2719898567-750x406.jpg",
-        "title": "Microsoft Stock (NASDAQ:MSFT) Jumps as Microsoft Plans to Roll Back Faulty Drivers - TipRanks",
-        "description": "Tech giant Microsoft ($MSFT) has recently come under fire for releasing software updates that actually do more harm than good. But Microsoft may also have a plan to fix this",
-        "source_link": "https://www.tipranks.com/news/microsoft-stock-nasdaqmsft-jumps-as-microsoft-plans-to-roll-back-faulty-drivers"
+        "image": "http://cybersecuritynews.com/wp-content/uploads/2026/05/Windows-BitLocker-0-Day-Vulnerability.webp",
+        "title": "Windows BitLocker 0-Day Vulnerability Enables Access to Encrypted Drives - CyberSecurityNews",
+        "description": "Two new unpatched Windows BitLocker zero-day vulnerabilities significantly compromise Microsoft's ecosystem. The exploits include a critical BitLocker encryption bypass called YellowKey and a privilege escalation flaw named GreenPlasma. The most critical of t\u2026",
+        "source_link": "https://cybersecuritynews.com/windows-bitlocker-0-day-vulnerability/"
       },
       {
         "rank": 2,
-        "image": "https://kotaku.com/app/uploads/2026/05/PS5-Players.jpg",
-        "title": "PS5 Now Tells You Exactly How Many People Play GTA 5 - Kotaku",
-        "description": "A new beta feature lists the most played games and their player counts",
-        "source_link": "https://kotaku.com/it-looks-like-sony-is-bringing-steam-charts-to-ps5-sorta-2000696556"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832862/STK048_XBOX_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Xbox is now XBOX - The Verge",
+        "description": "Believe it or not, Microsoft appears to be rebranding Xbox.",
+        "source_link": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps"
       },
       {
         "rank": 3,
+        "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2026/05/nintendo_switch_and_nintendo_switch_2.jpg?fit=2000%2C1125&ssl=1",
+        "title": "Nintendo president hints they\u2019re preparing to continue support for original Switch - My Nintendo News",
+        "description": "The Nintendo Switch has a ridiculously large instal base and not everyone has shifted over to the newer Nintendo Switch 2, which has recently been announced to be getting a price increase.",
+        "source_link": "https://mynintendonews.com/2026/05/15/nintendo-president-hints-theyre-preparing-to-continue-support-for-original-switch/"
+      },
+      {
+        "rank": 4,
+        "image": "https://kotaku.com/app/uploads/2026/05/image-80.jpg",
+        "title": "One Diablo 4 Bug Fix Just Completely Shifted The Game's Meta - Kotaku",
+        "description": "A small issue is having big consequences in Lord of Hatred",
+        "source_link": "https://kotaku.com/diablo-4-bug-fix-accidentally-makes-players-basically-immortal-instead-yep-this-broke-the-game-2000696580"
+      },
+      {
+        "rank": 5,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/windows-11-taskbar-top.png?quality=90&strip=all&crop=0%2C11.248584361217%2C100%2C77.502831277567&w=1200",
+        "title": "Windows 11 tests an adjustable taskbar and resizable Start menu - The Verge",
+        "description": "Microsoft is testing an update for Windows 11 that will allow users to change the position of the taskbar and resize the Start button.",
+        "source_link": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button"
+      },
+      {
+        "rank": 6,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/Rage-bait.png?resize=1200,960",
+        "title": "General Catalyst posted VC rage bait and it worked, especially on a16z - TechCrunch",
+        "description": "Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times.",
+        "source_link": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/"
+      },
+      {
+        "rank": 7,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257891_Analogue_3D_AKrales_0240.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "The Analogue 3D is finally getting save states - The Verge",
+        "description": "\ufeffA new firmware update for Analogue\u2019s 4K N64 clone will let you save your progress at any point during a game.",
+        "source_link": "https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state"
+      },
+      {
+        "rank": 8,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/04/Tim-Cook-opens-Apple-BKC.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple will launch 15+ new products this fall, here\u2019s what\u2019s coming - 9to5Mac",
+        "description": "Here\u2019s every new Apple product rumored to launch this year, with 15+ total spanning iPhone, iPad, Mac, AirPods Pro, and more.",
+        "source_link": "https://9to5mac.com/2026/05/15/apple-will-launch-15-new-products-this-fall-heres-whats-coming/"
+      },
+      {
+        "rank": 9,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-intelligence-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Gemini Intelligence has high Android spec requirements, likely won't support Pixel 9 or Galaxy Z Fold 7 - 9to5Google",
         "description": "Google\u2019s new Gemini Intelligence push was announced this week and it has pretty steep requirements for Android devices to support...",
         "source_link": "http://9to5google.com/2026/05/15/gemini-intelligence-android-spec-requirements/"
       },
       {
-        "rank": 4,
-        "image": "https://assets-prd.ignimgs.com/2026/05/15/forza-main-1778862653522.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Forza Horizon 6 Makes Cherry Blossom Trees and Shrines Indestructible \u2014 Here's Why - IGN",
-        "description": "Forza Horizon 6 makes cherry blossom trees and shrines indestructible \u2014 here's why.",
-        "source_link": "https://www.ign.com/articles/forza-horizon-6-dev-explains-why-shrines-temples-and-cherry-blossom-trees-are-indestructible"
-      },
-      {
-        "rank": 5,
-        "image": "https://images.nintendolife.com/11d0ef1d8a8f3/large.jpg",
-        "title": "Yoshi And The Mysterious Book Charms And Delights With New Trailer - Nintendo Life",
-        "description": "The egg hatches in less than a week",
-        "source_link": "https://www.nintendolife.com/news/2026/05/yoshi-and-the-mysterious-book-charms-and-delights-with-new-trailer"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.theregister.com/5241392.jpg?imageId=5241392&x=0&y=28.33&cropw=100&croph=71.67&panox=0&panoy=28.33&panow=100&panoh=71.67&width=1200&height=683",
-        "title": "Google sidles up to unsuspecting users, asks for their number - The Register",
-        "description": "You may only get 5GB of storage instead of 15GB if you don't share your digits with the Chocolate Factory",
-        "source_link": "https://www.theregister.com/personal-tech/2026/05/15/google-tests-5-gb-cap-for-users-who-skip-phone-numbers/5241280"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/apple-card-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Upcoming Apple Card promo will basically give you free AirPods Pro 3 - 9to5Mac",
-        "description": "Apple is planning a huge Apple Card sign-up bonus for new customers as soon as next week. If you sign...",
-        "source_link": "https://9to5mac.com/2026/05/15/upcoming-apple-card-promo-will-basically-give-you-free-airpods-pro-3/"
-      },
-      {
-        "rank": 8,
-        "image": "https://unknownworlds.com/_next/image?url=https:/d17c72h1ypygg7.cloudfront.net/SN_2_2026_Roadmap_rev_10c96dff45.jpg&w=720&q=75",
-        "title": "Subnautica 2 Early Access Roadmap - Unknown Worlds",
-        "description": "We want to share a few more details about what you can expect from Subnautica 2 in our first Early Access roadmap.",
-        "source_link": "https://unknownworlds.com/news/subnautica-2-early-access-roadmap"
-      },
-      {
-        "rank": 9,
-        "image": null,
-        "title": "CineD tested the Sony A7rVI: Highest DR ever tested (with a caveat) and promising prospects for the A7sIV :) - SonyAlphaRumors",
-        "description": "CineD tested the Sony A7rVI and wrote this: Sony managed to create a very attractive package with the a7R VI \u2013 rolling shutter values with or without the dual gain mode are very manageable, and the dynamic range results show the power of dual gain \u201cON\u201d \u2013 we g\u2026",
-        "source_link": "https://www.sonyalpharumors.com/cined-tested-the-sony-a7rvi-highest-dr-ever-tested-with-a-caveat-and-promising-prospects-for-the-a7siv/"
-      },
-      {
         "rank": 10,
-        "image": "https://chromeunboxed.com/wp-content/uploads/2026/05/GooglebookDesktopIconsAppsWidgetsFeature.webp",
-        "title": "Googlebook finally delivers a true desktop with app icons and widgets to Google\u2019s laptops - Chrome Unboxed",
-        "description": "For over a decade, the ChromeOS desktop has been little more than a glorified wallpaper viewer. While there is definitely an appeal to that distraction-free, minimalist approach, users migrating from Windows or macOS have consistently asked for a traditional \u2026",
-        "source_link": "https://chromeunboxed.com/googlebook-finally-delivers-a-true-desktop-with-app-icons-and-widgets-to-googles-laptops/"
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "The biggest iPhone Ultra mystery left to sway my upgrade decision - 9to5Mac",
+        "description": "One big iPhone Ultra question likely won\u2019t be resolved until September: will the new form factor make the product\u2019s trade-offs worth it?",
+        "source_link": "https://9to5mac.com/2026/05/15/the-biggest-iphone-ultra-mystery-left-to-sway-my-upgrade-decision/"
       }
     ],
     "trending_movies": [
