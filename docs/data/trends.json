@@ -1,76 +1,76 @@
 {
-  "last_updated": "May 16, 2026, 10:59 UTC",
+  "last_updated": "May 16, 2026, 11:57 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.digitalfoundry.net/59b948dd69def/large.jpg",
+        "title": "Review: Forza Horizon 6: PC Ray Tracing Looks Great - A Hint Of The Project Helix Port To Come? - Digital Foundry",
+        "description": "The PC and Xbox Series X|S versions under the microscope.",
+        "source_link": "https://www.digitalfoundry.net/reviews/forza-horizon-6-pc-ray-tracing-looks-great-a-hint-of-the-project-helix-port-to-come"
+      },
+      {
+        "rank": 2,
         "image": "https://www.cnet.com/a/img/resize/c873867239d69722c0d3d4f944097a43e16689f8/hub/2022/04/12/1bccfa72-3fc5-48b6-990a-55c83ad57ca0/chrome-browser-logo-2022-001.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "Did Chrome Just Install a Massive AI Model on Your Device Without Telling You? Yes, Probably - CNET",
         "description": "A 4GB file called weights.bin may be sitting on your hard drive right now, put there by Chrome without your knowledge.",
         "source_link": "https://www.cnet.com/tech/services-and-software/did-chrome-just-install-a-massive-ai-model-on-your-device-without-telling-you-yes-probably/"
       },
       {
-        "rank": 2,
-        "image": "https://assets-prd.ignimgs.com/2026/03/09/marathon-blog-1773061347424.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Marathon Reveals New PVE Mode and Big Plans for the Future - IGN",
-        "description": "Marathon is attempting to broaden its playerbase with new offerings, such as a PVE-only mode.",
-        "source_link": "https://www.ign.com/articles/marathon-reveals-new-pve-mode-and-big-plans-for-the-future"
+        "rank": 3,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/11/airdrop-quick-share-hero-12-scaled.jpg",
+        "title": "Google starts rolling out QR code-based Quick Share transfers between Android and iPhone - Android Authority",
+        "description": "Google has started rolling out a new Quick Share feature that lets Android users share files with iPhones using QR codes.",
+        "source_link": "https://www.androidauthority.com/android-quick-share-qr-code-sharing-with-iphone-3667293/"
       },
       {
-        "rank": 3,
+        "rank": 4,
+        "image": "https://www.phoronix.net/image.php?id=2026&image=ssh_keysign_pwn",
+        "title": "Linux's Latest Vulnerability Allows Reading Root-Owned Files By Unprivileged Users - Phoronix",
+        "description": "Following Dirty Frag, Fragnesia, and other Linux kernel vulnerabilities making themselves known in recent days, the latest now is ssh-keysign-pwn.",
+        "source_link": "https://www.phoronix.com/news/Linux-ssh-keysign-pwn"
+      },
+      {
+        "rank": 5,
+        "image": "https://images.macrumors.com/t/VEuvie2bUEBQ_xzZSGhfAGjYFVM=/2500x/article-new/2023/02/Apple-Wi-Fi-Chip-Feature-Navy.jpg",
+        "title": "Apple's iPhone 18 Modem Switch Comes With a Quiet Privacy Benefit - MacRumors",
+        "description": "Rumors suggest Apple plans to expand Apple-designed modems to the entire iPhone 18 lineup, ending support for Qualcomm modems. The transition will...",
+        "source_link": "https://www.macrumors.com/2026/05/14/iphone-18-pro-modem-benefits/"
+      },
+      {
+        "rank": 6,
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/dell-releases-dell-16s-globally-kv.jpg",
+        "title": "Dell releases new 16-inch laptop globally with 120 Hz OLED display and Intel Panther Lake - Notebookcheck",
+        "description": "Dell has released a new 16-inch laptop globally. Sold with Intel Panther Lake processors and up to 32 GB of RAM, the Dell 16S can be configured with up to the Core Ultra 9 386H and a 120 Hz OLED display that outputs at 1800p (2.8K).",
+        "source_link": "https://www.notebookcheck.net/Dell-releases-new-16-inch-laptop-globally-with-120-Hz-OLED-display-and-Intel-Panther-Lake.1297377.0.html"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.techpowerup.com/img/EQ66pM6g3T1CXKFf.jpg",
+        "title": "Xbox Elite Series 3 Controller Leaks With Highly Customizable Design and New Controls - TechPowerUp",
+        "description": "Hot on the heels of the leaked compact Xbox cloud gaming controller, the same site responsible for the aforementioned leak has published regulatory images of what looks to be a successor to the Xbox Elite 2 wireless controller. The Elite 3, as it were, looks \u2026",
+        "source_link": "https://www.techpowerup.com/349062/xbox-elite-series-3-controller-leaks-with-highly-customizable-design-and-new-controls"
+      },
+      {
+        "rank": 8,
         "image": "https://kotaku.com/app/uploads/2026/05/Exodus-1200x675.jpg",
         "title": "BioWare Veteran Says New Sci-Fi RPG Exodus Nearly Killed Him - Kotaku",
         "description": "James Ohlen said leading the studio behind the ambitious new game was bad for his health",
         "source_link": "https://kotaku.com/bioware-veteran-talks-about-burnout-on-sci-fi-rpg-exodus-you-have-to-be-cutting-the-baby-in-half-all-the-time-2000696194"
       },
       {
-        "rank": 4,
+        "rank": 9,
         "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/05/sub3.png",
         "title": "Sure Seems Like Subnautica 2\u2019s Developers Are Going To Get Their $250 Million Bonus - Aftermath",
         "description": "Perhaps the mostly costly example yet of why you should never take advice from ChatGPT",
         "source_link": "https://aftermath.site/subnautica-2-units-sold-250-million-bonus-krafton/"
       },
       {
-        "rank": 5,
+        "rank": 10,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0139.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses - The Verge",
         "description": "Meta will now let all Meta Ray-Ban Display smart glasses owners write messages with hand gestures. It\u2019s also introducing developer tools for the glasses in preview.",
         "source_link": "https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer"
-      },
-      {
-        "rank": 6,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/chatgpt-codex.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "OpenAI brings Codex to ChatGPT for iPhone, iPad, and Android with these features - 9to5Mac",
-        "description": "OpenAI has released a new way to interact with its Codex app from your smartphone. An update to ChatGPT\u2019s mobile...",
-        "source_link": "https://9to5mac.com/2026/05/14/openai-brings-codex-control-to-chatgpt-for-iphone-and-android/"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets.2k.com/1a6ngf98576c/4zXpfbA9xO397sI262TrDm/6bbefd7d76850e74bcfda880dd76cf10/BL4_KA.png",
-        "title": "Raid Boss 2 details - Borderlands | Official Website",
-        "description": "Learn more about the raid boss fight against Subjugator and Thol, along with the powerful loot they can drop.",
-        "source_link": "https://borderlands.2k.com/borderlands-4/news/subjugator-and-thol-details-loot/"
-      },
-      {
-        "rank": 8,
-        "image": "https://chromeunboxed.com/wp-content/uploads/2026/05/GooglebookLandingPage.webp",
-        "title": "Google launches a gorgeous new landing page for the upcoming Googlebook - Chrome Unboxed",
-        "description": "The dust is just beginning to settle from The Android Show and the massive Googlebook announcement, and Google is beginning the work of building hype for the fall hardware launch. If you were looking for a centralized place to see what this new platform is al\u2026",
-        "source_link": "https://chromeunboxed.com/google-launches-a-gorgeous-new-landing-page-for-the-upcoming-googlebook/"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/IMG_0772-1152x648.jpeg",
-        "title": "Over a year later, AMD is bringing improved FSR 4 upscaling to its older GPUs - Ars Technica",
-        "description": "FSR 4.1 running on RDNA3 or RDNA2 GPUs may take a bigger performance hit.",
-        "source_link": "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/"
-      },
-      {
-        "rank": 10,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-        "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections - Ars Technica",
-        "description": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
-        "source_link": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/"
       }
     ],
     "trending_movies": [
@@ -111,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
-        "title": "Mortal Kombat II",
-        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
-        "source_link": "https://www.themoviedb.org/movie/931285"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/udXvLxC5gAqN8SinemyFBEcHpTf.jpg",
         "title": "The Magic Faraway Tree",
         "description": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical l...",
         "source_link": "https://www.themoviedb.org/movie/1140521"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
-        "title": "Dhurandhar: The Revenge",
-        "description": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the li...",
-        "source_link": "https://www.themoviedb.org/movie/1582770"
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+        "title": "Mortal Kombat II",
+        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
+        "source_link": "https://www.themoviedb.org/movie/931285"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
         "title": "Swapped",
         "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
         "source_link": "https://www.themoviedb.org/movie/1007757"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+        "title": "Dhurandhar: The Revenge",
+        "description": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the li...",
+        "source_link": "https://www.themoviedb.org/movie/1582770"
       }
     ]
   }
