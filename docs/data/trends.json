@@ -1,13 +1,13 @@
 {
-  "last_updated": "May 17, 2026, 11:01 UTC",
+  "last_updated": "May 17, 2026, 13:11 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832862/STK048_XBOX_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Xbox is now XBOX - The Verge",
-        "description": "Believe it or not, Microsoft appears to be rebranding Xbox.",
-        "source_link": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps"
+        "image": null,
+        "title": "Microsoft appears to rebrand Xbox as XBOX - VideoCardz.com",
+        "description": null,
+        "source_link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83dkVKQ2NRLVBVVi1IZ3pRUnh0NU1iUHRRaTA0S0FDa3dNWDJTLUtrUGJfLXdqd1VXUFVqXzFjT0JLZTlxU0JIVHhYUExibUxjWFRyY0JBbF9FbkgtbHQ0U2Jic01UTWhaME02U1pqcEhDRGtWTTdnRg?oc=5"
       },
       {
         "rank": 2,
@@ -25,52 +25,52 @@
       },
       {
         "rank": 4,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-1.jpg",
-        "title": "Gemini Intelligence requirements mean most Android phones are going to miss out - Android Authority",
-        "description": "Google has listed the device requirements to run Gemini Intelligence. The requirements will prevent it from coming to most Androids.",
-        "source_link": "https://www.androidauthority.com/gemini-intelligence-requirements-3667703/"
-      },
-      {
-        "rank": 5,
         "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2026/05/nintendo_switch_and_nintendo_switch_2.jpg?fit=2000%2C1125&ssl=1",
         "title": "Nintendo president hints they\u2019re preparing to continue support for original Switch - My Nintendo News",
         "description": "The Nintendo Switch has a ridiculously large instal base and not everyone has shifted over to the newer Nintendo Switch 2, which has recently been announced to be getting a price increase.",
         "source_link": "https://mynintendonews.com/2026/05/15/nintendo-president-hints-theyre-preparing-to-continue-support-for-original-switch/"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://kotaku.com/app/uploads/2026/05/image-80.jpg",
         "title": "One Diablo 4 Bug Fix Just Completely Shifted The Game's Meta - Kotaku",
         "description": "A small issue is having big consequences in Lord of Hatred",
         "source_link": "https://kotaku.com/diablo-4-bug-fix-accidentally-makes-players-basically-immortal-instead-yep-this-broke-the-game-2000696580"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://gizmodo.com/app/uploads/2026/05/ROG-NUC-16-Image-1200x675.jpg",
         "title": "Intel\u2019s NUCs Live On\u2026 as an Excessive Asus Mini Gaming PC - Gizmodo",
         "description": "The Asus ROG NUC 16 seems like an excellent console-like PC until you see its supposed price.",
         "source_link": "https://gizmodo.com/asus-rog-nuc-16-price-and-spec-configurations-2000759279"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/windows-11-taskbar-top.png?quality=90&strip=all&crop=0%2C11.248584361217%2C100%2C77.502831277567&w=1200",
         "title": "Windows 11 tests an adjustable taskbar and resizable Start menu - The Verge",
         "description": "Microsoft is testing an update for Windows 11 that will allow users to change the position of the taskbar and resize the Start button.",
         "source_link": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://www.zdnet.com/a/img/resize/daae2e29fd2405bce66c279ac3c98551ff81e2bd/2026/05/15/0f5c1cfe-7b77-4999-989a-a20d093dcee0/gettyimages-2251821528.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "The 4th Linux kernel flaw this month can lead to stolen SSH host keys - ZDNET",
         "description": "The good news is there's already a patch. The bad news is that the fix isn't available for all Linux distributions yet. Here's what you can do in the meantime.",
         "source_link": "https://www.zdnet.com/article/qualys-flags-a-linux-kernel-security-issue-that-could-lead-to-stolen-ssh-keys/"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://assets-prd.ignimgs.com/2022/10/24/flyzsqrwqamt5f8-1666578792849.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "The Steam Deck Is Still Out of Stock, But That Doesn't Mean You Should Buy a Marked-Up Handheld on Amazon - IGN",
         "description": "While the Steam Deck is still one of the best handheld gaming PCs, it isn't worth these marked-up prices.",
         "source_link": "https://www.ign.com/articles/dont-buy-a-marked-up-steam-deck-when-cheaper-options-exist"
+      },
+      {
+        "rank": 10,
+        "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/05/s-t-e-a-m-a-c-h-i-n-e.png?resize=2000,1125",
+        "title": "Steam Machine Price Leak Leaves PC Gamers \"Scared\" - comicbook.com",
+        "description": "The Steam Machine price may have leaked, and in the process, PC gamers have been left scared and worried for their wallets.",
+        "source_link": "http://comicbook.com/gaming/news/steam-machine-price-pc-valve-leak/"
       }
     ],
     "trending_movies": [
@@ -83,7 +83,7 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/gOggsBCSypNXq0yApYeXe7nnopT.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
         "title": "The Punisher: One Last Kill",
         "description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight....",
         "source_link": "https://www.themoviedb.org/movie/1439930"
@@ -97,24 +97,24 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/tBtqTCimYm3DKck3t8A2mgJaKVK.jpg",
         "title": "Michael",
         "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
         "source_link": "https://www.themoviedb.org/movie/936075"
       },
       {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/udXvLxC5gAqN8SinemyFBEcHpTf.jpg",
+        "title": "The Magic Faraway Tree",
+        "description": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical l...",
+        "source_link": "https://www.themoviedb.org/movie/1140521"
+      },
+      {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
-        "title": "Mortal Kombat II",
-        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
-        "source_link": "https://www.themoviedb.org/movie/931285"
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
         "rank": 7,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/udXvLxC5gAqN8SinemyFBEcHpTf.jpg",
-        "title": "The Magic Faraway Tree",
-        "description": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical l...",
-        "source_link": "https://www.themoviedb.org/movie/1140521"
+        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+        "title": "Mortal Kombat II",
+        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
+        "source_link": "https://www.themoviedb.org/movie/931285"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/2AiO7wnTrY5ktq0pLco3eS6g8NL.jpg",
-        "title": "Bride of the Year",
-        "description": "When Lienkie's dream of budding a family of her own come crashing down, she hatches a devious plan to win \"Bride of the Year\" and get back at her ex....",
-        "source_link": "https://www.themoviedb.org/movie/1684226"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
         "title": "Remarkably Bright Creatures",
         "description": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her ...",
         "source_link": "https://www.themoviedb.org/movie/1330021"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+        "title": "Apex",
+        "description": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's pr...",
+        "source_link": "https://www.themoviedb.org/movie/1318447"
       }
     ]
   }
