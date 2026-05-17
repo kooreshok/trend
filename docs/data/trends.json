@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 17, 2026, 09:01 UTC",
+  "last_updated": "May 17, 2026, 11:01 UTC",
   "categories": {
     "tech_news": [
       {
@@ -25,52 +25,52 @@
       },
       {
         "rank": 4,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-logo-on-smartphone-stock-photo-1.jpg",
+        "title": "Gemini Intelligence requirements mean most Android phones are going to miss out - Android Authority",
+        "description": "Google has listed the device requirements to run Gemini Intelligence. The requirements will prevent it from coming to most Androids.",
+        "source_link": "https://www.androidauthority.com/gemini-intelligence-requirements-3667703/"
+      },
+      {
+        "rank": 5,
         "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2026/05/nintendo_switch_and_nintendo_switch_2.jpg?fit=2000%2C1125&ssl=1",
         "title": "Nintendo president hints they\u2019re preparing to continue support for original Switch - My Nintendo News",
         "description": "The Nintendo Switch has a ridiculously large instal base and not everyone has shifted over to the newer Nintendo Switch 2, which has recently been announced to be getting a price increase.",
         "source_link": "https://mynintendonews.com/2026/05/15/nintendo-president-hints-theyre-preparing-to-continue-support-for-original-switch/"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://kotaku.com/app/uploads/2026/05/image-80.jpg",
         "title": "One Diablo 4 Bug Fix Just Completely Shifted The Game's Meta - Kotaku",
         "description": "A small issue is having big consequences in Lord of Hatred",
         "source_link": "https://kotaku.com/diablo-4-bug-fix-accidentally-makes-players-basically-immortal-instead-yep-this-broke-the-game-2000696580"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://gizmodo.com/app/uploads/2026/05/ROG-NUC-16-Image-1200x675.jpg",
         "title": "Intel\u2019s NUCs Live On\u2026 as an Excessive Asus Mini Gaming PC - Gizmodo",
         "description": "The Asus ROG NUC 16 seems like an excellent console-like PC until you see its supposed price.",
         "source_link": "https://gizmodo.com/asus-rog-nuc-16-price-and-spec-configurations-2000759279"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/windows-11-taskbar-top.png?quality=90&strip=all&crop=0%2C11.248584361217%2C100%2C77.502831277567&w=1200",
         "title": "Windows 11 tests an adjustable taskbar and resizable Start menu - The Verge",
         "description": "Microsoft is testing an update for Windows 11 that will allow users to change the position of the taskbar and resize the Start button.",
         "source_link": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button"
       },
       {
-        "rank": 8,
+        "rank": 9,
+        "image": "https://www.zdnet.com/a/img/resize/daae2e29fd2405bce66c279ac3c98551ff81e2bd/2026/05/15/0f5c1cfe-7b77-4999-989a-a20d093dcee0/gettyimages-2251821528.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "The 4th Linux kernel flaw this month can lead to stolen SSH host keys - ZDNET",
+        "description": "The good news is there's already a patch. The bad news is that the fix isn't available for all Linux distributions yet. Here's what you can do in the meantime.",
+        "source_link": "https://www.zdnet.com/article/qualys-flags-a-linux-kernel-security-issue-that-could-lead-to-stolen-ssh-keys/"
+      },
+      {
+        "rank": 10,
         "image": "https://assets-prd.ignimgs.com/2022/10/24/flyzsqrwqamt5f8-1666578792849.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "The Steam Deck Is Still Out of Stock, But That Doesn't Mean You Should Buy a Marked-Up Handheld on Amazon - IGN",
         "description": "While the Steam Deck is still one of the best handheld gaming PCs, it isn't worth these marked-up prices.",
         "source_link": "https://www.ign.com/articles/dont-buy-a-marked-up-steam-deck-when-cheaper-options-exist"
-      },
-      {
-        "rank": 9,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/05/Rage-bait.png?resize=1200,960",
-        "title": "General Catalyst posted VC rage bait and it worked, especially on a16z - TechCrunch",
-        "description": "Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times.",
-        "source_link": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/"
-      },
-      {
-        "rank": 10,
-        "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/05/s-t-e-a-m-a-c-h-i-n-e.png?resize=2000,1125",
-        "title": "Steam Machine Price Leak Leaves PC Gamers \"Scared\" - comicbook.com",
-        "description": "The Steam Machine price may have leaked, and in the process, PC gamers have been left scared and worried for their wallets.",
-        "source_link": "http://comicbook.com/gaming/news/steam-machine-price-pc-valve-leak/"
       }
     ],
     "trending_movies": [
@@ -111,17 +111,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
         "title": "Mortal Kombat II",
         "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
         "source_link": "https://www.themoviedb.org/movie/931285"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
         "rank": 8,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/2AiO7wnTrY5ktq0pLco3eS6g8NL.jpg",
+        "title": "Bride of the Year",
+        "description": "When Lienkie's dream of budding a family of her own come crashing down, she hatches a devious plan to win \"Bride of the Year\" and get back at her ex....",
+        "source_link": "https://www.themoviedb.org/movie/1684226"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg",
         "title": "Remarkably Bright Creatures",
         "description": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her ...",
         "source_link": "https://www.themoviedb.org/movie/1330021"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/9VQvX7a05FgDKAiSGg71MHTXsyF.jpg",
-        "title": "Kartavya",
-        "description": "With his family's safety at stake and menacing threats closing in, a police officer must decide how far he'll go to uphold his duty....",
-        "source_link": "https://www.themoviedb.org/movie/1628367"
       }
     ]
   }
