@@ -1,85 +1,85 @@
 {
-  "last_updated": "May 18, 2026, 06:53 UTC",
+  "last_updated": "May 18, 2026, 11:03 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/1ceb0deb23916/large.jpg",
+        "title": "More Nintendo LEGO Sets Are Being Retired Soon - Nintendo Life",
+        "description": "Including Mario, Mario Kart and Animal Crossing sets",
+        "source_link": "https://www.nintendolife.com/news/2026/05/more-nintendo-lego-sets-are-being-retired-soon"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.slashgear.com/img/gallery/the-best-android-auto-apps-youre-probably-not-using/l-intro-1778254432.jpg",
+        "title": "The Best Android Auto Apps You're Probably Not Using - SlashGear",
+        "description": "Android Auto has more to offer than just Spotify and Google Maps. There's a whole range of apps that you can use in your car. Here are a few of our favorites.",
+        "source_link": "https://www.slashgear.com/2167900/the-best-android-auto-apps-youre-probably-not-using/"
+      },
+      {
+        "rank": 3,
+        "image": "https://nintendoeverything.com/wp-content/uploads/microSD-Express-Switch-2-guide.jpg",
+        "title": "The best SD cards for Nintendo Switch 2 - Nintendo Everything",
+        "description": "This post covers the best SD card values and deals, as well as storage-saving tips and tricks for Nintendo Switch 2.",
+        "source_link": "https://nintendoeverything.com/the-best-sd-cards-for-nintendo-switch-2-explained/"
+      },
+      {
+        "rank": 4,
         "image": "https://cdn.motor1.com/images/mgl/bgPxrl/s1/ferrari-hc25.jpg",
         "title": "Ferrari's New Supercar Is An Homage To The Twin-Turbo V8 - Motor1.com",
         "description": "The Ferrari HC25 debuts in Austin as an exclusive one-off based on the F8 Spider: futuristic design and the last non-electrified V8 spider.",
         "source_link": "https://www.motor1.com/news/796044/ferrari-hc25-supercar-price-details/"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://fdn.gsmarena.com/imgroot/news/26/05/gemini-intelligence-smartphone-requirements/-952x498w6/gsmarena_001.jpg",
         "title": "Google\u2019s new Gemini Intelligence will only be available on a handful of the best current Android flagships for now - GSMArena.com news - GSMArena.com",
         "description": "The advanced AI-powered feature seems to have some crazy high requirements, both hardware and arbitrary ones. A few days ago, Google announced Gemini...",
         "source_link": "https://www.gsmarena.com/googles_new_gemini_intelligence_will_only_be_available_on_a_handful_of_the_best_current_android_flag-news-72861.php"
       },
       {
-        "rank": 3,
-        "image": "https://hackaday.com/wp-content/uploads/2019/10/LinuxMarketing.jpg",
-        "title": "After Stumbling From CVE To CVE Will Linux Get A Kill Switch? - Hackaday",
-        "description": "For the few people who have spent the past weeks living under a security rock, the Linux kernel has found itself the subject of multiple severe bugs in the form of Copy Fail and Dirty Frag, both of\u2026",
-        "source_link": "https://hackaday.com/2026/05/16/after-stumbling-from-cve-to-cve-will-linux-get-a-kill-switch/"
+        "rank": 6,
+        "image": "https://www.thetakeout.com/img/gallery/11-cereal-myths-and-secrets-that-will-change-how-you-view-breakfast-forever/l-intro-1778757105.jpg",
+        "title": "11 Cereal Myths And Secrets That Will Change How You View Breakfast Forever - The Takeout",
+        "description": "From the fourth mascot of Rice Krispies to the controversial, exaggerated origin of Kellogg's Corn Flakes, there's more to the cereal aisle than you'd expect.",
+        "source_link": "https://www.thetakeout.com/2172714/cereal-myths-secrets-history-unheard/"
       },
       {
-        "rank": 4,
+        "rank": 7,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Console-Archives-future-games.jpg",
+        "title": "Console Archives dev talks release plans and goals, wants to release over 800 games - Nintendo Everything",
+        "description": "Console Archives developer Hamster has spoken further about what\u2019s planned going forward, including how many games we could ultimately see. Satoshi Hamada, the CEO and founder of Hamster Corporation, was talking about Console Archives in a recent Famitsu inte\u2026",
+        "source_link": "https://nintendoeverything.com/console-archives-dev-talks-release-plans-and-goals-wants-to-release-over-800-games/"
+      },
+      {
+        "rank": 8,
+        "image": "https://helios-i.mashable.com/imagery/articles/030vp7DGJFgSQsTOO5uklus/hero-image.fill.size_1200x675.v1778631661.jpg",
+        "title": "Get Microsoft\u2019s core productivity apps for $130 with Office 2024 - Mashable",
+        "description": "The apps you already know and love but without the subscription.",
+        "source_link": "https://mashable.com/article/may-16-microsoft-office-2024-home-business-for-mac-or-pc-one-time-purchase"
+      },
+      {
+        "rank": 9,
         "image": "https://www.pokebeach.com/news/2026/05/Card-Party-Crowd.jpg",
         "title": "\"Card Party\" Pokemon TCG Fan Conventions Announced for 2026, Emphasizing Community Over Commerce - PokeBeach",
         "description": "Since 2021, unofficial Pokemon TCG conventions have been popping up across the U.S. in an effort to capitalize on the hobby's latest boom. Before the",
         "source_link": "https://www.pokebeach.com/2026/05/card-party-pokemon-tcg-fan-conventions-announced-for-2026-emphasizing-community-over-commerce"
       },
       {
-        "rank": 5,
+        "rank": 10,
         "image": "https://insider-gaming.com/wp-content/uploads/2026/05/1040-games-titanfall-empulse.jpg",
         "title": "EXCLUSIVE: Splitgate Developer 1047 Games is Working on a Spiritual Successor to Titanfall, Dubbed 'Empulse' - Insider Gaming",
         "description": "1047 Games' next game, dubbed 'Empulse,' appears to be a spiritual successor to Titanfall, Insider Gaming has learned.",
         "source_link": "https://insider-gaming.com/1047-games-titanfall-empulse/"
-      },
-      {
-        "rank": 6,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-messages-logo-circle-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "What new Google Messages features are rolling out [May 2026] - 9to5Google",
-        "description": "Like other Google apps, Messages for Android A/B tests many features. It can take the RCS/SMS client a rather long...",
-        "source_link": "http://9to5google.com/2026/05/16/new-google-messages-features/"
-      },
-      {
-        "rank": 7,
-        "image": "https://insider-gaming.com/wp-content/uploads/2025/10/Cal_Hampton_04-scaled.jpg",
-        "title": "GTA 6 Review Copies Won\u2019t Be Distributed, It\u2019s Claimed - Insider Gaming",
-        "description": "It has been claimed that Rockstar Games and Take-Two will NOT distribute Grand Theft Auto 6 review copies and codes later this year.",
-        "source_link": "https://insider-gaming.com/gta-6-review-copes-codes-wont-be-sent-claim/"
-      },
-      {
-        "rank": 8,
-        "image": "https://petapixel.com/assets/uploads/2026/05/Chinese-Lens-Boom-PetaPixel-Cover.jpg",
-        "title": "The Chinese Lens Boom Continues With a Flood of New Releases - PetaPixel",
-        "description": "Chinese lens brands drop a wave of new releases for the 2026 trade show season.",
-        "source_link": "https://petapixel.com/2026/05/16/the-chinese-lens-boom-continues-with-a-flood-of-new-releases/"
-      },
-      {
-        "rank": 9,
-        "image": "https://media.eventhubs.com/images/2026/05/16_teamfight-banned-bnrt.webp",
-        "title": "Ban issued for 2XKO's newest and craziest Fuse for Combo Breaker 2026 - EventHubs",
-        "description": "The Teamfight Fuse was recently released for 2XKO. With this Fuse, it's possible for both characters of a team to be active at the same time, though there are some important caveats to consider when using this Fuse. For ...",
-        "source_link": "https://www.eventhubs.com/news/2026/may/16/banned-teamfight-fuse-combo-breaker/"
-      },
-      {
-        "rank": 10,
-        "image": "https://strategyandwargaming.com/wp-content/uploads/2026/05/The-Best-Real-Time-Strategy-Games-To-Play-If-You-Love-Age-of-Empires-2-2.jpg",
-        "title": "The Best Real-Time Strategy Games To Play If You Love Age of Empires 2 - Strategy and Wargaming",
-        "description": "Age of Empires 2 is a true RTS classic, and one of the most recognizable strategy games of all time, that's still one of the most played games in 2026. With all of that being said, and if you've been on the lookout for a game just like that, then join me as w\u2026",
-        "source_link": "https://strategyandwargaming.com/2026/05/16/the-best-real-time-strategy-games-to-play-if-you-love-age-of-empires-2/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/40I66L7QKguTFDPvcLcdiTbAD7I.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
+        "image": "https://image.tmdb.org/t/p/w200/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg",
+        "title": "Lee Cronin's The Mummy",
+        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
+        "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
         "rank": 2,
@@ -97,10 +97,10 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg",
-        "title": "Lee Cronin's The Mummy",
-        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
-        "source_link": "https://www.themoviedb.org/movie/1304313"
+        "image": "https://image.tmdb.org/t/p/w200/40I66L7QKguTFDPvcLcdiTbAD7I.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
         "rank": 5,
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
         "title": "The Devil Wears Prada 2",
         "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
         "source_link": "https://www.themoviedb.org/movie/1314481"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
-        "title": "Swapped",
-        "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifeti...",
-        "source_link": "https://www.themoviedb.org/movie/1007757"
-      },
-      {
-        "rank": 10,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/udXvLxC5gAqN8SinemyFBEcHpTf.jpg",
         "title": "The Magic Faraway Tree",
         "description": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical l...",
         "source_link": "https://www.themoviedb.org/movie/1140521"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+        "title": "Star Wars: The Mandalorian and Grogu",
+        "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
+        "source_link": "https://www.themoviedb.org/movie/1228710"
       }
     ]
   }
