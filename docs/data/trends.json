@@ -1,76 +1,76 @@
 {
-  "last_updated": "May 19, 2026, 00:05 UTC",
+  "last_updated": "May 19, 2026, 04:56 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.bleepstatic.com/content/hl-images/2021/09/20/Windows.jpg",
+        "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released - BleepingComputer",
+        "description": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows systems.",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/"
+      },
+      {
+        "rank": 2,
         "image": "https://mp1st.com/wp-content/uploads/2026/05/KOTORctc-600x338.png",
         "title": "Report: Cancelled Star Wars KOTOR Remake Version Surfaces With Opening Cinematic - MP1st",
         "description": "MP1st has come across a newly surfaced cinematic from Aspyr's canceled Star Wars KOTOR Remake, showing familiar characters for fans.",
         "source_link": "https://mp1st.com/news/report-cancelled-star-wars-kotor-remake-version-surfaces-with-opening-cinematic"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/20073111/togethermode.gif?quality=90&strip=all&crop=0,10.336347770903,100,79.327304458195",
         "title": "Microsoft is retiring Teams\u2019 Together Mode - The Verge",
         "description": "Microsoft is retiring Teams\u2019 Together Mode to focus on improving video quality and performance instead of gimmicks.",
         "source_link": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://cdn.videocardz.com/1/2026/05/THERMAL-GRIZZLY-WIREVIEW-PRO-2-WIRED-HERO-1.jpg",
         "title": "Thermal Grizzly adds wired WireView Pro II GPU with 40 cm 12V-2x6 cable - VideoCardz.com",
         "description": "Thermal Grizzly WireView Pro II Wired adds GPU power cable for cards with limited adapter clearance, including Founders Edition Thermal Grizzly has listed",
         "source_link": "https://videocardz.com/newz/thermal-grizzly-adds-wired-wireview-pro-ii-gpu-with-40-cm-12v-2x6-cable"
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "image": null,
+        "title": "6 Portable Entertainment Gadgets To Buy From Costco (And 5 To Skip) - SlashGear",
+        "description": null,
+        "source_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbVBBVUNoVnhPLXE3ZzJUaW1udklHZGQ4YkVrV0JpRnNibV9xT2M3Z09lU3pPcFduYVhVZGNRRHQ2T0xlaXhpRWtFT2RRei1XRnNHMmMyTHNvbGxZWDhqTkdzZGVheHdrNE1mZTlvUjZHdkpNYjNUMkxiU2hVTURMa3hEME9EZ3BCY2RZdUM4RGhuTEgzRVo4?oc=5"
+      },
+      {
+        "rank": 6,
         "image": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?resize=1200,800",
         "title": "Apple\u2019s Siri revamp could include auto-deleting chats - TechCrunch",
         "description": "Privacy will be a major theme when Apple unveils a new version of Siri.",
         "source_link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://www.slashgear.com/img/gallery/a-750-hp-mustang-took-on-a-dodge-demon-and-the-results-werent-even-close/l-intro-1778727449.jpg",
+        "title": "A 750 HP Mustang Took On A Dodge Demon And The Results Weren't Even Close - SlashGear",
+        "description": "A 1,025-hp Dodge Demon took on a 750-hp Ford Mustang in a drag race and finished nearly a second quicker, with a faster mile-per-hour as well.",
+        "source_link": "https://www.slashgear.com/2172601/750-hp-ford-mustang-vs-dodge-demon-drag-race/"
+      },
+      {
+        "rank": 8,
         "image": "https://www.slashgear.com/img/gallery/5-lexus-engines-you-should-steer-clear-of/l-intro-1778750313.jpg",
         "title": "5 Lexus Engines You Should Steer Clear Of - SlashGear",
         "description": "Discover which 5 Lexus engines you should steer clear of. We detail reliability issues with the 1MZ-FE, 4GR-FSE, 1UR-FSE, and the twin-turbo V35A-FTS.",
         "source_link": "https://www.slashgear.com/2172668/lexus-engines-you-should-steer-clear-of/"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://cdn.videocardz.com/1/2026/05/ASUS-XBOX-ROG-ALLY-CYBERPUNK-2077-EDITION-HANDHELD-1.jpg",
         "title": "ASUS shows custom ROG Xbox Ally X Cyberpunk 2077 Edition handheld - VideoCardz.com",
         "description": "ASUS reveals custom ROG Xbox Ally X made with AK Studio ASUS has shown a custom ROG Xbox Ally X inspired by Cyberpunk 2077. The handheld was created with",
         "source_link": "https://videocardz.com/newz/asus-shows-custom-rog-xbox-ally-x-cyberpunk-2077-edition-handheld"
       },
       {
-        "rank": 7,
+        "rank": 10,
         "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/a-3d-illustration-of-google-calendar-logo-with-a-glowing-gemini-icon-floating-above-it.png?w=1600&h=900&fit=crop",
         "title": "I almost gave up on Google Calendar until this Gemini hack fixed my main gripe - Android Police",
         "description": "Google Calendar gets better when I don't have to open it",
         "source_link": "https://www.androidpolice.com/i-almost-gave-up-on-google-calendar-until-this-gemini-hack-fixed-my-main-gripe/"
-      },
-      {
-        "rank": 8,
-        "image": "https://kotaku.com/app/uploads/2026/05/titanfall2-1200x675.jpg",
-        "title": "Splitgate Developer Making Titanfall Successor Called 'Empulse' - Kotaku",
-        "description": "Titanfall fans may watch another finger curl on the monkey\u2019s paw when 1047 Games\u2019 next project is revealed",
-        "source_link": "https://kotaku.com/splitgate-developer-said-he-wanted-titanfall-3-and-it-appears-hes-making-his-own-2000696833"
-      },
-      {
-        "rank": 9,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a06ab6d4e535ade155dc67e/0x0.jpg?format=jpg&crop=1220,687,x234,y160,safe&height=900&width=1600&fit=bounds",
-        "title": "Samsung Warns Galaxy Users\u2014Delete \u2018High Risk Apps\u2019 - Forbes",
-        "description": "Samsung says these high risk apps put your phone and data at risk \u2014 here's what to know.",
-        "source_link": "https://www.forbes.com/sites/zakdoffman/2026/05/17/samsung-warns-galaxy-users-to-delete-high-risk-apps/"
-      },
-      {
-        "rank": 10,
-        "image": "https://insider-gaming.com/wp-content/uploads/2025/06/GTA-6.jpg",
-        "title": "Take-Two CEO Reaffirms GTA 6 Release Date Once Again - Insider Gaming",
-        "description": "Take-Two CEO Strauss Zelnick once again confirmed Grand Theft Auto 6 is still set to launch on November 19, 2026.",
-        "source_link": "https://insider-gaming.com/take-two-ceo-reaffirms-gta-6-release-date-once-again/"
       }
     ],
     "trending_movies": [
@@ -83,17 +83,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/40I66L7QKguTFDPvcLcdiTbAD7I.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
         "title": "Mortal Kombat II",
         "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
         "source_link": "https://www.themoviedb.org/movie/931285"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/40I66L7QKguTFDPvcLcdiTbAD7I.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
         "rank": 4,
@@ -111,17 +111,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-        "title": "The Devil Wears Prada 2",
-        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
-        "source_link": "https://www.themoviedb.org/movie/1314481"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/tBtqTCimYm3DKck3t8A2mgJaKVK.jpg",
         "title": "Michael",
         "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
         "source_link": "https://www.themoviedb.org/movie/936075"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
       },
       {
         "rank": 8,
@@ -132,10 +132,10 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg",
-        "title": "Scary Movie",
-        "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
-        "source_link": "https://www.themoviedb.org/movie/1273221"
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
         "rank": 10,
