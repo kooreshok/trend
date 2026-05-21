@@ -1,76 +1,69 @@
 {
-  "last_updated": "May 20, 2026, 22:22 UTC",
+  "last_updated": "May 21, 2026, 00:04 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/G-information-agents.png?resize=1200,750",
+        "title": "How to use Google\u2019s new AI agents to go beyond your standard searches - TechCrunch",
+        "description": "Google is launching AI-powered \u201cinformation agents\u201d that can monitor topics in the background and proactively alert users to updates and changes.",
+        "source_link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Android-17-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google rolling out Android 17 QPR1 Beta 3 for Pixel - 9to5Google",
+        "description": "The two week cadence this cycle continues with Google today releasing Android 17 QPR1 Beta 3 during I/O 2026. The...",
+        "source_link": "http://9to5google.com/2026/05/19/android-17-qpr1-beta-3-pixel/"
+      },
+      {
+        "rank": 3,
+        "image": "https://media.wired.com/photos/6a047ecbec98d3bd8037fdbe/191:100/w_1280,c_limit/GettyImages-2215577882.jpg",
+        "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses - WIRED",
+        "description": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.",
+        "source_link": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/"
+      },
+      {
+        "rank": 4,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/plex-1152x648.jpg",
         "title": "Plex\u2019s 200% Lifetime Pass price hike tries forcing users to another subscription - Ars Technica",
         "description": "Plex says that it has considered getting rid of Lifetime Passes.",
         "source_link": "https://arstechnica.com/gadgets/2026/05/plexs-200-lifetime-pass-price-hike-tries-forcing-users-to-another-subscription/"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://www.droid-life.com/wp-content/uploads/2026/05/Wear-OS-7-1200x628.jpg",
         "title": "Everything New in Wear OS 7 - Droid Life",
         "description": "Wear OS 7 has been announced, set to release to supported smartwatches later this year. Google claims that watches upgrading from Wear OS 6 to Wear OS 7 can expect up to 10% improvement in battery life, plus plenty of new features. Wear OS 7 Canary is now ava\u2026",
         "source_link": "https://www.droid-life.com/2026/05/19/wear-os-7-changes/"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2198117815/image_2198117815.jpg?io=getty-c-w630",
         "title": "Google unveils new $100 per month AI Ultra plan; cuts price of top-tier plan (GOOG:NASDAQ) - Seeking Alpha",
         "description": "Google unveils $100/mo AI Ultra plan at I/O for developers: higher Gemini limits, Antigravity access, 20TB storage, YouTube Premium.",
         "source_link": "https://seekingalpha.com/news/4595020-google-unveils-new-100-per-month-ai-ultra-plan-cuts-price-of-top-tier-plan"
       },
       {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19194122/acastro_190319_1777_kickstarter_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Kickstarter just killed its new mature content rules - The Verge",
-        "description": "\u2018Honestly? We botched it.\u2019",
-        "source_link": "https://www.theverge.com/tech/933844/kickstarter-just-killed-its-new-mature-content-rules"
-      },
-      {
-        "rank": 5,
-        "image": "https://kotaku.com/app/uploads/2026/05/Screenshot-2026-05-18-144617-1200x675.jpg",
-        "title": "The Disco Elysium Studio's New RPG Is Uneven But Absorbing - Kotaku",
-        "description": "This follow-up to Disco Elysium is righteously angry at the state of the world, though sometimes its anger gets the better of it",
-        "source_link": "https://kotaku.com/zero-parades-for-dead-spies-review-zaum-disco-elysium-pc-steam-2000697108"
-      },
-      {
-        "rank": 6,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/xreal-project-aura-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "XREAL\u2019s Android XR glasses will launch before the end of 2026, early access for devs - 9to5Google",
-        "description": "Alongside other Android XR announcements at Google I/O 2026, XREAL has confirmed that its Project Aura glasses will be launching...",
-        "source_link": "http://9to5google.com/2026/05/19/xreal-project-aura-android-xr-developers-2026-launch/"
-      },
-      {
         "rank": 7,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Project-Genie-Street-View.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google's interactive world builder, Project Genie, will drop you in real places using Street View - 9to5Google",
-        "description": "Google just announced its world-exploring game, Project Genie, is getting a new feature that drops you in real-world locations, like...",
-        "source_link": "http://9to5google.com/2026/05/19/google-project-genie-to-generate-real-places-with-street-view/"
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Gmail-Live-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "\u2018Gmail Live\u2019 is a new way to search emails as AI Inbox comes to AI Plus, AI Pro - 9to5Google",
+        "description": "At I/O 2026, Google announced two big updates for Gmail, starting with a new Live voice search experience.",
+        "source_link": "http://9to5google.com/2026/05/19/gmail-live/"
       },
       {
         "rank": 8,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/05/IMG_1192.jpg?resize=1200,900",
-        "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots - TechCrunch",
-        "description": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
-        "source_link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ProjectAurahandson-2.jpg?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
+        "title": "A first (and second) look at the Android XR glasses launching this year - The Verge",
+        "description": "At Google I/O, the company showed off the latest Android XR demos, Project Aura, and new designs for Samsung\u2019s collab with Warby Parker and Gentle Monster.",
+        "source_link": "https://www.theverge.com/tech/933125/android-xr-samsung-warby-parker-gentle-monster-project-aura-xreal-google-io-2026"
       },
       {
         "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Google-Intelligent-Search-Box.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google gets \u2018intelligent\u2019 Search box redesign, information agents, mini apps, & more - 9to5Google",
-        "description": "Google Search received big updates at I/O 2026. For starters, AI Mode is now powered by Gemini 3.5 Flash globally...",
-        "source_link": "http://9to5google.com/2026/05/19/google-gets-intelligent-search-box-redesign/"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.ctfassets.net/kftzwdyauwt9/7qrOAES4m86YSNSeLjDFI3/2a82d6af71882438b33811ad5c1e5fdc/SEO_Card_-_new_title.png?w=1600&h=900&fit=fill",
-        "title": "Advancing content provenance for a safer, more transparent AI ecosystem - OpenAI",
-        "description": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
-        "source_link": "https://openai.com/index/advancing-content-provenance/"
+        "image": "https://techcrunch.com/wp-content/uploads/2025/08/Pixel-10-Pro-feat-.jpg?resize=1200,675",
+        "title": "Google\u2019s AI Studio now lets anyone build Android apps in minutes - TechCrunch",
+        "description": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
+        "source_link": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/"
       }
     ],
     "trending_movies": [
@@ -97,17 +90,17 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/j5cW7TM0onwp3fQiowXX5ZJLUHR.jpg",
         "title": "Normal",
         "description": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quain...",
         "source_link": "https://www.themoviedb.org/movie/1242332"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
         "rank": 6,
