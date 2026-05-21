@@ -1,69 +1,69 @@
 {
-  "last_updated": "May 21, 2026, 20:50 UTC",
+  "last_updated": "May 21, 2026, 22:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/demishassabis.webp?quality=90&strip=all&crop=0%2C10.597538331207%2C100%2C78.804923337586&w=1200",
+        "title": "\u2018Solve all diseases,\u2019 you say? - The Verge",
+        "description": "In this special Optimizer issue, we contextualize a bold claim by Google DeepMind CEO Demis Hassabis during the 2026 I/O keynote.",
+        "source_link": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health"
+      },
+      {
+        "rank": 2,
         "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
         "title": "Notes on The Matchmaking System - ARC Raiders",
         "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
         "source_link": "https://arcraiders.com/news/notes-on-the-matchmaking-system"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/Samsung-Odyssey-G8.jpg",
+        "title": "Samsung Expands Odyssey G8 Lineup With 6K@165Hz, 5K@180Hz, And 4K@240Hz OLED Monitors, All Running 4th-Gen Penta Tandem Panels - Wccftech",
+        "description": "Samsung launches the Odyssey G8 gaming monitors, including the world's first 6K@165Hz model, with prices and availability yet to be disclosed",
+        "source_link": "https://wccftech.com/samsung-claims-its-odyssey-g8-g80hs-is-the-worlds-first-6k-gaming-monitor/"
+      },
+      {
+        "rank": 4,
         "image": "https://photos5.appleinsider.com/gallery/67697-142696-000-lede-Gemini-xl.jpg",
         "title": "Google I/O 2026 had nothing to say and said it badly ahead of Apple's WWDC - AppleInsider",
         "description": "Google I/O is always like a little amateur dramatics show, but this year the company could have boasted about making Apple rely on its Gemini. It just totally failed to do so.",
         "source_link": "https://appleinsider.com/articles/26/05/20/google-io-2026-had-nothing-to-say-and-said-it-badly-ahead-of-apples-wwdc"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://i.pcmag.com/imagery/articles/00re9etl8jKEhY2HZsNfEOk-1.fit_lim.size_1200x630.v1779274639.jpg",
+        "title": "Google Overhauls Top-Tier AI Plans, Drops Price and Adds YouTube Premium - PCMag",
+        "description": "A new $100-per-month subscription offers expanded Gemini access for less. The most expensive plan also gets a price cut as Google looks to compete with OpenAI and Anthropic.",
+        "source_link": "https://www.pcmag.com/news/some-google-ai-plans-now-include-youtube-premium-overhauls-top-tiers"
+      },
+      {
+        "rank": 6,
         "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/new-giant-enemies-boss-battles-in-arc-raiders.jpg?w=1600&h=900&fit=crop",
         "title": "ARC Raiders Is Adding Huge New Enemy Types Players Haven\u2019t Seen Before - ScreenRant",
         "description": "ARC Raiders developer Embark Studios confirms new massive ARC enemy types are in development, including completely new machine designs.",
         "source_link": "https://screenrant.com/arc-raiders-new-massive-arc-enemies-exclusive/"
       },
       {
-        "rank": 4,
-        "image": "https://gizmodo.com/app/uploads/2026/05/Hypershell-Exoskeleton-New-Hiking-1200x675.jpg",
-        "title": "The Hypershell Exoskeleton Is Slimmer, Faster, and Still Not Built for Your Bad Knees - Gizmodo",
-        "description": "Hiking exoskeletons are now a thing, really.",
-        "source_link": "https://gizmodo.com/the-hypershell-exoskeleton-is-slimmer-faster-and-still-not-built-for-your-bad-knees-2000761299"
-      },
-      {
-        "rank": 5,
+        "rank": 7,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-family-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Samsung preps 6.47-inch Galaxy S27 \u2018Pro\u2019 to make 4 flagship models next year - 9to5Google",
         "description": "Leaks allege that Samsung\u2019s Galaxy S27 Pro will sport a 6.47-inch display. It\u2019s expected to be shoehorned in as the...",
         "source_link": "http://9to5google.com/2026/05/20/smaunsg-preps-galaxy-s27-pro/"
       },
       {
-        "rank": 6,
-        "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-        "title": "Google Launches $100 Monthly AI Ultra Plan - Yahoo Finance",
-        "description": "New subscription targets developers and creators using Gemini",
-        "source_link": "https://finance.yahoo.com/sectors/technology/articles/google-launches-100-monthly-ai-140558878.html"
-      },
-      {
-        "rank": 7,
+        "rank": 8,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/vizeo-gplv2-software-1152x648.jpg",
         "title": "Yearslong fight over users\u2019 right to tweak smart TV software heads to trial - Ars Technica",
         "description": "Access to TV OS's source code could allow users to limit ads, tracking.",
         "source_link": "https://arstechnica.com/gadgets/2026/05/inside-the-fight-to-force-vizio-to-share-linux-based-source-code-for-its-tvs-os/"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://images.nintendolife.com/92045aacac4dc/large.jpg",
         "title": "Round Up: The Reviews For Lego Batman: Legacy Of The Dark Knight Are In - Nintendo Life",
         "description": "How does it hold up on other platforms?",
         "source_link": "https://www.nintendolife.com/news/2026/05/round-up-the-reviews-for-lego-batman-legacy-of-the-dark-knight-are-in"
-      },
-      {
-        "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/state-of-play_UI9BBFM.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "PlayStation just announced a new State of Play, and it'll be over an hour long - Eurogamer",
-        "description": "PlayStation has announced it will be kicking off the Summer Games Fest week with a brand new showcase.",
-        "source_link": "https://www.eurogamer.net/playstation-just-announced-a-new-state-of-play-and-itll-be-over-an-hour-long"
       }
     ],
     "trending_movies": [
@@ -97,31 +97,31 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-        "title": "Star Wars: The Mandalorian and Grogu",
-        "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
-        "source_link": "https://www.themoviedb.org/movie/1228710"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
         "title": "Mortal Kombat II",
         "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
         "source_link": "https://www.themoviedb.org/movie/931285"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/g8JqVRu2eC5SGJd9idauTXurMl2.jpg",
-        "title": "Normal",
-        "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more e...",
-        "source_link": "https://www.themoviedb.org/movie/1242332"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+        "title": "Star Wars: The Mandalorian and Grogu",
+        "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
+        "source_link": "https://www.themoviedb.org/movie/1228710"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/g8JqVRu2eC5SGJd9idauTXurMl2.jpg",
+        "title": "Normal",
+        "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more e...",
+        "source_link": "https://www.themoviedb.org/movie/1242332"
       },
       {
         "rank": 9,
