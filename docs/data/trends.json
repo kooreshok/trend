@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 21, 2026, 18:56 UTC",
+  "last_updated": "May 21, 2026, 20:50 UTC",
   "categories": {
     "tech_news": [
       {
@@ -39,38 +39,31 @@
       },
       {
         "rank": 6,
+        "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+        "title": "Google Launches $100 Monthly AI Ultra Plan - Yahoo Finance",
+        "description": "New subscription targets developers and creators using Gemini",
+        "source_link": "https://finance.yahoo.com/sectors/technology/articles/google-launches-100-monthly-ai-140558878.html"
+      },
+      {
+        "rank": 7,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/vizeo-gplv2-software-1152x648.jpg",
         "title": "Yearslong fight over users\u2019 right to tweak smart TV software heads to trial - Ars Technica",
         "description": "Access to TV OS's source code could allow users to limit ads, tracking.",
         "source_link": "https://arstechnica.com/gadgets/2026/05/inside-the-fight-to-force-vizio-to-share-linux-based-source-code-for-its-tvs-os/"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://images.nintendolife.com/92045aacac4dc/large.jpg",
         "title": "Round Up: The Reviews For Lego Batman: Legacy Of The Dark Knight Are In - Nintendo Life",
         "description": "How does it hold up on other platforms?",
         "source_link": "https://www.nintendolife.com/news/2026/05/round-up-the-reviews-for-lego-batman-legacy-of-the-dark-knight-are-in"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://assetsio.gnwcdn.com/state-of-play_UI9BBFM.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "PlayStation just announced a new State of Play, and it'll be over an hour long - Eurogamer",
         "description": "PlayStation has announced it will be kicking off the Summer Games Fest week with a brand new showcase.",
         "source_link": "https://www.eurogamer.net/playstation-just-announced-a-new-state-of-play-and-itll-be-over-an-hour-long"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.mos.cms.futurecdn.net/CUMgJkhZf5EBY9MrbfXcSS-2560-80.jpg",
-        "title": "I got to try Android XR glasses at Google I/O, and I'm more excited about smart display glasses than I've ever been - Android Central",
-        "description": "Audio-only glasses are cool, but a display adds so much more.",
-        "source_link": "https://www.androidcentral.com/wearables/i-got-to-try-android-xr-glasses-at-google-i-o-and-im-more-excited-about-smart-display-glasses-than-ive-ever-been"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Gemini-Neural-Expressive-7-scaled.jpg",
-        "title": "Google quietly nerfed its AI Pro plan, and here's what you get now - Android Authority",
-        "description": "Google is restricting the AI Pro tier with usage caps and fewer free perks after announcing it was making the AI Ultra plan more affordable.",
-        "source_link": "https://www.androidauthority.com/google-ai-pro-usage-limits-3669063/"
       }
     ],
     "trending_movies": [
@@ -90,35 +83,35 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/40I66L7QKguTFDPvcLcdiTbAD7I.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-        "title": "Star Wars: The Mandalorian and Grogu",
-        "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
-        "source_link": "https://www.themoviedb.org/movie/1228710"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/40I66L7QKguTFDPvcLcdiTbAD7I.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+        "title": "Star Wars: The Mandalorian and Grogu",
+        "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
+        "source_link": "https://www.themoviedb.org/movie/1228710"
+      },
+      {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
-        "title": "Mother Mary",
-        "description": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm...",
-        "source_link": "https://www.themoviedb.org/movie/1102883"
+        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+        "title": "Mortal Kombat II",
+        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
+        "source_link": "https://www.themoviedb.org/movie/931285"
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/j5cW7TM0onwp3fQiowXX5ZJLUHR.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/g8JqVRu2eC5SGJd9idauTXurMl2.jpg",
         "title": "Normal",
         "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more e...",
         "source_link": "https://www.themoviedb.org/movie/1242332"
@@ -132,17 +125,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
-        "title": "Mortal Kombat II",
-        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
-        "source_link": "https://www.themoviedb.org/movie/931285"
+        "image": "https://image.tmdb.org/t/p/w200/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
+        "title": "Mother Mary",
+        "description": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm...",
+        "source_link": "https://www.themoviedb.org/movie/1102883"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
-        "title": "The Punisher: One Last Kill",
-        "description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight....",
-        "source_link": "https://www.themoviedb.org/movie/1439930"
+        "image": "https://image.tmdb.org/t/p/w200/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+        "title": "Passenger",
+        "description": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called t...",
+        "source_link": "https://www.themoviedb.org/movie/1368314"
       }
     ]
   }
