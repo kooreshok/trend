@@ -1,85 +1,92 @@
 {
-  "last_updated": "May 22, 2026, 14:30 UTC",
+  "last_updated": "May 22, 2026, 17:05 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://insider-gaming.com/wp-content/uploads/2025/09/fairgames.jpg",
+        "title": "Sony Trademark\u2019s New Game Called \u2018Break In\u2019 Ahead of PlayStation State of Play - Insider Gaming",
+        "description": "Sony has trademarked a new PlayStation game called 'Break In' ahead of its State of Play event in June.",
+        "source_link": "https://insider-gaming.com/break-in-playstation/"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/verge-mood-gemini-google-ai-studio.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+        "title": "I can\u2019t believe how fast Google vibe coded my first Android app - theverge.com",
+        "description": "Here\u2019s what it\u2019s like to use Google AI Studio, which promises to turn a prompt into an entire native Android app that runs on your phone right away.",
+        "source_link": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+        "title": "Sony\u2019s other PS Plus plans are going up in price too. - The Verge",
+        "description": "",
+        "source_link": "https://www.theverge.com/games/935198/sonys-other-ps-plus-plans-are-going-up-in-price-too"
+      },
+      {
+        "rank": 4,
+        "image": "https://assets-prd.ignimgs.com/2021/12/15/splinter-cell-remake-1639588067789.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Former Splinter Cell Creative Director Says Realistic Graphics Are Causing Problems for Modern Stealth Games - IGN",
+        "description": "The former creative director of one of gaming's most influential stealth franchises, Splinter Cell, has suggested that advancements in lighting and shadow have made it more difficult than ever for the fans \u2014 and creators \u2014 of the genre.",
+        "source_link": "https://www.ign.com/articles/former-splinter-cell-creative-director-says-realistic-graphics-are-causing-problems-for-modern-stealth-games"
+      },
+      {
+        "rank": 5,
+        "image": null,
+        "title": "The Company Behind the Flipper Zero Hacking Tool Is Making a Cyberdeck - Gizmodo",
+        "description": null,
+        "source_link": "https://gizmodo.com/the-company-behind-the-flipper-zero-hacking-tool-is-making-a-cyberdeck-2000761546"
+      },
+      {
+        "rank": 6,
         "image": "https://static.beebom.com/wp-content/uploads/2026/05/Ultron-Cybernetic-Drip-skin-in-Marvel-Rivals.jpg",
         "title": "How to Get Free Ultron Cybernetic Drip Skin in Marvel Rivals - Beebom",
         "description": "Learn how to unlock the free Ultron Cybernetic Drip Skin available as part of the Savage Adventure event in Marvel Rivals here.",
         "source_link": "https://beebom.com/how-to-get-free-ultron-cybernetic-drip-skin-in-marvel-rivals/"
       },
       {
-        "rank": 2,
+        "rank": 7,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/007-First-Light-James-Bond-HD-1920x1087.jpeg",
+        "title": "007 First Light Targets 60 FPS Everywhere Except Series S, As IO Blames RAM And GPU Headroom For The Cutback - Wccftech",
+        "description": "IO Interactive says 007 First Light targets 60 FPS on PS5, PS5 Pro, and Xbox Series X, while Series S is limited to 30 FPS due to RAM and GPU",
+        "source_link": "https://wccftech.com/007-first-light-targets-60-fps-everywhere-except-series-s/"
+      },
+      {
+        "rank": 8,
         "image": "https://assetsio.gnwcdn.com/e3b--RPQ.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Subnautica 2 dev apologises for telling combat-seeking players to \"go play Sons of the Forest or something\" - Eurogamer",
         "description": "A desire for self-defence in the underwater survival game comes from some mechanics not working well enough yet, Subnautica 2 developer Unknown Worlds explains.",
         "source_link": "https://www.eurogamer.net/subnautica-2-combat-response-update"
       },
       {
-        "rank": 3,
+        "rank": 9,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCjgJwva2lZrAwxHWPZFiphHAhxBdWRyU4gUiAZIStkUP4JU6yej3Z1xVhUtrhaIYVu4IL5KpvOomBDHU_aLtvgHV-R9_41nUSrngG0BGBlCv2pByfkVZNKxmwA3Nf6NR7pi6XgwdUjkwFw27lm_vNR_w2Cr1An46yOM8kfIEphrSCq2aRcaKNNj9D-PiN/s1600/linux-exploit.gif",
+        "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros - The Hacker News",
+        "description": "CVE-2026-46333 is a nine-year Linux kernel improper privilege management flaw introduced in November 2016 with a CVSS score of 5.5.",
+        "source_link": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html"
+      },
+      {
+        "rank": 10,
         "image": "https://www.pokebeach.com/news/2026/05/Pokemon-Center-Online-Japan.jpg",
         "title": "Pokemon Japan to Require Government ID for Select TCG Purchases, Limiting Access for Scalpers and Overseas Buyers - PokeBeach",
         "description": "To combat scalping, Pokemon Japan has announced that starting around August 2026, customers will need to verify their identity using the government-issued",
         "source_link": "https://www.pokebeach.com/2026/05/pokemon-japan-to-implement-government-id-verification-for-pokemon-tcg-purchases-on-pokemon-center-online"
-      },
-      {
-        "rank": 4,
-        "image": "https://assets-prd.ignimgs.com/2025/08/24/expanse-1756045941542.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "The Expanse: Osiris Reborn Is Recasting its Protagonist After Negative Fan Feedback - IGN",
-        "description": "The Expanse: Osiris Reborn will be recasting its male protagonist and his twin brother, according to developer Owlcat Games.",
-        "source_link": "https://www.ign.com/articles/the-expanse-osiris-reborn-is-recasting-its-protagonist-after-negative-fan-feedback"
-      },
-      {
-        "rank": 5,
-        "image": "https://gizmodo.com/app/uploads/2026/05/Google-Audio-Glasses-Gemini-Intelligence-Hands-on-2-1200x675.jpg",
-        "title": "It Feels Like Google Is Downplaying Smart Glasses With a Screen in Them - Gizmodo",
-        "description": "Probably for the best if it's trying to avoid comparisons to Google Glass.",
-        "source_link": "https://gizmodo.com/it-feels-like-google-is-downplaying-smart-glasses-with-a-screen-in-them-2000761657"
-      },
-      {
-        "rank": 6,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-cosmic-orange-cameras-angle.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "ACSI: Samsung edges out Apple in cell phone satisfaction, while Apple Watch ties at the top - 9to5Mac",
-        "description": "ACSI has published this year\u2019s Telecommunications, Cell Phone, and Smartwatch Study, and Apple\u2019s results are a bit of a mixed bag.",
-        "source_link": "https://9to5mac.com/2026/05/20/acsi-samsung-edges-out-apple-in-cell-phone-satisfaction-while-apple-watch-ties-at-the-top/"
-      },
-      {
-        "rank": 7,
-        "image": "https://media.eventhubs.com/images/2026/05/20-ingrid-match-footage-sf6t.webp",
-        "title": "First Ingrid match footage released for Street Fighter 6 showcasing what the mystery magical girl is truly capable of in combat - EventHubs",
-        "description": "Ingrid's big launch in Street Fighter 6 is now just a week away, and we're getting our best look as to how she'll actually function in the game.A bunch of Japanese publications have just now released ...",
-        "source_link": "https://www.eventhubs.com/news/2026/may/20/ingrid-match-footage-sf6/"
-      },
-      {
-        "rank": 8,
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10502-x/MediaObjects/41586_2026_10502_Fig1_HTML.png",
-        "title": "Imaging hidden objects with consumer LiDAR via motion-induced sampling - Nature",
-        "description": "Researchers enable hidden-object imaging on consumer LiDAR by fusing multiple frames with a motion-based model, achieving three-dimensional reconstruction, tracking and localization using low-cost, off-the-shelf smartphone sensors.",
-        "source_link": "https://www.nature.com/articles/s41586-026-10502-x"
-      },
-      {
-        "rank": 9,
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10464-0/MediaObjects/41586_2026_10464_Fig1_HTML.png",
-        "title": "De novo design of quasisymmetric two-component protein cages - Nature",
-        "description": "Researchers designed two-component proteins forming quasisymmetric cages via geometric frustration, enabling tunable virus-like assemblies for cargo delivery, cellular uptake and studying intracellular diffusion and protein localization.",
-        "source_link": "https://www.nature.com/articles/s41586-026-10464-0"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
-        "title": "Tom Clancy's Jack Ryan: Ghost War",
-        "description": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins C...",
-        "source_link": "https://www.themoviedb.org/movie/1380291"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
         "title": "Ladies First",
         "description": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by wom...",
         "source_link": "https://www.themoviedb.org/movie/1368881"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
+        "title": "Tom Clancy's Jack Ryan: Ghost War",
+        "description": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins C...",
+        "source_link": "https://www.themoviedb.org/movie/1380291"
       },
       {
         "rank": 3,
@@ -90,17 +97,17 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
-        "title": "Mortal Kombat II",
-        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
-        "source_link": "https://www.themoviedb.org/movie/931285"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/40I66L7QKguTFDPvcLcdiTbAD7I.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+        "title": "Mortal Kombat II",
+        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
+        "source_link": "https://www.themoviedb.org/movie/931285"
       },
       {
         "rank": 6,
@@ -118,17 +125,17 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/g8JqVRu2eC5SGJd9idauTXurMl2.jpg",
-        "title": "Normal",
-        "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more e...",
-        "source_link": "https://www.themoviedb.org/movie/1242332"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/g8JqVRu2eC5SGJd9idauTXurMl2.jpg",
+        "title": "Normal",
+        "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more e...",
+        "source_link": "https://www.themoviedb.org/movie/1242332"
       },
       {
         "rank": 10,
