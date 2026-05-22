@@ -1,69 +1,69 @@
 {
-  "last_updated": "May 22, 2026, 04:08 UTC",
+  "last_updated": "May 22, 2026, 08:19 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://static.beebom.com/wp-content/uploads/2026/05/Helas-Savage-Monarch-costume.jpg",
+        "title": "Marvel Rivals May 21 Patch Notes: New Savage Adventure Event, Skins, and More - Beebom",
+        "description": "A minor content update is on the way for Marvel Rivals this week. Check out the Marvel Rivals patch notes for May 21 update here.",
+        "source_link": "https://beebom.com/marvel-rivals-may-21-patch-notes/"
+      },
+      {
+        "rank": 2,
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10502-x/MediaObjects/41586_2026_10502_Fig1_HTML.png",
+        "title": "Imaging hidden objects with consumer LiDAR via motion-induced sampling - Nature",
+        "description": "Researchers enable hidden-object imaging on consumer LiDAR by fusing multiple frames with a motion-based model, achieving three-dimensional reconstruction, tracking and localization using low-cost, off-the-shelf smartphone sensors.",
+        "source_link": "https://www.nature.com/articles/s41586-026-10502-x"
+      },
+      {
+        "rank": 3,
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10464-0/MediaObjects/41586_2026_10464_Fig1_HTML.png",
+        "title": "De novo design of quasisymmetric two-component protein cages - Nature",
+        "description": "Researchers designed two-component proteins forming quasisymmetric cages via geometric frustration, enabling tunable virus-like assemblies for cargo delivery, cellular uptake and studying intracellular diffusion and protein localization.",
+        "source_link": "https://www.nature.com/articles/s41586-026-10464-0"
+      },
+      {
+        "rank": 4,
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10297-x/MediaObjects/41586_2026_10297_Fig1_HTML.png",
+        "title": "Neural representation of action symbols in primate frontal cortex - Nature",
+        "description": "A drawing-like task designed to study compositional generalization identifies a specific neural population in the ventral premotor cortex in primates that encodes action symbols.",
+        "source_link": "https://www.nature.com/articles/s41586-026-10297-x"
+      },
+      {
+        "rank": 5,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/demishassabis.webp?quality=90&strip=all&crop=0%2C10.597538331207%2C100%2C78.804923337586&w=1200",
         "title": "\u2018Solve all diseases,\u2019 you say? - The Verge",
         "description": "In this special Optimizer issue, we contextualize a bold claim by Google DeepMind CEO Demis Hassabis during the 2026 I/O keynote.",
         "source_link": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health"
       },
       {
-        "rank": 2,
-        "image": "https://i.insider.com/6a0e1fa1ce0a5b2f12d7e05d?width=1200&format=jpeg",
-        "title": "I got laid off from Meta 3 years ago and spiraled. Here's why it was a blessing in disguise \u2014 and what I wish someone had told me then. - Business Insider",
-        "description": "A laid off Meta employee shares how losing her job helped her launch a successful entrepreneurial career. She shares advice for navigating layoffs.",
-        "source_link": "https://www.businessinsider.com/laid-off-meta-employee-shares-advice-for-pursuing-entrepreneurship-2026-5"
-      },
-      {
-        "rank": 3,
+        "rank": 6,
         "image": "https://images.pushsquare.com/da8b5e0c8a44d/large.jpg",
         "title": "PS Plus Price Increases Also Hit Extra, Premium Tiers - Here Are All the New Prices - Push Square",
         "description": "This deal keeps getting worse",
         "source_link": "https://www.pushsquare.com/news/2026/05/ps-plus-price-increases-also-hit-extra-premium-tiers-here-are-all-the-new-prices"
       },
       {
-        "rank": 4,
+        "rank": 7,
+        "image": "https://helios-i.mashable.com/imagery/articles/06keFB3VkcHou02o88maEXN/hero-image.fill.size_1200x675.v1779210071.png",
+        "title": "Google debuts new Omni world model at Google I/O with advanced AI video capabilities - Mashable",
+        "description": "The first model, Gemini Omni Flash, rolls out today.",
+        "source_link": "https://mashable.com/article/gemini-omni-flash-ai-video-generation-google-io-2026"
+      },
+      {
+        "rank": 8,
+        "image": "https://gizmodo.com/app/uploads/2026/05/Depression-video-games-1200x675.jpg",
+        "title": "This 3-Minute Video Game Is Surprisingly Good at Spotting Depression - Gizmodo",
+        "description": "The game was developed by researchers at New York University and can be played on smartphones.",
+        "source_link": "https://gizmodo.com/this-3-minute-video-game-is-surprisingly-good-at-spotting-depression-2000761315"
+      },
+      {
+        "rank": 9,
         "image": "https://kotaku.com/app/uploads/2026/05/LEgobatman2-1200x675.jpg",
         "title": "8 Of Our Favorite Lego Batman: Legacy Of The Dark Knight Easter Eggs - Kotaku",
         "description": "It's not just Batman history TT Games is playing with",
         "source_link": "https://kotaku.com/lego-batman-legacy-dark-knight-references-easter-eggs-2000697892"
-      },
-      {
-        "rank": 5,
-        "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
-        "title": "Notes on The Matchmaking System - ARC Raiders",
-        "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
-        "source_link": "https://arcraiders.com/news/notes-on-the-matchmaking-system"
-      },
-      {
-        "rank": 6,
-        "image": "https://photos5.appleinsider.com/gallery/67697-142696-000-lede-Gemini-xl.jpg",
-        "title": "Google I/O 2026 had nothing to say and said it badly ahead of Apple's WWDC - AppleInsider",
-        "description": "Google I/O is always like a little amateur dramatics show, but this year the company could have boasted about making Apple rely on its Gemini. It just totally failed to do so.",
-        "source_link": "https://appleinsider.com/articles/26/05/20/google-io-2026-had-nothing-to-say-and-said-it-badly-ahead-of-apples-wwdc"
-      },
-      {
-        "rank": 7,
-        "image": "https://i.pcmag.com/imagery/articles/00re9etl8jKEhY2HZsNfEOk-1.fit_lim.size_1200x630.v1779274639.jpg",
-        "title": "Google Overhauls Top-Tier AI Plans, Drops Price and Adds YouTube Premium - PCMag",
-        "description": "A new $100-per-month subscription offers expanded Gemini access for less. The most expensive plan also gets a price cut as Google looks to compete with OpenAI and Anthropic.",
-        "source_link": "https://www.pcmag.com/news/some-google-ai-plans-now-include-youtube-premium-overhauls-top-tiers"
-      },
-      {
-        "rank": 8,
-        "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/05/new-giant-enemies-boss-battles-in-arc-raiders.jpg?w=1600&h=900&fit=crop",
-        "title": "ARC Raiders Is Adding Huge New Enemy Types Players Haven\u2019t Seen Before - ScreenRant",
-        "description": "ARC Raiders developer Embark Studios confirms new massive ARC enemy types are in development, including completely new machine designs.",
-        "source_link": "https://screenrant.com/arc-raiders-new-massive-arc-enemies-exclusive/"
-      },
-      {
-        "rank": 9,
-        "image": null,
-        "title": "iPhone 18 Pro Max vs iPhone 15 Pro Max: Main differences to expect - PhoneArena",
-        "description": null,
-        "source_link": "https://www.phonearena.com/reviews/apple-iphone-18-pro-max-vs-iphone-15-pro-max_id7933"
       }
     ],
     "trending_movies": [
@@ -83,38 +83,38 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/40I66L7QKguTFDPvcLcdiTbAD7I.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
         "title": "Mortal Kombat II",
         "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
         "source_link": "https://www.themoviedb.org/movie/931285"
       },
       {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/40I66L7QKguTFDPvcLcdiTbAD7I.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
         "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
         "title": "Star Wars: The Mandalorian and Grogu",
         "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
         "source_link": "https://www.themoviedb.org/movie/1228710"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/g8JqVRu2eC5SGJd9idauTXurMl2.jpg",
         "title": "Normal",
         "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more e...",
         "source_link": "https://www.themoviedb.org/movie/1242332"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
         "rank": 8,
@@ -125,17 +125,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
-        "title": "Passenger",
-        "description": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called t...",
-        "source_link": "https://www.themoviedb.org/movie/1368314"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg",
         "title": "Mother Mary",
         "description": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer Sam Anselm...",
         "source_link": "https://www.themoviedb.org/movie/1102883"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+        "title": "Passenger",
+        "description": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called t...",
+        "source_link": "https://www.themoviedb.org/movie/1368314"
       }
     ]
   }
