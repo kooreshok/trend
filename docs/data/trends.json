@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 22, 2026, 22:53 UTC",
+  "last_updated": "May 23, 2026, 00:02 UTC",
   "categories": {
     "tech_news": [
       {
@@ -11,31 +11,31 @@
       },
       {
         "rank": 2,
-        "image": null,
-        "title": "First details leaked for Sonic Frontiers: Definitive Edition - Nintendo Everything",
-        "description": null,
-        "source_link": "https://nintendoeverything.com/first-details-leaked-for-sonic-frontiers-definitive-edition/"
-      },
-      {
-        "rank": 3,
         "image": "https://kotaku.com/app/uploads/2023/04/b0ede167d7e6e5c2079423772e2e71d3-1200x675.jpg",
         "title": "Wizards Of The Coast Begs Staff To Think Twice Before Voting To Unionize - Kotaku",
         "description": "\"It is about...the kind of relationship you want to have with the rest of the Wizards organization moving forward\"",
         "source_link": "https://kotaku.com/wizards-of-the-coast-begs-staff-think-twice-unionize-2000698346"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/XBOX-Gear-Shop-hero-3e1226862ca7ac526e6b.jpg",
         "title": "Introducing the XBOX Game Studios Shop - XBOX Wire",
         "description": "Today, we\u2019re launching the XBOX Game Studios Shop, your new destination for official merchandise from your favorite XBOX Game Studios titles.",
         "source_link": "https://news.xbox.com/en-us/2026/05/21/introducing-the-xbox-game-studios-shop/"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://www.gematsu.com/wp-content/uploads/2026/05/Crazy-Taxi-Tease_05-21-26.jpg",
         "title": "Crazy Taxi social media accounts post five-second teaser video - Gematsu",
         "description": "The official Twitter and Facebook accounts for SEGA\u2019s Crazy Taxi series have posted a five-second video of a flashing \u201cTaxi\u201d sign.",
         "source_link": "https://www.gematsu.com/2026/05/crazy-taxi-social-media-accounts-post-five-second-teaser-video"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.bleepstatic.com/content/hl-images/2026/03/13/Google_Chrome.jpg",
+        "title": "Google accidentally exposed details of unfixed Chromium flaw - BleepingComputer",
+        "description": "Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the device.",
+        "source_link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/"
       },
       {
         "rank": 6,
@@ -67,10 +67,10 @@
       },
       {
         "rank": 10,
-        "image": "https://assets-prd.ignimgs.com/2026/05/21/deathwatch-main-1779370981510.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Warhammer 40,000: Chaos Gate \u2013 Daemonhunters Is Getting a Sequel All About the Deathwatch - IGN",
-        "description": "Fresh from Warhammer Skulls comes confirmation that the well received strategy game Warhammer 40,000: Chaos Gate \u2013 Daemonhunters is getting a sequel all about the Deathwatch.",
-        "source_link": "https://www.ign.com/articles/warhammer-40000-chaos-gate-deathwatch-announced-at-warhammer-skulls-2026"
+        "image": "https://assets-prd.ignimgs.com/2026/05/20/dow-iv-keyart-250701-16x9-ub-1779312781483.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Warhammer Skulls 2026: All the New Game Announcements, Updates, and Trailers - IGN",
+        "description": "Check out all the game announcements, updates, trailers, and reveals from Warhammer Skulls 2026.",
+        "source_link": "https://www.ign.com/articles/everything-announced-at-warhammer-skulls-2026"
       }
     ],
     "trending_movies": [
@@ -111,24 +111,24 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
         "title": "Star Wars: The Mandalorian and Grogu",
         "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
         "source_link": "https://www.themoviedb.org/movie/1228710"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
         "rank": 9,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
-        "title": "Passenger",
-        "description": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called t...",
-        "source_link": "https://www.themoviedb.org/movie/1368314"
+        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
       }
     ]
   }
