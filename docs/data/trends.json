@@ -1,76 +1,69 @@
 {
-  "last_updated": "May 24, 2026, 11:12 UTC",
+  "last_updated": "May 24, 2026, 13:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://ychef.files.bbci.co.uk/624x351/p0nmkh7l.jpg",
+        "title": "We can now track animal panic from space. Here's why it matters - BBC",
+        "description": "The new Icarus satellite is tracking signals hidden in animal behaviour \u2013 which could save the lives of cheetahs, rhinos and elephants.",
+        "source_link": "https://www.bbc.com/future/article/20260521-tracking-animal-panic-from-space"
+      },
+      {
+        "rank": 2,
         "image": "https://hackaday.com/wp-content/uploads/2026/05/What-is-Flipper-One-new-e1779420323518.jpg",
         "title": "The Team Behind The Flipper One Needs Your Help - Hackaday",
         "description": "You\u2019ve probably heard of the Flipper Zero, a pocket-sized device that packs in lots of great hacking potential. The team behind it has now turned their efforts towards developing the Flipper \u2026",
         "source_link": "https://hackaday.com/2026/05/22/the-team-behind-the-flipper-one-needs-your-help/"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/08/chromecast-2013-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "First-gen Chromecast streamers are suddenly failing for some users, 13 years later - 9to5Google",
         "description": "One of Google\u2019s first true hit pieces of hardware, 2013\u2019s Chromecast, is starting to stop working for some users are...",
         "source_link": "http://9to5google.com/2026/05/22/first-gen-chromecast-streamers-are-suddenly-failing-for-some-users-13-years-later/"
       },
       {
-        "rank": 3,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/Analysts-believe-Apple-taking-a-highly-unusual-step-to-double-Mac-user-base.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Unannounced Apple headphones revealed in FCC documents - 9to5Mac",
-        "description": "A new filing in the FCC database has revealed an unannounced Apple-made Bluetooth headphone. Here are the details.",
-        "source_link": "https://9to5mac.com/2026/05/22/unannounced-apple-headphones-revealed-in-fcc-documents/"
+        "rank": 4,
+        "image": "https://spacenews.com/wp-content/uploads/2026/05/Gallery-NG3-liftoff3-scaled.jpg",
+        "title": "Blue Origin completes investigation into New Glenn launch failure - SpaceNews",
+        "description": "Blue Origin has completed the investigation into the failure on the third flight of its New Glenn rocket, clearing launches of the vehicle to resume.",
+        "source_link": "http://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://images.pushsquare.com/02c666ee9db27/large.jpg",
         "title": "'It's Nuts': Major PS5 Security Vulnerability Exposed, And We're All At Risk - Push Square",
         "description": "Social engineering scam uncovered",
         "source_link": "https://www.pushsquare.com/news/2026/05/its-nuts-major-ps5-security-vulnerability-exposed-and-were-all-at-risk"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F871212%2Fgettyimages-1830082607-1200x600-7cb9712.jpg&w=1200&op=resize",
         "title": "Google Just Triggered a $1 Billion AI Price War: Does It Make Alphabet Stock a Buy Right Now? - The Motley Fool",
         "description": "Google slashed the price of its Gemini enterprise offering by 20% to undercut OpenAI and Anthropic.",
         "source_link": "https://www.fool.com/investing/2026/05/22/google-just-triggered-a-1-billion-ai-price-war-doe/"
       },
       {
-        "rank": 6,
+        "rank": 7,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Mac-app-summer-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Gemini app for Mac adding \u2018Spark\u2019 agent and voice control this summer - 9to5Google",
+        "description": "At I/O 2026, Google previewed two major features for the Gemini app on macOS that are coming this summer...",
+        "source_link": "http://9to5google.com/2026/05/22/gemini-mac-spark-control-summer/"
+      },
+      {
+        "rank": 8,
         "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-22-at-2.46.43-PM.jpg?resize=1200,965",
         "title": "Google goes for the glitter with disco-ball icons: \u2018Are y\u2019all sure you still want this?\u2019 - TechCrunch",
         "description": "You can now disco ball-ify your entire Pixel home screen, says Google.",
         "source_link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/"
       },
       {
-        "rank": 7,
-        "image": "https://www.fujirumors.com/wp-content/uploads/2026/05/Best-Travel-Camera.jpg",
-        "title": "CNN Tested 15 Travel Cameras \u2014 And This Fujifilm Model Won the Battle - Fuji Rumors",
-        "description": "Summer is just around the corner, and for many of us this means high peak travel season. So the inevitable question is: which is the best camera companion for our holidays? Well, CNN tried to answer this question by testing 15 cameras, and among the others: N\u2026",
-        "source_link": "https://www.fujirumors.com/cnn-tested-15-travel-cameras-and-this-fujifilm-model-won-the-battle/"
-      },
-      {
-        "rank": 8,
-        "image": "https://kotaku.com/app/uploads/2024/06/da77fa3aa2122feda604db15eb412ec7.jpg",
-        "title": "Riot Claims Valorant Anti-Cheat Software Isn't Bricking PCs - Kotaku",
-        "description": "'They can absolutely get f*cked. I'll be joining whatever class action comes from this,' one player wrote",
-        "source_link": "https://kotaku.com/riot-says-its-anti-cheat-update-isnt-bricking-pcs-but-players-are-still-worried-2000698675"
-      },
-      {
         "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2026/05/fdsa.jpg",
-        "title": "Physical Copies Of A Remake Of A 25-Year-Old RPG Are Unplayable Without A Day-One Update - Kotaku",
-        "description": "The Gothic remake won't require a permanent internet connection, but....",
-        "source_link": "https://kotaku.com/gothic-remake-rpg-day-one-physical-internet-connection-update-required-thq-2000698754"
-      },
-      {
-        "rank": 10,
-        "image": "https://simscommunity.info/wp-content/uploads/2026/05/paralives-postrelease-roadmap-FI.jpg",
-        "title": "Paralives Announces Launch Discount And Post-Release Roadmap - Sims Community",
-        "description": "The Post-Release Roadmap for Paralives reveals the developer's sharp focus, especially from June 2026 to September 2026 where they'll be specifically focusing",
-        "source_link": "https://simscommunity.info/2026/05/22/post-release-roadmap-paralives/"
+        "image": "https://images.pushsquare.com/5d23988b9b694/large.jpg",
+        "title": "'The Most Important Thing Is People Can Play at Launch': Gothic PS5 Remake Misses the Mark with Mandated Download - Push Square",
+        "description": "\"It has to stop\"",
+        "source_link": "https://www.pushsquare.com/news/2026/05/the-most-important-thing-is-people-can-play-at-launch-gothic-ps5-remake-misses-the-mark-with-mandated-download"
       }
     ],
     "trending_movies": [
@@ -90,17 +83,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
-        "title": "Lee Cronin's The Mummy",
-        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
-        "source_link": "https://www.themoviedb.org/movie/1304313"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/40I66L7QKguTFDPvcLcdiTbAD7I.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
+        "title": "Lee Cronin's The Mummy",
+        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
+        "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
         "rank": 5,
@@ -111,38 +104,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
-        "title": "Mortal Kombat II",
-        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
-        "source_link": "https://www.themoviedb.org/movie/931285"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
         "title": "Star Wars: The Mandalorian and Grogu",
         "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
         "source_link": "https://www.themoviedb.org/movie/1228710"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-        "title": "Michael",
-        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+        "title": "Mortal Kombat II",
+        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
+        "source_link": "https://www.themoviedb.org/movie/931285"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/rsNdDcCKjCZm9RBMAxL3vMUokKU.jpg",
         "title": "Normal",
         "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more e...",
         "source_link": "https://www.themoviedb.org/movie/1242332"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
+        "title": "The Punisher: One Last Kill",
+        "description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight....",
+        "source_link": "https://www.themoviedb.org/movie/1439930"
       }
     ]
   }
