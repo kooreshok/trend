@@ -1,62 +1,76 @@
 {
-  "last_updated": "May 24, 2026, 17:56 UTC",
+  "last_updated": "May 24, 2026, 19:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-App-Redesign-1-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Gemini Live redesign now works with more \u2018Connected Apps\u2019 on Android - 9to5Google",
+        "description": "As part of the Neural Expressive redesign, Gemini Live on Android can now access more first- and third-party \u201cConnected Apps.\u201d",
+        "source_link": "http://9to5google.com/2026/05/23/gemini-live-connected-apps/"
+      },
+      {
+        "rank": 2,
+        "image": "https://assets.warhammer-community.com/preorders-may23-1-feature-4wjygo6wtw.jpg",
+        "title": "Saturday pre-orders \u2013 Shake the battlefield with new tanks - Warhammer Community",
+        "description": "Add the Spartan Prometheus and Falchion to your Legiones Astartes army in Warhammer: The Horus Heresy.",
+        "source_link": "https://www.warhammer-community.com/articles/3cak2ho1/saturday-pre-orders-shake-the-battlefield-with-new-tanks"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-ai-overview-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "You can turn off AI in Google Search results with this easy modifier - 9to5Google",
+        "description": "AI in Google Search can be useful, but it\u2019s also one of those \u201clove it or hate it\u201d tools. If...",
+        "source_link": "http://9to5google.com/2026/05/23/google-ai-overviews-turn-off-modifier/"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Roger-Linn-headshot.jpg?quality=90&strip=all&crop=0%2C27.725467242494%2C100%2C34.909858572115&w=1200",
+        "title": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab - The Verge",
+        "description": "Roger Linn, the inventor of the MPC says take deep breaths, keep it simple, and maybe play a little VR mini golf.",
+        "source_link": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech"
+      },
+      {
+        "rank": 5,
         "image": "https://imageio.forbes.com/specials-images/imageserve/6a11bca239ed2afc56be565f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "After Destiny 2\u2019s Closure, PlayStation\u2019s Live Service Push Is Officially In Shambles - Forbes",
         "description": "Destiny 2 is shutting down and Sony has nothing to replace it, relying mainly on a single first-party game going forward for its live-service push, Marathon.",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/05/23/after-destiny-2s-closure-playstations-live-service-push-is-officially-in-shambles/"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://imageio.forbes.com/specials-images/imageserve/6957ec0ecc8738a11f4cac0a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "The \u2018GTA 6\u2019 Release Date Is Confirmed, And Everything We\u2019ve Learned Recently - Forbes",
         "description": "GTA 6 now has a triple confirmed release date, and we have gotten some new information about what's coming when it comes to future sales and promotion.",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/05/23/the-gta-6-release-date-is-confirmed-and-everything-weve-learned-recently/"
       },
       {
-        "rank": 3,
-        "image": "https://simscommunity.info/wp-content/uploads/2026/05/paralives-the-sims-4-at-launch-fi.jpg",
-        "title": "Paralives in Early Access VS The Sims 4 at Release: A Battle for the Ages - Sims Community",
-        "description": "With the now rapidly approaching release of Paralives into Early Access on May 25th, 2026 (which, as of writing this, is just a little over a week away)",
-        "source_link": "https://simscommunity.info/2026/05/23/paralives-vs-the-sims-4-at-release/"
-      },
-      {
-        "rank": 4,
-        "image": "https://hackaday.com/wp-content/uploads/2026/05/What-is-Flipper-One-new-e1779420323518.jpg",
-        "title": "The Team Behind The Flipper One Needs Your Help - Hackaday",
-        "description": "You\u2019ve probably heard of the Flipper Zero, a pocket-sized device that packs in lots of great hacking potential. The team behind it has now turned their efforts towards developing the Flipper \u2026",
-        "source_link": "https://hackaday.com/2026/05/22/the-team-behind-the-flipper-one-needs-your-help/"
-      },
-      {
-        "rank": 5,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/08/chromecast-2013-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "First-gen Chromecast streamers are suddenly failing for some users, 13 years later - 9to5Google",
-        "description": "One of Google\u2019s first true hit pieces of hardware, 2013\u2019s Chromecast, is starting to stop working for some users are...",
-        "source_link": "http://9to5google.com/2026/05/22/first-gen-chromecast-streamers-are-suddenly-failing-for-some-users-13-years-later/"
-      },
-      {
-        "rank": 6,
-        "image": "https://spacenews.com/wp-content/uploads/2026/05/Gallery-NG3-liftoff3-scaled.jpg",
-        "title": "Blue Origin completes investigation into New Glenn launch failure - SpaceNews",
-        "description": "Blue Origin has completed the investigation into the failure on the third flight of its New Glenn rocket, clearing launches of the vehicle to resume.",
-        "source_link": "http://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/"
-      },
-      {
         "rank": 7,
-        "image": "https://memeburn.com/wp-content/uploads/2026/05/iPad-Fold-Is-Still-Alive-and-Will-Use-iPhone-Ultras-Hinge-Technology.jpg",
-        "title": "iPad Fold Leak Shows Apple\u2019s Bigger Foldable Strategy - Memeburn",
-        "description": "iPad Fold may use the same crease-free hinge technology as Apple\u2019s iPhone Ultra, with an 18-inch display, liquid metal hinge, and possible 2028 launch.",
-        "source_link": "https://memeburn.com/ipad-fold-leak-apple-foldable-strategy/"
+        "image": "https://media.eventhubs.com/images/2026/05/19_tifa-poll-bnrt.webp",
+        "title": "Fighting game notables are asked if they'd prefer Final Fantasy's Tifa Lockhart to join Street Fighter 6 or Tekken 8 - EventHubs",
+        "description": "Final Fantasy is beginning to see more notable crossovers into the fighting game genre. Super Smash Bros. Ultimate got Cloud Strife and Sephiroth while Tekken 7 would eventually guest star Noctis Lucis Caelum.Tekken 8 would continue the trend by ...",
+        "source_link": "https://www.eventhubs.com/news/2026/may/23/question-tifa-lockhart-sf6-tekken/"
       },
       {
         "rank": 8,
-        "image": "https://s.yimg.com/os/en/motleyfool.com/abed648417f87ec618596b7f7bf81f98",
-        "title": "Google Just Triggered a $1 Billion AI Price War: Does It Make Alphabet Stock a Buy Right Now? - Yahoo Finance",
-        "description": "Google slashed the price of its Gemini enterprise offering by 20% to undercut OpenAI and Anthropic.",
-        "source_link": "https://www.fool.com/investing/2026/05/22/google-just-triggered-a-1-billion-ai-price-war-doe/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/11.-Ayame-and-Fuku.jpg?quality=90&strip=all&crop=0%2C8.1151832460733%2C100%2C83.769633507853&w=1200",
+        "title": "Hanging out in my favorite virtual coffee shop in Tokyo - The Verge",
+        "description": "Coffee Talk Tokyo is a continuation of the cozy cafe series, available on the Nintendo Switch, PS5, Xbox, and Steam.",
+        "source_link": "https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam"
+      },
+      {
+        "rank": 9,
+        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/3996962/yarn-yoshi-amiibo-photo-10_1920.0.0.0.jpg?w=1200&h=675&fit=crop",
+        "title": "Nintendo loves Yoshi but hasn't made a good Yoshi game in 30 years - Polygon.com",
+        "description": "Nintendo's mascot character Yoshi has never reached the heights of 1995's Yoshi's Island again. How come?",
+        "source_link": "https://www.polygon.com/switchboard-yoshi-curse/"
+      },
+      {
+        "rank": 10,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Installer-129.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "I have a new go-to browser - The Verge",
+        "description": "Plus: The Mandalorian and Grogu, Forza Horizon 6, Steve Jobs in Exile, and more in this week\u2019s Installer newsletter.",
+        "source_link": "https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer"
       }
     ],
     "trending_movies": [
@@ -69,24 +83,24 @@
       },
       {
         "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+        "title": "Star Wars: The Mandalorian and Grogu",
+        "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
+        "source_link": "https://www.themoviedb.org/movie/1228710"
+      },
+      {
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
         "title": "Ladies First",
         "description": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by wom...",
         "source_link": "https://www.themoviedb.org/movie/1368881"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
         "title": "Tom Clancy's Jack Ryan: Ghost War",
         "description": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins C...",
         "source_link": "https://www.themoviedb.org/movie/1380291"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
-        "title": "Lee Cronin's The Mummy",
-        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
-        "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
         "rank": 5,
@@ -97,10 +111,10 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
-        "title": "Mortal Kombat II",
-        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
-        "source_link": "https://www.themoviedb.org/movie/931285"
+        "image": "https://image.tmdb.org/t/p/w200/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
+        "title": "Lee Cronin's The Mummy",
+        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
+        "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
         "rank": 7,
@@ -111,10 +125,10 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-        "title": "Star Wars: The Mandalorian and Grogu",
-        "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
-        "source_link": "https://www.themoviedb.org/movie/1228710"
+        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+        "title": "Mortal Kombat II",
+        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
+        "source_link": "https://www.themoviedb.org/movie/931285"
       },
       {
         "rank": 9,
