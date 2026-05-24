@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 24, 2026, 22:54 UTC",
+  "last_updated": "May 24, 2026, 23:56 UTC",
   "categories": {
     "tech_news": [
       {
@@ -90,17 +90,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
         "title": "Ladies First",
         "description": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by wom...",
         "source_link": "https://www.themoviedb.org/movie/1368881"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
         "rank": 5,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
-        "title": "The Punisher: One Last Kill",
-        "description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight....",
-        "source_link": "https://www.themoviedb.org/movie/1439930"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/rsNdDcCKjCZm9RBMAxL3vMUokKU.jpg",
         "title": "Normal",
         "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more e...",
         "source_link": "https://www.themoviedb.org/movie/1242332"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
+        "title": "The Punisher: One Last Kill",
+        "description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight....",
+        "source_link": "https://www.themoviedb.org/movie/1439930"
       }
     ]
   }
