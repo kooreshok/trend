@@ -1,76 +1,76 @@
 {
-  "last_updated": "May 23, 2026, 23:53 UTC",
+  "last_updated": "May 24, 2026, 02:51 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.pushsquare.com/02c666ee9db27/large.jpg",
+        "title": "'It's Nuts': Major PS5 Security Vulnerability Exposed, And We're All At Risk - Push Square",
+        "description": "Social engineering scam uncovered",
+        "source_link": "https://www.pushsquare.com/news/2026/05/its-nuts-major-ps5-security-vulnerability-exposed-and-were-all-at-risk"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Mac-app-summer-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Gemini app for Mac adding \u2018Spark\u2019 agent and voice control this summer - 9to5Google",
+        "description": "At I/O 2026, Google previewed two major features for the Gemini app on macOS that are coming this summer...",
+        "source_link": "http://9to5google.com/2026/05/22/gemini-mac-spark-control-summer/"
+      },
+      {
+        "rank": 3,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1470646299-1152x648-1779483037.jpg",
         "title": "Original Chromecast lives: Devices back on after mysteriously breaking this week - Ars Technica",
         "description": "Google tells Ars it fixed the first-gen Chromecast bug.",
         "source_link": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-22-at-2.46.43-PM.jpg?resize=1200,965",
         "title": "Google goes for the glitter with disco-ball icons: \u2018Are y\u2019all sure you still want this?\u2019 - TechCrunch",
         "description": "You can now disco ball-ify your entire Pixel home screen, says Google.",
         "source_link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://www.fujirumors.com/wp-content/uploads/2026/05/Best-Travel-Camera.jpg",
         "title": "CNN Tested 15 Travel Cameras \u2014 And This Fujifilm Model Won the Battle - Fuji Rumors",
         "description": "Summer is just around the corner, and for many of us this means high peak travel season. So the inevitable question is: which is the best camera companion for our holidays? Well, CNN tried to answer this question by testing 15 cameras, and among the others: N\u2026",
         "source_link": "https://www.fujirumors.com/cnn-tested-15-travel-cameras-and-this-fujifilm-model-won-the-battle/"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://kotaku.com/app/uploads/2024/06/da77fa3aa2122feda604db15eb412ec7.jpg",
         "title": "Riot Claims Valorant Anti-Cheat Software Isn't Bricking PCs - Kotaku",
         "description": "'They can absolutely get f*cked. I'll be joining whatever class action comes from this,' one player wrote",
         "source_link": "https://kotaku.com/riot-says-its-anti-cheat-update-isnt-bricking-pcs-but-players-are-still-worried-2000698675"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://kotaku.com/app/uploads/2026/05/fdsa.jpg",
         "title": "Physical Copies Of A Remake Of A 25-Year-Old RPG Are Unplayable Without A Day-One Update - Kotaku",
         "description": "The Gothic remake won't require a permanent internet connection, but....",
         "source_link": "https://kotaku.com/gothic-remake-rpg-day-one-physical-internet-connection-update-required-thq-2000698754"
       },
       {
-        "rank": 6,
+        "rank": 8,
+        "image": "https://cdn.videocardz.com/1/2026/05/AORUS-RTX5090-INFINITY.jpg",
+        "title": "AORUS details RTX 5090 Infinity graphics card, promises max 77\u00b0C GPU temps in Furmark - VideoCardz.com",
+        "description": "AORUS Taiwan shows RTX 5090 INFINITY cooling layout and fan speeds Gigabyte\u2019s AORUS Taiwan channel has published a closer look at the AORUS GeForce RTX",
+        "source_link": "https://videocardz.com/newz/aorus-details-rtx-5090-infinity-graphics-card-promises-max-77c-gpu-temps-in-furmark"
+      },
+      {
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/meta-forum-app-featured.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
         "title": "Meta\u2019s Forum is part Reddit, part Facebook, and part Google AI Overview - The Verge",
         "description": "Meta\u2019s Forum is a new dedicated app for Facebook Groups, with an AI chatbot for searching through group posts.",
         "source_link": "https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on"
       },
       {
-        "rank": 7,
+        "rank": 10,
         "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2262969436-e1779468619700.jpg?resize=1200,600",
         "title": "Microsoft reports are exposing AI's real cost problem: Using the tech is more expensive than paying human employees - Fortune",
         "description": "Companies are racing to incentivize employees to use AI. But as some companies are finding, the more employees that use the technology, the heavier the bill.",
         "source_link": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-18-mockup-red.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iPhone 18 Pro leak reveals brand new colors that could be coming - 9to5Mac",
-        "description": "A new leak might provide our first glimpse at the new iPhone 18 Pro color lineup via alleged camera components.",
-        "source_link": "https://9to5mac.com/2026/05/22/iphone-18-pro-leak-reveals-brand-new-colors-that-could-be-coming/"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.macrumors.com/t/x5OKeizcRejo6CTsrqL2FNQ1Q2k=/2500x/article-new/2026/05/iOS-26.5.1-Feature.jpg",
-        "title": "iOS 26.5.1 Update for iPhones is Coming Soon - MacRumors",
-        "description": "Apple's software engineers are testing iOS 26.5.1, according to the MacRumors visitor logs, which have been a reliable indicator of upcoming iOS...",
-        "source_link": "https://www.macrumors.com/2026/05/22/ios-26-5-1-coming-soon/"
-      },
-      {
-        "rank": 10,
-        "image": "https://techcrunch.com/wp-content/uploads/2024/05/Google-IO-everything.webp?resize=1200,674",
-        "title": "You can no longer Google the word \u2018disregard\u2019 - TechCrunch",
-        "description": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-        "source_link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/"
       }
     ],
     "trending_movies": [
@@ -97,38 +97,38 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
-        "title": "Lee Cronin's The Mummy",
-        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
-        "source_link": "https://www.themoviedb.org/movie/1304313"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-        "title": "Star Wars: The Mandalorian and Grogu",
-        "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
-        "source_link": "https://www.themoviedb.org/movie/1228710"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
+        "title": "Lee Cronin's The Mummy",
+        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
+        "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
         "title": "Mortal Kombat II",
         "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
         "source_link": "https://www.themoviedb.org/movie/931285"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+        "title": "Star Wars: The Mandalorian and Grogu",
+        "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
+        "source_link": "https://www.themoviedb.org/movie/1228710"
       },
       {
         "rank": 9,
