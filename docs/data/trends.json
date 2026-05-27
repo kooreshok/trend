@@ -1,69 +1,76 @@
 {
-  "last_updated": "May 27, 2026, 02:58 UTC",
+  "last_updated": "May 27, 2026, 07:06 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://media.eventhubs.com/images/2026/05/25-season-3-costumes-sf6t.webp",
-        "title": "Outfit 3 DLC revealed for Ingrid, Sagat, Alex and C. Viper in Street Fighter 6 - EventHubs",
-        "description": "We're now just a few days away from Street Fighter 6's next big update with Ingrid's release and can now see more of the shiny new toys she's bringing with her.Capcom just revealed the Outfit ...",
-        "source_link": "https://www.eventhubs.com/news/2026/may/25/season-3-costumes-sf6/"
+        "image": "https://personacentral.com/wp-content/uploads/2025/06/Persona-4-Revival-Screenshot-2.jpg",
+        "title": "\u2018Persona 4 Revival BGM\u2019 Registered on NexTone Music Copyright Database - Persona Central",
+        "description": "An new entry has appeared on a music copyright management database for 'Persona 4 Revival' BGM implying that it may shortly feature in a trailer",
+        "source_link": "https://personacentral.com/p4r-bgm/"
       },
       {
         "rank": 2,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/05/Korean-Ratings_05-26-26_Top.jpg",
+        "title": "LEGO Skylines by Paradox Interactive, Persona 4 Revival, and more rated in Korea - Gematsu",
+        "description": "The Game Rating and Administration Committee of Korea has rated the unannounced LEGO Skylines by Paradox Interactive.",
+        "source_link": "https://www.gematsu.com/2026/05/lego-skylines-by-paradox-interactive-persona-4-revival-and-more-rated-in-korea"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Gemini-Neural-Expressive-3-scaled.jpg",
+        "title": "Gemini user hits 5-hour usage cap after a single prompt, Google responds - Android Authority",
+        "description": "A Gemini user reportedly exhausted their five-hour usage limit with a single failed prompt, and Google has acknowledged the issue.",
+        "source_link": "https://www.androidauthority.com/google-gemini-usage-limit-problem-3670846/"
+      },
+      {
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/motorola-razr-fold-white-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes [Video] - 9to5Google",
+        "description": "A truly bizarre situation on Motorola phones has led to the software hijacking the Amazon app to inject an affiliate...",
+        "source_link": "http://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/"
+      },
+      {
+        "rank": 5,
+        "image": "https://images.nintendolife.com/ad5756d15dc04/large.jpg",
+        "title": "Tetris 99's Latest Crossover Event Celebrates Yoshi's New Game, Unlock A Special Theme - Nintendo Life",
+        "description": "Starting this week",
+        "source_link": "https://www.nintendolife.com/news/2026/05/tetris-99s-latest-crossover-event-celebrates-yoshis-new-game-unlock-a-special-theme"
+      },
+      {
+        "rank": 6,
+        "image": "https://hackaday.com/wp-content/uploads/2026/05/Intel_chips_286_386_486_size_comparison.jpg",
+        "title": "Z386: An Open-Source 80386 Built Around Original Microcode - Hackaday",
+        "description": "There are many ways you can implement an Intel i386 CPU on an FPGA, with the use of original microcode probably being one of the most interesting approaches. This is what [nand2mario]\u2019s z386 \u2026",
+        "source_link": "https://hackaday.com/2026/05/25/z386-an-open-source-80386-built-around-original-microcode/"
+      },
+      {
+        "rank": 7,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/sennheiser1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+        "title": "Sennheiser\u2019s new Momentum 5 headphones have upgraded ANC and a replaceable battery - The Verge",
+        "description": "Sennheiser updated its Momentum wireless headphones after nearly 4 years with better ANC, support for lossless Bluetooth audio, and a user-swappable battery.",
+        "source_link": "https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth"
+      },
+      {
+        "rank": 8,
         "image": "https://images.pushsquare.com/a9182506f08ca/large.jpg",
         "title": "'Absurd': Social Media Misquotes Journalist, Erroneously Claims Sony Is Angry at Naughty Dog - Push Square",
         "description": "Another day at the office",
         "source_link": "https://www.pushsquare.com/news/2026/05/absurd-social-media-misquotes-journalist-erroneously-claims-sony-is-angry-at-naughty-dog"
       },
       {
-        "rank": 3,
+        "rank": 9,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Samsung-Gallery-Screenshots-organizer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Samsung Gallery is ditching OneDrive integration - 9to5Google",
         "description": "Microsoft has confirmed that Samsung Gallery is losing the ability to back up to OneDrive starting later this year. Quietly...",
         "source_link": "http://9to5google.com/2026/05/25/samsung-gallery-is-ditching-onedrive-integration/"
       },
       {
-        "rank": 4,
-        "image": "https://www.jalopnik.com/img/gallery/these-are-11-of-the-most-powerful-semi-truck-engines-ever-built/l-intro-1779596668.jpg",
-        "title": "These Are 11 Of The Most Powerful Semi-Truck Engines Ever Built - Jalopnik",
-        "description": "Hauling heavy cargo requires serious power, and these semi-truck engines deliver.",
-        "source_link": "https://www.jalopnik.com/2180153/most-powerful-semi-truck-engines-ever-built/"
-      },
-      {
-        "rank": 5,
-        "image": "https://gonintendo.com/attachments/image/80905/file/medium-5b5c7a5c014fb72bfb30c0b94104f9db.jpg",
-        "title": "Toby Fox says creating DELTARUNE by himself \"wouldn't be possible\" due to the work required and his \"physical condition\" - GoNintendo",
-        "description": "Determined nonetheless",
-        "source_link": "https://gonintendo.com/contents/61097-toby-fox-says-creating-deltarune-by-himself-wouldn-t-be-possible-due-to-the-work"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.windowslatest.com/wp-content/uploads/2026/05/Microsoft-conducted-an-AMA-about-Secure-Boot.jpg",
-        "title": "Microsoft reveals what happens to Windows 11 PCs if you ignore the Secure Boot deadline in June 2026 - Windows Latest",
-        "description": "Microsoft warns Windows 11 PCs without the new Secure Boot certificates may lose future protections, boot security updates, and upgrades.",
-        "source_link": "https://www.windowslatest.com/2026/05/26/microsoft-reveals-what-happens-to-windows-11-pcs-if-you-ignore-the-secure-boot-deadline-in-june-2026/"
-      },
-      {
-        "rank": 7,
-        "image": null,
-        "title": "Months trapped together in Antarctic isolation reveal a risk few long missions can afford to ignore - Phys.org",
-        "description": null,
-        "source_link": "https://phys.org/news/2026-05-months-antarctic-isolation-reveal-missions.html"
-      },
-      {
-        "rank": 8,
-        "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/05/Screenshot-2026-05-25-at-1.17.25---PM-1.png",
-        "title": "Workers At TheGamer Say Site\u2019s New Pay-Per-Session Contract Is \u2018Heartbreaking\u2019 - Aftermath",
-        "description": "Under a new payment system, writers at Valnet-owned TheGamer would no longer be guaranteed consistent pay for their work",
-        "source_link": "https://aftermath.site/the-gamer-valnet-pay-per-session-contract/"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/05/Marvel-Rivals-Cheaters-Banned.jpg",
-        "title": "Nearly 500 Marvel Rivals Cheaters Get Permabanned by NetEase, and Most of Them Couldn\u2019t Even Climb Out of Bronze - Wccftech",
-        "description": "NetEase has shut down rumours that Marvel Rivals players could bypass the anti-cheat and perma-banned hundreds of players caught cheating.",
-        "source_link": "https://wccftech.com/netease-shuts-down-marvel-rivals-anti-cheat-rumours-perma-bans-hundreds-of-cheaters/"
+        "rank": 10,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple says U.S. is refusing to produce federal agency documents in DOJ antitrust case - 9to5Mac",
+        "description": "Apple is asking a federal judge to force the U.S. government to turn over documents from 14 federal agencies that it says could support its defense in the DOJ\u2019s antitrust case.",
+        "source_link": "https://9to5mac.com/2026/05/25/apple-says-u-s-is-refusing-to-produce-federal-agency-documents-in-doj-antitrust-case/"
       }
     ],
     "trending_movies": [
@@ -76,10 +83,10 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
+        "image": "https://image.tmdb.org/t/p/w200/huKckuD90OblEHH8MYfekHvCPfp.jpg",
+        "title": "Fuze",
+        "description": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacua...",
+        "source_link": "https://www.themoviedb.org/movie/1242265"
       },
       {
         "rank": 3,
@@ -90,10 +97,10 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/huKckuD90OblEHH8MYfekHvCPfp.jpg",
-        "title": "Fuze",
-        "description": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacua...",
-        "source_link": "https://www.themoviedb.org/movie/1242265"
+        "image": "https://image.tmdb.org/t/p/w200/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
         "rank": 5,
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
+        "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+        "title": "The Mandalorian and Grogu",
+        "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
+        "source_link": "https://www.themoviedb.org/movie/1228710"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
+        "image": "https://image.tmdb.org/t/p/w200/nm2ianYVp7OXElUZVeeAbNTqBLr.jpg",
+        "title": "Masters of the Universe",
+        "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
+        "source_link": "https://www.themoviedb.org/movie/454639"
       }
     ]
   }
