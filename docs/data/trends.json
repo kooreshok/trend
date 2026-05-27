@@ -1,76 +1,69 @@
 {
-  "last_updated": "May 27, 2026, 07:06 UTC",
+  "last_updated": "May 27, 2026, 11:34 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.teslarati.com/wp-content/uploads/2021/11/U5A8266-Edit-c-1000x600.jpg",
+        "title": "NASA just gave SpaceX more crew missions because Boeing can\u2019t certify - Teslarati",
+        "description": "NASA has filed a procurement notice announcing its intent to add six post-certification missions to SpaceX\u2019s existing Commercial Crew Transportation Capability contract. The agency said it would order up to three of those missions immediately upon adding them\u2026",
+        "source_link": "https://www.teslarati.com/spacex-nasa-contracts/"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.nintendolife.com/3768daeef6f69/large.jpg",
+        "title": "One Of 2025's Best Games Is Now Free For Switch Online Members - Nintendo Life",
+        "description": "Play it until 1st June",
+        "source_link": "https://www.nintendolife.com/news/2026/05/one-of-2025s-best-games-is-now-free-for-switch-online-members"
+      },
+      {
+        "rank": 3,
+        "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
+        "title": "Store Update 1.30.0 - ARC Raiders",
+        "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
+        "source_link": "https://arcraiders.com/news/store-update-1-30-0"
+      },
+      {
+        "rank": 4,
         "image": "https://personacentral.com/wp-content/uploads/2025/06/Persona-4-Revival-Screenshot-2.jpg",
         "title": "\u2018Persona 4 Revival BGM\u2019 Registered on NexTone Music Copyright Database - Persona Central",
         "description": "An new entry has appeared on a music copyright management database for 'Persona 4 Revival' BGM implying that it may shortly feature in a trailer",
         "source_link": "https://personacentral.com/p4r-bgm/"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://www.gematsu.com/wp-content/uploads/2026/05/Korean-Ratings_05-26-26_Top.jpg",
         "title": "LEGO Skylines by Paradox Interactive, Persona 4 Revival, and more rated in Korea - Gematsu",
         "description": "The Game Rating and Administration Committee of Korea has rated the unannounced LEGO Skylines by Paradox Interactive.",
         "source_link": "https://www.gematsu.com/2026/05/lego-skylines-by-paradox-interactive-persona-4-revival-and-more-rated-in-korea"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Gemini-Neural-Expressive-3-scaled.jpg",
         "title": "Gemini user hits 5-hour usage cap after a single prompt, Google responds - Android Authority",
         "description": "A Gemini user reportedly exhausted their five-hour usage limit with a single failed prompt, and Google has acknowledged the issue.",
         "source_link": "https://www.androidauthority.com/google-gemini-usage-limit-problem-3670846/"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/motorola-razr-fold-white-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes [Video] - 9to5Google",
         "description": "A truly bizarre situation on Motorola phones has led to the software hijacking the Amazon app to inject an affiliate...",
         "source_link": "http://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/"
       },
       {
-        "rank": 5,
-        "image": "https://images.nintendolife.com/ad5756d15dc04/large.jpg",
-        "title": "Tetris 99's Latest Crossover Event Celebrates Yoshi's New Game, Unlock A Special Theme - Nintendo Life",
-        "description": "Starting this week",
-        "source_link": "https://www.nintendolife.com/news/2026/05/tetris-99s-latest-crossover-event-celebrates-yoshis-new-game-unlock-a-special-theme"
-      },
-      {
-        "rank": 6,
-        "image": "https://hackaday.com/wp-content/uploads/2026/05/Intel_chips_286_386_486_size_comparison.jpg",
-        "title": "Z386: An Open-Source 80386 Built Around Original Microcode - Hackaday",
-        "description": "There are many ways you can implement an Intel i386 CPU on an FPGA, with the use of original microcode probably being one of the most interesting approaches. This is what [nand2mario]\u2019s z386 \u2026",
-        "source_link": "https://hackaday.com/2026/05/25/z386-an-open-source-80386-built-around-original-microcode/"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/sennheiser1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-        "title": "Sennheiser\u2019s new Momentum 5 headphones have upgraded ANC and a replaceable battery - The Verge",
-        "description": "Sennheiser updated its Momentum wireless headphones after nearly 4 years with better ANC, support for lossless Bluetooth audio, and a user-swappable battery.",
-        "source_link": "https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth"
-      },
-      {
         "rank": 8,
-        "image": "https://images.pushsquare.com/a9182506f08ca/large.jpg",
-        "title": "'Absurd': Social Media Misquotes Journalist, Erroneously Claims Sony Is Angry at Naughty Dog - Push Square",
-        "description": "Another day at the office",
-        "source_link": "https://www.pushsquare.com/news/2026/05/absurd-social-media-misquotes-journalist-erroneously-claims-sony-is-angry-at-naughty-dog"
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/05/TEVI-Fauna-Arcana-Ann_05-25-26.jpg",
+        "title": "TEVI DLC \u2018Fauna Arcana\u2019 announced - Gematsu",
+        "description": "Publisher and developer CreSpirit, and developer GemaYue have announced TEVI downloadable content \u201cFauna Arcana.\u201d It will launch for PC via Steam on June 25. It is currently unclear whe\u2026",
+        "source_link": "https://www.gematsu.com/2026/05/tevi-dlc-fauna-arcana-announced"
       },
       {
         "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Samsung-Gallery-Screenshots-organizer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Samsung Gallery is ditching OneDrive integration - 9to5Google",
-        "description": "Microsoft has confirmed that Samsung Gallery is losing the ability to back up to OneDrive starting later this year. Quietly...",
-        "source_link": "http://9to5google.com/2026/05/25/samsung-gallery-is-ditching-onedrive-integration/"
-      },
-      {
-        "rank": 10,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple says U.S. is refusing to produce federal agency documents in DOJ antitrust case - 9to5Mac",
-        "description": "Apple is asking a federal judge to force the U.S. government to turn over documents from 14 federal agencies that it says could support its defense in the DOJ\u2019s antitrust case.",
-        "source_link": "https://9to5mac.com/2026/05/25/apple-says-u-s-is-refusing-to-produce-federal-agency-documents-in-doj-antitrust-case/"
+        "image": "https://frequentmiler.com/wp-content/uploads/2026/05/Miraval-Austin-Featured-Image.jpg",
+        "title": "Miraval Austin: Bottom Line Review - Frequent Miler",
+        "description": "Miraval is Hyatt\u2019s \u201cwellness\u201d brand, with three locations in the US and one in the Middle East. Each property has an extensive array of classes, ranging from pilates to yoga, axe-throwing to tarot card reading. Most of them are included in the room rate, whet\u2026",
+        "source_link": "https://frequentmiler.com/miraval-austin-bottom-line-review/"
       }
     ],
     "trending_movies": [
@@ -83,31 +76,31 @@
       },
       {
         "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/huKckuD90OblEHH8MYfekHvCPfp.jpg",
         "title": "Fuze",
         "description": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacua...",
         "source_link": "https://www.themoviedb.org/movie/1242265"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
         "title": "Animal Farm",
         "description": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns i...",
         "source_link": "https://www.themoviedb.org/movie/539745"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
         "rank": 6,
@@ -118,31 +111,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
-        "title": "Tom Clancy's Jack Ryan: Ghost War",
-        "description": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins C...",
-        "source_link": "https://www.themoviedb.org/movie/1380291"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
-        "title": "Ladies First",
-        "description": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by wom...",
-        "source_link": "https://www.themoviedb.org/movie/1368881"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
         "title": "The Mandalorian and Grogu",
         "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
         "source_link": "https://www.themoviedb.org/movie/1228710"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
+        "title": "Tom Clancy's Jack Ryan: Ghost War",
+        "description": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins C...",
+        "source_link": "https://www.themoviedb.org/movie/1380291"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
+        "title": "Ladies First",
+        "description": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by wom...",
+        "source_link": "https://www.themoviedb.org/movie/1368881"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/nm2ianYVp7OXElUZVeeAbNTqBLr.jpg",
-        "title": "Masters of the Universe",
-        "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
-        "source_link": "https://www.themoviedb.org/movie/454639"
+        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+        "title": "Mortal Kombat II",
+        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
+        "source_link": "https://www.themoviedb.org/movie/931285"
       }
     ]
   }
