@@ -1,62 +1,76 @@
 {
-  "last_updated": "May 27, 2026, 15:29 UTC",
+  "last_updated": "May 27, 2026, 18:23 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/siri-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iOS 27\u2019s new Siri design will look like this, per report - 9to5Mac",
-        "description": "Apple\u2019s major Siri overhaul will be unveiled soon, and a new report reveals exactly what to expect from Siri\u2019s new UI design.",
-        "source_link": "https://9to5mac.com/2026/05/26/ios-27s-new-siri-design-will-look-like-this-per-report/"
+        "image": "https://images.macrumors.com/t/RzJYGwPST2fim75_lRKrQt8RKw8=/2500x/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
+        "title": "Apple Seeds First iOS 26.6 and iPadOS 26.6 Betas to Developers - MacRumors",
+        "description": "Apple today seeded the first betas of upcoming iOS 26.6 and iPadOS 26.6 updates to developers for testing purposes, with the software coming two...",
+        "source_link": "https://www.macrumors.com/2026/05/26/apple-releases-ios-26-beta-1/"
       },
       {
         "rank": 2,
+        "image": "https://substackcdn.com/image/fetch/$s_!ci9t!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5c3d801-d25b-4e2d-aea9-4b68e23e230a_1325x876.jpeg",
+        "title": "Bari Weiss: Think For Yourself, Not By Yourself - The Free Press",
+        "description": "The next chapter of The Free Press begins today with the launch of our community-fostering initiatives: the Forum, Supper Club, Retreats, and more.",
+        "source_link": "https://www.thefp.com/p/free-press-community-launch"
+      },
+      {
+        "rank": 3,
+        "image": "https://s.yimg.com/lo/mysterio/api/0e2c136a9e6002de4011c72697848e73a46e052185ab61e2ef0a40f5eba2a8fb/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fguessing_headlights_178%2F2a2141fb8f61548a9d8d8f636a1fc923",
+        "title": "Man's Girlfriend Put His Backpack in What She Thought Was the Trunk of a C8 Corvette. The Hot Engine Nearly Caught Fire - Yahoo Autos",
+        "description": "A brand-new Chevrolet Corvette C8 and a melted backpack have become the latest viral combo on X after one owner claimed his girlfriend accidentally placed hi...",
+        "source_link": "https://guessingheadlights.com/mans-girlfriend-put-his-backpack-in-what-she-thought-was-the-trunk-of-a-c8-corvette-the-hot-engine-nearly-caught-fire/"
+      },
+      {
+        "rank": 4,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/3dspacecadet-1152x648-1779811060.jpeg",
+        "title": "Windows' classic 3D Space Cadet pinball is getting a physical re-creation - Ars Technica",
+        "description": "But there are some real-world constraints that virtual pinball could easily ignore.",
+        "source_link": "https://arstechnica.com/gaming/2026/05/windows-classic-3d-space-cadet-pinball-is-getting-a-physical-re-creation/"
+      },
+      {
+        "rank": 5,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Update-from-the-Dragon-Quest-team-live-stream.jpg",
+        "title": "Update from the Dragon Quest team live stream announced - Nintendo Everything",
+        "description": "Square Enix is gearing up for an Update from the Dragon Quest team live stream, the company announced today. The broadcast goes live at 6 AM PT / 9 AM ET / 2 PM in the UK / 3 PM in Europe. The live stream will be ten minutes long. Square Enix isn\u2019t sharing an\u2026",
+        "source_link": "https://nintendoeverything.com/update-from-the-dragon-quest-team-live-stream-announced/"
+      },
+      {
+        "rank": 6,
+        "image": "https://assetsio.gnwcdn.com/rocket-league-new-era-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Rocket League's Unreal Engine 6 makeover teased as Epic reveals a glimpse of the future - Eurogamer",
+        "description": "Four years after the launch of Unreal Engine 5, Epic has given a first glimpse of what's next, with a shiny new look for Rocket League.",
+        "source_link": "https://www.eurogamer.net/rocket-league-unreal-engine-6-tease"
+      },
+      {
+        "rank": 7,
+        "image": "https://assetsio.gnwcdn.com/Lego-Skylines-custom-EG.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Is Paradox making a Lego Skylines city-building game? Korean ratings board also details Persona 4 Revival and Gears of War: E-Day - Eurogamer",
+        "description": "How do you follow a game like Cities: Skylines 2? If this news is true, by making a Lego-ified version of it.",
+        "source_link": "https://www.eurogamer.net/lego-skylines-city-building-paradox"
+      },
+      {
+        "rank": 8,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/oppobubble1.jpg?quality=90&strip=all&crop=0,10.751393583258,100,78.497212833484",
+        "title": "Oppo\u2019s Bubble is a thin round screen for taking rear camera selfies - The Verge",
+        "description": "Oppo\u2019s Bubble is a magnetic wireless preview screen that sticks to the back of your phone so you can snap selfies with its better rear cameras.",
+        "source_link": "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic"
+      },
+      {
+        "rank": 9,
         "image": "https://www.pokebeach.com/news/2026/05/087-Slowbro-Abyss-Eye.jpg",
         "title": "Most Valuable Cards from \"Abyss Eye,\" Slowbro the Favorite Illustration Rare! - PokeBeach",
         "description": "Abyss Eye\u00a0released in Japan on Friday! I've gathered card prices from online stores to give us a clue of the initial fan interest in these cards.",
         "source_link": "https://www.pokebeach.com/?p=320704"
       },
       {
-        "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25298160/nvidia_app_key_visual.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "Nvidia has retired its GeForce Control Panel app after 20 years - The Verge",
-        "description": "Nvidia has now ported across all of the major Control Panel features to its Nvidia app.",
-        "source_link": "https://www.theverge.com/news/937221/nvidia-geforce-control-panel-app-retirement"
-      },
-      {
-        "rank": 4,
-        "image": null,
-        "title": "iPhone 18 Pro Max vs Google Pixel 11 Pro XL: Main differences to expect - PhoneArena",
-        "description": null,
-        "source_link": "https://www.phonearena.com/reviews/apple-iphone-18-pro-max-vs-google-pixel-11-pro-xl_id7937"
-      },
-      {
-        "rank": 5,
-        "image": "https://assetsio.gnwcdn.com/marvel-rivals_ltROskf.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Hundreds of Marvel Rivals cheats named and shamed in \"an immediate, targeted purge\" - Eurogamer",
-        "description": "Played against someone in Marvel Rivals you think is cheating? Their name might be on this list.",
-        "source_link": "https://www.eurogamer.net/marvel-rivals-exploiters-cheats-named-shamed"
-      },
-      {
-        "rank": 6,
-        "image": "https://assetsio.gnwcdn.com/Screenshot-from-Grounded-showing-a-small-human-in-the-back-garden-with-a-PS-Plus-logo-overlaid-to-the-side.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Here are our PS Plus monthly games for June, with an Xbox title headlining - Eurogamer",
-        "description": "Sony has announced its PlayStation Plus games for June.",
-        "source_link": "https://www.eurogamer.net/here-are-our-ps-plus-monthly-games-for-june-with-an-xbox-title-headlining"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-        "title": "Nobody wants to tell me why they only listen to their own Suno slop - The Verge",
-        "description": "Suno users are abandoning Spotify, and real music for their own AI slop.",
-        "source_link": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.pushsquare.com/b32e34caa0859/large.jpg",
-        "title": "PlayStation Days of Play Sales Start Tomorrow with Physical and PS Store Offers - Push Square",
-        "description": "Deals live from 27th May to 10th June",
-        "source_link": "https://www.pushsquare.com/news/2026/05/playstation-days-of-play-sales-start-tomorrow-with-physical-and-ps-store-offers"
+        "rank": 10,
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/apple-macbook-air-m5-review-cnnu-09-edit.jpg?c=16x9&q=w_800,c_fill",
+        "title": "Apple\u2019s new MacBook Air M5 just dropped below Memorial Day pricing at $199 off - CNN",
+        "description": "Apple just launched its newest MacBook Air back in March, and now the best MacBook and overall laptop we\u2019ve tried is $199 off for the first time at Amazon.",
+        "source_link": "https://www.cnn.com/cnn-underscored/deals/apple-macbook-air-m5-sale-2026-05-26"
       }
     ],
     "trending_movies": [
@@ -69,17 +83,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/5jEVBMKeLbOkp1wEKrpSItFJuul.jpg",
-        "title": "Over Your Dead Body",
-        "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other....",
-        "source_link": "https://www.themoviedb.org/movie/1390300"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/5jEVBMKeLbOkp1wEKrpSItFJuul.jpg",
+        "title": "Over Your Dead Body",
+        "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other....",
+        "source_link": "https://www.themoviedb.org/movie/1390300"
       },
       {
         "rank": 4,
@@ -118,10 +132,10 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
-        "title": "Tom Clancy's Jack Ryan: Ghost War",
-        "description": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins C...",
-        "source_link": "https://www.themoviedb.org/movie/1380291"
+        "image": "https://image.tmdb.org/t/p/w200/aMt9tWMgtsRBfCh0b46MzbRn3ya.jpg",
+        "title": "Disclosure Day",
+        "description": "If you found out we weren\u2019t alone, if someone showed you, proved it to you, would that frighten you?...",
+        "source_link": "https://www.themoviedb.org/movie/1275779"
       },
       {
         "rank": 10,
