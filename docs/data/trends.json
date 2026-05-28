@@ -1,99 +1,106 @@
 {
-  "last_updated": "May 28, 2026, 18:33 UTC",
+  "last_updated": "May 28, 2026, 21:05 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://kotaku.com/app/uploads/2026/05/thumbs-up.jpg",
-        "title": "Dragon Quest 12 Will Take Longer To Come Out After The Team Decided To \u2018Start From Scratch\u2019 - kotaku.com",
-        "description": "Fans have been waiting nearly a decade for the sequel",
-        "source_link": "https://kotaku.com/dragon-quest-12-will-take-longer-to-come-out-after-the-team-decided-to-start-from-scratch-2000699781"
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/76a3690320d5c07c48a524e6e42c83c1f4f9327d-1920x1080.png?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center",
+        "title": "TL;DW: Mayhem, Ranked 5s & More Dev Update - League of Legends",
+        "description": "A short rundown of changes from today\u2019s Dev Update.",
+        "source_link": "https://www.leagueoflegends.com/en-us/news/dev/tldw-mayhem-ranked-5s-more-dev-update/"
       },
       {
         "rank": 2,
+        "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/38c3240034d266bc9dc85a1497ebab7e4b9682c2-1920x1080.jpg?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center",
+        "title": "/dev: The Return of Ranked 5s - League of Legends",
+        "description": "We\u2019re experimenting with a new Ranked queue.",
+        "source_link": "https://www.leagueoflegends.com/en-us/news/dev/dev-the-return-of-ranked-5s/"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Roku-1-1152x648.jpeg",
+        "title": "Roku OS\u2019s home screen now features a large, permanent ad - Ars Technica",
+        "description": "\u201cI don't want recommendations! I know what I want to watch.\"",
+        "source_link": "https://arstechnica.com/gadgets/2026/05/roku-oss-home-screen-now-features-a-large-permanent-ad/"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070054/DSCF9155.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Valve raises Steam Deck prices by more than $200 - The Verge",
+        "description": "Valve has raised the price of the Steam Deck OLED, with the 1TB model jumping to $949, and the 512GB version now costing $789.",
+        "source_link": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase"
+      },
+      {
+        "rank": 5,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/xtool_m2_1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "title": "You can print, slice, and engrave using this desktop crafting machine - The Verge",
+        "description": "The $599 xTool M2 is the company\u2019s most affordable laser cutting tool, but you can upgrade it with full-color printing capabilities and more powerful lasers.",
+        "source_link": "https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter"
+      },
+      {
+        "rank": 6,
+        "image": "https://assetsio.gnwcdn.com/007-First-Light---Mission-2-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "IO Interactive has a plan to keep you playing 007: First Light long after the credits roll - Eurogamer",
+        "description": "James Bond game 007: First Light isn't naturally replayable like Hitman World of Assassination, but developer IOI has something to help with that.",
+        "source_link": "https://www.eurogamer.net/007-first-light-replayability-tacsim-dlc"
+      },
+      {
+        "rank": 7,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/halide-mark-iii-3.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Halide Mark III pro camera for iPhone arrives with three key photography upgrades - 9to5Mac",
+        "description": "Halide\u2019s big 3.0 upgrade has been on our radar since late 2024. Today, the pro camera app has arrived in...",
+        "source_link": "https://9to5mac.com/2026/05/27/halide-mark-iii-pro-camera-for-iphone-arrives-with-three-key-photography-upgrades/"
+      },
+      {
+        "rank": 8,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268544_Sony_Bravia_7_II_RGB_LED_TV_JHiggins_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Sony\u2019s Bravia 7 II makes a statement - The Verge",
+        "description": "While the tech is still new, Sony\u2019s Bravia 7 II proves that RGB LED TVs are capable of serious performance.",
+        "source_link": "https://www.theverge.com/tech/937879/sony-bravia-7-ii-review"
+      },
+      {
+        "rank": 9,
         "image": "https://imageio.forbes.com/specials-images/imageserve/6a16fe1e8a48812d17031fad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "The Highest Metacritic Review-Scored Game Of 2026 Is \u2018Mina The Hollower\u2019 - Forbes",
         "description": "Mina the Hollower is here and has amassed the single highest Metacritic score of 2026 so far but a decent margin.",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/05/27/the-highest-metacritic-scored-game-of-2026-has-just-arrived/"
       },
       {
-        "rank": 3,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/nvidia-control-panel-1152x648-1779893010.jpg",
-        "title": "Nvidia kills Windows XP-era Control Panel \"after 20 years of dedicated service\" - Ars Technica",
-        "description": "Nvidia says the Control Panel's features have been migrated to the Nvidia app.",
-        "source_link": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/"
-      },
-      {
-        "rank": 4,
-        "image": "https://assetsio.gnwcdn.com/Prada_NWRxKojima.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Hideo Kojima and Nicolas Winding Refn have teamed up for a Prada mode event teaser exploring \"new creative possibilities through AI technology\" - Eurogamer",
-        "description": "The latest collaboration between game developer Hideo Kojima and film director Nicolas Winding Refn is an AI short for a Prada mode event.",
-        "source_link": "https://www.eurogamer.net/hideo-kojima-nicolas-winding-refn-ai-short"
-      },
-      {
-        "rank": 5,
-        "image": "https://deadline.com/wp-content/uploads/2026/05/Destinations.png?w=1024",
-        "title": "Roku Unveils First Major Home Screen Update In Over A Decade - Deadline",
-        "description": "Roku is introducing a new home screen it calls more dynamic and smarter and said its platform will reach over 100 million streaming households soon.",
-        "source_link": "http://deadline.com/2026/05/roku-unveils-major-home-screen-update-1236921759/"
-      },
-      {
-        "rank": 6,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/696f88d3f014a65b791bbd4e/0x0.jpg?format=jpg&crop=1578,887,x0,y0,safe&height=900&width=1600&fit=bounds",
-        "title": "A \u2018Destiny 2\u2019 Vs. \u2018Marathon\u2019 Civil War Is Heating Up, Frustrating Many - Forbes",
-        "description": "Destiny 2 is being shut down while Marathon will live on at Bungie, and that has drastically split the community.",
-        "source_link": "https://www.forbes.com/sites/paultassi/2026/05/27/a-destiny-2-vs-marathon-civil-war-is-heating-up-frustrating-many/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/motorola-razr-2026-8.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Motorola stops its phones from hijacking the Amazon app, which was \u2018unintended\u2019 - 9to5Google",
-        "description": "Following the discovery that Motorola phones were hijacking the Amazon app to inject affiliate data, Motorola has confirmed to 9to5Google...",
-        "source_link": "http://9to5google.com/2026/05/27/motorola-amazon-app-unintended/"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/google-health-logo-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google Health roadmap details bug fixes and improvements amid backlash from Fitbit users - 9to5Google",
-        "description": "Google Health has replaced the Fitbit app and, with that, the major redesign has rolled out widely. Many Fitbit users...",
-        "source_link": "http://9to5google.com/2026/05/27/google-health-roadmap-fitbit-backlash/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/05/DQM4-Ann_05-27-26.jpg",
-        "title": "Dragon Quest Monsters: The Withered World announced for PS5, Xbox Series, Switch 2, Switch, and PC - Gematsu",
-        "description": "Square Enix has announced Dragon Quest Monsters: The Withered World for PlayStation 5, Xbox Series, Switch 2, Switch, and PC (Steam, Microsoft Store). A release date was not announced. In Japan, it\u2026",
-        "source_link": "https://www.gematsu.com/2026/05/dragon-quest-monsters-the-withered-world-announced-for-ps5-xbox-series-switch-2-switch-and-pc"
+        "rank": 10,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/HealthApp_hero.width-1600.jpg?quality=90&strip=all&crop=0%2C3.5645047073983%2C100%2C92.870990585203&w=1200",
+        "title": "Here\u2019s how Google is responding to Fitbit users who don\u2019t like the new Health app - The Verge",
+        "description": "Google announced changes to the Google Health app after users complained about the Fitbit app replacement.",
+        "source_link": "https://www.theverge.com/tech/938179/google-health-fitbit-roadmap"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
-        "title": "Fuze",
-        "description": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacua...",
-        "source_link": "https://www.themoviedb.org/movie/1242265"
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
         "title": "Disclosure Day",
         "description": "If you found out we weren\u2019t alone, if someone showed you, proved it to you, would that frighten you?...",
         "source_link": "https://www.themoviedb.org/movie/1275779"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
+        "title": "Fuze",
+        "description": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacua...",
+        "source_link": "https://www.themoviedb.org/movie/1242265"
       },
       {
         "rank": 5,
@@ -104,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/dWIAOC9EKFehGs3CYvDQih3hxaG.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
-        "title": "Ladies First",
-        "description": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by wom...",
-        "source_link": "https://www.themoviedb.org/movie/1368881"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
-        "title": "Lee Cronin's The Mummy",
-        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
-        "source_link": "https://www.themoviedb.org/movie/1304313"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg",
         "title": "Scary Movie",
         "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
         "source_link": "https://www.themoviedb.org/movie/1273221"
       },
       {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/dWIAOC9EKFehGs3CYvDQih3hxaG.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+        "title": "The Mandalorian and Grogu",
+        "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
+        "source_link": "https://www.themoviedb.org/movie/1228710"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
-        "title": "Desert Warrior",
-        "description": "In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala...",
-        "source_link": "https://www.themoviedb.org/movie/898704"
+        "image": "https://image.tmdb.org/t/p/w200/6pzI1DIlxwAFffw9OZcG6cr031U.jpg",
+        "title": "Animal Farm",
+        "description": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns i...",
+        "source_link": "https://www.themoviedb.org/movie/539745"
       }
     ]
   }
