@@ -1,69 +1,76 @@
 {
-  "last_updated": "May 29, 2026, 06:51 UTC",
+  "last_updated": "May 29, 2026, 10:41 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/DSCF9137.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "The golden age of handheld gaming is already over - The Verge",
+        "description": "With Valve raising the starting price of the Steam Deck gaming handheld to $789, handhelds aren\u2019t just getting more expensive \u2014 they\u2019re out of reach for many.",
+        "source_link": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era"
+      },
+      {
+        "rank": 2,
         "image": "https://www.pokebeach.com/news/2026/05/092-Koraidon-ex-Paradox-Drive.jpg",
         "title": "All 109 \"Paradox Drive\" Cards Revealed for \"Pocket!\" - PokeBeach",
         "description": "Paradox Drive has just launched in Pokemon TCG Pocket as its B3a set! As the set name implies, it features Paradox Pokemon with \"Ancient\" and \"Future\"",
         "source_link": "https://www.pokebeach.com/2026/05/all-109-paradox-drive-cards-revealed-for-pocket"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://images.nintendolife.com/2dbd10ec88439/large.jpg",
         "title": "Nintendo Expands Switch Online's N64 Library With Another Game Next Week - Nintendo Life",
         "description": "DK is back!",
         "source_link": "https://www.nintendolife.com/news/2026/05/nintendo-expands-switch-onlines-n64-library-with-another-game-next-week"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-two-ps.jpg?resize=1200,675",
         "title": "Why Google\u2019s AI can\u2019t spell Google (or anything else) - TechCrunch",
         "description": "Google is embarrassing itself, again.",
         "source_link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/"
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "image": "https://cdn.mos.cms.futurecdn.net/pQicYjHRhY8hEWuGF9WzR3-2560-80.jpg",
+        "title": "7 first things you should do with the Google Fitbit Air - Android Central",
+        "description": "I changed these settings and set up these features immediately after unboxing my Fitbit Air.",
+        "source_link": "https://www.androidcentral.com/wearables/fitbit/first-things-you-should-do-with-google-fitbit-air"
+      },
+      {
+        "rank": 6,
         "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10521-8/MediaObjects/41586_2026_10521_Fig1_HTML.png",
         "title": "Experimental randomness amplification - Nature",
         "description": "An experimental realization of device-independent randomness amplification is demonstrated using superconducting qubits, in which a source of weak, correlated randomness is converted into virtually perfect random bits, certified by a Bell test.",
         "source_link": "https://www.nature.com/articles/s41586-026-10521-8"
       },
       {
-        "rank": 5,
-        "image": "https://images.macrumors.com/t/DP79CVusAMIqMynljMiYHm13LK8=/2016x/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg",
-        "title": "Apple Developing iPhone Anti-Snatching Feature That Locks Stolen Phones Instantly - MacRumors",
-        "description": "Apple is developing a new feature that will lock your iPhone if it's snatched from your hand by a thief, according to Apple code seen by 9to5Mac....",
-        "source_link": "https://www.macrumors.com/2026/05/27/apple-anti-theft-iphone-feature/"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/mina1-1152x648.webp",
-        "title": "Mina the Hollower is the best old-school action adventure I\u2019ve played in a while - Ars Technica",
-        "description": "Smooth movement, compelling combat, and tons of secrets make for an innovative throwback.",
-        "source_link": "https://arstechnica.com/gaming/2026/05/mina-the-hollower-is-the-best-old-school-action-adventure-ive-played-in-a-while/"
-      },
-      {
         "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/007-First-Light---Mission-2-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "IO Interactive has a plan to keep you playing 007: First Light long after the credits roll - Eurogamer",
-        "description": "James Bond game 007: First Light isn't naturally replayable like Hitman World of Assassination, but developer IOI has something to help with that.",
-        "source_link": "https://www.eurogamer.net/007-first-light-replayability-tacsim-dlc"
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10569-6/MediaObjects/41586_2026_10569_Fig1_HTML.png",
+        "title": "Mechanism of age-related accumulation of mtDNA mutations in human blood - Nature",
+        "description": "Genome-wide analyses indicate that accumulation of mitochondrial DNA mutations, a hallmark of ageing, may be caused by cryptic replication errors,&nbsp;which act as passenger mutations that eventually become detectable with age&nbsp;owing&nbsp;to age-related \u2026",
+        "source_link": "https://www.nature.com/articles/s41586-026-10569-6"
       },
       {
         "rank": 8,
-        "image": "https://cdn.mos.cms.futurecdn.net/BgHqkKuVEXCCfNuVwffYcV-2560-80.jpg",
-        "title": "Hands on: Sony Bravia 7 II review - What Hi-Fi?",
-        "description": "How does Sony\u2019s step-down \u2018True RGB\u2019 technology perform?",
-        "source_link": "https://www.whathifi.com/tv-home-cinema/televisions/sony-bravia-7-ii"
+        "image": "https://helios-i.mashable.com/imagery/articles/00cwuQsezim2uzMX2NYKkC4/hero-image.fill.size_1200x675.v1779905428.jpg",
+        "title": "DuckDuckGo is growing thanks to Google users frustrated by AI features - Mashable",
+        "description": "Many Search users still want an AI-free experience.",
+        "source_link": "https://mashable.com/tech/duckduckgo-growth-as-a-result-of-google-io-ai-search-announcements"
       },
       {
         "rank": 9,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/12/messages-app-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iOS 26.5 gave Messages app encrypted RCS, here\u2019s how to check it\u2019s working - 9to5Mac",
-        "description": "Here\u2019s how to check if end-to-end encrypted RCS messaging is enabled on your iPhone in iOS 26.5 and active in a given conversation.",
-        "source_link": "https://9to5mac.com/2026/05/27/ios-26-5-gave-messages-app-encrypted-rcs-heres-how-to-check-its-working/"
+        "image": "https://www.thedrive.com/wp-content/uploads/2026/05/1997-Dodge-Copperhead-Concept-front.jpg?w=1200",
+        "title": "Dodge\u2019s New Copperhead SRT Might Not Have a V8, and It\u2019s Not Based on the Charger - The Drive",
+        "description": "In an exclusive interview, the \"Father of the Hellcat\" reveals why the Copperhead\u2019s proportions are \"not cheated\" and why a hybrid V8 is \"an 8-track\" technology.",
+        "source_link": "https://www.thedrive.com/news/dodges-new-copperhead-srt-might-not-have-a-v8-and-its-not-based-on-the-charger"
+      },
+      {
+        "rank": 10,
+        "image": "https://chromeunboxed.com/wp-content/uploads/2026/05/GoogleAndroidXRGlasses.webp",
+        "title": "Google is bringing Gemini to smart glasses, and they come with one big advantage - Chrome Unboxed",
+        "description": "During the Google I/O 2026 keynote, the company announced a major expansion of the Android XR platform, unveiling a new line of \"Intelligent Eyewear.\" Built in collaboration with Samsung and Qualcomm, these new AI-powered glasses are designed to seamlessly in\u2026",
+        "source_link": "https://chromeunboxed.com/google-is-bringing-gemini-to-smart-glasses-and-they-come-with-one-big-advantage/"
       }
     ],
     "trending_movies": [
@@ -83,59 +90,59 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg",
-        "title": "Over Your Dead Body",
-        "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other....",
-        "source_link": "https://www.themoviedb.org/movie/1390300"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
-        "title": "Fuze",
-        "description": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacua...",
-        "source_link": "https://www.themoviedb.org/movie/1242265"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
-        "title": "Disclosure Day",
-        "description": "If you found out we weren\u2019t alone, if someone showed you, proved it to you, would that frighten you?...",
-        "source_link": "https://www.themoviedb.org/movie/1275779"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/dWIAOC9EKFehGs3CYvDQih3hxaG.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/89Dw1ujPlIPRLddhzNuJM4F401D.jpg",
-        "title": "The Drama",
-        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
-        "source_link": "https://www.themoviedb.org/movie/1325734"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/joal4OSVC4T1yFb3kph91tkNNFf.jpg",
         "title": "Propeller One-Way Night Coach",
         "description": "During the golden age of aviation, a young airplane enthusiast and his mother embark on a cross-country journey to Hollywood\u2014and their simple flight t...",
         "source_link": "https://www.themoviedb.org/movie/1662414"
       },
       {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg",
+        "title": "Over Your Dead Body",
+        "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other....",
+        "source_link": "https://www.themoviedb.org/movie/1390300"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
+        "title": "Fuze",
+        "description": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacua...",
+        "source_link": "https://www.themoviedb.org/movie/1242265"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
+        "title": "Disclosure Day",
+        "description": "If you found out we weren\u2019t alone, if someone showed you, proved it to you, would that frighten you?...",
+        "source_link": "https://www.themoviedb.org/movie/1275779"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/dWIAOC9EKFehGs3CYvDQih3hxaG.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
+        "title": "Lee Cronin's The Mummy",
+        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
+        "source_link": "https://www.themoviedb.org/movie/1304313"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-        "title": "The Mandalorian and Grogu",
-        "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
-        "source_link": "https://www.themoviedb.org/movie/1228710"
+        "image": "https://image.tmdb.org/t/p/w200/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg",
+        "title": "Scary Movie",
+        "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
+        "source_link": "https://www.themoviedb.org/movie/1273221"
       }
     ]
   }
