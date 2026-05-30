@@ -1,69 +1,69 @@
 {
-  "last_updated": "May 30, 2026, 09:55 UTC",
+  "last_updated": "May 30, 2026, 11:17 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.sciencealert.com/images/2025/11/SalmonellaTyphiFlagellarStain-1.jpg",
+        "title": "Ancient Killer Is Rapidly Gaining Resistance to Antibiotics, Study Warns - ScienceAlert",
+        "description": "An ancient killer has plagued humans for millennia.",
+        "source_link": "https://www.sciencealert.com/ancient-killer-is-rapidly-gaining-resistance-to-antibiotics-study-warns"
+      },
+      {
+        "rank": 2,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2207567240-1152x648.jpg",
         "title": "LLMs believe false statements even after explicit warnings that they\u2019re false - Ars Technica",
         "description": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"",
         "source_link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2024/05/Google-or-Google-Search-logo-on-Chromebook-laptop-stock-photo-1.jpg",
+        "title": "The Chrome browser is getting a big safety upgrade \u2014 if you use Windows - Android Authority",
+        "description": "Google is generally rolling out a Chrome safety feature called DBSC, making it harder for stolen cookies to be exploited.",
+        "source_link": "https://www.androidauthority.com/chrome-browser-dbsc-3672363/"
+      },
+      {
+        "rank": 4,
         "image": null,
         "title": "The FBI Just Issued an Urgent Warning for Anyone Using Microsoft Teams, Outlook, or OneDrive Over a New Phishing Scheme - inc.com",
         "description": null,
         "source_link": "https://www.inc.com/amaya-nichole/fbi-just-issued-urgent-warning-anyone-using-microsoft-over-new-phishing-scheme/91351360"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://images.purexbox.com/25641009dfbd8/large.jpg",
         "title": "'We Are Building A Stronger Xbox' - Asha Sharma Updates Employees On Progress In 2026 - Pure Xbox",
         "description": "The Xbox CEO says hard choices are still ahead",
         "source_link": "https://www.purexbox.com/news/2026/05/we-are-building-a-stronger-xbox-asha-sharma-updates-employees-on-progress-in-2026"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://image.theregister.com/254471.jpg?imageId=254471&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
         "title": "Disgruntled 0-day hunter 'humiliated' by Microsoft pledges 'bone shattering drop' as Redmond calls cops - The Register",
         "description": "Six 0-days, three under active exploitation, more to come on July 14?",
         "source_link": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085"
       },
       {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/unnamed.png?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-        "title": "Nintendo\u2019s newest WarioWare is a weirdo smartphone app - The Verge",
-        "description": "Nintendo released the mobile game Pictonico on the iPhone and Android, and it\u2019s a strange cross between WarioWare and Tomodachi Life.",
-        "source_link": "https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game"
+        "rank": 7,
+        "image": "https://kotaku.com/app/uploads/2024/02/0cb6efbdf3c68375e2e22a73386b49d1-1200x675.jpg",
+        "title": "Bloodborne Player Done Helping People After 11 Years Because Game Is Dead - Kotaku",
+        "description": "After thousands of hours and successful runs, he's done paying for PSN access to 'sit in a cave and not get summoned'",
+        "source_link": "https://kotaku.com/bloodborne-sicko-who-spent-11-years-helping-people-with-one-boss-is-retiring-because-nobody-is-playing-it-anymore-2000700265"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "iPhone 18 Pro vs iPhone Ultra: Here are the biggest differences - 9to5Mac",
         "description": "Here are the three biggest feature differences between iPhone 18 Pro and iPhone Ultra\u2014price aside\u2014that may influence which model you buy.",
         "source_link": "https://9to5mac.com/2026/05/28/iphone-18-pro-vs-iphone-ultra-three-features-to-win-your-upgrade/"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://assetsio.gnwcdn.com/the-witcher-3-10-years-piece.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "The Witcher 3 expansion Songs of the Past was once intended to launch this year, CD Projekt Red reveals, so the rumours were correct - Eurogamer",
         "description": "CD Projekt Red reveals new info about The Witcher 3 expansion Songs of the Past, including its original intention to release it in 2026.",
         "source_link": "https://www.eurogamer.net/witcher-3-expansion-songs-of-the-past-release-date-details"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.macrumors.com/t/RzJYGwPST2fim75_lRKrQt8RKw8=/2500x/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
-        "title": "Apple Seeds First Public Betas of iOS 26.6, macOS Tahoe 26.6 and More - MacRumors",
-        "description": "Apple today provided public beta testers with the first betas of iOS 26.6, iPadOS 26.6, macOS Tahoe 26.6, watchOS 26.6, and tvOS 26.6, with the...",
-        "source_link": "https://www.macrumors.com/2026/05/28/apple-seeds-ios-26-6-public-beta-1/"
-      },
-      {
-        "rank": 9,
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaqRd_3DDSSASg_YzvuUEqv3elhvFWSjk56bXPoqJeNIWVo-K0giuJ3TNEXV-aYpnuVfOv00_VM428vIFVaMiuZzfL0dQdQvz0_xMNFq4CtrppgTZu5dupV0asq1wZjPW3FoMgUnyGMR_RgBpWT2oTnJFuhaldo3Cd3eNP-MOlDNhP9Uu2KDRiDpYHdoeq/s1600/exploit-meta.jpg",
-        "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code - The Hacker News",
-        "description": "Gogs 9.4 CVSS flaw exploits git rebase injection on 1,141 exposed instances, enabling remote code execution.",
-        "source_link": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html"
       }
     ],
     "trending_movies": [
@@ -104,24 +104,24 @@
       },
       {
         "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+        "title": "Iron Lung",
+        "description": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name -- The Quiet Ra...",
+        "source_link": "https://www.themoviedb.org/movie/1116201"
+      },
+      {
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
         "title": "Lee Cronin's The Mummy",
         "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
         "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg",
         "title": "Over Your Dead Body",
         "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other....",
         "source_link": "https://www.themoviedb.org/movie/1390300"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
-        "title": "Iron Lung",
-        "description": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name -- The Quiet Ra...",
-        "source_link": "https://www.themoviedb.org/movie/1116201"
       },
       {
         "rank": 9,
@@ -132,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-        "title": "The Super Mario Galaxy Movie",
-        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
-        "source_link": "https://www.themoviedb.org/movie/1226863"
+        "image": "https://image.tmdb.org/t/p/w200/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg",
+        "title": "Scary Movie",
+        "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
+        "source_link": "https://www.themoviedb.org/movie/1273221"
       }
     ]
   }
