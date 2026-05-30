@@ -1,69 +1,76 @@
 {
-  "last_updated": "May 30, 2026, 11:17 UTC",
+  "last_updated": "May 30, 2026, 13:20 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Acer-Swift-Air-14-SFA14-I31-Lifestyle-03.jpg?quality=90&strip=all&crop=0%2C3.4750998734523%2C100%2C93.049800253095&w=1200",
+        "title": "Acer\u2019s answer to the MacBook Neo is a $699 laptop with Intel chips and 8GB of RAM - The Verge",
+        "description": "Acer is announcing a variety of laptops for Computex, including a Swift Air 14, Aspire 18 AI, Nitro 16 gaming laptop, and more.",
+        "source_link": "https://www.theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/MSI-Claw-8-EX-AI-Plus.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "This is MSI\u2019s new Claw 8 EX AI Plus gaming handheld - The Verge",
+        "description": "\ufeffAnd it\u2019s using Intel\u2019s custom Arc G3 Extreme handheld gaming chip.",
+        "source_link": "https://www.theverge.com/entertainment/939758/msi-claw-8-ex-ai-plus-gaming-handheld-reveal-computex-2026"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.macrumors.com/t/lqWUrJOQKKV5pEiUCN1izFwQ4QQ=/2500x/article-new/2026/04/iphone-17-pro-black-feature.jpg",
+        "title": "iPhone 18 Pro's Camera Upgrade Will Cost Apple 50% More - MacRumors",
+        "description": "The iPhone 18 Pro and iPhone 18 Pro Max's all-new variable aperture lens will cost Apple 50% more than the camera unit used in current models,...",
+        "source_link": "https://www.macrumors.com/2026/05/29/iphone-18-pros-camera-upgrade-will-cost-more/"
+      },
+      {
+        "rank": 4,
+        "image": "https://assetsio.gnwcdn.com/007-First-Light-screenshot-showing-Bond-and-his-fellow-recruits-doing-weapons-training-in-Malta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "007 First Light truly 'earns the number', as critical acclaim leads to impressive sales milestone in just 24 hours - Eurogamer",
+        "description": "In just one day, IO Interactive's Bond origin game 007 First Light has reached an impressive milestone.",
+        "source_link": "https://www.eurogamer.net/007-first-light-james-bond-sales-milestone-24-hours"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.techpowerup.com/img/4oWcypl2F103CDue.jpg",
+        "title": "Valve Steam Deck Sells Out in 24 Hours Despite Price Hike - TechPowerUp",
+        "description": "The internet has recently been rife with complaints and discussions about the recent price increases to the Valve Steam Deck OLED, which saw prices of the gaming handheld spike by as much as $300. However, that same price increase coincided with the first res\u2026",
+        "source_link": "https://www.techpowerup.com/349469/valve-steam-deck-sells-out-in-24-hours-despite-price-hike"
+      },
+      {
+        "rank": 6,
         "image": "https://www.sciencealert.com/images/2025/11/SalmonellaTyphiFlagellarStain-1.jpg",
         "title": "Ancient Killer Is Rapidly Gaining Resistance to Antibiotics, Study Warns - ScienceAlert",
         "description": "An ancient killer has plagued humans for millennia.",
         "source_link": "https://www.sciencealert.com/ancient-killer-is-rapidly-gaining-resistance-to-antibiotics-study-warns"
       },
       {
-        "rank": 2,
+        "rank": 7,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-Legends-Switch-2-rumor.jpg",
+        "title": "Rumor: Rayman Legends Retold coming to Nintendo Switch 2 - Nintendo Everything",
+        "description": "Rayman Legends Retold is in development for Nintendo Switch 2, according to a new report. If you\u2019ve been looking at game news over the past week or so, you may have seen this name floating around. Apparently, Ubisoft is working on a remake of its acclaimed pl\u2026",
+        "source_link": "https://nintendoeverything.com/rumor-rayman-legends-retold-coming-to-nintendo-switch-2/"
+      },
+      {
+        "rank": 8,
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Grand-Theft-Auto-6.jpg",
+        "title": "GTA 6 Boss Says High Review Scores Reflect Rockstar\u2019s \u201cCommitment To Quality\u201d - GameSpot",
+        "description": "Grand Theft Auto 6 is still on-track to release in just under six months. And while it\u2019s too soon to claim the title will receive the same critical acclaim that Grand Theft Auto 5 received in 2013, Strauss Zelnick\u2013the CEO of Rockstar Games\u2019 parent company, Ta\u2026",
+        "source_link": "https://www.gamespot.com/articles/gta-6-boss-says-high-review-scores-reflect-rockstars-commitment-to-quality/"
+      },
+      {
+        "rank": 9,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2207567240-1152x648.jpg",
         "title": "LLMs believe false statements even after explicit warnings that they\u2019re false - Ars Technica",
         "description": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"",
         "source_link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/"
       },
       {
-        "rank": 3,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2024/05/Google-or-Google-Search-logo-on-Chromebook-laptop-stock-photo-1.jpg",
-        "title": "The Chrome browser is getting a big safety upgrade \u2014 if you use Windows - Android Authority",
-        "description": "Google is generally rolling out a Chrome safety feature called DBSC, making it harder for stolen cookies to be exploited.",
-        "source_link": "https://www.androidauthority.com/chrome-browser-dbsc-3672363/"
-      },
-      {
-        "rank": 4,
+        "rank": 10,
         "image": null,
         "title": "The FBI Just Issued an Urgent Warning for Anyone Using Microsoft Teams, Outlook, or OneDrive Over a New Phishing Scheme - inc.com",
         "description": null,
         "source_link": "https://www.inc.com/amaya-nichole/fbi-just-issued-urgent-warning-anyone-using-microsoft-over-new-phishing-scheme/91351360"
-      },
-      {
-        "rank": 5,
-        "image": "https://images.purexbox.com/25641009dfbd8/large.jpg",
-        "title": "'We Are Building A Stronger Xbox' - Asha Sharma Updates Employees On Progress In 2026 - Pure Xbox",
-        "description": "The Xbox CEO says hard choices are still ahead",
-        "source_link": "https://www.purexbox.com/news/2026/05/we-are-building-a-stronger-xbox-asha-sharma-updates-employees-on-progress-in-2026"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.theregister.com/254471.jpg?imageId=254471&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "title": "Disgruntled 0-day hunter 'humiliated' by Microsoft pledges 'bone shattering drop' as Redmond calls cops - The Register",
-        "description": "Six 0-days, three under active exploitation, more to come on July 14?",
-        "source_link": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085"
-      },
-      {
-        "rank": 7,
-        "image": "https://kotaku.com/app/uploads/2024/02/0cb6efbdf3c68375e2e22a73386b49d1-1200x675.jpg",
-        "title": "Bloodborne Player Done Helping People After 11 Years Because Game Is Dead - Kotaku",
-        "description": "After thousands of hours and successful runs, he's done paying for PSN access to 'sit in a cave and not get summoned'",
-        "source_link": "https://kotaku.com/bloodborne-sicko-who-spent-11-years-helping-people-with-one-boss-is-retiring-because-nobody-is-playing-it-anymore-2000700265"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iPhone 18 Pro vs iPhone Ultra: Here are the biggest differences - 9to5Mac",
-        "description": "Here are the three biggest feature differences between iPhone 18 Pro and iPhone Ultra\u2014price aside\u2014that may influence which model you buy.",
-        "source_link": "https://9to5mac.com/2026/05/28/iphone-18-pro-vs-iphone-ultra-three-features-to-win-your-upgrade/"
-      },
-      {
-        "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/the-witcher-3-10-years-piece.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "The Witcher 3 expansion Songs of the Past was once intended to launch this year, CD Projekt Red reveals, so the rumours were correct - Eurogamer",
-        "description": "CD Projekt Red reveals new info about The Witcher 3 expansion Songs of the Past, including its original intention to release it in 2026.",
-        "source_link": "https://www.eurogamer.net/witcher-3-expansion-songs-of-the-past-release-date-details"
       }
     ],
     "trending_movies": [
@@ -76,24 +83,24 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/joal4OSVC4T1yFb3kph91tkNNFf.jpg",
-        "title": "Propeller One-Way Night Coach",
-        "description": "During the golden age of aviation, a young airplane enthusiast and his mother embark on a cross-country journey to Hollywood\u2014and their simple flight t...",
-        "source_link": "https://www.themoviedb.org/movie/1662414"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/joal4OSVC4T1yFb3kph91tkNNFf.jpg",
+        "title": "Propeller One-Way Night Coach",
+        "description": "During the golden age of aviation, a young airplane enthusiast and his mother embark on a cross-country journey to Hollywood\u2014and their simple flight t...",
+        "source_link": "https://www.themoviedb.org/movie/1662414"
+      },
+      {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
+        "image": "https://image.tmdb.org/t/p/w200/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+        "title": "Iron Lung",
+        "description": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name -- The Quiet Ra...",
+        "source_link": "https://www.themoviedb.org/movie/1116201"
       },
       {
         "rank": 5,
@@ -104,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
-        "title": "Iron Lung",
-        "description": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name -- The Quiet Ra...",
-        "source_link": "https://www.themoviedb.org/movie/1116201"
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
-        "title": "Lee Cronin's The Mummy",
-        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
-        "source_link": "https://www.themoviedb.org/movie/1304313"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg",
         "title": "Over Your Dead Body",
         "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other....",
         "source_link": "https://www.themoviedb.org/movie/1390300"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-        "title": "The Mandalorian and Grogu",
-        "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
-        "source_link": "https://www.themoviedb.org/movie/1228710"
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
+        "title": "Lee Cronin's The Mummy",
+        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
+        "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg",
         "title": "Scary Movie",
         "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
         "source_link": "https://www.themoviedb.org/movie/1273221"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+        "title": "The Mandalorian and Grogu",
+        "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
+        "source_link": "https://www.themoviedb.org/movie/1228710"
       }
     ]
   }
