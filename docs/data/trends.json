@@ -1,13 +1,13 @@
 {
-  "last_updated": "May 30, 2026, 07:37 UTC",
+  "last_updated": "May 30, 2026, 09:55 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://cdn.mos.cms.futurecdn.net/KkY4E2tTAD3dkkEaooH6r5-2560-80.jpg",
-        "title": "Xbox fans brace for tough decisions as CEO Asha Sharma outlines challenges ahead - Windows Central",
-        "description": "Xbox's new CEO revealed that Xbox is in a tough spot in a new memo shared by The Verge. What could the \"tough decisions\" be on the horizon for Asha Sharma?",
-        "source_link": "https://www.windowscentral.com/gaming/xbox/xbox-ceo-asha-sharma-tough-decisions-ahead-what-could-this-mean-for-xbox-helix-xbox-games-studios-or-xbox-exclusives"
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2207567240-1152x648.jpg",
+        "title": "LLMs believe false statements even after explicit warnings that they\u2019re false - Ars Technica",
+        "description": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"",
+        "source_link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/"
       },
       {
         "rank": 2,
@@ -18,59 +18,52 @@
       },
       {
         "rank": 3,
+        "image": "https://images.purexbox.com/25641009dfbd8/large.jpg",
+        "title": "'We Are Building A Stronger Xbox' - Asha Sharma Updates Employees On Progress In 2026 - Pure Xbox",
+        "description": "The Xbox CEO says hard choices are still ahead",
+        "source_link": "https://www.purexbox.com/news/2026/05/we-are-building-a-stronger-xbox-asha-sharma-updates-employees-on-progress-in-2026"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.theregister.com/254471.jpg?imageId=254471&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "title": "Disgruntled 0-day hunter 'humiliated' by Microsoft pledges 'bone shattering drop' as Redmond calls cops - The Register",
+        "description": "Six 0-days, three under active exploitation, more to come on July 14?",
+        "source_link": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085"
+      },
+      {
+        "rank": 5,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/unnamed.png?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
+        "title": "Nintendo\u2019s newest WarioWare is a weirdo smartphone app - The Verge",
+        "description": "Nintendo released the mobile game Pictonico on the iPhone and Android, and it\u2019s a strange cross between WarioWare and Tomodachi Life.",
+        "source_link": "https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game"
+      },
+      {
+        "rank": 6,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iPhone 18 Pro vs iPhone Ultra: Here are the biggest differences - 9to5Mac",
+        "description": "Here are the three biggest feature differences between iPhone 18 Pro and iPhone Ultra\u2014price aside\u2014that may influence which model you buy.",
+        "source_link": "https://9to5mac.com/2026/05/28/iphone-18-pro-vs-iphone-ultra-three-features-to-win-your-upgrade/"
+      },
+      {
+        "rank": 7,
         "image": "https://assetsio.gnwcdn.com/the-witcher-3-10-years-piece.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "The Witcher 3 expansion Songs of the Past was once intended to launch this year, CD Projekt Red reveals, so the rumours were correct - Eurogamer",
         "description": "CD Projekt Red reveals new info about The Witcher 3 expansion Songs of the Past, including its original intention to release it in 2026.",
         "source_link": "https://www.eurogamer.net/witcher-3-expansion-songs-of-the-past-release-date-details"
       },
       {
-        "rank": 4,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-public-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple releases first iOS 26.6 public beta, here\u2019s what to expect - 9to5Mac",
-        "description": "Apple has released the first iOS 26.6 public beta. The update follows the first developer beta release on Tuesday.\u00a0 iOS...",
-        "source_link": "https://9to5mac.com/2026/05/28/apple-releases-first-ios-26-6-public-beta-heres-what-to-expect/"
-      },
-      {
-        "rank": 5,
-        "image": "https://kotaku.com/app/uploads/2026/05/donttouchsnail.jpg",
-        "title": "Help, An Immortal Snail Is Chasing My Mouse Cursor While I Work - Kotaku",
-        "description": "I will not let it catch me\u2014oh god wait no there it is",
-        "source_link": "https://kotaku.com/help-an-immortal-snail-is-chasing-my-mouse-cursor-2000690963"
-      },
-      {
-        "rank": 6,
-        "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/vk/VKO0FT9QY1YS1754699164594.png",
-        "title": "The 3.1 PTR: What You Need to Know \u2014 Diablo IV - Blizzard News",
-        "description": "Preview the return of Realmwalkers, reworked Mythic Uniques system, and more in the upcoming 3.1. PTR.",
-        "source_link": "https://news.blizzard.com/en-gb/article/24259077/the-3-1-ptr-what-you-need-to-know"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.macrumors.com/t/2T4H_h3Dwbwfb2PyrirRZP_DVT8=/3240x/article-new/2026/05/oura-ring-5.jpg",
-        "title": "Oura Ring 5 Unveiled With Smaller Design and Blood Pressure Tracking - MacRumors",
-        "description": "Oura today unveiled the Oura Ring 5, a significantly smaller smart ring with new health-monitoring capabilities including blood pressure trend...",
-        "source_link": "https://www.macrumors.com/2026/05/28/oura-ring-5-unveiled-with-smaller-design/"
-      },
-      {
         "rank": 8,
-        "image": "https://www.techpowerup.com/img/EXkLNvywlnLdqqMN.jpg",
-        "title": "Intel Arc G3 CPU Family Officially Released for Handheld Gaming PCs - TechPowerUp",
-        "description": "Following a series of leaks about an upcoming Intel Panther Lake CPU for gaming handhelds, the hardware giant has officially announced the Intel Arc G3 CPU series, which features the powerful Arc B390 iGPU and optimizations for the Windows Xbox mode that star\u2026",
-        "source_link": "https://www.techpowerup.com/349450/intel-arc-g3-cpu-family-officially-released-for-handheld-gaming-pcs"
+        "image": "https://images.macrumors.com/t/RzJYGwPST2fim75_lRKrQt8RKw8=/2500x/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
+        "title": "Apple Seeds First Public Betas of iOS 26.6, macOS Tahoe 26.6 and More - MacRumors",
+        "description": "Apple today provided public beta testers with the first betas of iOS 26.6, iPadOS 26.6, macOS Tahoe 26.6, watchOS 26.6, and tvOS 26.6, with the...",
+        "source_link": "https://www.macrumors.com/2026/05/28/apple-seeds-ios-26-6-public-beta-1/"
       },
       {
         "rank": 9,
-        "image": "https://cdn.mos.cms.futurecdn.net/Hz3k3WCbHscfQWQSYFnqk-2560-80.jpg",
-        "title": "New Specialized Crux goes all in on aero gravel, with a 15-watt improvement, new geometry, and lighter builds - Cyclingnews",
-        "description": "Does this mean 'cross is dead?",
-        "source_link": "https://www.cyclingnews.com/bikes/gravel/new-specialized-crux-goes-all-in-on-aero-gravel-with-a-15-watt-improvement-new-geometry-and-lighter-builds/"
-      },
-      {
-        "rank": 10,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-1152x648.jpg",
-        "title": "Steam Deck sells out in North America within 24 hours of price hike - Ars Technica",
-        "description": "Europe, Australia, and Asia can still get it while the getting's good.",
-        "source_link": "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/"
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaqRd_3DDSSASg_YzvuUEqv3elhvFWSjk56bXPoqJeNIWVo-K0giuJ3TNEXV-aYpnuVfOv00_VM428vIFVaMiuZzfL0dQdQvz0_xMNFq4CtrppgTZu5dupV0asq1wZjPW3FoMgUnyGMR_RgBpWT2oTnJFuhaldo3Cd3eNP-MOlDNhP9Uu2KDRiDpYHdoeq/s1600/exploit-meta.jpg",
+        "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code - The Hacker News",
+        "description": "Gogs 9.4 CVSS flaw exploits git rebase injection on 1,141 exposed instances, enabling remote code execution.",
+        "source_link": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html"
       }
     ],
     "trending_movies": [
@@ -111,24 +104,24 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg",
-        "title": "Over Your Dead Body",
-        "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other....",
-        "source_link": "https://www.themoviedb.org/movie/1390300"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
         "title": "Lee Cronin's The Mummy",
         "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
         "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg",
+        "title": "Over Your Dead Body",
+        "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other....",
+        "source_link": "https://www.themoviedb.org/movie/1390300"
+      },
+      {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg",
-        "title": "Scary Movie",
-        "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
-        "source_link": "https://www.themoviedb.org/movie/1273221"
+        "image": "https://image.tmdb.org/t/p/w200/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+        "title": "Iron Lung",
+        "description": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name -- The Quiet Ra...",
+        "source_link": "https://www.themoviedb.org/movie/1116201"
       },
       {
         "rank": 9,
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
-        "title": "Disclosure Day",
-        "description": "If you found out we weren\u2019t alone, if someone showed you, proved it to you, would that frighten you?...",
-        "source_link": "https://www.themoviedb.org/movie/1275779"
+        "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+        "title": "The Super Mario Galaxy Movie",
+        "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
+        "source_link": "https://www.themoviedb.org/movie/1226863"
       }
     ]
   }
