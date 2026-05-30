@@ -1,75 +1,82 @@
 {
-  "last_updated": "May 30, 2026, 00:05 UTC",
+  "last_updated": "May 30, 2026, 04:49 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2207567240-1152x648.jpg",
+        "title": "LLMs believe false statements even after explicit warnings that they\u2019re false - Ars Technica",
+        "description": "Fine-tuning tests show \"bias ... toward confidently representing the claims as true.\"",
+        "source_link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/"
+      },
+      {
+        "rank": 2,
         "image": "https://cdn.mos.cms.futurecdn.net/KkY4E2tTAD3dkkEaooH6r5-2560-80.jpg",
         "title": "Xbox fans brace for tough decisions as CEO Asha Sharma outlines challenges ahead - Windows Central",
         "description": "Xbox's new CEO revealed that Xbox is in a tough spot in a new memo shared by The Verge. What could the \"tough decisions\" be on the horizon for Asha Sharma?",
         "source_link": "https://www.windowscentral.com/gaming/xbox/xbox-ceo-asha-sharma-tough-decisions-ahead-what-could-this-mean-for-xbox-helix-xbox-games-studios-or-xbox-exclusives"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/unnamed.png?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
+        "title": "Nintendo\u2019s newest WarioWare is a weirdo smartphone app - The Verge",
+        "description": "Nintendo released the mobile game Pictonico on the iPhone and Android, and it\u2019s a strange cross between WarioWare and Tomodachi Life.",
+        "source_link": "https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game"
+      },
+      {
+        "rank": 4,
+        "image": "https://kotaku.com/app/uploads/2024/02/0cb6efbdf3c68375e2e22a73386b49d1-1200x675.jpg",
+        "title": "Bloodborne Player Done Helping People After 11 Years Because Game Is Dead - Kotaku",
+        "description": "After thousands of hours and successful runs, he's done paying for PSN access to 'sit in a cave and not get summoned'",
+        "source_link": "https://kotaku.com/bloodborne-sicko-who-spent-11-years-helping-people-with-one-boss-is-retiring-because-nobody-is-playing-it-anymore-2000700265"
+      },
+      {
+        "rank": 5,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22954863/cgartenberg_211020_4803_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Amazon\u2019s last-gen Paperwhite is on sale for less than the entry-level Kindle - The Verge",
         "description": "Woot is selling the 2021 Kindle Paperwhite for $99.99, its best price to date. The waterproof e-reader boasts a sharp display and an adjustable warm front light.",
         "source_link": "https://www.theverge.com/gadgets/939259/amazon-kindle-paperwhite-2021-woot-dad-tech-sale"
       },
       {
-        "rank": 3,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/spotify-android-app-icon-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Spotify app for Android adding playlist folders, \u2018Reshuffle,\u2019 and more - 9to5Google",
-        "description": "Spotify for Android is adding support for folders, better track management, and a new \"Reshuffle\" button for your queue.",
-        "source_link": "http://9to5google.com/2026/05/28/spotify-app-for-android-adding-playlist-folders-reshuffle-and-more/"
+        "rank": 6,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iPhone 18 Pro vs iPhone Ultra: Here are the biggest differences - 9to5Mac",
+        "description": "Here are the three biggest feature differences between iPhone 18 Pro and iPhone Ultra\u2014price aside\u2014that may influence which model you buy.",
+        "source_link": "https://9to5mac.com/2026/05/28/iphone-18-pro-vs-iphone-ultra-three-features-to-win-your-upgrade/"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-public-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple releases first iOS 26.6 public beta, here\u2019s what to expect - 9to5Mac",
         "description": "Apple has released the first iOS 26.6 public beta. The update follows the first developer beta release on Tuesday.\u00a0 iOS...",
         "source_link": "https://9to5mac.com/2026/05/28/apple-releases-first-ios-26-6-public-beta-heres-what-to-expect/"
       },
       {
-        "rank": 5,
+        "rank": 8,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/intel-arc-g-series-1152x648.jpg",
         "title": "Intel makes a bid for handheld gaming PCs with new Arc G3 processors - Ars Technica",
         "description": "Intel's Arc B390 integrated GPU has offered impressive performance in laptops.",
         "source_link": "https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/"
       },
       {
-        "rank": 6,
+        "rank": 9,
+        "image": "https://kotaku.com/app/uploads/2026/05/donttouchsnail.jpg",
+        "title": "Help, An Immortal Snail Is Chasing My Mouse Cursor While I Work - Kotaku",
+        "description": "I will not let it catch me\u2014oh god wait no there it is",
+        "source_link": "https://kotaku.com/help-an-immortal-snail-is-chasing-my-mouse-cursor-2000690963"
+      },
+      {
+        "rank": 10,
         "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/vk/VKO0FT9QY1YS1754699164594.png",
         "title": "The 3.1 PTR: What You Need to Know \u2014 Diablo IV - Blizzard News",
         "description": "Preview the return of Realmwalkers, reworked Mythic Uniques system, and more in the upcoming 3.1. PTR.",
         "source_link": "https://news.blizzard.com/en-gb/article/24259077/the-3-1-ptr-what-you-need-to-know"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/witcher-3-geralt_uS0zYOX.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "CD Projekt Red reveals huge The Witcher 3 sales milestone, which helps explain why a third expansion is in development 11 years later - Eurogamer",
-        "description": "Why not make more expansions for a classic old RPG if this many people play it?",
-        "source_link": "https://www.eurogamer.net/witcher-3-sales-milestone-65-million"
-      },
-      {
-        "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/youtube-on-the-go-mode-news.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "YouTube takes baby steps to being a real podcast app - The Verge",
-        "description": "New YouTube Premium features could make YouTube better for listening to podcasts, with audio-first controls and AI-automated playback speed.",
-        "source_link": "https://www.theverge.com/streaming/939051/youtube-premium-podcast-features"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.mos.cms.futurecdn.net/Hz3k3WCbHscfQWQSYFnqk-2560-80.jpg",
-        "title": "New Specialized Crux goes all in on aero gravel, with a 15-watt improvement, new geometry, and lighter builds - Cyclingnews",
-        "description": "Does this mean 'cross is dead?",
-        "source_link": "https://www.cyclingnews.com/bikes/gravel/new-specialized-crux-goes-all-in-on-aero-gravel-with-a-15-watt-improvement-new-geometry-and-lighter-builds/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/v6u21uod8fUZAOYhVyAYqeLV4bN.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
@@ -90,52 +97,52 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg",
-        "title": "Scary Movie",
-        "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
-        "source_link": "https://www.themoviedb.org/movie/1273221"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg",
-        "title": "Over Your Dead Body",
-        "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other....",
-        "source_link": "https://www.themoviedb.org/movie/1390300"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
         "title": "Fuze",
         "description": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacua...",
         "source_link": "https://www.themoviedb.org/movie/1242265"
       },
       {
-        "rank": 7,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
+        "title": "Lee Cronin's The Mummy",
+        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
+        "source_link": "https://www.themoviedb.org/movie/1304313"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg",
+        "title": "Over Your Dead Body",
+        "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other....",
+        "source_link": "https://www.themoviedb.org/movie/1390300"
+      },
+      {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
-        "title": "Disclosure Day",
-        "description": "If you found out we weren\u2019t alone, if someone showed you, proved it to you, would that frighten you?...",
-        "source_link": "https://www.themoviedb.org/movie/1275779"
+        "image": "https://image.tmdb.org/t/p/w200/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg",
+        "title": "Scary Movie",
+        "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
+        "source_link": "https://www.themoviedb.org/movie/1273221"
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+        "title": "The Mandalorian and Grogu",
+        "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
+        "source_link": "https://www.themoviedb.org/movie/1228710"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/dWIAOC9EKFehGs3CYvDQih3hxaG.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/89Dw1ujPlIPRLddhzNuJM4F401D.jpg",
-        "title": "The Drama",
-        "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails....",
-        "source_link": "https://www.themoviedb.org/movie/1325734"
       }
     ]
   }
