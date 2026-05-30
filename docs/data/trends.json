@@ -1,69 +1,76 @@
 {
-  "last_updated": "May 30, 2026, 20:05 UTC",
+  "last_updated": "May 30, 2026, 21:57 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets-prd.ignimgs.com/2026/05/29/xbox-expect-blog-1780062782720.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Gears of War E-Day, Fable, and Project Helix: What to Expect From Xbox's Games Showcase 2026 - IGN",
+        "description": "Every game, reveal, and surprise that we could see at Xbox's Games Showcase on June 7.",
+        "source_link": "https://www.ign.com/articles/gears-of-war-e-day-fable-and-project-helix-what-to-expect-from-xboxs-games-showcase-2026"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Gemini-Spark-Availabillity.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Gemini Spark rolls out to Google AI Ultra in the US: How it works - 9to5Google",
+        "description": "As previewed last week, Gemini Spark is now available in the US for Google AI Ultra subscribers. Spark is Google\u2019s 24/7 personal agent...",
+        "source_link": "http://9to5google.com/2026/05/29/gemini-spark-ultra-us/"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/tim-cook-apple-park-rainbow-night-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple has five new products coming that could launch at WWDC - 9to5Mac",
+        "description": "We\u2019re currently WWDC to be software-only, but here are five upcoming Apple products with the best chance of surprising us next month.",
+        "source_link": "https://9to5mac.com/2026/05/29/apple-has-five-new-products-coming-that-could-launch-at-wwdc/"
+      },
+      {
+        "rank": 4,
         "image": "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?resize=1200,800",
         "title": "Microsoft under fire for threatening security researcher with criminal investigation - TechCrunch",
         "description": "A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software.",
         "source_link": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/"
       },
       {
-        "rank": 2,
-        "image": "https://kotaku.com/app/uploads/2026/05/oh-no-1200x675.jpg",
-        "title": "Xbox Delays Fable Into Next Year - Kotaku",
-        "description": "The move is allegedly being made in order to plan game launches 'in a way that works best for players'",
-        "source_link": "https://kotaku.com/xbox-delays-fable-into-next-year-2000700600"
+        "rank": 5,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiV645zXdT2s/v0/1200x675.jpg",
+        "title": "Why One of This Year\u2019s Best Games, \u2018Mina the Hollower,\u2019 Is Only $20 - Bloomberg.com",
+        "description": "The developers at Yacht Club say that charging $20 for their slick new platformer was a no-brainer",
+        "source_link": "https://www.bloomberg.com/news/newsletters/2026-05-29/why-mina-the-hollower-is-only-20"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/ss_8d483674199a602caa1a71e15ebcbc24ce45e11b.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "Microsoft delays Fable (again) to avoid GTA VI - The Verge",
+        "description": "Microsoft has delayed its upcoming Fable reboot once again. Now, it\u2019s set to launch in February 2027. Microsoft will show a \u201cnew look\u201d at the game at its Xbox Games Showcase.",
+        "source_link": "https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi"
+      },
+      {
+        "rank": 7,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Stray-Sw-2-trailer.jpg",
+        "title": "Stray Nintendo Switch 2 launch trailer - adventure game appears with upgraded with visuals, frame rate, 4K, and mouse controls - Nintendo Everything",
+        "description": "Stray has now made its way to Nintendo Switch 2, and along with that, we have a new launch trailer. This edition includes upgraded visuals, 4K, and improved frame rate, alongside mouse control. More information about the title itself can be found in the follo\u2026",
+        "source_link": "https://nintendoeverything.com/stray-nintendo-switch-2-launch-trailer-adventure-game-appears-with-upgraded-with-visuals-frame-rate-4k-and-mouse-controls/"
+      },
+      {
+        "rank": 8,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25503643/DSCF7817_Enhanced_NR_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Microsoft teases new Surface hardware and \u2018a new era of PC\u2019 - The Verge",
         "description": "The teasers point to Computex and Build announcements next week.",
         "source_link": "https://www.theverge.com/news/939960/microsoft-computex-teaser-surface-nvidia-windows-rumors"
       },
       {
-        "rank": 4,
+        "rank": 9,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Anker-Zolo-Wireless-Charger-2-Pack.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "You can buy two of Anker\u2019s Qi2 wireless chargers for under $25 - The Verge",
+        "description": "Two of of Anker\u2019s Zolo Magnetic Wireless Chargers are down to $23.99 ($16 off). Ultimate Ears\u2019 Wonderboom 4 and Dyson\u2019s Hushjet Compact Purifier are on sale too.",
+        "source_link": "https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale"
+      },
+      {
+        "rank": 10,
         "image": "https://imageio.forbes.com/specials-images/imageserve/6a19a5e3248466635668d44a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "\u2018007 First Light\u2019 Is The Uncontroversial Hit Of 2026 With Huge 24 Hour Sales - Forbes",
         "description": "Sales data is in for 007 First Light, and it's done enormous numbers in 24 hours, including being a game that everyone seems to love.",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/05/29/007-first-light-is-the-uncontroversial-hit-of-2026-with-huge-24-hour-sales/"
-      },
-      {
-        "rank": 5,
-        "image": "https://cdn.videocardz.com/1/2026/05/ACER-NITRO-PREDATOR-COMPUTEX-MONITORS-HERO.jpg",
-        "title": "Acer announces Predator and Nitro monitors with up to 1000Hz refresh rate - VideoCardz.com",
-        "description": "Acer reveals Predator XB273K 3D and Nitro XV273U F5 1000Hz monitor Acer has announced a new gaming monitor lineup under its Predator and Nitro brands. The",
-        "source_link": "https://videocardz.com/newz/acer-announces-predator-and-nitro-monitors-with-up-to-1000hz-refresh-rate"
-      },
-      {
-        "rank": 6,
-        "image": "https://assets-prd.ignimgs.com/2026/05/29/ghost-game-deals-ps5-1780057264918.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Ghost of Yotei and Ghost of Tsushima Hit All-Time Lows for PlayStation's Days of Play Sale - IGN",
-        "description": "During PlayStation's Days of Play sale, Ghost of Yotei and Ghost of Tsushima have both seen big discounts that's dropped their prices to $49 and $29, respectively.",
-        "source_link": "https://www.ign.com/articles/ghost-of-yotei-and-ghost-of-tsushima-hit-all-time-lows-for-playstations-days-of-play-sale"
-      },
-      {
-        "rank": 7,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a1990c261763861f27cadef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "\u2018Destiny 2\u2019 Reveals Its Last Update Will Be Its Best In Years - Forbes",
-        "description": "Destiny 2 is putting out one final update before it ceases development, and its bittersweet, given how good it will be.",
-        "source_link": "https://www.forbes.com/sites/paultassi/2026/05/29/destiny-2-reveals-its-last-update-will-be-its-best-in-years/"
-      },
-      {
-        "rank": 8,
-        "image": "https://kotaku.com/app/uploads/2025/06/738ae80f61860cb167203b64a3046417-1200x675.jpg",
-        "title": "Epic Games CEO Dunks On Valve Raising Steam Deck Prices - Kotaku",
-        "description": "Then people turned around and dunked on Sweeney for laying off 1,000 employees",
-        "source_link": "https://kotaku.com/epic-games-ceo-tim-sweeney-dunks-on-gabe-newell-raising-steam-deck-prices-while-flaunting-500-super-yacht-2000700489"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Acer-Swift-Air-14-SFA14-I31-Lifestyle-03.jpg?quality=90&strip=all&crop=0%2C3.4750998734523%2C100%2C93.049800253095&w=1200",
-        "title": "Acer\u2019s answer to the MacBook Neo is a $699 laptop with Intel chips and 8GB of RAM - The Verge",
-        "description": "Acer is announcing a variety of laptops for Computex, including a Swift Air 14, Aspire 18 AI, Nitro 16 gaming laptop, and more.",
-        "source_link": "https://www.theverge.com/tech/939596/acer-swift-air-14-aspire-18-nitro-16-computex-price-specs"
       }
     ],
     "trending_movies": [
@@ -83,59 +90,59 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/joal4OSVC4T1yFb3kph91tkNNFf.jpg",
-        "title": "Propeller One-Way Night Coach",
-        "description": "During the golden age of aviation, a young airplane enthusiast and his mother embark on a cross-country journey to Hollywood\u2014and their simple flight t...",
-        "source_link": "https://www.themoviedb.org/movie/1662414"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
         "title": "Iron Lung",
         "description": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name -- The Quiet Ra...",
         "source_link": "https://www.themoviedb.org/movie/1116201"
       },
       {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
-        "title": "Fuze",
-        "description": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacua...",
-        "source_link": "https://www.themoviedb.org/movie/1242265"
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/joal4OSVC4T1yFb3kph91tkNNFf.jpg",
+        "title": "Propeller One-Way Night Coach",
+        "description": "During the golden age of aviation, a young airplane enthusiast and his mother embark on a cross-country journey to Hollywood\u2014and their simple flight t...",
+        "source_link": "https://www.themoviedb.org/movie/1662414"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
         "title": "Lee Cronin's The Mummy",
         "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
         "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
         "title": "The Super Mario Galaxy Movie",
         "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate h...",
         "source_link": "https://www.themoviedb.org/movie/1226863"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg",
-        "title": "Over Your Dead Body",
-        "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other....",
-        "source_link": "https://www.themoviedb.org/movie/1390300"
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/oMFdQE5hMJ9JjhNORegwTo0GKmh.jpg",
+        "title": "Fuze",
+        "description": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacua...",
+        "source_link": "https://www.themoviedb.org/movie/1242265"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
         "title": "Mortal Kombat II",
         "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
         "source_link": "https://www.themoviedb.org/movie/931285"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg",
+        "title": "Over Your Dead Body",
+        "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other....",
+        "source_link": "https://www.themoviedb.org/movie/1390300"
       }
     ]
   }
