@@ -1,76 +1,76 @@
 {
-  "last_updated": "May 31, 2026, 12:08 UTC",
+  "last_updated": "May 31, 2026, 14:28 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2192219004.jpg?quality=90&strip=all&crop=0%2C10.703832833872%2C100%2C78.592334332257&w=1200",
-        "title": "Nvidia, Microsoft, and Arm are all teasing Nvidia\u2019s new N1X laptop processors - The Verge",
-        "description": "All eyes area now on Nvidia\u2019s keynote at Computex on Sunday night.",
-        "source_link": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser"
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a1aea4fe48d12d758ec3526/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "Sony Is Wrong To Take \u2018Destiny 2\u2019 Support Down To Absolute Zero - Forbes",
+        "description": "When Sony says Destiny 2 is getting no more updates, they truly mean zero, and that is a big mistake for a franchsie this storied.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/05/30/sony-is-wrong-to-take-destiny-2-support-down-to-absolute-zero/"
       },
       {
         "rank": 2,
-        "image": "https://images.macrumors.com/t/Pm624KQECwxx7XGaA9p4-W2O0As=/1688x/article-new/2026/05/duckduckgo-no-ai.jpg",
-        "title": "DuckDuckGo's 'No AI' Search Traffic Climbs as Users Reject Google's AI Overhaul - MacRumors",
-        "description": "Privacy-focused search engine DuckDuckGo has seen a surge in demand for its \"No AI\" search option in the wake of Google's May 19th I/O...",
-        "source_link": "https://www.macrumors.com/2026/05/29/duckduckgo-no-ai-search/"
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a1ad7cbbb33c100b9fb8514/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "The \u2018Return To Xbox\u2019 Movement Is Starting To Lose The Plot - Forbes",
+        "description": "Microsoft is trying to recapture Xbox magic, but doing so by getting lost in minor complaints from fans, with big solutions nowhere in sight.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/05/30/the-return-to-xbox-movement-is-starting-to-lose-the-plot/"
       },
       {
         "rank": 3,
+        "image": "https://images.axios.com/N_M0gF2isOnEArIh1I1tWWtFa3A=/0x221:5398x3257/1366x768/2026/05/30/1780102439546.jpeg",
+        "title": "Scoop: First Windows PCs powered by Nvidia chips to debut next week - Axios",
+        "description": "The chips will appear in Microsoft Surface computers and PCs from other manufacturers.",
+        "source_link": "https://www.axios.com/2026/05/30/nvidia-microsoft-pcs-ai-surface-dell"
+      },
+      {
+        "rank": 4,
+        "image": "https://images.nintendolife.com/0613bcfb627e9/large.jpg",
+        "title": "Mina The Hollower Is Now Metacritic's Highest-Rated Game Of 2026 - Nintendo Life",
+        "description": "Early sales data has also been shared",
+        "source_link": "https://www.nintendolife.com/news/2026/05/mina-the-hollower-is-now-metacritics-highest-rated-game-of-2026"
+      },
+      {
+        "rank": 5,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-music-free-logo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple Music could soon get different subscription tiers - 9to5Mac",
+        "description": "As spotted by Aaron Perris, Apple seems to be working on different subscription tiers to Apple Music, based on strings found in the platform\u2019s Android app. Here are the details.",
+        "source_link": "https://9to5mac.com/2026/05/29/apple-music-could-soon-get-different-subscription-tiers/"
+      },
+      {
+        "rank": 6,
+        "image": "https://www.windowslatest.com/wp-content/uploads/2026/05/Microsofts-redesigned-Windows-11-Start-menu-finally-adds-long-requested-customization-controls.jpg",
+        "title": "Tested: Windows 11's new Start menu lets you fully customize it, and it works surprisingly well - Windows Latest",
+        "description": "Windows 11\u2019s new Start menu finally adds smaller layouts, removable sections, and deeper customization after years of user complaints.",
+        "source_link": "https://www.windowslatest.com/2026/05/30/tested-windows-11s-new-start-menu-lets-you-fully-customize-it-and-it-works-surprisingly-well/"
+      },
+      {
+        "rank": 7,
+        "image": "https://images.purexbox.com/a90f87b13a88f/large.jpg",
+        "title": "Four New Console Features Begin Rolling Out Today For Xbox Insiders (May 29) - Pure Xbox",
+        "description": "\"We\u2019re excited to hear what you think\"",
+        "source_link": "https://www.purexbox.com/features/four-new-console-features-begin-rolling-out-today-for-xbox-insiders-may-29"
+      },
+      {
+        "rank": 8,
+        "image": "https://www.cnet.com/a/img/resize/1a36ffb8e49867e95d17f02f02941d3331aa38d8/hub/2023/09/18/16cdf1fe-0814-47f4-8c89-0c935084f39c/iphone15-pro-81.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "Apple Boosts Trade-In Prices for iPhones, iPads, Apple Watches and MacBooks - CNET",
+        "description": "Apple boosted its maximum trade-in values for selected iPhones, iPads, Apple Watches, MacBooks and desktop Macs.",
+        "source_link": "https://www.cnet.com/tech/mobile/apple-boosts-trade-in-prices-iphones-ipads-apple-watches-and-macbooks/"
+      },
+      {
+        "rank": 9,
+        "image": "https://www.pokebeach.com/news/2026/05/Banned-Slabs-Pokemon.jpg",
+        "title": "TPCi Has Banned Sales of Graded Slabs and Japanese Pokemon Center Products at Events - PokeBeach",
+        "description": "We've learned that TPCi is no longer allowing partnered vendors to sell graded slabs at its events, including NAIC and Worlds. The policy will go into",
+        "source_link": "https://www.pokebeach.com/2026/05/tpci-has-banned-sales-of-graded-slabs-and-pokemon-center-products-at-events"
+      },
+      {
+        "rank": 10,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iPhone-18-Pro-variable-aperture-lens-manufacturing-reportedly-underway.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Kuo: Apple\u2019s iPhone camera roadmap includes a costly upgrade - 9to5Mac",
         "description": "Analyst Ming-Chi Kuo is out with a new look at Apple\u2019s upcoming iPhone camera plans, including an under-the-hood ultra-wide module change and a surprisingly steep cost increase.",
         "source_link": "https://9to5mac.com/2026/05/29/kuo-apples-iphone-camera-roadmap-includes-a-costly-upgrade/"
-      },
-      {
-        "rank": 4,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-Origins-Enhanced-Edition-leak.jpg",
-        "title": "Rayman Origins: Enhanced Edition leaked, first details and screenshots - Nintendo Everything",
-        "description": "Rayman leaks are springing up all over, and now one has happened for the unannounced Rayman Origins: Enhanced Edition. The title has surfaced over on the Xbox store. Ubisoft calls it the \u201cdefinitive experience\u201d with \u201c4K resolution, 60 FPS, and modern enhancem\u2026",
-        "source_link": "https://nintendoeverything.com/rayman-origins-enhanced-edition-leaked-first-details-and-screenshots/"
-      },
-      {
-        "rank": 5,
-        "image": "https://gizmodo.com/app/uploads/2026/05/TP-Link-Wi-Fi-8-teaser-image-1200x675.jpg",
-        "title": "TP-Link Says Screw It, We\u2019re Doing Wi-Fi 8 Now - Gizmodo",
-        "description": "The company plans to launch its first router with the new standard in October.",
-        "source_link": "https://gizmodo.com/tp-link-says-screw-it-were-doing-wi-fi-8-now-2000765221"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.mos.cms.futurecdn.net/5SynmdFSYnmmRfUGkSQLsA-1920-80.jpg",
-        "title": "Xbox CCO Matt Booty confirms it will show off PS5 availability for games at the Xbox Games Showcase - Windows Central",
-        "description": "Microsoft's Xbox CCO Matt Booty has confirmed it will broadcast multiplatform availability of titles shown at the Xbox Games Showcase next week.",
-        "source_link": "https://www.windowscentral.com/gaming/xbox/xbox-games-chief-confirms-microsoft-will-show-when-its-titles-are-coming-to-ps5-and-other-platforms-at-the-xbox-games-showcase"
-      },
-      {
-        "rank": 7,
-        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/05/Z8C_5588.jpg",
-        "title": "This Revolutionary Energy Gel Will Transform the Tour de France. It Contains the Last Thing You\u2019d Expect. - Outside Magazine",
-        "description": "A project led by former Ineos scientist achieved what Poga\u010dar and UAE Emirates couldn't and solved one of the oldest puzzles of sports nutrition.",
-        "source_link": "https://velo.outsideonline.com/road/road-training/lactate-energy-gel-tour-de-france/#article"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-music-app-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple Music outage confirmed in multiple countries - 9to5Mac",
-        "description": "Apple\u2019s System Status pages in several countries are showing an ongoing Apple Music disruption. Here are the details.",
-        "source_link": "https://9to5mac.com/2026/05/29/apple-music-outage-confirmed-in-multiple-countries/"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/acer-nitro-blaze-link-announcement-cropped.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "Acer\u2019s launching a Linux handheld for streaming your PC games - The Verge",
-        "description": "The new Acer Nitro Blaze Link handheld is designed for streaming games from your PC like a PlayStation Portal, running on Linux and just 1GB of RAM.",
-        "source_link": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Diablo-4-Adding-SSF-S14.jpg",
-        "title": "Diablo 4 Is Getting A Long-Awaited Solo Mode Next Season - GameSpot",
-        "description": "Diablo 4 players looking for even more of a challenge will be able to create Solo-Self-Found characters starting in Season 14. Developer Blizzard revealed Diablo 4\u2019s Solo-Self-Found (or SSF) mode as part of its Season 14 public test realm patch notes, offerin\u2026",
-        "source_link": "https://www.gamespot.com/articles/diablo-4-is-getting-a-long-awaited-solo-mode-next-season/"
       }
     ],
     "trending_movies": [
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/dWIAOC9EKFehGs3CYvDQih3hxaG.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
+        "image": "https://image.tmdb.org/t/p/w200/uIb9Tvae5haF0XcQBaPyufmxbb0.jpg",
+        "title": "Lee Cronin's The Mummy",
+        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
+        "source_link": "https://www.themoviedb.org/movie/1304313"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-        "title": "The Mandalorian and Grogu",
-        "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
-        "source_link": "https://www.themoviedb.org/movie/1228710"
+        "image": "https://image.tmdb.org/t/p/w200/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+        "title": "Mortal Kombat II",
+        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
+        "source_link": "https://www.themoviedb.org/movie/931285"
       }
     ]
   }
