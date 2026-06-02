@@ -1,69 +1,76 @@
 {
-  "last_updated": "June 02, 2026, 08:24 UTC",
+  "last_updated": "June 02, 2026, 12:37 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Minecraft-Switch-2-rating.webp",
+        "title": "Minecraft seems to be coming to Nintendo Switch 2 - Nintendo Everything",
+        "description": "A year following the launch of Nintendo Switch 2, it looks like Minecraft is on track to receive its own version for the console. A new rating for the game just popped up in the ESRB classification database. To clarify, this is a separate entry from the Ninte\u2026",
+        "source_link": "https://nintendoeverything.com/minecraft-seems-to-be-coming-to-nintendo-switch-2/"
+      },
+      {
+        "rank": 2,
+        "image": "https://assetsio.gnwcdn.com/geralt-sword-songs-of-past-witcher-3-expansion.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "That sword Geralt unsheaths in The Witcher 3 Songs of the Past expansion artwork? We've seen it before - Eurogamer",
+        "description": "Tricksy CD Projekt Red. The question is, whose sword is it, and what's the significance of it? There are theories..",
+        "source_link": "https://www.eurogamer.net/witcher-3-expansion-songs-of-past-sword"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/xbox-ally-x20-2.jpg?quality=90&strip=all&crop=0%2C14.672050646148%2C100%2C70.655898707704&w=1200",
+        "title": "Asus just announced the OLED Xbox Ally X of my dreams - The Verge",
+        "description": "The Asus ROG Xbox Ally X20 has a new 7.4-inch 30-120Hz OLED screen that might be the best in a handheld yet.",
+        "source_link": "https://www.theverge.com/games/940722/asus-xbox-ally-x20-special-edition-oled-screen"
+      },
+      {
+        "rank": 4,
+        "image": "https://cdn.mos.cms.futurecdn.net/mgvjZ5C2ZGZ3P5yz49iUVM-2560-80.jpg",
+        "title": "Xbox fan backlash to \"PlayStation logos in the Showcase\" isn't about gatekeeping \u2014 it's about distrust - Windows Central",
+        "description": "Microsoft's logo \"transparency\" simply has users doubting whether it's truly behind Xbox's long-term success.",
+        "source_link": "https://www.windowscentral.com/gaming/xbox/xbox-fan-backlash-to-playstation-logos-in-the-showcase-isnt-about-gatekeeping-its-about-distrust"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.cnbcfm.com/api/v1/image/108257481-1769516811771-gettyimages-2250111740-US_STOCKS.jpeg?v=1771953167&w=1920&h=1080",
+        "title": "Arm, IBM and Hewlett Packard soar as Nvidia chip 'reinvention' extends software rally - CNBC",
+        "description": "Shares in software compares surged ahead of Monday's opening bell.",
+        "source_link": "https://www.cnbc.com/2026/06/01/arm-ibm-and-hewlett-packard-nvidia-chip-extends-software-rally.html"
+      },
+      {
+        "rank": 6,
+        "image": "https://cdn.videocardz.com/1/2026/06/AORUS-INFINITY-NEXT-X870-HERO.jpg",
+        "title": "GIGABYTE unveils X870E AORUS INFINITY NEXT motherboard - VideoCardz.com",
+        "description": "GIGABYTE\u2019s AORUS INFINITY series expands to X870E motherboards GIGABYTE has listed two new AMD AM5 motherboards under its AORUS INFINITY series. The new",
+        "source_link": "https://videocardz.com/newz/gigabyte-unveils-x870e-aorus-infinity-next-motherboard"
+      },
+      {
+        "rank": 7,
+        "image": "https://wtop.com/wp-content/uploads/2026/03/Microsoft_5_th_28_52-scaled.jpg",
+        "title": "Data Doctors: Copilot won\u2019t leave \u2014 here\u2019s what to do - WTOP",
+        "description": "Everyday users running standard versions of Windows 11 have several practical options for reducing or eliminating Copilot\u2019s presence.",
+        "source_link": "https://wtop.com/tech/2026/06/data-doctors-copilot-wont-leave-heres-what-to-do/"
+      },
+      {
+        "rank": 8,
+        "image": "https://cdn.videocardz.com/1/2026/05/STEAM-DECK-OLED-HERO3.jpg",
+        "title": "Steam Deck OLED gets another price increase in Asia, 1TB model up by 51% in Korea - VideoCardz.com",
+        "description": "Steam Deck OLED regional pricing climbs again after US price hike 1TB model rises by up to 51%. KOMODO, the official distributor of Valve hardware in",
+        "source_link": "https://videocardz.com/newz/steam-deck-oled-gets-another-price-increase-in-asia-1tb-model-up-by-51-in-korea"
+      },
+      {
+        "rank": 9,
         "image": "https://cdn.videocardz.com/1/2026/06/DLSS-4.5-Ray-Reconstruction.jpg",
         "title": "NVIDIA DLSS 4.5 Ray Reconstruction coming in August for RTX 20, 30, 40 and 50 series - VideoCardz.com",
         "description": "NVIDIA confirms DLSS 4.5 Ray Reconstruction\u00a0for all GeForce RTX GPUs NVIDIA has announced DLSS 4.5 Ray Reconstruction, a new version of its AI-based",
         "source_link": "https://videocardz.com/newz/nvidia-dlss-4-5-ray-reconstruction-coming-in-august-for-rtx-20-30-40-and-50-series"
       },
       {
-        "rank": 2,
-        "image": "https://image.cnbcfm.com/api/v1/image/108313800-1780061746580-Anastasis_speaking_at_Runway_Summit.jpeg?v=1780061834&w=1920&h=1080",
-        "title": "Nvidia-backed $5 billion AI company tells CNBC of major London expansion - CNBC",
-        "description": "Runway follows U.S. AI giants including Anthropic and OpenAI in announcing big London growth plans.",
-        "source_link": "https://www.cnbc.com/2026/06/01/nvidia-backed-runway-london-expansion.html"
-      },
-      {
-        "rank": 3,
-        "image": "https://iprsoftwaremedia.com/219/files/202606/2925226fb77b72cd862a43183694bc08/6a1d11d43d6332be921d64a3_nvidia-dgx-station-for-windows/nvidia-dgx-station-for-windows_50b23c74-f4f4-4b20-ab4d-e44b21bc6909-prv.jpg",
-        "title": "NVIDIA DGX Station for Windows Puts a Trillion-Parameter AI Supercomputer on Every Enterprise Desk - NVIDIA Newsroom",
-        "description": "NVIDIA today announced NVIDIA DGX Station\u2122 for Windows, the world\u2019s most powerful deskside AI supercomputer designed to build, run and connect always-on AI agents to Windows applications and workflows, capable of running frontier AI models of up to 1 trillion\u2026",
-        "source_link": "https://nvidianews.nvidia.com/news/nvidia-dgx-station-for-windows-puts-a-trillion-parameter-ai-supercomputer-on-every-enterprise-desk"
-      },
-      {
-        "rank": 4,
+        "rank": 10,
         "image": "https://www.gematsu.com/wp-content/uploads/2026/05/Ragnarok-Console-Project-Ann_05-31-26.jpg",
         "title": "Ragnarok Console Project announced for PS5, Xbox Series, Switch 2, and PC - Gematsu",
         "description": "Publishers Gravity and Daweon Game Media Lab, and developer Waycoder have announced Ragnarok Console Project for PlayStation 5, Xbox Series, Switch 2, and PC (Steam). It will launch in the first ha\u2026",
         "source_link": "https://www.gematsu.com/2026/05/ragnarok-console-project-announced-for-ps5-xbox-series-switch-2-and-pc"
-      },
-      {
-        "rank": 5,
-        "image": "https://gizmodo.com/app/uploads/2026/05/AMD-Gaming-PCs-1200x675.jpg",
-        "title": "AMD\u2019s Plan to Fix RAM Costs: Bring Back Bygone CPUs - Gizmodo",
-        "description": "Decade-old AM4 motherboards now seem even more appealing if you can\u2019t afford to upgrade.",
-        "source_link": "https://gizmodo.com/amds-plan-to-fix-ram-costs-bring-back-bygone-cpus-2000765337"
-      },
-      {
-        "rank": 6,
-        "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltfdf4bc94aabfca68/6a185c3abb1adf1494b0b7e2/warhammer-40k-darktide.jpg",
-        "title": "PlayStation Plus Users Praise 'Awesome' 90-Hour Free RPG You Have To Play - GAMINGbible",
-        "description": "Don't skip this awesome RPG on PS Plus!",
-        "source_link": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-users-praise-awesome-free-rpg-065087-20260528"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Dell-XPS-13_16.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Dell is bringing back the XPS 13 as a MacBook Neo competitor \u2014 with a temporary discount to $599 - The Verge",
-        "description": "Dell is bringing back the XPS 13, but the new model is now aimed at the MacBook Neo, with 8GB of RAM and a temporary starting price of $599 for students.",
-        "source_link": "https://www.theverge.com/tech/940498/dell-xps-13-student-laptop-intel-wildcat-panther-lake-computex-price"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.pushsquare.com/63f1dca2e066f/large.jpg",
-        "title": "State of Play's Special Alamo Drafthouse Menu Has Leaked, And Here's What Sony's Cooking - Push Square",
-        "description": "Hope you're hungry, bub",
-        "source_link": "https://www.pushsquare.com/news/2026/06/state-of-plays-special-alamo-drafthouse-menu-has-leaked-and-heres-what-sonys-cooking"
-      },
-      {
-        "rank": 9,
-        "image": "https://media.wired.com/photos/6a187b03ed6e2578ab7573b3/191:100/w_1280,c_limit/Microsoft%20Is%20Learning%20the%20Wrong%20Lessons%20From%20Apple%20top%20art%20(2)%20052026%20SOURCE%20Microsoft.jpg",
-        "title": "Everyone Has Their Targets Set on the MacBook Neo - WIRED",
-        "description": "Dell, Microsoft, and others are unveiling new laptops to compete directly with the Neo, but not all are learning the right lessons from Apple.",
-        "source_link": "https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/"
       }
     ],
     "trending_movies": [
@@ -90,10 +97,10 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/7BuN6lQCAq1tLz2l3g6sHVSFGib.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
+        "image": "https://image.tmdb.org/t/p/w200/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+        "title": "In the Grey",
+        "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back\u2014an i...",
+        "source_link": "https://www.themoviedb.org/movie/1122573"
       },
       {
         "rank": 5,
@@ -104,10 +111,10 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
-        "title": "Iron Lung",
-        "description": "In a post-apocalyptic future where an event known as \"The Quiet Rapture\" caused all known stars and habitable planets in the universe to disappear, a ...",
-        "source_link": "https://www.themoviedb.org/movie/1116201"
+        "image": "https://image.tmdb.org/t/p/w200/7BuN6lQCAq1tLz2l3g6sHVSFGib.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
         "rank": 7,
@@ -118,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
-        "title": "Disclosure Day",
-        "description": "If you found out we weren\u2019t alone, if someone showed you, proved it to you, would that frighten you?...",
-        "source_link": "https://www.themoviedb.org/movie/1275779"
+        "image": "https://image.tmdb.org/t/p/w200/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+        "title": "Iron Lung",
+        "description": "In a post-apocalyptic future where an event known as \"The Quiet Rapture\" caused all known stars and habitable planets in the universe to disappear, a ...",
+        "source_link": "https://www.themoviedb.org/movie/1116201"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-        "title": "The Mandalorian and Grogu",
-        "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
-        "source_link": "https://www.themoviedb.org/movie/1228710"
+        "image": "https://image.tmdb.org/t/p/w200/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
-        "title": "In the Grey",
-        "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back\u2014an i...",
-        "source_link": "https://www.themoviedb.org/movie/1122573"
+        "image": "https://image.tmdb.org/t/p/w200/60bRdW7JTXTaSMFgLHjcoS1fXHh.jpg",
+        "title": "The End of Oak Street",
+        "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
+        "source_link": "https://www.themoviedb.org/movie/1101383"
       }
     ]
   }
