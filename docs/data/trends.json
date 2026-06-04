@@ -1,76 +1,76 @@
 {
-  "last_updated": "June 04, 2026, 08:16 UTC",
+  "last_updated": "June 04, 2026, 11:48 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://kotaku.com/app/uploads/2026/06/Triage_Vignette_02_1920x1080-e1780452106905-1200x668.jpg",
+        "title": "Marathon's Big Free Season 2 Debut Plagued By Server Issues - Kotaku",
+        "description": "Bungie's extraction shooter is facing outages on its biggest day since launch",
+        "source_link": "https://kotaku.com/server-issues-plague-marathons-big-comeback-moment-2000701778"
+      },
+      {
+        "rank": 2,
         "image": "https://i.pcmag.com/imagery/articles/07fhEKMVC2xfTJS6TIOVqu5-1.fit_lim.size_1200x630.v1780445130.jpg",
         "title": "The Nvidia RTX Spark Era Starts Here: Hands On With Microsoft's Surface Laptop Ultra - PCMag",
         "description": "Microsoft's new flagship Surface is the poster child for Nvidia's agentic-AI-first laptop platform. Here's what we learned from our first encounter with the hardware.",
         "source_link": "https://www.pcmag.com/news/hands-on-microsoft-surface-laptop-ultra-computex-2026"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Toy-Story-Retro-Roundup-and-Toy-Story-3-Complete-Edition.jpg",
+        "title": "Toy Story: Retro Roundup, Toy Story 3 Complete Edition announced for Nintendo Switch 2 and Switch - Nintendo Everything",
+        "description": "Toy Story: Retro Roundup and Toy Story 3 Complete Edition were just revealed for Nintendo Switch 2 and Switch - learn about both here.",
+        "source_link": "https://nintendoeverything.com/toy-story-retro-roundup-toy-story-3-complete-edition-announced-for-nintendo-switch-2-and-switch/"
+      },
+      {
+        "rank": 4,
         "image": "https://assetsio.gnwcdn.com/stuntman-hollywood-white-car.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Stuntman Hollywood revealed at Sony State of Play, coming soon to PS5 - Eurogamer",
         "description": "Cars from The Fast and Furious, Back to the Future, and more present.",
         "source_link": "https://www.eurogamer.net/stuntman-hollywood-revealed-at-sony-state-of-play-coming-soon-to-ps5"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://variety.com/wp-content/uploads/2026/06/Wolverine-video-game-PlayStation.jpg?w=1000&h=563&crop=1",
         "title": "\u2018Wolverine\u2019 Game Developers Break Down New Footage, X-Men Cameos, \u2018Low-Gore\u2019 Option, Claw Combat and How Logan Can Die - Variety",
         "description": "The 'Wolverine' video game developers break down the new trailer, X-Men cameos, gameplay and more.",
         "source_link": "https://variety.com/2026/gaming/news/wolverine-video-game-trailer-x-men-cameos-gameplay-1236764406/"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_5010883.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
         "title": "God of War Laufey is coming to the PS5 - The Verge",
         "description": "At its State of Play showcase event at Summer Game Fest, Sony showed off the next God of War game for the PS5.",
         "source_link": "https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-Legends-Retold-Switch-2.jpg",
         "title": "Rayman Legends Retold targeting 60 FPS on Nintendo Switch 2, will have content parity with other platforms - Nintendo Everything",
         "description": "Ubisoft has provided the early word on what to expect from Rayman Legends Retold on Nintendo Switch 2. For those that missed out on the news, the game was just revealed today. It\u2019ll be a remake of the beloved 2013 game, now in 2.5D / 3D plus new content. As f\u2026",
         "source_link": "https://nintendoeverything.com/rayman-legends-retold-targeting-60-fps-on-nintendo-switch-2-will-have-content-parity-with-other-platforms/"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://assetsio.gnwcdn.com/control-resonant-dylan-hammer.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Control Resonant's release date revealed in bombshell Sony State of Play story trailer - Eurogamer",
         "description": "More looks at what Dylan is up to floods the trailer, for our pleasure.",
         "source_link": "https://www.eurogamer.net/control-resonant-release-date-sony-state-of-play-trailer"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://images.macrumors.com/t/eNxYmCA1u77ZdJovI2KACUQ_lN0=/2500x/article-new/2024/06/Apple-Intelligence-General-Feature.jpg",
         "title": "Siri in iOS 27: Every New Feature and Change to Expect - MacRumors",
         "description": "Apple first introduced the idea of a smarter version of Siri at the 2024 Worldwide Developers Conference. Siri with Apple Intelligence was supposed...",
         "source_link": "https://www.macrumors.com/2026/06/02/ios-27-siri-features/"
       },
       {
-        "rank": 8,
+        "rank": 10,
         "image": "https://hips.hearstapps.com/hmg-prod/images/f881536d-ac20-4f0d-8afd-a35bd712d130.jpg?crop=0.744xw:0.558xh;0.207xw,0.281xh&resize=1200:*",
         "title": "The BMW M2 Finally Adds an xDrive AWD Model for 2027 - Road & Track",
         "description": "The xDrive AWD system chops a few tenths off the 0-60, should make the winter commute easier, and ships exclusively with the eight-speed auto.",
         "source_link": "https://www.roadandtrack.com/news/a71473290/2027-bmw-m2-xdrive/"
-      },
-      {
-        "rank": 9,
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f1a4/live/e0ba4220-5ec4-11f1-b588-45cc931ea6f1.png",
-        "title": "Microsoft testing wearable AI gadget aimed at office workers - BBC",
-        "description": "The company said its own workers are testing a \"wearable access badge\" and a desktop device.",
-        "source_link": "https://www.bbc.com/news/articles/cwy25x97wrxo"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Ace-Combat-8-Dated_06-02-26.jpg",
-        "title": "Ace Combat 8: Wings of Theve launches October 2 - Gematsu",
-        "description": "Ace Combat 8: Wings of Theve will launch for PlayStation 5, Xbox Series, and PC via Steam on October 2, publisher Bandai Namco and developer Bandai Namco Aces announced.",
-        "source_link": "https://www.gematsu.com/2026/06/ace-combat-8-wings-of-theve-launches-october-2"
       }
     ],
     "trending_movies": [
@@ -90,10 +90,10 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
+        "image": "https://image.tmdb.org/t/p/w200/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+        "title": "Hokum",
+        "description": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Dist...",
+        "source_link": "https://www.themoviedb.org/movie/1430077"
       },
       {
         "rank": 4,
@@ -104,24 +104,24 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
-        "title": "Hokum",
-        "description": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Dist...",
-        "source_link": "https://www.themoviedb.org/movie/1430077"
+        "image": "https://image.tmdb.org/t/p/w200/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-        "title": "Hoppers",
-        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
-        "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
         "title": "Masters of the Universe",
         "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
         "source_link": "https://www.themoviedb.org/movie/454639"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       },
       {
         "rank": 8,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
-        "title": "Is God Is",
-        "description": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths....",
-        "source_link": "https://www.themoviedb.org/movie/1380316"
+        "image": "https://image.tmdb.org/t/p/w200/dpQIeEunpgj0C4rngb6OFb4zSd1.jpg",
+        "title": "Maa Behen",
+        "description": "In this dark comedy, a woman calls her estranged daughters in the middle of the night with chilling news \u2014 there's a dead body in her kitchen....",
+        "source_link": "https://www.themoviedb.org/movie/1628448"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/7BuN6lQCAq1tLz2l3g6sHVSFGib.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
+        "image": "https://image.tmdb.org/t/p/w200/c3nN8XnbYfj2ZEBcNqqlTbtLiQy.jpg",
+        "title": "Is God Is",
+        "description": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths....",
+        "source_link": "https://www.themoviedb.org/movie/1380316"
       }
     ]
   }
