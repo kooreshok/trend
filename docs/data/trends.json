@@ -1,141 +1,134 @@
 {
-  "last_updated": "June 05, 2026, 07:11 UTC",
+  "last_updated": "June 05, 2026, 11:23 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://media.dcrainmaker.com/images/2026/06/FitbitAirCAD-1.png",
+        "title": "Google Releases Fitbit Air CAD Drawings & Specs: Bicep Bands Welcomed! - DC Rainmaker",
+        "description": "Google releases CAD drawings and specs for the Fitbit Air pod, allowing 3rd party companies to make band and accessories",
+        "source_link": "https://www.dcrainmaker.com/2026/06/google-releases-fitbit-air-cad-drawings-specs-bicep-bands-welcomed.html"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/shokz_open2.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+        "title": "Shokz upgraded its open earbuds with better sound and a lighter design - The Verge",
+        "description": "Shokz\u2019 clip-on open earbuds are now available in two versions with lighter designs, improved bass and clarity, and better noise reduction during calls.",
+        "source_link": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0af7516f-a1fd-4f7d-80ee-fcf988dd0745.jpg?source=next-barrier-page",
+        "title": "Nvidia takes AI battle from the data centre to the laptop - Financial Times",
+        "description": "Chipmaker opens new front in rivalry with Apple, Intel, AMD and Qualcomm",
+        "source_link": "https://www.ft.com/content/4db277bf-e67b-473d-a75e-e358fb31f69b?syn-25a6b1a6\\\\u003d1"
+      },
+      {
+        "rank": 4,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/google-ai-edge-gallery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google AI Edge Gallery launches on macOS, letting Mac users run Gemini models locally - 9to5Mac",
         "description": "In addition to Google AI Edge Gallery, the company also released the Gemma 4 12B model and the Google AI Edge Eloquent dictation app for the Mac.",
         "source_link": "https://9to5mac.com/2026/06/03/google-ai-edge-gallery-launches-to-macos-letting-mac-users-run-gemini-models-locally/"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/siri.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Report details Apple\u2019s plan to use Nvidia chips for the Gemini-powered Siri - 9to5Mac",
         "description": "A new report from The Information shares fresh details on how the new Gemini-powered Siri will work under the hood. Here are the details.",
         "source_link": "https://9to5mac.com/2026/06/03/report-details-apples-plan-to-use-nvidia-chips-for-the-gemini-powered-siri/"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/06/02162806/Samsung-Mobile-Next-Gen-Galaxy-Watch-AI-Powered-Health-Companion-Thumb932.jpg",
         "title": "Samsung Introduces Next-Gen Galaxy Watch Features for AI-Powered Everyday Health Companion - samsung.com",
         "description": "Samsung Electronics today announced a major update to the Samsung Health app, transforming the upcoming Galaxy Watch into a proactive, intelligent health partner. Starting June 8, Samsung will begin rolling out the app update to showcase the key health featur\u2026",
         "source_link": "https://news.samsung.com/global/samsung-introduces-next-gen-galaxy-watch-features-for-ai-powered-everyday-health-companion"
       },
       {
-        "rank": 4,
+        "rank": 7,
+        "image": "https://images.purexbox.com/79dcff8005afe/large.jpg",
+        "title": "Control Resonant Early Access Is Exclusive To PS5, But At Least We Get 'Play Anywhere' On Xbox - Pure Xbox",
+        "description": "A worthy trade-off?",
+        "source_link": "https://www.purexbox.com/news/2026/06/control-resonant-early-access-is-exclusive-to-ps5-but-at-least-we-get-play-anywhere-on-xbox"
+      },
+      {
+        "rank": 8,
         "image": "https://cms-media.roblox.com/assets/9bfd31a7-d763-4384-973a-7d32f50dcd37.png",
         "title": "Pioneering AI Founders Join to Accelerate Roblox Reality Vision - Roblox",
         "description": "Founders from Morpheus AI, Dynamics Lab, Lucid AI Make Playable Photorealistic Roblox World Models Possible",
         "source_link": "https://about.roblox.com/newsroom/2026/06/pioneering-ai-founders-join-to-accelerate-roblox-reality-vision"
       },
       {
-        "rank": 5,
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10517-4/MediaObjects/41586_2026_10517_Fig1_HTML.png",
-        "title": "High-pulse-energy integrated mode-locked laser using a Mamyshev oscillator - Nature",
-        "description": "A&nbsp;Mamyshev oscillator mode-locked laser compactly integrated on a photonic-chip delivers nanojoule, femtosecond pulses.",
-        "source_link": "https://www.nature.com/articles/s41586-026-10517-4"
-      },
-      {
-        "rank": 6,
+        "rank": 9,
         "image": "https://kotaku.com/app/uploads/2026/06/HJ58AywXAAA9iY9.jpeg",
         "title": "In Less Than A Day, God Of War Laufey Has Created One Of The Fandom\u2019s Funniest Memes - Kotaku",
         "description": "Kratos and Atreus\u2019 journey is downright serene compared to what Faye is going through",
         "source_link": "https://kotaku.com/god-of-war-laufey-kratos-atreus-faye-mother-grief-jokes-2000702119"
-      },
-      {
-        "rank": 7,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-9.13.33-AM.png?resize=1200,667",
-        "title": "Google\u2019s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon - TechCrunch",
-        "description": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
-        "source_link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/"
-      },
-      {
-        "rank": 8,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Rayman-1-remake.webp",
-        "title": "Ubisoft all but rules out a Rayman 1 remake, says it\u2019s near impossible to do - Nintendo Everything",
-        "description": "Ubisoft comments on why a remake of Rayman 1 is unlikely to happen.",
-        "source_link": "https://nintendoeverything.com/ubisoft-all-but-rules-out-a-rayman-1-remake-says-its-near-impossible-to-do/"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.macrumors.com/t/9uJqMj4VFJjMbPcQi5cTqaPUB18=/2500x/article-new/2021/01/Apple-Glasses-Triad-Feature.jpg",
-        "title": "Kuo: Apple's Vision Pro Successors Off the Table as Focus Shifts to Smart Glasses - MacRumors",
-        "description": "Incoming Apple CEO John Ternus signed off on a major revision of Apple's Vision Pro and smart glasses plans, consolidating Apple's work in...",
-        "source_link": "https://www.macrumors.com/2026/06/03/kuo-vision-pro-successors-nixed/"
-      },
-      {
-        "rank": 10,
-        "image": "https://futurism.com/wp-content/uploads/2026/06/microsoft-plots-addicted-to-its-ai.jpg?w=1200",
-        "title": "In Leaked Document, Microsoft Plots How to Get People \"Addicted\" to Its AI - Futurism",
-        "description": "Microsoft explicitly says it wants to \"make people addicted\" to its new AI personal assistant agent in internal documents.",
-        "source_link": "https://futurism.com/artificial-intelligence/microsoft-plots-addicted-to-its-ai"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
+        "image": "https://image.tmdb.org/t/p/w200/f7CbyRbdqzriEfkXAq7kIwphL8O.jpg",
+        "title": "Office Romance",
+        "description": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a n...",
+        "source_link": "https://www.themoviedb.org/movie/1358005"
+      },
+      {
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/bqOKJrZFR9KpqWE607dw6KOdKCj.jpg",
         "title": "Scary Movie",
         "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
         "source_link": "https://www.themoviedb.org/movie/1273221"
       },
       {
-        "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
-        "title": "Masters of the Universe",
-        "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
-        "source_link": "https://www.themoviedb.org/movie/454639"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
         "title": "In the Grey",
         "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back\u2014an i...",
         "source_link": "https://www.themoviedb.org/movie/1122573"
       },
       {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
         "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+        "title": "Masters of the Universe",
+        "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
+        "source_link": "https://www.themoviedb.org/movie/454639"
+      },
+      {
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/dpQIeEunpgj0C4rngb6OFb4zSd1.jpg",
         "title": "Maa Behen",
         "description": "In this dark comedy, a woman calls her estranged daughters in the middle of the night with chilling news \u2014 there's a dead body in her kitchen....",
         "source_link": "https://www.themoviedb.org/movie/1628448"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
         "title": "Hokum",
         "description": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Dist...",
         "source_link": "https://www.themoviedb.org/movie/1430077"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
         "title": "Hoppers",
         "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
         "source_link": "https://www.themoviedb.org/movie/1327819"
-      },
-      {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/7BuN6lQCAq1tLz2l3g6sHVSFGib.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
         "rank": 10,
