@@ -1,82 +1,82 @@
 {
-  "last_updated": "June 06, 2026, 13:22 UTC",
+  "last_updated": "June 06, 2026, 15:10 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.videocardz.com/1/2026/06/TOMB-RAIDER-LEGACY-OF-ATLANTIS-1_02_vcz.jpg",
+        "title": "Tomb Raider: Legacy of Atlantis PC requirements list RTX 3080 and RX 6800 XT - VideoCardz.com",
+        "description": "Tomb Raider: Legacy of Atlantis PC specs confirm 16GB RAM and RTX 3080 GPU Crystal Dynamics and Flying Wild Hog have listed the first PC system",
+        "source_link": "https://videocardz.com/newz/tomb-raider-legacy-of-atlantis-pc-requirements-list-rtx-3080-and-rx-6800-xt"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.pcguide.com/wp-content/uploads/2026/01/Man-wearing-Steam-Frame-VR-headset.jpg",
+        "title": "Here's an early look at the Steam Frame Welcome Tour after Valve officially announces summer release window - PC Guide",
+        "description": "Valve's Steam Frame is arriving this summer alongside the Steam Machine. Users have managed to get an early glimpse of its setup procedure.",
+        "source_link": "https://www.pcguide.com/news/heres-an-early-look-at-the-steam-frame-welcome-tour-after-valve-officially-announces-summer-release-window/"
+      },
+      {
+        "rank": 3,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a22d8aff2ad91a953e8190d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "Destiny 2\u2019s Last Trailer Ever Is Heartbreaking - Forbes",
+        "description": "The last trailer ever for Destiny 2 is out, barring some sort of miracle, and it represents a peaceful end to a game that should still be alive.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/06/05/destiny-2s-last-trailer-ever-is-heartbreaking/"
+      },
+      {
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/macos-27-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "macOS 27 could grant two wishes that longtime Mac users want most - 9to5Mac",
+        "description": "macOS 27 will be unveiled at WWDC, and rumors indicate the update will grant two wishes that long-time Mac users especially have been wanting.",
+        "source_link": "https://9to5mac.com/2026/06/05/macos-27-could-grant-two-wishes-that-longtime-mac-users-want-most/"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/gowlaufey-Large.jpeg",
+        "title": "God Of War Laufey\u2019s Director Talks Fan Skepticism, New Ideas, And Phranque The Cube - GameSpot",
+        "description": "The showstopper at PlayStation\u2019s State of Play was a new entry in the God of War franchise. However, instead of introducing Kratos\u2019s newest adventure, Santa Monica Studio revealed God of War Laufey, which, as indicated by the title, shifts its focus to Faye, \u2026",
+        "source_link": "https://www.gamespot.com/articles/god-of-war-laufeys-director-talks-fan-skepticism-new-ideas-and-phranque-the-cube/"
+      },
+      {
+        "rank": 6,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/04/Pixel-9a-Pixel-Studio-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google shuts down Pixel Studio with the latest app update - 9to5Google",
+        "description": "Google is shutting down its AI-powered Pixel Studio app less than two years after its debut and instead pushing users...",
+        "source_link": "http://9to5google.com/2026/06/05/google-shuts-down-pixel-studio-with-the-latest-app-update/"
+      },
+      {
+        "rank": 7,
+        "image": "https://i.pcmag.com/imagery/articles/01F21Bgr5lPfJG62T5E9Kfk-6.fit_lim.size_1200x630.v1780582013.png",
+        "title": "I've Used Starlink Every Day for 4 Years. Its Speeds Have Taken an Unexpected Turn - PCMag",
+        "description": "Years of testing Starlink from rural Idaho have transformed my home internet access, but my 2026 performance data raises new questions about speed, pricing, and priority tiers.",
+        "source_link": "https://www.pcmag.com/news/ive-used-starlink-every-day-for-4-years-its-speeds-have-taken-an-unexpected"
+      },
+      {
+        "rank": 8,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a22ca8d4ff2669b58c35de0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "New \u2018Crimson Desert\u2019 Patch Adds A Dragon Alternative, Better Battles - Forbes",
+        "description": "Crimson Desert has a new patch that adds a flying mount, and has improved battles across the landscape of the game.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/06/05/new-crimson-desert-patch-adds-a-dragon-alternative-better-battles/"
+      },
+      {
+        "rank": 9,
+        "image": "https://assetsio.gnwcdn.com/asha-sharma-xbox_ETUJlFF.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Xbox boss Asha Sharma still can't seem to decide on a stance regarding console exclusivity - Eurogamer",
+        "description": "The Xbox exclusivity conversation continues, and it doesn't look like much is actually changing.",
+        "source_link": "https://www.eurogamer.net/xbox-exclusives-asha-sharma-interview"
+      },
+      {
+        "rank": 10,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736-2560x1440-1780609093.jpg",
         "title": "Steve Jobs in Exile is a fine profile of Jobs\u2019 years at NeXT - Ars Technica",
         "description": "\u201cWhy don\u2019t we just frickin\u2019 call Apple?\u201d...",
         "source_link": "https://arstechnica.com/apple/2026/06/steve-jobs-in-exile-is-a-fine-profile-of-jobs-years-at-next/"
-      },
-      {
-        "rank": 2,
-        "image": "https://compote.slate.com/images/3316df33-7d83-4e62-bdd3-09e47677048a.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-        "title": "Marriage advice: We devised a \"friendly\" way to keep our neighbor out of our lawn. He's furious. - Slate Magazine",
-        "description": "Prudie replies to readers\u2019 comments and suggestions.",
-        "source_link": "https://slate.com/advice/2026/06/marriage-advice-neighbor-feud-dear-prudence.html"
-      },
-      {
-        "rank": 3,
-        "image": "https://images.nintendolife.com/7d67acfd0caba/large.jpg",
-        "title": "Yacht Club Games Teases Some \"Very Secret Things\" In Mina The Hollower - Nintendo Life",
-        "description": "But some playthroughs are missing up to \"50 percent of the game\"",
-        "source_link": "https://www.nintendolife.com/news/2026/06/yacht-club-games-teases-some-very-secret-things-in-mina-the-hollower"
-      },
-      {
-        "rank": 4,
-        "image": "https://images.nintendolife.com/348835e7ab1c1/large.jpg",
-        "title": "Rumour: Persona 6 Images Supposedly Leak Online - Nintendo Life",
-        "description": "\"Sega believed to be behind the takedowns\"",
-        "source_link": "https://www.nintendolife.com/news/2026/06/rumour-persona-6-images-supposedly-leak-online"
-      },
-      {
-        "rank": 5,
-        "image": "https://cdn.mos.cms.futurecdn.net/nG3cDMxeRZMHdgHHA3JVEL-1920-80.jpg",
-        "title": "\"You must have exclusive content,\" as Xbox chief doubles down on exclusives for the platform - Windows Central",
-        "description": "Asha Sharma doubles down on exclusives, saying they remain central to defining the Xbox platform even as Xbox expands to more devices and services.",
-        "source_link": "https://www.windowscentral.com/gaming/xbox-ceo-doubles-down-on-exclusives-saying-they-remain-central-to-defining-the-xbox-platform"
-      },
-      {
-        "rank": 6,
-        "image": "https://assets-prd.ignimgs.com/2025/11/04/blackops7thumb-1762276682204.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Black Ops 7's New Classic Mode Seems to Fix a Lot of Issues Players Have With the Game - IGN",
-        "description": "Call of Duty: Black Ops 7 players are having a blast with the games new mode, Black Ops Classic.",
-        "source_link": "https://www.ign.com/articles/black-ops-7s-new-classic-mode-seems-to-fix-a-lot-of-issues-players-have-with-the-game"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKKTzuLapJ28/v9/1200x800.jpg",
-        "title": "Microsoft\u2019s AI Chief Says Anthropic Models Are Too Expensive - Bloomberg.com",
-        "description": "The software company\u2019s AI chief is working to build cheaper in-house models",
-        "source_link": "https://www.bloomberg.com/news/newsletters/2026-06-04/microsoft-says-anthropic-models-are-too-expensive"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.pushsquare.com/2fd0032e8a279/large.jpg",
-        "title": "God of War Laufey Voted Best PS5 Game at State of Play - Push Square",
-        "description": "Wolverine not far behind",
-        "source_link": "https://www.pushsquare.com/news/2026/06/god-of-war-laufey-voted-best-ps5-game-at-state-of-play"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.droid-life.com/wp-content/uploads/2026/05/Google-Health-Premium-Features-4-1200x628.jpg",
-        "title": "Google Health App Gets Massive Update Fixing 15+ Core Bugs After User Backlash - Droid Life",
-        "description": "The Google Health app rollout hasn't been received well, but Google has at least committed to making big changes over the next few weeks and months. Some have already arrived, while the rest are beginning to surface starting today with the first big Google He\u2026",
-        "source_link": "https://www.droid-life.com/2026/06/04/google-health-app-gets-massive-update-fixing-15-core-bugs-after-user-backlash/"
-      },
-      {
-        "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0058.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
-        "title": "Valve says it\u2019s ready to launch the Steam Machine this summer - The Verge",
-        "description": "Valve now says that the delayed Steam Machine PC and Steam Frame VR headset are set to launch sometime this summer. Both devices will also have Verified programs to signify games that run well.",
-        "source_link": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/78TAsYA47vag5OMs4J6Mxxiz9AD.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/9As3SeWOa3bzCjz3PZ4BKSuabMf.jpg",
         "title": "Office Romance",
         "description": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a n...",
         "source_link": "https://www.themoviedb.org/movie/1358005"
@@ -104,24 +104,24 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/dj4MbmBrZXzNQpxsLBIxKohRp9b.jpg",
-        "title": "Mexico 86",
-        "description": "When a last-minute chance to host the 1986 World Cup appears, a cunning Mexican bureaucrat, armed with nothing but guts and audacity, cons his way thr...",
-        "source_link": "https://www.themoviedb.org/movie/1530510"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/dj4MbmBrZXzNQpxsLBIxKohRp9b.jpg",
+        "title": "Mexico 86",
+        "description": "When a last-minute chance to host the 1986 World Cup appears, a cunning Mexican bureaucrat, armed with nothing but guts and audacity, cons his way thr...",
+        "source_link": "https://www.themoviedb.org/movie/1530510"
+      },
+      {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg",
-        "title": "Seven Snipers",
-        "description": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she h...",
-        "source_link": "https://www.themoviedb.org/movie/1288341"
+        "image": "https://image.tmdb.org/t/p/w200/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+        "title": "In the Grey",
+        "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back\u2014an i...",
+        "source_link": "https://www.themoviedb.org/movie/1122573"
       },
       {
         "rank": 8,
@@ -132,10 +132,10 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
-        "title": "In the Grey",
-        "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back\u2014an i...",
-        "source_link": "https://www.themoviedb.org/movie/1122573"
+        "image": "https://image.tmdb.org/t/p/w200/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg",
+        "title": "Seven Snipers",
+        "description": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she h...",
+        "source_link": "https://www.themoviedb.org/movie/1288341"
       },
       {
         "rank": 10,
