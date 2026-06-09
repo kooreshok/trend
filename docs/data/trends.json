@@ -1,69 +1,76 @@
 {
-  "last_updated": "June 09, 2026, 20:10 UTC",
+  "last_updated": "June 09, 2026, 22:20 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-announces-Siri-AI-and-its-next-generation-of-Apple-Intelligence.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Apple announces Siri AI and its next generation of Apple Intelligence - The Verge",
-        "description": "Apple\u2019s second chance at an AI Siri should bring improved capabilities to Apple devices.",
-        "source_link": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc"
+        "image": "https://images.macrumors.com/t/VsFKl4UWO8oZVdkJHHPVQWReYCo=/2500x/article-new/2026/04/Where-is-the-New-Apple-TV-Feature.jpg",
+        "title": "tvOS 27 Drops Support for Two Apple TV Models - MacRumors",
+        "description": "The upcoming tvOS 27 update that was previewed today drops support for two Apple TV models.   The two Apple TV models that are compatible with tvOS...",
+        "source_link": "https://www.macrumors.com/2026/06/08/tvos-27-compatible-apple-tv-models/"
       },
       {
         "rank": 2,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/WWDC-26-13.16.48.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "visionOS 27 announced with new features for Vision Pro - 9to5Mac",
-        "description": "Today at WWDC, Apple announced visionOS 27, its next major software version for Vision Pro. Here\u2019s what\u2019s new in visionOS 27.",
-        "source_link": "https://9to5mac.com/2026/06/08/visionos-27-announced-with-new-features-for-vision-pro/"
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/tim-cook-wwdc-2026.jpeg?resize=1200,677",
+        "title": "Apple plays catch-up at WWDC - TechCrunch",
+        "description": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its \u2026",
+        "source_link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/"
       },
       {
         "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-announces-macOS-Golden-Gate-27.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Apple announces macOS 27 Golden Gate - The Verge",
-        "description": "Apple is announcing its new macOS version for the Mac Studio, Mac Mini, MacBook Pro, MacBook Air, and MacBook Neo.",
-        "source_link": "https://www.theverge.com/tech/943695/apple-wwdc-2026-macos-27-macbook-mac-announcement-features"
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Apple-Intelligence-Image-Playground-Messages-and-Contact-Poster-and-Lock-Screen-260608-1152x648.jpg",
+        "title": "iOS 27 and iPadOS 27 don\u2019t drop support for any iPhones\u2014and just a few iPads - Ars Technica",
+        "description": "This promises to be a solid release for aging iPhones.",
+        "source_link": "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/"
       },
       {
         "rank": 4,
-        "image": "https://images.macrumors.com/t/8TyANX8iZ0OXgocM8vVIYjtztQM=/1600x/article-new/2026/06/Apple-Beta-Back-Soon.jpg",
-        "title": "Apple's Beta Website Says 'We'll Be Back Soon' Just Ahead of WWDC - MacRumors",
-        "description": "Apple's Beta Software Program website has gone down ahead of the company's WWDC 2026 keynote next hour.  The first developer betas of iOS 27,...",
-        "source_link": "https://www.macrumors.com/2026/06/08/apple-beta-website-back-soon/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24023358/226266_APPLE_WATCH_8_SE_PHO_akrales_0350.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Apple drops support for a long list of iPads and Apple Watches with latest OS updates - The Verge",
+        "description": "WatchOS 27 won\u2019t support the Series 6, 7, or 8, or the 2nd-gen SE.",
+        "source_link": "https://www.theverge.com/news/946147/apple-watchos-27-ipados-27-supported-devices-dropped"
       },
       {
         "rank": 5,
-        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/Hero-Customization-abffa6681daaaba38c9d.jpg",
-        "title": "Halo: Campaign Evolved - Creating New Cosmetics for Master Chief That Honor the Halo Legacy - XBOX Wire",
-        "description": "Take a look at the new weapon and armor cosmetics for Master Chief coming to Halo: Campaign Evolved as part of the Premium Edition or Collector\u2019s Edition.",
-        "source_link": "https://news.xbox.com/en-us/2026/06/08/halo-campaign-evolved-prorder-alpha-halo-armory-pack-skins/"
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/icloud-icon-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iCloud+ subscribers will get new benefits in iOS 27 - 9to5Mac",
+        "description": "Today Apple unveiled its next generation of Apple Intelligence, which includes new benefits for iCloud+ subscribers. Next-gen Apple Intelligence will...",
+        "source_link": "https://9to5mac.com/2026/06/08/icloud-subscribers-will-get-new-benefits-in-ios-27/"
       },
       {
         "rank": 6,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/NotebookLM-Outputs.jpeg?resize=1200,675",
-        "title": "NotebookLM\u2019s new update will help you build source repository from chat - TechCrunch",
-        "description": "Google is making Gemini 3.5 the default model in NotebookLM",
-        "source_link": "https://techcrunch.com/2026/06/08/notebooklms-new-update-will-help-you-build-source-repository-from-chat/"
+        "image": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202606082105",
+        "title": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27 - Apple",
+        "description": "Due to the Digital Markets Act, Apple will not be able to ship Siri AI in the European Union with the release of iOS 27 and iPadOS 27.",
+        "source_link": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/"
       },
       {
         "rank": 7,
-        "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/series/incrementals/2026/me05-build-battle-box/me05-build-battle-box-a-169-en.png",
-        "title": "Get a Pok\u00e9mon TCG: Mega Evolution\u2014Pitch Black Build & Battle Box Early - Pokemon.com",
-        "description": "Open booster packs from\u202fa\u202fMega Evolution\u2014Pitch Black Build & Battle Box at a Prerelease event near you.",
-        "source_link": "https://www.pokemon.com/us/pokemon-news/get-a-pokemon-tcg-mega-evolution-pitch-black-build-battle-box-early"
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/wwdc-2026-preview.png?w=1164",
+        "title": "Apple introduces systemwide dictation - TechCrunch",
+        "description": "Apple's new dictation system could compete with Wispr Flow and others.",
+        "source_link": "https://techcrunch.com/2026/06/08/apple-introduces-systemwide-dictation/"
       },
       {
         "rank": 8,
-        "image": "https://assets.warhammer-community.com/thh_mkivgroup-jun08-1-feature-6ijfrdra5r.jpg",
-        "title": "New MkIV Space Marines deploy to the Horus Heresy - Warhammer Community",
-        "description": "Classic power armour reborn with updated miniatures for Warhammer: The Horus Heresy.",
-        "source_link": "https://www.warhammer-community.com/articles/egzsv8co/new-mkiv-space-marines-deploy-to-the-horus-heresy"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Apple-Screen-Time-Ask-to-Browse-wwdc-2026-1.jpg?quality=90&strip=all&crop=0,14.033409967608,100,71.933180064785",
+        "title": "Apple is redesigning Screen Time and overhauling child controls - The Verge",
+        "description": "Apple announced an overhaul to its Screen Time and parental control features that aim to better safeguard children who use iPhone, iPad, and Mac devices.",
+        "source_link": "https://www.theverge.com/tech/945898/apple-parental-controls-child-accounts-wwdc2026"
       },
       {
         "rank": 9,
-        "image": "https://cdn.mos.cms.futurecdn.net/bMzKyXvxCXLHKqujC98GPm-1900-80.jpg",
-        "title": "\"It's top of mind and being worked on\" Xbox confirms anti-scalping methods will be in place ahead of the Xbox Series X25 preorder - Windows Central",
-        "description": "The Xbox Series X25 will drop as a limited-edition console in November 2026, and Xbox want to make sure they aren't all nabbed by scalpers.",
-        "source_link": "https://www.windowscentral.com/gaming/xbox/its-top-of-mind-and-being-worked-on-xbox-confirms-anti-scalping-methods-will-be-in-place-ahead-of-the-xbox-series-x25-preorder"
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-wwdc-liquid-glass.png?resize=1200,656",
+        "title": "Apple is tweaking its controversial Liquid Glass design - TechCrunch",
+        "description": "While some users liked the sleek, transparent designs that look \"glassy,\" others found Apple's design overhaul from last year to be hard to read.",
+        "source_link": "https://techcrunch.com/2026/06/08/apple-is-tweaking-its-controversial-liquid-glass-design/"
+      },
+      {
+        "rank": 10,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/01/Google-AI-Plus-cover-us.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google AI Plus gets price drop to $4.99 and storage bump - 9to5Google",
+        "description": "Google announced today that its AI Plus subscription is getting a price drop to $4.99 per month and now includes 400 GB of storage.",
+        "source_link": "http://9to5google.com/2026/06/08/google-ai-plus-price-drop/"
       }
     ],
     "trending_movies": [
@@ -132,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg",
-        "title": "Seven Snipers",
-        "description": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she h...",
-        "source_link": "https://www.themoviedb.org/movie/1288341"
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
       }
     ]
   }
