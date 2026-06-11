@@ -1,85 +1,92 @@
 {
-  "last_updated": "June 11, 2026, 12:40 UTC",
+  "last_updated": "June 11, 2026, 16:50 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-2-pre-release-6/new-article-hero-image.jpg",
+        "title": "Minecraft 26.2 Pre-Release 6 - Minecraft",
+        "description": "Minecraft 26.2 Pre-Release 6",
+        "source_link": "https://www.minecraft.net/en-us/article/minecraft-26-2-pre-release-6"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.macrumors.com/t/LrnoI49mYocvEDjkwXP6ql9E3nM=/1600x/article-new/2021/02/HomePodandMini-feature-green.jpg",
+        "title": "iOS 27 Brings New Functionality to HomePod - MacRumors",
+        "description": "With the launch of iOS 27 and HomePod Software 27, Apple is adding support for AutoMix, Apple's AI-powered Apple Music feature that blends songs...",
+        "source_link": "https://www.macrumors.com/2026/06/10/ios-27-new-functionality-to-homepod/"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.mos.cms.futurecdn.net/XjKB7kKsaNLFSgmJiCYaSa-1280-80.jpg",
+        "title": "\"Scammers have adapted\": Valve confirms that physical Steam Gift Cards are dead. Once the current stocks are sold through, they're done. - Windows Central",
+        "description": "Valve's Steam Gift Cards have been a staple in major retailers throughout the world for quite some time. But today, the firm confirmed they're being phased out.",
+        "source_link": "https://www.windowscentral.com/gaming/pc-gaming/scammers-have-adapted-valve-confirms-that-physical-steam-gift-cards-are-dead"
+      },
+      {
+        "rank": 4,
+        "image": "https://assetsio.gnwcdn.com/eday-cliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Gears of War creator Cliff Bleszinski believes Xbox is \"steering the 'ship' back in the right direction\", as E-Day skips PS5 - Eurogamer",
+        "description": "Gears of War creator Cliff 'CliffyB' Bleszinski says Xbox \"hurt their loyal tribal fanbase's perception of the brand\".",
+        "source_link": "https://www.eurogamer.net/gears-of-war-e-day-xbox-console-exclusive-cliff-bleszinski"
+      },
+      {
+        "rank": 5,
+        "image": "https://images.macrumors.com/t/QXQ3qDkhrxMrGY5_SLp7tyYc6bg=/1600x/article-new/2024/09/apple-intelligence-black.jpeg",
+        "title": "iPhone 17's 8GB Limit Costs It These Two Siri AI Features in iOS 27 - MacRumors",
+        "description": "Apple this week revealed what its most advanced on-device AI model does, and the feature list is shorter than the hardware requirements might...",
+        "source_link": "https://www.macrumors.com/2026/06/10/iphone-17s-8gb-limit-loses-siri-ai-features/"
+      },
+      {
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK095_MICROSOFT_2_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Microsoft is disabling Office 2019 for Mac next month - The Verge",
+        "description": "A certificate issue means Office 2019 for Mac users won\u2019t be able to edit or save documents starting July 13th.",
+        "source_link": "https://www.theverge.com/news/947518/microsoft-office-2019-for-mac-end-of-support-no-edit"
+      },
+      {
+        "rank": 7,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/logitech10.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "title": "Logitech\u2019s new Mobi Fold squeezes a lot of functionality into a tiny folding mouse - The Verge",
+        "description": "Logitech\u2019s new Mobi Fold is a compact travel mouse that manages to get even smaller by folding in half without skimping on features.",
+        "source_link": "https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on"
+      },
+      {
+        "rank": 8,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDPtxeHvtgQc/v0/1200x800.jpg",
         "title": "Nintendo Shares Slide After 2026 Game Showcase Disappoints - Bloomberg.com",
         "description": "Nintendo Co.\u2019s shares fell by the most in a month after the game maker\u2019s presentation of upcoming games came up short on brand-new titles from heavyweight franchises such as Mario.",
         "source_link": "https://www.bloomberg.com/news/articles/2026-06-10/nintendo-shares-slide-after-2026-game-showcase-disappoints"
       },
       {
-        "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03775_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "title": "I tried Siri AI, and so far it actually works - The Verge",
-        "description": "Siri AI is Apple\u2019s second attempt at an AI assistant, and it looks like this one might stick.",
-        "source_link": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc"
-      },
-      {
-        "rank": 3,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/getty-starlink-1152x648.jpg",
-        "title": "Starlink charges $10 monthly hardware fee in move away from one-time purchases - Ars Technica",
-        "description": "Starlink, SpaceX's top moneymaker, also raised service prices by $5 to $10.",
-        "source_link": "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/"
-      },
-      {
-        "rank": 4,
-        "image": "https://assets-prd.ignimgs.com/2025/11/13/destiynthumb-1763051460453.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Destiny 2 Hits Highest Player Count in Two Years Following Final Update's Release, Shatters Marathon's All-Time Peak - IGN",
-        "description": "Destiny 2 is seeing a massive resurgence with the release of its final update.",
-        "source_link": "https://www.ign.com/articles/destiny-2-hits-highest-player-count-in-two-years-following-final-updates-release-shatters-marathons-all-time-peak"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.marvelrivals.com/pc/gw/20240301101352/data/share.jpg",
-        "title": "The Super Hero Team-based PVP Shooter - Marvel Rivals",
-        "description": "Play for free Now! Get ready to Ignite the Battle with Marvel Rivals!",
-        "source_link": "https://www.marvelrivals.com/balancepost/20260609/41667_1303507.html"
-      },
-      {
-        "rank": 6,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Deltarune-Chapter-6-update.jpg",
-        "title": "Toby Fox shares update on what\u2019s happening with Deltarune Chapter 6 - nintendoeverything.com",
-        "description": "Work continues on Deltarune, and creator Toby Fox provided an update on Chapter 6 today. In case you missed the news, fans won\u2019t have to wait long to experience the next part of the game. Chapter 5 was featured in the Nintendo Direct presentation today and we\u2026",
-        "source_link": "https://nintendoeverything.com/toby-fox-shares-update-on-whats-happening-with-deltarune-chapter-6/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple introduces new subscription bundles coming to App Store - 9to5Mac",
-        "description": "Earlier this year, Apple launched a new subscription option on the App Store: monthly plans with 12-month commitments. Now this...",
-        "source_link": "https://9to5mac.com/2026/06/09/apple-introduces-new-subscription-bundles-coming-to-app-store/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
-        "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws - BleepingComputer",
-        "description": "Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws and three publicly disclosed zero-day vulnerabilities.",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/"
-      },
-      {
         "rank": 9,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Xenoblade-Genesis-director-composers-character-designers.jpg",
-        "title": "Xenoblade Genesis reveals director, composers, character designers - Nintendo Everything",
-        "description": "Nintendo didn\u2019t have a whole lot to say about Xenoblade Genesis following the Direct reveal, but we now have information about its director, composers, and character designers. First up, Tetsuya Takashi is acting as general director. That shouldn\u2019t come as a \u2026",
-        "source_link": "https://nintendoeverything.com/xenoblade-genesis-reveals-director-composers-character-designers/"
+        "image": "https://images.nintendolife.com/90a8e8ca82632/large.jpg",
+        "title": "Toby Fox Shares New Development Update On Deltarune Chapter 6 - Nintendo Life",
+        "description": "Work on Chapter 7 may also start this year",
+        "source_link": "https://www.nintendolife.com/news/2026/06/toby-fox-shares-new-development-update-on-deltarune-chapter-6"
+      },
+      {
+        "rank": 10,
+        "image": "https://images.purexbox.com/47025abde1e5a/large.jpg",
+        "title": "'We'll Start To See Radically Different Business Models' - Xbox Boss Talks Future Of Consoles - Pure Xbox",
+        "description": "She says mass audiences can't afford thousands on a console generation",
+        "source_link": "https://www.purexbox.com/news/2026/06/well-start-to-see-radically-different-business-models-xbox-boss-talks-future-of-consoles"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/wIubCZKpnTiQmlC5DehgU1LNFip.jpg",
-        "title": "Colors of Evil: Black",
-        "description": "Investigating the disappearance of children in a remote Polish town, prosecutor Leopold Bilski must unravel a sinister local legend before it's too la...",
-        "source_link": "https://www.themoviedb.org/movie/1560681"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
         "title": "Disclosure Day",
         "description": "If you found out we weren\u2019t alone, if someone showed you, proved it to you, would that frighten you?...",
         "source_link": "https://www.themoviedb.org/movie/1275779"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
       },
       {
         "rank": 3,
@@ -90,10 +97,10 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-        "title": "Michael",
-        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
+        "image": "https://image.tmdb.org/t/p/w200/wIubCZKpnTiQmlC5DehgU1LNFip.jpg",
+        "title": "Colors of Evil: Black",
+        "description": "Investigating the disappearance of children in a remote Polish town, prosecutor Leopold Bilski must unravel a sinister local legend before it's too la...",
+        "source_link": "https://www.themoviedb.org/movie/1560681"
       },
       {
         "rank": 5,
@@ -104,17 +111,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
-        "title": "Mortal Kombat II",
-        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
-        "source_link": "https://www.themoviedb.org/movie/931285"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+        "title": "Mortal Kombat II",
+        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
+        "source_link": "https://www.themoviedb.org/movie/931285"
       },
       {
         "rank": 8,
@@ -132,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
-        "title": "Masters of the Universe",
-        "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
-        "source_link": "https://www.themoviedb.org/movie/454639"
+        "image": "https://image.tmdb.org/t/p/w200/AbunjMKX4P1sDNlKfhYrWkIoRD9.jpg",
+        "title": "Blades of the Guardians: Wind Rises in the Desert",
+        "description": "Dao Ma, the \"second most wanted fugitive,\" is entrusted by his benefactor, the chief of Mo family clan, to take on a mysterious escort mission-escorti...",
+        "source_link": "https://www.themoviedb.org/movie/1305781"
       }
     ]
   }
