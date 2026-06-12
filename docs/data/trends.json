@@ -1,76 +1,69 @@
 {
-  "last_updated": "June 12, 2026, 16:13 UTC",
+  "last_updated": "June 12, 2026, 19:01 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a2ab77b6e43a729fb97c73f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "Xbox CEO Gives A Good Explanation For Why A Console Now Costs $800 - Forbes",
-        "description": "Xbox prices have skyrocketed, but there's a reason for that which is out of Microsoft's control, as the brand's new CEO explains.",
-        "source_link": "https://www.forbes.com/sites/paultassi/2026/06/11/xbox-ceo-gives-a-good-explanation-for-why-a-console-now-costs-800/"
+        "image": "https://kotaku.com/app/uploads/2026/06/image-3-1-1200x675.jpg",
+        "title": "Stranger Than Heaven Devs Say Adding Tupac To The Game Was A \u2018Good Idea\u2019 - Kotaku",
+        "description": "'This was something we thought would add value to our game,' said Masayoshi Yokoyama",
+        "source_link": "https://kotaku.com/stranger-than-heaven-devs-say-adding-tupac-to-the-game-was-a-good-idea-2000705565"
       },
       {
         "rank": 2,
-        "image": null,
-        "title": "The Legend of Heroes: Trails from Zero - Gematsu",
-        "description": null,
-        "source_link": "https://www.gematsu.com/2026/06/the-legend-of-heroes-trails-from-zero-and-the-legend-of-heroes-trails-to-azure-for-ps5-switch-2-launch-september-10"
+        "image": "https://images.pushsquare.com/1435863d1a4de/large.jpg",
+        "title": "PS5's God of War Laufey Dominated Summer Game Fest - Push Square",
+        "description": "Topped engagement index by a mile",
+        "source_link": "https://www.pushsquare.com/news/2026/06/ps5s-god-of-war-laufey-dominated-summer-game-fest"
       },
       {
         "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2024/08/0e29178d8829a460762192712c056588-1200x675.jpg",
+        "title": "Spyro\u2019s Big Comeback Wouldn\u2019t Be Possible Without First Escaping The Call Of Duty Mines - Kotaku",
+        "description": "Toys for Bob studio head Paul Yan said they bought their independence from Microsoft to 'get back to the games we were known for'",
+        "source_link": "https://kotaku.com/spyros-big-comeback-wouldnt-be-possible-without-first-escaping-the-call-of-duty-mines-2000705537"
+      },
+      {
+        "rank": 4,
+        "image": "https://images.pushsquare.com/671bab0253cc4/large.jpg",
+        "title": "Kingdom Hearts 4 PS5 Release Date Hopium Hits New High - Push Square",
+        "description": "Is it closer than we think?",
+        "source_link": "https://www.pushsquare.com/news/2026/06/kingdom-hearts-4-ps5-release-date-hopium-hits-new-high"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Trails-Azure-Zero_06-11-26.jpg",
+        "title": "The Legend of Heroes: Trails from Zero - Gematsu",
+        "description": "The PlayStation 5 and Switch 2 versions of Falcom-developed story RPGs The Legend of Heroes: Trails from Zero and The Legend of Heroes: Trails to Azure will launch on September 10, publisher NIS Am\u2026",
+        "source_link": "https://www.gematsu.com/2026/06/the-legend-of-heroes-trails-from-zero-and-the-legend-of-heroes-trails-to-azure-for-ps5-switch-2-launch-september-10"
+      },
+      {
+        "rank": 6,
+        "image": "https://images.macrumors.com/t/dWEIrdLAxdd5Tt6TUy4QjkEKWHg=/1600x/article-new/2026/06/liquid-glass-app-icon.jpg",
+        "title": "Apple Maps to Get These 10 New Features in iOS 27 - MacRumors",
+        "description": "Apple Maps is getting a range of new features in iOS 27, headlined by an upgraded Flyover experience that uses AI to improve the realism and detail...",
+        "source_link": "https://www.macrumors.com/2026/06/11/apple-maps-to-get-these-10-new-features-in-ios-27/"
+      },
+      {
+        "rank": 7,
         "image": "https://imageio.forbes.com/specials-images/imageserve/6a2aac1213810580a8913bfb/0x0.jpg?format=jpg&crop=2562,1440,x437,y0,safe&height=900&width=1600&fit=bounds",
         "title": "How To Unlock Destiny 2\u2019s Two Secret, Final Endings - Forbes",
         "description": "Destiny 2 may be ending abruptly, but Bungie has put in two secret endings that you'll have to work to see. And they are worth seeing.",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/06/11/how-to-unlock-destiny-2s-two-secret-final-endings/"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-2-release-candidate-1/new-article-hero-image.jpg",
         "title": "Minecraft 26.2 Release Candidate 1 - Minecraft",
         "description": "Minecraft 26.2 Release Candidate 1",
         "source_link": "https://www.minecraft.net/en-us/article/minecraft-26-2-release-candidate-1"
       },
       {
-        "rank": 5,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/golden-gate-window-corner-1152x648-1781124749.jpeg",
-        "title": "Five things I like (and one thing I still want) in the macOS 27 Golden Gate beta - Ars Technica",
-        "description": "AI aside, Golden Gate includes a bunch of subtle-but-helpful improvements.",
-        "source_link": "https://arstechnica.com/gadgets/2026/06/five-things-i-like-and-one-thing-i-still-want-in-the-macos-27-golden-gate-beta/"
-      },
-      {
-        "rank": 6,
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/trump-mobile-t1-phone-redesign-website-2026.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "iFixit Trump phone teardown confirms it\u2019s an HTC dupe - The Verge",
         "description": "The Trump Mobile T1 Phone\u2019s internals are almost identical to the \u2018made in China\u2019 HTC U24 Pro\u2019s, iFixit has confirmed.",
         "source_link": "https://www.theverge.com/gadgets/948262/trump-phone-t1-ifixit-teardown-htc-u24-pro"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets-prd.ignimgs.com/2026/06/10/alien-int-blog-1781088417100.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "\u2018We Wanted To Match the Original and Go Beyond\u2019 \u2013 Alien: Isolation 2\u2019s Director on Improving a Survivor Horror Icon - IGN",
-        "description": "Alien: Isolation 2's director discusses the long wait for the sequel, and how the new game needs to \"match the original and go beyond\".",
-        "source_link": "https://www.ign.com/articles/we-wanted-to-match-the-original-and-go-beyond-alien-isolation-2s-director-on-improving-a-survivor-horror-icon"
-      },
-      {
-        "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NEW_1200-x-580-pixel-SI-logo-1240x600-1.jpeg?quality=90&strip=all&crop=3.7903225806452,0,92.41935483871,100",
-        "title": "Deezer launches an AI music detector for other streaming services - The Verge",
-        "description": "Since the competition won\u2019t buy Deezer\u2019s AI music detection tech, they\u2019re bringing it directly to users.",
-        "source_link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.sammobile.com/wp-content/uploads/2025/02/Galaxy-S25-Ultra-review-Galaxy-AI.jpg",
-        "title": "Galaxy S25 gets Galaxy S26's two Galaxy AI features missing from its One UI 8.5 update - SamMobile",
-        "description": "A few moments ago, Samsung released a software update for the Galaxy S25 series that brings the June 2026 security patch. We noted that the update was unusually large for a security patch release, and now we know why. The update also introduces two new Galaxy\u2026",
-        "source_link": "https://www.sammobile.com/news/galaxy-s25-gets-galaxy-s26s-two-galaxy-ai-features-missing-from-its-one-ui-8-5-update/"
-      },
-      {
-        "rank": 10,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iPadOS-27-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple\u2019s iPadOS 27 beta downloads briefly included two unsupported iPad Pro models - 9to5Mac",
-        "description": "Apple briefly listed iPadOS 27 beta 1 restore images for two older iPad Pro models before removing them from its developer downloads page.",
-        "source_link": "https://9to5mac.com/2026/06/10/apples-ipados-27-beta-downloads-briefly-included-two-unsupported-ipad-pro-models/"
       }
     ],
     "trending_movies": [
@@ -97,24 +90,24 @@
       },
       {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/b0mJReRxiPv8NwnFDayp3VVJKc2.jpg",
+        "title": "Over Your Dead Body",
+        "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other....",
+        "source_link": "https://www.themoviedb.org/movie/1390300"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
         "title": "Mortal Kombat II",
         "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
         "source_link": "https://www.themoviedb.org/movie/931285"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg",
-        "title": "Scary Movie",
-        "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
-        "source_link": "https://www.themoviedb.org/movie/1273221"
       },
       {
         "rank": 7,
@@ -125,10 +118,10 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/b0mJReRxiPv8NwnFDayp3VVJKc2.jpg",
-        "title": "Over Your Dead Body",
-        "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other....",
-        "source_link": "https://www.themoviedb.org/movie/1390300"
+        "image": "https://image.tmdb.org/t/p/w200/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg",
+        "title": "Scary Movie",
+        "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
+        "source_link": "https://www.themoviedb.org/movie/1273221"
       },
       {
         "rank": 9,
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-        "title": "The Furious",
-        "description": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His on...",
-        "source_link": "https://www.themoviedb.org/movie/1280738"
+        "image": "https://image.tmdb.org/t/p/w200/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
+        "title": "Une Famille de B\u00e2tards",
+        "description": "After the death of his father, Mohamed discovers the living of a step-brother and a step-sister. Together, they must manage the suspicious bar they in...",
+        "source_link": "https://www.themoviedb.org/movie/1501018"
       }
     ]
   }
