@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 13, 2026, 18:04 UTC",
+  "last_updated": "June 13, 2026, 20:12 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,17 +76,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
         "title": "Disclosure Day",
         "description": "If you found out we weren\u2019t alone, if someone showed you, proved it to you, would that frighten you?...",
         "source_link": "https://www.themoviedb.org/movie/1275779"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
         "rank": 3,
@@ -111,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-        "title": "The Furious",
-        "description": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His on...",
-        "source_link": "https://www.themoviedb.org/movie/1280738"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg",
         "title": "Scary Movie",
         "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
         "source_link": "https://www.themoviedb.org/movie/1273221"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+        "title": "The Furious",
+        "description": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His on...",
+        "source_link": "https://www.themoviedb.org/movie/1280738"
+      },
+      {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/reeKdj7BSznr7wSGzAtIMrPFgKo.jpg",
+        "title": "Colors of Evil: Black",
+        "description": "Investigating the disappearance of children in a remote Polish town, prosecutor Leopold Bilski must unravel a sinister local legend before it's too la...",
+        "source_link": "https://www.themoviedb.org/movie/1560681"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/4KdmT71AGzDMp5hJbAu9vysKQKT.jpg",
         "title": "Maternal Instinct",
         "description": "When a Texas state trooper pulled over a woman driving erratically on the highway in 2020, she claimed she had just given birth \u2014 but her story didn\u2019t...",
         "source_link": "https://www.themoviedb.org/movie/1699155"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
-        "title": "A Family of Bastards",
-        "description": "After the death of his father, Mohamed discovers the living of a step-brother and a step-sister. Together, they must manage the suspicious bar they in...",
-        "source_link": "https://www.themoviedb.org/movie/1501018"
       }
     ]
   }
