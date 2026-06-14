@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 14, 2026, 13:53 UTC",
+  "last_updated": "June 14, 2026, 15:46 UTC",
   "categories": {
     "tech_news": [
       {
@@ -97,31 +97,31 @@
       },
       {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
         "title": "Mortal Kombat II",
         "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
         "source_link": "https://www.themoviedb.org/movie/931285"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg",
         "title": "Scary Movie",
         "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
         "source_link": "https://www.themoviedb.org/movie/1273221"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
         "rank": 8,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
-        "title": "Masters of the Universe",
-        "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
-        "source_link": "https://www.themoviedb.org/movie/454639"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+        "title": "Hoppers",
+        "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Ani...",
+        "source_link": "https://www.themoviedb.org/movie/1327819"
       }
     ]
   }
