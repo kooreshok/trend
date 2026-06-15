@@ -1,106 +1,99 @@
 {
-  "last_updated": "June 15, 2026, 19:43 UTC",
+  "last_updated": "June 15, 2026, 22:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assetsio.gnwcdn.com/DD2-Switch-2-trailer.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Dragon's Dogma 2 discontinues deluxe edition - and withdraws many of its controversial time-saving microtransaction - Eurogamer",
+        "description": "Capcom is discontinuing the deluxe edition of Dragon's Dogma 2 on 24th June, as well as pulling many of its more controversial time-saving microtransactions.",
+        "source_link": "https://www.eurogamer.net/dragon-dogma-2-discontinues-microtransactions"
+      },
+      {
+        "rank": 2,
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-06/08/21/thumb/VEHSE7pi6.jpg?crop=2999:1570;0,2%26downsize=1250:*",
+        "title": "Pilots And Flight Attendants Reveal What Passengers Do That's Way More Risky Than You Think - BuzzFeed",
+        "description": "\"The reason they tell you to ask the cabin crew for help if you lose your phone is not to be friendly or show how helpful they are. It's because if your phone is in a seat mechanism and that seat gets moved, the phone will be shredded, the battery may explode\u2026",
+        "source_link": "https://www.buzzfeed.com/jake_farrington/pilots-flight-attendants-important-tips-reddit"
+      },
+      {
+        "rank": 3,
         "image": "https://mp1st.com/wp-content/uploads/2026/06/w3kyart-600x338.png",
         "title": "Report: Unannounced The Witcher Multiplayer Game Slated for PC & Mobile; Gameplay Details Revealed - MP1st",
         "description": "Exclusive details on a new unannounced Witcher multiplayer title reveal a F2P co-op action RPG set in 1230 with custom Witchers, and more.",
         "source_link": "https://mp1st.com/news/unannounced-witcher-multiplayer-game-details-pc-mobile"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc08-06/sundaypreview-jul30-1-feature-cinuqzn66p.jpg",
+        "title": "Sunday Preview \u2013 Hedonites head into battle along with a new General\u2019s Handbook - Warhammer Community",
+        "description": "Next week\u2019s pre-orders include Hedonites of Slaanesh, Skaven, and a new edition of False Gods.",
+        "source_link": "https://www.warhammer-community.com/articles/0y4dh0xg/sunday-preview-hedonites-head-into-battle-along-with-a-new-generals-handbook"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.windowslatest.com/wp-content/uploads/2026/06/Windows-11-is-now-automatically-rolling-out-the-Secure-Boot-2023-certificate-update-to-most-PCs-via-the-June-2026-Patch-Tuesday-update.jpg",
+        "title": "Microsoft released the Windows 11 Secure Boot update for all PCs, how to verify yours - Windows Latest",
+        "description": "Secure Boot 2023 is now rolling out to most Windows 11 PCs via the June update. Check your status and what IT admins need to do right now.",
+        "source_link": "https://www.windowslatest.com/2026/06/14/microsoft-released-the-windows-11-secure-boot-update-for-all-pcs-how-to-verify-yours/"
+      },
+      {
+        "rank": 6,
         "image": "https://nintendoeverything.com/wp-content/uploads/maintenance-3DS-Wii-U.jpg",
         "title": "Nintendo maintenance schedule \u2013 June 14, 2026 \u2013 Wii and 3DS session incoming - Nintendo Everything",
         "description": "Nintendo has released its maintenance schedule for the week of June 14, 2026. Right now there isn\u2019t anything on the docket for either Nintendo Switch 2 or Switch. Instead, the only session that has been officially added to the schedule is for Wii U and Ninten\u2026",
         "source_link": "https://nintendoeverything.com/nintendo-maintenance-schedule-june-14-2026/"
       },
       {
-        "rank": 3,
+        "rank": 7,
+        "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/06/ready-to-update-screen-on-samsung-galaxy-z-flip-6-1.jpg?w=1600&h=900&fit=crop",
+        "title": "I updated to One UI 8.5 and immediately changed 5 settings - MakeUseOf",
+        "description": "One UI 8.5 is bigger than One UI 8.0.",
+        "source_link": "https://www.makeuseof.com/one-ui-8-5-settings-to-change/"
+      },
+      {
+        "rank": 8,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/07/galaxy-z-fold-7-35.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "The \u2018Galaxy Z Fold 8 Ultra\u2019 has the potential to be a cruel joke - 9to5Google",
         "description": "There are actual reasons to get excited about Samsung\u2019s upcoming foldables but, the more I think about it, the more...",
         "source_link": "http://9to5google.com/2026/06/14/galaxy-z-fold-8-ultra-problems/"
       },
       {
-        "rank": 4,
-        "image": "https://www.phoronix.net/image.php?id=2026&image=linux_71",
-        "title": "Linux 7.1 Released: New NTFS Driver, Intel FRED For Panther Lake, Faster Arc Graphics - Phoronix",
-        "description": "Linus Torvalds just released the stable Linux 7.1 kernel and it's coming a half-day early thanks to his travel plans",
-        "source_link": "https://www.phoronix.com/news/Linux-7.1-Released"
-      },
-      {
-        "rank": 5,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Zelda-Ocarina-of-Time-remake-information.png",
-        "title": "Nintendo says Zelda: Ocarina of Time Switch 2 remake has \"stunning visuals, updated designs, and timeless gameplay\" - Nintendo Everything",
-        "description": "Nintendo gives a bit of additional information about its remake of The Legend of Zelda: Ocarina of Time for Switch 2.",
-        "source_link": "https://nintendoeverything.com/nintendo-says-zelda-ocarina-of-time-switch-2-remake-has-stunning-visuals-updated-designs-and-timeless-gameplay/"
-      },
-      {
-        "rank": 6,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-three-iphones-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple still has three unannounced iOS 27 features in the pipeline: report - 9to5Mac",
-        "description": "Apple wrapped up its WWDC 2026 keynote this week, outlining all of its major new software features for the coming...",
-        "source_link": "https://9to5mac.com/2026/06/14/three-major-unannounced-ios-27-features-coming-soon/"
-      },
-      {
-        "rank": 7,
-        "image": "https://helios-i.mashable.com/imagery/articles/07xDdK7Ire8Io6xhjhT9Nwz/hero-image.fill.size_1200x675.v1781445889.png",
-        "title": "An AI startup founder is trying to vibe code his own \"Grand Theft Auto\" game - Mashable",
-        "description": "Can Claude deliver a viable GTA ripoff before the most hyped game of all time releases this November?",
-        "source_link": "https://mashable.com/tech/ai-startup-founder-attempts-to-vibe-code-grand-theft-auto-game"
-      },
-      {
-        "rank": 8,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwn7_Q7X5W7g/v0/1200x800.jpg",
-        "title": "Apple\u2019s New Siri Is Just Good Enough to Ease Its AI Crisis - Bloomberg.com",
-        "description": "The company prepares for the foldable iPhone and touch-screen MacBook.",
-        "source_link": "https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook"
-      },
-      {
         "rank": 9,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/Sonos-Play-With-Wireless-Charging-Base-Black.jpg?resize=1200,800",
-        "title": "The new Sonos Play has become my go-to desk and kitchen speaker - TechCrunch",
-        "description": "The new Sonos Play can act as a portable speaker inside and outside your home.",
-        "source_link": "https://techcrunch.com/2026/06/14/the-new-sonos-play-has-become-my-go-to-desk-and-kitchen-speaker/"
-      },
-      {
-        "rank": 10,
-        "image": "https://cdn.videocardz.com/1/2026/06/GEIL-AQUARIUS-DDR5-MEMORY-DIAMOND-STYLE-HERO.jpg",
-        "title": "GeIL AQUARIUS Diamond RGB DDR5-6000 32GB kit launches for $354 in China - VideoCardz.com",
-        "description": "DDR5-6000 CL36 kit for AMD platforms. GeIL has launched its AQUARIUS Diamond RGB memory kit in China.",
-        "source_link": "https://videocardz.com/newz/geil-aquarius-diamond-rgb-ddr5-6000-32gb-kit-launches-for-354-in-china"
+        "image": "https://img.ksl.com/slc/3160/316059/31605931.jpg?filter=kslv2/responsive_story_lg",
+        "title": "Apple's big Siri update is here. Now the real challenge begins - KSL News",
+        "description": "Siri is finally getting the big AI upgrade Wall Street has been waiting for. But it's just the beginning.",
+        "source_link": "https://www.ksl.com/article/51510780/apples-big-siri-update-is-here-now-the-real-challenge-begins"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-        "title": "Michael",
-        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
         "title": "Disclosure Day",
         "description": "If you found out we weren\u2019t alone, if someone showed you, proved it to you, would that frighten you?...",
         "source_link": "https://www.themoviedb.org/movie/1275779"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
       },
       {
         "rank": 5,
@@ -132,10 +125,10 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-        "title": "The Furious",
-        "description": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His on...",
-        "source_link": "https://www.themoviedb.org/movie/1280738"
+        "image": "https://image.tmdb.org/t/p/w200/9C9PAnrZcB8x7YHNlBs4PUv0Z7K.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
         "rank": 10,
