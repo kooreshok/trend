@@ -1,99 +1,106 @@
 {
-  "last_updated": "June 14, 2026, 23:04 UTC",
+  "last_updated": "June 15, 2026, 03:46 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/5280135e8a810/large.jpg",
+        "title": "Onimusha: Way Of The Sword Switch 2 Resolution And Frame Rate Revealed - Nintendo Life",
+        "description": "Here's what you can expect",
+        "source_link": "https://www.nintendolife.com/news/2026/06/onimusha-way-of-the-sword-switch-2-resolution-and-frame-rate-revealed"
+      },
+      {
+        "rank": 2,
+        "image": "https://hackaday.com/wp-content/uploads/2026/06/Bambuddy-logo-featured-e1781300007607.png",
+        "title": "Bambuddy Says Bye To Bambu Lab Cloud Services - Hackaday",
+        "description": "If you have a Bambu Labs printer and aren\u2019t keen to send your files to Bambu\u2019s servers with each print job, then check out Bambuddy, an open-source, self-hosted, cloud-free central comm\u2026",
+        "source_link": "https://hackaday.com/2026/06/13/bambuddy-says-bye-to-bambu-lab-cloud-services/"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai-27-light.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iOS 27 adds an all-new app to your iPhone\u2019s Home Screen - 9to5Mac",
+        "description": "Apple announced iOS 27 at WWDC this week, coming with a ton of new Siri and Apple Intelligence features. One...",
+        "source_link": "https://9to5mac.com/2026/06/13/ios-27-adds-an-all-new-app-to-your-iphones-home-screen/"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/13/USAT/90541152007-screenshot-20260613-at-124217-pm.jpg?crop=3558,2002,x407,y628&width=3200&height=1801&format=pjpg&auto=webp",
+        "title": "Google has a free flight simulator you can pilot - USA Today",
+        "description": "There's a free Google Earth Flight Simulator available now that you can pilot over 3D maps using a web browser.",
+        "source_link": "https://www.usatoday.com/story/money/2026/06/13/google-free-flight-simulator/90539296007/"
+      },
+      {
+        "rank": 5,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Adventures-of-Elliot-Millenium-Tales.jpg",
+        "title": "Famitsu review scores - June 13, 2026 - first score for The Adventures of Elliot: The Millennium Tales - Nintendo Everything",
+        "description": "The latest Famitsu review scores for the week of June 13, 2026 are as follows: 007 First Light \u2013 9/9/10/9 The Adventures of Elliot: The Millennium Tales \u2013 8/8/9/8 Unrailed 2 \u2013 9/8/9/7 World of Tanks: Heat \u2013 8/7/8/8 Isekai Villain \u2013 7/7/8/8 Inkonbini: One Stor\u2026",
+        "source_link": "https://nintendoeverything.com/famitsu-review-scores-june-14-2026-first-score-for-the-adventures-of-elliot-the-millennium-tales/"
+      },
+      {
+        "rank": 6,
+        "image": "https://assetsio.gnwcdn.com/Kliff-from-Crimson-Desert-carries-a-pig-over-his-shoulder.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Send Crimson Desert your \"fun and incredible videos\", and you could win an all-expenses-paid trip to South Korea - Eurogamer",
+        "description": "Crimson Desert, the open-world action RPG from Pearl Abyss, has a new challenge for Greymanes \u2013 a community challenge video event.",
+        "source_link": "https://www.eurogamer.net/crimson-desert-video-challenge-trip-korea"
+      },
+      {
+        "rank": 7,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/05/a-3d-illustration-of-google-calendar-logo-with-a-glowing-gemini-icon-floating-above-it.png?w=1600&h=900&fit=crop",
+        "title": "Gemini's Daily Brief replaced my morning routine, and I'm shocked how well it works - Android Police",
+        "description": "Gemini's Daily Brief provides helpful nudges and reminders, making mornings easier",
+        "source_link": "https://www.androidpolice.com/gemini-daily-brief-replaced-morning-routine-shocked-well-works/"
+      },
+      {
+        "rank": 8,
+        "image": "https://gizmodo.com/app/uploads/2026/06/destiny-2-monuments-hed-1200x675.jpg",
+        "title": "Bungie\u2019s Last \u2018Destiny 2\u2019 Update Is a Bittersweet Blast - Gizmodo",
+        "description": "The 'Monuments of Triumph' update lets 'Destiny 2' go out on its own terms, tie up some threads, and lay crumbs for a hopeful return.",
+        "source_link": "https://gizmodo.com/bungies-last-destiny-2-update-is-a-bittersweet-blast-2000771352"
+      },
+      {
+        "rank": 9,
+        "image": "https://helios-i.mashable.com/imagery/articles/03p2UaWvJbzFgiiLnBxml6F/hero-image.fill.size_1200x675.v1781375567.jpg",
+        "title": "DJI and Insta360 go to war in the U.S. over its action gimbal cameras - Mashable",
+        "description": "Insta360's Luna Ultra and DJI's Osmo Pocket 4 Pro can't compete among consumers in the U.S. due to the Trump admin. So, they're battling it out over patents instead.",
+        "source_link": "https://mashable.com/tech/dji-insta360-action-gimbal-cameras-patent-lawsuits"
+      },
+      {
+        "rank": 10,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ha.jpeg?quality=90&strip=all&crop=18.166666666667%2C0%2C63.666666666667%2C100&w=1200",
         "title": "Sealed Super Mario Bros. sells for a record $3 million - The Verge",
         "description": "The vintage gaming collectibles market keeps getting more ridiculous as a sealed Super Mario Bros. for the NES fetches $3 million at auction.",
         "source_link": "https://www.theverge.com/games/949593/super-mario-bros-3-million-auction"
-      },
-      {
-        "rank": 2,
-        "image": "https://images.timeextension.com/0e62e79771939/large.jpg",
-        "title": "\"We Have The Means To Fight This Case To The End\" - Gaming's Most Infamous Trademark Troll Is Back - Time Extension",
-        "description": "\"We intend to expose Tim Langdell for what he is\"",
-        "source_link": "https://www.timeextension.com/news/2026/06/we-have-the-means-to-fight-this-case-to-the-end-gamings-most-infamous-trademark-troll-is-back"
-      },
-      {
-        "rank": 3,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/695d93b89d51c957214caa7d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "Apple iPhone 18 Pro Release Date: How WWDC 2026 Clues Signal September Launch Details - Forbes",
-        "description": "Apple's WWDC 2026 schedule mirrors last year's rollout, offering fresh clues about when the iPhone 18 Pro, iPhone 18 Pro Max and rumored foldable iPhone could launch.",
-        "source_link": "https://www.forbes.com/sites/davidphelan/2026/06/13/apple-iphone-18-pro-release-date-september-2026/"
-      },
-      {
-        "rank": 4,
-        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/tomb-raider-legacy-of-atlantis-lara-croft.jpg?w=1600&h=900&fit=crop",
-        "title": "Tomb Raider's new star reveals her 'classic' and 'unapologetic' approach to Lara Croft - Polygon.com",
-        "description": "Alix Wilton Regan plays Lara Croft in Tomb Raider: Legacy of Atlantis, and she's aiming to bring back the classic version of the icon.",
-        "source_link": "https://www.polygon.com/tomb-raider-legacy-of-atlantis-alex-wilton-regan-interview/"
-      },
-      {
-        "rank": 5,
-        "image": "https://gizmodo.com/app/uploads/2024/11/GTAVITakeTwo.jpg",
-        "title": "This Guy Is Trying to Vibe Code GTA 6 Before Its Official Release - Gizmodo",
-        "description": "An AI startup founder is using Claude to make a GTA ripoff.",
-        "source_link": "https://gizmodo.com/this-guy-is-trying-to-vibe-code-gta-6-before-its-official-release-2000771395"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.slashgear.com/img/gallery/every-major-streaming-device-brand-ranked-worst-to-best/l-intro-1781164791.jpg",
-        "title": "Every Major Streaming Device Brand Ranked Worst To Best - SlashGear",
-        "description": "Nvidia, Apple, and Roku lead our ranking of the best streaming device brands, while Google, Amazon, and Onn offer distinct strengths.",
-        "source_link": "https://www.slashgear.com/2191988/every-major-streaming-device-brand-ranked-worst-to-best/"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.macrumors.com/t/sJR4ML-uwT8mRNH0yIK6zAfSCG8=/2048x/article-new/2024/09/Apple-Logo-Top-Half.jpeg",
-        "title": "Have One of These 16 Apple Devices? Software Support Ends This Fall - MacRumors",
-        "description": "Apple will end software support for 16 devices this fall across four product lines, with the Apple Watch seeing the most sweeping cull in the...",
-        "source_link": "https://www.macrumors.com/2026/06/13/these-16-apple-devices-lose-software-support-this-fall/"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.videocardz.com/1/2026/06/XBOX-SERIES-HERO.webp",
-        "title": "XBOX reportedly loses hundreds of dollars per console as Microsoft weighs XBOX spinoff options - VideoCardz.com",
-        "description": "Memory prices are said to be putting more pressure on Xbox hardware margins.",
-        "source_link": "https://videocardz.com/newz/xbox-reportedly-loses-hundreds-of-dollars-per-console-as-microsoft-weighs-xbox-spinoff-options"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.bgr.com/img/gallery/macbook-pro-or-macbook-air-which-apple-laptop-lasts-longer/l-intro-1781020857.jpg",
-        "title": "MacBook Pro Or MacBook Air: Which Apple Laptop Lasts Longer? - bgr.com",
-        "description": "The MacBook Pro and MacBook Air generally last the same amount of time, but it depends on how well the owner takes care of them, plus the silicon matters.",
-        "source_link": "https://www.bgr.com/2190542/macbook-pro-or-air-which-apple-laptop-lasts-longer/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
         "title": "Disclosure Day",
         "description": "If you found out we weren\u2019t alone, if someone showed you, proved it to you, would that frighten you?...",
         "source_link": "https://www.themoviedb.org/movie/1275779"
       },
       {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-        "title": "Michael",
-        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
       },
       {
         "rank": 5,
@@ -104,17 +111,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg",
-        "title": "Scary Movie",
-        "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
-        "source_link": "https://www.themoviedb.org/movie/1273221"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg",
+        "title": "Scary Movie",
+        "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
+        "source_link": "https://www.themoviedb.org/movie/1273221"
       },
       {
         "rank": 8,
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+        "title": "Masters of the Universe",
+        "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
+        "source_link": "https://www.themoviedb.org/movie/454639"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg",
-        "title": "Over Your Dead Body",
-        "description": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other....",
-        "source_link": "https://www.themoviedb.org/movie/1390300"
       }
     ]
   }
