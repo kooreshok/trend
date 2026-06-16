@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 16, 2026, 21:39 UTC",
+  "last_updated": "June 16, 2026, 23:20 UTC",
   "categories": {
     "tech_news": [
       {
@@ -11,66 +11,59 @@
       },
       {
         "rank": 2,
-        "image": "https://kotaku.com/app/uploads/2026/04/Call-of-Duty-Black-Ops-3-official-artwork-Activision-1200x675.jpg",
-        "title": "Call Of Duty Studio Treyarch Is Losing Its Studio Head Of Nearly A Decade - Kotaku",
-        "description": "Mark Gordon had been with the studio since 2005, and served as studio head since 2016",
-        "source_link": "https://kotaku.com/call-of-duty-studio-treyarch-loses-studio-head-mark-gordon-2000706712"
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-overlay-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Gemini suddenly can\u2019t make calls on Android and Android Auto for some - 9to5Google",
+        "description": "The transition to Gemini on Android Auto has been a bit rough for a number of reasons, but a current...",
+        "source_link": "http://9to5google.com/2026/06/15/gemini-suddenly-cant-make-calls-on-android-and-android-auto-for-some/"
       },
       {
         "rank": 3,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Galaxy-Z-Fold-7-screen-and-design-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "More Galaxy Z Fold 8 \u2018Ultra\u2019 leaks confirm it looks just like a normal Samsung foldable - 9to5Google",
+        "description": "Previous reports indicated that Samsung has reassigned the standard naming scheme to a shorter, wider foldable. The latest leaks from...",
+        "source_link": "http://9to5google.com/2026/06/15/galaxy-z-fold-8-ultra-fcc-leak/"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.gtplanet.net/wp-content/uploads/2026/06/gr3-tokyo-expressway-gt7.jpg",
+        "title": "Gran Turismo 7 Daily Races: Payday on the Expressway - GTPlanet",
+        "description": "A new week brings a new set of Gran Turismo 7 Daily Races, with three fresh events now live and running through next Monday...",
+        "source_link": "https://www.gtplanet.net/gran-turismo-7-daily-races-payday-on-the-expressway-20260615/"
+      },
+      {
+        "rank": 5,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple explains why Siri\u2019s major iOS 27 overhaul took so long - 9to5Mac",
         "description": "iOS 27\u2019s new Siri AI is a huge upgrade from the old Siri, but it also took longer than expected to arrive. Here\u2019s why, per Mike Rockwell.",
         "source_link": "https://9to5mac.com/2026/06/15/apple-explains-why-siris-major-ios-27-overhaul-took-so-long/"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://kotaku.com/app/uploads/2026/06/steamnexfest-1200x675.jpg",
         "title": "Steam Next Fest Is Flooded With AI Games And It Sucks - Kotaku",
         "description": "The event has been flooded by games containing AI-generated content",
         "source_link": "https://kotaku.com/exploring-steam-next-fest-with-an-ai-blocking-extension-is-very-depressing-2000706695"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://insider-gaming.com/wp-content/uploads/2026/06/treyarch-mark-gordon.jpg",
+        "title": "Treyarch Studio Head Stepping Down After 22 Years - Insider Gaming",
+        "description": "Mark Gordon, the studio head at Treyarch, has stepped down from his role after 22 years at the studio, it has been announced.",
+        "source_link": "https://insider-gaming.com/mark-gordon-treyarch-stepping-down/"
+      },
+      {
+        "rank": 8,
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/06/2_fb12c8.png",
+        "title": "Preorders For Kingdom Hearts Collection I-III - GameSpot",
+        "description": "Apparently it's the final, final Kingdom Hearts collection.",
+        "source_link": "https://www.gamespot.com/articles/preorders-for-kingdom-hearts-collection-i-iii/"
+      },
+      {
+        "rank": 9,
         "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/06/microsoft_beijing_05242023_AP23144795455950-1.jpg?w=1280",
         "title": "FBI issues urgent Kali365 security warning for Teams, Outlook, OneDrive users - NewsNation",
         "description": "The agency warned that the hacking platform Kali365 seeks out OAuth device codes, allowing scammers to sneak past multifactor authentication.",
         "source_link": "https://www.newsnationnow.com/business/tech/kali365-security-warning-teams-outlook-onedrive/"
-      },
-      {
-        "rank": 6,
-        "image": "https://assets-prd.ignimgs.com/2026/06/10/ffthumb-1781113181781.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Final Fantasy Resonance Interview: The First HD-2D FF Was Conceptualized 6-7 Years Ago and Inspired by Final Fantasy V - IGN",
-        "description": "Final Fantasy Resonance's producer and director talk with IGN about how Final Fantasy V and VI inspired this new game that adapts the Brave Exvius story for a new console-style turn-based RPG.",
-        "source_link": "https://www.ign.com/articles/final-fantasy-resonance-interview-the-first-hd-2d-ff-was-conceptualized-6-7-years-ago-and-inspired-by-final-fantasy-v"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24418648/STK114_Google_Chrome_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Google Chrome is closing the loopholes that let old ad blockers keep working - The Verge",
-        "description": "Google is removing code in Chrome that allowed workarounds for running older ad blockers, two years after phasing out uBlock Origin.",
-        "source_link": "https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_7105-1152x648-1769617334.jpeg",
-        "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs - Ars Technica",
-        "description": "AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move.",
-        "source_link": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.macrumors.com/t/Y1Sp3NsfWCwKbQL0mUSrnViR6tY=/2000x/article-new/2025/09/iphone-17-models.jpg",
-        "title": "No iPhone 18 This Year, Apple Supplier Comments Seemingly Confirm - MacRumors",
-        "description": "Apple's standard iPhone 18 model will launch in early 2027, based on comments from a partner in the company's supply chain that appear to...",
-        "source_link": "https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.pushsquare.com/0232958e5b409/large.jpg",
-        "title": "South of Midnight Maker Said to Be Shuttered by Xbox - Push Square",
-        "description": "Update: Double Fine, Ninja Theory, and Compulsion named",
-        "source_link": "https://www.pushsquare.com/news/2026/06/several-xbox-studios-at-risk-of-closure-in-talks-to-become-independent"
       }
     ],
     "trending_movies": [
@@ -111,17 +104,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-        "title": "Michael",
-        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
       },
       {
         "rank": 8,
