@@ -1,92 +1,92 @@
 {
-  "last_updated": "June 16, 2026, 18:00 UTC",
+  "last_updated": "June 16, 2026, 21:39 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/hellblade-ii-senuas-sacrifice.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "Xbox is closing down Hellblade creator Ninja Theory - The Verge",
+        "description": "Xbox is closing down Ninja Theory, the studio behind the Hellblade series, a source tells The Verge. Staffers were told on a call on Monday about the closure.",
+        "source_link": "https://www.theverge.com/games/950204/xbox-ninja-theory-shutdown-hellblade-senua"
+      },
+      {
+        "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2026/04/Call-of-Duty-Black-Ops-3-official-artwork-Activision-1200x675.jpg",
+        "title": "Call Of Duty Studio Treyarch Is Losing Its Studio Head Of Nearly A Decade - Kotaku",
+        "description": "Mark Gordon had been with the studio since 2005, and served as studio head since 2016",
+        "source_link": "https://kotaku.com/call-of-duty-studio-treyarch-loses-studio-head-mark-gordon-2000706712"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple explains why Siri\u2019s major iOS 27 overhaul took so long - 9to5Mac",
+        "description": "iOS 27\u2019s new Siri AI is a huge upgrade from the old Siri, but it also took longer than expected to arrive. Here\u2019s why, per Mike Rockwell.",
+        "source_link": "https://9to5mac.com/2026/06/15/apple-explains-why-siris-major-ios-27-overhaul-took-so-long/"
+      },
+      {
+        "rank": 4,
+        "image": "https://kotaku.com/app/uploads/2026/06/steamnexfest-1200x675.jpg",
+        "title": "Steam Next Fest Is Flooded With AI Games And It Sucks - Kotaku",
+        "description": "The event has been flooded by games containing AI-generated content",
+        "source_link": "https://kotaku.com/exploring-steam-next-fest-with-an-ai-blocking-extension-is-very-depressing-2000706695"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/06/microsoft_beijing_05242023_AP23144795455950-1.jpg?w=1280",
+        "title": "FBI issues urgent Kali365 security warning for Teams, Outlook, OneDrive users - NewsNation",
+        "description": "The agency warned that the hacking platform Kali365 seeks out OAuth device codes, allowing scammers to sneak past multifactor authentication.",
+        "source_link": "https://www.newsnationnow.com/business/tech/kali365-security-warning-teams-outlook-onedrive/"
+      },
+      {
+        "rank": 6,
+        "image": "https://assets-prd.ignimgs.com/2026/06/10/ffthumb-1781113181781.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Final Fantasy Resonance Interview: The First HD-2D FF Was Conceptualized 6-7 Years Ago and Inspired by Final Fantasy V - IGN",
+        "description": "Final Fantasy Resonance's producer and director talk with IGN about how Final Fantasy V and VI inspired this new game that adapts the Brave Exvius story for a new console-style turn-based RPG.",
+        "source_link": "https://www.ign.com/articles/final-fantasy-resonance-interview-the-first-hd-2d-ff-was-conceptualized-6-7-years-ago-and-inspired-by-final-fantasy-v"
+      },
+      {
+        "rank": 7,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24418648/STK114_Google_Chrome_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Google Chrome is closing the loopholes that let old ad blockers keep working - The Verge",
+        "description": "Google is removing code in Chrome that allowed workarounds for running older ad blockers, two years after phasing out uBlock Origin.",
+        "source_link": "https://www.theverge.com/tech/950005/google-chrome-removing-ad-blocker-loopholes"
+      },
+      {
+        "rank": 8,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/IMG_7105-1152x648-1769617334.jpeg",
         "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs - Ars Technica",
         "description": "AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move.",
         "source_link": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/"
       },
       {
-        "rank": 2,
-        "image": "https://images.ctfassets.net/s5n2t79q9icq/1qqHUJ9cKYenQosEqhXIPD/968f0dfadd6c9b3841beb7a93058e210/en_articles_archive_magic-digital_mtg-arena-announcements-september-14-2022-meta-image.jpeg",
-        "title": "MTG Arena Announcements \u2013 June 15, 2026 - Magic: The Gathering",
-        "description": "Catch up with the latest info and events on MTG Arena.",
-        "source_link": "https://magic.wizards.com/en/news/mtg-arena/announcements-june-15-2026"
-      },
-      {
-        "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Xbox turmoil continues with a studio closure and executive departures - The Verge",
-        "description": "Xbox reportedly plans to shut down Compulsion Games. Xbox\u2019s head of its studios has also announced his departure.",
-        "source_link": "https://www.theverge.com/games/949964/xbox-compulsion-games-closure-craig-duncan-departure"
-      },
-      {
-        "rank": 4,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Steve-Jobs-announces-Intel-processor-GettyImages-53028118-1152x648-1781292898.jpg",
-        "title": "20 years of Intel Macs: Why Apple switched, and why it switched again - Ars Technica",
-        "description": "Remembering the ups and downs of the Intel Mac era as it finally winds down.",
-        "source_link": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/"
-      },
-      {
-        "rank": 5,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Assassins-Creed-Shadows-1.1.11-update.jpg",
-        "title": "Assassin's Creed Shadows 1.1.11 update announced, patch notes - new story quest, Nintendo Switch 2 handheld GPU improvements, more - Nintendo Everything",
-        "description": "Assassin's Creed Shadows announced last free content drop with 1.1.11 update, and here are the patch notes.",
-        "source_link": "https://nintendoeverything.com/assassins-creed-shadows-1-1-11-update-announced-patch-notes-new-story-quest-nintendo-switch-2-handheld-gpu-improvements-more/"
-      },
-      {
-        "rank": 6,
-        "image": "https://assetsio.gnwcdn.com/Sin-Reloaded-shootout.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Nightdive's remaster of cult FPS SiN gets a gameplay trailer and Steam demo, three years after the project was indefinitely put on hold - Eurogamer",
-        "description": "After a gap in its development, SiN: Reloaded is returning later this year on PC and consoles, and there's a Steam demo available now.",
-        "source_link": "https://www.eurogamer.net/sin-reloaded-gameplay-trailer-steam-demo"
-      },
-      {
-        "rank": 7,
-        "image": "https://gizmodo.com/app/uploads/2026/06/Apple-Watch-Ultra-2022--1200x675.jpg",
-        "title": "Apple Is Leaving Its First Apple Watch Ultra in the Dust - Gizmodo",
-        "description": "There are many features that the $800 Apple Watch Ultra from 2022 won\u2019t receive.",
-        "source_link": "https://gizmodo.com/apple-is-leaving-its-first-apple-watch-ultra-in-the-dust-2000771952"
-      },
-      {
-        "rank": 8,
-        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/09/mario-artwork-from-the-original-super-mario-bros-nes-box-art.jpg?w=1600&h=900&fit=crop",
-        "title": "'Staggering' pristine copy of legendary game sells for record-breaking millions - Polygon.com",
-        "description": "There aren't many NES games in such a pristine condition, which is one of the few reasons this SMB cartridge just broke a huge record",
-        "source_link": "https://www.polygon.com/super-mario-bros-nes-record-2026-sale-why-rare-price-psa-grade/"
-      },
-      {
         "rank": 9,
-        "image": "https://assets-prd.ignimgs.com/2026/06/15/ff7-airship-blogroll-1781517922269.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Final Fantasy 7 Revelation Is Bringing Back the Airship Dream - IGN",
-        "description": "By putting you back in the pilot seat and letting you command the Highwind, Final Fantasy 7 Revelation is finally bringing back the airship dream.",
-        "source_link": "https://www.ign.com/articles/final-fantasy-7-revelation-is-bringing-back-the-airship-dream"
+        "image": "https://images.macrumors.com/t/Y1Sp3NsfWCwKbQL0mUSrnViR6tY=/2000x/article-new/2025/09/iphone-17-models.jpg",
+        "title": "No iPhone 18 This Year, Apple Supplier Comments Seemingly Confirm - MacRumors",
+        "description": "Apple's standard iPhone 18 model will launch in early 2027, based on comments from a partner in the company's supply chain that appear to...",
+        "source_link": "https://www.macrumors.com/2026/06/15/no-iphone-18-this-year-apple-supplier-confirms/"
       },
       {
         "rank": 10,
-        "image": "https://assetsio.gnwcdn.com/Link-sleeps-in-the-teaser-of-Zelda-Ocarina-of-Time's-Switch-2-remake.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Nintendo's latest Direct was reportedly 2026's most-watched Summer Game Fest showcase, and Zelda: Ocarina of Time's remake was the most-viewed trailer - Eurogamer",
-        "description": "Geoff Keighley's main Summer Game Fest showcase reportedly had a peak of 3.7 million viewers.",
-        "source_link": "https://www.eurogamer.net/nintendo-direct-june-2026-zelda-ocarina-of-time"
+        "image": "https://images.pushsquare.com/0232958e5b409/large.jpg",
+        "title": "South of Midnight Maker Said to Be Shuttered by Xbox - Push Square",
+        "description": "Update: Double Fine, Ninja Theory, and Compulsion named",
+        "source_link": "https://www.pushsquare.com/news/2026/06/several-xbox-studios-at-risk-of-closure-in-talks-to-become-independent"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/9RkDrI8V8QJBjhtyRX7y6Qow3aq.jpg",
         "title": "Pressure",
         "description": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face a...",
         "source_link": "https://www.themoviedb.org/movie/1318413"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
         "rank": 3,
@@ -97,31 +97,31 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
         "title": "Disclosure Day",
         "description": "If you found out we weren\u2019t alone, if someone showed you, proved it to you, would that frighten you?...",
         "source_link": "https://www.themoviedb.org/movie/1275779"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
         "title": "Michael",
         "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
         "source_link": "https://www.themoviedb.org/movie/936075"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
         "rank": 8,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
         "title": "undertone",
         "description": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way....",
         "source_link": "https://www.themoviedb.org/movie/1480387"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+        "title": "Mortal Kombat II",
+        "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat th...",
+        "source_link": "https://www.themoviedb.org/movie/931285"
       }
     ]
   }
