@@ -1,76 +1,76 @@
 {
-  "last_updated": "June 17, 2026, 12:53 UTC",
+  "last_updated": "June 17, 2026, 16:35 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a3153816b135d424c277249/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "\u2018Marathon\u2019 Season 2 And Free Week Did Not Turn Things Around - Forbes",
+        "description": "Marathon's free week and season 2 launch are now over, but the player count trajectory has not changed at all as a result.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/06/16/marathon-season-2-and-free-week-did-not-turn-things-around/"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/popsockets1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+        "title": "The new PopSockets grip is so thin you\u2019ll forget it\u2019s even there - The Verge",
+        "description": "PopSockets new Low-Pro is an ultra-slim magnetic phone grip just 2.6mm thick that also includes a fold-out stand.",
+        "source_link": "https://www.theverge.com/tech/949305/popsockets-magnetic-magsafe-low-pro-grip-hands-on"
+      },
+      {
+        "rank": 3,
+        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/XBOX_GamePass_Announcement_16x9_06.16.2026_EN-US-2c13acdfbf78730b55ba.jpg",
+        "title": "Coming to XBOX Game Pass: EA Sports FC 26, RV There Yet?, Winds of Arcana: Ruination, and More - XBOX Wire",
+        "description": null,
+        "source_link": "https://news.xbox.com/en-us/2026/06/16/xbox-game-pass-june-2026-wave-2/"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Surface-Pro-13-inch-Surface-Laptop-13.8-inch.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "The Microsoft Surface Laptop 8 and Surface Pro 12 now come with Snapdragon X2 chips - The Verge",
+        "description": "\ufeffNew colors and high prices.",
+        "source_link": "https://www.theverge.com/tech/950146/microsoft-surface-laptop-8-surface-pro-12-snapdragon-x2-specs-price"
+      },
+      {
+        "rank": 5,
+        "image": null,
+        "title": "How To Launch \u2018Destiny 2\u2019 Raid Bosses Into The Sun - Forbes",
+        "description": null,
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/06/16/how-to-launch-destiny-2-raid-bosses-into-the-sun/"
+      },
+      {
+        "rank": 6,
+        "image": "https://assetsio.gnwcdn.com/steam-next-fest_myGmpAu.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "1694 games in the Steam Next Fest feature a generative AI disclosure, as controversy around the tech rages on - Eurogamer",
+        "description": "SteamDB offers insight into the true scope of AI's use in the latest PC store promotion.",
+        "source_link": "https://www.eurogamer.net/steam-next-fest-generative-ai-disclosure-thousands"
+      },
+      {
+        "rank": 7,
+        "image": "https://kotaku.com/app/uploads/2026/06/gta6date-1200x675.jpg",
+        "title": "GTA 6 Release Date Confirmed By Take-Two Boss In The Strangest Way - Kotaku",
+        "description": "An ambush interview by a TikTok account reassures fans of a November release",
+        "source_link": "https://kotaku.com/gta-6-grand-theft-auto-release-date-confirmed-take-two-rockstar-2000707059"
+      },
+      {
+        "rank": 8,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268594_iOS_27_home_app_first_look_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Apple\u2019s smart home camera service is starting to impress me - The Verge",
+        "description": "iOS 27 brings AI-powered summaries, natural-language search, and improved reliability to Apple\u2019s HomeKit Secure Video \u2014 making it much more competitive.",
+        "source_link": "https://www.theverge.com/tech/949854/first-look-apple-home-ios-27-upgrades-homekit-secure-video"
+      },
+      {
+        "rank": 9,
         "image": "https://images.nintendolife.com/2ca1628a64f65/1280x720.jpg",
         "title": "Review: Rise Of The Tomb Raider: 20 Year Celebration (Switch 2) - The Crown Jewel Of The Survivor Trilogy - Nintendo Life",
         "description": "Actually, it's more like a 30 year celebration now",
         "source_link": "https://www.nintendolife.com/reviews/nintendo-switch-2/rise-of-the-tomb-raider-20-year-celebration"
       },
       {
-        "rank": 2,
-        "image": "https://www.trueachievements.com/imgs/176107/forza-horizon-6-update-makes-ridiculous-multiplayer-xbox-achievement-much-easier-to-unlock.jpg",
-        "title": "Forza Horizon 6 update reduces 1,000-hour grind for multiplayer Xbox achievement - TrueAchievements",
-        "description": "Playground Games has rolled out a new update for Forza Horizon 6, which makes an achievement easier to unlock and balances the game's crazy AI racers.",
-        "source_link": "https://www.trueachievements.com/news/forza-horizon-6-series-2-update-patch-notes"
-      },
-      {
-        "rank": 3,
-        "image": "https://assetsio.gnwcdn.com/Lost-Records_-Bloom-_-Rage_20250416001134_.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Aphelion and Life is Strange developer Don't Nod in trouble as it struggles to secure funding for its next project - Eurogamer",
-        "description": "Don't Nod is in trouble yet again, as the company prepares to address a shortage of cash in its reserves.",
-        "source_link": "https://www.eurogamer.net/dont-nod-funding-danger-next-project"
-      },
-      {
-        "rank": 4,
-        "image": "https://storage.googleapis.com/web-arc-raiders-cms-assets/temp/social/arc-raiders-social.png",
-        "title": "Live Update 1.33.0 - ARC Raiders",
-        "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
-        "source_link": "https://arcraiders.com/news/live-update-1-33-0"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.techpowerup.com/review/noctua-nl-lc1-36-aio-liquid-cpu-cooler/images/title.jpg",
-        "title": "Noctua NL-LC1-36 AIO Review - Very Impressive - TechPowerUp",
-        "description": "The NL-LC1-36 is exactly what you'd expect from Noctua's first all-in-one liquid cooler. It offers an impressive mix of high performance, minimal noise, and exceptional engineering, making it a standout choice in a saturated market. Perfect for those who pref\u2026",
-        "source_link": "https://www.techpowerup.com/review/noctua-nl-lc1-36-aio-liquid-cpu-cooler/"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Commodore-Callback-8020-Founders-Edition-005.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-        "title": "After resurrecting an iconic PC brand, Commodore is getting into flip phones - The Verge",
-        "description": "The Callback is another bit of gadget nostalgia. It also has a very modern appeal.",
-        "source_link": "https://www.theverge.com/tech/950190/commodore-callback-flip-phone"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.pushsquare.com/e62625711c86a/large.jpg",
-        "title": "2 New PS Plus Extra, Premium Games Available to Download Now - Push Square",
-        "description": "Full lineup outside of UK, USA, and Japan",
-        "source_link": "https://www.pushsquare.com/news/2026/06/2-new-ps-plus-extra-premium-games-available-to-download-now"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.nintendolife.com/1ea3a21910cd4/large.jpg",
-        "title": "Assassin's Creed Shadows Update 1.1.11 Out This Week, Includes Switch 2 Handheld Improvements - Nintendo Life",
-        "description": "\"The final Title Update is coming\"",
-        "source_link": "https://www.nintendolife.com/news/2026/06/assassins-creed-shadows-update-1-1-11-out-this-week-includes-switch-2-handheld-improvements"
-      },
-      {
-        "rank": 9,
-        "image": "https://bikepacking.com/wp-content/uploads/2026/06/shimano-deore-2026_1.jpg",
-        "title": "New Shimano DEORE M7200/M6200 Mechanical: Wide-Range and Wallet-Friendly - BIKEPACKING.com",
-        "description": "The new lineup of Shimano DEORE M7200 and M6200 components delivers simple, mechanically actuated shifting and a new DEORE brake system...",
-        "source_link": "https://bikepacking.com/news/new-shimano-deore-drivetrain/"
-      },
-      {
         "rank": 10,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-Switch-2-Switch-update-22.5.0.jpg",
-        "title": "Nintendo Switch 2 and Switch update 22.5.0 out now, patch notes - Nintendo Everything",
-        "description": "Nintendo Switch 2 and Switch just got a brand new version 22.5.0 update, and here are the full patch notes.",
-        "source_link": "https://nintendoeverything.com/nintendo-switch-2-and-switch-update-22-5-0-out-now-patch-notes/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268530_SUMMER_UPGRADE_WEEK__NAUSEA_DOTS_ADemidova.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Apple\u2019s weird anti-nausea dots cured my car sickness - The Verge",
+        "description": "Apple\u2019s Vehicle Motion Cues promise tap into your device\u2019s accelerometer and gyroscope to reduce or, in my case, even eliminate motion sickness.",
+        "source_link": "https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work"
       }
     ],
     "trending_movies": [
@@ -83,38 +83,38 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
-      },
-      {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/ZWHxL2ETItcZzeVsVfs6gv3SZ7.jpg",
-        "title": "Deep Water",
-        "description": "A group of international passengers on a flight from Los Angeles to Shanghai is forced to make an emergency landing in shark-infested waters. The terr...",
-        "source_link": "https://www.themoviedb.org/movie/1127384"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/nLxu237EJAisFCYKK48hN9Plobx.jpg",
         "title": "Your Fault: London",
         "description": "Nick and Noah are both embarking on life-changing adventures that are threatening to pull them apart\u2014Nick in business with his father and Noah startin...",
         "source_link": "https://www.themoviedb.org/movie/1477317"
       },
       {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/ZWHxL2ETItcZzeVsVfs6gv3SZ7.jpg",
+        "title": "Deep Water",
+        "description": "A group of international passengers on a flight from Los Angeles to Shanghai is forced to make an emergency landing in shark-infested waters. The terr...",
+        "source_link": "https://www.themoviedb.org/movie/1127384"
+      },
+      {
         "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
-        "title": "Disclosure Day",
-        "description": "If you found out we weren\u2019t alone, if someone showed you, proved it to you, would that frighten you?...",
-        "source_link": "https://www.themoviedb.org/movie/1275779"
       },
       {
         "rank": 7,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
+        "title": "Disclosure Day",
+        "description": "If you found out we weren\u2019t alone, if someone showed you, proved it to you, would that frighten you?...",
+        "source_link": "https://www.themoviedb.org/movie/1275779"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
         "title": "Michael",
         "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
         "source_link": "https://www.themoviedb.org/movie/936075"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/pe5cCoX5iIb5IWKPsbPkCwjLFHt.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
-      },
-      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/ghF1JYv7P5BgWHYfq9dqhqqNfz8.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
+        "image": "https://image.tmdb.org/t/p/w200/yuNToCHZyZybJQ89HSiAR91JEiI.jpg",
+        "title": "Never Change!",
+        "description": "In 2008, the graduating class of North Meadows High School had their senior year cut short due to a disastrous tornado. Now in their mid-30's, they're...",
+        "source_link": "https://www.themoviedb.org/movie/1558796"
       }
     ]
   }
