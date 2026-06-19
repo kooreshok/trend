@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 19, 2026, 21:05 UTC",
+  "last_updated": "June 19, 2026, 22:51 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,17 +76,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/ciLsGoyr0B8demTLDbLJmEUOHI5.jpg",
-        "title": "Husbands in Action",
-        "description": "A detective teams up with his ex-wife's new husband to chase down her kidnappers. Can this unlikely duo put aside their differences for one wild rescu...",
-        "source_link": "https://www.themoviedb.org/movie/1451344"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/ciLsGoyr0B8demTLDbLJmEUOHI5.jpg",
+        "title": "Husbands in Action",
+        "description": "A detective teams up with his ex-wife's new husband to chase down her kidnappers. Can this unlikely duo put aside their differences for one wild rescu...",
+        "source_link": "https://www.themoviedb.org/movie/1451344"
       },
       {
         "rank": 3,
