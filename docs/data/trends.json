@@ -1,92 +1,92 @@
 {
-  "last_updated": "June 20, 2026, 23:03 UTC",
+  "last_updated": "June 21, 2026, 03:41 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/10/Aura-Ink-Graphite-Lifestyle-Wallmount-Horizontal.png?resize=1200,670",
-        "title": "Aura\u2019s impressive e-ink photo frame doesn\u2019t even look digital - TechCrunch",
-        "description": "What's the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has",
-        "source_link": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/"
+        "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/aos_hosrules-jun15-1-feature-nvsn7fh4iw.jpg",
+        "title": "Succumb to Temptation with Hedonites of Slaanesh - Warhammer Community",
+        "description": "Learn about the new battle traits for the Hedonites of Slaanesh in Warhammer Age of Sigmar.",
+        "source_link": "https://www.warhammer-community.com/articles/75cyi2wg/succumb-to-temptation"
       },
       {
         "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/philips-hue-wandschalter-modul.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "Hue\u2019s wired wall modules bring non-smart lights into its ecosystem - The Verge",
-        "description": "\ufeffBut they\u2019re only available in Europe.",
-        "source_link": "https://www.theverge.com/tech/952953/phillips-hue-wired-wall-module-play-lamp-candle-bulb"
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0bab/live/82f041c0-6bcc-11f1-a94c-73f00a91c697.jpg",
+        "title": "What is the Nex Playground console, how much is it and when is it out in the UK? - BBC",
+        "description": "The cube-shaped console will cost \u00a3269 (\u20ac319) when it is released on 22 June in the UK and Ireland.",
+        "source_link": "https://www.bbc.com/news/articles/czx50rrz7zro"
       },
       {
         "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/nothing-cmf-phone-2-pro-01.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+        "title": "Nothing cancels this year\u2019s CMF phone due to RAM prices - The Verge",
+        "description": "Nothing isn\u2019t launching a successor to its budget-friendly CMF Phone 2 Pro this year due to skyrocketing memory costs.",
+        "source_link": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices"
+      },
+      {
+        "rank": 4,
+        "image": "https://helios-i.mashable.com/imagery/articles/0362lFXts2BHr2VYg2ppO1P/hero-image.fill.size_1200x675.v1781807066.jpg",
+        "title": "Google confirms death of Nest Mini and Nest Audio - Mashable",
+        "description": "Google is just selling one speaker now.",
+        "source_link": "https://mashable.com/tech/google-nest-mini-audio-discontinued"
+      },
+      {
+        "rank": 5,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/06/watch-os-27-support-cutoff-explained/-952x498w6/gsmarena_000.jpg",
+        "title": "Here's why Apple is already dropping support for so many watches in watchOS 27 - GSMArena.com news - GSMArena.com",
+        "description": "It's for your own good, unsurprisingly. At its Worldwide Developers Conference earlier this month, Apple unveiled watchOS 27. This will be rolling out in...",
+        "source_link": "https://www.gsmarena.com/heres_why_apple_is_already_dropping_support_for_so_many_watches_in_watchos_27-news-73362.php"
+      },
+      {
+        "rank": 6,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIM725Ni41-PBwM_6zXNdsydP1eZO7oSsWIlAqpwdOu9dOcZM6ZI1iaqwSsL3yZKT4lbFRM-eZVq3ARKDbLRnid1pJ0Us3XX135nD0tV71gb1lnADzig_vE9c6CAiJdlJ-Wco11InBKUyGX9V5nRFn9qZxuxeJKCzsCV4tQTfFIgU3F05Wnp2VfsxyTPs/s1600/apple-chip.jpg",
+        "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain - The Hacker News",
+        "description": "Paradigm Shift\u2019s usbliter8 exploit targets Apple A12 and A13 SecureROM via USB DFU mode, creating an unpatchable hardware risk.",
+        "source_link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html"
+      },
+      {
+        "rank": 7,
+        "image": "https://cdn.neowin.com/news/images/uploaded/2024/05/1715026896_windows_11_story.jpg",
+        "title": "Microsoft confirms Windows 11 26H2, urges IT admins to prepare for release - Neowin",
+        "description": "Microsoft officially confirms Windows 11 26H2, revealing a fast enablement-package rollout model and urging IT admins to prepare now.",
+        "source_link": "https://www.neowin.net/news/microsoft-confirms-windows-11-26h2-urges-it-admins-to-prepare-for-release/"
+      },
+      {
+        "rank": 8,
         "image": "https://helios-i.mashable.com/imagery/articles/00hXD5G5HnEbKyMlx2uiXFA/hero-image.fill.size_1200x675.v1781878179.jpg",
         "title": "The 5 best gaming deals I'd buy before Prime Day \u2014 Asus gaming laptops and Samsung monitors on sale - Mashable",
         "description": "Get the upgrades you've been eyeing before stock dwindles.",
         "source_link": "https://mashable.com/tech/best-early-prime-day-gaming-deals-2026"
       },
       {
-        "rank": 4,
-        "image": "https://images.nintendolife.com/2b635b0053af9/large.jpg",
-        "title": "Pragmata's Latest Update Includes An Adorable New Suit, Here Are The Full Patch Notes - Nintendo Life",
-        "description": "New do for Hugh",
-        "source_link": "https://www.nintendolife.com/news/2026/06/pragmatas-latest-update-includes-an-adorable-new-suit-here-are-the-full-patch-notes"
-      },
-      {
-        "rank": 5,
-        "image": "https://images.purexbox.com/c805352aae93f/large.jpg",
-        "title": "No Law Aims For 'Quality Over Quantity' With Its Cyberpunk Open World On Xbox Series X|S - Pure Xbox",
-        "description": "\"We didn't want the largest world, but the densest\"",
-        "source_link": "https://www.purexbox.com/news/2026/06/no-law-aims-for-quality-over-quantity-with-its-cyberpunk-open-world-on-xbox-series-xs"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Snapdragon-8-Elite-Gen-6-and-Snapdragon-8-Elite-Gen-6-Pro.jpg",
-        "title": "Qualcomm Is Copying Samsung Exynos 2600\u2019s Heat Path Block For Snapdragon 8 Elite Gen 6 Pro, But Has Botched The Implementation - Wccftech",
-        "description": "If imitation is the highest form of flattery, Qualcomm is certainly out to flatter Samsung by copying Exynos 2600's thermal tech.",
-        "source_link": "https://wccftech.com/qualcomm-is-copying-samsung-exynos-2600s-heat-path-block-for-snapdragon-8-elite-gen-6-pro-but-has-botched-the-implementation/"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Atonemo_NTS_radioplayer_Product-41.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Atonemo\u2019s NTS Radio Player brings the best of internet radio to your hi-fi - The Verge",
-        "description": "NTS Radio and Atonemo teamed up to bring internet radio and your streaming music service of choice to your hi-fi or any other speaker.",
-        "source_link": "https://www.theverge.com/entertainment/952910/nts-radio-player-atonemo-music-streaming"
-      },
-      {
-        "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/GTA-6's-Jason-aims-a-gun-with-a-bandana-scarf-covering-his-lower-face-and-yellow-rimmed-sunglasses-over-his-eyes.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Take-Two's ex-AI boss says the generative AI hype is \"poisoning the well\" and could ward off all use of traditional AI in the future if it leaves a bad taste in everyone's mouth - Eurogamer",
-        "description": "According to the former head of AI at Take-Two, the hype around generative AI is not healthy, but he doesn't want you to write off AI entirely.",
-        "source_link": "https://www.eurogamer.net/take-two-former-ai-head-generative-ai-hype-poisoning-the-well"
-      },
-      {
         "rank": 9,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a354ba9a1b6e046f3ea3ae8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "Sony\u2019s \u2018Destiny 2\u2019 Obliteration Has Almost No Precedent In The Industry - Forbes",
-        "description": "Destiny 2 is not just ending, its support is being liquidated. What Sony is doing here is almost entirely unprecedented in the industry.",
-        "source_link": "https://www.forbes.com/sites/paultassi/2026/06/19/sonys-destiny-2-obliteration-has-almost-no-precedent-in-the-industry/"
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1368483131/image_1368483131.jpg?io=getty-c-w630",
+        "title": "Snap gets a reality check as premium AR glasses drive stock slump - Seeking Alpha",
+        "description": "Snap unveils costly AR glasses amid inflation concerns and tough competition. Read more.",
+        "source_link": "https://seekingalpha.com/news/4605204-snap-gets-a-reality-check-as-premium-ar-glasses-drive-stock-slump"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/rdmXkKPjGw43u4wp3aod4aIPiH.jpg",
-        "title": "Husbands in Action",
-        "description": "A detective teams up with his ex-wife's new husband to chase down her kidnappers. Can this unlikely duo put aside their differences for one wild rescu...",
-        "source_link": "https://www.themoviedb.org/movie/1451344"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/canZTWSxACSnAluir3dCtMxKpA1.jpg",
         "title": "Voicemails for Isabelle",
         "description": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar....",
         "source_link": "https://www.themoviedb.org/movie/614945"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/rdmXkKPjGw43u4wp3aod4aIPiH.jpg",
+        "title": "Husbands in Action",
+        "description": "A detective teams up with his ex-wife's new husband to chase down her kidnappers. Can this unlikely duo put aside their differences for one wild rescu...",
+        "source_link": "https://www.themoviedb.org/movie/1451344"
       },
       {
         "rank": 4,
@@ -104,10 +104,10 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-        "title": "Michael",
-        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
+        "image": "https://image.tmdb.org/t/p/w200/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+        "title": "Citizen Vigilante",
+        "description": "Sanders is frustrated by the lack of public justice and decides to take things into his own hands by becoming a vigilante. He sets out to punish both ...",
+        "source_link": "https://www.themoviedb.org/movie/1413976"
       },
       {
         "rank": 7,
@@ -118,17 +118,17 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/d7flcqCOeJK4lrwc2HrFb3eH1hl.jpg",
-        "title": "Citizen Vigilante",
-        "description": "Sanders is frustrated by the lack of public justice and decides to take things into his own hands by becoming a vigilante. He sets out to punish both ...",
-        "source_link": "https://www.themoviedb.org/movie/1413976"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/gFjEggtrejCN79r6SXRjM269OtG.jpg",
         "title": "Pressure",
         "description": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face a...",
         "source_link": "https://www.themoviedb.org/movie/1318413"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
       },
       {
         "rank": 10,
