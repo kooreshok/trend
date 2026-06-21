@@ -1,85 +1,92 @@
 {
-  "last_updated": "June 21, 2026, 08:25 UTC",
+  "last_updated": "June 21, 2026, 11:41 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc15-06/aos_hosrules-jun15-1-feature-nvsn7fh4iw.jpg",
-        "title": "Succumb to Temptation with Hedonites of Slaanesh - Warhammer Community",
-        "description": "Learn about the new battle traits for the Hedonites of Slaanesh in Warhammer Age of Sigmar.",
-        "source_link": "https://www.warhammer-community.com/articles/75cyi2wg/succumb-to-temptation"
+        "image": "https://images.pushsquare.com/0d76cb8d03b0a/large.jpg",
+        "title": "Uproar as Halo PS5 Demands 2 PS Plus Subscriptions for Local Co-Op - Push Square",
+        "description": "And a Microsoft account on top",
+        "source_link": "https://www.pushsquare.com/news/2026/06/uproar-as-halo-ps5-demands-2-ps-plus-subscriptions-for-local-co-op"
       },
       {
         "rank": 2,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/691f24c0d4d731754b3784f8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "Apple Releases AirPods Pro 3 And Beats Studio Buds Updates With Bug Fixes: How To Install - Forbes",
+        "description": "Apple has just released new firmware for AirPods. Installation is different from other software: here\u2019s how to do it.",
+        "source_link": "https://www.forbes.com/sites/davidphelan/2026/06/20/apple-releases-airpods-pro-3-and-airpods-pro-2-update-with-bug-fixes-how-to-install/"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.cnet.com/a/img/resize/aa4526b6148f63969eee249810edf5256787edfd/hub/2026/06/09/d3ece905-03a5-492e-a6bb-c7590f32b299/apple-devices-on-a-purple-background.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "Apple\u2019s Early Prime Day Sale Is Live. Grab the Best Deals on MacBooks, iPads and AirPods - CNET",
+        "description": "Score early Prime Day savings on Apple favorites like AirPods and iPads at Amazon right now.",
+        "source_link": "https://www.cnet.com/deals/best-prime-day-apple-deals-2026-06-19/"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/IMG_1636.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+        "title": "SwitchBot\u2019s Standing Circulator Fan is worth fighting for - The Verge",
+        "description": "SwitchBot\u2019s Standing Circulator Fan looks okay, is quiet, runs for hours on battery, has a nightlight, and transforms from a desktop to standing fan in seconds.",
+        "source_link": "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review"
+      },
+      {
+        "rank": 5,
+        "image": "https://comicbook.com/wp-content/uploads/sites/4/2025/09/p-l-a-y-s-t-a-t-i-o-n.png?resize=2000,1125",
+        "title": "PlayStation May Be Interested in Buying Xbox and Bethesda Studio - comicbook.com",
+        "description": "PlayStation may be interested in buying an Xbox and Bethesda studio following reports Xbox is about to have a \"reset.\"",
+        "source_link": "http://comicbook.com/gaming/news/playstation-sony-bethesda-xbox-machinegames-studio/"
+      },
+      {
+        "rank": 6,
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/0bab/live/82f041c0-6bcc-11f1-a94c-73f00a91c697.jpg",
         "title": "What is the Nex Playground console, how much is it and when is it out in the UK? - BBC",
         "description": "The cube-shaped console will cost \u00a3269 (\u20ac319) when it is released on 22 June in the UK and Ireland.",
         "source_link": "https://www.bbc.com/news/articles/czx50rrz7zro"
       },
       {
-        "rank": 3,
-        "image": null,
-        "title": "Trump T1 Phone has a much bigger problem than being a copy of an old mid-range phone - PhoneArena",
-        "description": null,
-        "source_link": "https://www.phonearena.com/news/trump-t1-phone-has-a-much-bigger-problem-than-being-a-copy-of-an-old-mid-range-phone_id181259"
-      },
-      {
-        "rank": 4,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Final-Fantasy-7-Revelation-Unreal-Engine-5.jpg",
-        "title": "Final Fantasy 7 Revelation director explains why the game is sticking with Unreal Engine 4 instead of 5 - Nintendo Everything",
-        "description": "Final Fantasy 7 Revelation director talks about the decision to stay with Unreal Engine 4 and explains why it isn't using Unreal Engine 5.",
-        "source_link": "https://nintendoeverything.com/square-enix-explains-why-final-fantasy-7-revelation-is-sticking-with-unreal-engine-4-instead-of-5/"
-      },
-      {
-        "rank": 5,
-        "image": "https://helios-i.mashable.com/imagery/articles/0362lFXts2BHr2VYg2ppO1P/hero-image.fill.size_1200x675.v1781807066.jpg",
-        "title": "Google confirms death of Nest Mini and Nest Audio - Mashable",
-        "description": "Google is just selling one speaker now.",
-        "source_link": "https://mashable.com/tech/google-nest-mini-audio-discontinued"
-      },
-      {
-        "rank": 6,
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIM725Ni41-PBwM_6zXNdsydP1eZO7oSsWIlAqpwdOu9dOcZM6ZI1iaqwSsL3yZKT4lbFRM-eZVq3ARKDbLRnid1pJ0Us3XX135nD0tV71gb1lnADzig_vE9c6CAiJdlJ-Wco11InBKUyGX9V5nRFn9qZxuxeJKCzsCV4tQTfFIgU3F05Wnp2VfsxyTPs/s1600/apple-chip.jpg",
-        "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain - The Hacker News",
-        "description": "Paradigm Shift\u2019s usbliter8 exploit targets Apple A12 and A13 SecureROM via USB DFU mode, creating an unpatchable hardware risk.",
-        "source_link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html"
-      },
-      {
         "rank": 7,
-        "image": "https://cdn.neowin.com/news/images/uploaded/2024/05/1715026896_windows_11_story.jpg",
-        "title": "Microsoft confirms Windows 11 26H2, urges IT admins to prepare for release - Neowin",
-        "description": "Microsoft officially confirms Windows 11 26H2, revealing a fast enablement-package rollout model and urging IT admins to prepare now.",
-        "source_link": "https://www.neowin.net/news/microsoft-confirms-windows-11-26h2-urges-it-admins-to-prepare-for-release/"
+        "image": null,
+        "title": "Pok\u00e9mon Go Frigibax Community Day - Eurogamer",
+        "description": null,
+        "source_link": "https://www.eurogamer.net/pokemon-go-frigibax-community-day"
       },
       {
         "rank": 8,
-        "image": "https://images.digitalfoundry.net/ca5b25150cc8d/large.jpg",
-        "title": "GTA 6 and the Mystery of the Missing Ferris Wheel Reflection - Digital Foundry",
-        "description": "Our experts chime in on the latest Grand Theft Auto trailer.",
-        "source_link": "https://www.digitalfoundry.net/features/gta-6-and-the-mystery-of-the-missing-ferris-wheel-reflection"
+        "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/06/destop.jpg",
+        "title": "The Art Of Marathon - Aftermath",
+        "description": "A look at some of the work that went into one of the coolest-looking video games in recent memory",
+        "source_link": "https://aftermath.site/marathon-bungie-concept-art/"
       },
       {
         "rank": 9,
-        "image": "https://helios-i.mashable.com/imagery/articles/00hXD5G5HnEbKyMlx2uiXFA/hero-image.fill.size_1200x675.v1781878179.jpg",
-        "title": "The 5 best gaming deals I'd buy before Prime Day \u2014 Asus gaming laptops and Samsung monitors on sale - Mashable",
-        "description": "Get the upgrades you've been eyeing before stock dwindles.",
-        "source_link": "https://mashable.com/tech/best-early-prime-day-gaming-deals-2026"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/nothing-cmf-phone-2-pro-01.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+        "title": "Nothing cancels this year\u2019s CMF phone due to RAM prices - The Verge",
+        "description": "Nothing isn\u2019t launching a successor to its budget-friendly CMF Phone 2 Pro this year due to skyrocketing memory costs.",
+        "source_link": "https://www.theverge.com/gadgets/953066/nothing-cmf-phone-delayed-ram-prices"
+      },
+      {
+        "rank": 10,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/10/Aura-Ink-Graphite-Lifestyle-Wallmount-Horizontal.png?resize=1200,670",
+        "title": "Aura\u2019s impressive e-ink photo frame doesn\u2019t even look digital - TechCrunch",
+        "description": "What's the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has",
+        "source_link": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/rdmXkKPjGw43u4wp3aod4aIPiH.jpg",
         "title": "Husbands in Action",
         "description": "A detective teams up with his ex-wife's new husband to chase down her kidnappers. Can this unlikely duo put aside their differences for one wild rescu...",
         "source_link": "https://www.themoviedb.org/movie/1451344"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
         "rank": 3,
@@ -97,31 +104,31 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-        "title": "Michael",
-        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
-        "title": "Citizen Vigilante",
-        "description": "Sanders is frustrated by the lack of public justice and decides to take things into his own hands by becoming a vigilante. He sets out to punish both ...",
-        "source_link": "https://www.themoviedb.org/movie/1413976"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/gFjEggtrejCN79r6SXRjM269OtG.jpg",
         "title": "Pressure",
         "description": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face a...",
         "source_link": "https://www.themoviedb.org/movie/1318413"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+        "title": "Citizen Vigilante",
+        "description": "Sanders is frustrated by the lack of public justice and decides to take things into his own hands by becoming a vigilante. He sets out to punish both ...",
+        "source_link": "https://www.themoviedb.org/movie/1413976"
       },
       {
         "rank": 9,
@@ -132,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/nLxu237EJAisFCYKK48hN9Plobx.jpg",
-        "title": "Your Fault: London",
-        "description": "Nick and Noah are both embarking on life-changing adventures that are threatening to pull them apart\u2014Nick in business with his father and Noah startin...",
-        "source_link": "https://www.themoviedb.org/movie/1477317"
+        "image": "https://image.tmdb.org/t/p/w200/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+        "title": "Masters of the Universe",
+        "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
+        "source_link": "https://www.themoviedb.org/movie/454639"
       }
     ]
   }
