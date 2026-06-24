@@ -1,92 +1,92 @@
 {
-  "last_updated": "June 24, 2026, 16:14 UTC",
+  "last_updated": "June 24, 2026, 18:48 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i.pcmag.com/imagery/articles/04Deh0y5mvUV2ruM3uCCOWw-1.fit_lim.size_1200x630.v1782147798.webp",
+        "title": "Valve Confirms Steam Machine Will Cost Over $1,000. Here's How to Buy One - PCMag",
+        "description": "The 512GB version will cost $1,049, while the 2TB version is $1,349. You can sign up now to join a waiting list, with orders opening up next week.",
+        "source_link": "https://www.pcmag.com/news/valve-confirms-steam-machine-will-cost-over-1000-heres-how-to-buy-one"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268538_Fitbit_Air_AKrales_0012.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire - The Verge",
+        "description": "The $99 Google Fitbit Air adds an ambitious AI-powered Google Health Coach. It\u2019s clearly a work in progress, but it\u2019s one of the better implementations so far.",
+        "source_link": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach"
+      },
+      {
+        "rank": 3,
         "image": "https://s.yimg.com/lo/mysterio/api/699a35d87ef550c6a887231a3713b8b24903f318d05f93894f944e10a7d22a6e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fexample-5_9078.jpg",
         "title": "Prime Day deals are officially live: Shop the best tech sales from Apple, Sony, Bose, Anker and others for up to 54% off right now - Yahoo Tech",
         "description": "Prime Day deals have discounted a bunch of our favorite tech from headphones to TVs to iPhone accessories and more.",
         "source_link": "https://tech.yahoo.com/deals/breaking-news/live/prime-day-deals-are-officially-live-shop-the-best-tech-sales-from-apple-sony-bose-anker-and-others-for-up-to-54-off-right-now-184252541.html"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/henry-lenovo-chromebook-duet-11-outro-or-cover.jpg?c=16x9&q=w_800,c_fill",
+        "title": "I\u2019ve tracked Prime Day for 11 years. These 13 laptop and computer deals are actually worth it - CNN",
+        "description": "Prime Day is officially here, and our computing expert found some great deals on laptops and computers you can get right now.",
+        "source_link": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-laptop-computer-deals-2026-06-23"
+      },
+      {
+        "rank": 5,
         "image": "https://www.cnet.com/a/img/resize/4d7dfe41cc32a01e57a2a9eb7ff37dc4ed250151/hub/2026/06/18/1fcb6b7b-06ab-4ee7-8a0a-f2f589c55ae0/prime-day-tablet-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "Prime Day Tablet Deals Are Live: 25+ Offers to Grab Right Now - CNET",
         "description": "We're spotting massive discounts on iPads, Samsung Galaxy Tabs and more.",
         "source_link": "https://www.cnet.com/deals/best-prime-day-tablet-deals-2026-06-23/"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://cdn.videocardz.com/1/2026/06/MSI-CLAW-8-EX-ARC-G3-HERO2.jpg",
+        "title": "MSI Claw 8 EX AI+ reviews are here, Intel Arc G3 Extreme takes the lead in performance and pricing - VideoCardz.com",
+        "description": "MSI Claw 8 EX AI+ review embargo lifts today, giving us the first independent look at Intel\u2019s new Arc G3 Extreme handheld platform.",
+        "source_link": "https://videocardz.com/newz/msi-claw-8-ex-ai-review-are-here-intel-arc-g3-extreme-takes-the-lead-in-performance-and-pricing"
+      },
+      {
+        "rank": 7,
+        "image": "https://media.dcrainmaker.com/images/2025/07/BestDeals2025.jpeg",
+        "title": "Huge Amazon Prime Days 2026 Sports Tech Deals Tracker! - DC Rainmaker",
+        "description": "Here's your complete Amazon Prime Days 2026 Sports Tech Gear Guide, covering 100+ sports tech product deals!",
+        "source_link": "https://www.dcrainmaker.com/2026/06/summer-amazon-prime-days-deal-trackers.html"
+      },
+      {
+        "rank": 8,
         "image": "https://kotaku.com/app/uploads/2026/06/roguetrader-1200x675.jpg",
         "title": "Warhammer 40,000 Devs Announce And Roll Back Launcher In 24 Hours - Kotaku",
         "description": "Owlcat Games\u2019 original announcement has nearly 2000 comments and zero likes",
         "source_link": "https://kotaku.com/owlcat-games-launcher-steam-warhammer-40k-rogue-trader-2000709500"
       },
       {
-        "rank": 4,
-        "image": "https://i.pcmag.com/imagery/articles/04imUpi6AJsezrEFVRzHG5g-12.fit_lim.size_1200x630.v1782217995.png",
-        "title": "Prime Day Brings Seriously Deep Dell Deals With 33% Off Top Desktops, Laptops, and More - PCMag",
-        "description": "You're going to be bombarded by deals from all the top tech brands today, so get it started with steep discounts on Dell and Alienware hardware.",
-        "source_link": "https://www.pcmag.com/news/best-amazon-prime-day-sale-dell-deals-sales-laptops-desktops-monitors-2026"
-      },
-      {
-        "rank": 5,
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/MetaGlasses_1.jpg?quality=90&strip=all&crop=8.55%2C24.971192772515%2C82.25546875%2C66.205436991061&w=1200",
         "title": "Meta launches cheaper smart glasses without Ray-Ban - The Verge",
         "description": "Meta announces the $299 Meta Glasses. They\u2019re not Ray-Bans, but feature an updated AI, adjustable nosepads and temple tips, and a model designed by Kylie Jenner.",
         "source_link": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Here\u2019s how your phone is running after updating to Android 17 - 9to5Google",
         "description": "How is Android 17 Pixel performance treating real users? Our latest poll results show a stable update for most, with minimal bugs.",
         "source_link": "http://9to5google.com/2026/06/23/heres-how-your-phone-is-running-after-updating-to-android-17/"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets-prd.ignimgs.com/2026/06/23/best-switch-deals-prime-day-2026-2-1782204225923.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "The 30 Best Nintendo Prime Day Deals \u2014 Hand-Picked by Our Deals Experts - IGN",
-        "description": "Our resident shopping experts have curated the 30 absolute best Nintendo Switch 2 console bundles, games, and accessory deals for Prime Day 2026.",
-        "source_link": "https://www.ign.com/articles/best-nintendo-switch-2-prime-day-deals-2026"
-      },
-      {
-        "rank": 8,
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/lego-prime-day-deals-2026.jpg?c=16x9&q=w_800,c_fill",
-        "title": "I\u2019ve built hundreds of Lego sets. These Prime Day deals are worth building yourself - CNN",
-        "description": "As an avid Lego builder, I found the best Amazon Prime Day deals on Lego Star Wars sets, brick-built plants and even F1 cars.",
-        "source_link": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-lego-deals-2026-06-23"
-      },
-      {
-        "rank": 9,
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/131833893.jpg?quality=75&strip=all&w=1200",
-        "title": "Exclusive | Rare $18.5M NYC townhouse finds a cash buyer in 3 weeks \u2014 and wouldn\u2019t exist just 1 block over - New York Post",
-        "description": "The limestone residence at 165 E. 64th St., between Lexington and Third avenues, was asking $18.5 million.",
-        "source_link": "https://nypost.com/2026/06/23/real-estate/rare-18-5m-nyc-townhouse-finds-a-cash-buyer-in-3-weeks/"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-3-snapshot-1/new-article-hero-image.jpg",
-        "title": "Minecraft 26.3 Snapshot 1 - Minecraft",
-        "description": "Minecraft 26.3 Snapshot 1",
-        "source_link": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-1"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
         "title": "The Sheep Detectives",
         "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious...",
         "source_link": "https://www.themoviedb.org/movie/1301421"
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/a6H2U7pjibMia41TwyFVd1PVQw3.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
+        "image": "https://image.tmdb.org/t/p/w200/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+        "title": "Supergirl",
+        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
+        "source_link": "https://www.themoviedb.org/movie/1081003"
       },
       {
         "rank": 3,
@@ -97,52 +97,52 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
-        "title": "In the Hand of Dante",
-        "description": "A Vatican priest discovers Dante's original Divine Comedy manuscript. When asked to authenticate it, writer Nick Tosches steals it, while a parallel s...",
-        "source_link": "https://www.themoviedb.org/movie/1020047"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
-        "title": "Supergirl",
-        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
-        "source_link": "https://www.themoviedb.org/movie/1081003"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
-        "title": "I Love Boosters",
-        "description": "A group of shoplifters take aim at a cutthroat fashion maven by stealing from her stores and reselling them at a lower price \u2014 what they call 'fashion...",
-        "source_link": "https://www.themoviedb.org/movie/1227877"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/5ps8VwOweM37Qxnpd5fzDxX09i2.jpg",
         "title": "Power Ballad",
         "description": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But w...",
         "source_link": "https://www.themoviedb.org/movie/1284016"
       },
       {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/a6H2U7pjibMia41TwyFVd1PVQw3.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
+        "title": "In the Hand of Dante",
+        "description": "A Vatican priest discovers Dante's original Divine Comedy manuscript. When asked to authenticate it, writer Nick Tosches steals it, while a parallel s...",
+        "source_link": "https://www.themoviedb.org/movie/1020047"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+        "title": "Avatar: Fire and Ash",
+        "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash Peop...",
+        "source_link": "https://www.themoviedb.org/movie/83533"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-        "title": "Minions & Monsters",
-        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
-        "source_link": "https://www.themoviedb.org/movie/1315772"
+        "image": "https://image.tmdb.org/t/p/w200/1USANKYuRTaqYD7y3aDs3gHOJMP.jpg",
+        "title": "Carolina Caroline",
+        "description": "A young woman, desperate to leave her small town, runs away with a charming con man, embarking on a crime and passion-filled journey through the South...",
+        "source_link": "https://www.themoviedb.org/movie/1329471"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
+        "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
       }
     ]
   }
