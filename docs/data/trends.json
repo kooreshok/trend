@@ -1,69 +1,76 @@
 {
-  "last_updated": "June 25, 2026, 14:22 UTC",
+  "last_updated": "June 25, 2026, 17:08 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/henry-lenovo-chromebook-duet-11-outro-or-cover.jpg?c=16x9&q=w_800,c_fill",
+        "title": "The 23 best Amazon Prime Day laptop deals, from someone who\u2019s tested them for 13 years - CNN",
+        "description": "Prime Day is officially here, and our computing expert found some great deals on laptops and computers you can get right now.",
+        "source_link": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-laptop-computer-deals-2026-06-24"
+      },
+      {
+        "rank": 2,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?resize=1200,800",
+        "title": "Facebook rolls out an AI companion app for creators - TechCrunch",
+        "description": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
+        "source_link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.zdnet.com/a/img/resize/47461e993bdc184a9bf939f6a59e52818f2b8e64/2026/05/26/b3ff652f-8a2a-4485-a817-2a75f4cb77e9/zdnet-primeday-phones.png?auto=webp&fit=crop&height=675&width=1200",
+        "title": "These are the 20+ best Prime Day phone deals I'd actually buy for myself - ZDNET",
+        "description": "Prime Day 2026 has officially started. Save hundreds right now on smartphones, including the Google Pixel 10 Pro and Samsung Galaxy S26.",
+        "source_link": "https://www.zdnet.com/article/best-amazon-prime-day-phone-deals-2026/"
+      },
+      {
+        "rank": 4,
+        "image": "https://variety.com/wp-content/uploads/2026/06/GTA-6.png?w=1000&h=563&crop=1",
+        "title": "\u2018GTA 6\u2019 Reveals $80 Price, \u2018Single-Player Experience\u2019 Only for Game\u2019s November Launch - Variety",
+        "description": "Rockstar Games has finally revealed the price for \"Grand Theft Auto VI\" -- and the fact the game will be a \"single-player experience\" at launch.",
+        "source_link": "https://variety.com/2026/gaming/news/gta-6-price-single-player-pre-orders-1236789407/"
+      },
+      {
+        "rank": 5,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/anker_nano3.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+        "title": "19 great Prime Day deals on our favorite charging gear - The Verge",
+        "description": "We found Prime Day discounts on battery packs and chargers from brands like Anker, Belkin, Baseus, and more.",
+        "source_link": "https://www.theverge.com/gadgets/951249/prime-day-chargers-power-banks-deal-sale"
+      },
+      {
+        "rank": 6,
+        "image": "https://www.bgr.com/img/gallery/4-oled-tvs-with-deep-discounts-during-amazon-prime-day-2026/l-intro-1782307686.jpg",
+        "title": "4 OLED TVs With Deep Discounts During Amazon Prime Day 2026 - bgr.com",
+        "description": "Looking to get a new TV during Amazon's Prime Day sales? These four OLED TVs are on sale for significant discounts compared to their usual prices.",
+        "source_link": "https://www.bgr.com/2200551/best-amazon-prime-day-deals-oled-smart-tv-june/"
+      },
+      {
+        "rank": 7,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iPhone Ultra 3D-printed hinge problems reportedly solved, ready for September launch - 9to5Mac",
+        "description": "Talk of a delayed launch for the upcoming iPhone Ultra now seems to have faded away, with all recent reports...",
+        "source_link": "https://9to5mac.com/2026/06/24/iphone-ultra-3d-printed-hinge-problems-reportedly-solved-ready-for-september-launch/"
+      },
+      {
+        "rank": 8,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Home-Speaker.jpg?quality=90&strip=all&crop=0%2C10.728785061485%2C100%2C78.54242987703&w=1200",
+        "title": "The Google Home Speaker sounds good and looks great \u2014 but it\u2019s finicky - The Verge",
+        "description": "Our first test with Google\u2019s new Gemini-powered smart speaker shows it has good audio, but slightly odd controls. Still, Gemini is the real story of the device.",
+        "source_link": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on"
+      },
+      {
+        "rank": 9,
         "image": "https://s.yimg.com/lo/mysterio/api/699a35d87ef550c6a887231a3713b8b24903f318d05f93894f944e10a7d22a6e/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fexample-5_9078.jpg",
         "title": "Prime Day deals are live: Shop today\u2019s best tech sales from Apple, Sony, Bose, Anker and others - Yahoo Tech",
         "description": "Prime Day deals have discounted a bunch of our favorite tech from headphones to TVs to iPhone accessories and more.",
         "source_link": "https://tech.yahoo.com/deals/breaking-news/live/prime-day-deals-are-live-shop-todays-best-tech-sales-from-apple-sony-bose-anker-and-others-184252541.html"
       },
       {
-        "rank": 2,
-        "image": "https://hodinkee.imgix.net/uploads/images/49f0c6e4-0532-4eda-825c-10109beb999f/20260618_GrandSeiko_016.jpg?ixlib=rails-1.1.0&fm=jpg&q=55&auto=format&usm=12&w=1200&h=630&fit=crop",
-        "title": "Introducing Grand Seiko Updates The Core Evolution 9 Collection With Tapered Bracelets And Micro-Adjustment Clasps (Live Pics) - Hodinkee",
-        "description": "A whopping nine new references with both major and subtle tweaks.",
-        "source_link": "https://www.hodinkee.com/articles/grand-seiko-updates-the-core-evolution-9-collection-with-tapered-bracelets-and-micro-adjustment-clas"
-      },
-      {
-        "rank": 3,
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/06/Monster-Fantasy-Ann_06-24-26.jpg",
-        "title": "Monster Fantasy announced for PC \u2013 action RPG with cozy life simulation elements - Gematsu",
-        "description": "Chengdu-based developer Jotoyo has announced Monster Fantasy, an action RPG with cozy life simulation elements coming to PC via Steam. A release date was not announced. A Kickstarter campaign will \u2026",
-        "source_link": "https://www.gematsu.com/2026/06/monster-fantasy-announced-for-pc-action-rpg-with-cozy-life-simulation-elements"
-      },
-      {
-        "rank": 4,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Star-Fox-reviews-roundup.jpg",
-        "title": "Star Fox Nintendo Switch 2 reviews roundup - Nintendo Everything",
-        "description": "Here's a full roundup of Star Fox reviews with the game releasing on Nintendo Switch 2 in just a couple of days.",
-        "source_link": "https://nintendoeverything.com/star-fox-nintendo-switch-2-reviews-roundup/"
-      },
-      {
-        "rank": 5,
-        "image": "https://assets-prd.ignimgs.com/2026/06/24/untitled-design-1782261827492.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "The RayNeo Air 4 Pro AR Glasses Drop to a New Low Price for Prime Day - IGN",
-        "description": null,
-        "source_link": "https://www.ign.com/articles/the-rayneo-air-4-pro-ar-glasses-drop-to-a-new-low-price-for-prime-day-2026"
-      },
-      {
-        "rank": 6,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/google-home-speaker-early-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Someone got a Google Home Speaker early, and the big downside is a fixed power cable - 9to5Google",
-        "description": "The Google Home Speaker is set to start shipping very soon but, ahead of that, one user was able to...",
-        "source_link": "http://9to5google.com/2026/06/23/google-home-speaker-early-purchase-impressions/"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.nintendolife.com/46cd6b21d14ea/large.jpg",
-        "title": "Sega Announces Two Sonic Game Collections For Switch - Nintendo Life",
-        "description": "Including a \"Modern\" and \"Classic\" collection",
-        "source_link": "https://www.nintendolife.com/news/2026/06/sega-announces-two-sonic-game-collections-for-switch"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/android-17-logo-green-background-outside-2-scaled.jpg",
-        "title": "Android 17 QPR1 Beta 5 is out now for your Pixel phone to test - Android Authority",
-        "description": "We only just got Android 17 stable, but testers are already getting a preview of Android's latest additions with QPR1 Beta 5.",
-        "source_link": "https://www.androidauthority.com/android-17-qpr1-beta-5-3680687/"
-      },
-      {
-        "rank": 9,
-        "image": "https://insider-gaming.com/wp-content/uploads/2026/06/marathon-pve-scaled.jpg",
-        "title": "Marathon\u2019s New PvE Mode Isn\u2019t Really an Extraction Mode At All - Insider Gaming",
-        "description": "Marathon is getting a new PvE mode called Vault Breaker, but it doesn't even sound like an extraction-based mode whatsoever.",
-        "source_link": "https://insider-gaming.com/marathon-pve-mode-not-really-extraction/"
+        "rank": 10,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Amazon-Prime-Day_green-2026.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "All the best Prime Day deals: Pixel 10, Galaxy gear, tech accessories, more [Updated] - 9to5Google",
+        "description": "The 2026 Amazon Prime Day sale is now flying with a countless number of price drops across just about every product category.",
+        "source_link": "http://9to5google.com/2026/06/24/best-prime-day-deals-pixel-galaxy/"
       }
     ],
     "trending_movies": [
@@ -76,66 +83,66 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
-        "title": "In the Hand of Dante",
-        "description": "A Vatican priest discovers Dante's original Divine Comedy manuscript. When asked to authenticate it, writer Nick Tosches steals it, while a parallel s...",
-        "source_link": "https://www.themoviedb.org/movie/1020047"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
         "title": "Supergirl",
         "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
         "source_link": "https://www.themoviedb.org/movie/1081003"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/a6H2U7pjibMia41TwyFVd1PVQw3.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-        "title": "Minions & Monsters",
-        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
-        "source_link": "https://www.themoviedb.org/movie/1315772"
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/nPPIufTBnzEg0d7NoR5RLL1oPra.jpg",
+        "title": "In the Hand of Dante",
+        "description": "A Vatican priest discovers Dante's original Divine Comedy manuscript. When asked to authenticate it, writer Nick Tosches steals it, while a parallel s...",
+        "source_link": "https://www.themoviedb.org/movie/1020047"
       },
       {
-        "rank": 7,
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/a6H2U7pjibMia41TwyFVd1PVQw3.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
         "title": "Tuner",
         "description": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside dow...",
         "source_link": "https://www.themoviedb.org/movie/1340206"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/n6mTo0YXafeoOUbHZxB9muKEjhX.jpg",
-        "title": "HUNGRY",
-        "description": "A group of holidaymakers must fight for their lives against a rampaging hippo on the loose after becoming lost in the Louisiana swamplands....",
-        "source_link": "https://www.themoviedb.org/movie/1382832"
-      },
-      {
-        "rank": 9,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
-        "rank": 10,
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+        "title": "Minions & Monsters",
+        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
+        "source_link": "https://www.themoviedb.org/movie/1315772"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg",
         "title": "Scary Movie",
         "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
         "source_link": "https://www.themoviedb.org/movie/1273221"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/n6mTo0YXafeoOUbHZxB9muKEjhX.jpg",
+        "title": "HUNGRY",
+        "description": "A group of holidaymakers must fight for their lives against a rampaging hippo on the loose after becoming lost in the Louisiana swamplands....",
+        "source_link": "https://www.themoviedb.org/movie/1382832"
       }
     ]
   }
