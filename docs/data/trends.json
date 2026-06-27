@@ -1,69 +1,76 @@
 {
-  "last_updated": "June 26, 2026, 22:08 UTC",
+  "last_updated": "June 27, 2026, 00:01 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.cnet.com/a/img/resize/d1de0c607658b1debb453bb6c9b62fc05109a1e5/hub/2026/06/25/22e246b8-3da6-490c-b181-eb9e097b6ab5/under-50-usd-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "Best 150 Prime Day Deals Under $50 on Ninja, Anker and Samsung - CNET",
+        "description": "Time is running out to grab these affordable Prime Day finds that punch well above their price.",
+        "source_link": "https://www.cnet.com/deals/best-prime-day-deals-under-50-2026-06-25/"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.techpowerup.com/img/c2UO8o8X07y3inHj.jpg",
+        "title": "Valve Quietly Walks Back Steam Machine 4K 60 FPS Performance Claims - TechPowerUp",
+        "description": "Valve's Steam Machine has earned more than its fair share of skeptics, thanks to performance claims and more recently its unfortunate pricing. More recently, though, Valve has seemingly taken some of this criticism to heart and silently changed some of those \u2026",
+        "source_link": "https://www.techpowerup.com/350313/valve-quietly-walks-back-steam-machine-4k-60-fps-performance-claims"
+      },
+      {
+        "rank": 3,
         "image": "https://helios-i.mashable.com/imagery/articles/03zWeZDafuStAg34m1XaIRe/hero-image.fill.size_1200x675.v1782376261.png",
         "title": "Best Prime Day laptop deals: Save up to $970 on MacBooks, Windows PCs - Mashable",
         "description": "Laptops are very expensive these days. These discounts help.",
         "source_link": "https://mashable.com/tech/best-prime-day-laptop-deals-live-2026"
       },
       {
-        "rank": 2,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/microsoft-windows-1024x648.jpg",
-        "title": "Microsoft adds another year to Windows 10 extended update program - Ars Technica",
-        "description": "About a quarter of PCs are still running Microsoft's previous operating system.",
-        "source_link": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/"
-      },
-      {
-        "rank": 3,
+        "rank": 4,
         "image": "https://helios-i.mashable.com/imagery/articles/02pwcR33zGcCoOWyWDYNakl/hero-image.fill.size_1200x675.v1782417797.jpg",
-        "title": "Prime Day ends soon: We found 120+ deals from Apple, Lego, Sony, and more - Mashable",
-        "description": "Kindle e-readers, Apple Watches, and Samsung TVs are all highlights on day three of the Amazon sale.",
+        "title": "Prime Day ends soon: We narrowed down the best 150+ deals from Apple, Lego, Kindle, and more - Mashable",
+        "description": "Kindle e-readers, Apple Watches, and Samsung TVs are at record-low prices on day three of the Amazon sale.",
         "source_link": "https://mashable.com/tech/best-amazon-prime-day-deals-2026-live"
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Google_Finance-1152x648.png",
+        "title": "Google finally releases a Finance Android app, promises iOS version later in 2026 - Ars Technica",
+        "description": "It took 20 years, but the Finance app arrives just in time to be packed full of AI.",
+        "source_link": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/"
+      },
+      {
+        "rank": 6,
         "image": "https://image.cnbcfm.com/api/v1/image/108275781-1773100803624-gettyimages-2230458864-tang-notitle250820_npmhW.jpeg?v=1773259314&w=1920&h=1080",
         "title": "Microsoft lifts price of Xbox consoles due to soaring component costs - CNBC",
         "description": "Microsoft said it's increasing the price of Xbox game consoles after Apple announced price hikes for MacBooks and iPads.",
         "source_link": "https://www.cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/youtube-shorts-logo-circle-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "YouTube Shorts player adding Clear Screen mode & 2x playback, removes dislike - 9to5Google",
         "description": "YouTube today announced a number of updates to the Shorts player meant to \u201ccreate a more intuitive Shorts experience.\u201d",
         "source_link": "http://9to5google.com/2026/06/25/youtube-shorts-clear-screen-more/"
       },
       {
-        "rank": 6,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-12.15.52-PM.jpg?resize=1200,615",
-        "title": "Databricks\u2019 former AI chief thinks he can cut AI\u2019s power bill by 1,000x - TechCrunch",
-        "description": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-        "source_link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/"
+        "rank": 8,
+        "image": "https://cdn.mos.cms.futurecdn.net/uuJbsnXbg3gLpXj9J6AK8V-2000-80.jpg",
+        "title": "Microsoft extends Windows 10 extended security updates program amid RAMpocalypse - Windows Central",
+        "description": "Windows 10's ESU program has been quietly extended by an extra year, now ending on October 12, 2027 instead of October 2026.",
+        "source_link": "https://www.windowscentral.com/microsoft/windows-10/microsoft-quietly-extends-windows-10s-extra-security-updates-program-for-free-users-can-now-stay-on-windows-10-until-october-2027-securely"
       },
       {
-        "rank": 7,
+        "rank": 9,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5yP26iAJkyM/v1/1200x800.jpg",
+        "title": "Apple to Skip High-End M6 Mac Chips in Favor of AI-Focused M7 Line - Bloomberg",
+        "description": "Apple Inc. is making one of the biggest-ever changes to its Mac silicon strategy, preparing to jump ahead to a new artificial intelligence-focused chip generation for its next top-end processors.",
+        "source_link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead"
+      },
+      {
+        "rank": 10,
         "image": "https://kotaku.com/app/uploads/2026/06/image-72.jpg",
         "title": "Star Fox Players Are Up To Debauchery With Its VTuber Avatars - Kotaku",
         "description": "Who could have foreseen this?",
         "source_link": "https://kotaku.com/star-fox-switch-2-nintendo-avatars-fox-falco-slippy-2000710547"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/Notion-Mail-sunset.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Notion shutting down its AI-powered email client, including Mac and iOS apps - 9to5Mac",
-        "description": "Last year, Notion expanded its productivity suite to include Notion Mail, an AI-powered email client. Today, the company announced that...",
-        "source_link": "https://9to5mac.com/2026/06/25/notion-shutting-down-its-ai-powered-email-client-including-mac-and-ios-apps/"
-      },
-      {
-        "rank": 9,
-        "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/25/46b792e9/destiny%202%20collection.jpg.webp",
-        "title": "Bungie Is Laying Off 'Most Of' The Destiny 2 Development Team - Game Informer",
-        "description": "People who worked on Marathon, as well as some Sony Interactive Entertainment employees, are also being let go.",
-        "source_link": "https://gameinformer.com/2026/06/25/bungie-is-laying-off-most-of-the-destiny-2-development-team"
       }
     ],
     "trending_movies": [
@@ -104,17 +111,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg",
-        "title": "Scary Movie",
-        "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
-        "source_link": "https://www.themoviedb.org/movie/1273221"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg",
+        "title": "Scary Movie",
+        "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
+        "source_link": "https://www.themoviedb.org/movie/1273221"
       },
       {
         "rank": 8,
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/vd1UJE1fYTLQX2z8ulhf8U2uo5E.jpg",
-        "title": "Masters of the Universe",
-        "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
-        "source_link": "https://www.themoviedb.org/movie/454639"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/hHbzSzjJnmcq02l2razSScBEVBf.jpg",
         "title": "Driver's Ed",
         "description": "A group of teens hit the road in a stolen driver's ed car, racing against time to help a lovesick high school senior track down his college-freshman g...",
         "source_link": "https://www.themoviedb.org/movie/1398050"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/vd1UJE1fYTLQX2z8ulhf8U2uo5E.jpg",
+        "title": "Masters of the Universe",
+        "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
+        "source_link": "https://www.themoviedb.org/movie/454639"
       }
     ]
   }
