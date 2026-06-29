@@ -1,76 +1,76 @@
 {
-  "last_updated": "June 29, 2026, 17:32 UTC",
+  "last_updated": "June 29, 2026, 19:50 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assetsio.gnwcdn.com/ULTIMATE_EDITION_ELECTRIC_FANG_03.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Claims GTA 6 is selling 8 times as many copies on PS5 as Xbox \"doesn't represent pre-order data\", insists Microsoft - Eurogamer",
+        "description": "Microsoft has refuted claims that its rival system, the PlayStation 5, is outselling the Xbox edition of Grand Theft Auto 6 by a rate of 8-to-1.",
+        "source_link": "https://www.eurogamer.net/gta-6-ps5-xbox-sales"
+      },
+      {
+        "rank": 2,
         "image": "https://kotaku.com/app/uploads/2026/06/ageofem2-980x675.jpg",
         "title": "AI As Conscious As That Toy Bird Is Thirsty - Kotaku",
         "description": "OpenAI and the like are using our fantasies about technology to bilk investors, if we want to protect the public we need to establish the difference consciousness and something mimicking it",
         "source_link": "https://kotaku.com/study-uses-age-of-empires-scenario-editor-to-illustrate-why-its-farcical-to-treat-ai-as-cognizant-2000711251"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/667316a2a2ff94060a6ee109/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "PlayStation Plus Free Games July 2026: Predictions, Rumors, Leaks And More - Forbes",
+        "description": "PlayStation Plus free games for July 2026: predictions, rumors and leaks for PS Plus Essential, including possible PS5 and PS4 titles ahead of the official reveal.",
+        "source_link": "https://www.forbes.com/sites/erikkain/2026/06/28/ps-plus-july-2026-predictions-leaks-reveal/"
+      },
+      {
+        "rank": 4,
+        "image": "https://hackaday.com/wp-content/uploads/2026/06/fanmote_feat.jpg",
+        "title": "RF Hacking A Ceiling Fan Via The Remote - Hackaday",
+        "description": "[Sam Wilkinson] recently installed a Dreo CLF513S ceiling fan in his place \u2014 it\u2019s cheap, well-sized, and blows air around as you\u2019d expect it to. The only problem is that it only w\u2026",
+        "source_link": "https://hackaday.com/2026/06/28/rf-hacking-a-ceiling-fan-via-the-remote/"
+      },
+      {
+        "rank": 5,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/mac-studio-monitors-display.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple working on M7 Ultra Mac Studio for 2028 with potential major upgrade: report - 9to5Mac",
         "description": "Later this year, Apple will be debuting an updated version of the Mac Studio with M5 Max and M5 Ultra...",
         "source_link": "https://9to5mac.com/2026/06/28/m7-ultra-mac-studio-coming-in-2028-after-m5-ultra-model-later-this-year/"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/06/ps5-feature-down.jpg?resize=1200,630",
+        "title": "Major PS5 Feature Down for the Last 2 Weeks, Sony Silent - PlayStation LifeStyle",
+        "description": "A widely used PS5 feature has been down for the last two weeks on both the console and the PS App, and there's no sign of a fix.",
+        "source_link": "https://www.playstationlifestyle.net/2026/06/28/ps5-recently-played-feature-down-june-28-2026/"
+      },
+      {
+        "rank": 7,
         "image": "https://techcrunch.com/wp-content/uploads/2026/06/govee-ice-maker.png?resize=1200,861",
         "title": "Govee\u2019s smart nugget ice maker makes every iced drink feel like a luxury - TechCrunch",
         "description": "For some people, the ice in a beverage is almost as important as the drink itself. That's the audience Govee had in mind when designing its latest ice",
         "source_link": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-construction-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google Home Speaker uses 99% less adhesive than Nest Audio [Gallery] - 9to5Google",
         "description": "Google\u2019s environmental reports for the Home Speaker include a look at how the new Gemini device is made and images of the internals.",
         "source_link": "http://9to5google.com/2026/06/28/google-home-speaker-construction/"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://www.phoronix.net/image.php?id=2026&image=drm_color_format",
         "title": "Linux 7.3 To Introduce DRM \"Color Format\" Property With AMD GPU Driver Support - Phoronix",
         "description": "While the Linux 7.2 kernel merge window is only ending later today to cap off the feature work on this next version of the Linux kernel, already for the Linux 7.3 kernel cycle later in the year there is one notable feature on the way: the DRM color format pro\u2026",
         "source_link": "https://www.phoronix.com/news/Linux-7.3-DRM-Color-Format"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://www.zdnet.com/a/img/resize/41c18be7d96599e2cd9c0f5007830592ef713b92/2026/03/27/c5a92f52-9d7a-4095-9fb2-71ea76732a59/img-3228.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "Thermal cameras can spot problems you can't see - what I've learned after years of testing - ZDNET",
         "description": "Thermal cameras have saved me thousands over the years. Just the other day, one simple check saved me $1,000.",
         "source_link": "https://www.zdnet.com/home-and-office/why-you-must-get-a-thermal-camera/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.trueachievements.com/imgs/176387/xbox-game-pass-achievements.jpg",
-        "title": "Xbox Game Pass only added two tough games this week - TrueAchievements",
-        "description": "Let's take a look at the Xbox Game Pass achievements for the two new games that came to the service this week \u2014 come see how easy these games are to beat.",
-        "source_link": "https://www.trueachievements.com/news/xbox-game-pass-new-achievements-june-2026-wave-2"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.cnet.com/a/img/resize/c0abff8b23d1560492ed517203e59c469856b5da/hub/2026/06/22/621d4538-deb7-40d3-be84-1bdeb5a0a081/nas-device.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "From Photo Backups to My Own Cloud Server: My Trip Into Home Data Storage - CNET",
-        "description": "I just wanted to store my files safely. I ended up opening a Pandora's box of complications.",
-        "source_link": "https://www.cnet.com/tech/computing/network-attached-storage-my-trip-down-the-nas-rabbit-hole/"
-      },
-      {
-        "rank": 9,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/google-maps-power-saving-mode-2.jpg?w=1600&h=900&fit=crop",
-        "title": "I found a hidden Google Maps feature that made my Pixel's always-on display useful - Android Police",
-        "description": "A hidden Maps trick worth turning on",
-        "source_link": "https://www.androidpolice.com/google-maps-feature-made-pixel-always-on-useful/"
-      },
-      {
-        "rank": 10,
-        "image": "https://insider-gaming.com/wp-content/uploads/2026/06/playstation-6-costs.jpeg",
-        "title": "The PlayStation 6 Reportedly Already Costs $960 in Materials to Manufacture - Insider Gaming",
-        "description": "The PlayStation 6 reportedly costs $960 to build in materials, suggesting next-gen consoles' prices could be much higher than anticipated.",
-        "source_link": "https://insider-gaming.com/playstation-6-costs/"
       }
     ],
     "trending_movies": [
@@ -83,10 +83,10 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-        "title": "The Devil Wears Prada 2",
-        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
-        "source_link": "https://www.themoviedb.org/movie/1314481"
+        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+        "title": "Minions & Monsters",
+        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
+        "source_link": "https://www.themoviedb.org/movie/1315772"
       },
       {
         "rank": 3,
@@ -97,52 +97,52 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-        "title": "Minions & Monsters",
-        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
-        "source_link": "https://www.themoviedb.org/movie/1315772"
+        "image": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-        "title": "Little Brother",
-        "description": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears....",
-        "source_link": "https://www.themoviedb.org/movie/1397385"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
-        "title": "Citizen Vigilante",
-        "description": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the loca...",
-        "source_link": "https://www.themoviedb.org/movie/1413976"
-      },
-      {
-        "rank": 8,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/a6H2U7pjibMia41TwyFVd1PVQw3.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
-        "rank": 9,
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+        "title": "Little Brother",
+        "description": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears....",
+        "source_link": "https://www.themoviedb.org/movie/1397385"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
         "title": "The Sheep Detectives",
         "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious...",
         "source_link": "https://www.themoviedb.org/movie/1301421"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+        "title": "Citizen Vigilante",
+        "description": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the loca...",
+        "source_link": "https://www.themoviedb.org/movie/1413976"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
+        "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
       }
     ]
   }
