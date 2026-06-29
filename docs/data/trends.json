@@ -1,113 +1,113 @@
 {
-  "last_updated": "June 29, 2026, 14:44 UTC",
+  "last_updated": "June 29, 2026, 17:32 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/big-summer-preview/26-06_02_1-feature02-2nlq3zv783.jpg",
-        "title": "The Big Summer Preview \u2013 New Ork miniatures and codex are coming - Warhammer Community",
-        "description": "Updated Trukk, Mek and Warboss are on the horizon.",
-        "source_link": "https://www.warhammer-community.com/articles/6pvhlvqm/the-big-summer-preview-new-ork-miniatures-and-codex-are-coming"
+        "image": "https://kotaku.com/app/uploads/2026/06/ageofem2-980x675.jpg",
+        "title": "AI As Conscious As That Toy Bird Is Thirsty - Kotaku",
+        "description": "OpenAI and the like are using our fantasies about technology to bilk investors, if we want to protect the public we need to establish the difference consciousness and something mimicking it",
+        "source_link": "https://kotaku.com/study-uses-age-of-empires-scenario-editor-to-illustrate-why-its-farcical-to-treat-ai-as-cognizant-2000711251"
       },
       {
         "rank": 2,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/01/mac-studio-monitors-display.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple working on M7 Ultra Mac Studio for 2028 with potential major upgrade: report - 9to5Mac",
+        "description": "Later this year, Apple will be debuting an updated version of the Mac Studio with M5 Max and M5 Ultra...",
+        "source_link": "https://9to5mac.com/2026/06/28/m7-ultra-mac-studio-coming-in-2028-after-m5-ultra-model-later-this-year/"
+      },
+      {
+        "rank": 3,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/govee-ice-maker.png?resize=1200,861",
+        "title": "Govee\u2019s smart nugget ice maker makes every iced drink feel like a luxury - TechCrunch",
+        "description": "For some people, the ice in a beverage is almost as important as the drink itself. That's the audience Govee had in mind when designing its latest ice",
+        "source_link": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/"
+      },
+      {
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/Google-Home-Speaker-construction-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google Home Speaker uses 99% less adhesive than Nest Audio [Gallery] - 9to5Google",
+        "description": "Google\u2019s environmental reports for the Home Speaker include a look at how the new Gemini device is made and images of the internals.",
+        "source_link": "http://9to5google.com/2026/06/28/google-home-speaker-construction/"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.phoronix.net/image.php?id=2026&image=drm_color_format",
+        "title": "Linux 7.3 To Introduce DRM \"Color Format\" Property With AMD GPU Driver Support - Phoronix",
+        "description": "While the Linux 7.2 kernel merge window is only ending later today to cap off the feature work on this next version of the Linux kernel, already for the Linux 7.3 kernel cycle later in the year there is one notable feature on the way: the DRM color format pro\u2026",
+        "source_link": "https://www.phoronix.com/news/Linux-7.3-DRM-Color-Format"
+      },
+      {
+        "rank": 6,
+        "image": "https://www.zdnet.com/a/img/resize/41c18be7d96599e2cd9c0f5007830592ef713b92/2026/03/27/c5a92f52-9d7a-4095-9fb2-71ea76732a59/img-3228.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "Thermal cameras can spot problems you can't see - what I've learned after years of testing - ZDNET",
+        "description": "Thermal cameras have saved me thousands over the years. Just the other day, one simple check saved me $1,000.",
+        "source_link": "https://www.zdnet.com/home-and-office/why-you-must-get-a-thermal-camera/"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.trueachievements.com/imgs/176387/xbox-game-pass-achievements.jpg",
+        "title": "Xbox Game Pass only added two tough games this week - TrueAchievements",
+        "description": "Let's take a look at the Xbox Game Pass achievements for the two new games that came to the service this week \u2014 come see how easy these games are to beat.",
+        "source_link": "https://www.trueachievements.com/news/xbox-game-pass-new-achievements-june-2026-wave-2"
+      },
+      {
+        "rank": 8,
+        "image": "https://www.cnet.com/a/img/resize/c0abff8b23d1560492ed517203e59c469856b5da/hub/2026/06/22/621d4538-deb7-40d3-be84-1bdeb5a0a081/nas-device.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "From Photo Backups to My Own Cloud Server: My Trip Into Home Data Storage - CNET",
+        "description": "I just wanted to store my files safely. I ended up opening a Pandora's box of complications.",
+        "source_link": "https://www.cnet.com/tech/computing/network-attached-storage-my-trip-down-the-nas-rabbit-hole/"
+      },
+      {
+        "rank": 9,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/google-maps-power-saving-mode-2.jpg?w=1600&h=900&fit=crop",
+        "title": "I found a hidden Google Maps feature that made my Pixel's always-on display useful - Android Police",
+        "description": "A hidden Maps trick worth turning on",
+        "source_link": "https://www.androidpolice.com/google-maps-feature-made-pixel-always-on-useful/"
+      },
+      {
+        "rank": 10,
         "image": "https://insider-gaming.com/wp-content/uploads/2026/06/playstation-6-costs.jpeg",
         "title": "The PlayStation 6 Reportedly Already Costs $960 in Materials to Manufacture - Insider Gaming",
         "description": "The PlayStation 6 reportedly costs $960 to build in materials, suggesting next-gen consoles' prices could be much higher than anticipated.",
         "source_link": "https://insider-gaming.com/playstation-6-costs/"
-      },
-      {
-        "rank": 3,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/xgimi-vibe-one-projector-front.jpg",
-        "title": "After trying a Google TV projector, I may never buy another TV ever again - Android Authority",
-        "description": "After spending a few weeks with a Google TV projector, I think I may be done buying actual TVs for good. Here's what changed.",
-        "source_link": "https://www.androidauthority.com/using-google-tv-projector-may-not-buy-another-tv-3680979/"
-      },
-      {
-        "rank": 4,
-        "image": "https://pokemongohub.net/wp-content/uploads/2026/06/sobble.jpg",
-        "title": "Pok\u00e9mon GO Events This Week: June 29 \u2013 July 5, 2026 - Pok\u00e9mon GO Hub",
-        "description": "Pok\u00e9mon GO\u2019s June 29 - July 5 week sees us enter the second month of the season of Forever Forward! We end June and kick off July with 10th Anniversary celebrations and Sobble Community Day! Plus the weekly rotating Raid Hours, Spotlight Hour, Dynamax Battles\u2026",
-        "source_link": "https://pokemongohub.net/post/news/pokemon-go-events-this-week-june-29-july-5-2026/"
-      },
-      {
-        "rank": 5,
-        "image": "https://gizmodo.com/app/uploads/2026/06/youre-the-os-1200x675.png",
-        "title": "Spend Five Minutes With This Hellish Operating System Simulator and You'll Never Swear at Your Computer Again - Gizmodo",
-        "description": "Seriously, I'm sorry I had a gazillion browser tabs open alongside several hours' worth of unsaved work. Please don't crash. Please.",
-        "source_link": "https://gizmodo.com/spend-five-minutes-with-this-hellish-operating-system-simulator-and-youll-never-swear-at-your-computer-again-2000778411"
-      },
-      {
-        "rank": 6,
-        "image": null,
-        "title": "Massive Samsung ultrawide gaming monitor gets hundreds off in Amazon deal - PC Guide",
-        "description": null,
-        "source_link": "https://www.pcguide.com/deals/massive-samsung-ultrawide-gaming-monitor-gets-hundreds-off-in-amazon-deal/"
-      },
-      {
-        "rank": 7,
-        "image": "https://cdn.mos.cms.futurecdn.net/rDW2GpdvxaaDrhbAqcaaWH-2560-80.jpg",
-        "title": "GTA 6 could be the final death knell for physical media, but it still makes sense to pre-order - Creative Bloq",
-        "description": "You can always collect empty boxes.",
-        "source_link": "https://www.creativebloq.com/3d/video-game-design/gta-6-could-be-the-final-nail-in-the-coffin-for-physical-media"
-      },
-      {
-        "rank": 8,
-        "image": "https://d.techtimes.com/en/full/465058/andrej-karpathys-keynote-software-changing-again-june-17.png",
-        "title": "Karpathy CLAUDE.md Grows to Ten Rules: New Self-Check Protocol for AI Coding Loops - Tech Times",
-        "description": "Karpathy CLAUDE.md ten rules: a document attributed to Andrej Karpathy began circulating Friday, adding six agent self-check rules to the community four-rule template. It covers verification before...",
-        "source_link": "https://www.techtimes.com/articles/319214/20260628/karpathy-claudemd-grows-ten-rules-new-self-check-protocol-ai-coding-loops.htm"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.skyatnightmagazine.com/resources/content/9867779f-bbeb-44ef-a0d0-ca4e39424e99/f2405103-437c-43b3-b5aa-1c177358519e/3297c720-0c9c-4193-a5a6-16cb5841af64/nasa-space-elevator.jpg?preview=false&platform=WEB&deviceId=266149eb-9e31-4b7a-b61c-d75b1b903a43&w=1200",
-        "title": "Space elevators could one day exist, transporting us off-Earth with the push of a button. Here's how they would work - BBC Sky at Night Magazine",
-        "description": "What is a space elevator and how would one work? We look at the science behind building an elevator to take us into space.",
-        "source_link": "https://www.skyatnightmagazine.com/space-science/space-elevator"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.cnet.com/a/img/resize/4d7dfe41cc32a01e57a2a9eb7ff37dc4ed250151/hub/2026/06/18/1fcb6b7b-06ab-4ee7-8a0a-f2f589c55ae0/prime-day-tablet-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Best Prime Day Tablet Deals From Apple, Samsung and TCL - CNET",
-        "description": "Tons of Apple and Android models are still on sale, but these holdover bargains are selling out fast.",
-        "source_link": "https://www.cnet.com/deals/best-prime-day-tablet-deals-2026-06-27/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
-        "title": "Supergirl",
-        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
-        "source_link": "https://www.themoviedb.org/movie/1081003"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
+      },
+      {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/a6H2U7pjibMia41TwyFVd1PVQw3.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
+        "image": "https://image.tmdb.org/t/p/w200/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+        "title": "Supergirl",
+        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
+        "source_link": "https://www.themoviedb.org/movie/1081003"
       },
       {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+        "title": "Minions & Monsters",
+        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
+        "source_link": "https://www.themoviedb.org/movie/1315772"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
         "title": "Little Brother",
         "description": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears....",
         "source_link": "https://www.themoviedb.org/movie/1397385"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
-        "title": "The Sheep Detectives",
-        "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious...",
-        "source_link": "https://www.themoviedb.org/movie/1301421"
       },
       {
         "rank": 6,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-        "title": "Minions & Monsters",
-        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
-        "source_link": "https://www.themoviedb.org/movie/1315772"
+        "image": "https://image.tmdb.org/t/p/w200/a6H2U7pjibMia41TwyFVd1PVQw3.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-        "title": "Moana",
-        "description": "Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui on an unforget...",
-        "source_link": "https://www.themoviedb.org/movie/1108427"
+        "image": "https://image.tmdb.org/t/p/w200/iKy5460GdsoknM8ppmGlJbKxAKa.jpg",
+        "title": "The Sheep Detectives",
+        "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious...",
+        "source_link": "https://www.themoviedb.org/movie/1301421"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
-        "title": "Masters of the Universe",
-        "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
-        "source_link": "https://www.themoviedb.org/movie/454639"
+        "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       }
     ]
   }
