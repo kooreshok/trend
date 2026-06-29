@@ -1,69 +1,76 @@
 {
-  "last_updated": "June 29, 2026, 00:03 UTC",
+  "last_updated": "June 29, 2026, 05:26 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i.pcmag.com/imagery/articles/00bs1Sic7hGxpCM1VyQDRBY-1.fit_lim.size_1200x630.v1782489831.png",
+        "title": "The Best Prime Day Smartphone Deals From Samsung, Google, and Motorola Are Ending Soon - PCMag",
+        "description": "Need a new Pixel, Galaxy, or Razr? Hurry and grab your next flagship, foldable, or flip phone for a fraction of the price while these Prime Day smartphone deals last!",
+        "source_link": "https://www.pcmag.com/news/best-amazon-prime-day-sale-smartphone-deals-2026-samsung-google-last-chance"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/06/BBCF-Trinity_06-27-26.jpg",
+        "title": "BlazBlue: Central Fiction DLC character Trinity Glassfille revealed - Gematsu",
+        "description": "Following an initial announcement earlier this week, Arc System Works has officially announced BlazBlue: Central Fiction new downloadable content character Trinity Glassfille for the PlayStation 4 \u2026",
+        "source_link": "https://www.gematsu.com/2026/06/blazblue-central-fiction-dlc-character-trinity-glassfille-revealed"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.jalopnik.com/img/gallery/heres-how-much-a-2022-cadillac-ct4-v-blackwing-has-depreciated-in-four-years/l-intro-1782219791.jpg",
+        "title": "Here's How Much A 2022 Cadillac CT4-V Blackwing Has Depreciated In 4 Years - Jalopnik",
+        "description": "Starting at $60,390 in 2022, the Cadillac CT4-V Blackwing did a solid job at fighting depreciation over the last four years, now trading in the low $50,000s.",
+        "source_link": "https://www.jalopnik.com/2199663/how-much-2022-cadillac-ct4-v-blackwing-has-depreciated-four-years/"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/05/GG-Strive-DLC_06-27-26.jpg",
+        "title": "Guilty Gear: Strive DLC character Robo=Ky launches July 2 - Gematsu",
+        "description": "Guilty Gear: Strive downloadable content character Robo=Kuy will launch on July 2, developer Arc System Works announced.",
+        "source_link": "https://www.gematsu.com/2026/06/guilty-gear-strive-dlc-character-roboky-launches-july-2"
+      },
+      {
+        "rank": 5,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-Switch-backwards-compatibility-fixes-June-2026.jpg",
+        "title": "Nintendo issues June 2026 backwards compatibility fixes for Switch games on Switch 2, full list - Nintendo Everything",
+        "description": "Another set of backwards compatibility fixes for Nintendo Switch games on Switch 2 are now available.\u00a0 There aren\u2019t as many heavy hitters this time around, but it\u2019s still a solid batch. Shovel Knight: Treasure Trove is the biggest name out of the bunch \u2013 prev\u2026",
+        "source_link": "https://nintendoeverything.com/nintendo-issues-june-2026-backwards-compatibility-fixes-for-switch-games-on-switch-2-full-list/"
+      },
+      {
+        "rank": 6,
+        "image": "https://hackaday.com/wp-content/uploads/2026/06/sff_mini-itx_steam_machine_case_real_jacob_terkelsen.jpg",
+        "title": "Cramming A Mini-ITX Gaming PC Into A 3D Printed Steam Machine Sized Case - Hackaday",
+        "description": "The recently released Valve Steam Machine is somewhat awkward in that it uses a custom, non-standard PCB and non-standard power supply. This fact apparently has irked some people who decided that i\u2026",
+        "source_link": "https://hackaday.com/2026/06/27/cramming-a-mini-itx-gaming-pc-into-a-3d-printed-steam-machine-sized-case/"
+      },
+      {
+        "rank": 7,
         "image": "https://assetsio.gnwcdn.com/terminator-2d-t-1000.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "PlayStation is pulling \"previously purchased\" digital movies from users' libraries without so much as an apology - Eurogamer",
         "description": "Sony has written to customers to advise that hundreds of \"previously purchased\" digital movies previously available via its online store will \"be removed\".",
         "source_link": "https://www.eurogamer.net/playstation-to-remove-studio-canal-movies-from-libraries"
       },
       {
-        "rank": 2,
+        "rank": 8,
         "image": "https://assets.warhammer-community.com/articles/0-2026/june/wc-22-06/preorders-jun27-1-feature-keralhiw4k.jpg",
         "title": "Saturday Pre-orders: Battleforces, Ciaphas Cain, and the Age of Darkness - Warhammer Community",
         "description": "Check out all of today\u2019s new pre-orders for Warhammer 40,000, Warhammer: The Horus Heresy, and Black Library.",
         "source_link": "https://www.warhammer-community.com/articles/ileev0sj/saturday-pre-orders-battleforces-ciaphas-cain-and-the-age-of-darkness"
       },
       {
-        "rank": 3,
-        "image": "https://www.cnet.com/a/img/resize/d1de0c607658b1debb453bb6c9b62fc05109a1e5/hub/2026/06/25/22e246b8-3da6-490c-b181-eb9e097b6ab5/under-50-usd-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Best Prime Day Deals Under $50 on Ninja, Anker and Samsung - CNET",
-        "description": "The deals are dropping like flies today, so take advantage of these last-chance bargains before they're gone for good.",
-        "source_link": "https://www.cnet.com/deals/best-prime-day-deals-under-50-2026-06-27/"
+        "rank": 9,
+        "image": "https://cdn.mos.cms.futurecdn.net/5RjVCPzshmBQte5kEYiPJJ-2000-80.jpg",
+        "title": "Bad news: Netflix now wants every single profile in your house to have its own email login - Tom's Guide",
+        "description": "Netflix quietly updates how shared accounts work",
+        "source_link": "https://www.tomsguide.com/entertainment/netflix/bad-news-netflix-now-wants-every-single-profile-in-your-house-to-have-its-own-email-log-in"
       },
       {
-        "rank": 4,
+        "rank": 10,
         "image": "https://images.pushsquare.com/ad79ea6353082/large.jpg",
         "title": "Microsoft Responds to Reports of GTA 6 PS5 Pre-Orders Trouncing Xbox - Push Square",
         "description": "\"People should wait for real data\"",
         "source_link": "https://www.pushsquare.com/news/2026/06/microsoft-responds-to-reports-of-gta-6-ps5-pre-orders-trouncing-xbox"
-      },
-      {
-        "rank": 5,
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260626-prime-amazon-still-on-sale-kb-social-1-7bac98.jpg",
-        "title": "Amazon Prime Day officially ended last night, but these 131+ deals are still available for late shoppers - NBC News",
-        "description": "Amazon Prime Day 2026 may be over, but some of the deals aren\u2019t. Here are the best sales still live, including Medicube, Oura Ring, Apple and more editor favorites.",
-        "source_link": "https://www.nbcnews.com/select/shopping/amazon-prime-day-deals-still-live-rcna351955"
-      },
-      {
-        "rank": 6,
-        "image": "https://helios-i.mashable.com/imagery/articles/065agew5yNCWh43yTzR6NWI/hero-image.fill.size_1200x675.v1782458926.png",
-        "title": "Best Prime Day Lego deals 2026: Save on Lego Star Wars, Botanicals, and 100+ more before the sale ends - Mashable",
-        "description": "The Lego Star Wars Imperial Star Destroyer set with a Cal Kestis mini-figure is cheaper than it was last Cyber Monday.",
-        "source_link": "https://mashable.com/life/best-prime-day-lego-deals-still-live-2026"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/ULTIMATE_EDITION_01.16qc1xq5nigg1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "GTA 6 has no plans for a post-launch physical release, \"not at launch, and not months later\", insists new report - Eurogamer",
-        "description": "A new report has cast doubt on news that a physical version of Grand Theft Auto 6 will follow the digital release later this year after all.",
-        "source_link": "https://www.eurogamer.net/gta-6-no-physical-release"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.visualcapitalist.com/wp-content/uploads/2026/06/Best-Selling-Albums_02-share.webp",
-        "title": "Ranked: America\u2019s Best-Selling Albums Ever - Visual Capitalist",
-        "description": "Michael Jackson may be the king of pop, but in the U.S. he's been outsold by a rock band from Los Angeles.",
-        "source_link": "https://www.visualcapitalist.com/the-best-selling-albums-in-us-history/"
-      },
-      {
-        "rank": 9,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69d7e1b6fc6f2d7f954dae92/0x0.jpg?format=jpg&crop=2002,1127,x0,y0,safe&height=900&width=1600&fit=bounds",
-        "title": "The Pressure On Bungie\u2019s \u2018Marathon\u2019 After Destiny 2\u2019s Death Is Insurmountable - Forbes",
-        "description": "Marathon was never supposed to be here, but now is tasked with ensuring Bungie survives as a studio now that Destiny 2 is dead.",
-        "source_link": "https://www.forbes.com/sites/paultassi/2026/06/27/the-pressure-on-bungies-marathon-after-destiny-2s-death-is-insurmountable/"
       }
     ],
     "trending_movies": [
@@ -90,31 +97,31 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
-        "title": "Citizen Vigilante",
-        "description": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the loca...",
-        "source_link": "https://www.themoviedb.org/movie/1413976"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
         "title": "Little Brother",
         "description": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears....",
         "source_link": "https://www.themoviedb.org/movie/1397385"
       },
       {
-        "rank": 7,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+        "title": "Citizen Vigilante",
+        "description": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the loca...",
+        "source_link": "https://www.themoviedb.org/movie/1413976"
       },
       {
         "rank": 8,
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg",
         "title": "Scary Movie",
         "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
         "source_link": "https://www.themoviedb.org/movie/1273221"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
-        "title": "Disclosure Day",
-        "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorol...",
-        "source_link": "https://www.themoviedb.org/movie/1275779"
       }
     ]
   }
