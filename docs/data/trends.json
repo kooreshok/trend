@@ -1,76 +1,62 @@
 {
-  "last_updated": "July 01, 2026, 11:56 UTC",
+  "last_updated": "July 01, 2026, 14:37 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets.nintendo.com/image/upload/f_auto,q_auto/Nintendo Direct/2026/AJpWlAFHdSFF/thumb",
+        "title": "Splatoon Raiders Direct 6.30.2026 - Nintendo",
+        "description": "Join us on June 30 at 7am PT for the Splatoon Raiders Direct! The presentation will last roughly 15 minutes and provide more info on the upcoming Nintendo Switch 2 game.",
+        "source_link": "https://www.nintendo.com/us/nintendo-direct/6-30-2026/"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.videogameschronicle.com/files/2023/12/the-crew.jpg",
+        "title": "US bill requiring paid games to be playable after they shut down has failed to pass a Senate vote - Video Games Chronicle",
+        "description": "Stop Killing Games says it will try again with \"the funding to do this properly\"",
+        "source_link": "https://www.videogameschronicle.com/news/us-bill-requiring-paid-games-to-be-playable-after-they-shut-down-has-failed-to-pass-a-senate-vote/"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-3-snapshot-2/new-article-hero-image.jpg",
+        "title": "Minecraft 26.3 Snapshot 2 - Minecraft",
+        "description": "Minecraft 26.3 Snapshot 2",
+        "source_link": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-2"
+      },
+      {
+        "rank": 4,
         "image": "https://www.cnet.com/a/img/resize/dea3c7728dc926da2c683b2e5e3969463b96d428/hub/2026/06/25/5b9e26d5-38d8-400a-9cc8-b5244d0ee6f7/under-50-promo-june-pd.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "Best Prime Day Deals Under $50 on Ninja, Anker and Samsung - CNET",
         "description": "From everyday essentials to fun finds, these affordable picks are worth shopping ahead of the holiday weekend.",
         "source_link": "https://www.cnet.com/deals/july-4-early-deals-under-50-2026-06-30/"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://cdn.wccftech.com/wp-content/uploads/2022/12/cover-home-1.jpg",
         "title": "GTA 6 Could Skip 60 FPS Entirely, as Rockstar\u2019s Insane Detail Forces a 30 FPS Lock Even on PS5 Pro - Wccftech",
         "description": "",
         "source_link": "https://wccftech.com/gta-6-skip-60-fps-entirely-insane-detail-ps5-pro/"
       },
       {
-        "rank": 3,
-        "image": "https://assetsio.gnwcdn.com/Switch-2-screen_MK-World-gameplay.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "It sure looks like Nintendo is planning to upgrade the Switch 2's oft-criticised LCD screen - Eurogamer",
-        "description": "Following complaints about the quality of the Nintendo Switch 2's LCD screen, the entertainment giant could be looking at updating it.",
-        "source_link": "https://www.eurogamer.net/new-nintendo-switch-2-lcd-screen-rumours"
-      },
-      {
-        "rank": 4,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/iPhone-18-Pro-Drop-Test-1.jpg",
-        "title": "Apple's biggest leak in years shows the iPhone 18 Pro surviving a drop test - Android Authority",
-        "description": "A massive iPhone 18 Pro leak includes photos and videos of Apple's upcoming flagship undergoing internal durability testing.",
-        "source_link": "https://www.androidauthority.com/apple-iphone-18-pro-drop-test-video-images-leak-3682690/"
-      },
-      {
-        "rank": 5,
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F9%2F2%2F5%2F12665291-1-eng-GB%2F3e43c657895e-photo_SXM2026033000011157h.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=auto&width=1260&height=630",
-        "title": "China's Xiaomi, Oppo, Vivo cut 2026 smartphone targets again: sources - Nikkei Asia",
-        "description": "Rising costs and component shortages lead some brands to slash outlook by up to 30%",
-        "source_link": "https://asia.nikkei.com/business/technology/china-s-xiaomi-oppo-vivo-cut-2026-smartphone-targets-again-sources"
-      },
-      {
         "rank": 6,
-        "image": "https://media.eventhubs.com/images/2026/06/29-dead-alive-6-sales-negativet.webp",
-        "title": "Dead or Alive 6 sales reach 1 million copies while Last Round hits 'Mostly Negative' reviews on Steam for myriad of complaints - EventHubs",
-        "description": "After years of mostly silence, Koei Tecmo is now trying to bring back the Dead or Alive fighting games, but the way they're going about it is leaving many fans frustrated and scratching their heads.Koei Tecmo has revealed ...",
-        "source_link": "https://www.eventhubs.com/news/2026/jun/29/dead-alive-6-sales-negative/"
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/06/Nintendo-Switch-2-Hardware-Revision-New-LCD-Display-1920x1071.jpg",
+        "title": "Nintendo Switch 2 Owners Face a New Hardware Lottery, as Upgraded LCD Revision Could Split Buyers Into Winners and Losers - Wccftech",
+        "description": "A new Nintendo Switch 2 LCD panel leak points to a hardware revision potentially fixing the handheld's ghosting issues.",
+        "source_link": "https://wccftech.com/nintendo-switch-2-hardware-lottery-lcd-revision/"
       },
       {
         "rank": 7,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/fold-8-ultra-case-leak-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Samsung\u2019s Galaxy Z Fold 8 series colors look stunning as official cases leak [Gallery] - 9to5Google",
-        "description": "While we\u2019ve yet to get clean renders of the Galaxy Z Fold 8 series, a new leak shows off Samsung\u2019s...",
-        "source_link": "http://9to5google.com/2026/06/29/galaxy-z-fold-8-colors-leak-official-cases/"
+        "image": "https://assetsio.gnwcdn.com/state-of-decay-3-june-2026-screen-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Xbox is reportedly considering closing State of Decay developer Undead Labs - Eurogamer",
+        "description": "Having a promising project like State of Decay 3 in development is seemingly not enough to save Undead Labs from being shuttered, according to new reports.",
+        "source_link": "https://www.eurogamer.net/undead-labs-xbox-potential-closure-state-of-decay-3"
       },
       {
         "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Gmail-Live-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Gmail Live now in testing on Android and iOS - 9to5Google",
-        "description": "Following the announcement at I/O 2026 last month, Google is now testing Gmail Live on Android and iOS. This feature lets you...",
-        "source_link": "http://9to5google.com/2026/06/29/gmail-live-testing/"
-      },
-      {
-        "rank": 9,
-        "image": null,
-        "title": "How the Slinky became a classic American toy - ABC News - Breaking News, Latest News and Videos",
-        "description": null,
-        "source_link": "https://abcnews.com/GMA/Culture/slinky-classic-american-toy/story?id\\\\u003d134258070"
-      },
-      {
-        "rank": 10,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "What\u2019s new in Android\u2019s June 2026 Google System Updates [U] - 9to5Google",
-        "description": "The monthly \u201cGoogle System Release Notes\u201d primarily detail what\u2019s new in Play services, Play Store, and Play system update across...",
-        "source_link": "http://9to5google.com/2026/06/29/june-2026-google-system-updates/"
+        "image": "https://assetsio.gnwcdn.com/xbox-logo_OJRhRlL.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "CWA union says Xbox workers are not \"disposable\" as layoffs loom - GamesIndustry.biz",
+        "description": "\"The money is there. Leadership is simply choosing where it goes and who pays\"",
+        "source_link": "https://www.gamesindustry.biz/cwa-union-says-xbox-workers-are-not-disposable-as-layoffs-loom"
       }
     ],
     "trending_movies": [
@@ -97,45 +83,45 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
-        "title": "Supergirl",
-        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
-        "source_link": "https://www.themoviedb.org/movie/1081003"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
         "title": "Minions & Monsters",
         "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
         "source_link": "https://www.themoviedb.org/movie/1315772"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
         "title": "The Get Out",
         "description": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds him...",
         "source_link": "https://www.themoviedb.org/movie/1279493"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+        "title": "Supergirl",
+        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
+        "source_link": "https://www.themoviedb.org/movie/1081003"
+      },
+      {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+        "title": "Moana",
+        "description": "Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui on an unforget...",
+        "source_link": "https://www.themoviedb.org/movie/1108427"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
-      },
-      {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
-        "title": "Citizen Vigilante",
-        "description": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the loca...",
-        "source_link": "https://www.themoviedb.org/movie/1413976"
       },
       {
         "rank": 10,
