@@ -1,69 +1,76 @@
 {
-  "last_updated": "July 03, 2026, 17:20 UTC",
+  "last_updated": "July 03, 2026, 19:12 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Final-Fantasy-7-Revelation-DLC-story-expansion.jpg",
+        "title": "Final Fantasy 7 Revelation store page lists multiple DLCs, including story expansion - Nintendo Everything",
+        "description": "Last month, we reported that Final Fantasy 7 Revelation, the final chapter of the acclaimed trilogy that is set to launch on Nintendo Switch 2 in 2027, could receive DLC after release. While the game is still a long way off, new evidence has surfaced suggesti\u2026",
+        "source_link": "https://nintendoeverything.com/final-fantasy-7-revelation-store-page-lists-multiple-dlcs-including-story-expansion/"
+      },
+      {
+        "rank": 2,
         "image": "https://cdn.mos.cms.futurecdn.net/NpEjcBmEy4PUPgLshebQXe-1280-80.jpg",
         "title": "No, Xbox isn't shutting down Obsidian despite fresh rumors - Windows Central",
         "description": "Xbox's ongoing uncertainty has fueled fresh speculation, but reports suggest Obsidian remains safe despite the latest rumors.",
         "source_link": "https://www.windowscentral.com/gaming/xbox/no-xboxs-obsidian-studio-isnt-shutting-down-new-comments-dispute-closure-claims"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-battery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iPhone 18 Pro Max\u2019s huge battery size reportedly leaked - 9to5Mac",
+        "description": "A new report from Macworld based on social media leaks claims to know iPhone 18 Pro Max\u2019s exact battery capacity, and it seems impressive.",
+        "source_link": "https://9to5mac.com/2026/07/02/iphone-18-pro-maxs-huge-battery-size-reportedly-leaked/"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/07/ONTOS-Delay_07-02-26.jpg",
+        "title": "ONTOS delayed to 2027 - Gematsu",
+        "description": "Publisher Kepler Interactive and developer Frictional Games have delayed science-fiction mystery thriller ONTOS from its previously planned 2026 release window to 2027. It will be available for Pla\u2026",
+        "source_link": "https://www.gematsu.com/2026/07/ontos-delayed-to-2027"
+      },
+      {
+        "rank": 5,
+        "image": "https://assetsio.gnwcdn.com/Steam-Machine-Spec-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "\"Am I going back to PS4 days?\" - Former PlayStation leader Shuhei Yoshida has tried the Steam Machine, and he doesn't sound very impressed - Eurogamer.net",
+        "description": "Yoshida has a mixed opinion of Valve's new Steam Machine, which he has shared online.",
+        "source_link": "https://www.eurogamer.net/shuhei-yoshida-steam-machine"
+      },
+      {
+        "rank": 6,
+        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/07/FY26-Social-FPD_JUL_2_1920x1080-copy-24399b9c3dd284082d79.jpg",
+        "title": "Free Play Days \u2013 Call of Duty Black Ops 7, Diablo IV, Ikonei Island: An Earthlock Adventure, and More - XBOX Wire",
+        "description": "Xbox Game Pass Ultimate, Premium, and Essential members can enjoy Subnautica this weekend, while Project Motor Racing, One Piece: Pirate Warriors 4, and Graveyard Keeper are free for all Xbox users. Discover how to participate, keep your progress, and take ad\u2026",
+        "source_link": "https://news.xbox.com/en-us/2026/07/02/free-play-days-07-02-2026/"
+      },
+      {
+        "rank": 7,
         "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
         "title": "Apple Eyes 10 Million Foldable iPhones in Major Expansion Move - Yahoo Finance",
         "description": "Apple's Foldable iPhone Strategy Just Got Bigger as Production Forecast Jumps",
         "source_link": "https://finance.yahoo.com/markets/stocks/articles/apple-eyes-10-million-foldable-135339191.html"
       },
       {
-        "rank": 3,
+        "rank": 8,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/664373804e8820ac8d733cf2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "Strong Northern Lights Forecast: These 9 States Could See The Aurora Thursday - Forbes",
+        "description": "Forecasters expect a coronal mass ejection and a powerful X-class solar flare could impact the Earth starting on Thursday.",
+        "source_link": "https://www.forbes.com/sites/zacharyfolk/2026/07/02/northern-lights-forecast-aurora-could-be-visible-in-northern-states-today-days-after-powerful-x-class-solar-flare/"
+      },
+      {
+        "rank": 9,
         "image": "https://substackcdn.com/image/fetch/$s_!Bzdg!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F204595126%2F6505c1d4-afa8-47c4-bdf5-fafa465e4da3%2Ftranscoded-1782994974.png",
         "title": "Xbox divided over its future, and do people even buy physical PlayStation games? - The Game Business",
         "description": "Plus, we\u2019re joined by Midwest Games CEO Ben Kvalo to discuss a flexible future for game publishing",
         "source_link": "https://www.thegamebusiness.com/p/xbox-divided-over-its-future-and"
       },
       {
-        "rank": 4,
-        "image": "https://kotaku.com/app/uploads/2025/11/Steam-Machine-Alt.jpg",
-        "title": "PlayStation Veteran Gives A Harsh Review Of The Steam Machine: \u2018Am I Going Back To PS4 Days?\u2019 - Kotaku",
-        "description": "Shuhei Yoshida had good and not so good things to say about Valve's new gaming PC",
-        "source_link": "https://kotaku.com/playstation-veteran-gives-a-harsh-review-of-the-steam-machine-am-i-going-back-to-ps4-days-2000712230"
-      },
-      {
-        "rank": 5,
+        "rank": 10,
         "image": "https://imageio.forbes.com/specials-images/imageserve/6a465f41f41a28087f7e994f/0x0.jpg?format=jpg&crop=2562,1440,x435,y0,safe&height=900&width=1600&fit=bounds",
         "title": "\u2018Destiny 2\u2019 Is Now Permanently Disabling Gear It Can\u2019t Patch - Forbes",
         "description": "Destiny 2 has limited options to fixing issues with the game with just one hotfix left. So it is starting to permanently disable things.",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/07/02/destiny-2-is-now-permanently-disabling-gear-it-cant-patch/"
-      },
-      {
-        "rank": 6,
-        "image": "https://assetsio.gnwcdn.com/onimusha-way-of-the-sword-gameplay-screen-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Capcom pushes forward Onimusha: Way of the Sword release date just days after devs stated they're not afraid of September's busy schedule - Eurogamer.net",
-        "description": "We'll be playing Onimusha: Way of the Sword earlier than we thought, after all.",
-        "source_link": "https://www.eurogamer.net/onimusha-way-of-the-sword-new-release-date"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/Check-out-all-the-winning-shots-in-the-2026-iPhone-Photography-Awards.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Check out all the winning shots in the 2026 iPhone Photography Awards - 9to5Mac",
-        "description": "The iPhone Photography Awards competition has been running now for 19 years, and the 2026 winners have just been announced....",
-        "source_link": "https://9to5mac.com/2026/07/02/check-out-all-the-winning-shots-in-the-2026-iphone-photography-awards/"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.digitalfoundry.net/825c98c152960/large.jpg",
-        "title": "Report: Xbox Disc-to-Digital Feature in Testing, Microsoft \"Likely\" to Stop Disc Production Too - Digital Foundry",
-        "description": "Both Sony and Microsoft look ready to drop disc drives from their next-gen consoles.",
-        "source_link": "https://www.digitalfoundry.net/news/2026/07/report-xbox-disc-to-digital-feature-in-testing-microsoft-likely-to-stop-disc-production-too"
-      },
-      {
-        "rank": 9,
-        "image": "https://media.wired.com/photos/6a39b04cb817861918a9c777/191:100/w_1280,c_limit/Meta%20Fury%20SOURCE%20Julian%20Chokkattu.jpg",
-        "title": "Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech - WIRED",
-        "description": "You bought the hardware. Now you\u2019ll need to subscribe for \u201cexpanded access\u201d to the most advanced features.",
-        "source_link": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/"
       }
     ],
     "trending_movies": [
@@ -83,17 +90,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-        "title": "Minions & Monsters",
-        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
-        "source_link": "https://www.themoviedb.org/movie/1315772"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
         "title": "The Devil Wears Prada 2",
         "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
         "source_link": "https://www.themoviedb.org/movie/1314481"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+        "title": "Minions & Monsters",
+        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
+        "source_link": "https://www.themoviedb.org/movie/1315772"
       },
       {
         "rank": 5,
@@ -104,17 +111,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-        "title": "Moana",
-        "description": "Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui on an unforget...",
-        "source_link": "https://www.themoviedb.org/movie/1108427"
+        "image": "https://image.tmdb.org/t/p/w200/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+        "title": "Citizen Vigilante",
+        "description": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the loca...",
+        "source_link": "https://www.themoviedb.org/movie/1413976"
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
+        "image": "https://image.tmdb.org/t/p/w200/fiqScwDv0FSQlMtIJxzPi9Xz78T.jpg",
+        "title": "Man of War",
+        "description": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her...",
+        "source_link": "https://www.themoviedb.org/movie/1705729"
       },
       {
         "rank": 8,
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
-        "title": "Supergirl",
-        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
-        "source_link": "https://www.themoviedb.org/movie/1081003"
+        "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+        "title": "Evil Dead Burn",
+        "description": "After the loss of her husband, a woman seeks solace with her in-laws. As one by one they transform into deadites, she comes to discover that the vows ...",
+        "source_link": "https://www.themoviedb.org/movie/1212763"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
+        "image": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+        "title": "Moana",
+        "description": "Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui on an unforget...",
+        "source_link": "https://www.themoviedb.org/movie/1108427"
       }
     ]
   }
