@@ -1,76 +1,69 @@
 {
-  "last_updated": "July 04, 2026, 12:03 UTC",
+  "last_updated": "July 04, 2026, 14:25 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_44382.png?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
+        "title": "Jon Prosser responds to Apple lawsuit by blaming the other guy - The Verge",
+        "description": "YouTuber Jon Prosser has finally filed a formal response to Apple\u2019s lawsuit made against him and another defendant over allegedly stealing iOS secrets.",
+        "source_link": "https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak"
+      },
+      {
+        "rank": 2,
+        "image": null,
+        "title": "Best Fourth of July Deals Under $50 on Ninja, Anker and Samsung - cnet.com",
+        "description": null,
+        "source_link": "https://www.cnet.com/deals/july-4-deals-under-50-2026-07-03/"
+      },
+      {
+        "rank": 3,
+        "image": "https://assetsio.gnwcdn.com/PS5-rafal-jedrzejek-unsplash.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "\"We are profoundly disappointed by Sony's decision\" \u2013 Game companies express dismay at the end of PlayStation disc production - GamesIndustry.biz",
+        "description": "Atari, Iam8bit, Lost in Cult, and Silver Linings Interactive are among the firms lamenting the loss of physical games",
+        "source_link": "https://www.gamesindustry.biz/we-are-profoundly-disappointed-by-sonys-decision-game-companies-express-dismay-at-the-end-of-playstation-disc-production"
+      },
+      {
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/OxygenOS-16-logo-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Report claims OxygenOS and Realme UI set to be discontinued - 9to5Google",
+        "description": "The woes for OnePlus continue as a new report suggests that OxygenOS is being discontinued alongside Realme UI.",
+        "source_link": "http://9to5google.com/2026/07/03/report-claims-oxygenos-and-realme-ui-set-to-be-discontinued/"
+      },
+      {
+        "rank": 5,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/wing4_title.jpg",
+        "title": "Wing Commander IV and the FMV future that never quite was - Ars Technica",
+        "description": "ArsGames takes a look at the time Chris Roberts more or less made a whole movie.",
+        "source_link": "https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/"
+      },
+      {
+        "rank": 6,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/Google-Pixel-7-Pro-Moto-G-Power-Galaxy-A56-scaled.jpg",
+        "title": "If you still own one of these 6 popular Android phones, it's probably time to upgrade - Android Authority",
+        "description": "Holding onto an old Android phone from Samsung, Google, or Motorola? It might be time to finally give in and upgrade.",
+        "source_link": "https://www.androidauthority.com/old-android-phones-worth-upgrading-2026-3681922/"
+      },
+      {
+        "rank": 7,
+        "image": "https://assets-prd.ignimgs.com/2026/06/24/ac4-resynced-biggestchanges-br-1782310153778.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Assassin's Creed Black Flag Resynced Global Release and Preload Times Confirmed - IGN",
+        "description": "Assassin's Creed Black Flag Resynced publisher Ubisoft has confirmed the game's global release and preload times.",
+        "source_link": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-global-release-and-preload-times-confirmed"
+      },
+      {
+        "rank": 8,
         "image": "https://images.digitalfoundry.net/1dd11b5f89249/large.jpg",
         "title": "Early Steam Machine user mourns \"red line of death\" following GPU failure - Digital Foundry",
         "description": "\"Pretty cool for the 20 minutes that it worked\".",
         "source_link": "https://www.digitalfoundry.net/news/2026/07/early-steam-machine-user-mourns-red-line-of-death-following-gpu-failure"
       },
       {
-        "rank": 2,
-        "image": "https://assetsio.gnwcdn.com/sad-kratos.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Sony has already started repurposing its lone PlayStation disc factory, and the body of physical gaming isn't even cold - Eurogamer.net",
-        "description": "The Sony disc-making operation is already planning to retrain its 300 employees to make microlenses.",
-        "source_link": "https://www.eurogamer.net/sony-playstation-disc-factory-repurposed"
-      },
-      {
-        "rank": 3,
-        "image": "https://ychef.files.bbci.co.uk/624x351/p0nwc51l.jpg",
-        "title": "News of disease outbreaks can warp our brains in strange and subtle ways - BBC",
-        "description": "The \"behavioural immune system\" can drive harsher moral judgement and may even contribute to xenophobia.",
-        "source_link": "https://www.bbc.com/future/article/20260702-ebola-and-hantavirus-how-fear-of-infection-warps-our-psychology"
-      },
-      {
-        "rank": 4,
-        "image": "https://images.macrumors.com/t/uiwYjKQfINRDAMaflgPT3jZiK1o=/2500x/article-new/2024/12/General-YouTube-Feature-Redux.jpg",
-        "title": "Apple Responds to Lawsuit Filed by Three YouTube Channels - MacRumors",
-        "description": "Earlier this year, three YouTube channels sued Apple, alleging that the company violated the U.S. Digital Millennium Copyright Act (DMCA) by...",
-        "source_link": "https://www.macrumors.com/2026/07/02/apple-responds-to-youtuber-ai-lawsuit/"
-      },
-      {
-        "rank": 5,
-        "image": "https://images.nintendolife.com/82c178da87a40/large.jpg",
-        "title": "Splatoon Raiders Demo Now Available At Switch 2 Kiosks (North America) - Nintendo Life",
-        "description": "Splashing news",
-        "source_link": "https://www.nintendolife.com/news/2026/07/splatoon-raiders-demo-now-available-at-switch-2-kiosks-north-america"
-      },
-      {
-        "rank": 6,
-        "image": "https://insider-gaming.com/wp-content/uploads/2025/12/PlayStation-Plus-2025.jpg",
-        "title": "Sony Discusses Potential Future PlayStation Plus Price Hikes - Insider Gaming",
-        "description": "Sony says it continues to balance value and pricing for PlayStation Plus, addressing the possibility of future subscription increases.",
-        "source_link": "https://insider-gaming.com/sony-discusses-potential-future-playstation-plus-price-hikes/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/ios27-scam-alert.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iOS 27 helps apps detect when a user may be getting scammed in real time - 9to5Mac",
-        "description": "A new iOS 27 framework will help apps fight back against social engineering scams as they unfold via voice calls, text messages, emails, and more.",
-        "source_link": "https://9to5mac.com/2026/07/02/ios-27-helps-apps-detect-when-a-user-may-be-getting-scammed-in-real-time/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.investors.com/wp-content/uploads/2026/07/stock-Take-Two-GTA-company.jpg",
-        "title": "'Grand Theft Auto 6' Video Game Sales Off To Strong Start - Investor's Business Daily",
-        "description": "Sales of video game \"Grand Theft Auto 6\" from Take-Two Interactive Software appear to be off to a strong start. TTWO stock rose Thursday.",
-        "source_link": "https://www.investors.com/news/technology/ttwo-stock-gta-6-sales-off-to-strong-start/"
-      },
-      {
         "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2026/07/gta6-yikes-1200x675.jpg",
-        "title": "One Chart Shows Just How Unaffordable Playing The Next GTA Has Become - Kotaku",
-        "description": "Even if you factor in inflation, buying GTA 6 and a new PS5 is the most pricey way to play in the franchise's history",
-        "source_link": "https://kotaku.com/this-is-the-most-expensive-its-ever-been-to-buy-a-new-gta-and-a-playstation-to-play-it-on-2000712281"
-      },
-      {
-        "rank": 10,
-        "image": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-        "title": "Apple's Foldable iPhone Push Gets Bigger - Yahoo Finance",
-        "description": "Suppliers reportedly preparing higher production volume.",
-        "source_link": "https://finance.yahoo.com/technology/articles/apples-foldable-iphone-push-gets-191639066.html"
+        "image": "https://www.videogameschronicle.com/files/2024/01/Suicide-Squad_-Kill-the-Justice-League_20240130204903.jpg",
+        "title": "Suicide Squad development felt \u2018like I wasn\u2019t making games anymore,\u2019 says director - Video Games Chronicle",
+        "description": "Suicide Squad: Kill the Justice League director Axel Rydby shares his experience of working on the doomed live-service.",
+        "source_link": "https://www.videogameschronicle.com/news/suicide-squad-development-felt-like-i-wasnt-making-games-anymore-says-director/"
       }
     ],
     "trending_movies": [
@@ -90,52 +83,52 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-        "title": "The Devil Wears Prada 2",
-        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
-        "source_link": "https://www.themoviedb.org/movie/1314481"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
-        "title": "Man of War",
-        "description": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her...",
-        "source_link": "https://www.themoviedb.org/movie/1705729"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
         "title": "Minions & Monsters",
         "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
         "source_link": "https://www.themoviedb.org/movie/1315772"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
       },
       {
-        "rank": 7,
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
+        "title": "Man of War",
+        "description": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her...",
+        "source_link": "https://www.themoviedb.org/movie/1705729"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-        "title": "Moana",
-        "description": "Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui on an unforget...",
-        "source_link": "https://www.themoviedb.org/movie/1108427"
-      },
-      {
-        "rank": 9,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+        "title": "Supergirl",
+        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
+        "source_link": "https://www.themoviedb.org/movie/1081003"
       },
       {
         "rank": 10,
