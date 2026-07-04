@@ -1,76 +1,69 @@
 {
-  "last_updated": "July 04, 2026, 19:03 UTC",
+  "last_updated": "July 04, 2026, 20:51 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/cms/news.9/239263/img-6917.jpeg",
+        "title": "Danganronpa 2x2 Game Reveals \u2018Slayhem\u2019 Title for New Scenario, Delay to Early 2027 - Anime News Network",
+        "description": "New alternate \u201cSlayhem\u201d scenario to be about 35 hours long",
+        "source_link": "https://www.animenewsnetwork.com/news/2026-07-03/danganronpa-2x2-game-reveals-lsquo-slayhem-rsquo-title-for-new-scenario-delay-to-early-2027/.239263"
+      },
+      {
+        "rank": 2,
+        "image": "https://media.dcrainmaker.com/images/2026/07/FinalThumbnail1.jpg",
+        "title": "Oura Ring 5 In-Depth Review: Smaller yes, but still worth it? - DC Rainmaker",
+        "description": "The Oura Ring 5 In-Depth Review, covering accuracy, new features, size comparisons, and plenty more. I dive into whether or not it's worth it.",
+        "source_link": "https://www.dcrainmaker.com/2026/07/oura-ring-5-in-depth-review-comparison.html"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.motor1.com/images/mgl/jlW1Ql/s1/ferrari-12cilindri-manuale.jpg",
+        "title": "Ferrari Finally Brought Back The Manual\u2014Sort Of - Motor1.com",
+        "description": "The new Ferrari 12Cilindri Manuale is a special trim with a gearbox that offers both manual and automatic driving modes.",
+        "source_link": "https://www.motor1.com/news/800495/ferrari-12cilindri-manual/"
+      },
+      {
+        "rank": 4,
         "image": "https://www.pokebeach.com/news/2026/07/me05-promo-169-en.jpg",
         "title": "\"Pitch Black\" Store Promos Revealed with Special 30th Anniversary Stamps! - PokeBeach",
         "description": "The store promos for\u00a0Pitch Black have now been revealed -- Primarina, Zarude, and Armarouge! As usual, you'll need to spend $15 or more on Pokemon",
         "source_link": "https://www.pokebeach.com/2026/07/pitch-black-store-promos-revealed-with-special-30th-anniversary-stamps"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://imageio.forbes.com/specials-images/imageserve/6a47ddb769ff49f48681a742/0x0.jpg?format=jpg&crop=2562,1440,x435,y0,safe&height=900&width=1600&fit=bounds",
         "title": "\u2018Destiny 2\u2019 Players Discover Hugely Overpowered Armor Set Before Closure - Forbes",
         "description": "Destiny 2 has a new, overpowered armor set it has just introduced, but it is too late for Bungie to patch it before Destiny stops getting updates.",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/07/03/destiny-2-players-discover-hugely-overpowered-armor-set-before-closure/"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://images.macrumors.com/t/PeEXCl2WWdKyHqei1lMVhyyE0_Y=/2500x/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+        "title": "Apple Already Testing iOS 27.4 - MacRumors",
+        "description": "Apple's software engineers recently began testing iOS 27.4, according to the MacRumors visitor logs.  Fun fact: Apple tests the \"fall\"...",
+        "source_link": "https://www.macrumors.com/2026/07/03/apple-already-testing-ios-27-4/"
+      },
+      {
+        "rank": 7,
         "image": "https://kotaku.com/app/uploads/2026/07/indiepenance250-2-1200x675.jpg",
         "title": "10 More Amazing Indie Games To Wishlist This Indie-Penance Day - Kotaku",
         "description": "An exquisite array of games of every type, packed with invention and originality",
         "source_link": "https://kotaku.com/indie-penance-day-indie-games-steam-wishlist-deckbuilder-4x-2000712495"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://www.trueachievements.com/imgs/176561/free-xbox-game-with-easy-achievements-now-available-from-microsoft-store.jpg",
         "title": "Free Xbox game with easy achievements now available on Microsoft Store - TrueAchievements",
         "description": "The Legend of Fireball is a new idle game that is now free on Xbox and has easy achievements that you can complete in around an hour.",
         "source_link": "https://www.trueachievements.com/news/the-legend-of-fireball-free-xbox-game-easy-achievements"
       },
       {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/godox1.jpg?quality=90&strip=all&crop=0%2C10.742615643625%2C100%2C78.514768712751&w=1200",
-        "title": "This slim camera has a transparent LCD screen for a viewfinder - The Verge",
-        "description": "\ufeffThe Godox C100 skips a color preview screen for a multi-function viewfinder that can double as a light meter.",
-        "source_link": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen"
-      },
-      {
-        "rank": 6,
+        "rank": 9,
         "image": "https://assets-prd.ignimgs.com/2026/07/03/gettyimages-2257874242-1783088289737.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Nintendo Speaking With The Pok\u00e9mon Company Over Widespread Card Scalping 'Issue' - IGN",
         "description": "Nintendo's president has been asked to address the current state of Pok\u00e9mon card shortages and scalping, which many fans feel is worse than ever, despite 10 billion cards being printed last year.",
         "source_link": "https://www.ign.com/articles/nintendo-president-says-the-pokemon-company-will-take-measures-to-respond-to-widespread-card-scalping-issues"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.cnet.com/a/img/resize/3c11840803ffab8a510d37d43dd82b187725ae89/hub/2026/07/01/777af715-7a92-4a53-bccc-90554a3fa358/july-4-under-50-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Best Fourth of July Deals Under $50 on Ninja, Anker and Samsung - cnet.com",
-        "description": "We've rounded up almost 100 deals on tech, home essentials and more that won't break the bank.",
-        "source_link": "https://www.cnet.com/deals/july-4-deals-under-50-2026-07-03/"
-      },
-      {
-        "rank": 8,
-        "image": "https://assets-prd.ignimgs.com/2026/06/10/halothumb-1781104289843.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Xbox Is Highlighting That Halo: Campaign Evolved Will Have a Physical Game Case and Disc - IGN",
-        "description": "Microsoft is using the fact that Halo: Campaign Evolved will offer a physical game disc in its box as a selling point.",
-        "source_link": "https://www.ign.com/articles/after-sony-kills-ps5-discs-and-gta-6-is-just-a-code-in-a-box-xbox-is-using-halo-campaign-evolveds-physical-disc-as-a-selling-point"
-      },
-      {
-        "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/jackie-cyberpunk.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Cyberpunk 2077 passes another extraordinary sales milestone as CD Projekt Red hails \"the incredible, lasting strength\" of the game - Eurogamer.net",
-        "description": "Yes, the launch was bad, but the success of CDPR's retro-futuristic RPG is undeniable.",
-        "source_link": "https://www.eurogamer.net/cyberpunk-2077-sales-total-cd-projekt-red"
-      },
-      {
-        "rank": 10,
-        "image": "https://assetsio.gnwcdn.com/PS5-rafal-jedrzejek-unsplash.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "\"We are profoundly disappointed by Sony's decision\" \u2013 Game companies express dismay at the end of PlayStation disc production - GamesIndustry.biz",
-        "description": "Atari, Iam8bit, Lost in Cult, and Silver Linings Interactive are among the firms lamenting the loss of physical games",
-        "source_link": "https://www.gamesindustry.biz/we-are-profoundly-disappointed-by-sonys-decision-game-companies-express-dismay-at-the-end-of-playstation-disc-production"
       }
     ],
     "trending_movies": [
@@ -83,66 +76,66 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-        "title": "The Devil Wears Prada 2",
-        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
-        "source_link": "https://www.themoviedb.org/movie/1314481"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/7kRYHH9H9PjBFwz1FprbHB2AAjI.jpg",
         "title": "Enola Holmes 3",
         "description": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous c...",
         "source_link": "https://www.themoviedb.org/movie/1202033"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
         "title": "Man of War",
         "description": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her...",
         "source_link": "https://www.themoviedb.org/movie/1705729"
       },
       {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
-        "title": "Citizen Vigilante",
-        "description": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the loca...",
-        "source_link": "https://www.themoviedb.org/movie/1413976"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-        "title": "Minions & Monsters",
-        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
-        "source_link": "https://www.themoviedb.org/movie/1315772"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
-        "rank": 10,
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+        "title": "Minions & Monsters",
+        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
+        "source_link": "https://www.themoviedb.org/movie/1315772"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
         "title": "Project Hail Mary",
         "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
         "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+        "title": "Supergirl",
+        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
+        "source_link": "https://www.themoviedb.org/movie/1081003"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+        "title": "Moana",
+        "description": "Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui on an unforget...",
+        "source_link": "https://www.themoviedb.org/movie/1108427"
       }
     ]
   }
