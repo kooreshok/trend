@@ -1,76 +1,76 @@
 {
-  "last_updated": "July 05, 2026, 12:11 UTC",
+  "last_updated": "July 05, 2026, 14:28 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.cnet.com/a/img/resize/786454d49b5d858d6b0030ff14b584322ed807b6/hub/2026/07/02/918795a2-239e-4945-9a46-b03b007901b0/sony-reon-pocket-pro-plus-9.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "I Got a First Look at Sony\u2019s Cooling Neck Device, Just in Time for the Heat Wave - CNET",
+        "description": "Sony's Japanese Reon Pocket Pro Plus is now shipping in the US. These are my thoughts after days of testing.",
+        "source_link": "https://www.cnet.com/health/personal-care/i-got-first-look-sony-cooling-neck-device-in-time-heat-wave/"
+      },
+      {
+        "rank": 2,
+        "image": "https://helios-i.mashable.com/imagery/articles/063DeB3b9IX682TrlCk6tXS/hero-image.fill.size_1200x675.v1782961372.jpg",
+        "title": "Cancel ChatGPT and get lifetime access to Claude, Gemini, and more for $55.30 with this code - Mashable",
+        "description": "No monthly subscription fees, and it'll even let you send one prompt to multiple AI models.",
+        "source_link": "https://mashable.com/tech/july-4-chatplayground-ai-unlimited-plan-lifetime-subscriptions"
+      },
+      {
+        "rank": 3,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG20260703155425.jpeg?quality=90&strip=all&crop=0%2C28.891819371728%2C100%2C69.808027923211&w=1200",
         "title": "Qi fan fan - The Verge",
         "description": "Active cooling really works as demonstrated on a Kuxiu D5 \u00a0Qi2.2 charging dock. Useful at Qi 25W, it\u2019ll likely be required for QI 50W.",
         "source_link": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "image": "https://cdn.mos.cms.futurecdn.net/Dx6nbFKLHe5h5XVG9KrzpY-1100-80.jpg",
+        "title": "From Nintendo to KFC, how brands reacted to the PlayStation disc controversy - Creative Bloq",
+        "description": "Brands have expressed a mix of parody and outrage.",
+        "source_link": "https://www.creativebloq.com/design/branding/from-nintendo-to-kfc-how-brands-reacted-to-the-playstation-disc-controversy"
+      },
+      {
+        "rank": 5,
+        "image": "https://cdn.mos.cms.futurecdn.net/ytF8KbYZAwcDcuy2uiib3n-1547-80.jpg",
+        "title": "A MAJOR change is afoot at Xbox's Arkane Studios and MachineGames - Windows Central",
+        "description": "MachineGames Studio Director and co-founder Jerk Gustafsson is seemingly taking over leadership of Arkane from the latter's president.",
+        "source_link": "https://www.windowscentral.com/gaming/xbox/change-is-afoot-at-xboxs-arkane-studios-and-machinegames-with-machines-co-founder-taking-over-arkanes-operations"
+      },
+      {
+        "rank": 6,
+        "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
+        "title": "The only AI glossary you\u2019ll need this year - TechCrunch",
+        "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "source_link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+      },
+      {
+        "rank": 7,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/07/airpods-ultra-suspended/-952x498w6/gsmarena_000.jpg",
+        "title": "Apple has reportedly suspended the development of the AirPods Ultra - GSMArena.com news - GSMArena.com",
+        "description": "Even so, they could still presumably be launched late next year. For quite a while now we\u2019ve been hearing rumors about an upcoming pair of AirPods that...",
+        "source_link": "https://www.gsmarena.com/apple_has_reportedly_suspended_the_development_of_the_airpods_ultra-news-73567.php"
+      },
+      {
+        "rank": 8,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Square-Enix-Nintendo-Switch-2-Switch-sale-Final-Fantasy-Dragon-Quest.jpg",
+        "title": "Square Enix just kicked off its biggest Nintendo Switch 2 and Switch sale ever with massive discounts for Final Fantasy, Dragon Quest, more - Nintendo Everything",
+        "description": "Square Enix has a massive Nintendo Switch 2 and Switch sale running featuring Final Fantasy, Dragon Quest, and more - here's the full list.",
+        "source_link": "https://nintendoeverything.com/square-enix-just-kicked-off-its-biggest-nintendo-switch-2-and-switch-sale-ever-with-massive-discounts-for-final-fantasy-dragon-quest-more/"
+      },
+      {
+        "rank": 9,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6945a6b3e5c989d44db1888d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "Apple Loop: iPhone 18 Pro Pre-Order Dates, New iPad Pro Details, iPhone 16e Special Offers - Forbes",
+        "description": "This week\u2019s Apple headlines: iPhone 18 Pro pre-orders, Apple's significant data leak, iOS 27 dates, new iPad Pro and MacBook Pro details, refurbished iPhone 16e and more...",
+        "source_link": "https://www.forbes.com/sites/ewanspence/2026/07/03/apple-news-headlines-iphone-18-pro-preorder-dates-new-ipad-pro-macbook-pro/"
+      },
+      {
+        "rank": 10,
         "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-z-fold8-fold8-ultra-flip8-prices/-952x498w6/gsmarena_000.jpg",
         "title": "Samsung Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch9, Watch Ultra 2 prices leak - GSMArena.com news - GSMArena.com",
         "description": "The motherlode is here. Samsung is widely expected to unveil the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, Galaxy Z Flip8, Galaxy Watch9, and Galaxy Watch...",
         "source_link": "https://www.gsmarena.com/samsung_galaxy_z_fold8_fold8_ultra_flip8_watch9_watch_ultra_2_prices_leak-news-73569.php"
-      },
-      {
-        "rank": 3,
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggOXDckpE46PYIzBnXsx_kyHzFvlcB3l8qEr6feRNBhRQMKc2p5r2pQArl-NrsoB2z6vE917nXVHpuuMZOgZcRDMlwbVYC0ocK3uIsb-h59qed_kuvDKwvukQCAs-VDcE5Ail8mTRSPpnNfrPzKv5oAMQ9fJCDNE_2PpPrN9a9mOwGUIs0TnWq6_r58HM/s1600/root-linux.gif",
-        "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android - The Hacker News",
-        "description": "Bad Epoll (CVE-2026-46242) is a use-after-free race in the Linux kernel that lets a local user gain root on Linux and Android. A patch is out; update",
-        "source_link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html"
-      },
-      {
-        "rank": 4,
-        "image": "https://images.macrumors.com/t/UEZCUOG8YOUhjIDEsGIoroluUAw=/1950x/article-new/2025/09/iphone-17-ceramic-shield.jpg",
-        "title": "iPhone 18 With 9GB RAM Still Won't Support Two New iOS 27 Features - MacRumors",
-        "description": "The lower-end iPhone 18 and iPhone 18e will be equipped with 9GB of RAM, up from 8GB in the iPhone 17 and iPhone 17e, according to supply chain...",
-        "source_link": "https://www.macrumors.com/2026/07/03/iphone-18-wont-support-two-ios-27-features/"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/cms/news.9/239263/img-6917.jpeg",
-        "title": "Danganronpa 2x2 Game Reveals \u2018Slayhem\u2019 Title for New Scenario, Delay to Early 2027 - Anime News Network",
-        "description": "New alternate \u201cSlayhem\u201d scenario to be about 35 hours long",
-        "source_link": "https://www.animenewsnetwork.com/news/2026-07-03/danganronpa-2x2-game-reveals-lsquo-slayhem-rsquo-title-for-new-scenario-delay-to-early-2027/.239263"
-      },
-      {
-        "rank": 6,
-        "image": "https://media.dcrainmaker.com/images/2026/07/FinalThumbnail1.jpg",
-        "title": "Oura Ring 5 In-Depth Review: Smaller yes, but still worth it? - DC Rainmaker",
-        "description": "The Oura Ring 5 In-Depth Review, covering accuracy, new features, size comparisons, and plenty more. I dive into whether or not it's worth it.",
-        "source_link": "https://www.dcrainmaker.com/2026/07/oura-ring-5-in-depth-review-comparison.html"
-      },
-      {
-        "rank": 7,
-        "image": "https://cdn.motor1.com/images/mgl/jlW1Ql/s1/ferrari-12cilindri-manuale.jpg",
-        "title": "Ferrari Finally Brought Back The Manual\u2014Sort Of - Motor1.com",
-        "description": "The new Ferrari 12Cilindri Manuale is a special trim with a gearbox that offers both manual and automatic driving modes.",
-        "source_link": "https://www.motor1.com/news/800495/ferrari-12cilindri-manual/"
-      },
-      {
-        "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/amazonfirehd.jpg?quality=90&strip=all&crop=0%2C10.704591657108%2C100%2C78.590816685784&w=1200",
-        "title": "Amazon quietly updated 2023\u2019s Fire HD 10 tablet with 4GB of RAM - The Verge",
-        "description": "The 32GB model is now available with a bump from 3GB to 4GB of RAM with a small price increase.",
-        "source_link": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update"
-      },
-      {
-        "rank": 9,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a47ddb769ff49f48681a742/0x0.jpg?format=jpg&crop=2562,1440,x435,y0,safe&height=900&width=1600&fit=bounds",
-        "title": "\u2018Destiny 2\u2019 Players Discover Hugely Overpowered Armor Set Before Closure - Forbes",
-        "description": "Destiny 2 has a new, overpowered armor set it has just introduced, but it is too late for Bungie to patch it before Destiny stops getting updates.",
-        "source_link": "https://www.forbes.com/sites/paultassi/2026/07/03/destiny-2-players-discover-hugely-overpowered-armor-set-before-closure/"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.pushsquare.com/654359545db99/large.jpg",
-        "title": "This Backrooms Game Outsold Every PS5 Title on PS Store Last Month - Push Square",
-        "description": "You can thank the movie for that",
-        "source_link": "https://www.pushsquare.com/news/2026/07/this-backrooms-game-outsold-every-ps5-title-on-ps-store-last-month"
       }
     ],
     "trending_movies": [
@@ -97,45 +97,45 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
-        "title": "The Devil Wears Prada 2",
-        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
-        "source_link": "https://www.themoviedb.org/movie/1314481"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
         "title": "Minions & Monsters",
         "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
         "source_link": "https://www.themoviedb.org/movie/1315772"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
-        "title": "Man of War",
-        "description": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her...",
-        "source_link": "https://www.themoviedb.org/movie/1705729"
-      },
-      {
-        "rank": 9,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
         "title": "Supergirl",
         "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
         "source_link": "https://www.themoviedb.org/movie/1081003"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
+        "title": "Man of War",
+        "description": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her...",
+        "source_link": "https://www.themoviedb.org/movie/1705729"
       },
       {
         "rank": 10,
