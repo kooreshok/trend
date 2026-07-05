@@ -1,76 +1,76 @@
 {
-  "last_updated": "July 05, 2026, 14:28 UTC",
+  "last_updated": "July 05, 2026, 16:03 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260702-4th-of-july-sale-2-mm-main-4b52a2.jpg",
+        "title": "The best 4th of July sales worth shopping right now: Save up to 70% on Apple, Yeti and more - NBC News",
+        "description": "The best 4th of July sales are happening now. Our editors found worthwhile deals on Apple, Yeti, Medicube and more.",
+        "source_link": "https://www.nbcnews.com/select/shopping/best-4th-of-july-sales-deals-2026-rcna352871"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.newser.com/image/1696204-12-20260704074002.jpeg",
+        "title": "Why Video Games Cost So Much More Now - Newser",
+        "description": "Ballooning development budgets, digital trends are driving higher game, console prices",
+        "source_link": "https://www.newser.com/story/391772/why-video-games-cost-so-much-more-now.html"
+      },
+      {
+        "rank": 3,
+        "image": "https://media.wired.com/photos/6a4648c1a27d0fa93c83a1c7/191:100/w_1280,c_limit/070226_iPhone-Dum-Phone.jpg",
+        "title": "This Buried Apple Feature Turns an iPhone Into the Perfect Kids\u2019 Dumb Phone - WIRED",
+        "description": "Apple built a tool for people with cognitive disabilities, but I accidentally discovered it\u2019s also the best kids\u2019 phone setup no one is talking about\u2014not even Apple.",
+        "source_link": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/nostalgicpod-running-on-android-phone-scaled.jpg",
+        "title": "I turned my old Android phone into an iPod Classic for $5, and I couldn't be happier - Android Authority",
+        "description": "NostalgicPod promises to turn your Android phone into a modern-day iPod. I tried it out for myself, and I absolutely love it.",
+        "source_link": "https://www.androidauthority.com/turned-android-phone-into-ipod-nostalgicpod-hands-on-3682104/"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/06/stario-launcher-android-launcher-2.jpg",
+        "title": "This gorgeous Android launcher is basically dead \u2014 and it\u2019s all Google\u2019s fault - Android Authority",
+        "description": "Stario Launcher is among the most promising Android launchers I've used, but Google's incoming app and developer policies have killed it off.",
+        "source_link": "https://www.androidauthority.com/stario-launcher-hands-on-dead-google-fault-3682817/"
+      },
+      {
+        "rank": 6,
         "image": "https://www.cnet.com/a/img/resize/786454d49b5d858d6b0030ff14b584322ed807b6/hub/2026/07/02/918795a2-239e-4945-9a46-b03b007901b0/sony-reon-pocket-pro-plus-9.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "I Got a First Look at Sony\u2019s Cooling Neck Device, Just in Time for the Heat Wave - CNET",
         "description": "Sony's Japanese Reon Pocket Pro Plus is now shipping in the US. These are my thoughts after days of testing.",
         "source_link": "https://www.cnet.com/health/personal-care/i-got-first-look-sony-cooling-neck-device-in-time-heat-wave/"
       },
       {
-        "rank": 2,
+        "rank": 7,
         "image": "https://helios-i.mashable.com/imagery/articles/063DeB3b9IX682TrlCk6tXS/hero-image.fill.size_1200x675.v1782961372.jpg",
         "title": "Cancel ChatGPT and get lifetime access to Claude, Gemini, and more for $55.30 with this code - Mashable",
         "description": "No monthly subscription fees, and it'll even let you send one prompt to multiple AI models.",
         "source_link": "https://mashable.com/tech/july-4-chatplayground-ai-unlimited-plan-lifetime-subscriptions"
       },
       {
-        "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG20260703155425.jpeg?quality=90&strip=all&crop=0%2C28.891819371728%2C100%2C69.808027923211&w=1200",
-        "title": "Qi fan fan - The Verge",
-        "description": "Active cooling really works as demonstrated on a Kuxiu D5 \u00a0Qi2.2 charging dock. Useful at Qi 25W, it\u2019ll likely be required for QI 50W.",
-        "source_link": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works"
-      },
-      {
-        "rank": 4,
+        "rank": 8,
         "image": "https://cdn.mos.cms.futurecdn.net/Dx6nbFKLHe5h5XVG9KrzpY-1100-80.jpg",
         "title": "From Nintendo to KFC, how brands reacted to the PlayStation disc controversy - Creative Bloq",
         "description": "Brands have expressed a mix of parody and outrage.",
         "source_link": "https://www.creativebloq.com/design/branding/from-nintendo-to-kfc-how-brands-reacted-to-the-playstation-disc-controversy"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://cdn.mos.cms.futurecdn.net/ytF8KbYZAwcDcuy2uiib3n-1547-80.jpg",
         "title": "A MAJOR change is afoot at Xbox's Arkane Studios and MachineGames - Windows Central",
         "description": "MachineGames Studio Director and co-founder Jerk Gustafsson is seemingly taking over leadership of Arkane from the latter's president.",
         "source_link": "https://www.windowscentral.com/gaming/xbox/change-is-afoot-at-xboxs-arkane-studios-and-machinegames-with-machines-co-founder-taking-over-arkanes-operations"
       },
       {
-        "rank": 6,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
-        "title": "The only AI glossary you\u2019ll need this year - TechCrunch",
-        "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-        "source_link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
-      },
-      {
-        "rank": 7,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/07/airpods-ultra-suspended/-952x498w6/gsmarena_000.jpg",
-        "title": "Apple has reportedly suspended the development of the AirPods Ultra - GSMArena.com news - GSMArena.com",
-        "description": "Even so, they could still presumably be launched late next year. For quite a while now we\u2019ve been hearing rumors about an upcoming pair of AirPods that...",
-        "source_link": "https://www.gsmarena.com/apple_has_reportedly_suspended_the_development_of_the_airpods_ultra-news-73567.php"
-      },
-      {
-        "rank": 8,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Square-Enix-Nintendo-Switch-2-Switch-sale-Final-Fantasy-Dragon-Quest.jpg",
-        "title": "Square Enix just kicked off its biggest Nintendo Switch 2 and Switch sale ever with massive discounts for Final Fantasy, Dragon Quest, more - Nintendo Everything",
-        "description": "Square Enix has a massive Nintendo Switch 2 and Switch sale running featuring Final Fantasy, Dragon Quest, and more - here's the full list.",
-        "source_link": "https://nintendoeverything.com/square-enix-just-kicked-off-its-biggest-nintendo-switch-2-and-switch-sale-ever-with-massive-discounts-for-final-fantasy-dragon-quest-more/"
-      },
-      {
-        "rank": 9,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6945a6b3e5c989d44db1888d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "Apple Loop: iPhone 18 Pro Pre-Order Dates, New iPad Pro Details, iPhone 16e Special Offers - Forbes",
-        "description": "This week\u2019s Apple headlines: iPhone 18 Pro pre-orders, Apple's significant data leak, iOS 27 dates, new iPad Pro and MacBook Pro details, refurbished iPhone 16e and more...",
-        "source_link": "https://www.forbes.com/sites/ewanspence/2026/07/03/apple-news-headlines-iphone-18-pro-preorder-dates-new-ipad-pro-macbook-pro/"
-      },
-      {
         "rank": 10,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-z-fold8-fold8-ultra-flip8-prices/-952x498w6/gsmarena_000.jpg",
-        "title": "Samsung Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch9, Watch Ultra 2 prices leak - GSMArena.com news - GSMArena.com",
-        "description": "The motherlode is here. Samsung is widely expected to unveil the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, Galaxy Z Flip8, Galaxy Watch9, and Galaxy Watch...",
-        "source_link": "https://www.gsmarena.com/samsung_galaxy_z_fold8_fold8_ultra_flip8_watch9_watch_ultra_2_prices_leak-news-73569.php"
+        "image": "https://insider-gaming.com/wp-content/uploads/2025/03/PlayStationSTudios.webp",
+        "title": "Sony Says Next PlayStation Won\u2019t Simply Compete With PCs - Insider Gaming",
+        "description": "Sony says future PlayStation hardware will offer experiences that differentiate it from gaming PCs while expanding where players can game.",
+        "source_link": "https://insider-gaming.com/sony-says-next-playstation-wont-simply-compete-with-pcs/"
       }
     ],
     "trending_movies": [
@@ -111,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-        "title": "Minions & Monsters",
-        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
-        "source_link": "https://www.themoviedb.org/movie/1315772"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
         "title": "Supergirl",
         "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
         "source_link": "https://www.themoviedb.org/movie/1081003"
       },
       {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+        "title": "Minions & Monsters",
+        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
+        "source_link": "https://www.themoviedb.org/movie/1315772"
+      },
+      {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
+        "image": "https://image.tmdb.org/t/p/w200/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+        "title": "Passenger",
+        "description": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called t...",
+        "source_link": "https://www.themoviedb.org/movie/1368314"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
-        "title": "Man of War",
-        "description": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her...",
-        "source_link": "https://www.themoviedb.org/movie/1705729"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
         "title": "Michael",
         "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
         "source_link": "https://www.themoviedb.org/movie/936075"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
       }
     ]
   }
