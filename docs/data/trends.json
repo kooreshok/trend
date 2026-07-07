@@ -1,76 +1,76 @@
 {
-  "last_updated": "July 07, 2026, 17:09 UTC",
+  "last_updated": "July 07, 2026, 19:48 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02099-y/d41586-026-02099-y_52839284.jpg",
+        "title": "The rise of computer chips \u2014 and the race to control them - Nature",
+        "description": "An analysis sets out the history of computing beyond software and Californian entrepreneurs.",
+        "source_link": "https://www.nature.com/articles/d41586-026-02099-y"
+      },
+      {
+        "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2026/04/image-8.jpg",
+        "title": "The Fast-Playing Cyberpunk TCG Is a Blast - Kotaku",
+        "description": "The Cyberpunk TCG is fast, fulfilling, and respects your time",
+        "source_link": "https://kotaku.com/the-cyberpunk-tcg-isnt-even-out-yet-and-im-already-planning-my-next-deck-2000712976"
+      },
+      {
+        "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2024/07/b334eea9bc01bd3895826f71116d5d31-1200x675.jpg",
+        "title": "Game Pass Is Reportedly Back Down To 30 Million Subscribers - Kotaku",
+        "description": "The decline comes after a very unpopular price hike in 2025",
+        "source_link": "https://kotaku.com/game-pass-is-reportedly-back-down-to-30-million-subscribers-2000712971"
+      },
+      {
+        "rank": 4,
         "image": "https://kotaku.com/app/uploads/2026/07/blade-1200x675.jpg",
         "title": "Founder Asks 'How Much' As Xbox Looks To Cut Arkane Loose - Kotaku",
         "description": "A storied studio's future is more uncertain than ever",
         "source_link": "https://kotaku.com/with-arkane-for-sale-and-blade-at-risk-original-founder-asks-xbox-ceo-how-much-2000712945"
       },
       {
-        "rank": 2,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iOS-27-b3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iOS 27 beta 3 now available as Apple tests major Siri AI upgrade - 9to5Mac",
-        "description": "Apple has released the third iOS 27 beta for developer testing. iOS 27 beta 3 replaces the second iOS 27...",
-        "source_link": "https://9to5mac.com/2026/07/06/ios-27-beta-3/"
+        "rank": 5,
+        "image": "https://images.pushsquare.com/f0611139be4dd/large.jpg",
+        "title": "Guilty Gear Strive Shocks Players with Confirmation of a Second Guest Character - Push Square",
+        "description": "Coming in winter 2026",
+        "source_link": "https://www.pushsquare.com/news/2026/07/guilty-gear-strive-shocks-players-with-confirmation-of-a-second-guest-character"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://images.macrumors.com/t/PeEXCl2WWdKyHqei1lMVhyyE0_Y=/2500x/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+        "title": "Apple Seeds Third iOS 27 and iPadOS 27 Betas to Developers - MacRumors",
+        "description": "Apple today seeded the third betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming two weeks after Apple released...",
+        "source_link": "https://www.macrumors.com/2026/07/06/apple-seeds-ios-27-beta-3/"
+      },
+      {
+        "rank": 7,
+        "image": "https://assets-prd.ignimgs.com/2024/06/04/stateofdecay-1595521281669-1662408473018-1717509269199.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Undead Labs' New Mystery Owner Won't Have to Bring State of Decay 3 to Xbox Game Pass \u2014 Report - IGN",
+        "description": "As Undead Labs continues development on State of Decay 3 under new ownership, it sounds like the zombie survival sequel won't be required to be on Xbox Game Pass.",
+        "source_link": "https://www.ign.com/articles/undead-labs-reportedly-wont-be-required-to-bring-state-of-decay-3-to-xbox-game-pass-after-microsoft-sale"
+      },
+      {
+        "rank": 8,
         "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
         "title": "If you use Google, you\u2019re training its AI. Here\u2019s how to opt out. - TechCrunch",
         "description": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out.",
         "source_link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/"
       },
       {
-        "rank": 4,
+        "rank": 9,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/02/apple-tv-app-iphone_e8e761.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple starts offering free 4K upgrades for purchased TV shows - 9to5Mac",
         "description": "Back in 2017, Apple began rolling out 4K content on the iTunes Store in conjunction with the launch of the...",
         "source_link": "https://9to5mac.com/2026/07/06/apple-starts-offering-free-4k-upgrades-for-purchased-tv-shows/"
       },
       {
-        "rank": 5,
+        "rank": 10,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-pro-xl-review-15.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Mint Mobile cuts all plans to $15/month as its Google Pixel phones have vanished - 9to5Google",
         "description": "Mint Mobile is currently running one of its recurring specials that cuts all of its plans to $15/month, but it...",
         "source_link": "http://9to5google.com/2026/07/06/mint-mobile-15-dollar-plan-deal/"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.jalopnik.com/img/gallery/the-ferrari-12cilindri-manuales-stick-shift-might-not-be-real-but-youve-gotta-stop-freaking-out-about-it/l-intro-1783351212.jpg",
-        "title": "The Ferrari 12Cilindri Manuale's Stick-Shift Might Not Be 'Real' But You've Gotta Stop Freaking Out About It - Jalopnik",
-        "description": "In essence, it was either going to be this \"fake\" manual, or no manual at all, and I personally believe in the lesser of two evils. Do you not?",
-        "source_link": "https://www.jalopnik.com/2208594/ferrari-12cilindri-manuale-stick-shift-stop-freaking-out/"
-      },
-      {
-        "rank": 7,
-        "image": "https://gizmodo.com/app/uploads/2026/06/Shokz-OpenDots-2-review-5-1200x675.jpg",
-        "title": "Clip-Ons Are Wireless Earbuds\u2019 Next Inescapable Trend - Gizmodo",
-        "description": "With Samsung looming large over the category, clip-style wireless earbuds might go fully mainstream.",
-        "source_link": "https://gizmodo.com/clip-ons-are-wireless-earbuds-next-inescapable-trend-2000781703"
-      },
-      {
-        "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/halo-campaign-evolved-reveal-screen-11.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Xbox CEO Asha Sharma wants the company to \"entertain more than a billion people\" every day: here's why that's a deeply unrealistic thing to say - Eurogamer.net",
-        "description": "The company will have to do so with four less studios under its belt.",
-        "source_link": "https://www.eurogamer.net/xbox-ceo-asha-sharma-one-billion"
-      },
-      {
-        "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2026/07/World-of-Warcraft-plague-image-from-meggoart-on-BlueSky-1200x675.jpg",
-        "title": "A World Of Warcraft Plague Kills Players And Fills Inns With Nasty Contagious Goo - Kotaku",
-        "description": "World Of Warcraft's 'Corrupted Blood Incident 2.0' resulted in the game getting even more toxic than usual",
-        "source_link": "https://kotaku.com/world-of-warcraft-wow-corrupted-blood-withering-contagion-spreading-infection-2000712838"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.phoronix.net/image.php?id=amd-ryzen-ai-halo&image=ryzen_ai_halo_1",
-        "title": "AMD Ryzen AI Halo Is An Excellent & Powerful Mini PC With Fully Open-Source Software Review - Phoronix",
-        "description": "Earlier this year AMD announced the Ryzen AI Halo as their in-house mini PC offering built around their leading Ryzen AI Max+ 'Strix Halo' platform.",
-        "source_link": "https://www.phoronix.com/review/amd-ryzen-ai-halo"
       }
     ],
     "trending_movies": [
@@ -104,31 +104,31 @@
       },
       {
         "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
-        "title": "Evil Dead Burn",
-        "description": "After the loss of her husband, a woman seeks solace with her in-laws. As one by one they transform into deadites, she comes to discover that the vows ...",
-        "source_link": "https://www.themoviedb.org/movie/1212763"
-      },
-      {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/wLvUuBF2Yj0JmMGLUdRRVu7LvNB.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
+        "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+        "title": "Evil Dead Burn",
+        "description": "After the loss of her husband, a woman seeks solace with her in-laws. As one by one they transform into deadites, she comes to discover that the vows ...",
+        "source_link": "https://www.themoviedb.org/movie/1212763"
       },
       {
         "rank": 9,
