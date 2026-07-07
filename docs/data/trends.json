@@ -1,76 +1,76 @@
 {
-  "last_updated": "July 07, 2026, 22:56 UTC",
+  "last_updated": "July 07, 2026, 23:57 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.macrumors.com/t/PeEXCl2WWdKyHqei1lMVhyyE0_Y=/2500x/article-new/2026/06/iOS-27-Feature-Dark.jpg",
+        "title": "Everything New in iOS 27 Beta 3 - MacRumors",
+        "description": "Apple is continuing to refine iOS 27 ahead of its planned September launch, and the third beta includes several new features. Siri is more...",
+        "source_link": "https://www.macrumors.com/2026/07/06/ios-27-beta-3-features/"
+      },
+      {
+        "rank": 2,
+        "image": "https://assets-prd.ignimgs.com/2026/06/19/steammachine-blogroll-01-1781840311265.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "You Can Build a More Powerful Steam Machine for Less, It'll Just Be Much Bigger - IGN",
+        "description": null,
+        "source_link": "https://www.ign.com/articles/how-to-build-a-better-steam-machine-for-slightly-less"
+      },
+      {
+        "rank": 3,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a4a0f2182060aebffa840f7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "iPhone 18 Pro Release Date: A New September Timeline Emerges - Forbes",
+        "description": "Apple\u2019s next iPhones are just a couple of months away. However, a report from an industry heavyweight adds nuance to the expected release schedule.",
+        "source_link": "https://www.forbes.com/sites/davidphelan/2026/07/06/iphone-18-pro-release-date-a-new-september-timeline-emerges/"
+      },
+      {
+        "rank": 4,
+        "image": "https://assetsio.gnwcdn.com/erik-mclean-42UM-xVrKko-unsplash.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Epic Games settles lawsuit against former contractor accused of leaking unannounced Fortnite collaborations - GamesIndustry.biz",
+        "description": "Epic Games has settled a legal case against a former contractor accused of leaking confidential information about Fortn\u2026",
+        "source_link": "https://www.gamesindustry.biz/epic-games-settles-lawsuit-against-former-contractor-accused-of-leaking-unannounced-fortnite-collaborations"
+      },
+      {
+        "rank": 5,
         "image": "https://images.macrumors.com/t/1Wu18buj-c0kPm1rkxzD37YLqos=/2500x/article-new/2026/02/iOS-26-Home-Glass-Feature.jpg",
         "title": "Apple Intelligence Home Features Require 2TB iCloud+ Plan in iOS 27 - MacRumors",
         "description": "Using Apple Intelligence camera features in the Home app will require an iCloud+ plan starting at 2TB, according to Apple. Apple shared the detail in...",
         "source_link": "https://www.macrumors.com/2026/07/06/ios-27-home-app-features-icloud/"
       },
       {
-        "rank": 2,
+        "rank": 6,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/m5-ipad-pro-ipados.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple will launch two new products this year that could reshape iPad\u2019s future - 9to5Mac",
+        "description": "The iPad is 16 years old, but two new products Apple is rumored to launch this year could have a major impact on the tablet\u2019s future.",
+        "source_link": "https://9to5mac.com/2026/07/06/apple-will-launch-two-new-products-this-year-that-could-reshape-ipads-future/"
+      },
+      {
+        "rank": 7,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-watch-health.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "watchOS 27 adds three new Health upgrades for Apple Watch - 9to5Mac",
         "description": "watchOS 27 packs a variety of Health-related improvements for Apple Watch users that span three main areas, here\u2019s what\u2019s new.",
         "source_link": "https://9to5mac.com/2026/07/06/watchos-27-adds-three-new-health-upgrades-for-apple-watch/"
       },
       {
-        "rank": 3,
+        "rank": 8,
         "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02099-y/d41586-026-02099-y_52839284.jpg",
         "title": "The rise of computer chips \u2014 and the race to control them - Nature",
         "description": "An analysis sets out the history of computing beyond software and Californian entrepreneurs.",
         "source_link": "https://www.nature.com/articles/d41586-026-02099-y"
       },
       {
-        "rank": 4,
-        "image": "https://kotaku.com/app/uploads/2026/04/image-8.jpg",
-        "title": "The Fast-Playing Cyberpunk TCG Is a Blast - Kotaku",
-        "description": "The Cyberpunk TCG is fast, fulfilling, and respects your time",
-        "source_link": "https://kotaku.com/the-cyberpunk-tcg-isnt-even-out-yet-and-im-already-planning-my-next-deck-2000712976"
-      },
-      {
-        "rank": 5,
-        "image": "https://kotaku.com/app/uploads/2024/07/b334eea9bc01bd3895826f71116d5d31-1200x675.jpg",
-        "title": "Game Pass Is Reportedly Back Down To 30 Million Subscribers - Kotaku",
-        "description": "The decline comes after a very unpopular price hike in 2025",
-        "source_link": "https://kotaku.com/game-pass-is-reportedly-back-down-to-30-million-subscribers-2000712971"
-      },
-      {
-        "rank": 6,
-        "image": "https://kotaku.com/app/uploads/2026/07/blade-1200x675.jpg",
-        "title": "Founder Asks 'How Much' As Xbox Looks To Cut Arkane Loose - Kotaku",
-        "description": "A storied studio's future is more uncertain than ever",
-        "source_link": "https://kotaku.com/with-arkane-for-sale-and-blade-at-risk-original-founder-asks-xbox-ceo-how-much-2000712945"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.pushsquare.com/f0611139be4dd/large.jpg",
-        "title": "Guilty Gear Strive Shocks Players with Confirmation of a Second Guest Character - Push Square",
-        "description": "Coming in winter 2026",
-        "source_link": "https://www.pushsquare.com/news/2026/07/guilty-gear-strive-shocks-players-with-confirmation-of-a-second-guest-character"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.macrumors.com/t/PeEXCl2WWdKyHqei1lMVhyyE0_Y=/2500x/article-new/2026/06/iOS-27-Feature-Dark.jpg",
-        "title": "Apple Seeds Third iOS 27 and iPadOS 27 Betas to Developers - MacRumors",
-        "description": "Apple today seeded the third betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming two weeks after Apple released...",
-        "source_link": "https://www.macrumors.com/2026/07/06/apple-seeds-ios-27-beta-3/"
-      },
-      {
         "rank": 9,
-        "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
-        "title": "If you use Google, you\u2019re training its AI. Here\u2019s how to opt out. - TechCrunch",
-        "description": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out.",
-        "source_link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/"
+        "image": "https://images.pushsquare.com/9bbbe552b1f59/large.jpg",
+        "title": "Game of the Month: The Adventures of Elliot: The Millennium Tales (June 2026) - Push Square",
+        "description": "As voted by you",
+        "source_link": "https://www.pushsquare.com/features/game-of-the-month-the-adventures-of-elliot-the-millennium-tales-june-2026"
       },
       {
         "rank": 10,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-buds-4-pro-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "'Galaxy Buds On' surface alongside more Galaxy Watch 9 leaks - 9to5Google",
-        "description": "Ahead of their launch, expected to be later this month, Samsung has accidentally confirmed its Galaxy Watch 9 and Ultra...",
-        "source_link": "http://9to5google.com/2026/07/06/samsung-galaxy-buds-on-able-leak/"
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/Pixel-8a-Settings-screen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "All Android backup data now counts toward your Google Account storage, but it won't take up much space - 9to5Google",
+        "description": "Google is making a policy change to Android backups that adjusts what counts towards your Google Account storage.",
+        "source_link": "http://9to5google.com/2026/07/06/android-backup-data-update/"
       }
     ],
     "trending_movies": [
@@ -111,10 +111,10 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/wLvUuBF2Yj0JmMGLUdRRVu7LvNB.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
+        "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+        "title": "Evil Dead Burn",
+        "description": "After the loss of her husband, a woman seeks solace with her in-laws. As one by one they transform into deadites, she comes to discover that the vows ...",
+        "source_link": "https://www.themoviedb.org/movie/1212763"
       },
       {
         "rank": 7,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
-        "title": "Evil Dead Burn",
-        "description": "After the loss of her husband, a woman seeks solace with her in-laws. As one by one they transform into deadites, she comes to discover that the vows ...",
-        "source_link": "https://www.themoviedb.org/movie/1212763"
+        "image": "https://image.tmdb.org/t/p/w200/wLvUuBF2Yj0JmMGLUdRRVu7LvNB.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/mKmJJNd8Ge5KY6DtpTE2cXD0xnE.jpg",
+        "title": "The Ghost in the Shell",
+        "description": "In the year 2029, Niihama City has become a technologically advanced metropolis. Due to great improvements in cybernetics, its citizens are able to re...",
+        "source_link": "https://www.themoviedb.org/movie/1706919"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
         "title": "Minions & Monsters",
         "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
         "source_link": "https://www.themoviedb.org/movie/1315772"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
       }
     ]
   }
