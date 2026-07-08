@@ -1,76 +1,76 @@
 {
-  "last_updated": "July 08, 2026, 02:45 UTC",
+  "last_updated": "July 08, 2026, 05:46 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.axios.com/Nn2V5-HoYAw4XcgZHIgl9z6aum4=/0x0:1920x1080/1366x768/2026/01/06/1767735255166.jpeg",
+        "title": "Anthropic says Claude has carved out its own space to ponder - Axios",
+        "description": "The AI lab offers fresh ammunition to the debate over what would count as machine consciousness.",
+        "source_link": "https://www.axios.com/2026/07/06/anthropic-claude-ai-conscious"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.slashgear.com/img/gallery/12-gadgets-under-25-that-deserve-a-spot-in-your-home-office/l-intro-1783357202.jpg",
+        "title": "12 Gadgets Under $25 That Deserve A Spot In Your Home Office - SlashGear",
+        "description": "Working from home can mean spending hours on end in a makeshift space thrown together on the fly. These gadgets could ease some of the pain.",
+        "source_link": "https://www.slashgear.com/2208816/gadgets-under-25-dollars-that-deserve-spot-in-home-office/"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.nintendolife.com/8b3e81384a1bb/large.jpg",
+        "title": "Pok\u00e9mon GO Developer Niantic Changes Its Name And Logo - Nintendo Life",
+        "description": "It will now be known as 'Scopely Explore'",
+        "source_link": "https://www.nintendolife.com/news/2026/07/pokemon-go-developer-niantic-changes-its-name-and-logo"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.trueachievements.com/imgs/xl/113479/xbox-weekly-sales.jpg",
+        "title": "Xbox sale round-up July 7, 2026 - TrueAchievements",
+        "description": "New Xbox sales are now live, with big discounts on Atomic Heart, Dragon Ball FighterZ, DEATHLOOP, Dead Cells, Redfall, Dragon Ball Xenoverse 2, Naruto Shippuden: Ultimate Ninja Storm 4 and more",
+        "source_link": "https://www.trueachievements.com/n63012/xbox-sale-roundup-july-7-2026"
+      },
+      {
+        "rank": 5,
+        "image": "https://helios-i.mashable.com/imagery/articles/01KrJRlEZeXwBkjh4DUvQtT/hero-image.fill.size_1200x675.v1783035068.jpg",
+        "title": "This MacBook Pro packs premium features for under $400 - Mashable",
+        "description": "Grab a MacBook Pro for a fraction of its original price.",
+        "source_link": "https://mashable.com/tech/july-6-apple-macbook-pro-i5-2ghz-2020-16gb-ram-512gb-ssd-silver-refurbished"
+      },
+      {
+        "rank": 6,
         "image": "https://images.macrumors.com/t/PeEXCl2WWdKyHqei1lMVhyyE0_Y=/2500x/article-new/2026/06/iOS-27-Feature-Dark.jpg",
         "title": "Everything New in iOS 27 Beta 3 - MacRumors",
         "description": "Apple is continuing to refine iOS 27 ahead of its planned September launch, and the third beta includes several new features. Siri is more...",
         "source_link": "https://www.macrumors.com/2026/07/06/ios-27-beta-3-features/"
       },
       {
-        "rank": 2,
-        "image": "https://assets-prd.ignimgs.com/2026/06/19/steammachine-blogroll-01-1781840311265.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "You Can Build a More Powerful Steam Machine for Less, It'll Just Be Much Bigger - IGN",
-        "description": null,
-        "source_link": "https://www.ign.com/articles/how-to-build-a-better-steam-machine-for-slightly-less"
-      },
-      {
-        "rank": 3,
+        "rank": 7,
         "image": "https://imageio.forbes.com/specials-images/imageserve/6a4a0f2182060aebffa840f7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "iPhone 18 Pro Release Date: A New September Timeline Emerges - Forbes",
         "description": "Apple\u2019s next iPhones are just a couple of months away. However, a report from an industry heavyweight adds nuance to the expected release schedule.",
         "source_link": "https://www.forbes.com/sites/davidphelan/2026/07/06/iphone-18-pro-release-date-a-new-september-timeline-emerges/"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://assetsio.gnwcdn.com/erik-mclean-42UM-xVrKko-unsplash.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Epic Games settles lawsuit against former contractor accused of leaking unannounced Fortnite collaborations - GamesIndustry.biz",
         "description": "Epic Games has settled a legal case against a former contractor accused of leaking confidential information about Fortn\u2026",
         "source_link": "https://www.gamesindustry.biz/epic-games-settles-lawsuit-against-former-contractor-accused-of-leaking-unannounced-fortnite-collaborations"
       },
       {
-        "rank": 5,
-        "image": "https://images.macrumors.com/t/1Wu18buj-c0kPm1rkxzD37YLqos=/2500x/article-new/2026/02/iOS-26-Home-Glass-Feature.jpg",
-        "title": "Apple Intelligence Home Features Require 2TB iCloud+ Plan in iOS 27 - MacRumors",
-        "description": "Using Apple Intelligence camera features in the Home app will require an iCloud+ plan starting at 2TB, according to Apple. Apple shared the detail in...",
-        "source_link": "https://www.macrumors.com/2026/07/06/ios-27-home-app-features-icloud/"
-      },
-      {
-        "rank": 6,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/m5-ipad-pro-ipados.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Apple will launch two new products this year that could reshape iPad\u2019s future - 9to5Mac",
-        "description": "The iPad is 16 years old, but two new products Apple is rumored to launch this year could have a major impact on the tablet\u2019s future.",
-        "source_link": "https://9to5mac.com/2026/07/06/apple-will-launch-two-new-products-this-year-that-could-reshape-ipads-future/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-watch-health.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "watchOS 27 adds three new Health upgrades for Apple Watch - 9to5Mac",
-        "description": "watchOS 27 packs a variety of Health-related improvements for Apple Watch users that span three main areas, here\u2019s what\u2019s new.",
-        "source_link": "https://9to5mac.com/2026/07/06/watchos-27-adds-three-new-health-upgrades-for-apple-watch/"
-      },
-      {
-        "rank": 8,
-        "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02099-y/d41586-026-02099-y_52839284.jpg",
-        "title": "The rise of computer chips \u2014 and the race to control them - Nature",
-        "description": "An analysis sets out the history of computing beyond software and Californian entrepreneurs.",
-        "source_link": "https://www.nature.com/articles/d41586-026-02099-y"
-      },
-      {
         "rank": 9,
-        "image": "https://images.pushsquare.com/9bbbe552b1f59/large.jpg",
-        "title": "Game of the Month: The Adventures of Elliot: The Millennium Tales (June 2026) - Push Square",
-        "description": "As voted by you",
-        "source_link": "https://www.pushsquare.com/features/game-of-the-month-the-adventures-of-elliot-the-millennium-tales-june-2026"
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/A19-Pro-logic-board.jpg",
+        "title": "iPhone 18 Pro Logic Board\u2019s High-Resolution Images Show A20 Pro Occupying Larger Die Area With Next-Generation Packaging & Qualcomm 5G Modem - Wccftech",
+        "description": "The A20 Pro paired with a Qualcomm Snapdragon 5G modem is show in the latest high-resolution images belonging to the iPhone 18 Pro logic board",
+        "source_link": "https://wccftech.com/iphone-18-pro-logic-board-high-resolution-images-showing-larger-a20-pro-die/"
       },
       {
         "rank": 10,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/05/Pixel-8a-Settings-screen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "All Android backup data now counts toward your Google Account storage, but it won't take up much space - 9to5Google",
-        "description": "Google is making a policy change to Android backups that adjusts what counts towards your Google Account storage.",
-        "source_link": "http://9to5google.com/2026/07/06/android-backup-data-update/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/hoto1.jpg?quality=90&strip=all&crop=0,10.677911339888,100,78.644177320224",
+        "title": "Hoto\u2019s PixelDrive screwdriver is down to $60, matching its best price - The Verge",
+        "description": "Hoto\u2019s PixelDrive is $59.99 ($20 off) at Amazon. The cordless screwdriver includes 30 bits, adjustable torque settings, a built-in display, and an LED light.",
+        "source_link": "https://www.theverge.com/gadgets/961895/hoto-pixeldrive-screwdriver-deal-sale"
       }
     ],
     "trending_movies": [
@@ -111,24 +111,24 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/wLvUuBF2Yj0JmMGLUdRRVu7LvNB.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
         "rank": 9,
