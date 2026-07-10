@@ -1,76 +1,69 @@
 {
-  "last_updated": "July 10, 2026, 00:00 UTC",
+  "last_updated": "July 10, 2026, 04:04 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-        "title": "High-severity guest VM escape is 1 of 2 Linux vulnerabilities to surface this week - Ars Technica",
-        "description": "Both vulnerabilities allow untrusted users to gain root privileges.",
-        "source_link": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/"
+        "image": "https://images.macrumors.com/t/hgnpo7o_zsAkiVpas0wZgw2DTfY=/2500x/article-new/2025/12/Apple-TV-Thumb-3.jpg",
+        "title": "Everything Coming in the 2026 Apple TV 4K - MacRumors",
+        "description": "The Apple TV 4K hasn't been updated since 2022, and it's due for a refresh. An update is planned for 2026, but Apple is likely going to wait...",
+        "source_link": "https://www.macrumors.com/2026/07/08/apple-tv-4k-latest-rumors/"
       },
       {
         "rank": 2,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-ultra-leak-ah-7.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "The best part of the Galaxy Z Fold 8 Ultra has leaked, and it\u2019s this purple [Gallery] - 9to5Google",
-        "description": "The Galaxy Z Fold 8 Ultra is going to be pretty disappointing; that much is clear. But, taking the sting...",
-        "source_link": "http://9to5google.com/2026/07/08/galaxy-z-fold-8-ultra-purple-color-leak/"
+        "image": "https://kotaku.com/app/uploads/2025/12/marathon-1200x675.jpg",
+        "title": "Sony Settles With Fired Bungie Dev, Adds Him To Marathon Credits - Kotaku",
+        "description": "Christopher Barrett had accused the PS5 maker of trying to avoid paying him vested bonuses from the studio's sale",
+        "source_link": "https://kotaku.com/sony-reaches-settlement-with-bungie-director-it-accused-of-sexual-misconduct-and-adds-his-name-to-marathons-credits-2000713874"
       },
       {
         "rank": 3,
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Disc-of-War.jpg",
+        "title": "Over 220,000 People Petition Sony Not To Kill Physical PlayStation Game Discs - GameSpot",
+        "description": "Canadian retailer PNP Games has started the Don't Kill the Disc position to change Sony's mind.",
+        "source_link": "https://www.gamespot.com/articles/over-220000-people-petition-sony-not-to-kill-physical-playstation-game-discs/"
+      },
+      {
+        "rank": 4,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2249181820.jpg?resize=1200,800",
+        "title": "Google Photos adds a new AI \u2018Video Remix\u2019 tool - TechCrunch",
+        "description": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+        "source_link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/"
+      },
+      {
+        "rank": 5,
         "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-z-fold8-fold8-ultra-flip8-renders-leak/-952x498w6/gsmarena_000.jpg",
         "title": "Samsung Galaxy Z Fold8, Fold8 Ultra, Flip8, Watch9, and Watch Ultra2 renders leak - GSMArena.com news - GSMArena.com",
         "description": "It's the mega leak you've been waiting for. Samsung is holding its next Unpacked event on July 22 in London, the company has recently confirmed. Ahead of...",
         "source_link": "https://www.gsmarena.com/samsung_galaxy_z_fold8_fold8_ultra_flip8_watch9_and_watch_ultra2_renders_leak-news-73637.php"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iabhG2myESqY/v1/1200x800.jpg",
         "title": "Microsoft\u2019s Xbox to Shift Obsidian Studio to New \u2018Fallout\u2019 Video Game - Bloomberg.com",
         "description": "The game maker is also canceling a planned sequel to last year\u2019s \u2018Avowed\u2019",
         "source_link": "https://www.bloomberg.com/news/articles/2026-07-08/microsoft-s-xbox-to-shift-obsidian-studio-to-new-fallout-video-game"
       },
       {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268592_SwitchBot_Bot_Rechargeable_SVasani_0004.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-        "title": "Cockroaches will learn to fear my SwitchBot Bot Rechargeable - The Verge",
-        "description": "SwitchBot\u2019s Bot Rechargeable\u2019s robotic arm flips on light switches and presses buttons. Setup requires some trial and error, but it works reliably once installed.",
-        "source_link": "https://www.theverge.com/gadgets/962163/switchbot-bot-rechargeable-hands-on-review"
-      },
-      {
-        "rank": 6,
-        "image": "https://nbcsports.brightspotcdn.com/dims4/default/23ef846/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F39%2Fe9%2F816c26074412bdacf88eab01e61d%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2222826349",
-        "title": "New study finds NFL players nearly four times more likely to die of neurodegenerative disease - NBC Sports",
-        "description": "\"A fourfold increase in dementia rates from a presumed environmental cause is immense.\"",
-        "source_link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/new-study-finds-nfl-players-nearly-four-times-more-likely-to-die-of-neurodegenerative-disease"
-      },
-      {
         "rank": 7,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Press-Static-Hero-16x9-1.jpg?resize=1200,675",
-        "title": "OpenAI releases new voice models for more natural live conversations - TechCrunch",
-        "description": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
-        "source_link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/"
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBODZWoJvl4s/v1/1200x857.jpg",
+        "title": "Parents\u2019 Phone Addiction Affects Bond with Kids, New Study Finds - Bloomberg.com",
+        "description": "Parents\u2019 attachment to screens and smartphones can have negative, long-lasting developmental and psychological effects on their children, according to new research.",
+        "source_link": "https://www.bloomberg.com/news/articles/2026-07-08/parents-phone-addiction-affects-bond-with-kids-new-study-finds"
       },
       {
         "rank": 8,
+        "image": "https://nintendoeverything.com/wp-content/uploads/yoshi_demo.jpg",
+        "title": "Yoshi and the Mysterious Book demo now available on Nintendo Switch 2 - Nintendo Everything",
+        "description": "Nintendo has just announced that a demo for Yoshi and the Mysterious Book is now available for free on Nintendo Switch 2. Players can experience the game\u2019s first chapter, and save data can be transferred to the full version if they decide to purchase it later\u2026",
+        "source_link": "https://nintendoeverything.com/yoshi-and-the-mysterious-book-demo-now-available-on-nintendo-switch-2/"
+      },
+      {
+        "rank": 9,
         "image": "https://kotaku.com/app/uploads/2026/07/bethesda-union-1200x675.jpg",
         "title": "Bethesda HR Forced Staff To Remove Small Memorial To Laid-Off Colleagues - Kotaku",
         "description": "The Bethesda Games Studios Union shared images of the now-removed display featuring photos of fired devs",
         "source_link": "https://kotaku.com/bethesda-hr-forced-staff-to-remove-small-memorial-to-laid-off-colleagues-2000713777"
-      },
-      {
-        "rank": 9,
-        "image": "https://compote.slate.com/images/d7db841b-ce89-4016-ba50-a5d1696a4192.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
-        "title": "There Was Only One Solution to My Problem \u2026 Down There. It\u2019s Opened Up Pandora\u2019s Box. - Slate Magazine",
-        "description": "I'm trying everything.",
-        "source_link": "https://slate.com/advice/2026/07/sex-advice-solution-vagina-surgery.html"
-      },
-      {
-        "rank": 10,
-        "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6mC0xMCT8YjmAOs2jiCErV/de96860790d1d8632bdb8ef18f24a508/TCM_Switch2.jpg",
-        "title": "The Crew Motorfest Comes to Nintendo Switch 2 on October 8 - Ubisoft",
-        "description": "Race through Hawaii, curate your car collection, and build your own tracks on the go.",
-        "source_link": "https://news.ubisoft.com/en-us/article/3BkhHg7XjLxXWSOYOEM3WU/the-crew-motorfest-comes-to-nintendo-switch-2-on-october8"
       }
     ],
     "trending_movies": [
@@ -118,17 +111,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/3SKN8QZptMm8KfCCQtEmyh1Zkgz.jpg",
-        "title": "Nothing to Lose",
-        "description": "She gave everything to become a mother, so when her young son falls ill, Jada will stop at  nothing to find a donor and save him \u2014 no matter the cost....",
-        "source_link": "https://www.themoviedb.org/movie/1710008"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
         "title": "Passenger",
         "description": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called t...",
         "source_link": "https://www.themoviedb.org/movie/1368314"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/3SKN8QZptMm8KfCCQtEmyh1Zkgz.jpg",
+        "title": "Nothing to Lose",
+        "description": "She gave everything to become a mother, so when her young son falls ill, Jada will stop at  nothing to find a donor and save him \u2014 no matter the cost....",
+        "source_link": "https://www.themoviedb.org/movie/1710008"
       },
       {
         "rank": 9,
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
-        "title": "Dune: Part Three",
-        "description": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the fu...",
-        "source_link": "https://www.themoviedb.org/movie/1170608"
+        "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       }
     ]
   }
