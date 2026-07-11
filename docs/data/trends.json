@@ -1,62 +1,76 @@
 {
-  "last_updated": "July 11, 2026, 11:58 UTC",
+  "last_updated": "July 11, 2026, 13:26 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assetsio.gnwcdn.com/Black-Flag-store.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "\"No thanks!\" - Assassin's Creed Black Flag remake Resynced being review bombed on Steam for single-player microtransactions - Eurogamer.net",
+        "description": "The issue of cosmetic microtransactions in single-player games has arisen once again for Ubisoft.",
+        "source_link": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-steam-review-bomb-dlc"
+      },
+      {
+        "rank": 2,
+        "image": "https://personacentral.com/wp-content/uploads/2026/07/revival-title-screen.jpg",
+        "title": "Persona 4 Revival 26 Minutes of Gameplay Footage - Persona Central",
+        "description": "Persona 4 Revival is currently being exhibited at Bilibili World 2026 in China with a playable demo.. Footage from this has been released",
+        "source_link": "https://personacentral.com/p4r-gameplay/"
+      },
+      {
+        "rank": 3,
+        "image": "https://assetsio.gnwcdn.com/assassins-creed-black-flag-resynced_ADSMcpb.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Layoffs begin at Ubisoft Barcelona following Assassin's Creed Black Flag Resynced launch - GamesIndustry.biz",
+        "description": "\"There will not be further mandates for Ubisoft Barcelona, despite the team focusing proposing new AC projects,\" says affected employee",
+        "source_link": "https://www.gamesindustry.biz/layoffs-begin-at-ubisoft-barcelona-following-assassins-creed-black-flag-resynced-launch"
+      },
+      {
+        "rank": 4,
         "image": "https://media.wired.com/photos/6a5043b7f715f2c43619b84a/191:100/w_1280,c_limit/DSC_9089.jpg",
         "title": "Thousands of \u2018Pok\u00e9mon Go\u2019 Players Descend on Times Square to Defeat Mewtwo - WIRED",
         "description": "A surprise 10th-anniversary event saw Niantic fulfilling a promise teased in the original 2016 launch trailer for its popular mobile game.",
         "source_link": "https://www.wired.com/story/thousands-of-pokemon-go-players-descend-on-times-square-to-defeat-mewtwo/"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://traxion.gg/wp-content/uploads/2026/07/1-8.jpg",
         "title": "iRacing set to increase subscription costs - Traxion.GG",
         "description": "iRacing will increase the cost of all its subscription plans this coming August.",
         "source_link": "https://traxion.gg/iracing-set-to-increase-subscription-costs/"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/App-drawer-on-Pixel-10-Pro-Fold.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google starts rolling out local Documents backup on Android, lets you turn off SMS & RCS - 9to5Google",
         "description": "Google is rolling out new settings to control whether RCS messages are backed up. Android is beginning to roll out local Documents backup.",
         "source_link": "http://9to5google.com/2026/07/09/android-documents-backup/"
       },
       {
-        "rank": 4,
+        "rank": 7,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-app-browser.jpg?resize=1200,675",
+        "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing - TechCrunch",
+        "description": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+        "source_link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/"
+      },
+      {
+        "rank": 8,
         "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/gamespot-logo.png",
         "title": "Layoffs Hit GameSpot Again - Aftermath",
         "description": "It's the fifth round of layoffs since the company was purchased by Fandom",
         "source_link": "https://aftermath.site/gamespot-layoffs-july-2026/"
       },
       {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "The ChatGPT browser is already dead - The Verge",
-        "description": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it.",
-        "source_link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset"
+        "rank": 9,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/07/galaxy-z-fold8-ultra-camera-features-leak/-952x498w6/gsmarena_00.jpg",
+        "title": "Samsung\u2019s Galaxy Z Fold8 Ultra said to borrow Galaxy S26 Ultra's camera features - GSMArena.com news - GSMArena.com",
+        "description": "It is expected to offer a 200MP primary rear camera. Samsung will unveil the Galaxy Z Fold8 Ultra later this month as the successor to the Galaxy Z Fold7....",
+        "source_link": "https://www.gsmarena.com/samsungs_galaxy_z_fold8_ultra_said_to_borrow_galaxy_s26_ultras_camera_features-news-73650.php"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/07/GettyImages-1416797705.jpg?quality=90&strip=all&crop=0%2C19.586290221784%2C100%2C60.827419556432&w=1200",
         "title": "Health trackers offer a ton of data. Here are the metrics doctors want you to pay attention to - vox.com",
         "description": "We\u2019re all wearing health trackers and wearables. Are the heart and health data they\u2019re collecting actually helping us to live longer?",
         "source_link": "https://www.vox.com/good-medicine-newsletter/494789/apple-watch-oura-ring-fitbit-health-tracker-data"
-      },
-      {
-        "rank": 7,
-        "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/A015_05090508_S026.jpg",
-        "title": "I Gave My Steam Machine A Second Stick Of RAM Because Valve Couldn't - Aftermath",
-        "description": "I had to buy a 16GB stick of DDR5 RAM at 2026 prices so I hope you read this.",
-        "source_link": "https://aftermath.site/steam-machine-ram-upgrade/"
-      },
-      {
-        "rank": 8,
-        "image": "https://pokemongohub.net/wp-content/uploads/2025/08/origin-dialga-palkia-v2-scaled.jpg",
-        "title": "Road of Legends Day 5: All Five-Star Raids, Primal Raids , Bonuses and Guides - Pok\u00e9mon GO Hub",
-        "description": "Road of Legends is a stacked week of Legendary raids, Mega Raids, event bonuses, Special Backgrounds, Adventure Effects, and a new GO Pass. Running from July 6, 2026, at 12:01 a.m. to July 10, 2026, at 11:59 p.m. local time, Road of Legends is a final prep ev\u2026",
-        "source_link": "https://pokemongohub.net/post/event/road-of-legends-day-5-all-five-star-raids-primal-raids-bonuses-and-guides/"
       }
     ],
     "trending_movies": [
@@ -90,17 +104,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-        "title": "The Furious",
-        "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tena...",
-        "source_link": "https://www.themoviedb.org/movie/1280738"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
         "title": "Evil Dead Burn",
         "description": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vo...",
         "source_link": "https://www.themoviedb.org/movie/1212763"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+        "title": "The Furious",
+        "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tena...",
+        "source_link": "https://www.themoviedb.org/movie/1280738"
       },
       {
         "rank": 7,
@@ -111,17 +125,17 @@
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/3SKN8QZptMm8KfCCQtEmyh1Zkgz.jpg",
+        "title": "Nothing to Lose",
+        "description": "She gave everything to become a mother, so when her young son falls ill, Jada will stop at  nothing to find a donor and save him \u2014 no matter the cost....",
+        "source_link": "https://www.themoviedb.org/movie/1710008"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
         "title": "Passenger",
         "description": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called t...",
         "source_link": "https://www.themoviedb.org/movie/1368314"
-      },
-      {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
         "rank": 10,
