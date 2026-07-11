@@ -1,99 +1,99 @@
 {
-  "last_updated": "July 11, 2026, 18:55 UTC",
+  "last_updated": "July 11, 2026, 20:03 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://d.techtimes.com/en/full/468426/microsoft.png",
+        "title": "Ransomware Used Microsoft-Signed Malicious Driver to Kill EDR: 10 Hosts Hit Before Encryption - Tech Times",
+        "description": "Ransomware EDR killers just leveled up: GodDamn ransomware used PoisonX \u2014 a kernel driver bearing a legitimate Microsoft Hardware Compatibility Publisher signature \u2014 to terminate security software on...",
+        "source_link": "https://www.techtimes.com/articles/320091/20260710/ransomware-used-microsoft-signed-malicious-driver-kill-edr-10-hosts-hit-before-encryption.htm"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/steammachine-1152x648.jpg",
+        "title": "Valve\u2019s new Steam Machine verification system is silent on these Steam Deck-busters - Ars Technica",
+        "description": "Dozens of titles too taxing for Steam Deck are still unrated for the new hardware.",
+        "source_link": "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/hue-bridge-pro-1-1152x648.jpg",
+        "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements - Ars Technica",
+        "description": "Affected users will have to configure their lights and settings all over again.",
+        "source_link": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/"
+      },
+      {
+        "rank": 4,
         "image": "https://kotaku.com/app/uploads/2026/07/water-baby-1200x675.jpg",
         "title": "The Water In This 2002 Surfing Game Is Blowing People\u2019s Minds - Kotaku",
         "description": "Gnarly water Kelly Slater, most excellent dude",
         "source_link": "https://kotaku.com/the-water-in-this-2002-surfing-game-is-blowing-peoples-minds-2000714695"
       },
       {
-        "rank": 2,
-        "image": "https://s.yimg.com/lo/mysterio/api/3597db1e9df7ce107d01d9a99b316391c5045cddb4ecc6748f9f95010e4e0dd4/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_19th_news_416%2Fd9286dce768a3c59ab0516419a711f1c",
-        "title": "Men found \u2018Love Island.\u2019 Then they started betting on it. - Yahoo",
-        "description": "Prediction market apps are turning America's hottest dating show into a different obsession \u2014 and bringing a new audience into the villa.",
-        "source_link": "https://www.yahoo.com/news/us/articles/men-found-love-island-then-154727043.html"
+        "rank": 5,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a510a979dd6872546f78a35/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "\u2018Palworld 1.0\u2019 Is Putting Up Enormous Steam Player Numbers At Launch - Forbes",
+        "description": "Palworld, the former viral sensation, has just launched its 1.0 version, and it has shown it still has a huge audience eager to play.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/07/10/palworld-10-is-putting-up-enormous-steam-player-numbers-at-launch/"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ankerprimewirelesschargingstation.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Anker\u2019s 3-in-1 Qi2.2 charging station is $95 off - The Verge",
         "description": "Anker\u2019s Prime Wireless Charging Station is $134.99 ($95 off) at multiple retailers. Fanttik\u2019s A10 Pro Digital Tape Measure and LG\u2019s OLED C6 TVs are on sale, too.",
         "source_link": "https://www.theverge.com/gadgets/963665/anker-prime-wireless-charging-station-lg-oled-c6-tv-deal-sale"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://cdn.ygorganization.com/2026/07/zoroa.jpg",
         "title": "[Chronicles] Magistus Ep 4 Teaser & Some Sinful Spoils - YGOrganization",
         "description": "Total Spellcaster Domination The teaser for episode 4 of the Magistus arc of The Chronicles is now available: \u201cThe demon god \u201cZoroa, the Magistus of Flame\u201d, finally completing his revival\u2026",
         "source_link": "https://ygorganization.com/chronicles-magistus-ep-4-teaser-some-sinful-spoils/"
       },
       {
-        "rank": 5,
+        "rank": 8,
         "image": "https://kotaku.com/app/uploads/2026/07/steam-machine-25-1200x675.jpg",
         "title": "25 Games Tested On The Steam Machine: A Good, But Pricey Device - Kotaku",
         "description": "How does Valve's $1,000 console-like PC compare to a PS5 Pro out of the box?",
         "source_link": "https://kotaku.com/steam-machine-games-tested-gta-halo-cyberpunk-peak-mouse-fps-review-valve-kotaku-2000710643"
       },
       {
-        "rank": 6,
-        "image": "https://cdn-cs-images.racer.com/v3/assets/blte77f57883ea46be1/blt368f706064a33f6a/6a5109d943319a5b1f62c50d/INDYCAR_The_Game_1.jpg?environment=live&width=1200&height=630&fit=crop",
-        "title": "IndyCar game release date pushed back to 2027 - RACER - Racing News",
-        "description": "The IndyCar Series and iRacing have provided new screenshots of IndyCar Racing The Game, which was previously announced for debut in the second half of 2026, and has been amended to \u201claunch in the countdown to the 2027 Indianapolis 500,\u201d according to the seri\u2026",
-        "source_link": "https://racer.com/2026/07/10/indycar-game-release-date-pushed-back-to-2027"
-      },
-      {
-        "rank": 7,
+        "rank": 9,
         "image": "https://i.pcmag.com/imagery/articles/01VTTiFgJZatHi8Ms0LPo69-1.fit_lim.size_1200x630.v1783635151.jpg",
         "title": "FCC Approves Reflect Orbital's Space Mirror Satellite That Astronomers Hate - PCMag",
         "description": "The FCC says the most controversial aspect of Reflect Orbital's Earendil-1 satellite, its giant mirror, falls outside its authority since the regulator mainly focuses on radio spectrum.",
         "source_link": "https://www.pcmag.com/news/fcc-approves-reflect-orbitals-giant-mirror-satellite-that-astronomers-hate"
       },
       {
-        "rank": 8,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Android-Halo-Logo.jpg",
-        "title": "Worried about status bar clutter with Android Halo? Google may let you clean it up - Android Authority",
-        "description": "Google is working on new Android status bar settings to let users hide the upcoming Android Halo icon and the mute indicator.",
-        "source_link": "https://www.androidauthority.com/android-halo-status-bar-icon-settings-apk-teardown-3686316/"
-      },
-      {
-        "rank": 9,
-        "image": "https://storage.ghost.io/c/af/ca/afcaa655-46e2-45b8-889a-2881de5cce69/content/images/size/w1200/2026/07/Screenshot-2026-07-10-at-1.41.00---PM.png",
-        "title": "The ChatGPT \"Super App\" Sort of Super Sucks - spyglass.org",
-        "description": "Even if it's ultimately the right call, the new Mac app is a mess...",
-        "source_link": "https://spyglass.org/chatgpt-gets-to-work/"
-      },
-      {
         "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268631_Xreal_A01_Plus_CFaulkner_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Xreal\u2019s new AR glasses are way cheaper and almost just right - The Verge",
-        "description": "The A01 Plus are flimsier and have fewer features than the 1S, but they might deliver exactly what you\u2019re looking for.",
-        "source_link": "https://www.theverge.com/tech/963465/xreal-a01-plus-xbx-ar-glasses-hands-on"
+        "image": "https://assetsio.gnwcdn.com/OneBGS.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "\"They want us to accept this as a done deal and quietly disappear\" \u2013 Bethesda union members organise protest in response to Xbox layoffs - GamesIndustry.biz",
+        "description": "440 OneBGS devs were affected by cuts at Bethesda Game Studios, Id Software, and ZeniMax Online Studios",
+        "source_link": "https://www.gamesindustry.biz/they-want-us-to-accept-this-as-a-done-deal-and-quietly-disappear-bethesda-union-members-organise-protest-in-response-to-xbox-layoffs"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-        "title": "Moana",
-        "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
-        "source_link": "https://www.themoviedb.org/movie/1108427"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+        "title": "Moana",
+        "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
+        "source_link": "https://www.themoviedb.org/movie/1108427"
+      },
+      {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/3ZaO8yZwGo4PJSgwLwSowD4EBbN.jpg",
-        "title": "The Outer Threat",
-        "description": "After making a groundbreaking extraterrestrial discovery, astrophysicists Daniel and Michelle are forced to flee from home with their family \u2014 pursued...",
-        "source_link": "https://www.themoviedb.org/movie/1381202"
+        "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+        "title": "Evil Dead Burn",
+        "description": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vo...",
+        "source_link": "https://www.themoviedb.org/movie/1212763"
       },
       {
         "rank": 4,
@@ -104,10 +104,10 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
-        "title": "Evil Dead Burn",
-        "description": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vo...",
-        "source_link": "https://www.themoviedb.org/movie/1212763"
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
         "rank": 6,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
+        "image": "https://image.tmdb.org/t/p/w200/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+        "title": "Passenger",
+        "description": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called t...",
+        "source_link": "https://www.themoviedb.org/movie/1368314"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-        "title": "Minions & Monsters",
-        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
-        "source_link": "https://www.themoviedb.org/movie/1315772"
+        "image": "https://image.tmdb.org/t/p/w200/3ZaO8yZwGo4PJSgwLwSowD4EBbN.jpg",
+        "title": "The Outer Threat",
+        "description": "After making a groundbreaking extraterrestrial discovery, astrophysicists Daniel and Michelle are forced to flee from home with their family \u2014 pursued...",
+        "source_link": "https://www.themoviedb.org/movie/1381202"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/1q308iixueCU4pFtSYugNOevtNx.jpg",
-        "title": "Lee Cronin's The Mummy",
-        "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to ...",
-        "source_link": "https://www.themoviedb.org/movie/1304313"
+        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
       }
     ]
   }
