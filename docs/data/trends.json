@@ -1,5 +1,5 @@
 {
-  "last_updated": "July 11, 2026, 07:08 UTC",
+  "last_updated": "July 11, 2026, 09:23 UTC",
   "categories": {
     "tech_news": [
       {
@@ -111,24 +111,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
         "title": "Passenger",
         "description": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called t...",
         "source_link": "https://www.themoviedb.org/movie/1368314"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
       }
     ]
   }
