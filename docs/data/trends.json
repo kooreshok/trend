@@ -1,76 +1,76 @@
 {
-  "last_updated": "July 11, 2026, 20:03 UTC",
+  "last_updated": "July 11, 2026, 21:43 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://kotaku.com/app/uploads/2026/07/Roku-bad-1200x675.jpg",
+        "title": "The New Roku Update Is Terrible And Everyone Hates It - Kotaku",
+        "description": "Stop fucking things up just to shove more ads and algorithm nonsense into my face",
+        "source_link": "https://kotaku.com/its-not-just-you-everyone-is-mad-at-rokus-horrible-update-2000714762"
+      },
+      {
+        "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2026/06/topgod2-1200x675.jpg",
+        "title": "God Of War Laufey Promises PS5 Disc, Teasing 2027 Release Date - Kotaku",
+        "description": "The action game doesn't currently have a release date",
+        "source_link": "https://kotaku.com/god-of-war-laufey-promises-physical-disc-version-all-but-confirming-2027-launch-2000714778"
+      },
+      {
+        "rank": 3,
         "image": "https://d.techtimes.com/en/full/468426/microsoft.png",
         "title": "Ransomware Used Microsoft-Signed Malicious Driver to Kill EDR: 10 Hosts Hit Before Encryption - Tech Times",
         "description": "Ransomware EDR killers just leveled up: GodDamn ransomware used PoisonX \u2014 a kernel driver bearing a legitimate Microsoft Hardware Compatibility Publisher signature \u2014 to terminate security software on...",
         "source_link": "https://www.techtimes.com/articles/320091/20260710/ransomware-used-microsoft-signed-malicious-driver-kill-edr-10-hosts-hit-before-encryption.htm"
       },
       {
-        "rank": 2,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/steammachine-1152x648.jpg",
-        "title": "Valve\u2019s new Steam Machine verification system is silent on these Steam Deck-busters - Ars Technica",
-        "description": "Dozens of titles too taxing for Steam Deck are still unrated for the new hardware.",
-        "source_link": "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/"
-      },
-      {
-        "rank": 3,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/hue-bridge-pro-1-1152x648.jpg",
-        "title": "Firmware update bricks Hue Bridge Pro devices; Philips gives free replacements - Ars Technica",
-        "description": "Affected users will have to configure their lights and settings all over again.",
-        "source_link": "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/"
-      },
-      {
         "rank": 4,
-        "image": "https://kotaku.com/app/uploads/2026/07/water-baby-1200x675.jpg",
-        "title": "The Water In This 2002 Surfing Game Is Blowing People\u2019s Minds - Kotaku",
-        "description": "Gnarly water Kelly Slater, most excellent dude",
-        "source_link": "https://kotaku.com/the-water-in-this-2002-surfing-game-is-blowing-peoples-minds-2000714695"
+        "image": "https://kotaku.com/app/uploads/2026/07/ps5discs-1200x675.jpg",
+        "title": "EU Can\u2019t Force Sony To Keep Making Physical Games, Says Consumer Rights Commissioner - Kotaku",
+        "description": "The European Union won't stop the all-digital future that video game fans are facing",
+        "source_link": "https://kotaku.com/eu-cant-force-sony-to-keep-making-physical-games-says-consumer-rights-commissioner-2000714728"
       },
       {
         "rank": 5,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a510a979dd6872546f78a35/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "\u2018Palworld 1.0\u2019 Is Putting Up Enormous Steam Player Numbers At Launch - Forbes",
-        "description": "Palworld, the former viral sensation, has just launched its 1.0 version, and it has shown it still has a huge audience eager to play.",
-        "source_link": "https://www.forbes.com/sites/paultassi/2026/07/10/palworld-10-is-putting-up-enormous-steam-player-numbers-at-launch/"
+        "image": "https://kuow-prod.imgix.net/store/d14f9409ea249313e2c27ff6cd0156b1.jpg?fm=jpg&fit=max&w=1200&h=628&q=80",
+        "title": "What Xbox's layoffs, massive reboot says about the gaming industry - KUOW",
+        "description": "Microsoft plans to reduce Xbox by 3,200 jobs over the next fiscal year, calling it \u201cthe most significant restructuring in Xbox history.\u201d While the gaming industry has seen many boom and bust cycles, experts say this moment is different.",
+        "source_link": "https://www.kuow.org/stories/what-xbox-s-layoffs-massive-reboot-says-about-the-gaming-industry"
       },
       {
         "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ankerprimewirelesschargingstation.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Anker\u2019s 3-in-1 Qi2.2 charging station is $95 off - The Verge",
-        "description": "Anker\u2019s Prime Wireless Charging Station is $134.99 ($95 off) at multiple retailers. Fanttik\u2019s A10 Pro Digital Tape Measure and LG\u2019s OLED C6 TVs are on sale, too.",
-        "source_link": "https://www.theverge.com/gadgets/963665/anker-prime-wireless-charging-station-lg-oled-c6-tv-deal-sale"
+        "image": "https://www.droid-life.com/wp-content/uploads/2024/09/Pixel-9-Pro-Fold-Review-10-1200x628.jpg",
+        "title": "Google's Pixel 11 Pro Fold Gets Major Approval - Droid Life",
+        "description": "A new Google phone just rolled through the FCC today, a device that we believe to be the Pixel 11 Pro Fold. For now, this is the only new Pixel 11 phone to arrive at the FCC as we close in on the Made by Google event scheduled for August 12. The device showed\u2026",
+        "source_link": "https://www.droid-life.com/2026/07/10/google-pixel-11-pro-fold-just-landed-at-the-fcc/"
       },
       {
         "rank": 7,
-        "image": "https://cdn.ygorganization.com/2026/07/zoroa.jpg",
-        "title": "[Chronicles] Magistus Ep 4 Teaser & Some Sinful Spoils - YGOrganization",
-        "description": "Total Spellcaster Domination The teaser for episode 4 of the Magistus arc of The Chronicles is now available: \u201cThe demon god \u201cZoroa, the Magistus of Flame\u201d, finally completing his revival\u2026",
-        "source_link": "https://ygorganization.com/chronicles-magistus-ep-4-teaser-some-sinful-spoils/"
+        "image": "https://assetsio.gnwcdn.com/radiator_screenshot_header-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "\"Just too gay\" - designer Robert Yang is battling censorship to launch a collection of his award-winning games on Steam and Itch, and it's completely free - Eurogamer.net",
+        "description": "Yang's \"ongoing re-remaster\" compilation Radiator Forever is launching with four games included, and more are on the way.",
+        "source_link": "https://www.eurogamer.net/robert-yang-radiator-forever-collection-steam-itch-free"
       },
       {
         "rank": 8,
-        "image": "https://kotaku.com/app/uploads/2026/07/steam-machine-25-1200x675.jpg",
-        "title": "25 Games Tested On The Steam Machine: A Good, But Pricey Device - Kotaku",
-        "description": "How does Valve's $1,000 console-like PC compare to a PS5 Pro out of the box?",
-        "source_link": "https://kotaku.com/steam-machine-games-tested-gta-halo-cyberpunk-peak-mouse-fps-review-valve-kotaku-2000710643"
+        "image": "https://images.digitalfoundry.net/488c206c14f6e/large.jpg",
+        "title": "\"We really squeezed the PS5 as much as we could\": Ubisoft talks tech on Assassin's Creed Black Flag Resynced - Digital Foundry",
+        "description": "How a 13-year-old game becomes a modern graphical showcase.",
+        "source_link": "https://www.digitalfoundry.net/features/we-really-squeezed-the-ps5-as-much-as-we-could-ubisoft-talks-tech-on-assassins-creed-black-flag-resynced"
       },
       {
         "rank": 9,
-        "image": "https://i.pcmag.com/imagery/articles/01VTTiFgJZatHi8Ms0LPo69-1.fit_lim.size_1200x630.v1783635151.jpg",
-        "title": "FCC Approves Reflect Orbital's Space Mirror Satellite That Astronomers Hate - PCMag",
-        "description": "The FCC says the most controversial aspect of Reflect Orbital's Earendil-1 satellite, its giant mirror, falls outside its authority since the regulator mainly focuses on radio spectrum.",
-        "source_link": "https://www.pcmag.com/news/fcc-approves-reflect-orbitals-giant-mirror-satellite-that-astronomers-hate"
+        "image": null,
+        "title": "Motorola has the chance to do something special with the Edge 70 Max, so why am I skeptical? - PhoneArena",
+        "description": null,
+        "source_link": "https://www.phonearena.com/news/motorola-edge-70-max-could-be-something-special-but-i-am-skeptical-editorial_id181778"
       },
       {
         "rank": 10,
-        "image": "https://assetsio.gnwcdn.com/OneBGS.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "\"They want us to accept this as a done deal and quietly disappear\" \u2013 Bethesda union members organise protest in response to Xbox layoffs - GamesIndustry.biz",
-        "description": "440 OneBGS devs were affected by cuts at Bethesda Game Studios, Id Software, and ZeniMax Online Studios",
-        "source_link": "https://www.gamesindustry.biz/they-want-us-to-accept-this-as-a-done-deal-and-quietly-disappear-bethesda-union-members-organise-protest-in-response-to-xbox-layoffs"
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Copy-of-DumbCo-Launch-Party-Dinner-58-of-64.jpg?resize=1200,796",
+        "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone - TechCrunch",
+        "description": "Dumb Co sells flip phones that sync to your smartphone, bridging the infinite connectivity of the iPhone and the unrealistic limitations of an early 2000s relic.",
+        "source_link": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/"
       }
     ],
     "trending_movies": [
@@ -90,38 +90,38 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
-        "title": "Evil Dead Burn",
-        "description": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vo...",
-        "source_link": "https://www.themoviedb.org/movie/1212763"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
         "title": "Ikka",
         "description": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty \u2014 battling his conscience every step of the way....",
         "source_link": "https://www.themoviedb.org/movie/1484913"
       },
       {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+        "title": "Evil Dead Burn",
+        "description": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vo...",
+        "source_link": "https://www.themoviedb.org/movie/1212763"
+      },
+      {
         "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+        "title": "The Furious",
+        "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tena...",
+        "source_link": "https://www.themoviedb.org/movie/1280738"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/hAKOp4AHaDiVdDMlobMNCNgJVD7.jpg",
         "title": "Boulevard",
         "description": "New city, new life, and an unexpected encounter with Luke-a boy fueled by adrenaline and haunted by demons. Despite the warnings, Hasley can't stay aw...",
         "source_link": "https://www.themoviedb.org/movie/1595852"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-        "title": "The Furious",
-        "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tena...",
-        "source_link": "https://www.themoviedb.org/movie/1280738"
       },
       {
         "rank": 8,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/3ZaO8yZwGo4PJSgwLwSowD4EBbN.jpg",
-        "title": "The Outer Threat",
-        "description": "After making a groundbreaking extraterrestrial discovery, astrophysicists Daniel and Michelle are forced to flee from home with their family \u2014 pursued...",
-        "source_link": "https://www.themoviedb.org/movie/1381202"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
       }
     ]
   }
