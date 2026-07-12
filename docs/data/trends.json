@@ -1,69 +1,69 @@
 {
-  "last_updated": "July 12, 2026, 10:22 UTC",
+  "last_updated": "July 12, 2026, 11:55 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets-prd.ignimgs.com/2024/09/25/ps5-pro-handsonpreview-blogroll-1727223976585.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "EU Says It's Powerless to Stop PlayStation From Killing Discs - IGN",
+        "description": "As gamers sign online petitions and swarm upon each and every PlayStation social media post, the EU has said it\u2019s powerless to actually stop Sony \u2014 and indeed any company \u2014 from killing discs.",
+        "source_link": "https://www.ign.com/articles/eu-says-its-powerless-to-stop-playstation-from-killing-discs-companies-are-free-to-offer-games-and-services-in-the-manner-they-see-fit"
+      },
+      {
+        "rank": 2,
+        "image": "https://pokemongohub.net/wp-content/uploads/2026/05/mega-mewtwo-x-y-pokemon-go.jpeg",
+        "title": "Pok\u00e9mon GO Fest Global 2026: Sunday Raids - Pok\u00e9mon GO Hub",
+        "description": "Pok\u00e9mon GO Fest 2026: Global takes place from July 11-12, from 10:00 am local time, to 7:00 pm local time on each day. Mega Mewtwo X and Y will make their Pok\u00e9mon GO debut, along with Zeraora! To celebrate 10 years of Pok\u00e9mon GO, this years Global GO Fest eve\u2026",
+        "source_link": "https://pokemongohub.net/post/event/pokemon-go-fest-global-2026-sunday-raids/"
+      },
+      {
+        "rank": 3,
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/1de2/live/a36e0e60-7aee-11f1-94d8-c95634a95d3e.jpg",
         "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait? - BBC",
         "description": "The BBC's Tom Gerken plays the much-anticipated pirate game which has been remade from the ground up.",
         "source_link": "https://www.bbc.com/news/articles/cjrg9r80908o"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://images.macrumors.com/t/5q6IoBKdDsTMnq3YGqWY3n7UWwY=/2500x/article-new/2026/07/iOS-27-Mail-Feature.jpg",
         "title": "iOS 27: What's New With the Mail App - MacRumors",
         "description": "Apple's Mail app is getting some useful updates in iOS 27, with Apple making big improvements to search and introducing new AI features.   Search...",
         "source_link": "https://www.macrumors.com/guide/ios-27-mail/"
       },
       {
-        "rank": 3,
-        "image": "https://assets-prd.ignimgs.com/2026/07/10/god-of-war-laufey-physical-disc-release-confirmed-2027-1783717114655.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Santa Monica Studio Confirms Physical Disc Release for God of War Laufey, Suggesting 2027 Launch - IGN",
-        "description": "Santa Monica Studio has confirmed God of War Laufey will \"be available on disc,\" suggesting its launch will arrive in 2027.",
-        "source_link": "https://www.ign.com/articles/god-of-war-laufey-physical-disc-release-confirmed-suggesting-2027-launch"
+        "rank": 5,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2021/09/Google-Tensor-SoC.jpg",
+        "title": "Pixel 11 Pro Fold FCC listing adds support for a big Tensor G6 shake-up - Android Authority",
+        "description": "Today's Pixel 11 Pro Fold FCC document dump appears to support rumors of Google moving to a MediaTek modem.",
+        "source_link": "https://www.androidauthority.com/tensor-g6-mediatek-modem-2-3686559/"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://kotaku.com/app/uploads/2026/07/Roku-bad-1200x675.jpg",
         "title": "The New Roku Update Is Terrible And Everyone Hates It - Kotaku",
         "description": "Stop fucking things up just to shove more ads and algorithm nonsense into my face",
         "source_link": "https://kotaku.com/its-not-just-you-everyone-is-mad-at-rokus-horrible-update-2000714762"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://kotaku.com/app/uploads/2026/07/20260707-BUR-04027-1200x675.jpg",
         "title": "8 Incredible Speedruns You Have To Watch Right Now - Kotaku",
         "description": "Summer Games Fest Done Quick is not over yet, but there are plenty of gems you can watch on VOD",
         "source_link": "https://kotaku.com/best-summer-games-done-quick-2026-speedruns-to-watch-2000714726"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/07/Honda-CB400-Super-Four-E-Clutch-3.webp",
         "title": "Honda\u2019s New Small, Affordable Retro Moto Is Super Rider-Friendly Too - Gear Patrol",
         "description": "The brand revives a staple of its small-displacement portfolio, and it comes with the addition of approachable E-Clutch tech.",
         "source_link": "https://www.gearpatrol.com/motorcycles/honda-cb400-super-four-e-clutch-announcement/"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://www.androidauthority.com/wp-content/uploads/2026/03/google-pixel-11-pro-fold-onleaks-render-close-up-scaled.jpg",
         "title": "Google Pixel 11 Pro Fold appears at the FCC ahead of August launch - Android Authority",
         "description": "What's believed to be the Pixel 11 Pro Fold just made a stop at the FCC, revealing connectivity and hearing aid support.",
         "source_link": "https://www.androidauthority.com/pixel-11-pro-fold-fcc-listing-3686494/"
-      },
-      {
-        "rank": 8,
-        "image": "https://d.techtimes.com/en/full/468426/microsoft.png",
-        "title": "Ransomware Used Microsoft-Signed Malicious Driver to Kill EDR: 10 Hosts Hit Before Encryption - Tech Times",
-        "description": "Ransomware EDR killers just leveled up: GodDamn ransomware used PoisonX \u2014 a kernel driver bearing a legitimate Microsoft Hardware Compatibility Publisher signature \u2014 to terminate security software on...",
-        "source_link": "https://www.techtimes.com/articles/320091/20260710/ransomware-used-microsoft-signed-malicious-driver-kill-edr-10-hosts-hit-before-encryption.htm"
-      },
-      {
-        "rank": 9,
-        "image": "https://helios-i.mashable.com/imagery/articles/00GYGfk2FbQeVJJTwAskOJS/hero-image.fill.size_1200x675.v1783702217.jpg",
-        "title": "OpenAI is shutting down its Atlas web browser - Mashable",
-        "description": "Hello, ChatGPT Work. Goodbye Atlas.",
-        "source_link": "https://mashable.com/tech/openai-shut-down-atlas-browser"
       }
     ],
     "trending_movies": [
@@ -104,38 +104,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
-        "title": "Passenger",
-        "description": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called t...",
-        "source_link": "https://www.themoviedb.org/movie/1368314"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
-        "title": "Ikka",
-        "description": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty \u2014 battling his conscience every step of the way....",
-        "source_link": "https://www.themoviedb.org/movie/1484913"
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+        "title": "Passenger",
+        "description": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called t...",
+        "source_link": "https://www.themoviedb.org/movie/1368314"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/hAKOp4AHaDiVdDMlobMNCNgJVD7.jpg",
         "title": "Boulevard",
         "description": "New city, new life, and an unexpected encounter with Luke-a boy fueled by adrenaline and haunted by demons. Despite the warnings, Hasley can't stay aw...",
         "source_link": "https://www.themoviedb.org/movie/1595852"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
+        "title": "Ikka",
+        "description": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty \u2014 battling his conscience every step of the way....",
+        "source_link": "https://www.themoviedb.org/movie/1484913"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
+        "image": "https://image.tmdb.org/t/p/w200/3ZaO8yZwGo4PJSgwLwSowD4EBbN.jpg",
+        "title": "The Outer Threat",
+        "description": "After making a groundbreaking extraterrestrial discovery, astrophysicists Daniel and Michelle are forced to flee from home with their family \u2014 pursued...",
+        "source_link": "https://www.themoviedb.org/movie/1381202"
       }
     ]
   }
