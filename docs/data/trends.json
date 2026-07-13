@@ -1,76 +1,69 @@
 {
-  "last_updated": "July 13, 2026, 18:40 UTC",
+  "last_updated": "July 13, 2026, 20:09 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-        "title": "Apple\u2019s failed self-driving car program left a legacy of powerful AI chips - The Verge",
-        "description": "Apple is accelerating development of the M7 Ultra, which could support up to 1.5TB of RAM and features major Neural Engine upgrades.",
-        "source_link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra"
+        "image": "https://assets-prd.ignimgs.com/2026/07/11/wf-taudemo-screenshot-vessel-3840x2160-1783788758094.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "TennoCon 2026: Everything Announced at the Warframe and Soulframe Fan Event - IGN",
+        "description": "Here's everything announced at TennoCon 2026, including all the latest news and trailers on Warframe and Soulframe.",
+        "source_link": "https://www.ign.com/articles/tennocon-2026-everything-announced-at-the-warframe-and-soulframe-fan-event"
       },
       {
         "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2026/07/vanillaso1-1200x675.jpg",
+        "title": "Vanillaware Artist Moved Into The Mountains For Six Years To Create Lush Love Letter To Old School RPGs - Kotaku",
+        "description": "Yoshio Nishimura\u2019s Veritas Tales: Witch of the Dark Castle is a delightfully quirky love letter to the likes of Grailquest and Deathtrap Dungeon",
+        "source_link": "https://kotaku.com/vanillaware-artist-moved-into-the-mountains-for-six-years-to-create-lush-love-letter-to-old-school-rpgs-2000715013"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.timeextension.com/19d50bae04d60/large.jpg",
+        "title": "Retro Recap: All The Classic Gaming News From The Past Week (July 12th 2026) - Time Extension",
+        "description": "Super Mario Bros. Special! Rhapsody: A Musical Adventure! Evercade price hike!",
+        "source_link": "https://www.timeextension.com/features/retro-recap-all-the-classic-gaming-news-from-the-past-week-july-12th-2026"
+      },
+      {
+        "rank": 4,
+        "image": "https://kotaku.com/app/uploads/2026/07/warframe-1200x675.jpg",
+        "title": "Warframe Dev Reacts To The Sudden Death Of Rival Destiny 2 - Kotaku",
+        "description": "Business realities remain an existential threat to live service art",
+        "source_link": "https://kotaku.com/warframe-dev-calls-the-sudden-death-of-destiny-2-horrible-news-and-says-its-terrifying-to-not-be-in-charge-of-your-own-goodbye-2000715006"
+      },
+      {
+        "rank": 5,
+        "image": "https://assets.warhammer-community.com/articles/0-2026/july/wc06-07/sundaypreview-jul12-1-feature-19p4ko8ekz.jpg",
+        "title": "Sunday Preview \u2013 Ogor Mawtribes on the warpath - Warhammer Community",
+        "description": "See what\u2019s coming up next week for Warhammer Age of Sigmar, Legions Imperialis, and more.",
+        "source_link": "https://www.warhammer-community.com/articles/p0r8elbp/sunday-preview-ogor-mawtribes-on-the-warpath"
+      },
+      {
+        "rank": 6,
         "image": "https://assetsio.gnwcdn.com/Kirby-Air-Raiders_Kirby_main.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Summer Games Done Quick 2026 raises another $2.4 million for Doctors Without Borders - Eurogamer.net",
         "description": "The annual speedrunning marathon, held in Minneapolis this week, welcomed around 2500 in-person attendees, as well as thousands via its livestreams.",
         "source_link": "https://www.eurogamer.net/sgdq-2026-raises-24-m"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/pixel-10-pro-xl-review-9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "The problems with Google Pixel price hikes - 9to5Google",
         "description": "Like everything else in the tech industry, Google\u2019s Pixel 11 series appears to be getting a price hike, but there...",
         "source_link": "http://9to5google.com/2026/07/12/google-pixel-price-hike-problems/"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://images.firstpost.com/uploads/2026/06/Apple-2026-06-cdaaade5ede3e21ac2f97d814ce83c47-1200x675.jpg?im=FitAndFill=(1200,675)",
         "title": "Apple plans new Apple pencils, expands iPhone tap to pay in stores: Report - Firstpost",
         "description": "Apple is reportedly planning new Apple Pencils with replaceable batteries while expanding iPhone-based Tap to Pay across its retail stores.",
         "source_link": "https://www.firstpost.com/world/apple-plans-new-apple-pencils-expands-iphone-tap-to-pay-in-stores-report-14030857.html"
       },
       {
-        "rank": 5,
-        "image": "https://kotaku.com/app/uploads/2026/07/sitting.jpg",
-        "title": "Minecraft's New Cushion Is Reinventing Pretty Much Everything - Kotaku",
-        "description": "Mojang, please don't nerf the cushion",
-        "source_link": "https://kotaku.com/minecraft-adds-the-ability-to-sit-17-years-later-and-its-reinventing-everything-2000714330"
-      },
-      {
-        "rank": 6,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68eb70cab1a8496225a0acd5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "iPhone 18 Pro Release Date: New iOS Update Reveals September Plan - Forbes",
-        "description": "The schedule that runs up to the release of the next iPhones is meticulously staged. So far, it looks like the iPhone 18 Pro timetable is proceeding according to plan.",
-        "source_link": "https://www.forbes.com/sites/davidphelan/2026/07/12/apple-iphone-18-pro-release-date-ios-27-locks-in-september-schedule/"
-      },
-      {
-        "rank": 7,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-camera-sale.jpg",
-        "title": "Nintendo Switch 2\u2019s official camera gets massive discount, at lowest price ever - Nintendo Everything",
-        "description": "You can now get the official Nintendo Switch 2 camera at a massive discount with the device at its lowest price ever.",
-        "source_link": "https://nintendoeverything.com/nintendo-switch-2s-official-camera-gets-massive-discount-at-lowest-price-ever/"
-      },
-      {
-        "rank": 8,
-        "image": "https://i.insider.com/6a512adbd9d92978fe6a5ac9?width=1200&format=jpeg",
-        "title": "AI giants learn what everyone else on the modern internet already knows - Business Insider",
-        "description": "Anthropic's distillation complaints expose an awkward question: does AI's fair use argument cut both ways?",
-        "source_link": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7#article"
-      },
-      {
         "rank": 9,
-        "image": "https://www.cnet.com/a/img/resize/dbff43b9aec33a7ba030a71627e94dbfdc4b29c9/hub/2025/04/09/cbcd5942-8195-4883-959e-0b8545b8db2a/gettyimages-77510867.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "The Right Way to Get Rid of Old Laptops, PCs and Printers (and It's Free) - CNET",
-        "description": "Getting rid of old computers and printers responsibly is free, accessible and considerably simpler than most people assume.",
-        "source_link": "https://www.cnet.com/tech/computing/the-right-way-to-get-rid-of-old-laptops-pcs-and-printers-and-its-free/"
-      },
-      {
-        "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0125.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Less is more with the Oura Ring 5 - The Verge",
-        "description": "The $399 Oura Ring 5 is truly thinner and lighter, but it\u2019s mostly the same user experience as the previous Oura Ring 4. The app is also a bit more cluttered.",
-        "source_link": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables"
+        "image": "https://www.housedigest.com/img/gallery/the-rare-pyrex-bowl-produced-for-only-a-year-that-collectors-dream-of-finding-at-thrift-stores/l-intro-1783516873.jpg",
+        "title": "The Rare Pyrex Bowl Produced For Only A Year That Collectors Dream Of Finding At Thrift Stores - House Digest",
+        "description": "Pyrex\u2019s Black Tulip casserole dish is a rare find for thrifters because its pattern of black flowers and pinwheels was only produced from 1956 to 1957.",
+        "source_link": "https://www.housedigest.com/2210434/rare-pyrex-dish-black-tulip-pattern-collectors-dream-of-finding-thrift-stores/"
       }
     ],
     "trending_movies": [
@@ -97,52 +90,52 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
         "title": "Evil Dead Burn",
         "description": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vo...",
         "source_link": "https://www.themoviedb.org/movie/1212763"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "title": "The Furious",
         "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tena...",
         "source_link": "https://www.themoviedb.org/movie/1280738"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
         "title": "Digger",
         "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
         "source_link": "https://www.themoviedb.org/movie/1248832"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/fp5EAKE8nTx402n1fWz55QsuYY9.jpg",
-        "title": "Ikka",
-        "description": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty \u2014 battling his conscience every step of the way....",
-        "source_link": "https://www.themoviedb.org/movie/1484913"
+        "image": "https://image.tmdb.org/t/p/w200/vrTlRYPhnf107vbTiDf6DRrdV3r.jpg",
+        "title": "Minions & Monsters",
+        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
+        "source_link": "https://www.themoviedb.org/movie/1315772"
       }
     ]
   }
