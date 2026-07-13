@@ -1,76 +1,76 @@
 {
-  "last_updated": "July 13, 2026, 13:18 UTC",
+  "last_updated": "July 13, 2026, 16:27 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/68eb70cab1a8496225a0acd5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "iPhone 18 Pro Release Date: New iOS Update Reveals September Plan - Forbes",
+        "description": "The schedule that runs up to the release of the next iPhones is meticulously staged. So far, it looks like the iPhone 18 Pro timetable is proceeding according to plan.",
+        "source_link": "https://www.forbes.com/sites/davidphelan/2026/07/12/apple-iphone-18-pro-release-date-ios-27-locks-in-september-schedule/"
+      },
+      {
+        "rank": 2,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Switch-2-camera-sale.jpg",
+        "title": "Nintendo Switch 2\u2019s official camera gets massive discount, at lowest price ever - Nintendo Everything",
+        "description": "You can now get the official Nintendo Switch 2 camera at a massive discount with the device at its lowest price ever.",
+        "source_link": "https://nintendoeverything.com/nintendo-switch-2s-official-camera-gets-massive-discount-at-lowest-price-ever/"
+      },
+      {
+        "rank": 3,
+        "image": "https://i.insider.com/6a512adbd9d92978fe6a5ac9?width=1200&format=jpeg",
+        "title": "AI giants learn what everyone else on the modern internet already knows - Business Insider",
+        "description": "Anthropic's distillation complaints expose an awkward question: does AI's fair use argument cut both ways?",
+        "source_link": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7#article"
+      },
+      {
+        "rank": 4,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipgZEQYo1qNg/v6/1200x800.jpg",
+        "title": "Apple\u2019s M6, M7 and M8 Chips Show How AI Is Reshaping the Company - Bloomberg.com",
+        "description": "Also: New Apple Pencils are coming.",
+        "source_link": "https://www.bloomberg.com/news/newsletters/2026-07-12/apple-s-chip-plans-m6-m7-pro-m7-max-m7-ultra-m8-details-touch-macbook-pro"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.cnet.com/a/img/resize/dbff43b9aec33a7ba030a71627e94dbfdc4b29c9/hub/2025/04/09/cbcd5942-8195-4883-959e-0b8545b8db2a/gettyimages-77510867.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "The Right Way to Get Rid of Old Laptops, PCs and Printers (and It's Free) - CNET",
+        "description": "Getting rid of old computers and printers responsibly is free, accessible and considerably simpler than most people assume.",
+        "source_link": "https://www.cnet.com/tech/computing/the-right-way-to-get-rid-of-old-laptops-pcs-and-printers-and-its-free/"
+      },
+      {
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/blue-prince-hallway.png?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+        "title": "Blue Prince became a bonding \u2014 and learning \u2014 experience for my family - The Verge",
+        "description": "\ufeffThe experience of watching how Blue Prince has brought my wife and son even closer while challenging them both is something I\u2019ll forever cherish.",
+        "source_link": "https://www.theverge.com/games/964262/blue-prince-family-bonding"
+      },
+      {
+        "rank": 7,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/AMD-Radeon-GPU-Driver-FSR-MFG-8x-Multi-Frame-Generation-Ray-Regeneration-Neural-Radiance-Caching-_F.jpg",
+        "title": "AMD Radeon Drivers Silently Add Multi Frame Generation \u201cMFG 8x\u201d, Ray Regeneration, and Neural Radiance Overrides, Hinting At A Bigger FSR Push - Wccftech",
+        "description": "AMD's latest Radeon drivers silently added Multi-Frame Generation (MFG 8x) modes along with other FSR overrides, as exposed in RadeonTuner.",
+        "source_link": "https://wccftech.com/amd-radeon-drivers-hid-multi-frame-generation-mfg-8x-ray-regeneration-neural-radiance-overrides-hinting-at-a-bigger-fsr-push/"
+      },
+      {
+        "rank": 8,
         "image": "https://images.pushsquare.com/2096e140ba34a/large.jpg",
         "title": "PS5's Physical Disc Debacle Will Attract More Anger if This Xbox Rumour Is True - Push Square",
         "description": "Next week could be interesting",
         "source_link": "https://www.pushsquare.com/news/2026/07/ps5s-physical-disc-debacle-will-attract-more-anger-if-this-xbox-rumour-is-true"
       },
       {
-        "rank": 2,
+        "rank": 9,
         "image": "https://www.bgr.com/img/gallery/10-essential-apple-watch-features-you-have-to-enable-yourself/l-intro-1783100542.jpg",
         "title": "10 Essential Apple Watch Features You Have To Enable Yourself - bgr.com",
         "description": "Customizing workouts, changing your Control Center, and setting up a sleep schedule are essential Apple Watch features you should enable and test.",
         "source_link": "https://www.bgr.com/2207756/essential-apple-watch-features-enable-yourself/"
       },
       {
-        "rank": 3,
+        "rank": 10,
         "image": "https://www.bgr.com/img/gallery/5-star-trek-gadgets-that-have-or-will-soon-become-real-world-tech/l-intro-1783703808.jpg",
         "title": "5 Star Trek Gadgets That Have (Or Will Soon) Become Real World Tech - bgr.com",
         "description": "\"Star Trek\" has inspired technologies like humanoid robots, universal translation devices, hypospray-like medical jet injectors, and even virtual environments.",
         "source_link": "https://www.bgr.com/2212472/star-trek-gadgets-real-world-tech/"
-      },
-      {
-        "rank": 4,
-        "image": "https://rockstarintel.com/wp-content/uploads/2026/07/ff97a2a5a3c452c1049a75eae778870674ff0e48-scaled.jpg",
-        "title": "GTA Online The Kortz Center Heist Update Download Goes Live Early - RockstarINTEL",
-        "description": "The upcoming GTA Online The Kortz Center Heist DLC is now available to download ahead of its official release on Tuesday July 14th. Much like how previous GTA Online updates could be pre-downloaded, Rockstar Games have done the same here with this summer\u2019s bi\u2026",
-        "source_link": "https://rockstarintel.com/gta-online-the-kortz-center-heist-update-download-goes-live-early/"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.videogameschronicle.com/files/2026/07/Screenshot-2026-07-12-112306.jpg",
-        "title": "Nintendo\u2019s next major Lego set is a $200 Donkey Kong arcade machine - Video Games Chronicle",
-        "description": "The $200 Donkey Kong Lego set is reportedly releasing in August",
-        "source_link": "https://www.videogameschronicle.com/news/nintendos-next-major-lego-set-is-a-200-donkey-kong-arcade-machine/"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/fitbit-air-open.jpg",
-        "title": "I couldn't have been more wrong about the Fitbit Air \u2014 here's what changed my mind - Android Authority",
-        "description": "I expected the Fitbit Air to confirm everything I liked about WHOOP. Instead, after three weeks of testing, it completely changed my mind.",
-        "source_link": "https://www.androidauthority.com/i-couldnt-have-been-more-wrong-about-the-fitbit-air-3685038/"
-      },
-      {
-        "rank": 7,
-        "image": "https://cdn.mos.cms.futurecdn.net/nVoyqTzzvokCvmo5FBK4ma-1920-80.jpg",
-        "title": "Xbox left behind, as PlayStation-exclusive Call of Duty tops charts - Windows Central",
-        "description": "Call of Duty: Black Ops 1 and 2 are already available on Xbox One and above via Xbox 360 back compat ... but there's a problem. Well, several problems.",
-        "source_link": "https://www.windowscentral.com/gaming/xbox/xbox-just-released-a-playstation-console-exclusive-and-its-beating-gta-6-on-the-charts-heres-why-it-actually-sucks-for-fans"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.trueachievements.com/imgs/176753/xbox-gets-over-40-new-games-next-week-including-five-new-game-pass-titles.jpg",
-        "title": "Xbox gets over 40 new games next week including five new Game Pass titles - TrueAchievements",
-        "description": "Next week, a ridiculous 43 new games launch for Xbox consoles and PC, including five new additions for Xbox Game Pass subscribers.",
-        "source_link": "https://www.trueachievements.com/news/new-xbox-games-july-13-2026"
-      },
-      {
-        "rank": 9,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Why-Spyro-a-Realm-Beyond-isnt-Spyro-4.jpg",
-        "title": "Spyro: A Realm Beyond dev explains why it\u2019s not Spyro 4 - Nintendo Everything",
-        "description": "Spyro is finally back with a brand new game with next year\u2019s A Realm Beyond, but it technically isn\u2019t Spyro 4 \u2013 at least in name. Toys for Bob recently commented on the naming decision. You may remember that when Crash Bandicoot was brought back with a brand \u2026",
-        "source_link": "https://nintendoeverything.com/spyro-a-realm-beyond-dev-explains-why-its-not-spyro-4-plus-lots-of-new-details/"
-      },
-      {
-        "rank": 10,
-        "image": "https://cdn.mos.cms.futurecdn.net/sPoPakgyuDNrY354kHUyDj-2120-80.jpg",
-        "title": "Don\u2019t know where to start with strength training? This expert-approved formula is the simplest way to build muscle at home - Fit&Well",
-        "description": "If you get bored working out, this sports scientist\u2019s home workout formula could be a game changer",
-        "source_link": "https://www.fitandwell.com/exercise/home-workouts/dont-know-where-to-start-with-strength-training-this-expert-approved-formula-is-the-simplest-way-to-build-muscle-at-home"
       }
     ],
     "trending_movies": [
@@ -118,10 +118,10 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
+        "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+        "title": "Digger",
+        "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
+        "source_link": "https://www.themoviedb.org/movie/1248832"
       },
       {
         "rank": 8,
@@ -132,14 +132,14 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-        "title": "Michael",
-        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
+        "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/vrTlRYPhnf107vbTiDf6DRrdV3r.jpg",
         "title": "Minions & Monsters",
         "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
         "source_link": "https://www.themoviedb.org/movie/1315772"
