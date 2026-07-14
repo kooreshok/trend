@@ -1,69 +1,76 @@
 {
-  "last_updated": "July 13, 2026, 23:50 UTC",
+  "last_updated": "July 14, 2026, 02:03 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/c312/live/88ec5440-7be6-11f1-9010-bd4e2d0a26e0.png",
+        "title": "Pok\u00e9mon Go at 10 and the millions still trying to catch 'em all - BBC",
+        "description": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
+        "source_link": "https://www.bbc.com/news/articles/cevlwk4nrm7o"
+      },
+      {
+        "rank": 2,
         "image": "https://imageio.forbes.com/specials-images/imageserve/6a527aaa815e7835cb11293b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "iPhone 18 Pro Release Date: Apple\u2019s Strategic Choice Can Defeat Rivals - Forbes",
         "description": "Apple\u2019s September launch of the iPhone 18 Pro allows it to learn from its Android rivals. Samsung and Google will take the pain as Apple reaps the benefits.",
         "source_link": "https://www.forbes.com/sites/ewanspence/2026/07/12/phone-18-pro-market-timing-strategy/"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2026/07/bridgers-1200x675.jpg",
+        "title": "Phoebe Bridgers Launches Itch.io Page With An Infinite Runner - Kotaku",
+        "description": "The indie superstar breaks her hiatus with a RuneScape inspired single and a Subway Surfers style micro game",
+        "source_link": "https://kotaku.com/phoebe-bridgers-launches-itch-io-page-with-an-infinite-runner-2000715034"
+      },
+      {
+        "rank": 4,
         "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/HC004339_Echo-XPC_Exploded-View_1.jpg",
         "title": "Special Microsoft Flight Simulator controller is coming to Xbox - Notebookcheck",
         "description": "So far, the Echo Aviation Controller has only been available for PC, where it supports Microsoft Flight Simulator and other titles. It can also be used on Mac for Laminar Research's X-Plane. A new model with console support is expected to follow soon.",
         "source_link": "https://www.notebookcheck.net/Special-Microsoft-Flight-Simulator-controller-is-coming-to-Xbox.1341165.0.html"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://assets-prd.ignimgs.com/2022/10/26/newvegas-1666019184343-1666825683600.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Obsidian Director Blasts People 'Running Their Mouths' About How the Studio Has Changed Following Xbox Layoffs - IGN",
         "description": "Obsidian Entertainment director Brandon Adler is tired of seeing \"cold take artists\" who are \"running their mouths\" about the studio following recent Xbox layoffs.",
         "source_link": "https://www.ign.com/articles/obsidian-director-blasts-people-running-their-mouths-about-how-the-studio-has-changed-following-xbox-layoffs"
       },
       {
-        "rank": 4,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69e0b3acbc89651a36015dc6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "iOS 27 Release Date: Latest Schedule Confirms iPhone\u2019s July Public Beta - Forbes",
-        "description": "Apple\u2019s new iPhone software will go on general release in the fall, but signs suggest the public beta is almost upon us.",
-        "source_link": "https://www.forbes.com/sites/davidphelan/2026/07/12/apple-ios-27-release-date-when-you-can-install-iphones-new-software---public-beta-near/"
-      },
-      {
-        "rank": 5,
+        "rank": 6,
         "image": "https://www.hotspawn.com/wp-content/uploads/2026/07/Fortnite-Pro-Am-20261.webp",
         "title": "Fortnite Pro-Am 2026 Leaderboard - Full Standings - Hotspawn",
         "description": "How does the Fortnite Pro-Am 2026 leaderboard look? These are the complete standings for the tournament so far, and how it\u2019s all looking.",
         "source_link": "https://www.hotspawn.com/fortnite/news/full-fortnite-pro-am-2026-leaderboard"
       },
       {
-        "rank": 6,
+        "rank": 7,
+        "image": "https://www.bgr.com/img/gallery/the-10-best-bluetooth-speaker-brands-ranked-by-sound-quality/l-intro-1783327193.jpg",
+        "title": "The 10 Best Bluetooth Speaker Brands, Ranked By Sound Quality - bgr.com",
+        "description": "Getting serious sound quality with the convenience of Bluetooth portability is big business these days. We checked out some of the top brands in the market.",
+        "source_link": "https://www.bgr.com/2208215/best-bluetooth-speaker-brands-ranked/"
+      },
+      {
+        "rank": 8,
+        "image": "https://www.slashgear.com/img/gallery/5-4-cylinder-engines-that-deliver-v6-power/l-intro-1783281159.jpg",
+        "title": "5 4-Cylinder Engines That Deliver V6 Power - SlashGear",
+        "description": "Powerful vehicles used to require powerful engines, but thanks to newer technology and improved efficiency, a 4-cylinder can perform just as well as a v6.",
+        "source_link": "https://www.slashgear.com/2208102/4-cylinder-engine-delivers-v6-power-levels/"
+      },
+      {
+        "rank": 9,
         "image": "https://assets-prd.ignimgs.com/2026/07/11/wf-taudemo-screenshot-vessel-3840x2160-1783788758094.png?width=1280&format=jpg&auto=webp&quality=80",
         "title": "TennoCon 2026: Everything Announced at the Warframe and Soulframe Fan Event - IGN",
         "description": "Here's everything announced at TennoCon 2026, including all the latest news and trailers on Warframe and Soulframe.",
         "source_link": "https://www.ign.com/articles/tennocon-2026-everything-announced-at-the-warframe-and-soulframe-fan-event"
       },
       {
-        "rank": 7,
+        "rank": 10,
         "image": "https://kotaku.com/app/uploads/2019/05/l5dyuzkmobnf1sreh4n8-1200x675.jpg",
         "title": "Brazilian Courts Force Xbox To Restore Hacked Account - Kotaku",
         "description": "Microsoft reportedly assigned 12 lawyers to argue over $400 and some video games",
         "source_link": "https://kotaku.com/brazilian-courts-force-xbox-to-restore-hacked-account-and-pay-damages-2000715020"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/Pixel-10-Pro-Fold-camera-bar-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Pixel 11 Pro Fold in \u2018Pine\u2019 leaks & could Pixel Glow just be the camera flash? - 9to5Google",
-        "description": "With the launch event one month away, the Pixel 11 leaks are picking up, and we now have a look at the \u201cPine\u201d color for the 11 Pro Fold.",
-        "source_link": "http://9to5google.com/2026/07/12/pixel-11-pro-pine-color-leak/"
-      },
-      {
-        "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2026/07/vanillaso1-1200x675.jpg",
-        "title": "Vanillaware Artist Moved Into The Mountains For Six Years To Create Lush Love Letter To Old School RPGs - Kotaku",
-        "description": "Yoshio Nishimura\u2019s Veritas Tales: Witch of the Dark Castle is a delightfully quirky love letter to the likes of Grailquest and Deathtrap Dungeon",
-        "source_link": "https://kotaku.com/vanillaware-artist-moved-into-the-mountains-for-six-years-to-create-lush-love-letter-to-old-school-rpgs-2000715013"
       }
     ],
     "trending_movies": [
@@ -90,45 +97,45 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
-        "title": "Evil Dead Burn",
-        "description": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vo...",
-        "source_link": "https://www.themoviedb.org/movie/1212763"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-        "title": "The Furious",
-        "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tena...",
-        "source_link": "https://www.themoviedb.org/movie/1280738"
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+        "title": "Evil Dead Burn",
+        "description": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vo...",
+        "source_link": "https://www.themoviedb.org/movie/1212763"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
         "title": "Digger",
         "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
         "source_link": "https://www.themoviedb.org/movie/1248832"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+        "title": "The Furious",
+        "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tena...",
+        "source_link": "https://www.themoviedb.org/movie/1280738"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
         "rank": 10,
