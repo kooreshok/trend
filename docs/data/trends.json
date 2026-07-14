@@ -1,76 +1,76 @@
 {
-  "last_updated": "July 14, 2026, 13:23 UTC",
+  "last_updated": "July 14, 2026, 15:20 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/thh_combiweapons-jul13-1-feature-usib7chxre.jpg",
+        "title": "Create Horus Heresy veterans with new combi-weapons and shotguns - Warhammer Community",
+        "description": "Check out the new upgrade kit of combi-weapons and pouches for your troops in Warhammer: The Horus Heresy.",
+        "source_link": "https://www.warhammer-community.com/articles/dgulc48x/create-horus-heresy-veterans-with-new-combi-weapons-and-shotguns"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.purexbox.com/b38ff966cd559/large.jpg",
+        "title": "Xbox Seems To Be Making A Fortune On The New Black Ops Ports For PS5 - Pure Xbox",
+        "description": "They've been spotted trending higher than GTA 6",
+        "source_link": "https://www.purexbox.com/news/2026/07/xbox-seems-to-be-making-a-fortune-on-the-new-black-ops-ports-for-ps5"
+      },
+      {
+        "rank": 3,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a54e75d27398c46936d67b1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "The \u2018Palworld\u2019 Stats To Level First, Those To Ignore And How To Respec - Forbes",
+        "description": "Here are which stats should be a priority to upgrade in Palworld, which ones to avoid for a while, and how to respec the skill points.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/07/13/the-palworld-stats-to-level-first-those-to-ignore-and-how-to-respec/"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.techpowerup.com/review/assassins-creed-black-flag-resynced-performance-benchmark/images/title.jpg",
+        "title": "Assassin's Creed Black Flag Resynced Performance Benchmark Review - 35 GPUs Tested - TechPowerUp",
+        "description": "Ubisoft's Assassin's Creed Black Flag Resynced breathes new life into the classic with modern graphics, gameplay improvements and full ray tracing support. In our performance review, we examine its graphical fidelity, VRAM usage, upscaling options, and how we\u2026",
+        "source_link": "https://www.techpowerup.com/review/assassins-creed-black-flag-resynced-performance-benchmark/"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/07/Lunarium-Date_07-13-26.jpg",
+        "title": "Lunarium launches July 29 - Gematsu",
+        "description": "Hand-drawn isometric action RPG Lunarium will launch for PC via Steam on July 29 for $17.99 / \u20ac17.99 / \u00a315.99, publisher Imperfect Games and developer Lunarium Game Studio announced. It will suppor\u2026",
+        "source_link": "https://www.gematsu.com/2026/07/lunarium-launches-july-29"
+      },
+      {
+        "rank": 6,
+        "image": "https://www.salon.com/app/uploads/2026/07/luddite-1649662729.jpg",
+        "title": "It\u2019s time to reclaim the Luddite - Salon.com",
+        "description": "Big Tech looted our attention. Getting it back means rethinking the world offline.",
+        "source_link": "https://www.salon.com/2026/07/13/its-time-to-reclaim-the-luddite/"
+      },
+      {
+        "rank": 7,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Final-Fantasy-Tactics-The-Ivalice-Chronicles-1.5.1-update.jpg",
+        "title": "Final Fantasy Tactics: The Ivalice Chronicles 1.5.1 update out now, patch notes - Nintendo Everything",
+        "description": "Square Enix just put out a new version 1.5.1 update for Final Fantasy Tactics: The Ivalice Chronicles, and the patch notes are in.",
+        "source_link": "https://nintendoeverything.com/final-fantasy-tactics-the-ivalice-chronicles-1-5-1-update-out-now-patch-notes/"
+      },
+      {
+        "rank": 8,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/07/Octopath-0-Update_07-13-26.jpg",
+        "title": "Octopath Traveler 0 update announced, adds new Monster Arena foe and resident - Gematsu",
+        "description": "Square Enix will release a free update for Octopath Traveler 0 later in 2026, the company announced.",
+        "source_link": "https://www.gematsu.com/2026/07/octopath-traveler-0-update-announced-adds-new-monster-arena-foe-and-resident"
+      },
+      {
+        "rank": 9,
+        "image": "https://www.jalopnik.com/img/gallery/at-6900-is-this-2004-audi-tt-3-2-a-bauhaus-bargain/l-intro-1783707973.jpg",
+        "title": "At $6,900, Is This 2004 Audi TT 3.2 A Bauhaus Bargain? - Jalopnik",
+        "description": "The 2004 Audi TT 3.2 we're going to discuss today might be considered a future classic owing to its form-over-function design and desirable drivetrain.",
+        "source_link": "https://www.jalopnik.com/2212555/2004-audi-tt-3-2-for-sale-6900/"
+      },
+      {
+        "rank": 10,
         "image": "https://nintendoeverything.com/wp-content/uploads/Octopath-1-2-Switch-2.png",
         "title": "Octopath Traveler 1 and 2 announce Nintendo Switch 2 versions, out today - Nintendo Everything",
         "description": "The Octopath Traveler series is expanding on Nintendo Switch 2 with native versions of Octopath Traveler and Octopath Traveler 2. Both will launch as digital downloads today. News about this just dropped during an anniversary live stream. Square Enix held the\u2026",
         "source_link": "https://nintendoeverything.com/octopath-traveler-1-and-2-announce-nintendo-switch-2-versions-out-today/"
-      },
-      {
-        "rank": 2,
-        "image": "https://substackcdn.com/image/fetch/$s_!B9vY!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa96e256a-1400-49fe-8492-ba0eef45bb99_833x1024.jpeg",
-        "title": "AI Isn\u2019t Human. Stop Talking About It Like It Is. - The Free Press",
-        "description": "Anthropic\u2019s latest research reveals how Claude reasons internally, but it offers no evidence that AI has the kind of consciousness or experience that make us human.",
-        "source_link": "https://www.thefp.com/p/artificial-intelligence-not-human"
-      },
-      {
-        "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/331A1872.jpg?quality=90&strip=all&crop=8%2C24.423035219674%2C85%2C66.754173314461&w=1200",
-        "title": "This free Mac app reveals the truth about your mystery USB-C cables - The Verge",
-        "description": "WhatCable is an free Mac app, for Macs with M1 or later chips, that can test your USB-C cables and connections.",
-        "source_link": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac"
-      },
-      {
-        "rank": 4,
-        "image": "https://images.purexbox.com/f315046858799/large.jpg",
-        "title": "Seven Games Are Confirmed For Xbox Game Pass This Week (July 13-17) - Pure Xbox",
-        "description": "Starting off with Ascend to Zero on Monday",
-        "source_link": "https://www.purexbox.com/news/2026/07/seven-games-are-confirmed-for-xbox-game-pass-this-week-july-13-17"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.videogameschronicle.com/files/2019/04/preview-game-06.jpg",
-        "title": "\u2018Removing discs doesn\u2019t represent progress\u2019: UK retail group condemns PlayStation decision to stop making discs - Video Games Chronicle",
-        "description": "It says Sony's plan is \"a triumph of corporate convenience over consumer choice\"",
-        "source_link": "https://www.videogameschronicle.com/news/removing-discs-doesnt-represent-progress-uk-retail-group-condemns-playstation-decision-to-stop-making-discs/"
-      },
-      {
-        "rank": 6,
-        "image": "https://assetsio.gnwcdn.com/AC-Black-Flag-Resynced---reaching-a-port.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Despite having an offline mode, Assassin's Creed Black Flag Resynced was unplayable when Ubisoft Connect went down - Eurogamer.net",
-        "description": "Assassin's Creed Black Flag Resynced players on PC were shocked to find that a Ubisoft Connect outage has locked them out of playing the game.",
-        "source_link": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-ubisoft-connect-outage-offline-mode"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&strip=all&crop=0%2C3.2347601883764%2C100%2C93.530479623247&w=1200",
-        "title": "Waze is getting a bunch of new AI-powered features - The Verge",
-        "description": "Waze announced several new features powered by Google\u2019s Gemini, including conversational reporting and destination search.",
-        "source_link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.techpowerup.com/img/ftAu32CAvzJdDPSk.jpg",
-        "title": "AMD FSR Multi-Frame Generation With Up to 8x Mode in Development - TechPowerUp",
-        "description": "AMD has reportedly been testing a new and highly anticipated FSR multi-frame generation (MFG) technology for its Radeon RX GPUs. This information comes from a third-party software called RadeonTuner, which allows access to Radeon driver settings without using\u2026",
-        "source_link": "https://www.techpowerup.com/350704/amd-fsr-multi-frame-generation-with-up-to-8x-mode-in-development"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.sammobile.com/wp-content/uploads/2026/06/Samsung-Galaxy-Watch-9-Render-1200x675.jpg",
-        "title": "Galaxy Watch 9 and Watch Ultra 2 pricing and Bluetooth version leak - SamMobile",
-        "description": "Samsung could announce two new smartwatches, the Galaxy Watch 9 and the Galaxy Watch Ultra 2, later this month. Besides new health, fitness, and wellness features, these upcoming Galaxy Watches could also bring connectivity upgrades. A new report also reveals\u2026",
-        "source_link": "https://www.sammobile.com/news/galaxy-watch-9-ultra-2-price-bluetooth-version/"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/07/Super-Bomberman-Panic-Bomber-W-Update_07-12-26.jpg",
-        "title": "Super Bomberman Collection update to add Super Bomberman: Panic Bomber W on August 20 - Gematsu",
-        "description": "Konami will release a free update for Super Bomberman Collection on August 20 that adds Super Bomberman: Panic Bomber W as a playable title, the company annonuced (2).",
-        "source_link": "https://www.gematsu.com/2026/07/super-bomberman-collection-update-to-add-super-bomberman-panic-bomber-w-on-august-20"
       }
     ],
     "trending_movies": [
@@ -104,17 +104,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-        "title": "Digger",
-        "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
-        "source_link": "https://www.themoviedb.org/movie/1248832"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "title": "The Furious",
         "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tena...",
         "source_link": "https://www.themoviedb.org/movie/1280738"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
+        "title": "The Breadwinner",
+        "description": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now ...",
+        "source_link": "https://www.themoviedb.org/movie/1440050"
       },
       {
         "rank": 7,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+        "title": "Digger",
+        "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
+        "source_link": "https://www.themoviedb.org/movie/1248832"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/a9W2203QLRqBT3a6EVDECc8g9Y2.jpg",
         "title": "Golden Kamuy -The Abashiri Prison Raid-",
         "description": "As each group pursues their mission, a fierce battle unfolds over the tattooed prisoners. Who is friend, and who is foe? The fight leads them all to A...",
         "source_link": "https://www.themoviedb.org/movie/1397201"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
-        "title": "The Breadwinner",
-        "description": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now ...",
-        "source_link": "https://www.themoviedb.org/movie/1440050"
       }
     ]
   }
