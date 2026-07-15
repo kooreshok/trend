@@ -1,76 +1,69 @@
 {
-  "last_updated": "July 14, 2026, 23:50 UTC",
+  "last_updated": "July 15, 2026, 02:00 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268635_Siri_AI_AKrales_0004.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Siri AI makes the Apple Watch finally feel like a wrist computer - The Verge",
-        "description": "After testing the watchOS 27 developer beta, Siri AI has some limitations but helps make the Apple Watch feel like more than \u201cjust\u201d a health tracking device.",
-        "source_link": "https://www.theverge.com/tech/964800/watchos-27-preview-siri-ai-apple-watch-gestures-smartwatch"
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/aa4f/live/cfcc3c30-7c37-11f1-a2fb-0b92ebfbb860.jpg",
+        "title": "ADHD and periods: Are my hormones making my symptoms worse? - BBC",
+        "description": "A first-of-its-kind study by UK researchers is looking at the link between menstrual cycles and ADHD.",
+        "source_link": "https://www.bbc.com/news/articles/czj8zp9e084o"
       },
       {
         "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258099_OnePlus_15_review_AJohnson_0005.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "title": "OnePlus is reportedly bailing on the US - The Verge",
+        "description": "Oppo-owned OnePlus plans to announce in the coming days that it will be exiting the US and European markets, according to WinFuture.",
+        "source_link": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe"
+      },
+      {
+        "rank": 3,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/07/google-pixel-11-new-renders/-952x498w6/gsmarena_000.jpg",
+        "title": "New Google Pixel 11 renders show it in three colors - GSMArena.com news - GSMArena.com",
+        "description": "It's an interesting leak originating at Amazon. Google is announcing the Pixel 11 family on August 12, and we've already seen the Pixel 11 in CAD-based...",
+        "source_link": "https://www.gsmarena.com/new_google_pixel_11_renders_show_it_in_three_colors-news-73696.php"
+      },
+      {
+        "rank": 4,
         "image": "https://images.macrumors.com/t/8jRfbr-ih_k6AqP1A6JnkqFO36Y=/2500x/article-new/2026/07/macOS-27-Public-Beta-Feature.jpg",
         "title": "First macOS Golden Gate Public Beta Now Available - MacRumors",
         "description": "Apple today released the first public beta of macOS Golden Gate, expanding the macOS 27 beta test to non-developers. You can sign up to test the...",
         "source_link": "https://www.macrumors.com/2026/07/13/macos-golden-gate-public-beta/"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://kotaku.com/app/uploads/2026/07/ganonwheel.jpg",
         "title": "Someone Trapped Zelda: Tears Of The Kingdom's Ganondorf Inside A Hamster Wheel - Kotaku",
         "description": "When we work together it's much better",
         "source_link": "https://kotaku.com/heres-ganondorf-hamster-wheel-2000715325"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://pokemongohub.net/wp-content/uploads/2026/07/ultra-unlock-water-festival-cover.jpeg",
         "title": "Pok\u00e9mon GO Water Festival 2026 Guide \u2013 Arrokuda, Cramorant, Bonuses and GO Pass - Pok\u00e9mon GO Hub",
         "description": "Arrokuda and Cramorant make their Pok\u00e9mon GO debuts during the Ultra Unlock: Water Festival 2026 event! Running from Tuesday, August 18, at 10:00 a.m. to Monday, August 24, 2026, at 8:00 p.m. local time, the event features a new GO Pass, boosted Shiny rates f\u2026",
         "source_link": "https://pokemongohub.net/post/event/water-festival-2026/"
       },
       {
-        "rank": 5,
-        "image": "https://assets-prd.ignimgs.com/2026/07/13/assets-2025-04-1744811063-southofmidnight-preview-screenshot-24-hazel-bottetree-1783969538698.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Former Xbox Studio Compulsion Games Says It's Open to Collaborations - IGN",
-        "description": "Montreal-based developer Compulsion Games, who avoided closure amidst the mass layoffs by Xbox Game Studios this month by negotiating its independence, has taken to LinkedIn to let other developers and publishers know that they are open for business \u2013 and see\u2026",
-        "source_link": "https://www.ign.com/articles/former-xbox-studio-compulsion-games-says-its-open-to-collaborations"
-      },
-      {
-        "rank": 6,
+        "rank": 7,
         "image": "https://assets-prd.ignimgs.com/2026/07/13/untitled-design-1783966750227.png?width=1280&format=jpg&auto=webp&quality=80",
         "title": "The First Final Fantasy Game With HD-2D Graphics Is Up for Preorder \u2014 Here's What Comes in Each Edition - IGN",
         "description": "Final Fantasy Resonance will be released in two separate editions. Here's everything we know about what's included in each one, including what bonuses you get for securing your copy early.",
         "source_link": "https://www.ign.com/articles/final-fantasy-resonance-where-to-buy"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/first-look_-poke-mon-winds-and-poke-mon-waves-_-announcement-trailer-0-55-screenshot-1.jpg?w=1600&h=900&fit=crop",
         "title": "Pok\u00e9mon Winds and Wave leak teases exciting changes to battle system - Polygon.com",
         "description": "The RPG will still feature turned-based battles, but they will reportedly unfold differently than other mainline Pok\u00e9mon games",
         "source_link": "https://www.polygon.com/pokemon-winds-wave-leak-turn-based-real-time-battle/"
       },
       {
-        "rank": 8,
-        "image": "https://kotaku.com/app/uploads/2026/06/Screen-Shot-2026-06-09-at-11.10.13-AM.jpg",
-        "title": "Kingdom Hearts Fans Are On High Alert After Disney Announces A D23 Panel For The RPG Series - Kotaku",
-        "description": "Disney's fan event is celebrating Kingdom Hearts' anniversary",
-        "source_link": "https://kotaku.com/kingdom-hearts-4-d23-disney-panel-date-time-2000715294"
-      },
-      {
         "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/pixel-11-amazon-listing-leak-5_25cb95.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Pixel 11\u2019s Tensor G6 chip beats the iPhone 18 to TSMC\u2019s 2nm process - 9to5Google",
-        "description": "While Google\u2019s next Tensor chipset in the Pixel 11 series isn\u2019t expecting to be a gamechanger by any means, it...",
-        "source_link": "http://9to5google.com/2026/07/13/pixel-11-tensor-g6-upgrade-tsmc-2nm/"
-      },
-      {
-        "rank": 10,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/OnePlus-15-in-black-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "OnePlus will reportedly officially shut down in the US and Europe later this week - 9to5Google",
-        "description": "The end is near and the clock is ticking. OnePlus is reportedly going to be shut down for good in...",
-        "source_link": "http://9to5google.com/2026/07/13/oneplus-us-europe-shut-down-report/"
+        "image": "https://www.techpowerup.com/review/assassins-creed-black-flag-resynced-steam-deck-xbox-ally-x-claw-8-ex-performance/images/title.jpg",
+        "title": "Assassin's Creed Black Flag Resynced Handheld Performance Review - TechPowerUp",
+        "description": "Whether you thought the original needed a remake or not, Assassin's Creed Black Flag Resynced is here, so let's see how it performs on some of the most popular handheld PCs on the market, including MSI's new Arc G3 Extreme Claw 8 EX.",
+        "source_link": "https://www.techpowerup.com/review/assassins-creed-black-flag-resynced-steam-deck-xbox-ally-x-claw-8-ex-performance/"
       }
     ],
     "trending_movies": [
@@ -83,24 +76,24 @@
       },
       {
         "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
         "title": "The Breadwinner",
         "description": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now ...",
         "source_link": "https://www.themoviedb.org/movie/1440050"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
         "rank": 5,
@@ -111,17 +104,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
-        "title": "Evil Dead Burn",
-        "description": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vo...",
-        "source_link": "https://www.themoviedb.org/movie/1212763"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
         "title": "Moana",
         "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
         "source_link": "https://www.themoviedb.org/movie/1108427"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+        "title": "Evil Dead Burn",
+        "description": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vo...",
+        "source_link": "https://www.themoviedb.org/movie/1212763"
       },
       {
         "rank": 8,
@@ -132,10 +125,10 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-        "title": "Digger",
-        "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
-        "source_link": "https://www.themoviedb.org/movie/1248832"
+        "image": "https://image.tmdb.org/t/p/w200/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
+        "title": "Is God Is",
+        "description": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths....",
+        "source_link": "https://www.themoviedb.org/movie/1380316"
       },
       {
         "rank": 10,
