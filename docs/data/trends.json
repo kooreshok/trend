@@ -1,76 +1,69 @@
 {
-  "last_updated": "July 15, 2026, 14:44 UTC",
+  "last_updated": "July 15, 2026, 16:16 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.pushsquare.com/f96de00ed7173/large.jpg",
+        "title": "One of 2026's Most Addictive PS5 Games Is Even Bigger and Better with Latest Free Update - Push Square",
+        "description": "Vampire Crawlers improved and expanded",
+        "source_link": "https://www.pushsquare.com/news/2026/07/one-of-2026s-most-addictive-ps5-games-is-even-bigger-and-better-with-latest-free-update"
+      },
+      {
+        "rank": 2,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png?resize=1200,489",
+        "title": "Spotify expands its AI push with a ChatGPT-like music assistant - TechCrunch",
+        "description": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
+        "source_link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-watch-9-official-teaser-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Samsung officially confirms everything new on Galaxy Watch 9 in teaser [Video] - 9to5Google",
+        "description": "In an official teaser, Samsung has just confirmed everything new about its Galaxy Watch 9, including new features and the chip inside.",
+        "source_link": "http://9to5google.com/2026/07/14/samsung-galaxy-watch-9-official-tease/"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/coral-pixel-watch-5.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
+        "title": "Pixel Watch 5 leak shows off four different finishes - The Verge",
+        "description": "Leaked images obtained by The Tide Chart show what appears to be the Pixel Watch 5 with four finishes: black, silver, yellow gold, and a darker gold.",
+        "source_link": "https://www.theverge.com/tech/965293/google-pixel-watch-5-leak-finishes"
+      },
+      {
+        "rank": 5,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-20th-anniversary-color-wave.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "How the 20th anniversary iPhone will provide a \u2018single slab of glass\u2019 look - 9to5Mac",
+        "description": "Former Apple design chief Jony Ive always described his long-term vision for the iPhone design as \u201ca single slab of...",
+        "source_link": "https://9to5mac.com/2026/07/14/how-the-20th-anniversary-iphone-will-provide-a-single-slab-of-glass-look/"
+      },
+      {
+        "rank": 6,
+        "image": "https://images.digitalfoundry.net/6c7fbe66e774f/large.jpg",
+        "title": "Dying Light: The Beast Cancelled for PS4 and Xbox One Consoles, 10 Months After Current-Gen Launch - Digital Foundry",
+        "description": "This gruesome open world isn't making its way to last-gen machines.",
+        "source_link": "https://www.digitalfoundry.net/news/2026/07/dying-light-the-beast-cancelled-for-ps4-and-xbox-one-consoles-10-months-after-current-gen-launch"
+      },
+      {
+        "rank": 7,
         "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/07/GettyImages-160985934.jpg",
         "title": "How Cycling Solved Sleep - Defector",
         "description": "AURILLAC, France \u2014 Is the Tour de France is the most competitive sleep environment in sports? \u201cProbably, yeah,\u201d answered Dr. Jon Greenwell, EF-Education EasyPost\u2019s Head Doctor when I asked him. Every athlete needs to recover, though the demands on professiona\u2026",
         "source_link": "https://defector.com/how-cycling-solved-sleep"
       },
       {
-        "rank": 2,
-        "image": "https://images.macrumors.com/t/4rBJhPkChNilujrAMHX2a_YNqqE=/1801x/article-new/2025/02/iphone-air-camera.jpg",
-        "title": "Factories Now Ready for iPhone 20's Glass Redesign, Leaker Claims - MacRumors",
-        "description": "Facilities in Apple's supply chain have finished renovations ahead of \"iPhone 20\" production, according to a Weibo leaker who says...",
-        "source_link": "https://www.macrumors.com/2026/07/14/factories-ready-for-iphone-20-glass-redesign/"
-      },
-      {
-        "rank": 3,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/pixel-watch-5-leak-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Pixel Watch 5 leaks in official-looking renders with new colors, bands, watch face [Gallery] - 9to5Google",
-        "description": "Ahead of its official reveal next month, Google\u2019s Pixel Watch 5 has fully leaked in official-looking new renders, showing off...",
-        "source_link": "http://9to5google.com/2026/07/14/google-pixel-watch-5-render-leaks/"
-      },
-      {
-        "rank": 4,
-        "image": "https://www.androidheadlines.com/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold-8-series-and-Flip-8-AH-exclusive-1-scaled.jpg",
-        "title": "Exclusive: Galaxy Z Fold 8, Flip 8, Watch 9 & Watch Ultra 2 Family Photos \u2014 Plus Two Online-Exclusive Colors - Android Headlines",
-        "description": "We can now show you the Samsung Galaxy Z Fold 8 series, Flip 8, Watch 9, and Watch Ultra 2 family photos, along with online-exclusive colors.",
-        "source_link": "https://www.androidheadlines.com/galaxy-z-fold-8-ultra"
-      },
-      {
-        "rank": 5,
-        "image": "https://images.digitalfoundry.net/dfdacbc89e8aa/large.jpg",
-        "title": "Report: Nintendo mulling Switch 2 OLED with Samsung Display panel - Digital Foundry",
-        "description": "But it's not coming any time soon.",
-        "source_link": "https://www.digitalfoundry.net/news/2026/07/report-nintendo-mulling-switch-2-oled-with-samsung-display-panel"
-      },
-      {
-        "rank": 6,
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/4-stop-your-smart-tv-from-listening-to-you.jpg",
-        "title": "Before you connect another smart TV, tablet or phone, lock it down - Fox News",
-        "description": "Smart TVs ship with ACR enabled by default, tracking everything you watch. A 10-step checklist covers privacy settings, VPN setup and guest wifi.",
-        "source_link": "https://www.foxnews.com/tech/before-you-connect-another-smart-tv-tablet-phone-lock-it-down"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/PS-store-mexico.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Sony faces an anti-trust complaint in Mexico over ending PlayStation physical media - Eurogamer.net",
-        "description": "Sony's decision to kill PlayStation physical media has caught the ire of lawmakers in Mexico, who argue that could turn it into a monopoly.",
-        "source_link": "https://www.eurogamer.net/sony-killing-discs-anti-trust-complaint-mexico"
-      },
-      {
         "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/we-happy-few_6xEWlEH.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Days after leaving Xbox, South of Midnight developer Compulsion Games broadcasts that it's looking for work - Eurogamer.net",
-        "description": "Life after Xbox begins. A blessing or a curse?",
-        "source_link": "https://www.eurogamer.net/compulsion-games-looking-for-work-xbox-cuts"
+        "image": "https://www.bleepstatic.com/content/hl-images/2026/03/12/Hacking_login.jpg",
+        "title": "Microsoft Entra ID gets passkeys default authentication starting September - BleepingComputer",
+        "description": "Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026.",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/"
       },
       {
         "rank": 9,
-        "image": "https://rockstarintel.com/wp-content/uploads/2026/07/unreleased_kortz_featured.webp",
-        "title": "All Unreleased GTA Online The Kortz Center Heist Vehicles And Prices - RockstarINTEL",
-        "description": "All of the currently unreleased vehicles part of the GTA Online The Kortz Center Heist update have been revealed by community member @NeedForMadnessA. Be sure to give them a follow for all of their work. We also can show you images of them plus their prices h\u2026",
-        "source_link": "https://rockstarintel.com/all-unreleased-gta-online-the-kortz-center-heist-vehicles-and-prices/"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.aeonmedia.co/images/e407d3ab-bc75-4346-b2fc-dbbd9b7a4a68/sz-cylinder_interior_ac75-1086_5732.jpg?width=1200&quality=75&format=jpg",
-        "title": "Silicon Valley has a science fiction problem - Aeon",
-        "description": "Tech titans claim the genre inspired them. But all they\u2019ve done is graft their politics onto stories of a better future",
-        "source_link": "https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem"
+        "image": "https://cdn.mos.cms.futurecdn.net/pvCA5GuuD5a85GCPGUyAs9-2560-80.jpg",
+        "title": "Massive Pixel 11 leak just revealed almost everything about Google's next phones - Android Central",
+        "description": "Google accidentally listed the entire Pixel 11 series on Amazon, revealing pricing, specs, colors, and storage options nearly a month before launch.",
+        "source_link": "https://www.androidcentral.com/phones/google-pixel/massive-pixel-11-leak-just-revealed-almost-everything-about-googles-next-phones"
       }
     ],
     "trending_movies": [
@@ -104,38 +97,38 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-        "title": "The Furious",
-        "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tena...",
-        "source_link": "https://www.themoviedb.org/movie/1280738"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
         "title": "Moana",
         "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
         "source_link": "https://www.themoviedb.org/movie/1108427"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
-        "title": "Is God Is",
-        "description": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths....",
-        "source_link": "https://www.themoviedb.org/movie/1380316"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+        "title": "The Furious",
+        "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tena...",
+        "source_link": "https://www.themoviedb.org/movie/1280738"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
         "title": "Evil Dead Burn",
         "description": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vo...",
         "source_link": "https://www.themoviedb.org/movie/1212763"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/rCYQGHdoz7qwYsb6wXETJfUfDLX.jpg",
+        "title": "Is God Is",
+        "description": "Two sisters embark on an epic quest for revenge, confronting a charged family history that pushes them to extraordinary lengths....",
+        "source_link": "https://www.themoviedb.org/movie/1380316"
       },
       {
         "rank": 10,
