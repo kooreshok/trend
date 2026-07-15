@@ -1,62 +1,69 @@
 {
-  "last_updated": "July 15, 2026, 22:55 UTC",
+  "last_updated": "July 15, 2026, 23:55 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": null,
-        "title": "Microsoft Patches a Record 570 Security Flaws - Krebs on Security",
-        "description": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last mon\u2026",
-        "source_link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/"
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-10-close-up-G-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google temporarily offers open Pixel Care+ enrollment for Pixel 9 and 10 - 9to5Google",
+        "description": "Google today announced a limited-time Pixel Care+ open enrollment period for existing Pixel 9 and 10 owners.",
+        "source_link": "http://9to5google.com/2026/07/14/pixel-care-open-enrollment/"
       },
       {
         "rank": 2,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/computer-start-button-1152x648.jpg",
+        "title": "Microsoft Secure Boot has been broken for most of its existence - Ars Technica",
+        "description": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.",
+        "source_link": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/"
+      },
+      {
+        "rank": 3,
+        "image": "https://insider-gaming.com/wp-content/uploads/2026/07/Screenshot-2026-07-14-223335-1024x569.png",
+        "title": "Glen Schofield Announces Retirement in Emotional Video: \u2018This is an Amazing Industry\u2019 - Insider Gaming",
+        "description": "Glen Schofield has retired from making games after a whopping 35 years in the industry. He announced this with an emotional video.",
+        "source_link": "https://insider-gaming.com/glen-schofield-retirement-video-posted-online-emotional/"
+      },
+      {
+        "rank": 4,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi34s_9ywUXjSc5OtF7-fDiAqSa3H-UHpJfACXyULY5ziUlM67mCJHWee9tluTiGm7ZRhMy36SLal2CUjqwJHZ8vdHuFstRwJhPGLAXe49as-o3nRE-QAyRs2mx3og8eVdWdnzzr9LwGMXckMix80XOQPsWiE30xqqYGG3PNjjpVTCpLsnW77pCk_3MyKQ/s1600/ms=patch.jpg",
+        "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack - The Hacker News",
+        "description": "Microsoft fixes a record 622 CVEs, including two exploited SharePoint and AD FS zero-days, while a Kerberos RC4 change could break service account log",
+        "source_link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html"
+      },
+      {
+        "rank": 5,
         "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-wwdc-2026.jpg?resize=1200,675",
         "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta - TechCrunch",
         "description": "If you\u2019ve been waiting to try Apple\u2019s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the softw\u2026",
         "source_link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-960137688.jpg?resize=1200,600",
         "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone - TechCrunch",
         "description": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
         "source_link": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-watch-9-mint-leak-1_f20b01.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Galaxy Watch 9 and Ultra 2 specs leak with Snapdragon chip, 800 mAh battery - 9to5Google",
         "description": "Ahead of their debut in just over a week, yet another leak details the full specs of Samsung\u2019s Galaxy Watch...",
         "source_link": "http://9to5google.com/2026/07/14/samsung-galaxy-watch-9-ultra-2-specs-leak/"
       },
       {
-        "rank": 5,
-        "image": "https://helios-i.mashable.com/imagery/articles/03O32zx28HD8kT1a9UlIxrm/hero-image.fill.size_1200x675.v1784041104.webp",
-        "title": "Samsung users report bizarre Galaxy S26 Ultra defect - Mashable",
-        "description": "Some Android users are seeing red.",
-        "source_link": "https://mashable.com/tech/samsung-galaxy-s26-ultra-red-tint-defect"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0093_fe9169.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Nintendo\u2019s Switch 2 bundle that includes a game is $50 off - The Verge",
-        "description": "Normally, $449.99 gets you just the Switch 2 console. But today it also gets you a free game.",
-        "source_link": "https://www.theverge.com/gadgets/965490/nintendo-switch-2-choose-your-game-bundle-deal-sale"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI0/cms/news.7/213365/crunchyroll-logo-stacked.png.jpg",
-        "title": "Crunchyroll Store to Become Exclusive to Mega/Ultimate Fan Tiers in August - Anime News Network",
-        "description": "Open orders will continue to process, including those for items released after store transitions",
-        "source_link": "https://www.animenewsnetwork.com/news/2026-07-14/crunchyroll-store-to-become-exclusive-to-mega-ultimate-fan-tiers-in-august/.239593"
-      },
-      {
         "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Google-Tensor-G5-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google announces Gemma 4 optimized for the Pixel 10\u2019s TPU - 9to5Google",
-        "description": "Google today announced Gemma 4 E2B for TPU that\u2019s designed to run natively on the Pixel 10\u2019s TPU. Gemma is Google's series...",
-        "source_link": "http://9to5google.com/2026/07/14/pixel-10-gemma-4/"
+        "image": "https://substackcdn.com/image/fetch/$s_!75nv!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea4f5d66-71d9-4d0e-bd00-29af9dfaec10_3840x2160.jpeg",
+        "title": "47 revelatory hours with Assassin\u2019s Creed Black Flag Resynced - Game File | Stephen Totilo",
+        "description": "A review in the new Assassin\u2019s Creed's fringes, where some truths about the game can be found.",
+        "source_link": "https://www.gamefile.news/p/assassins-creed-black-flag-resynced-review"
+      },
+      {
+        "rank": 9,
+        "image": "https://i.pcmag.com/imagery/articles/01sGeIRvtBaIwfulNBuhNOn-4.fit_lim.size_1200x630.v1784053963.jpg",
+        "title": "Starlink's New V5 Dish: No Speed Boost, But It Trims Power Consumption, Weight - PCMag",
+        "description": "Starlink.com posts new support pages for the upcoming satellite dish, which is more compact and weighs less than the current V4 model.",
+        "source_link": "https://www.pcmag.com/news/starlinks-new-v5-dish-no-speed-boost-but-it-trims-power-consumption-weight"
       }
     ],
     "trending_movies": [
