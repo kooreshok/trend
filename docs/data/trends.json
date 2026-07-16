@@ -1,76 +1,62 @@
 {
-  "last_updated": "July 16, 2026, 12:17 UTC",
+  "last_updated": "July 16, 2026, 14:56 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets-prd.ignimgs.com/2026/07/09/halo-ce-operation-meteorite-1783609603807.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Will Halo: Campaign Evolved's New Missions Continue The Series' Ambitious, Troubled Expanded Universe? - IGN",
+        "description": "Halo: Campaign Evolved's new Operation METEORITE missions could be a gateway to the series' ambitious expanded universe.",
+        "source_link": "https://www.ign.com/articles/halo-campaign-evolved-new-missions-expanded-universe"
+      },
+      {
+        "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2026/07/Avatar-Legends-The-Fighting-Game-official-screenshot-PM-Studios-Skydance-Games-1200x675.jpg",
+        "title": "Skullgirls Dev Accused Of Misconduct Working On Avatar Fighter - Kotaku",
+        "description": "Paramount confirmed that the former Skullgirls and Indivisible CEO 'holds a position as an individual contributor' on its upcoming game",
+        "source_link": "https://kotaku.com/developer-accused-of-past-sexual-harassment-confirmed-to-be-working-on-new-avatar-legends-the-fighting-game-2000716173"
+      },
+      {
+        "rank": 3,
+        "image": "https://assetsio.gnwcdn.com/Glen-Schofield-image-overlaid-on-a-screenshot-from-Dead-Space.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Dead Space series co-creator and industry veteran Glen Schofield announces his retirement in emotional video - Eurogamer.net",
+        "description": "Glen Schofield, whose name should be familiar to fans of the many major games he's helped create, is ending an almost four decade run in the games industry.",
+        "source_link": "https://www.eurogamer.net/glen-schofield-retiring-after-35-years"
+      },
+      {
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/11/OnePlus-13-and-OnePlus-15-side-by-side.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Who will you switch to now OnePlus effectively dead? [Poll] - 9to5Google",
+        "description": "OnePlus is dead after a silent exit. Where are you heading next? Vote in our poll and plan your OnePlus switch.",
+        "source_link": "http://9to5google.com/2026/07/15/who-will-you-switch-to-now-oneplus-effectively-dead-poll/"
+      },
+      {
+        "rank": 5,
+        "image": "https://cdn.videocardz.com/1/2026/07/NVIDIA-SEGA.jpg",
+        "title": "NVIDIA says SEGA games are coming to RTX Spark PCs, including Virtua Fighter Crossroads - VideoCardz.com",
+        "description": "NVIDIA says SEGA games are coming to RTX Spark PCs, with Virtua Fighter Crossroads named in the announcement. The other titles have not been detailed.",
+        "source_link": "https://videocardz.com/newz/nvidia-says-sega-games-are-coming-to-rtx-spark-pcs-including-virtua-fighter-crossroads"
+      },
+      {
+        "rank": 6,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Once-Upon-A-Katamari-Switch-2-Rolling-Live-Highlights-DLC.jpg",
+        "title": "Once Upon A Katamari coming to Nintendo Switch 2, Rolling Live Highlights DLC revealed - Nintendo Everything",
+        "description": "Bandai Namco is bringing Once Upon A Katamari to Nintendo Switch 2, the company revealed today. This version is slated for October 8, 2026. On Nintendo Switch 2, the game will feature improved visuals and a better frame rate. Mouse controls will be available \u2026",
+        "source_link": "https://nintendoeverything.com/once-upon-a-katamari-coming-to-nintendo-switch-2-rolling-live-highlights-dlc-revealed/"
+      },
+      {
+        "rank": 7,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25080261/111323_PlayStation_Portal_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "The PS6 sure sounds like a handheld - The Verge",
+        "description": "Is Sony\u2019s next PlayStation primarily a box \u2014 or is the PS6 a handheld like the Nintendo Switch? On June 5th, Sony dropped hints that hit different today.",
+        "source_link": "https://www.theverge.com/games/963132/sony-playstation-future-handheld-pc-business-meeting-end-of-discs"
+      },
+      {
+        "rank": 8,
         "image": "https://helios-i.mashable.com/imagery/articles/04YEvKW5wPpeu3a7nOXfema/hero-image.fill.size_1200x675.v1784060184.jpg",
         "title": "Samsung confirms new foldables will be revealed July 22 with new Flex Titanium display tech - Mashable",
         "description": "Ahead of Galaxy Unpacked, Samsung is pulling back the curtains on a new foldable phone feature that will debut at the event.",
         "source_link": "https://mashable.com/tech/samsung-announces-flex-titanium-foldable-display-unpacked"
-      },
-      {
-        "rank": 2,
-        "image": "https://images.pushsquare.com/f9f7bea1b831b/large.jpg",
-        "title": "60+ PS5, PS4 Games to Buy in PS Store's Massive Summer Sale - Push Square",
-        "description": "PS5 and PS4 games going cheap we recommend",
-        "source_link": "https://www.pushsquare.com/features/60plus-ps5-ps4-games-to-buy-in-ps-stores-massive-summer-sale"
-      },
-      {
-        "rank": 3,
-        "image": "https://assetsio.gnwcdn.com/battlefield-6-season-4-cover-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Battlefield 6 is bringing back a feature we've not seen since Battlefield 2, and teasing a fitting Top Gun collab alongside it - Eurogamer.net",
-        "description": "Battlefield 6's upcoming season may be bringing more to the game than we initially thought, and some of it was entirely unexpected.",
-        "source_link": "https://www.eurogamer.net/battlefield-6-season-4-reveal-trailer-new-jets-top-gun-tease"
-      },
-      {
-        "rank": 4,
-        "image": null,
-        "title": "Microsoft Patches a Record 570 Security Flaws - Krebs on Security",
-        "description": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last mon\u2026",
-        "source_link": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/"
-      },
-      {
-        "rank": 5,
-        "image": "https://s.yimg.com/lo/mysterio/api/7F85885F91C2A1DEFEADF53949011A7BA8552513B4F7EE28479FDD8F32C33885/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_markets_video_2%2Fcd1c1d23e85d499e0b9e3ddd8e80caaf",
-        "title": "OpenAI's First Device Will Be Movable, Screenless Speaker Built as AI Companion - Yahoo Finance",
-        "description": "(Bloomberg) -- OpenAI's much-anticipated push into consumer devices is slated to begin with a mobile, screen-free smart speaker designed to be a new type of...",
-        "source_link": "https://finance.yahoo.com/news/openais-first-device-will-be-movable-screenless-speaker-built-as-ai-companion-205215714.html"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047551/236883_Epic_Vs_Google_C_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Google and Epic give up fighting \u2014 third-party Android app stores are coming next week - The Verge",
-        "description": "Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit changing how Android app stores work in the United States.",
-        "source_link": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.macrumors.com/t/gpaN9COmOklFL1B8dX9h6VBrbSo=/1600x/article-new/2025/08/LEGO-imac-g31.jpeg",
-        "title": "LEGO Considering Bondi Blue iMac G3 Set - MacRumors",
-        "description": "LEGO today said the iMac G3 project submitted for consideration on its \"Ideas\" site has been moved to Parking Lot status, which means it...",
-        "source_link": "https://www.macrumors.com/2026/07/14/lego-imac-g3-set/"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.nintendolife.com/45bf721a25315/large.jpg",
-        "title": "Switch 2 'Choose Your Game' Bundle Gets A Discount Ahead Of System Price Revision (US) - nintendolife.com",
-        "description": "A standalone system will cost $499.99 as of September",
-        "source_link": "https://www.nintendolife.com/news/2026/07/switch-2-choose-your-game-bundle-gets-a-discount-ahead-of-system-price-revision-us"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-10-close-up-G-logo-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google temporarily offers open Pixel Care+ enrollment for Pixel 9 and 10 - 9to5Google",
-        "description": "Google today announced a limited-time Pixel Care+ open enrollment period for existing Pixel 9 and 10 owners.",
-        "source_link": "http://9to5google.com/2026/07/14/pixel-care-open-enrollment/"
-      },
-      {
-        "rank": 10,
-        "image": "https://assets-prd.ignimgs.com/2026/07/14/glen-schofield-1784067827673.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Dead Space Creator Glen Schofield Announces Retirement From \"Day to Day\" Work of the Gaming Industry - IGN",
-        "description": "Dead Space creator Glen Schofield has announced his retirement from the gaming industry.",
-        "source_link": "https://www.ign.com/articles/dead-space-creator-glen-schofield-announces-retirement-from-gaming-industry"
       }
     ],
     "trending_movies": [
@@ -104,45 +90,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-        "title": "Moana",
-        "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
-        "source_link": "https://www.themoviedb.org/movie/1108427"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "title": "The Furious",
         "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tena...",
         "source_link": "https://www.themoviedb.org/movie/1280738"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+        "title": "Moana",
+        "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
+        "source_link": "https://www.themoviedb.org/movie/1108427"
+      },
+      {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
-        "title": "Hope",
-        "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking ...",
-        "source_link": "https://www.themoviedb.org/movie/1058424"
+        "image": "https://image.tmdb.org/t/p/w200/oFMbldhgyFsaMK3tiycccFyKksQ.jpg",
+        "title": "Me Before Me",
+        "description": "A young student battling pressure, panic and a demanding father uses a class project to discover that truth \u2014 not trophies \u2014 might finally set him fre...",
+        "source_link": "https://www.themoviedb.org/movie/1616674"
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+        "title": "Evil Dead Burn",
+        "description": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vo...",
+        "source_link": "https://www.themoviedb.org/movie/1212763"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/w90dGS6D2lVO4aO5rdQ8QECrUGY.jpg",
         "title": "Stop! That! Train!",
         "description": "Best friends and train stewardesses Tess and DeeDee trade their dreary shifts on the Stank Rail for the glitzy Glamazonian Express. However, when a ca...",
         "source_link": "https://www.themoviedb.org/movie/1541560"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
-        "title": "Evil Dead Burn",
-        "description": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vo...",
-        "source_link": "https://www.themoviedb.org/movie/1212763"
       }
     ]
   }
