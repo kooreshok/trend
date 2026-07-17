@@ -1,76 +1,76 @@
 {
-  "last_updated": "July 17, 2026, 20:01 UTC",
+  "last_updated": "July 17, 2026, 21:47 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-532502452-1152x648.jpg",
+        "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\" - Ars Technica",
+        "description": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools.",
+        "source_link": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/"
+      },
+      {
+        "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2025/11/gamestop-e1777731655117-1200x675.jpg",
+        "title": "GameStop CEO Says Physical Games Don\u2019t Matter - Kotaku",
+        "description": "Ryan Cohen also claims that if GameStop and eBay merged it could create a $1 trillion business",
+        "source_link": "https://kotaku.com/gamestop-ceo-says-physical-games-dont-matter-2000716758"
+      },
+      {
+        "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2026/07/GTA-Online-top-1200x675.jpg",
+        "title": "Rockstar Added Two Trees To GTA Online And It Led To A Lot Of Anger And Confusion - Kotaku",
+        "description": "How much online anger could two tiny trees create?",
+        "source_link": "https://kotaku.com/rockstar-added-two-trees-to-gta-online-and-it-led-to-a-lot-of-anger-and-confusion-2000716733"
+      },
+      {
+        "rank": 4,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4PYLNPkCfCo/v0/1200x800.jpg",
         "title": "Google Gemini Launch Delayed as Tech Falls Short of Internal Goals - Bloomberg.com",
         "description": "Alphabet Inc.\u2019s Google is months behind schedule on delivering Gemini 3.5 Pro, its most powerful flagship AI model, because the company has been taking time to try to improve its capabilities, particularly in coding, according to people familiar with the matt\u2026",
         "source_link": "https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals"
       },
       {
-        "rank": 2,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Gemini-Notebook-.jpeg?resize=1200,675",
-        "title": "Google continues its renaming streak by turning NotebookLM to Gemini Notebook - TechCrunch",
-        "description": "Google said users can soon access their notebooks through AI Mode in Search.",
-        "source_link": "https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/"
-      },
-      {
-        "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg?quality=90&strip=all&crop=0%2C10.806933475316%2C100%2C78.386133049368&w=1200",
-        "title": "Apple\u2019s OLED iPad Mini upgrade is on the way as prices continue to rise - The Verge",
-        "description": "Apple is reportedly planning to upgrade the iPad Mini with an OLED display later this year, but it will likely come with another price increase.",
-        "source_link": "https://www.theverge.com/tech/966535/apple-oled-ipad-mini-rumor"
-      },
-      {
-        "rank": 4,
-        "image": "https://assets.warhammer-community.com/articles/0-2026/july/wc13-07/whafeatures-jul16-1-feature-jaxqnxbjzu.jpg",
-        "title": "Hone your skills with the Warhammer Academy - Warhammer Community",
-        "description": "The ultimate online beginner\u2019s resource, for free.",
-        "source_link": "https://www.warhammer-community.com/articles/htyubijb/hone-your-skills-with-the-warhammer-academy"
-      },
-      {
         "rank": 5,
-        "image": "https://kotaku.com/app/uploads/2026/07/image-92-1200x675.jpg",
-        "title": "EA Is Salivating At The Prospect Of Loading Games Up With Ads - Kotaku",
-        "description": "The last un-monetized frontier of gaming: virtual billboards",
-        "source_link": "https://kotaku.com/ea-vp-urges-companies-to-think-about-in-game-ads-during-development-thats-a-huge-opportunity-2000716639"
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/IFU7CHUKRII6RHKZ3TGCYDFLZ4.jpg&w=1440",
+        "title": "Europe tells Google it must open Android phones to rivals\u2019 AI bots - The Washington Post",
+        "description": "Officials said the decision was aimed at promoting competition.",
+        "source_link": "https://www.washingtonpost.com/technology/2026/07/16/europe-tells-google-it-must-open-android-phones-rivals-ai-bots/"
       },
       {
         "rank": 6,
-        "image": "https://images.pushsquare.com/69e56b9566d29/large.jpg",
-        "title": "AC Black Flag Resynced Update 1.04 Available to Download Now - Push Square",
-        "description": "Get the full patch notes list here",
-        "source_link": "https://www.pushsquare.com/news/2026/07/ac-black-flag-resynced-update-1-04-available-to-download-now"
+        "image": "https://kotaku.com/app/uploads/2026/06/marathon-vandal-1200x675.jpg",
+        "title": "Marathon Promises An Even Bigger PvE Mode In The Fall - Kotaku",
+        "description": "A roguelite version of Cryo Archive is set to debut in the meantime",
+        "source_link": "https://kotaku.com/marathon-promises-an-even-bigger-pve-mode-in-the-fall-2000716734"
       },
       {
         "rank": 7,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/67bc8d59788e9f3f46a2a172/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "Sony\u2019s Crunchyroll Has Put Its Merchandise Store Behind Paywall - Forbes",
-        "description": "Crunchyroll, has announced that subscribers will need to be in its \u201cMega\u201d or \u201cUltimate\u201d fan tiers in order to make purchases in its merchandise shop,",
-        "source_link": "https://www.forbes.com/sites/paultassi/2026/07/16/sonys-crunchyroll-has-put-its-merchandise-store-behind-paywall/"
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-live-pop-up-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google preps letting you customize Gemini voices by Speed, Energy, and more - 9to5Google",
+        "description": "After releasing two new options after I/O, Google might soon let you customize Gemini voice across four parameters.",
+        "source_link": "http://9to5google.com/2026/07/16/customize-gemini-voices/"
       },
       {
         "rank": 8,
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134577317.jpg?quality=75&strip=all&w=1200",
-        "title": "Dollar Tree installs customer price scanners for a disheartening reason: \u2018Never thought I\u2019d see the day\u2019 - New York Post",
-        "description": "The tech shocked some shoppers who questioned why a store that was made famous for having items priced at $1 would even need a scanner.",
-        "source_link": "https://nypost.com/2026/07/16/lifestyle/dollar-tree-installs-price-scanners-for-surprising-reason/"
+        "image": "https://kotaku.com/app/uploads/2026/07/moss2-1200x675.jpg",
+        "title": "I'm Glad That Moss Is On Console Now, But It's Not The Same - Kotaku",
+        "description": "There's a wall built up between us",
+        "source_link": "https://kotaku.com/moss-console-not-same-vr-2000716668"
       },
       {
         "rank": 9,
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Mortal-Shell-lady.jpg",
-        "title": "Upcoming Souls-Like So Popular It Sells Out Of PS5 Preorders - GameSpot",
-        "description": "You're SOL for now if you were hoping to get the $70 physical copy of Mortal Shell 2's Revered Edition for PlayStation 5.",
-        "source_link": "https://www.gamespot.com/articles/upcoming-souls-like-so-popular-it-sells-out-of-ps5-preorders/"
+        "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+        "title": "Google\u2019s AI Mode now lets you link and interact with select apps - TechCrunch",
+        "description": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
+        "source_link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/"
       },
       {
         "rank": 10,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/12/OxygenOS-16-logo-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "OnePlus will continue software updates, all devices move to ColorOS with Android 17 - 9to5Google",
-        "description": "While OnePlus will continue software updates, the brand's OxygenOS is fully going away with devices moving to ColorOS instead.",
-        "source_link": "http://9to5google.com/2026/07/16/oneplus-software-updates-android-17-coloros/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gemininotebook.png?quality=90&strip=all&crop=0%2C3.479841264548%2C100%2C93.040317470904&w=1200",
+        "title": "Google is renaming NotebookLM to Gemini Notebook - The Verge",
+        "description": "Google is renaming its AI notetaking app from NotebookLM to Gemini Notebook. The company is also planning to bring notebooks into AI Mode in Search.",
+        "source_link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm"
       }
     ],
     "trending_movies": [
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
-        "title": "Hope",
-        "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking ...",
-        "source_link": "https://www.themoviedb.org/movie/1058424"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
         "title": "Evil Dead Burn",
         "description": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-...",
         "source_link": "https://www.themoviedb.org/movie/1212763"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
+        "title": "Desire",
+        "description": "Lucero\u2019s life appears immaculate: a wealthy household, a devoted husband, and two children who embody the promise of a perfect family. Yet beneath thi...",
+        "source_link": "https://www.themoviedb.org/movie/1668364"
       }
     ]
   }
