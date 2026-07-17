@@ -1,69 +1,76 @@
 {
-  "last_updated": "July 17, 2026, 14:38 UTC",
+  "last_updated": "July 17, 2026, 16:10 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://cdn.mos.cms.futurecdn.net/WHEJcPEViU5eBVYxjMK8d5-1492-80.jpg",
-        "title": "The Xbox Ultimate Game Sale 2026 is live \u2014 here's the full list - Windows Central",
-        "description": "The sales event is so big that it's making our content management system lag out as I type this. I've also already spent over $100 on it. Damn.",
-        "source_link": "https://www.windowscentral.com/gaming/xbox/the-xbox-ultimate-game-sale-2026-is-live-it-might-be-one-of-microsofts-best-ever-here-are-all-of-the-deals"
+        "image": "https://images.pushsquare.com/69e56b9566d29/large.jpg",
+        "title": "AC Black Flag Resynced Update 1.04 Available to Download Now - Push Square",
+        "description": "Get the full patch notes list here",
+        "source_link": "https://www.pushsquare.com/news/2026/07/ac-black-flag-resynced-update-1-04-available-to-download-now"
       },
       {
         "rank": 2,
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134577317.jpg?quality=75&strip=all&w=1200",
+        "title": "Dollar Tree installs customer price scanners for a disheartening reason: \u2018Never thought I\u2019d see the day\u2019 - New York Post",
+        "description": "The tech shocked some shoppers who questioned why a store that was made famous for having items priced at $1 would even need a scanner.",
+        "source_link": "https://nypost.com/2026/07/16/lifestyle/dollar-tree-installs-price-scanners-for-surprising-reason/"
+      },
+      {
+        "rank": 3,
+        "image": "https://assetsio.gnwcdn.com/gta-6-trailer-city.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "\"It's not that we don't care about PC\" - Former Rockstar developer suggests why GTA 6 is only coming to consoles at launch - Eurogamer.net",
+        "description": "John Ricchio - who worked on the likes of GTA 5 and Red Dead Redemption - has shed some light on GTA 6's console-first launch.",
+        "source_link": "https://www.eurogamer.net/gta-6-rockstar-pc-consoles-release"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.techpowerup.com/review/amd-ryzen-7-7700x3d/images/title.jpg",
+        "title": "AMD Ryzen 7 7700X3D Review - TechPowerUp",
+        "description": "The AMD Ryzen 7 7700X3D delivers fantastic gaming performance thanks to 3D V-Cache. Priced at $330, it offers more FPS than the Intel Core Ultra 7 270K Plus, at a similar price point. Energy efficiency is impressive with low temperatures, making it an strong \u2026",
+        "source_link": "https://www.techpowerup.com/review/amd-ryzen-7-7700x3d/"
+      },
+      {
+        "rank": 5,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Xona_InSitu_Orbit_03-1152x648.jpg",
+        "title": "Move over, GPS: Navigation satellites in low Earth orbit are making a comeback - Ars Technica",
+        "description": "Xona aims to deploy 258 satellites into low-Earth orbit as a GPS alternative.",
+        "source_link": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/"
+      },
+      {
+        "rank": 6,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ijt4HKXX4niA/v2/1200x800.jpg",
+        "title": "A $399 Smart Ring Aims to Replace the 150-Year-Old Blood Pressure Cuff - Bloomberg.com",
+        "description": "A three-year-old startup says it has produced a smart ring that can track blood pressure as accurately as a traditional arm cuff and that \u2014 eventually \u2014 it could be able to make medical diagnoses. If the company, called Vital Signals, can successfully deliver\u2026",
+        "source_link": "https://www.bloomberg.com/news/features/2026-07-16/vital-signals-announces-399-signal-ring-that-gives-blood-pressure-readings"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.trueachievements.com/imgs/176884/mavrix-by-matt-jones-xbox-game-pass.jpg",
+        "title": "Xbox Game Pass adds Mavrix by Matt Jones today - TrueAchievements",
+        "description": "Xbox Game Pass subscribers have a new sports game to check out, as Mavrix by Matt Jones launches in full today and drops straight into the service.",
+        "source_link": "https://www.trueachievements.com/news/mavrix-by-matt-jones-xbox-game-pass"
+      },
+      {
+        "rank": 8,
         "image": "https://ychef.files.bbci.co.uk/624x351/p0nyzvlm.jpg",
         "title": "The privacy problems hidden in your period tracker - BBC",
         "description": "Some apps are sharing users' health data. New research uncovers which apps lock down your privacy, and which don't.",
         "source_link": "https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details"
       },
       {
-        "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258099_OnePlus_15_review_AJohnson_0005.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "title": "OnePlus officially gives up on the US and Europe - The Verge",
-        "description": "OnePlus will no longer sell new hardware in the two markets, and existing devices will transition to Oppo\u2019s ColorOS for future software updates.",
-        "source_link": "https://www.theverge.com/tech/966404/oneplus-oppo-us-europe-withdrawal-realme"
-      },
-      {
-        "rank": 4,
-        "image": "https://m-cdn.phonearena.com/images/article/181888-wide-two_1200/Pre-order-page-for-HTC-VIVE-Eagle-smart-glasses-reveals-release-date-before-its-taken-down.jpg",
-        "title": "Pre-order page for HTC VIVE Eagle smart glasses reveals release date before it's taken down - PhoneArena",
-        "description": "HTC's VIVE Eagle smart glasses are coming to the US although a pre-order listing on Amazon was removed from the site.",
-        "source_link": "https://www.phonearena.com/news/htc-vive-eagle-smart-glasses-pre-order-page-taken-down-by-amazon_id181888"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/07/Final-Fantasy-Resonance_2026_07-15-26_029.jpg",
-        "title": "Final Fantasy Resonance \u2018Pixel\u2019 trailer, latest details and screenshots - Gematsu",
-        "description": "Publisher and developer Square Enix, and developer Lancarse have released a new trailer for Final Fantasy Resonance, as well as the latest information and screenshots introducing the game world, ch\u2026",
-        "source_link": "https://www.gematsu.com/2026/07/final-fantasy-resonance-pixel-trailer-latest-details-and-screenshots"
-      },
-      {
-        "rank": 6,
-        "image": "https://assets-prd.ignimgs.com/2026/07/13/thumbnail-1783966106284.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Fantasy Tactical RPG Langrisser: Sea of Sword Announced with Debut Trailer - IGN",
-        "description": null,
-        "source_link": "https://www.ign.com/articles/fantasy-tactical-rpg-langrisser-sea-of-sword-announced-with-debut-trailer"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.nintendolife.com/b329e0b81d456/large.jpg",
-        "title": "Mario Tennis Fever Free 'Super Mario Galaxy' Update Out Now, Here Are The Full Patch Notes - nintendolife.com",
-        "description": "Including a new court, GameShare and much more",
-        "source_link": "https://www.nintendolife.com/news/2026/07/mario-tennis-fever-free-super-mario-galaxy-update-out-now-here-are-the-full-patch-notes"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/10-AirPods-EQ-iOS-27-Beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "AirPods just got a long-requested feature in new public beta - 9to5Mac",
-        "description": "A new AirPods public beta just arrived with custom EQ, a long-requested feature. Here's how to install it and what else is new.",
-        "source_link": "https://9to5mac.com/2026/07/15/airpods-just-got-a-long-requested-feature-in-new-public-beta/"
-      },
-      {
         "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2026/07/dealspsns.jpg",
-        "title": "PlayStation\u2019s Summer Sale Includes A Ton Of PS5 Games That Cost $15 Or Less - Kotaku",
-        "description": "A lot of Resident Evil, Mortal Kombat, and Star Wars games are on sale for less than $20",
-        "source_link": "https://kotaku.com/playstations-summer-sale-includes-a-ton-of-ps5-games-that-cost-15-or-less-2000716362"
+        "image": "https://media.wired.com/photos/6a5651e90289d3b8cc7ba689/191:100/w_1280,c_limit/OnePlus%20RIP.jpg",
+        "title": "OnePlus, the \u2018Flagship-Killer\u2019 Smartphone Brand, Is All but Dead - WIRED",
+        "description": "The original OnePlus phone disrupted the mobile market 13 years ago with its affordable price and top-end specs. Now, the company is exiting North America and Europe to focus on China.",
+        "source_link": "https://www.wired.com/story/oneplus-is-all-but-dead/"
+      },
+      {
+        "rank": 10,
+        "image": "https://images.nintendolife.com/f52f691db3d8a/large.jpg",
+        "title": "Final Fantasy Resonance Gets A Stunning New Trailer Ahead Of Switch 1 & 2 Launch - nintendolife.com",
+        "description": "The HD-2D RPG adventure unfolds this October",
+        "source_link": "https://www.nintendolife.com/news/2026/07/final-fantasy-resonance-gets-a-stunning-new-trailer-ahead-of-switch-1-and-2-launch"
       }
     ],
     "trending_movies": [
@@ -76,17 +83,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/tPbMu1LH4YzyvG2a9X5qYERHmIv.jpg",
         "title": "Descendants: Wicked Wonderland",
         "description": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe\u2026 But little do they know that changing the past cre...",
         "source_link": "https://www.themoviedb.org/movie/1318621"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
         "rank": 4,
