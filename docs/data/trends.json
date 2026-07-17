@@ -1,76 +1,76 @@
 {
-  "last_updated": "July 16, 2026, 23:54 UTC",
+  "last_updated": "July 17, 2026, 02:13 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rally13-2560x1440-1784152735.jpeg",
+        "title": "Hundreds rally at Bethesda HQ to protest Xbox layoffs, and Ars was there - Ars Technica",
+        "description": "Union wants to halt a \"perpetual cycle\" of layoffs, get back to contract bargaining.",
+        "source_link": "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25070039/DSCF9076.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Valve says iFixit will keep selling Steam Deck batteries after all - The Verge",
+        "description": "Valve and iFixit tell The Verge that they\u2019re getting new stock of the Steam Deck LCD\u2019s replacement battery, despite earlier reports.",
+        "source_link": "https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery"
+      },
+      {
+        "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2026/07/aiclones.jpg",
+        "title": "People Are Quickly Cloning Indie Games Using AI Tools - Kotaku",
+        "description": "'You get this anxiety anytime you post anything,' said one dev who claims people used AI tools to quickly copy her in-development game",
+        "source_link": "https://kotaku.com/people-are-using-ai-to-quickly-clone-games-before-the-indie-devs-can-release-them-2000716336"
+      },
+      {
+        "rank": 4,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Android-17-logo-close-up.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Android 17 QPR1 Beta 7 rolling out for Pixel - 9to5Google",
         "description": "Following the last release two weeks ago, Android 17 QPR1 Beta 7 is rolling out today for Pixel devices. Android...",
         "source_link": "http://9to5google.com/2026/07/15/android-17-qpr1-beta-6-pixel-2/"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/unix-system-jp-1152x648.jpg",
         "title": "Engineer identifies and explains every \u201990s computer seen in Jurassic Park - Ars Technica",
         "description": "Yes, it was, in fact, a Unix system.",
         "source_link": "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://images.pushsquare.com/69e56b9566d29/large.jpg",
         "title": "AC Black Flag Resynced Update 1.04 Live Tomorrow, Patch Notes Revealed - Push Square",
         "description": "Available from 16th July",
         "source_link": "https://www.pushsquare.com/news/2026/07/ac-black-flag-resynced-update-1-04-live-tomorrow-patch-notes-revealed"
       },
       {
-        "rank": 4,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Supply-Co-Page_Brand.png?resize=1200,623",
-        "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex - TechCrunch",
-        "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-        "source_link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/"
+        "rank": 7,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/windows-malware-1024x648.jpg",
+        "title": "Windows 0-day drops the same day Microsoft releases record number of patches - Ars Technica",
+        "description": "HiveLegacy is a \"powerful primitive\" that's likely capable of other nefarious actions.",
+        "source_link": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/"
       },
       {
-        "rank": 5,
+        "rank": 8,
+        "image": "https://assets-prd.ignimgs.com/2023/05/03/xbox-showcase-1683121552988.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Microsoft Pulls Tony Hawk\u2019s Pro Skater 1+2 From July 2026 Xbox Game Pass Lineup Without Explanation - IGN",
+        "description": "Microsoft has pulled Tony Hawk\u2019s Pro Skater 1+2 from July 2026 Xbox Game Pass lineup, without offering an explanation.",
+        "source_link": "https://www.ign.com/articles/microsoft-pulls-tony-hawks-pro-skater-12-from-july-2026-xbox-game-pass-lineup-without-explanation"
+      },
+      {
+        "rank": 9,
+        "image": "https://www.droid-life.com/wp-content/uploads/2026/07/Google-Pixel-11-Pixel-Glow-1200x628.jpg",
+        "title": "Google Confirms Pixel 11 and Surprise Pixel Glow Feature - Droid Life",
+        "description": "Google has already announced a Made by Google event taking place on August 12 where they'll show off the latest in Pixel devices. We expect the entire Pixel 11 series to be on display, as well as the new Pixel Watch 5. Today, Google began its first public tea\u2026",
+        "source_link": "https://www.droid-life.com/2026/07/15/google-confirms-pixel-11-and-surprise-pixel-glow-feature/"
+      },
+      {
+        "rank": 10,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/08/applecare.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "AppleCare+ gets a price increase for new Mac and iPad plans - 9to5Mac",
         "description": "As Bloomberg reports, Apple has increased its monthly and annual AppleCare+ rates for new Mac and iPad customers. Here are the details.",
         "source_link": "https://9to5mac.com/2026/07/15/applecare-gets-a-price-increase-for-new-mac-and-ipad-plans/"
-      },
-      {
-        "rank": 6,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-z-fold8-fold8-ultra-specs-leak/-952x498w6/gsmarena_000.jpg",
-        "title": "Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra full specs leak - GSMArena.com news - GSMArena.com",
-        "description": "They are both going to be unveiled next week. We recently saw leaked renders showing Samsung's upcoming Galaxy Z Fold8 and Galaxy Z Fold8 Ultra, and now...",
-        "source_link": "https://www.gsmarena.com/samsung_galaxy_z_fold8_and_galaxy_z_fold8_ultra_full_specs_leak-news-73738.php"
-      },
-      {
-        "rank": 7,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/age-of-empires-ii-microsoft.jpg?resize=1200,675",
-        "title": "Microsoft patches bug in video game Age of Empires II - TechCrunch",
-        "description": "The vulnerability in the decades-old game could have allowed hackers to take over victims\u2019 computers with a malicious game invite.",
-        "source_link": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Pixel-11-Glow-teaser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google releases first Pixel 11 teaser and shows Pixel Glow [Video] - 9to5Google",
-        "description": "Following the event announcement last week, Google today released the first Pixel 11 teaser. We are just under a month...",
-        "source_link": "http://9to5google.com/2026/07/15/pixel-11-first-tease/"
-      },
-      {
-        "rank": 9,
-        "image": "https://i.insider.com/6a561c63eae3978eb7e5d31c?width=1200&format=jpeg",
-        "title": "A DeepMind researcher resigned over its AI military deal: 'I couldn't stay at Google in good conscience' - Business Insider",
-        "description": "Alex Turner, a research scientist at Google DeepMind, said he tried to change Google executives' minds about working with the Pentagon.",
-        "source_link": "https://www.businessinsider.com/google-deepmind-ai-researcher-resign-military-contract-pentagon-2026-7#article"
-      },
-      {
-        "rank": 10,
-        "image": "https://kotaku.com/app/uploads/2025/01/b13a28e0fb149197a1f76f7fcadc5676.jpg",
-        "title": "Overwatch Is No Longer Updating One Of Its Coolest Modes After Significant Player Drop-Off - Kotaku",
-        "description": "The Stadium mode is one of the best things Blizzard has done with the game, but not enough people are playing it",
-        "source_link": "https://kotaku.com/overwatch-stadium-mode-updates-heroes-builds-blizzard-2000716267"
       }
     ],
     "trending_movies": [
@@ -111,24 +111,24 @@
       },
       {
         "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+        "title": "The Furious",
+        "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tena...",
+        "source_link": "https://www.themoviedb.org/movie/1280738"
+      },
+      {
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
         "title": "Moana",
         "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
         "source_link": "https://www.themoviedb.org/movie/1108427"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
         "title": "The Breadwinner",
         "description": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now ...",
         "source_link": "https://www.themoviedb.org/movie/1440050"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-        "title": "The Furious",
-        "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tena...",
-        "source_link": "https://www.themoviedb.org/movie/1280738"
       },
       {
         "rank": 9,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
+        "image": "https://image.tmdb.org/t/p/w200/tPbMu1LH4YzyvG2a9X5qYERHmIv.jpg",
+        "title": "Descendants: Wicked Wonderland",
+        "description": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe\u2026 But little do they know that changing the past cre...",
+        "source_link": "https://www.themoviedb.org/movie/1318621"
       }
     ]
   }
