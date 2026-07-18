@@ -1,76 +1,69 @@
 {
-  "last_updated": "July 18, 2026, 18:56 UTC",
+  "last_updated": "July 18, 2026, 20:03 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-one-premier-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple raises prices for Apple Music and Apple One subscriptions - 9to5Mac",
+        "description": "Apple has raised the price of Apple Music today in the United States and other countries. Starting today, Apple Music\u2019s...",
+        "source_link": "https://9to5mac.com/2026/07/17/apple-raises-prices-for-apple-music-and-apple-one-subscriptions/"
+      },
+      {
+        "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2026/07/image-94.jpg",
+        "title": "Zelda: Ocarina Of Time Remake Price And Pre-Order Rumors Swirl - Kotaku",
+        "description": "Also: that mobile version of Final Fantasy 14 has been canceled",
+        "source_link": "https://kotaku.com/fans-are-desperate-for-a-zelda-ocarina-of-time-remake-nintendo-direct-as-price-and-pre-order-rumors-swirl-2000717069"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2216100332-1024x648.jpg",
+        "title": "Apple, Google must stop profiting off AI nudify apps, San Francisco AG says - Ars Technica",
+        "description": "Official estimates Google and Apple likely made millions in nudify app fees.",
+        "source_link": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/"
+      },
+      {
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Galaxy-Z-Fold-8-leaks-header-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Marketing images of Galaxy Z Fold 8 photos leak right before Galaxy Unpacked [Gallery] - 9to5Google",
+        "description": "Whether Samsung wants detailed images of the Galaxy Z Fold 8 and 8 Ultra out there, they are. The latest...",
+        "source_link": "http://9to5google.com/2026/07/17/galaxy-z-fold-8-flip-images-leak-before-launch/"
+      },
+      {
+        "rank": 5,
         "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-11.03.33-AM.png",
         "title": "Battlefield 6 Is Getting A Feature Not Seen In 21 Years And A Top Gun Crossover - GameSpot",
         "description": "Highway to the Battlefield zone.",
         "source_link": "https://www.gamespot.com/articles/battlefield-6-is-getting-a-feature-not-seen-in-21-years-and-a-top-gun-crossover/"
       },
       {
-        "rank": 2,
+        "rank": 6,
+        "image": "https://www.bgr.com/img/gallery/5-big-changes-reportedly-coming-to-the-ipad-lineup-by-2027/l-intro-1784300517.jpg",
+        "title": "5 Big Changes Reportedly Coming To The iPad Lineup By 2027 - bgr.com",
+        "description": "Apple's iPad line-up is slated to get some major changes with its 2027 releases, including upgraded accessories and the long-awaited Siri AI.",
+        "source_link": "https://www.bgr.com/2217494/big-changes-ipad-coming-soon/"
+      },
+      {
+        "rank": 7,
         "image": "https://techcrunch.com/wp-content/uploads/2026/07/Remarkable-feat.jpg?resize=1200,900",
         "title": "reMarkable\u2019s new Paper Pure is good. That\u2019s why I wrote this review on it. - TechCrunch",
         "description": "Remarkable's Paper Pure replaces Remarkable 2, and it is quite good.",
         "source_link": "https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/"
       },
       {
-        "rank": 3,
+        "rank": 8,
+        "image": "https://image.theregister.com/261785.jpg?imageId=261785&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "title": "Torvalds challenged the haters to fork Linux. Someone said 'hold my beer' - The Register",
+        "description": "More a rewrite really, and of a very early version: Linux 0.11 \u2013 in Rust",
+        "source_link": "https://www.theregister.com/os-platforms/2026/07/17/torvalds-challenged-the-haters-to-fork-linux-someone-said-hold-my-beer/5274275"
+      },
+      {
+        "rank": 9,
         "image": "https://variety.com/wp-content/uploads/2026/07/Fallout-4.png?w=1000&h=563&crop=1",
         "title": "\u2018Fallout 5\u2019 in Preproduction, \u2018Elder Scrolls 6\u2019 Is Bethesda\u2019s \u2018Primary Development Focus\u2019 Following Xbox Layoffs, Studio Chief Says - Variety",
         "description": "Bethesda Game Studios' Todd Howard confirms \"Fallout 5\" is in the works and \"The Elder Scrolls 6\" is the studio's top priority.",
         "source_link": "https://variety.com/2026/digital/news/fallout-5-elder-scrolls-6-game-updates-bethesda-todd-howard-1236814611/"
-      },
-      {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268655_Microsoft_Surface_Laptop_13-inch_8GB_2026_review_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Even Microsoft couldn\u2019t make Windows 11 work well on 8GB of RAM - The Verge",
-        "description": "Microsoft\u2019s new entry-level 13-inch Surface Laptop pairs last year\u2019s\u00a0 great hardware with a higher price and just 8GB of RAM. Thanks, RAMageddon.",
-        "source_link": "https://www.theverge.com/tech/966937/microsoft-surface-laptop-13-inch-8gb-ram-2026-review"
-      },
-      {
-        "rank": 5,
-        "image": "https://assetsio.gnwcdn.com/gta-boxed.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Claims about GTA 6 pre-orders are incorrect and \"absurd\", analyst firm says, but it's still had the \"strongest pre-order campaign ever recorded\" - Eurogamer.net",
-        "description": "Estimates suggest GTA 6 made $260 million in pre-orders in its first week alone.",
-        "source_link": "https://www.eurogamer.net/gta-6-pre-order-numbers-record"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.cnet.com/a/img/resize/a14452b33dda39e79dcee39937346bd0ce1f4dde/hub/2026/07/16/07588686-c305-489d-a0fe-32ba3119df43/sirioldvsnew.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "title": "Siri AI vs. Old Siri on Apple Watch: It Wasn't Even Close - CNET",
-        "description": "The WatchOS 27 public beta is here, and Apple's revamped assistant finally does what Siri should have been doing all along.",
-        "source_link": "https://www.cnet.com/tech/mobile/siri-ai-vs-old-siri-apple-watch-watchos-27-test/"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/DOOM-SITE_5fKgryC-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "No, Doom maker id Software hasn't been \"nerfed into the ground and gutted\" by the Xbox cuts, insists director Hugo Martin - Eurogamer.net",
-        "description": "Doom and Quake creator id Software tries to reassure fans it's okay following the devastating recent Xbox cuts.",
-        "source_link": "https://www.eurogamer.net/id-software-xbox-cuts-doom"
-      },
-      {
-        "rank": 8,
-        "image": "https://supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/An-amateur-astronomer-made-a-tiny-mistake-when-he-spotted-the-Tesla-Roadster-that-Elon-Musk-and-SpaceX-fired-into-space-a-few-years-ago-lead-1.webp",
-        "title": "Amateur astronomer spotted the Tesla Roadster Elon Musk launched in space and what he saw caused a bit of panic - supercarblondie.com",
-        "description": "An amateur astronomer spotted the Tesla Roadster that Elon Musk sent into space aboard a SpaceX rocket, and a tiny mistake led to a moment of massive panic",
-        "source_link": "https://supercarblondie.com/elon-musk-spacex-tesla-roadster-astronomer-asteroid/"
-      },
-      {
-        "rank": 9,
-        "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/ocarina-of-time-3d-link-ganondorf.jpg?w=1600&h=900&fit=crop",
-        "title": "Zelda: Ocarina Of Time Remake Pre-Order Date Appears Online - ScreenRant",
-        "description": "A potential pre-order date for the highly anticipated Zelda: Ocarina of Time remake has surfaced, suggesting an August release on Nintendo Switch 2",
-        "source_link": "https://screenrant.com/zelda-ocarina-of-time-remake-pre-order-date-leak/"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/07/FF14-Mobile-Cancel_07-17-26.jpg",
-        "title": "Final Fantasy XIV Mobile to end service on September 30 in China, global version canceled - Gematsu",
-        "description": "LightSpeed Studios will end service on the Chinese version of Final Fantasy XIV Mobile for iOS and Android on September 30, the company announced. The global version is no longer in development.",
-        "source_link": "https://www.gematsu.com/2026/07/final-fantasy-xiv-mobile-to-end-service-on-september-30-in-china-global-version-canceled"
       }
     ],
     "trending_movies": [
@@ -83,24 +76,24 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-        "title": "Descendants: Wicked Wonderland",
-        "description": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe\u2026 But little do they know that changing the past cre...",
-        "source_link": "https://www.themoviedb.org/movie/1318621"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
+        "title": "Descendants: Wicked Wonderland",
+        "description": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe\u2026 But little do they know that changing the past cre...",
+        "source_link": "https://www.themoviedb.org/movie/1318621"
       },
       {
         "rank": 5,
@@ -118,24 +111,24 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
         "title": "Desire",
         "description": "Lucero\u2019s life appears immaculate: a wealthy household, a devoted husband, and two children who embody the promise of a perfect family. Yet beneath thi...",
         "source_link": "https://www.themoviedb.org/movie/1668364"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+        "title": "The Furious",
+        "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tena...",
+        "source_link": "https://www.themoviedb.org/movie/1280738"
+      },
+      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/bIwQxcZl2CdyhVRNDtQl36YCZVr.jpg",
-        "title": "Normal",
-        "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more e...",
-        "source_link": "https://www.themoviedb.org/movie/1242332"
+        "image": "https://image.tmdb.org/t/p/w200/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
         "rank": 10,
