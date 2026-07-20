@@ -1,148 +1,148 @@
 {
-  "last_updated": "July 20, 2026, 06:12 UTC",
+  "last_updated": "July 20, 2026, 09:55 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/07/ios-27-3.jpg",
+        "title": "iOS 26 vs iOS 27: How Apple Is Completely Replacing Siri With Next-Gen AI - Geeky Gadgets",
+        "description": "Comparing iOS 27 vs iOS 26 reveals faster app launches by up to 30% and an 80% quicker AirDrop. See the new full-page widgets and liquid glass slider.",
+        "source_link": "https://www.geeky-gadgets.com/ios-26-vs-ios-27/"
+      },
+      {
+        "rank": 2,
         "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-z-fold8-bts-teaser/-952x498w6/gsmarena_002.jpg",
         "title": "Boy band BTS' J-Hope teases the Samsung Galaxy Z Fold8 ahead of launch - GSMArena.com news - GSMArena.com",
         "description": "It's expected to go official on July 22. Samsung is hosting a Galaxy Unpacked event on July 22 in London, where it's expected to unveil its new folding...",
         "source_link": "https://www.gsmarena.com/samsung_galaxy_z_fold8_bts_teaser-news-73786.php"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-watch-9-snapdragon-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Galaxy Watch 9 is \u2018Powered by Snapdragon Wear Elite,\u2019 leaked images confirm [Gallery] - 9to5Google",
         "description": "As expected, Samsung is switching its new Galaxy Watch 9 over to a Qualcomm chip, the Snapdragon Wear Elite, as...",
         "source_link": "http://9to5google.com/2026/07/18/galaxy-watch-9-is-powered-by-snapdragon-wear-elite-leaked-images-confirm-gallery/"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://www.svg.com/img/gallery/5-classic-ps1-games-that-are-unplayable-today/l-intro-1784334647.jpg",
         "title": "5 Classic PS1 Games That Are Unplayable Today - svg.com",
         "description": "Surprisingly, these five classic games for PS1 are not only no longer playable, but include some of the platform's biggest and most acclaimed titles.",
         "source_link": "https://www.svg.com/2217998/classic-ps1-games-unplayable-today/"
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134805003.jpg?quality=75&strip=all&w=1200",
+        "title": "Here's the real reason KFC stopped going by Kentucky Fried Chicken nearly four decades ago - New York Post",
+        "description": "False claims about genetically modified chickens and state trademark fees have persisted for decades alongside the real reason.",
+        "source_link": "https://www.foxnews.com/food-drink/why-kfc-stopped-calling-itself-kentucky-fried-chicken-myths-still-wont-die"
+      },
+      {
+        "rank": 6,
         "image": "https://www.techpowerup.com/img/EZg5pfdvnbtvbd77.jpg",
         "title": "Valve Reportedly Sells 12-15K Steam Machine Units Per Week - TechPowerUp",
         "description": "When Valve listed its Steam Machine gaming console/PC back in late June, many doubted whether the console would sell due to its high price tag. However, it turns out that Valve's sales data have reportedly been good. Some investigative journalism led to an es\u2026",
         "source_link": "https://www.techpowerup.com/350872/valve-reportedly-sells-12-15k-steam-machine-units-per-week"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://imageio.forbes.com/specials-images/imageserve/693eddc7a1a220985d13f65b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "iPhone 18 Pro Release Date: Apple\u2019s 15-Year Event Timeline Signals Exact Date - Forbes",
         "description": "As rumors build, analysis of every fall iPhone release indicates one date above other possibilities.",
         "source_link": "https://www.forbes.com/sites/davidphelan/2026/07/18/iphone-18-pro-release-date-apples-15-year-event-timeline-points-to-one-september-date/"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/Corvette-C4-restoration-featured.webp",
         "title": "US grandpa cries after seeing his late wife's 1990 C4 Corvette cleaned for the first time in 25 years - supercarblondie.com",
         "description": "This American grandpa was visibly moved after seeing his late wife's C4 Corvette cleaned up for the first time in more than two decades",
         "source_link": "https://supercarblondie.com/1990-c4-corvette-grandpa-cries-cleaning-wd-detailing/"
       },
       {
-        "rank": 7,
+        "rank": 9,
+        "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/07/ps-plus-logos-game-rant-30.jpg?w=1600&h=900&fit=crop",
+        "title": "PS Plus Already Has 12 Upcoming Monthly Games Confirmed for the Rest of 2026 - GameRant",
+        "description": "PlayStation Plus currently has an extensive list of games coming to the Essential, Extra, and/or Premium tiers over the next few months.",
+        "source_link": "https://gamerant.com/ps-plus-free-essential-extra-premium-coming-soon-2026/"
+      },
+      {
+        "rank": 10,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/google-pixel-10a-7.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
         "title": "Google might not kneecap the Pixel 11a with an old processor - The Verge",
         "description": "Mystic Leaks suggests the Pixel 11a will feature a Tensor G6 and a more reliable MediaTek modem.",
         "source_link": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak"
-      },
-      {
-        "rank": 8,
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/6a0d8110-kfc.jpg",
-        "title": "Why KFC stopped calling itself Kentucky Fried Chicken \u2014 and the myths that still won't die - Fox News",
-        "description": "The 1991 name change from Kentucky Fried Chicken to KFC sparked wild myths, but the real reason involved declining earnings and the word \"fried.\"",
-        "source_link": "https://www.foxnews.com/food-drink/why-kfc-stopped-calling-itself-kentucky-fried-chicken-myths-still-wont-die"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.purexbox.com/d38b58abd3ee7/large.jpg",
-        "title": "Talking Point: So, Are You Getting The Premium Upgrade For Halo: Campaign Evolved? - Pure Xbox",
-        "description": "Launch is just a few days away!",
-        "source_link": "https://www.purexbox.com/features/talking-point-so-are-you-getting-the-premium-upgrade-for-halo-campaign-evolved"
-      },
-      {
-        "rank": 10,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iPhone 18 Pro is just two months away, but you probably shouldn\u2019t wait for it - 9to5Mac",
-        "description": "The next iPhone lineup is around the corner \u2013 and it\u2019s going to be a different one. The base model...",
-        "source_link": "https://9to5mac.com/2026/07/18/iphone-18-pro-heres-why-you-shouldnt-wait-to-upgrade/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/1KlYdWoOrbL5ux357rW9LC155qw.jpg",
         "title": "Scary Movie",
         "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
         "source_link": "https://www.themoviedb.org/movie/1273221"
       },
       {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
-        "title": "Descendants: Wicked Wonderland",
-        "description": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe\u2026 But little do they know that changing the past cre...",
-        "source_link": "https://www.themoviedb.org/movie/1318621"
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/x19dchU8e38vQfW4epzOsQNLuZ2.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/xdhLAADGSse8KCrsDLBuM5b68Cg.jpg",
+        "title": "Descendants: Wicked Wonderland",
+        "description": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe\u2026 But little do they know that changing the past cre...",
+        "source_link": "https://www.themoviedb.org/movie/1318621"
+      },
+      {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
-        "title": "Desire",
-        "description": "Lucero\u2019s life appears immaculate: a wealthy household, a devoted husband, and two children who embody the promise of a perfect family. Yet beneath thi...",
-        "source_link": "https://www.themoviedb.org/movie/1668364"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
-        "title": "Heartstopper Forever",
-        "description": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings....",
-        "source_link": "https://www.themoviedb.org/movie/1468683"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
         "title": "Moana",
         "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
         "source_link": "https://www.themoviedb.org/movie/1108427"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
+        "title": "Desire",
+        "description": "Lucero\u2019s life appears immaculate: a wealthy household, a devoted husband, and two children who embody the promise of a perfect family. Yet beneath thi...",
+        "source_link": "https://www.themoviedb.org/movie/1668364"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+        "title": "Hope",
+        "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking ...",
+        "source_link": "https://www.themoviedb.org/movie/1058424"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-        "title": "Project Hail Mary",
-        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
-        "source_link": "https://www.themoviedb.org/movie/687163"
+        "image": "https://image.tmdb.org/t/p/w200/cNYTQKXvlSI62WacK35SfL22xs2.jpg",
+        "title": "23 000 Lives",
+        "description": "Unable to stand by and watch as countless refugees lose their lives attempting to reach Europe by sea, a group of young Berliners take action. Inexper...",
+        "source_link": "https://www.themoviedb.org/movie/1656220"
       }
     ]
   }
