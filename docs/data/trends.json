@@ -1,69 +1,76 @@
 {
-  "last_updated": "July 20, 2026, 23:53 UTC",
+  "last_updated": "July 21, 2026, 02:12 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://kotaku.com/app/uploads/2023/11/58051c3169b6a993768dc17824b7e5c6-1200x675.jpg",
+        "title": "Kingdom Hearts' Canceled Mobile Game's Intro May Have Leaked - Kotaku",
+        "description": "Kingdom Hearts: Missing-Link was a canceled mobile game that would have tied into the upcoming fourth mainline game in the series",
+        "source_link": "https://kotaku.com/kingdom-hearts-4-missing-link-leak-cinematic-astronaut-2000717536"
+      },
+      {
+        "rank": 2,
+        "image": "https://helios-i.mashable.com/imagery/articles/02zBM2PTVPukLZrYYfvJAut/hero-image.fill.size_1200x675.v1784300892.jpg",
+        "title": "NYT Strands hints, answers for July 19, 2026 - Mashable",
+        "description": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle.",
+        "source_link": "https://mashable.com/entertainment/strands-nyt-hint-july-19-2026"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iOS 27 makes your iPhone faster in 30+ ways - 9to5Mac",
+        "description": "iOS 27 speeds up your iPhone across Photos, Safari, Camera, and more. Here are all the performance improvements Apple has outlined.",
+        "source_link": "https://9to5mac.com/2026/07/19/ios-27-makes-your-iphone-faster-in-30-ways-heres-the-full-list/"
+      },
+      {
+        "rank": 4,
         "image": "https://imageio.forbes.com/specials-images/imageserve/693eddc7a1a220985d13f65b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "iPhone 18 Pro Release Date: Apple\u2019s 15-Year Event Timeline Signals Exact Date - Forbes",
         "description": "As rumors build, analysis of every fall iPhone release indicates one date above other possibilities.",
         "source_link": "https://www.forbes.com/sites/davidphelan/2026/07/19/iphone-18-pro-release-date-apples-15-year-event-timeline-points-to-one-september-date/"
       },
       {
-        "rank": 2,
+        "rank": 5,
+        "image": "https://www.cnet.com/a/img/resize/1d4af65287145c5dada74f9aab48feb54947a796/hub/2024/05/16/f8613753-241f-4b5b-926b-46ace82e946f/blurhomegooglemaps.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "How to Stop Google Maps From Displaying Your Home to Strangers - CNET",
+        "description": "A straightforward privacy request to Google can remove your home from Street View entirely. Here's the step-by-step process.",
+        "source_link": "https://www.cnet.com/tech/services-and-software/how-to-stop-google-maps-from-displaying-your-home-to-strangers/"
+      },
+      {
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/four-tet-wingdings.jpg?quality=90&strip=all&crop=0%2C5.1234106207928%2C100%2C89.753178758414&w=1200",
         "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet) - The Verge",
         "description": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da is unpronounceable, but turns out this set of Wingdings is a side project of Four Tet.",
         "source_link": "https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/galaxy-z-fold-8-bts-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Here\u2019s what the wide Galaxy Z Fold 8 looks like in real life [Gallery] - 9to5Google",
         "description": "Thanks to a member of BTS, we've got a fresh look at the Galaxy Z Fold 8 in real life, showing off the wide new form factor.",
         "source_link": "http://9to5google.com/2026/07/19/samsung-galaxy-z-fold-8-real-life-bts-leak/"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/android-auto-kia-niro-ev-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Android Auto finally starts rolling out a speedometer in Google Maps - 9to5Google",
         "description": "It\u2019s anything but wide at this point, but we\u2019re finally seeing signs of Android Auto rolling out support for a...",
         "source_link": "http://9to5google.com/2026/07/19/android-auto-finally-starts-rolling-out-a-speedometer-in-google-maps/"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/mac-pro-rip.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple\u2019s scrapped Mac Pro plans reportedly included a new Intel model - 9to5Mac",
         "description": "A new report reveals Apple developed two unreleased Mac Pro models before discontinuing the line, including one powered by Intel.",
         "source_link": "https://9to5mac.com/2026/07/19/apples-scrapped-mac-pro-plans-reportedly-included-an-intel-model/"
       },
       {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/rsz_1233241238.webp?quality=90&strip=all&crop=0%2C3.4750998734523%2C100%2C93.049800253095&w=1200",
-        "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera - The Verge",
-        "description": "With the $35 Kodak EC35 Reto Project makes the film photography renaissance more affordable.",
-        "source_link": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets-prd.ignimgs.com/2026/05/06/screenshot-2026-05-06-162907-1778081413883.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Xbox Says More Exclusives Are Coming But Tells Players Not to 'Overly Fixate on Single-Player' Games - IGN",
-        "description": "Executives at Xbox have once again attempted to clarify the company's approach to exclusives, promising that \"Gears of War: E-Day and Clockwork Revolution are not the only titles\" it's planning.",
-        "source_link": "https://www.ign.com/articles/xbox-says-more-exclusives-are-coming-but-tells-players-not-to-overly-fixate-on-single-player-games"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.onemileatatime.com/wp-content/uploads/2026/07/Air-India-First-Lounge-Delhi-8.jpeg",
-        "title": "The Air India First Class Lounge Delhi Is Delightful\u2026 What A Treat! - One Mile at a Time",
-        "description": "The first class section of the Air India Maharaja Lounge Delhi is incredible, and the airline knocked it out of the park. Well done!",
-        "source_link": "https://onemileatatime.com/insights/air-india-first-lounge-delhi/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.bgr.com/img/gallery/is-the-macbook-air-m1-still-worth-buying-in-2026/l-intro-1784090928.jpg",
-        "title": "Is The MacBook Air M1 Still Worth Buying In 2026? - bgr.com",
-        "description": "The MacBook Air M1 is still worth buying in 2026 for light work, thanks to its strong performance, long battery life, and affordable refurbished prices.",
-        "source_link": "https://www.bgr.com/2215378/is-macbook-air-m1-still-worth-buying-in-2026/"
+        "rank": 10,
+        "image": "https://www.bgr.com/img/gallery/11-of-the-best-apple-watch-cases-you-can-buy-on-amazon/l-intro-1783953259.jpg",
+        "title": "11 Of The Best Apple Watch Cases You Can Buy On Amazon - bgr.com",
+        "description": "Durable, stylish, and highly rated by Amazon shoppers, these Apple Watch cases will protect your device from scratches, drops, and everyday wear.",
+        "source_link": "https://www.bgr.com/2213609/best-apple-watch-cases-buy-amazon/"
       }
     ],
     "trending_movies": [
@@ -132,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
-        "title": "Heartstopper Forever",
-        "description": "It's a new school year for the Truham-Higgs gang. As Nick and Charlie's relationship deepens, their thoughts turn to life after the last bell rings....",
-        "source_link": "https://www.themoviedb.org/movie/1468683"
+        "image": "https://image.tmdb.org/t/p/w200/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg",
+        "title": "Desire",
+        "description": "Lucero\u2019s life appears immaculate: a wealthy household, a devoted husband, and two children who embody the promise of a perfect family. Yet beneath thi...",
+        "source_link": "https://www.themoviedb.org/movie/1668364"
       }
     ]
   }
