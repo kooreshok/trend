@@ -1,69 +1,69 @@
 {
-  "last_updated": "July 22, 2026, 21:00 UTC",
+  "last_updated": "July 22, 2026, 22:56 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": null,
+        "title": "Google Teases Gemini 4 Release - Droid Life",
+        "description": null,
+        "source_link": "https://www.droid-life.com/2026/07/21/google-drops-gemini-flash-3-6-on-us-teases-gemini-4/"
+      },
+      {
+        "rank": 2,
+        "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/apple-store-beijing-china.jpg?ve=1&tl=1",
+        "title": "Apple raises prices on some streaming services as licensing costs climb - Fox Business",
+        "description": "Apple Music individual plans rise to $11.99 and family plans jump to $19.99 as the company cites rising licensing costs for the subscription hikes.",
+        "source_link": "https://www.foxbusiness.com/markets/apple-raises-prices-some-streaming-services-licensing-costs-climb"
+      },
+      {
+        "rank": 3,
         "image": "https://kotaku.com/app/uploads/2026/06/xbox-1200x675.jpg",
         "title": "Xbox VP Leaves Just 3 Months After Joining Asha Sharma's Team - Kotaku",
         "description": "Jared Palmer had joined Xbox from Microsoft's CoreAI division",
         "source_link": "https://kotaku.com/new-xbox-vp-helping-ceo-with-our-most-complex-product-and-engineering-problems-is-already-leaving-three-months-later-2000718135"
       },
       {
-        "rank": 2,
-        "image": "https://steamdeckhq.com/wp-content/uploads/2026/07/Terminal-1-1024x683.webp",
-        "title": "dBrand Announces 9 Steam Machine Skins That Are Now Available - Steam Deck HQ",
-        "description": "dBrand has announced 9 new skins for the Steam Machine, and some of them look incredible.",
-        "source_link": "https://steamdeckhq.com/news/dbrand-announces-9-steam-machine-skins/"
+        "rank": 4,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/scrolling-tiktok-iphone-GettyImages-2284214141.jpg?w=1024",
+        "title": "AI and the rise of the universal entertainment app - TechCrunch",
+        "description": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotif\u2026",
+        "source_link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/nintendo-switch-1152x648-1776887603.jpg",
+        "title": "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds - Ars Technica",
+        "description": "Nintendo says Switch buyers got what they paid for, urges court to dismiss lawsuit.",
+        "source_link": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/"
+      },
+      {
+        "rank": 6,
         "image": "https://www.thedrive.com/wp-content/uploads/2026/07/GettyImages-1290148260-1.jpg?quality=85&w=1200",
         "title": "Anyone in Bluetooth Range Can Unlock Cars, Kill Engines Through Alarms Owners May Never Have Paid For - The Drive",
         "description": "A dealer-installed alarm in two million cars is vulnerable to hackers. Worse yet, owners may not even know their car has one.",
         "source_link": "https://www.thedrive.com/news/anyone-in-bluetooth-range-can-unlock-cars-kill-engines-through-alarms-owners-may-never-have-paid-for"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Verge-Deals-Kindle-Paperwhite.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Nearly every Kindle is steeply discounted at Best Buy - The Verge",
         "description": "Best Buy is discounting almost every Kindle. We also found deals on the Google Pixel Watch 2, Pixel 7, the Ring Battery Doorbell 2K, and Indoor Cam Plus.",
         "source_link": "https://www.theverge.com/gadgets/968356/kindle-paperwhite-colorsoft-scribe-deal-sale"
       },
       {
-        "rank": 5,
+        "rank": 8,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-1152x648.jpg",
         "title": "Steam Deck sales are losing steam since May's price hike - Ars Technica",
         "description": "Analysis of bestseller charts shows an 80 percent dip from 2025's sales rate.",
         "source_link": "https://arstechnica.com/gaming/2026/07/steam-deck-sales-are-losing-steam-since-mays-price-hike/"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257981_Techwoven_AJohnson_0002.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
         "title": "Apple\u2019s rumored \u2018Upgrade\u2019 program brings lease-to-own pricing for iPhones, Macs, and iPads - The Verge",
         "description": "Apple is planning to launch a new Apple Upgrade program for leasing iPhones, iPads, Mac, and Apple Watches, while discontinuing the current iPhone Upgrade Program.",
         "source_link": "https://www.theverge.com/tech/968750/apple-upgrade-program"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/Darkest-Dungeon-2---The-Fire's-Edge.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Darkest Dungeon is getting its first dollop of DLC in several years, as the gloomy old RPG celebrates its 10th birthday - Eurogamer.net",
-        "description": "Red Hook Studios has surprised fans of the first Darkest Dungeon with a new DLC pack that will add two heroes from the sequel and more.",
-        "source_link": "https://www.eurogamer.net/darkest-dungeon-the-fires-edge-dlc-reveal"
-      },
-      {
-        "rank": 8,
-        "image": "https://assets-prd.ignimgs.com/2026/07/20/blood-of-dawnwalker-pixie-quest-blogroll-1784547417659.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Meet a Devious Pixie Who\u2019ll Trade Treasures for Teeth in This Brand New the Blood of Dawnwalker Quest Gameplay - IGN",
-        "description": "Check out some brand new quest gameplay from The Blood of Dawnwalker, featuring a devious pixie who's obsessed with teeth.",
-        "source_link": "https://www.ign.com/articles/the-blood-of-dawnwalker-gameplay-pixie-quest"
-      },
-      {
-        "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2026/05/Exodus-1200x675.jpg",
-        "title": "Hasbro's Big Video Game Push Is Already Struggling - Kotaku",
-        "description": "Well, that didn't last long",
-        "source_link": "https://kotaku.com/hasbro-56-million-impairment-charge-video-games-canceled-2000718018"
       }
     ],
     "trending_movies": [
@@ -104,17 +104,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
         "rank": 8,
