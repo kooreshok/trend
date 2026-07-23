@@ -1,76 +1,69 @@
 {
-  "last_updated": "July 23, 2026, 15:51 UTC",
+  "last_updated": "July 23, 2026, 17:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://helios-i.mashable.com/imagery/articles/00JVJ0hlb1CKWbvkvYN3PDv/hero-image.fill.size_1200x675.v1784726690.jpg",
+        "title": "Samsung Galaxy Glasses revealed at Unpacked - Mashable",
+        "description": "Samsung said the highly anticipated glasses will arrive in the fall",
+        "source_link": "https://mashable.com/tech/samsung-galaxy-unpacked-galaxy-glasses-revealed"
+      },
+      {
+        "rank": 2,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-games-selection.jpg",
+        "title": "Miyamoto on how Nintendo chooses which games to release, confirms Star Fox and Yoshi games happened because of The Super Mario Galaxy Movie - Nintendo Everything",
+        "description": "Famitsu published a new interview with Nintendo legend Shigeru Miyamoto this week, and one topic of discussion was the company\u2019s software lineup. The Japanese brought up different games that have released on Nintendo Switch 2 so far such as the first 3D Donke\u2026",
+        "source_link": "https://nintendoeverything.com/miyamoto-on-how-nintendo-chooses-which-games-to-release-confirms-star-fox-and-yoshi-games-happened-because-of-the-super-mario-galaxy-movie/"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.macrumors.com/t/zN8bMf8ptk0IFX9GWSrBKd1ZF84=/2500x/article-new/2026/06/MacBook-Neo-on-Yellow-Feature.jpg",
+        "title": "Apple Working on New MacBook Neo With Two Upgrades - MacRumors",
+        "description": "Apple is working on a new MacBook Neo with two key upgrades, including an A19 Pro chip and increased RAM, according to Bloomberg's Mark Gurman....",
+        "source_link": "https://www.macrumors.com/2026/07/22/new-macbook-neo-two-upgrades/"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/XBOX-Backward-Compatibility-on-PC.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "Microsoft is bringing original Xbox games to PC - The Verge",
+        "description": "Xbox backward compatibility for PC allows classic Xbox console games to officially run on Windows.",
+        "source_link": "https://www.theverge.com/news/969117/microsoft-xbox-games-pc-backward-compatibility"
+      },
+      {
+        "rank": 5,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAitYCbebb1M/v2/1200x800.jpg",
+        "title": "Apple Plans Overhaul of MacBooks, iMac in Push to Meet AI Demand - Bloomberg.com",
+        "description": "Apple Inc. is readying an overhaul of its Mac line, seeking to capitalize on demand for powerful laptops and desktops fueled by the artificial intelligence boom.",
+        "source_link": "https://www.bloomberg.com/news/articles/2026-07-22/apple-to-launch-new-macbook-air-imac-macbook-pro-neo-mac-mini-mac-studio"
+      },
+      {
+        "rank": 6,
         "image": "https://assets.warhammer-community.com/articles/0-2026/july/wc20-07/40k_exodites-jul22-1-feature-9vidj7dwqt.jpg",
         "title": "Exodites in Warhammer 40,000 \u2013 See the full rules - Warhammer Community",
         "description": "Dragon Knights get ready to skewer the competition.",
         "source_link": "https://www.warhammer-community.com/articles/bauwdcyl/exodites-in-warhammer-40000-see-the-full-rules"
       },
       {
-        "rank": 2,
-        "image": "https://kotaku.com/app/uploads/2025/03/245526aac0e918cb958d1cb426944441-1200x675.jpg",
-        "title": "Xbox Console Sales Jumped 86 Percent In June Despite High Prices - Kotaku",
-        "description": "Meccha Chameleon was the second-best-selling game in the U.S. last month, with an estimated 4 million copies sold",
-        "source_link": "https://kotaku.com/xbox-console-sales-up-june-price-increases-switch-2-2000718346"
+        "rank": 7,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/AMD-EPYC-Venice-256-Core-Zen-6-CPU-_1.jpg",
+        "title": "AMD\u2019s Zen 6 EPYC Venice Pictured as a 256-Core Monster, Massive Twin I/O Dies & First 2nm HPC Chip To Enter Volume Ramp - Wccftech",
+        "description": "AMD has showcased its next-generation EPYC Venice CPU at the Advancing AI event, featuring a phenomenal core count of 256 based on Zen 6.",
+        "source_link": "https://wccftech.com/amd-256-core-epyc-venice-behemoth-cpu-pictured-confirms-32-cores-per-zen-6-ccd/"
       },
       {
-        "rank": 3,
+        "rank": 8,
         "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/07/22215934/Samsung-Mobile-Galaxy-Unpacked-July-2026-Galaxy-Z-Fold8-Ultra-Galaxy-Z-Fold8-Galaxy-Z-Flip8-A-First-Look_Thumb932.jpg",
         "title": "[Galaxy Unpacked July 2026] A First Look at Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8 - Samsung Global Newsroom",
         "description": "At Galaxy Unpacked July 2026 in London, Samsung Electronics unveiled the eighth-generation Galaxy Z series. Combining agentic AI that understands users with hardware tailored to different lifestyles, the lineup offers three distinct foldable experiences. Sams\u2026",
         "source_link": "https://news.samsung.com/global/galaxy-unpacked-july-2026-a-first-look-at-galaxy-z-fold8-ultra-galaxy-z-fold8-and-galaxy-z-flip8"
       },
       {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Samsung-Galaxy-Watch-Ultra2-and-Watch9-2.jpg?quality=90&strip=all&crop=0%2C10.73491056328%2C100%2C78.53017887344&w=1200",
-        "title": "Samsung\u2019s Galaxy Watch 9 and Ultra 2 bet big on battery - The Verge",
-        "description": "The Samsung Galaxy Watch 9 and Ultra 2 both have bigger batteries, a more power-efficient Qualcomm chip, and new health metrics. But there are also price hikes.",
-        "source_link": "https://www.theverge.com/tech/968728/samsung-galaxy-watch-9-ultra-2-hands-on-wearables-smartwatches"
-      },
-      {
-        "rank": 5,
-        "image": "https://images.nintendolife.com/31a3d3d8694f2/large.jpg",
-        "title": "Metal Gear Solid: Master Collection Vol. 2's Resolutions & Frame Rates Revealed - nintendolife.com",
-        "description": "Switch 1 players are capped at 30fps",
-        "source_link": "https://www.nintendolife.com/news/2026/07/metal-gear-solid-master-collection-vol-2s-resolutions-and-frame-rates-revealed"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.videogameschronicle.com/files/2025/12/NintendoSwitch2_The_Duskbloods_Screenshot-1.jpg",
-        "title": "Players can apply to join the network test for FromSoftware\u2019s Switch 2 exclusive The Duskbloods today - Video Games Chronicle",
-        "description": "Players have a week to apply for the test, which runs from August 21-24",
-        "source_link": "https://www.videogameschronicle.com/news/players-can-apply-to-join-the-network-test-for-fromsoftwares-switch-2-exclusive-the-duskbloods-today/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/The-reported-Apple-Upgrade-program-raises-a-very-big-concern.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "The reported Apple Upgrade program raises a very big concern - 9to5Mac",
-        "description": "A Bloomberg report yesterday suggested that Apple is about to launch a new Apple Upgrade leasing contract to replace the...",
-        "source_link": "https://9to5mac.com/2026/07/22/the-reported-apple-upgrade-program-raises-a-very-big-concern/"
-      },
-      {
-        "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/xbox-logo_OJRhRlL.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Asha Sharma-appointed Xbox VP of engineering leaves just three months after moving over from Microsoft's CoreAI team - Eurogamer.net",
-        "description": "Xbox engineering boss, who only joined the team three months ago, is leaving for an AI startup.",
-        "source_link": "https://www.eurogamer.net/xbox-vp-engineering-leaves-after-three-months"
-      },
-      {
         "rank": 9,
-        "image": "https://assets-prd.ignimgs.com/2026/07/22/gettyimages-566041779-1784713697260.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Sony's Decision to Kill PlayStation Discs Puts Second-Hand Market Under Threat, Analysts Say - IGN",
-        "description": "Sony\u2019s decision to end production of PlayStation discs for new games from 2028 threatens to destroy the second-hand market, analysts have said.",
-        "source_link": "https://www.ign.com/articles/the-global-second-hand-video-game-market-is-valued-at-72-billion-but-sonys-decision-to-kill-playstation-discs-threatens-to-destroy-it-analysts-say"
-      },
-      {
-        "rank": 10,
-        "image": "https://cdn.videocardz.com/1/2026/07/battlefield-6-season-4-gameplay-screen-12.webp",
-        "title": "GeForce RTX 50 GPUs reportedly crash on Battlefield 6 maps with large bodies of water - VideoCardz.com",
-        "description": "EA has confirmed GPU driver crashes on some Battlefield 6 maps with large bodies of water. Reports are concentrated on GeForce RTX 50 systems.",
-        "source_link": "https://videocardz.com/newz/geforce-rtx-50-gpus-reportedly-crash-on-battlefield-6-maps-with-large-bodies-of-water"
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/gemini-task-automation-fold-8-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Gemini task automation expands to 40+ apps, Samsung shows off two more Android XR glasses - 9to5Google",
+        "description": "At Galaxy Unpacked, Google announced a handful of Gemini updates for the Galaxy Z Fold 8 Ultra, Fold 8, and Flip 8.",
+        "source_link": "http://9to5google.com/2026/07/22/gemini-task-automation-samsung/"
       }
     ],
     "trending_movies": [
@@ -104,10 +97,10 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
-        "title": "Scary Movie",
-        "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
-        "source_link": "https://www.themoviedb.org/movie/1273221"
+        "image": "https://image.tmdb.org/t/p/w200/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
         "rank": 6,
@@ -118,17 +111,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
         "title": "The Mandalorian and Grogu",
         "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
         "source_link": "https://www.themoviedb.org/movie/1228710"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+        "title": "Scary Movie",
+        "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
+        "source_link": "https://www.themoviedb.org/movie/1273221"
       },
       {
         "rank": 9,
