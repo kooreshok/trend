@@ -1,76 +1,69 @@
 {
-  "last_updated": "July 24, 2026, 14:50 UTC",
+  "last_updated": "July 24, 2026, 16:33 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a62312814ba890ce035eac8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "The \u2018Halo: Campaign Evolved\u2019 Metacritic Review Score Is In - Forbes",
+        "description": "The Metacritic score for Halo: Campaign Evolved is in, with the most reviews coming in for the PS5 version of the game.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/07/23/the-halo-campaign-evolved-metacritic-review-score-is-in/"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.pushsquare.com/c3192ba4897cb/large.jpg",
+        "title": "PS5's War for Attention Finds a New Foe with Games on Amazon Prime - Push Square",
+        "description": "Here comes a new challenger",
+        "source_link": "https://www.pushsquare.com/news/2026/07/ps5s-war-for-attention-finds-a-new-foe-with-games-on-amazon-prime"
+      },
+      {
+        "rank": 3,
+        "image": "https://helios-i.mashable.com/imagery/articles/03aZMLSpgZZ8O9Dso3LDaXj/hero-image.fill.size_1200x675.v1784747969.jpg",
+        "title": "Apple prepares new MacBook Neo with more RAM and color options, report says - Mashable",
+        "description": "According to a new Bloomberg report, big MacBook refreshes are on the way.",
+        "source_link": "https://mashable.com/tech/apple-prepares-next-generation-mac-imac-macbook-pro-macbook-neo"
+      },
+      {
+        "rank": 4,
         "image": "https://i.pcmag.com/imagery/articles/06jHvnovuUDHzYOMYdR3CUI-2.fit_lim.size_1200x630.v1784726952.jpg",
         "title": "Everything Samsung Announced at Galaxy Unpacked: Z Fold 8, Flip 8, Watch 9, More - PCMag",
         "description": "Here's the latest on Samsung's newest foldables and wearables, along with details on how to buy them and how they compare to other flagship devices.",
         "source_link": "https://www.pcmag.com/news/samsung-galaxy-unpacked-july-2026-live-zfold8-zflip8-watch9-news"
       },
       {
-        "rank": 2,
+        "rank": 5,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-gentle-monster-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Samsung & Google's Android XR glasses privacy light works like Meta Ray-Bans, core features detailed [Gallery] - 9to5Google",
+        "description": "With more details now out, we've got a better idea of what to expect from the features and privacy light on Samsung's Android XR glasses.",
+        "source_link": "http://9to5google.com/2026/07/23/samsung-google-android-xr-glasses-features-privacy-light-details/"
+      },
+      {
+        "rank": 6,
         "image": "https://images.nintendolife.com/711e075533d13/large.jpg",
         "title": "Shigeru Miyamoto Defends Nintendo's Production Of Remakes - Nintendo Life",
         "description": "No worries, Shigsy",
         "source_link": "https://www.nintendolife.com/news/2026/07/shigeru-miyamoto-defends-nintendos-production-of-remakes"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google_selfie.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Google now lets you sign in to your account using a selfie video - The Verge",
         "description": "Capturing a short selfie video of your moving face is Google\u2019s latest approach to streamlining access to your account.",
         "source_link": "https://www.theverge.com/tech/969361/google-account-sign-in-selfie-video-security"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://helios-i.mashable.com/imagery/articles/00bmlFYXKkX5DOgEBjGTUKx/hero-image.fill.size_1200x675.v1784656829.jpg",
         "title": "Samsung announces Galaxy Watch 9 and Ultra 2, with new AI features - Mashable",
         "description": "Sorry, no Classic model this year.",
         "source_link": "https://mashable.com/life/samsung-galaxy-unpacked-watch-9-ultra-2-announced"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/07/link-holds-the-master-sword-with-hyrule-behind-him-from-the-legend-of-zelda-breath-of-the-wild.jpg?w=1600&h=900&fit=crop",
         "title": "The Legend of Zelda Officially Returns With New Release Spring 2027 - Comic Book Resources",
         "description": "Nintendo might be working hard on The Legend of Zelda: Ocarina of Time remake, but another new release has been announced for Spring 2027.",
         "source_link": "https://www.cbr.com/legend-of-zelda-official-return-new-release-spring-2027/"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/xbprototype-1079x648.webp",
-        "title": "Microsoft brings original Xbox backward compatibility to Windows PCs - Ars Technica",
-        "description": "First four compatible titles can be run with an 11-year-old graphics card.",
-        "source_link": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/pixel-11-pro-onl-9-copy.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Pixel 11 series leaks in more official-looking images with new angles [Gallery] - 9to5Google",
-        "description": "Google\u2019s Pixel 11 series has leaked pretty extensively at this point, but another new leak has just hit the web...",
-        "source_link": "http://9to5google.com/2026/07/22/google-pixel-11-series-leaked-images-angles/"
-      },
-      {
-        "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268442_Apple_MacBook_Neo_competition_Lenovo_Acer_Asus_ADiBenedetto_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Apple is reportedly testing a MacBook Neo with more RAM - The Verge",
-        "description": "The MacBook Neo may be getting an upgrade with a new processor, more memory, and new colors, but Apple will also likely raise the price.",
-        "source_link": "https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade"
-      },
-      {
-        "rank": 9,
-        "image": null,
-        "title": "Soulslike action RPG FOUNTAINS coming to PS5, Xbox Series, and Switch in 2026 alongside new DLC - Gematsu",
-        "description": null,
-        "source_link": "https://www.gematsu.com/2026/07/soulslike-action-rpg-fountains-coming-to-ps5-xbox-series-and-switch-in-2026-alongside-new-dlc"
-      },
-      {
-        "rank": 10,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPizznhX3fFw/v0/1200x800.jpg",
-        "title": "Samsung Says Smart Glasses Privacy Concerns Need Industrywide Fix - Bloomberg.com",
-        "description": "Samsung Electronics Co. showcased the smart glasses it developed in partnership with Alphabet Inc.\u2019s Google, Warby Parker and Gentle Monster, offering new details around battery life and durability ahead of a release this fall.",
-        "source_link": "https://www.bloomberg.com/news/articles/2026-07-22/samsung-says-smart-glasses-privacy-concerns-need-industrywide-fix"
       }
     ],
     "trending_movies": [
@@ -83,17 +76,17 @@
       },
       {
         "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+        "title": "The Dink",
+        "description": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthin...",
+        "source_link": "https://www.themoviedb.org/movie/1361774"
+      },
+      {
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/qADBUb5ybrkRVGZEFF8Z4RuOwys.jpg",
         "title": "The Debt Collector",
         "description": "Tormented by past mistakes and a terminal diagnosis, an ex-debt collector returns to the underworld to protect the victims of a violent organization....",
         "source_link": "https://www.themoviedb.org/movie/1630409"
-      },
-      {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/gDYS6MkQVBemZWuydYZ2BBTR3Ep.jpg",
-        "title": "The Dink",
-        "description": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthin...",
-        "source_link": "https://www.themoviedb.org/movie/1361774"
       },
       {
         "rank": 4,
@@ -125,24 +118,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
-        "title": "Scary Movie",
-        "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
-        "source_link": "https://www.themoviedb.org/movie/1273221"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
         "title": "The Mandalorian and Grogu",
         "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
         "source_link": "https://www.themoviedb.org/movie/1228710"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/j19wB0UM0ZQ1D3fmJTB4tC1wFOw.jpg",
-        "title": "Love in Slow Motion",
-        "description": "When Haya's best friend Jawad gets engaged, her chronically-single world unravels \u2014 because who knew true love could be hiding in the friend zone?...",
-        "source_link": "https://www.themoviedb.org/movie/1620682"
+        "image": "https://image.tmdb.org/t/p/w200/znHT8peERZRWG1ME3r0Db0EV8k8.jpg",
+        "title": "Scary Movie",
+        "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is s...",
+        "source_link": "https://www.themoviedb.org/movie/1273221"
       }
     ]
   }
