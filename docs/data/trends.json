@@ -1,76 +1,76 @@
 {
-  "last_updated": "July 25, 2026, 03:20 UTC",
+  "last_updated": "July 25, 2026, 06:12 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/07/Xenoblade-Chronicles-2-Switch-2_07-23-26.jpg",
+        "title": "Xenoblade Chronicles 2 \u2013 Nintendo Switch 2 Edition \u2018Overview\u2019 trailer - Gematsu",
+        "description": "Publisher Nintendo and developer Monolith Soft have released a two-minute overview trailer for Xenoblade Chronicles 2 \u2013 Nintendo Switch 2 Edition, which is due out digitally on July 30 and ph\u2026",
+        "source_link": "https://www.gematsu.com/2026/07/xenoblade-chronicles-2-nintendo-switch-2-edition-overview-trailer"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/21LP7BYkYtNcUVP0RAuTq2/d6a298425c240d52da4e211885164c27/Nuneybits_Vector_art_of_Microsoft_logo_rerouting_AI_traffic_fro_0889d4d3-b42c-4858-a9dc-f77546ce9c6c.webp?w=800&q=75",
+        "title": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI - VentureBeat",
+        "description": "Microsoft launched MAI-Image-2.5-Pro and MAI-Voice-2-Flash, new in-house AI models designed to cut GPU costs, power Bing, Excel, Copilot and Dynamics, and reduce reliance on OpenAI.",
+        "source_link": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.macrumors.com/t/Xtie1Trx_2uq8RQmD7eMLST6NXM=/1706x/article-new/2026/07/10-iOS-27-Performance-Improvements-Youll-Actually-Notice-Vertical.jpg",
+        "title": "10 iOS 27 Performance Improvements You'll Actually Notice - MacRumors",
+        "description": "With iOS 27, Apple focused on making improvements to iOS performance, optimizing everything from system animations to AirDrop transfer speeds. iPhone...",
+        "source_link": "https://www.macrumors.com/guide/ios-27-performance-improvements/"
+      },
+      {
+        "rank": 4,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/lg-UltraGear-27GR95QE-B-1152x648.jpg",
         "title": "Microsoft responds to LG monitors installing McAfee ads on Windows - Ars Technica",
         "description": "App is installed through Windows Update when certain LG monitors connect to a PC.",
         "source_link": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/"
       },
       {
-        "rank": 2,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwmUxOue88mg/v0/1200x800.jpg",
-        "title": "Microsoft is replacing OpenAI image models in PowerPoint, Bing - The Seattle Times",
-        "description": "Microsoft Corp. is replacing OpenAI\u2019s image-generating models with its own technology in popular products like PowerPoint and Bing.",
-        "source_link": "https://www.bloomberg.com/news/articles/2026-07-23/microsoft-replacing-openai-image-ai-models-in-powerpoint-bing"
-      },
-      {
-        "rank": 3,
+        "rank": 5,
         "image": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-galaxy-z-fold-8-unpacked-cnet-lanxon-16.jpg",
         "title": "My Galaxy Z Fold 8 Ongoing Review Living With Samsung\u2019s Passport Foldable - CNET",
         "description": "Samsung's new book-style foldable phone is making a strong first impression, but I'm still testing how it holds up in everyday use.",
         "source_link": "https://www.cnet.com/news-live/my-galaxy-z-fold-8-ongoing-review-as-i-live-with-the-samsungs-passport-foldable/"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
         "title": "OpenAI makes ChatGPT Health available to all US users - TechCrunch",
         "description": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
         "source_link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://images.macrumors.com/t/G-GXCYX2TnB74aUY3f1w4k8ejcs=/1776x/article-new/2026/07/geekbench-7.jpg",
+        "title": "Geekbench 7 Launches With Redesigned Multi-Core and GPU Benchmarks - MacRumors",
+        "description": "Primate Labs today announced the launch of Geekbench 7, the newest version of the popular benchmarking suite for CPU and GPU performance.  ...",
+        "source_link": "https://www.macrumors.com/2026/07/23/geekbench-7-launch/"
+      },
+      {
+        "rank": 8,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/psdisc-1024x648.jpg",
         "title": "The PlayStation game disc was dying long before Sony pulled the plug - Ars Technica",
         "description": "Circana numbers show US gamers overwhelmingly voting with their wallets.",
         "source_link": "https://arstechnica.com/gaming/2026/07/the-playstation-game-disc-was-dying-long-before-sony-pulled-the-plug/"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://images.purexbox.com/1e68e40c5cb8d/large.jpg",
         "title": "Halo Support 'Investigating' Issues With Premium Upgrade For Campaign Evolved - Pure Xbox",
         "description": "It launched with problems across Xbox and PC",
         "source_link": "https://www.purexbox.com/news/2026/07/this-issue-should-be-resolved-halo-premium-upgrade-seemingly-fixed-for-campaign-evolved"
       },
       {
-        "rank": 7,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
-        "title": "Google will now let you sign in to your account with a selfie video - TechCrunch",
-        "description": "The tech giant says selfie videos give users more options to sign in if they're ever locked out or don't have access to their usual phone or computer.",
-        "source_link": "https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/"
-      },
-      {
-        "rank": 8,
+        "rank": 10,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832866/STK048_XBOX_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders - The Verge",
         "description": "Xbox Insiders can stream certain games from their libraries for free with an ad-supported cloud gaming option Microsoft is testing.",
         "source_link": "https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming"
-      },
-      {
-        "rank": 9,
-        "image": "https://assets-prd.ignimgs.com/2026/07/20/mixcollage-20-jul-2026-02-41-pm-3462-1784572914339.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Hasbro's The Legend of Zelda Figures Have Been Revealed, and They Look Amazing | Comic Con 2026 - IGN",
-        "description": "Hasbro is revealing its first wave of The Legend of Zelda: Heroes of Hyrule figures at Comic-Con, and we've got an exclusive first look at all three.",
-        "source_link": "https://www.ign.com/articles/hasbros-the-legend-of-zelda-figures-have-been-revealed-and-they-look-amazing-comic-con-2026"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2024/04/1200/630/GettyImages-2079450724-1.jpg?ve=1&tl=1",
-        "title": "Can't log in? Microsoft outage hits Teams, Outlook and more - FOX 13 Seattle",
-        "description": "A widespread Microsoft outage is disrupting access to several websites and applications on Thursday morning.",
-        "source_link": "https://www.fox13seattle.com/news/microsoft-outage-hits-teams-outlook"
       }
     ],
     "trending_movies": [
