@@ -1,76 +1,76 @@
 {
-  "last_updated": "July 25, 2026, 20:43 UTC",
+  "last_updated": "July 25, 2026, 21:50 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/RSS4K-PDP-feature_lifestyle-4.jpg",
+        "title": "Roku raises streaming stick prices by up to 60 percent - Ars Technica",
+        "description": "Roku blames RAM shortage after CEO called it \"great\" for business in May.",
+        "source_link": "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.pushsquare.com/aa8614350d2ac/large.jpg",
+        "title": "'See You in the Sequel': Halo 2 Remake All But Confirmed - Push Square",
+        "description": "Bonus cutscene in Legendary ending",
+        "source_link": "https://www.pushsquare.com/news/2026/07/see-you-in-the-sequel-halo-2-remake-all-but-confirmed"
+      },
+      {
+        "rank": 3,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-10-family-top-down-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google confirms Pixel 11 price increase, reveals \u2018dedicated\u2019 effort to make Android more RAM-efficient - 9to5Google",
         "description": "Ahead of the Pixel 11 launch, the Google hardware division detailed how it's impacted by the \u201csevere, supplier-driven RAM memory crisis.\u201d",
         "source_link": "http://9to5google.com/2026/07/24/google-pixel-11-price-increase/"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/nothing-phone-4b-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Nothing calls \u2018fake news\u2019 on shutdown report while confirming key changes - 9to5Google",
+        "description": "Following a report earlier today, Nothing says that it is not exiting markets, but it is making some key changes...",
+        "source_link": "http://9to5google.com/2026/07/24/nothing-shutdown-report-denial/"
+      },
+      {
+        "rank": 5,
+        "image": "https://assetsio.gnwcdn.com/tomb-raider-catalyst-trailer-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Lara Croft can't catch a break: after delaying one Tomb Raider game, Amazon is delaying another and this one won't show up until 2028 - Eurogamer.net",
+        "description": "Amazon head of gaming Jeffrey Gattis broke the news following the company's decision to delay its Tomb Raider 1 \"reimagining\" into next year.",
+        "source_link": "https://www.eurogamer.net/tomb-raider-catalyst-delay-2028"
+      },
+      {
+        "rank": 6,
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e7bf/live/312e9270-8782-11f1-9428-e17279226993.jpg",
         "title": "PlayStation Network down, leaving thousands of gamers unable to play - BBC",
         "description": "Sony's status page read that it was \"working to resolve the issue as soon as possible\".",
         "source_link": "https://www.bbc.com/news/articles/cx2j0wy1gl5o"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://www.videogameschronicle.com/files/2026/06/image001.jpg",
         "title": "GTA 6 download codes expire only 170 days after launch in Japan - Video Games Chronicle",
         "description": "Japanese digital download codes for GTA 6 expire less than six months after launch",
         "source_link": "https://www.videogameschronicle.com/news/gta-6-download-codes-expire-only-170-days-after-launch-in-japan/"
       },
       {
-        "rank": 4,
-        "image": "https://images.pushsquare.com/ce0bf0052d232/large.jpg",
-        "title": "Lara Croft's Newest PS5 Game Tomb Raider Catalyst Delayed to 2028 - Push Square",
-        "description": "Made to wait for Croft's next adventure",
-        "source_link": "https://www.pushsquare.com/news/2026/07/lara-crofts-newest-ps5-game-tomb-raider-catalyst-delayed-to-2028"
+        "rank": 8,
+        "image": "https://www.bleepstatic.com/content/hl-images/2024/01/26/microsoft-red-header.jpg",
+        "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug - BleepingComputer",
+        "description": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services.",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-champions/strategy/2026/regulation-m-b/pokemon-champions-169.png",
         "title": "Pok\u00e9mon Champions Regulation M-B Double Battles Overview - Pokemon.com",
         "description": "Mega-Evolved Pok\u00e9mon dominate the landscape. Which will rise to the top at upcoming competitions?",
         "source_link": "https://www.pokemon.com/us/features/pokemon-champions-regulation-m-b-double-battles-overview"
       },
       {
-        "rank": 6,
-        "image": "https://images.macrumors.com/t/3zzm7VcAA2sRjc5kWZgZmdLwbEI=/2000x/article-new/2024/09/iphone-16-teal.jpg",
-        "title": "Siri Settlement Approved: Apple to Pay Owners of Some iPhone Models - MacRumors",
-        "description": "In May, Apple agreed to pay $250 million to settle a U.S. class action lawsuit over Siri AI's delayed launch, and eligible iPhone users could...",
-        "source_link": "https://www.macrumors.com/2026/07/24/apple-to-pay-owners-of-these-iphone-models/"
-      },
-      {
-        "rank": 7,
-        "image": "https://gizmodo.com/app/uploads/2026/07/picco-1200x675.jpg",
-        "title": "Boox\u2019s New Tiny E-Reader Could Shake Up the Market - Gizmodo",
-        "description": "The Boox Picco will be the company's smallest e-reader yet.",
-        "source_link": "https://gizmodo.com/booxs-new-tiny-e-reader-could-shake-up-the-market-2000790361"
-      },
-      {
-        "rank": 8,
-        "image": "https://helios-i.mashable.com/imagery/articles/06VheAwzJHKLMXg6qCqXWkb/hero-image.fill.size_1200x675.v1784845585.jpg",
-        "title": "5 Galaxy Z Fold 8 features the iPhone Ultra Fold will struggle to top - Mashable",
-        "description": "Apple's rumored foldable may have a steep hill to climb.",
-        "source_link": "https://mashable.com/tech/samsung-galaxy-z-fold-8-features-iphone-fold-cant-top"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/nothing-phone-4b-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Nothing will reportedly stop selling in many global markets as latest phones struggle [U] - 9to5Google",
-        "description": "According to a new report, Nothing will exit many global markets as its latest phone releases struggle amid the impacts of rising costs.",
-        "source_link": "http://9to5google.com/2026/07/24/nothing-exiting-global-markets-report/"
-      },
-      {
         "rank": 10,
-        "image": "https://images.rpgsite.net/articles/thumbnail/da49c9a1/20969/original/xenoblade-definitive-switch-2-developer-logical-beat-thumb.png",
-        "title": "Baten Kaitos remaster developer Logicalbeat worked on the 4K 60fps support in Xenoblade Chronicles: Definitive Edition Switch 2 Edition - RPG Site",
-        "description": "The Baten Kaitos remaster developers worked on Xenoblade Chronicles: Definitive Edition - Nintendo Switch 2 Edition to handle the 4K 60fps support.",
-        "source_link": "https://www.rpgsite.net/news/20969-xenoblade-chronicles-definitive-edition-switch-2-edition-4k-60-fps-support-worked-on-by-logical-beat-baten-kaitos-remaster-developer"
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-149418827.jpg?resize=1200,837",
+        "title": "Midjourney acquired the astrology app Co-Star - TechCrunch",
+        "description": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+        "source_link": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/"
       }
     ],
     "trending_movies": [
