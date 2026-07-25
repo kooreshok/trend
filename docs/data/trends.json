@@ -1,92 +1,85 @@
 {
-  "last_updated": "July 25, 2026, 11:59 UTC",
+  "last_updated": "July 25, 2026, 13:50 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK040_VRG_Illo_N_Barclay_6_facebook.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Facebook considers giving up and becoming TikTok - The Verge",
+        "description": "Facebook will begin testing a \u201creimagined experience\u201d later this year that will put a subset of users into a \u201cfull-screen video the moment they open the app.\u201d",
+        "source_link": "https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates"
+      },
+      {
+        "rank": 2,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK109_microsoft.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Microsoft pressures LG into killing unwanted McAfee ads - The Verge",
         "description": "Microsoft has intervened to stop Windows 11 users with LG monitors from being bombarded with annoying McAfee trial pop-ups.",
         "source_link": "https://www.theverge.com/tech/970489/lg-mcafee-ads-windows-microsoft-crackdown"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://assetsio.gnwcdn.com/Niikawa-discs.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "If PlayStation kills physical media, it should \"get rid of the hardware\" too, says the creator of popular RPG series Disgaea - Eurogamer.net",
         "description": "Disgaea creator Sohei Niikawa has strong thoughts on Sony's planned move away from physical media.",
         "source_link": "https://www.eurogamer.net/playstation-physical-media-hardware-disgaea-creator"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://www.pokebeach.com/news/2026/07/050396_P_MREKKUUZAIEKKUSU_Pgay.jpg",
         "title": "\"Storm Emeralda\" All 76 Main Set Cards Revealed! - PokeBeach",
         "description": "All 76 cards from\u00a0Storm Emeralda have been officially revealed! The set stars Mega Rayquaza ex and will release in Japan on July 31st as their sixth",
         "source_link": "https://www.pokebeach.com/2026/07/storm-emeralda-all-76-main-set-cards-revealed"
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "image": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-galaxy-z-fold-8-unpacked-cnet-lanxon-16.jpg",
+        "title": "My Galaxy Z Fold 8 Ongoing Review Living With Samsung\u2019s Passport Foldable - CNET",
+        "description": "Samsung's new book-style foldable phone is making a strong first impression, but I'm still testing how it holds up in everyday use.",
+        "source_link": "https://www.cnet.com/news-live/my-galaxy-z-fold-8-ongoing-review-as-i-live-with-the-samsungs-passport-foldable/"
+      },
+      {
+        "rank": 6,
         "image": "https://images.nintendolife.com/6424c83b51456/large.jpg",
         "title": "Xenoblade Chronicles 2 - Switch 2 Edition Overview Reveals New Pyra & Mythra Outfits, Merc Assault And Momo - Nintendo Life",
         "description": "Rex and Pyra return next week",
         "source_link": "https://www.nintendolife.com/news/2026/07/xenoblade-chronicles-2-switch-2-edition-overview-reveals-new-pyra-and-mythra-outfits-merc-assault-and-momo"
       },
       {
-        "rank": 5,
-        "image": "https://www.cnet.com/wp-content/uploads/sites/2/Galaxy-Z-Fold-8-Ultra-vs-Galaxy-Z-Fold-7.png",
-        "title": "Samsung Galaxy Z Fold 8 Ultra vs. Z Fold 7: Improved Battery, Screen and a Higher Price - CNET",
-        "description": "The Galaxy Z Fold 8 Ultra improves where it matters, but the new price might sting.",
-        "source_link": "https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-8-ultra-vs-z-fold-7-improved-battery-screen-and-a-higher-price/"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.macrumors.com/t/Xtie1Trx_2uq8RQmD7eMLST6NXM=/1706x/article-new/2026/07/10-iOS-27-Performance-Improvements-Youll-Actually-Notice-Vertical.jpg",
-        "title": "10 iOS 27 Performance Improvements You'll Actually Notice - MacRumors",
-        "description": "With iOS 27, Apple focused on making improvements to iOS performance, optimizing everything from system animations to AirDrop transfer speeds. iPhone...",
-        "source_link": "https://www.macrumors.com/guide/ios-27-performance-improvements/"
-      },
-      {
         "rank": 7,
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-9bd6fk8x3-1784848656407.jpg?quality=75&strip=all&1784834461&w=1200",
+        "title": "Batman\u2019s Wayne Manor hits market for $32 million \u2014 but Hollywood history comes with hidden costs - New York Post",
+        "description": "Caped Crusader fans can own the famed Batman\u2019s Wayne Manor for $32 million, but the listing price is only the beginning of what it will cost buyers to own a piece of Hollywood history.",
+        "source_link": "https://nypost.com/2026/07/23/real-estate/pasadena-mansion-of-batman-fame-hits-market-for-32m/"
+      },
+      {
+        "rank": 8,
         "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/07/2027-Aston-Martin-Vanquish-25th-Anniversary-LEAD-1.webp",
         "title": "Aston Martin\u2019s New Stunning GT Will Even Make 007 Come out of Hibernation - Gear Patrol",
         "description": "Aston Martin reveals its new exclusive set of limited-production Vanquish models, all to commemorate the model's 25th anniversary.",
         "source_link": "https://www.gearpatrol.com/cars/aston-martin-reveals-celebratory-vanquish-v12-coupe-volante/"
       },
       {
-        "rank": 8,
-        "image": "https://assets-prd.ignimgs.com/2026/07/20/nintendoswitch2mariokart-1784573609094.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "The Grade A Refurb Nintendo Switch 2 Mario Kart World Console Bundle Just Dropped to $419 at Woot - IGN",
-        "description": "New $20 price drop on top of last week's already excellent deal.",
-        "source_link": "https://www.ign.com/articles/nintendo-switch-2-mario-kart-world-gaming-console-deal-july-2026"
-      },
-      {
         "rank": 9,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwmUxOue88mg/v0/1200x800.jpg",
-        "title": "Microsoft is replacing OpenAI image models in PowerPoint, Bing - The Seattle Times",
-        "description": "Microsoft Corp. is replacing OpenAI\u2019s image-generating models with its own technology in popular products like PowerPoint and Bing.",
-        "source_link": "https://www.bloomberg.com/news/articles/2026-07-23/microsoft-replacing-openai-image-ai-models-in-powerpoint-bing"
-      },
-      {
-        "rank": 10,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-orange.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Report: iPhone Ultra set to account for 25% of foldable smartphone shipments in 2026 - 9to5Mac",
-        "description": "Counterpoint Research is out with a new report saying Apple expected to capture a 25% share following its entry into the foldable smartphone market.",
-        "source_link": "https://9to5mac.com/2026/07/23/report-iphone-ultra-set-to-account-for-25-of-foldable-smartphone-shipments-in-2026/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Alexa Plus is getting an AI update to handle more complicated instructions - The Verge",
+        "description": "Amazon is launching an update to Alexa Plus that will allow it to connect to a wider range of smart home devices and services.",
+        "source_link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
-        "title": "The Dink",
-        "description": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthin...",
-        "source_link": "https://www.themoviedb.org/movie/1361774"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+        "title": "Disclosure Day",
+        "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorol...",
+        "source_link": "https://www.themoviedb.org/movie/1275779"
       },
       {
         "rank": 3,
@@ -97,31 +90,31 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-        "title": "Disclosure Day",
-        "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorol...",
-        "source_link": "https://www.themoviedb.org/movie/1275779"
+        "image": "https://image.tmdb.org/t/p/w200/8dq7vaUkXPqwqKxBFW4qJNBWeop.jpg",
+        "title": "The Dink",
+        "description": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthin...",
+        "source_link": "https://www.themoviedb.org/movie/1361774"
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
         "title": "72 HOURS",
         "description": "To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group ch...",
         "source_link": "https://www.themoviedb.org/movie/949838"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
         "title": "Masters of the Universe",
         "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
         "source_link": "https://www.themoviedb.org/movie/454639"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
         "rank": 8,
@@ -132,17 +125,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
         "title": "The Mandalorian and Grogu",
         "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
         "source_link": "https://www.themoviedb.org/movie/1228710"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/7HEMg4ZonD0YIcztf1Sp199cBb9.jpg",
-        "title": "The Debt Collector",
-        "description": "Tormented by past mistakes and a terminal diagnosis, an ex-debt collector returns to the underworld to protect the victims of a violent organization....",
-        "source_link": "https://www.themoviedb.org/movie/1630409"
       }
     ]
   }
