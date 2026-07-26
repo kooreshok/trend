@@ -1,69 +1,69 @@
 {
-  "last_updated": "July 26, 2026, 02:32 UTC",
+  "last_updated": "July 26, 2026, 05:56 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": null,
+        "title": "God of War Laufey launches February 16, 2027 - Gematsu",
+        "description": null,
+        "source_link": "https://www.gematsu.com/2026/07/god-of-war-laufey-launches-february-16-2027"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.macrumors.com/t/qHnR_OCMn27N8NId-_x0Q08pxIU=/1644x/article-new/2026/07/macbook-ultra.jpg",
+        "title": "'MacBook Ultra' Coming Soon With These 12 New Features - MacRumors",
+        "description": "Apple's first high-end MacBook redesign in five years is expected to arrive in the near future, bringing a run of firsts to the Mac.  ...",
+        "source_link": "https://www.macrumors.com/2026/07/24/macbook-ultra-12-new-features/"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.macrumors.com/t/Oj2-MOVN-HKD5LYKies25pQb53E=/2500x/article-new/2026/07/iOS-27-All-the-New-iCloud-Features.jpg",
+        "title": "iOS 27: All the New iCloud Features - MacRumors",
+        "description": "iOS 27 includes new iCloud capabilities across several apps like Apple Home, Siri, Photos, and more. There are some direct iCloud improvements like...",
+        "source_link": "https://www.macrumors.com/guide/ios-27-icloud/"
+      },
+      {
+        "rank": 4,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0075.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "After backlash, Meta pauses plan to \u2018rate limit\u2019 its smart glasses - The Verge",
         "description": "Meta\u2019s Conversation Focus feature for its smart glasses will stay free, for now, after a backlash against a $20 a month subscription and implausible \u201crate limits.\u201d",
         "source_link": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://images.pushsquare.com/aa8614350d2ac/large.jpg",
         "title": "'See You in the Sequel': Halo 2 Remake All But Confirmed - Push Square",
         "description": "Bonus cutscene in Legendary ending",
         "source_link": "https://www.pushsquare.com/news/2026/07/see-you-in-the-sequel-halo-2-remake-all-but-confirmed"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/08/Pixel-10-family-top-down-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google confirms Pixel 11 price increase, reveals \u2018dedicated\u2019 effort to make Android more RAM-efficient - 9to5Google",
         "description": "Ahead of the Pixel 11 launch, the Google hardware division detailed how it's impacted by the \u201csevere, supplier-driven RAM memory crisis.\u201d",
         "source_link": "http://9to5google.com/2026/07/24/google-pixel-11-price-increase/"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://assetsio.gnwcdn.com/tomb-raider-catalyst-trailer-crop.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Lara Croft can't catch a break: after delaying one Tomb Raider game, Amazon is delaying another and this one won't show up until 2028 - Eurogamer.net",
         "description": "Amazon head of gaming Jeffrey Gattis broke the news following the company's decision to delay its Tomb Raider 1 \"reimagining\" into next year.",
         "source_link": "https://www.eurogamer.net/tomb-raider-catalyst-delay-2028"
       },
       {
-        "rank": 5,
+        "rank": 8,
         "image": "https://ichef.bbci.co.uk/news/1024/branded_news/e7bf/live/312e9270-8782-11f1-9428-e17279226993.jpg",
         "title": "PlayStation Network down, leaving thousands of gamers unable to play - BBC",
         "description": "Sony's status page read that it was \"working to resolve the issue as soon as possible\".",
         "source_link": "https://www.bbc.com/news/articles/cx2j0wy1gl5o"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://assetsio.gnwcdn.com/world-of-warcraft-dev-fired-boss-instakills-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Blizzard fire World Of Warcraft developer over use of forbidden magicks to insta-kill bosses for regular players during dungeon run - Rock Paper Shotgun",
         "description": "Blizzard have fired a World Of Warcraft developer after dev-only insta-kill spells were used to take out bosses for regular players during a dungeon run.",
         "source_link": "https://www.rockpapershotgun.com/blizzard-fire-world-of-warcraft-developer-over-use-of-forbidden-magicks-to-insta-kill-bosses-for-regular-players-during-dungeon-run"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.bleepstatic.com/content/hl-images/2024/01/26/microsoft-red-header.jpg",
-        "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug - BleepingComputer",
-        "description": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services.",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/"
-      },
-      {
-        "rank": 8,
-        "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-champions/strategy/2026/regulation-m-b/pokemon-champions-169.png",
-        "title": "Pok\u00e9mon Champions Regulation M-B Double Battles Overview - Pokemon.com",
-        "description": "Mega-Evolved Pok\u00e9mon dominate the landscape. Which will rise to the top at upcoming competitions?",
-        "source_link": "https://www.pokemon.com/us/features/pokemon-champions-regulation-m-b-double-battles-overview"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26-6-lg-iphone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iOS 26.6 is coming next week for iPhone, here\u2019s what\u2019s new - 9to5Mac",
-        "description": "iOS 26.6 is coming next week for iPhone users, and Apple\u2019s release notes tell us exactly what to expect from the new software update.",
-        "source_link": "https://9to5mac.com/2026/07/24/ios-26-6-is-coming-next-week-for-iphone-heres-whats-new/"
       }
     ],
     "trending_movies": [
@@ -78,7 +78,7 @@
         "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
         "title": "Avatar Aang: The Last Airbender",
-        "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
+        "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture....",
         "source_link": "https://www.themoviedb.org/movie/980431"
       },
       {
@@ -90,45 +90,45 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
-        "title": "72 HOURS",
-        "description": "To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group ch...",
-        "source_link": "https://www.themoviedb.org/movie/949838"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-        "title": "Masters of the Universe",
-        "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
-        "source_link": "https://www.themoviedb.org/movie/454639"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+        "title": "72 HOURS",
+        "description": "To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group ch...",
+        "source_link": "https://www.themoviedb.org/movie/949838"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+        "title": "Masters of the Universe",
+        "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
+        "source_link": "https://www.themoviedb.org/movie/454639"
+      },
+      {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
-        "title": "The Mandalorian and Grogu",
-        "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything th...",
-        "source_link": "https://www.themoviedb.org/movie/1228710"
-      },
-      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
+        "image": "https://image.tmdb.org/t/p/w200/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+        "title": "Avengers: Doomsday",
+        "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
+        "source_link": "https://www.themoviedb.org/movie/1003596"
       },
       {
         "rank": 10,
