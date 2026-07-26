@@ -1,5 +1,5 @@
 {
-  "last_updated": "July 26, 2026, 19:16 UTC",
+  "last_updated": "July 26, 2026, 20:52 UTC",
   "categories": {
     "tech_news": [
       {
@@ -97,24 +97,24 @@
       },
       {
         "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
+        "title": "72 HOURS",
+        "description": "To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group ch...",
+        "source_link": "https://www.themoviedb.org/movie/949838"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
         "title": "Masters of the Universe",
         "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
         "source_link": "https://www.themoviedb.org/movie/454639"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
-        "title": "72 HOURS",
-        "description": "To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group ch...",
-        "source_link": "https://www.themoviedb.org/movie/949838"
       },
       {
         "rank": 8,
@@ -125,17 +125,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
-        "title": "Avengers: Doomsday",
-        "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
-        "source_link": "https://www.themoviedb.org/movie/1003596"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+        "title": "Avengers: Doomsday",
+        "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
+        "source_link": "https://www.themoviedb.org/movie/1003596"
       }
     ]
   }
