@@ -1,69 +1,76 @@
 {
-  "last_updated": "July 27, 2026, 22:01 UTC",
+  "last_updated": "July 27, 2026, 23:58 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://kotaku.com/app/uploads/2026/07/nintendocdi-1088x675.jpg",
+        "title": "Miyamoto Says Players No Longer Care About Hardware Specs - Kotaku",
+        "description": "Gaming trends have the Mario creator feeling that cutting edge graphics and performance are no longer the priority for customers, and the evidence seems to be on his side",
+        "source_link": "https://kotaku.com/shigeru-miyamoto-believes-gamers-have-grown-disinterested-in-hardware-specs-as-if-they-had-a-choice-2000719415"
+      },
+      {
+        "rank": 2,
         "image": "https://helios-i.mashable.com/imagery/articles/01oepACVAMrzVN6WEoNO7g7/hero-image.fill.size_1200x675.v1784839974.jpg",
         "title": "Jackery FridgeGuard review: Keep your refrigerator cooling during an outage - Mashable",
         "description": "Rest easy the fridge will keep cooling during the next power outage with zero effort on your part.",
         "source_link": "https://mashable.com/tech/jackery-fridgeguard-review"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0011.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Apple is banking on privacy to set its smart glasses apart - The Verge",
         "description": "They\u2019re expected be revealed next June at WWDC.",
         "source_link": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://images.pushsquare.com/349e407a72d16/large.jpg",
         "title": "Angry PlayStation Fans Propose PS5 Blackout in Protest of Sony's Disc Decision - Push Square",
         "description": "Unplug your consoles for a week in August",
         "source_link": "https://www.pushsquare.com/news/2026/07/angry-playstation-fans-propose-ps5-blackout-in-protest-of-sonys-disc-decision"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://www.bgr.com/img/gallery/6-cool-new-gadgets-for-cleaning-your-car/l-intro-1784814755.jpg",
         "title": "6 Cool New Gadgets For Cleaning Your Car - bgr.com",
         "description": "These gadgets are great for cleaning your car, from powerful vacuums and detailing tools to clever accessories that makes every clean easier.",
         "source_link": "https://www.bgr.com/2221979/cool-new-gadgets-cleaning-your-car/"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://assetsio.gnwcdn.com/god-of-war-laufey-classic-cover-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "The next Kratos God of War game will follow and connect to Laufey, says Cory Barlog - Eurogamer.net",
         "description": "Talking at a panel at San Diego Comic-Con, Barlog revealed that \"everything\" the team at Santa Monica was doing in the Faye game will \"set up what comes next\".",
         "source_link": "https://www.eurogamer.net/kratos-god-of-war-links-directly-to-laufey"
       },
       {
-        "rank": 6,
+        "rank": 7,
+        "image": "https://kotaku.com/app/uploads/2023/05/d66a92b5f066dee597aeac4507d061de-1200x675.jpg",
+        "title": "Big PlayStation Game Sale Is A Perfect Chance To Build Up Your Physical Collection Before Sony Kills Discs - Kotaku",
+        "description": "Critically-acclaimed exclusives are super discounted right now",
+        "source_link": "https://kotaku.com/big-playstation-game-sale-is-a-perfect-chance-to-build-up-your-physical-collection-before-sony-kills-discs-2000719394"
+      },
+      {
+        "rank": 8,
+        "image": "https://helios-i.mashable.com/imagery/articles/02IsFTiLbrHEdz4CNnD8IQ0/hero-image.fill.size_1200x675.v1785083415.jpg",
+        "title": "Xtra suddenly cancels preorders for its clone of banned DJI Osmo Pocket 4 Pro camera - Mashable",
+        "description": "The company behind the Xtra Muse 2 Pro has cancelled preorders for the camera. Is an FCC investigation the reason why?",
+        "source_link": "https://mashable.com/tech/xtra-cancels-xtra-muse-2-pro-camera-preorders-dji-ban"
+      },
+      {
+        "rank": 9,
         "image": "https://www.jalopnik.com/img/gallery/5-british-car-brands-youve-probably-never-seen-on-american-highways/l-intro-1784725853.jpg",
         "title": "5 British Car Brands You've Probably Never Seen On American Highways - Jalopnik",
         "description": "Ever seen a wooden chassis? Here are the most fascinating and obscure British car brands you won't see every day on U.S. highways.",
         "source_link": "https://www.jalopnik.com/2220615/british-car-brands-never-seen-on-american-highways/"
       },
       {
-        "rank": 7,
+        "rank": 10,
         "image": "https://media.cnn.com/api/v1/images/stellar/prod/ai-gadgets-illustration-main.jpg?c=16x9&q=w_800,c_fill",
         "title": "AI devices that see, listen and record: Are we ready for the post-smartphone world? - CNN",
         "description": "Picture this: On a normal workday, you and your coworkers walk around the office with tiny recorders clipped to your clothes. The glasses on your face instantly identify what you see. Your bracelet records and analyzes all your conversations.",
         "source_link": "https://www.cnn.com/2026/07/26/tech/ai-devices-see-listen-record-meta-amazon-plaud"
-      },
-      {
-        "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/James-Bond-looks-sad-in-007-First-Light.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "007 First Light's first major patch is here \u2013 and it's a doozy if you're playing on PS5 - Eurogamer.net",
-        "description": "007 First Light's first major post-launch update, Patch 1.1.0, is here, introducing \"fixes and improvements for over 200 issues reported by the community and ou",
-        "source_link": "https://www.eurogamer.net/007-first-light-first-major-patch-details"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.phoronix.net/image.php?id=2026&image=kvm_chainsaw",
-        "title": "\"KVM Chainsaw\" Expected To Hit Linux 7.3 For Dealing With God Data Structure - Phoronix",
-        "description": "A patch series that appears destined for the upcoming Linux 7.3 merge window is what's dubbed the 'KVM Chainsaw' as a major code clean-up in dealing with the kvm_mmu 'god data structure'.",
-        "source_link": "https://www.phoronix.com/news/KVM-Chainsaw-Linux-7.3"
       }
     ],
     "trending_movies": [
