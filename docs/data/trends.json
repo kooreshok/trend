@@ -1,62 +1,62 @@
 {
-  "last_updated": "July 27, 2026, 23:58 UTC",
+  "last_updated": "July 28, 2026, 02:50 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-watch-ultra-3-4-mountain.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple Watch Series 12 and Ultra 4: What to expect - 9to5Mac",
+        "description": "The Apple Watch Series 12 and Ultra 4 are reportedly in late-stage testing. Here's what to expect, including a long-awaited chip upgrade.",
+        "source_link": "https://9to5mac.com/2026/07/26/apple-watch-series-12-and-ultra-4-what-to-expect/"
+      },
+      {
+        "rank": 2,
         "image": "https://kotaku.com/app/uploads/2026/07/nintendocdi-1088x675.jpg",
         "title": "Miyamoto Says Players No Longer Care About Hardware Specs - Kotaku",
         "description": "Gaming trends have the Mario creator feeling that cutting edge graphics and performance are no longer the priority for customers, and the evidence seems to be on his side",
         "source_link": "https://kotaku.com/shigeru-miyamoto-believes-gamers-have-grown-disinterested-in-hardware-specs-as-if-they-had-a-choice-2000719415"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://helios-i.mashable.com/imagery/articles/01oepACVAMrzVN6WEoNO7g7/hero-image.fill.size_1200x675.v1784839974.jpg",
         "title": "Jackery FridgeGuard review: Keep your refrigerator cooling during an outage - Mashable",
         "description": "Rest easy the fridge will keep cooling during the next power outage with zero effort on your part.",
         "source_link": "https://mashable.com/tech/jackery-fridgeguard-review"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268640_RayBan_Meta_Gen2_AKrales_0011.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Apple is banking on privacy to set its smart glasses apart - The Verge",
         "description": "They\u2019re expected be revealed next June at WWDC.",
         "source_link": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://images.pushsquare.com/349e407a72d16/large.jpg",
         "title": "Angry PlayStation Fans Propose PS5 Blackout in Protest of Sony's Disc Decision - Push Square",
         "description": "Unplug your consoles for a week in August",
         "source_link": "https://www.pushsquare.com/news/2026/07/angry-playstation-fans-propose-ps5-blackout-in-protest-of-sonys-disc-decision"
       },
       {
-        "rank": 5,
-        "image": "https://www.bgr.com/img/gallery/6-cool-new-gadgets-for-cleaning-your-car/l-intro-1784814755.jpg",
-        "title": "6 Cool New Gadgets For Cleaning Your Car - bgr.com",
-        "description": "These gadgets are great for cleaning your car, from powerful vacuums and detailing tools to clever accessories that makes every clean easier.",
-        "source_link": "https://www.bgr.com/2221979/cool-new-gadgets-cleaning-your-car/"
+        "rank": 6,
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2017/memory.jpg",
+        "title": "Working memory rapidly updates its priorities after distractions, study finds - Medical Xpress",
+        "description": "When humans tackle many everyday tasks, ranging from driving to completing household chores and work assignments, they rely heavily on working memory. This is the brain's ability to temporarily store and manipulate important information that can help complete\u2026",
+        "source_link": "https://medicalxpress.com/news/2026-07-memory-rapidly-priorities-distractions.html"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://assetsio.gnwcdn.com/god-of-war-laufey-classic-cover-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "The next Kratos God of War game will follow and connect to Laufey, says Cory Barlog - Eurogamer.net",
         "description": "Talking at a panel at San Diego Comic-Con, Barlog revealed that \"everything\" the team at Santa Monica was doing in the Faye game will \"set up what comes next\".",
         "source_link": "https://www.eurogamer.net/kratos-god-of-war-links-directly-to-laufey"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://kotaku.com/app/uploads/2023/05/d66a92b5f066dee597aeac4507d061de-1200x675.jpg",
         "title": "Big PlayStation Game Sale Is A Perfect Chance To Build Up Your Physical Collection Before Sony Kills Discs - Kotaku",
         "description": "Critically-acclaimed exclusives are super discounted right now",
         "source_link": "https://kotaku.com/big-playstation-game-sale-is-a-perfect-chance-to-build-up-your-physical-collection-before-sony-kills-discs-2000719394"
-      },
-      {
-        "rank": 8,
-        "image": "https://helios-i.mashable.com/imagery/articles/02IsFTiLbrHEdz4CNnD8IQ0/hero-image.fill.size_1200x675.v1785083415.jpg",
-        "title": "Xtra suddenly cancels preorders for its clone of banned DJI Osmo Pocket 4 Pro camera - Mashable",
-        "description": "The company behind the Xtra Muse 2 Pro has cancelled preorders for the camera. Is an FCC investigation the reason why?",
-        "source_link": "https://mashable.com/tech/xtra-cancels-xtra-muse-2-pro-camera-preorders-dji-ban"
       },
       {
         "rank": 9,
@@ -67,10 +67,10 @@
       },
       {
         "rank": 10,
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/ai-gadgets-illustration-main.jpg?c=16x9&q=w_800,c_fill",
-        "title": "AI devices that see, listen and record: Are we ready for the post-smartphone world? - CNN",
-        "description": "Picture this: On a normal workday, you and your coworkers walk around the office with tiny recorders clipped to your clothes. The glasses on your face instantly identify what you see. Your bracelet records and analyzes all your conversations.",
-        "source_link": "https://www.cnn.com/2026/07/26/tech/ai-devices-see-listen-record-meta-amazon-plaud"
+        "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-games-maintenance-July-2026.jpg",
+        "title": "Nintendo maintenance schedule \u2013 July 26, 2026 \u2013 lots of games downtime incoming - Nintendo Everything",
+        "description": "Nintendo has released its maintenance schedule for the week of July 26, 2026. The previously announced Nintendo Switch Online maintenance for next month is still on the docket. On top of that though, a new session has been added. Maintenance is kicking off in\u2026",
+        "source_link": "https://nintendoeverything.com/nintendo-maintenance-schedule-july-26-2026/"
       }
     ],
     "trending_movies": [
@@ -118,24 +118,24 @@
       },
       {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
         "title": "72 HOURS",
         "description": "To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group ch...",
         "source_link": "https://www.themoviedb.org/movie/949838"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
         "title": "Masters of the Universe",
         "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
         "source_link": "https://www.themoviedb.org/movie/454639"
-      },
-      {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
         "rank": 10,
