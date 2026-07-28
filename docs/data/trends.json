@@ -1,76 +1,76 @@
 {
-  "last_updated": "July 28, 2026, 08:26 UTC",
+  "last_updated": "July 28, 2026, 11:13 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/S7EZLP22U6ZGP7AGACYMAXHZR4.jpg&w=1440",
+        "title": "Column | I\u2019m a doctor. Here\u2019s why I wear sunblock indoors. - The Washington Post",
+        "description": "Plus, four tips for buying an effective sunscreen.",
+        "source_link": "https://www.washingtonpost.com/wellness/2026/07/27/doctor-heres-why-i-wear-sunblock-indoors/"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/07/Weekly-Japanese-Game-Releases_07-26-26.jpg",
+        "title": "This Week\u2019s Japanese Game Releases: Halo: Campaign Evolved, Village in the Shade, more - Gematsu",
+        "description": "Halo: Campaign Evolved for PlayStation 5, Xbox Series, and PC, and Village in the Shade for PlayStation 5, Switch 2, Switch, and PC are the highlights of this week\u2019s Japanese video game relea\u2026",
+        "source_link": "https://www.gematsu.com/2026/07/this-weeks-japanese-game-releases-halo-campaign-evolved-village-in-the-shade-more"
+      },
+      {
+        "rank": 3,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/apple-watch-ultra-3-4-mountain.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple Watch Series 12 and Ultra 4: What to expect - 9to5Mac",
         "description": "The Apple Watch Series 12 and Ultra 4 are reportedly in late-stage testing. Here's what to expect, including a long-awaited chip upgrade.",
         "source_link": "https://9to5mac.com/2026/07/26/apple-watch-series-12-and-ultra-4-what-to-expect/"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://assets-prd.ignimgs.com/2026/07/24/hasbro-the-legend-of-zelda-heroes-of-hyrule-link1-1784895147476.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Preorders Are Live for Hasbro\u2019s The Legend of Zelda Figures \u2013 Here\u2019s Where You Can Grab Them - IGN",
         "description": "Hasbro's The Legend of Zelda figures of Link, Zelda, and Ganondorf are now available to preorder from select retailers. With a release date of May 1 next year, we've broken down where they're available to buy right now.",
         "source_link": "https://www.ign.com/articles/preorder-hasbro-the-legend-of-zelda-figures"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTI1ODI3/south-koreas-president-lee-jae-myung-national-briefing-on-three-major-mega-projects.jpg?profile=share16-9",
+        "title": "Samsung Galaxy S27 leak hints at pricier retail bet - thestreet.com",
+        "description": "Samsung may be giving shoppers one Galaxy too many",
+        "source_link": "https://www.thestreet.com/investing/samsung-galaxy-s27-leak-hints-at-pricier-retail-bet"
+      },
+      {
+        "rank": 6,
+        "image": null,
+        "title": "Siri AI continues to get better as iOS 27 Developer Beta 4 is released - PhoneArena",
+        "description": null,
+        "source_link": "https://www.phonearena.com/news/siri-ai-gets-better-with-latest-beta-update_id182128"
+      },
+      {
+        "rank": 7,
         "image": "https://imageio.forbes.com/specials-images/imageserve/66c7eb6be1c323c19b6563e1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "ChatGPT\u2019s Health Launch Is Foreshadowing The Future Of Healthcare - Forbes",
         "description": "The integration of health data into consumer AI platforms is rapidly growing.",
         "source_link": "https://www.forbes.com/sites/saibala/2026/07/26/chatgpts-health-launch-is-foreshadowing-the-future-of-healthcare/"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://kotaku.com/app/uploads/2026/07/nintendocdi-1088x675.jpg",
         "title": "Miyamoto Says Players No Longer Care About Hardware Specs - Kotaku",
         "description": "Gaming trends have the Mario creator feeling that cutting edge graphics and performance are no longer the priority for customers, and the evidence seems to be on his side",
         "source_link": "https://kotaku.com/shigeru-miyamoto-believes-gamers-have-grown-disinterested-in-hardware-specs-as-if-they-had-a-choice-2000719415"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/02/gamecube-with-controller.jpg?w=1600&h=900&fit=crop",
         "title": "5 Masterpiece GameCube Games No One Remembers - Comic Book Resources",
         "description": "Everyone remembers perfect GameCube classics like Twilight Princess and Mario Kart Double Dash, but there are other masterpieces no one remembers.",
         "source_link": "https://www.cbr.com/masterpiece-gamecube-games-no-one-remembers/"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://helios-i.mashable.com/imagery/articles/01oepACVAMrzVN6WEoNO7g7/hero-image.fill.size_1200x675.v1784839974.jpg",
         "title": "Jackery FridgeGuard review: Keep your refrigerator cooling during an outage - Mashable",
         "description": "Rest easy the fridge will keep cooling during the next power outage with zero effort on your part.",
         "source_link": "https://mashable.com/tech/jackery-fridgeguard-review"
-      },
-      {
-        "rank": 7,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a638b09d314b7840c1a6114/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "7 Key Garmin Cirqa Questions Answered By Garmin - Forbes",
-        "description": "Garmin clears up some FAQs about the Garmin Cirqa, its latest tracker, including exactly who should consider buying one. And it is not absolutely everyone.",
-        "source_link": "https://www.forbes.com/sites/andrewwilliams/2026/07/26/7-key-garmin-cirqa-questions-answered-by-garmin/"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.pushsquare.com/349e407a72d16/large.jpg",
-        "title": "Angry PlayStation Fans Propose PS5 Blackout in Protest of Sony's Disc Decision - Push Square",
-        "description": "Unplug your consoles for a week in August",
-        "source_link": "https://www.pushsquare.com/news/2026/07/angry-playstation-fans-propose-ps5-blackout-in-protest-of-sonys-disc-decision"
-      },
-      {
-        "rank": 9,
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2017/memory.jpg",
-        "title": "Working memory rapidly updates its priorities after distractions, study finds - Medical Xpress",
-        "description": "When humans tackle many everyday tasks, ranging from driving to completing household chores and work assignments, they rely heavily on working memory. This is the brain's ability to temporarily store and manipulate important information that can help complete\u2026",
-        "source_link": "https://medicalxpress.com/news/2026-07-memory-rapidly-priorities-distractions.html"
-      },
-      {
-        "rank": 10,
-        "image": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/07/most-hostile-open-world-games-death-stranding-sam-red-dead-redemption-2-arthur-morgan-far-cry-3-vaas.jpg?w=1600&h=900&fit=crop",
-        "title": "10 Most Hostile Open World Games - DualShockers",
-        "description": "These open world games are notoriously difficult, especially with how they seem to want you dead at all costs.",
-        "source_link": "https://www.dualshockers.com/most-hostile-open-world-games/"
       }
     ],
     "trending_movies": [
@@ -111,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-        "title": "Disclosure Day",
-        "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorol...",
-        "source_link": "https://www.themoviedb.org/movie/1275779"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
         "title": "Colony",
         "description": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal...",
         "source_link": "https://www.themoviedb.org/movie/1375646"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-        "title": "Masters of the Universe",
-        "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
-        "source_link": "https://www.themoviedb.org/movie/454639"
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/cu0XnXLzJGPeI0msCoJKgnEecKz.jpg",
+        "title": "Leviticus",
+        "description": "Two teenage boys must escape a violent entity that takes the form of the person they desire most \u2014 each other....",
+        "source_link": "https://www.themoviedb.org/movie/1564614"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg",
         "title": "72 HOURS",
         "description": "To save his career, a 40-year-old ad exec joins a crew of twentysomethings for a wild Miami bachelor party after they mistakenly add him to a group ch...",
         "source_link": "https://www.themoviedb.org/movie/949838"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
+        "title": "Masters of the Universe",
+        "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
+        "source_link": "https://www.themoviedb.org/movie/454639"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
+        "image": "https://image.tmdb.org/t/p/w200/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+        "title": "Disclosure Day",
+        "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorol...",
+        "source_link": "https://www.themoviedb.org/movie/1275779"
       }
     ]
   }
