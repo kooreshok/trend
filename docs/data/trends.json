@@ -1,76 +1,76 @@
 {
-  "last_updated": "July 29, 2026, 02:09 UTC",
+  "last_updated": "July 29, 2026, 05:46 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://image.cnbcfm.com/api/v1/image/108340745-1785183915472-gettyimages-2272651611-gchanceo-2-4_mcfn9tsu.jpeg?v=1785184205&w=1920&h=1080",
-        "title": "Microsoft touts cost-saving AI model for cybersecurity - CNBC",
-        "description": "Microsoft says that when integrated with OpenAI's GPT-5.4, its new cybersecurity model can beat Anthropic's new Mythos 5.",
-        "source_link": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html"
+        "image": "https://images.macrumors.com/t/Sa45WpyBk4fP8VHn6dTWNNsULG8=/1960x/article-new/2025/10/M5-MacBook-Pro.jpg",
+        "title": "Everything We Know About MacBook Ultra's All-New Design - MacRumors",
+        "description": "Apple's next high-end laptop is expected to bring the most substantial external changes to the MacBook Pro line since 2021. No renders, case...",
+        "source_link": "https://www.macrumors.com/2026/07/27/macbook-ultra-all-new-design/"
       },
       {
         "rank": 2,
+        "image": "https://www.pokebeach.com/news/2026/07/me5_en_075_std.jpg",
+        "title": "Pitch Black Set Review - PokeBeach",
+        "description": "Pitch Black has just released and it will be showcased for the first time at the upcoming World Championships. Personally, I think this set is one of the",
+        "source_link": "https://www.pokebeach.com/2026/07/pitch-black-set-review"
+      },
+      {
+        "rank": 3,
         "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-s27-pro-s27-ultra-battery-capacities-leak/-952x498w6/gsmarena_000.jpg",
         "title": "Samsung Galaxy S27 Pro and S27 Ultra battery capacities leak - GSMArena.com news - GSMArena.com",
         "description": "Samsung may finally be adopting silicon carbon anodes for its flagship phones. A few days ago we heard some new details about the Galaxy S27 family's...",
         "source_link": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_s27_ultra_battery_capacities_leak-news-73896.php"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/11/b14c2ec5/Xbox%20New%20Logo.jpg.webp",
         "title": "Update: Xbox Online Services Fully Restored After Hours-Long Outage - Game Informer",
         "description": "Several online services, including playing digital games, are affected.",
         "source_link": "https://gameinformer.com/2026/07/27/update-xbox-online-services-fully-restored-after-hours-long-outage"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://kotaku.com/app/uploads/2026/07/dragon-age.jpg",
         "title": "Ex-BioWare Dev Explains Why He Thinks Dragon Age Is Basically Dead - Kotaku",
         "description": "Hard to argue with that",
         "source_link": "https://kotaku.com/ex-dragon-age-producer-calls-ea-a-hedge-fund-with-a-video-game-hobby-2000719579"
       },
       {
-        "rank": 5,
+        "rank": 6,
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/98ad/live/107ee220-8a00-11f1-bf17-1d06aa0f4f93.jpg",
+        "title": "Some people's chats with Claude AI found publicly available online - BBC",
+        "description": "Hundreds of conversations with Anthropic\u2019s chatbot were discovered as being publicly accessible.",
+        "source_link": "https://www.bbc.com/news/articles/cly5qgjk5ywo"
+      },
+      {
+        "rank": 7,
         "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/nintendoswitch2_splatoonraiders_screenshot_04.jpg?w=1600&h=900&fit=crop",
         "title": "Nintendo just debuted maybe the hardest boss in its 136-year history - Polygon.com",
         "description": "Splatoon Raiders' hardest boss fight is against a tiny villain, and the Splatoon community is loving it.",
         "source_link": "https://www.polygon.com/splatoon-raiders-pudyin-den-smallfry-fight/"
       },
       {
-        "rank": 6,
+        "rank": 8,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+        "title": "Microsoft unveils AI security tools it says outperform competing platforms - Ars Technica",
+        "description": "Microsoft says tools cost less than competing ones and outperform them, too.",
+        "source_link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
+      },
+      {
+        "rank": 9,
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/c6653204-e43b-466d-9df6-82b3c0c20aad/thumbnails/2f3106c2-3194-43d5-ad88-c675b377a6a7.jpg?w=1200",
+        "title": "This mammal breaks one of nature's biggest rules \u2013 and scientists have finally worked out why\u2026 - BBC Wildlife Magazine",
+        "description": "Humans aren\u2019t the only ones who benefit from nepotism \u2013 female hyenas pass down their privilege to their children, whereas males do not",
+        "source_link": "https://www.discoverwildlife.com/animal-facts/mammals/spotted-hyena-females"
+      },
+      {
+        "rank": 10,
         "image": "https://kotaku.com/app/uploads/2026/07/HN5RmIcXIAAsoFT-1200x675.jpeg",
         "title": "A Pok\u00e9mon Fan Explains Why He Set Up 58 Consoles Searching For A One-In-Nine-Million Shiny - Kotaku",
         "description": "Shiny Golduck may not seem like anything special, but the math behind this one makes it near-impossible to find",
         "source_link": "https://kotaku.com/pokemon-ruby-sapphire-shiny-hunt-golduck-gamecube-wii-2000719575"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/01_JSBJV_Hero_PR-e1785178947977.jpg?w=1440&h=810&crop=1",
-        "title": "\u2018Jay and Silent Bob\u2019 Marijuana Farming Game in the Works - The Hollywood Reporter",
-        "description": "The newly launched indie company Nitrate Games is backing the project, described as an \"adult cozy farm sim.\"",
-        "source_link": "http://www.hollywoodreporter.com/movies/movie-news/jay-and-silent-bob-weed-farming-video-game-in-the-works-1236657425/"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/macOS-26-6-update-1152x648-1785182231.jpg",
-        "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27 - Ars Technica",
-        "description": "These are likely the last updates of note before Apple's bigger fall updates.",
-        "source_link": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/"
-      },
-      {
-        "rank": 9,
-        "image": "https://media.wired.com/photos/6a6786cb3d9ebc5f1410adf5/191:100/w_1280,c_limit/Security_Google%20Search%20Screw-Up%20Exposed%20Private%20Claude%20Chats_v1.jpg",
-        "title": "Private Claude Chats Exposed in Google and Bing Search Results - WIRED",
-        "description": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
-        "source_link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/"
-      },
-      {
-        "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Nanoleaf-Blocks-Combo-XL-Smarter-Kit-Lifestyle-Press-Image.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Nanoleaf\u2019s colorful pegboard and shelf kit is half off - The Verge",
-        "description": "Nanoleaf\u2019s Blocks Combo XL Smarter Kit is on sale for a new low of $99.99 ($100 off). The modular smart lights also include a shelf and pegboard.",
-        "source_link": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale"
       }
     ],
     "trending_movies": [
@@ -83,7 +83,7 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
         "title": "Masters of the Universe",
         "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
         "source_link": "https://www.themoviedb.org/movie/454639"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-        "title": "Colony",
-        "description": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal...",
-        "source_link": "https://www.themoviedb.org/movie/1375646"
       }
     ]
   }
