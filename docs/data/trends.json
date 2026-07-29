@@ -1,5 +1,5 @@
 {
-  "last_updated": "July 29, 2026, 15:53 UTC",
+  "last_updated": "July 29, 2026, 17:11 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,17 +76,17 @@
     "trending_movies": [
       {
         "rank": 1,
+        "image": "https://image.tmdb.org/t/p/w200/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+        "title": "The Devil's Mouth",
+        "description": "Five friends explore The Devil's Mouth cave system in Thailand for one last adventure before life in the real world begins. But they soon discover tha...",
+        "source_link": "https://www.themoviedb.org/movie/1481343"
+      },
+      {
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
-        "title": "The Devil's Mouth",
-        "description": "Five college friends set off to explore the Devil's Mouth cave system in Thailand for one last adventure before life in the real world begins. But the...",
-        "source_link": "https://www.themoviedb.org/movie/1481343"
       },
       {
         "rank": 3,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
+        "image": "https://image.tmdb.org/t/p/w200/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+        "title": "Disclosure Day",
+        "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorol...",
+        "source_link": "https://www.themoviedb.org/movie/1275779"
       }
     ]
   }
