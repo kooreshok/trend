@@ -1,69 +1,76 @@
 {
-  "last_updated": "July 28, 2026, 23:04 UTC",
+  "last_updated": "July 29, 2026, 02:09 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/heat-shield-streaks-1152x648.png",
-        "title": "Experts warn current Starship heat shield tech is a \"dead end\" for rapid reuse - Ars Technica",
-        "description": "NASA has not made substantial investments in thermal protection research for decades.",
-        "source_link": "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/"
+        "image": "https://image.cnbcfm.com/api/v1/image/108340745-1785183915472-gettyimages-2272651611-gchanceo-2-4_mcfn9tsu.jpeg?v=1785184205&w=1920&h=1080",
+        "title": "Microsoft touts cost-saving AI model for cybersecurity - CNBC",
+        "description": "Microsoft says that when integrated with OpenAI's GPT-5.4, its new cybersecurity model can beat Anthropic's new Mythos 5.",
+        "source_link": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html"
       },
       {
         "rank": 2,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_4458.jpeg?resize=1200,900",
-        "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system - TechCrunch",
-        "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-        "source_link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/"
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-s27-pro-s27-ultra-battery-capacities-leak/-952x498w6/gsmarena_000.jpg",
+        "title": "Samsung Galaxy S27 Pro and S27 Ultra battery capacities leak - GSMArena.com news - GSMArena.com",
+        "description": "Samsung may finally be adopting silicon carbon anodes for its flagship phones. A few days ago we heard some new details about the Galaxy S27 family's...",
+        "source_link": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_s27_ultra_battery_capacities_leak-news-73896.php"
       },
       {
         "rank": 3,
-        "image": "https://images.macrumors.com/t/RzJYGwPST2fim75_lRKrQt8RKw8=/2500x/article-new/2026/05/iOS-26.6-Glass-Feature.jpg",
-        "title": "Apple Releases iOS 26.6 and iPadOS 26.6 With iOS 27 Optimizations - MacRumors",
-        "description": "Apple today released iOS 26.6 and iPadOS 26.6, updates to the iOS and iPadOS 26 operating systems that came out in September. iOS 26.6 comes a month...",
-        "source_link": "https://www.macrumors.com/2026/07/27/apple-releases-ios-26-6/"
+        "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/11/b14c2ec5/Xbox%20New%20Logo.jpg.webp",
+        "title": "Update: Xbox Online Services Fully Restored After Hours-Long Outage - Game Informer",
+        "description": "Several online services, including playing digital games, are affected.",
+        "source_link": "https://gameinformer.com/2026/07/27/update-xbox-online-services-fully-restored-after-hours-long-outage"
       },
       {
         "rank": 4,
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2280291466-e1785169611667.jpg?resize=1200,600",
-        "title": "Users\u2019 seemingly private conversations with Anthropic\u2019s Claude showed up in Google search results - Fortune",
-        "description": "The topics of the chats, which seem to have been inadvertently exposed, ranged from erotica to programming chats to work notes to fake book reviews.",
-        "source_link": "https://fortune.com/2026/07/27/a-trove-of-users-seemingly-private-conversations-with-anthropics-claude-ai-chatbot-showed-up-in-google-search-results/"
+        "image": "https://kotaku.com/app/uploads/2026/07/dragon-age.jpg",
+        "title": "Ex-BioWare Dev Explains Why He Thinks Dragon Age Is Basically Dead - Kotaku",
+        "description": "Hard to argue with that",
+        "source_link": "https://kotaku.com/ex-dragon-age-producer-calls-ea-a-hedge-fund-with-a-video-game-hobby-2000719579"
       },
       {
         "rank": 5,
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/27/USAT/91064996007-coasters-5-6-x-4-in.png?crop=1799,1012,x0,y0&width=1799&height=1012&format=pjpg&auto=webp",
-        "title": "The 'it' toy for Christmas 2026 dropped today (and it'll probably sell out soon) - USA Today",
-        "description": "The Toniebox Lite just launched, offering a smaller and cheaper way for kids to enjoy screen-free entertainment from their favorite characters.",
-        "source_link": "https://www.usatoday.com/story/shopping/parenting/2026/07/27/kids-are-obsessed-with-the-toniebox-and-it-just-got-smaller-and-cheaper/91063319007/"
+        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/nintendoswitch2_splatoonraiders_screenshot_04.jpg?w=1600&h=900&fit=crop",
+        "title": "Nintendo just debuted maybe the hardest boss in its 136-year history - Polygon.com",
+        "description": "Splatoon Raiders' hardest boss fight is against a tiny villain, and the Splatoon community is loving it.",
+        "source_link": "https://www.polygon.com/splatoon-raiders-pudyin-den-smallfry-fight/"
       },
       {
         "rank": 6,
-        "image": "https://www.techpowerup.com/img/qbh6tz57Jax4HMu7.jpg",
-        "title": "Xbox Outage Locks Players out of Games and Accounts for Over 12 Hours - TechPowerUp",
-        "description": "Following a similar story relating to PlayStation Account server errors just a few days prior, on the launch of the Marvel T\u014dkon: Fighting Souls beta, Xbox has seemingly run into issues during the advanced access launch of Halo: Campaign Evolved. The resultin\u2026",
-        "source_link": "https://www.techpowerup.com/351116/xbox-outage-locks-players-out-of-games-and-accounts-for-over-12-hours"
+        "image": "https://kotaku.com/app/uploads/2026/07/HN5RmIcXIAAsoFT-1200x675.jpeg",
+        "title": "A Pok\u00e9mon Fan Explains Why He Set Up 58 Consoles Searching For A One-In-Nine-Million Shiny - Kotaku",
+        "description": "Shiny Golduck may not seem like anything special, but the math behind this one makes it near-impossible to find",
+        "source_link": "https://kotaku.com/pokemon-ruby-sapphire-shiny-hunt-golduck-gamecube-wii-2000719575"
       },
       {
         "rank": 7,
-        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/spider-man-2.jpg?w=1600&h=900&fit=crop",
-        "title": "Huge PS5 game sale will help you stock up on physical discs before they disappear - Polygon.com",
-        "description": "From Marvel's Spider-Man to God of War, the sale includes a ton of PS5 first-party bangers via some of the biggest retailers around.",
-        "source_link": "https://www.polygon.com/ps5-spider-man-ghost-tsushima-game-sales-amazon-best-buy-gamestop/"
+        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/01_JSBJV_Hero_PR-e1785178947977.jpg?w=1440&h=810&crop=1",
+        "title": "\u2018Jay and Silent Bob\u2019 Marijuana Farming Game in the Works - The Hollywood Reporter",
+        "description": "The newly launched indie company Nitrate Games is backing the project, described as an \"adult cozy farm sim.\"",
+        "source_link": "http://www.hollywoodreporter.com/movies/movie-news/jay-and-silent-bob-weed-farming-video-game-in-the-works-1236657425/"
       },
       {
         "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-warby-parker-12.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Samsung teases Android XR glasses with phone & watch integration, \u2018reasonable\u2019 price - 9to5Google",
-        "description": "Following a partial unveiling at its Unpacked event last week, Samsung is teasing some further details of its upcoming Android...",
-        "source_link": "http://9to5google.com/2026/07/27/samsung-android-xr-glasses-integration-price-tease/"
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/macOS-26-6-update-1152x648-1785182231.jpg",
+        "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27 - Ars Technica",
+        "description": "These are likely the last updates of note before Apple's bigger fall updates.",
+        "source_link": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/"
       },
       {
         "rank": 9,
-        "image": "https://images.pushsquare.com/a8516749cedc0/large.jpg",
-        "title": "Fable PS5 Has Run 'Uncomfortably Beyond Budget', Sources Claim - Push Square",
-        "description": "God of War Laufey invades RPG's \"dedicated moment\"",
-        "source_link": "https://www.pushsquare.com/news/2026/07/fable-ps5-has-run-uncomfortably-beyond-budget-sources-claim"
+        "image": "https://media.wired.com/photos/6a6786cb3d9ebc5f1410adf5/191:100/w_1280,c_limit/Security_Google%20Search%20Screw-Up%20Exposed%20Private%20Claude%20Chats_v1.jpg",
+        "title": "Private Claude Chats Exposed in Google and Bing Search Results - WIRED",
+        "description": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
+        "source_link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/"
+      },
+      {
+        "rank": 10,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/Nanoleaf-Blocks-Combo-XL-Smarter-Kit-Lifestyle-Press-Image.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Nanoleaf\u2019s colorful pegboard and shelf kit is half off - The Verge",
+        "description": "Nanoleaf\u2019s Blocks Combo XL Smarter Kit is on sale for a new low of $99.99 ($100 off). The modular smart lights also include a shelf and pegboard.",
+        "source_link": "https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale"
       }
     ],
     "trending_movies": [
@@ -97,17 +104,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
         "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
         "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
         "source_link": "https://www.themoviedb.org/movie/1311031"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
         "rank": 7,
@@ -132,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
+        "image": "https://image.tmdb.org/t/p/w200/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+        "title": "Colony",
+        "description": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal...",
+        "source_link": "https://www.themoviedb.org/movie/1375646"
       }
     ]
   }
