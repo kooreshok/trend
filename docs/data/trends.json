@@ -1,69 +1,69 @@
 {
-  "last_updated": "July 30, 2026, 13:48 UTC",
+  "last_updated": "July 30, 2026, 15:48 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-iphone-side-angle-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iOS 27 adds three new iPhone features you\u2019ll use all the time - 9to5Mac",
+        "description": "iOS 27 launches this fall as the next major iPhone update, here are three new features that could be among the most-used for many users.",
+        "source_link": "https://9to5mac.com/2026/07/29/ios-27-adds-three-new-iphone-features-youll-use-all-the-time/"
+      },
+      {
+        "rank": 2,
         "image": "https://assetsio.gnwcdn.com/halo-campaign-evolved-master-chief-back.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Tentpole Xbox release Halo: Campaign Evolved performs better on the PlayStation 5, with the PS5 Pro providing the best experience - Eurogamer.net",
         "description": "According to a new Digital Foundry article, the PS5 version of the game meets Xbox Series X quality, without cutscene stuttering.",
         "source_link": "https://www.eurogamer.net/halo-campaign-evolved-performs-better-ps5"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Real_Dimez_landscape_3bb4fa.jpg",
+        "title": "New GTA 6 Info Coming Soon, It Seems - GameSpot",
+        "description": "We could see GTA 6 again soon.",
+        "source_link": "https://www.gamespot.com/articles/new-gta-6-info-coming-soon-it-seems/"
+      },
+      {
+        "rank": 4,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268671_Samsung_Galaxy_Z_Fold_8_DPreston_0034.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Samsung\u2019s Galaxy Z Fold 8 feels like the future - The Verge",
         "description": "The Z Fold 8 looks unusual at first, with its squat outer screen, but you get used to it fast \u2014 and the wide inner display makes it all worthwhile.",
         "source_link": "https://www.theverge.com/tech/972387/samsung-galaxy-z-fold-8-review"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://assetsio.gnwcdn.com/ex-33-switch-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Clair Obscur: Expedition 33 devs are working on a Nintendo Switch 2 version, but note the \"big technical challenge\" of getting it up and running - Eurogamer.net",
+        "description": "Sandfall Interactive knows there is demand for a Switch 2 version of the breakout RPG, and the studio is working on it.",
+        "source_link": "https://www.eurogamer.net/clair-obscur-expedition-33-sandfall-switch-2-version-technical-challenge"
+      },
+      {
+        "rank": 6,
         "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/combolands-indie-roguelike-city-builder.jpg?w=1600&h=900&fit=crop",
         "title": "Cities: Skylines meets Balatro in a frighteningly good new Steam roguelike - Polygon.com",
         "description": "Combolands combines the combo-chaining thrills of Balatro with the strategic placement of Cities: Skylines",
         "source_link": "https://www.polygon.com/combolands-demo-impressions/"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/wd527-jul29-1-feature-j6bbqtvo9c.jpg",
         "title": "White Dwarf 527: The Inside Scoop on Warhammer 40,000 - Warhammer Community",
         "description": "Miniatures and rules for the new edition of Warhammer 40,000, solo missions in the Jade Abbey, and more.",
         "source_link": "https://www.warhammer-community.com/articles/qx3hqwpl/white-dwarf-527-the-inside-scoop-on-warhammer-40000"
       },
       {
-        "rank": 5,
+        "rank": 8,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/synthid-fingerprint-1152x648.jpg",
         "title": "Tested: Google SynthID works great, but labeling AI content may be a losing game - Ars Technica",
         "description": "Deciding what's real on the Internet won't be easy in the future.",
         "source_link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832862/STK048_XBOX_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Xbox outage shouldn\u2019t have affected games on disc, Microsoft confirms - The Verge",
         "description": "While physical Xbox game discs are subject to licensing inspections, that shouldn\u2019t have prevented them from working during this week\u2019s outage.",
         "source_link": "https://www.theverge.com/games/972416/xbox-outage-game-disc-entitlement-check-issue"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets-prd.ignimgs.com/2026/05/07/ss-9699288b90d0aad320e998f107b59edd27e9ea61-1920x1080-1778147420246.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Capcom Says a Pragmata Sequel is Looking Likely After Celebrating Its Sales Success - IGN",
-        "description": "Pragmata, Capcom's sci-fi adventure with a small girl android sidekick, looks likely to get a sequel.",
-        "source_link": "https://www.ign.com/articles/pragmata-2-likely-after-sales-success-publisher-capcom-says"
-      },
-      {
-        "rank": 8,
-        "image": "https://ychef.files.bbci.co.uk/624x351/p0p1bz4l.jpg",
-        "title": "Dancing dots: The motion-sickness cure hidden in iPhone settings - BBC",
-        "description": "A buried iPhone setting is turning heads and saving stomachs. But does relief just mean more time staring at your screen?",
-        "source_link": "https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings"
-      },
-      {
-        "rank": 9,
-        "image": "https://i.insider.com/6a68d558548c9c486b311601?width=1200&format=jpeg",
-        "title": "He helped invent the modern internet. He's horrified at what he sees in 2026. - Business Insider",
-        "description": "Steve Krug invented the frictionless internet with his book \"Don't Make Me Think.\" Now he's in the frictionmaxxers' corner.",
-        "source_link": "https://www.businessinsider.com/steve-krug-dont-make-me-think-author-frictionless-internet-2026-7#article"
       }
     ],
     "trending_movies": [
@@ -111,24 +111,24 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-        "title": "Avatar Aang: The Last Airbender",
-        "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
-        "source_link": "https://www.themoviedb.org/movie/980431"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
         "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
         "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
         "source_link": "https://www.themoviedb.org/movie/1311031"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+        "title": "Avatar Aang: The Last Airbender",
+        "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
+        "source_link": "https://www.themoviedb.org/movie/980431"
       },
       {
         "rank": 10,
