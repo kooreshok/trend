@@ -1,62 +1,69 @@
 {
-  "last_updated": "July 30, 2026, 17:21 UTC",
+  "last_updated": "July 30, 2026, 19:18 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://kotaku.com/app/uploads/2026/07/pkmngen1recomp.jpg",
+        "title": "Pok\u00e9mon Red And Blue Mod Turns The Game Boy Games Into A Gorgeous 3D Diorama - Kotaku",
+        "description": "The Recompilation Project lets you look at the old games in a new way",
+        "source_link": "https://kotaku.com/pokemon-red-blue-recompilation-project-voxel-3d-mod-2000720281"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/apple-upgrade.png?quality=90&strip=all&crop=0%2C6.5752975720548%2C100%2C47.838007384337&w=1200",
+        "title": "What\u2019s the catch with the Apple Upgrade program? - theverge.com",
+        "description": "Apple has just announced a new program that allows you to lease an iPhone, iPad, Mac, and Apple Watch for a relatively low monthly price, but it might not be worth the hassle.",
+        "source_link": "https://www.theverge.com/tech/972583/apple-upgrade-program-deal"
+      },
+      {
+        "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2025/07/1f47c791fa099382f13699b647955e90.jpg",
+        "title": "One Of The Best Lego Sets Ever Made Is On Sale For Under $50 - Kotaku",
+        "description": "The Lego Game Boy is a masterpiece and so much fun to build",
+        "source_link": "https://kotaku.com/one-of-the-best-lego-sets-ever-made-is-on-sale-for-under-50-2000720270"
+      },
+      {
+        "rank": 4,
+        "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/shutterstock_2267663029.jpg",
+        "title": "All The Video Game Studios That Refuse To Use Generative AI - Aftermath",
+        "description": "People made games before it existed, and they'll keep doing so long after its gone",
+        "source_link": "https://aftermath.site/video-games-no-ai/"
+      },
+      {
+        "rank": 5,
+        "image": "https://images.pushsquare.com/2102a9d5ba53c/large.jpg",
+        "title": "This Revelation Should Terrify All Console Fans, Particularly Those Looking Forward to PS6 - Push Square",
+        "description": "Xbox losing $150 on each console sold",
+        "source_link": "https://www.pushsquare.com/news/2026/07/this-revelation-should-terrify-all-console-fans-particularly-those-looking-forward-to-ps6"
+      },
+      {
+        "rank": 6,
         "image": "https://images.pushsquare.com/93aa0044cf847/large.jpg",
         "title": "Early Data Suggests Unspectacular Start for Halo on PS5 - pushsquare.com",
         "description": "But story still to be written",
         "source_link": "https://www.pushsquare.com/news/2026/07/early-data-suggests-unspectacular-start-for-halo-on-ps5"
       },
       {
-        "rank": 2,
+        "rank": 7,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-One-ios-27-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple One\u2019s high-end tier is getting harder to resist in iOS 27 - 9to5mac.com",
         "description": "Apple One offers a bundle of popular Apple services at a discount, and in iOS 27 the high-end Premier plan gains new advantages.",
         "source_link": "https://9to5mac.com/2026/07/29/apple-ones-high-end-tier-is-getting-harder-to-resist-in-ios-27/"
       },
       {
-        "rank": 3,
+        "rank": 8,
         "image": "https://imageio.forbes.com/specials-images/imageserve/69dd0b209dee87038b030416/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "\u2018Fable\u2019 May Be The Last Straw For Day One On Xbox Game Pass - Forbes",
         "description": "Fable is Microsoft's biggest release in years, but will strain the concept of \"day one on Xbox Game Pass,\" a strategy that is flagging in time.",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/07/29/fable-may-be-the-last-straw-for-day-one-on-xbox-game-pass/"
       },
       {
-        "rank": 4,
+        "rank": 9,
         "image": "https://nintendoeverything.com/wp-content/uploads/Xenoblade-2-Switch-2-Field-Skills-fixed.jpg",
         "title": "Xenoblade Chronicles 2 Nintendo Switch 2 players discover that one of the game's biggest issues has now been fixed - Nintendo Everything",
         "description": "Fans discovered that the just-launched Xenoblade Chronicles 2 - Nintendo Switch 2 Edition fixed one of the biggest issues with the game.",
         "source_link": "https://nintendoeverything.com/xenoblade-chronicles-2-nintendo-switch-2-players-discover-that-one-of-the-games-biggest-issues-has-now-been-fixed/"
-      },
-      {
-        "rank": 5,
-        "image": "https://assetsio.gnwcdn.com/Steam-Machine_wood-front-plate.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Valve has released the CAD design files for the Steam Machine's exterior, leaving us asking: how long before someone makes a GabeCube skin? - Eurogamer.net",
-        "description": "The release, which has been done under a Creative Commons licence, follows Valve's CAD files for the new Steam Controller.",
-        "source_link": "https://www.eurogamer.net/valve-releases-steam-machine-cad-files"
-      },
-      {
-        "rank": 6,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Gemini-Mac-voice-upgrade.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Gemini for macOS rolling out voice control and Gboard Rambler-level transcription - 9to5Google",
-        "description": "After the preview at I/O 2026 in May, Gemini for macOS is now rolling out advanced voice control capabilities.",
-        "source_link": "http://9to5google.com/2026/07/29/gemini-mac-voice-control/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/10/Pixel-10-Pro-Fold-rvw-18.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google Pixel\u2019s Tensor grows as global smartphone shipments continue to fall - 9to5Google",
-        "description": "The chipset giants like MediaTek and Qualcomm are facing a drop in shipments as proprietary SoCs from Google and Samsung...",
-        "source_link": "http://9to5google.com/2026/07/29/google-tensor-shipments-increase/"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.digitalfoundry.net/fd99c70884c44/large.jpg",
-        "title": "Keychron announces first open-source firmware for gaming mice - Digital Foundry",
-        "description": "The equivalent of keyboard projects QMK and ZMK.",
-        "source_link": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice"
       }
     ],
     "trending_movies": [
@@ -97,38 +104,38 @@
       },
       {
         "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
         "title": "The Devil Wears Prada 2",
         "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
         "source_link": "https://www.themoviedb.org/movie/1314481"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
-        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-        "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
-        "source_link": "https://www.themoviedb.org/movie/1311031"
-      },
-      {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-        "title": "Disclosure Day",
-        "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorol...",
-        "source_link": "https://www.themoviedb.org/movie/1275779"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
         "title": "Avatar Aang: The Last Airbender",
         "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
         "source_link": "https://www.themoviedb.org/movie/980431"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+        "title": "Disclosure Day",
+        "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorol...",
+        "source_link": "https://www.themoviedb.org/movie/1275779"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
+        "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
+        "source_link": "https://www.themoviedb.org/movie/1311031"
       }
     ]
   }
