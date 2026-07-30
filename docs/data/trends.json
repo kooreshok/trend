@@ -1,76 +1,76 @@
 {
-  "last_updated": "July 30, 2026, 09:26 UTC",
+  "last_updated": "July 30, 2026, 11:47 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets.warhammer-community.com/articles/0-2026/july/wc27-07/wd527-jul29-1-feature-j6bbqtvo9c.jpg",
+        "title": "White Dwarf 527: The Inside Scoop on Warhammer 40,000 - Warhammer Community",
+        "description": "Miniatures and rules for the new edition of Warhammer 40,000, solo missions in the Jade Abbey, and more.",
+        "source_link": "https://www.warhammer-community.com/articles/qx3hqwpl/white-dwarf-527-the-inside-scoop-on-warhammer-40000"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/synthid-fingerprint-1152x648.jpg",
+        "title": "Tested: Google SynthID works great, but labeling AI content may be a losing game - Ars Technica",
+        "description": "Deciding what's real on the Internet won't be easy in the future.",
+        "source_link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/"
+      },
+      {
+        "rank": 3,
+        "image": "https://ychef.files.bbci.co.uk/624x351/p0p1bz4l.jpg",
+        "title": "Dancing dots: The motion-sickness cure hidden in iPhone settings - BBC",
+        "description": "A buried iPhone setting is turning heads and saving stomachs. But does relief just mean more time staring at your screen?",
+        "source_link": "https://www.bbc.com/future/article/20260728-dancing-dots-the-motion-sickness-cure-hidden-in-your-iphone-settings"
+      },
+      {
+        "rank": 4,
+        "image": "https://i.insider.com/6a68d558548c9c486b311601?width=1200&format=jpeg",
+        "title": "He helped invent the modern internet. He's horrified at what he sees in 2026. - Business Insider",
+        "description": "Steve Krug invented the frictionless internet with his book \"Don't Make Me Think.\" Now he's in the frictionmaxxers' corner.",
+        "source_link": "https://www.businessinsider.com/steve-krug-dont-make-me-think-author-frictionless-internet-2026-7#article"
+      },
+      {
+        "rank": 5,
+        "image": "https://assetsio.gnwcdn.com/silent-hill-townfall-preview-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Silent Hill: Townfall promises to \"massively subvert\" your expectations, and it's left me painfully excited - Eurogamer.net",
+        "description": "Our hands-on impressions of Silent Hill: Townfall, plus producer Motoi Okamoto and director Jon McKellan's thoughts on evolving the series.",
+        "source_link": "https://www.eurogamer.net/silent-hill-townfall-preview-massively-subvert-expectations-okamoto-screen-burn-interview"
+      },
+      {
+        "rank": 6,
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F203cc509-9654-4ceb-8620-8edc2ebf05a9.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "title": "Google DeepMind dismantles Nobel-winning AlphaFold team in strategy shift - Financial Times",
+        "description": "Landmark project that solved protein folding gives way to a wider race to build AI systems for scientific discovery",
+        "source_link": "https://www.ft.com/content/61b2953d-ee0d-45de-af6e-a9c1cf524b33?syn-25a6b1a6\\\\u003d1"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/S25-Ultra67.jpg",
+        "title": "Galaxy S25 Ultra and S24 Ultra owners report severe battery drain and overheating issues after July update - Notebookcheck",
+        "description": "Several Galaxy S25 Ultra and S24 Ultra users are facing battery drain and overheating issues after installing the latest July security patch. For some users, the charging speeds have also slowed down.",
+        "source_link": "https://www.notebookcheck.net/Galaxy-S25-Ultra-and-S24-Ultra-owners-report-severe-battery-drain-and-overheating-issues-after-July-update.1353452.0.html"
+      },
+      {
+        "rank": 8,
+        "image": "https://images.pushsquare.com/1072eff9b6b2a/large.jpg",
+        "title": "Amidst Sony's Disc Debacle, Capcom Sales Data Is a Brutal Reality Check for Fans of Physical Media - Push Square",
+        "description": "Just 6.7% of sales are physical",
+        "source_link": "https://www.pushsquare.com/news/2026/07/amidst-sonys-disc-debacle-capcom-sales-data-is-a-brutal-reality-check-for-fans-of-physical-media"
+      },
+      {
+        "rank": 9,
         "image": "https://www.windowslatest.com/wp-content/uploads/2026/07/Windows-11-KB5101684-update-scaled.jpg",
         "title": "Windows 11 KB5101684 out with a speed boost, direct download links for offline installer (.msu) - Windows Latest",
         "description": "Windows 11 KB5101684 is now rolling out with several quality improvements, particularly performance gains. This update is available via Windows Update and installs only when you tap the \u2018Download & Install\u2019 button. In addition, Microsoft has posted direct dow\u2026",
         "source_link": "https://www.windowslatest.com/2026/07/29/windows-11-kb5101684-out-with-a-speed-boost-direct-download-links-for-offline-installer-msu/"
       },
       {
-        "rank": 2,
-        "image": "https://i.pcmag.com/imagery/articles/05u1IxE2YaIXruh3K1JhrEP-1.fit_lim.size_1200x630.v1785181774.jpg",
-        "title": "Claude Chats Popped Up in Google Search Results. How to See If Yours Are Public - PCMag",
-        "description": "Chats posted online by Claude users briefly appeared in Google search results over the weekend. Here's how to check whether you've shared any chats and revoke access.",
-        "source_link": "https://www.pcmag.com/news/claude-chats-popped-up-in-google-search-results-see-if-yours-are-public"
-      },
-      {
-        "rank": 3,
-        "image": "https://images.macrumors.com/t/HbdIJt6so5b1ZucDQC4YeIMTxYY=/2210x/article-new/2026/07/apple-upgrade-program-1.jpg",
-        "title": "Apple Upgrade: 20 Things to Know Before Leasing an iPhone, iPad, or Mac - MacRumors",
-        "description": "Apple retired the iPhone Upgrade Program in favor of a new Apple Upgrade leasing option made available in partnership with Klarna. Apple Upgrade...",
-        "source_link": "https://www.macrumors.com/2026/07/28/apple-upgrade-program-tidbits/"
-      },
-      {
-        "rank": 4,
-        "image": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/07/28/27750a01/double-fine-logo.jpg.webp",
-        "title": "Double Fine Announces Layoffs Following Split From Xbox - Game Informer",
-        "description": "\"Only the survival of our studio would ever make us consider such a painful action,\" says Double Fine head Tim Schafer.",
-        "source_link": "https://gameinformer.com/2026/07/28/double-fine-announces-layoffs-following-split-from-xbox"
-      },
-      {
-        "rank": 5,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Case-Product-Hero.jpg?resize=1200,800",
-        "title": "Ozlo\u2019s Sleepbuds 2 build on Bose\u2019s sleep earbud legacy - TechCrunch",
-        "description": "Ozlo\u2019s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by Bose.",
-        "source_link": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.digitalfoundry.net/e33c97a1d77e2/large.jpg",
-        "title": "Halo: Campaign Evolved Scales Well from PS5 Pro to Xbox Series S Despite Its Full-Throated Unreal Engine 5 Features - Digital Foundry",
-        "description": "A gorgeous, technically-astute remake of an all-time classic.",
-        "source_link": "https://www.digitalfoundry.net/features/halo-campaign-evolved-scales-well-from-ps5-pro-to-xbox-series-s-despite-its-full-throated-unreal-engine-5-features"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2025/10/google-find-hub-app-on-phone-showing-estimated-location-pebblebee-clip-universal.jpg",
-        "title": "Google finally lets Find Hub users delete their old devices - Android Authority",
-        "description": "Google has quietly rolled out a new feature to Find Hub that lets users delete old or duplicate devices from the app.",
-        "source_link": "https://www.androidauthority.com/google-find-hub-remove-device-3692086/"
-      },
-      {
-        "rank": 8,
-        "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/adobe_devil3.webp",
-        "title": "I Hate Adobe - Aftermath",
-        "description": "Adobe is a wretched, exploitative company that loves generative AI. Many are coerced into paying money for their software and the software runs like garbage.",
-        "source_link": "https://aftermath.site/i-hate-adobe/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/07/Xbox-Gamescom_07-28-26.jpg",
-        "title": "Xbox announces Gamescom 2026 plans - Gematsu",
-        "description": "Xbox has announced its plans for Gamescom 2026, which will run from August 26 to 30 at Koelenmesse in Cologne, Germany, including first-party and third-party titles playable at its booth, and live \u2026",
-        "source_link": "https://www.gematsu.com/2026/07/xbox-announces-gamescom-2026-plans"
-      },
-      {
         "rank": 10,
-        "image": null,
-        "title": "Another Pixel 11 leak all but confirms Google's disappointing battery choice - PhoneArena",
-        "description": null,
-        "source_link": "https://www.phonearena.com/news/pixel-11-series-battery-details_id182176"
+        "image": "https://www.androidauthority.com/wp-content/uploads/2022/02/Google-Docs-logo-on-smartphone-next-to-office-gear-stock-photo-4.jpg",
+        "title": "Gemini can now make your Google Docs look a lot less boring - Android Authority",
+        "description": "Need some visuals? Gemini can now create and edit images, diagrams, and infographics directly inside Google Docs.",
+        "source_link": "https://www.androidauthority.com/generate-edit-visuals-gemini-google-docs-3692149/"
       }
     ],
     "trending_movies": [
@@ -118,17 +118,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
-        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-        "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
-        "source_link": "https://www.themoviedb.org/movie/1311031"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
         "title": "Disclosure Day",
         "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorol...",
         "source_link": "https://www.themoviedb.org/movie/1275779"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fig...",
+        "source_link": "https://www.themoviedb.org/movie/1311031"
       },
       {
         "rank": 9,
