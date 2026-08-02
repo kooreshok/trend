@@ -1,69 +1,69 @@
 {
-  "last_updated": "August 02, 2026, 11:58 UTC",
+  "last_updated": "August 02, 2026, 13:37 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/10/clair-obscur-eiffel-tower.jpg?w=1600&h=900&fit=crop",
+        "title": "The Switch 2 is already starting to show its seams - polygon.com",
+        "description": "Despite the Nintendo Switch 2 getting some miracle ports of huge games, some developers are still struggling to get their games on the console.",
+        "source_link": "https://www.polygon.com/switchboard-clair-obscur-expedition-33-switch-2/"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-138.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "Instapaper, the OG reading app, just got a big update - The Verge",
+        "description": "Plus: Spider-Man: Brand New Day, Pastebot 3, Halo Campaign Evolved, Leafy Corner, and more in this week\u2019s Installer newsletter.",
+        "source_link": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer"
+      },
+      {
+        "rank": 3,
         "image": "https://helios-i.mashable.com/imagery/articles/049MVbZZjnF8ZvepJCLSTHw/hero-image.fill.size_1200x675.v1785178768.jpg",
         "title": "Google Pixel 11: Every rumor, leak, and confirmed fact - Mashable",
         "description": "What's up with Google's next batch of flagships?",
         "source_link": "https://mashable.com/tech/google-pixel-11-everything-we-know"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglJ30Q0_3tS3R4yrNdyR3sDdvBam1plVfmenBAFVPGmaVMErJ_oq_zXoIpeAjrFrkkFkudKUSHI-h82FGoiIJlkT2JghjQKrO2p7VmzpduPGv26gGgJ8I04b-U7eY1sihmIer0bGTtIof3CwH1vKmQOYLDvhNsYICoALOLhehhaLC65fPmAH_fpT0BrKk/s1600/hotel-wifi.jpg",
+        "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware - The Hacker News",
+        "description": "Microsoft links hijacked hotel Wi-Fi to fake updates that deliver CornFlake, steal cloud tokens, and abuse device codes to target travelers.",
+        "source_link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html"
+      },
+      {
+        "rank": 5,
         "image": "https://cdn.mos.cms.futurecdn.net/doVmid2s8j2gWYt2QbtfYL-2048-80.jpg",
         "title": "Samsung Galaxy S27 Ultra leak reveals massive camera and battery overhaul - Android Central",
         "description": "A new leak points to a silicon-carbon battery and a redesigned camera island for Samsung's next Ultra model.",
         "source_link": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s27-ultra-leak-reveals-massive-camera-and-battery-overhaul"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://images.macrumors.com/t/n8uKVgvfhZ6YJOytHxoojM6b0IM=/1960x/article-new/2025/03/M3-iPad-Air.jpg",
+        "title": "iPad Air Could Finally Be Redesigned Next Year - MacRumors",
+        "description": "The iPad Air has looked the same since 2020, making it the longest-running design in Apple's tablet lineup. There is a reasonable case that 2027...",
+        "source_link": "https://www.macrumors.com/2026/07/31/ipad-air-could-be-redesigned-next-year/"
+      },
+      {
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/verge-sharge-disk-pro-2-sean-hollister-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC - The Verge",
         "description": "Hands-on the Sharge Disk Pro 2, an SSD enclosure that doubles as a USB-C to HDMI dock, one that even works with the Nintendo Switch 2.",
         "source_link": "https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/2026-07/assets_2026_07_1784295093_copy-of-ea_fc27_ult_keyart_rgb_16x9_1920x1080_alt_0.jpg?w=1120&h=630",
         "title": "EA FC 27 Drops Official Career Mode Deep Dive Trailer Featuring New Gameplay - Bleacher Report",
         "description": "The hype for EA FC 27 continues to build with EA Sports dropping a new deep dive trailer for career mode in this year's game.",
         "source_link": "https://bleacherreport.com/articles/25460359-ea-fc-27-drops-official-career-mode-deep-dive-trailer-featuring-new-gameplay"
       },
       {
-        "rank": 5,
-        "image": "https://gizmodo.com/app/uploads/2026/07/cipherx-tattoo-1200x675.png",
-        "title": "A London Startup Is Selling Permanent Stick-On Tattoos\u2014and It Wants to Do Mail Order - Gizmodo",
-        "description": "Concerned parents of the world, unite.",
-        "source_link": "https://gizmodo.com/a-london-startup-is-selling-permanent-stick-on-tattoos-and-it-wants-to-do-mail-order-2000793432"
-      },
-      {
-        "rank": 6,
-        "image": "https://assets-prd.ignimgs.com/2026/07/31/gaminghardwarenevercheapagain-blogroll-1785528740411.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Even after the RAM crisis ends, the era of affordable gaming hardware is gone for good. - IGN",
-        "description": "Gaming hardware is more expensive than ever. There\u2019s a few different reasons things are as bad as they are, but regardless of how we got here, there\u2019s no denying it\u2019s an absolutely terrible time to be in the market for a new gaming console or PC. Even worse i\u2026",
-        "source_link": "https://www.ign.com/articles/the-500-console-is-dead"
-      },
-      {
-        "rank": 7,
+        "rank": 9,
         "image": "https://cdn.newser.com/image/1702492-12-20260731145933.jpeg",
         "title": "Tiny Difference in Username Sent Innocent Man to Prison - newser.com",
         "description": "Canadian man served 18 months because police didn't notice difference in underscores",
         "source_link": "https://www.newser.com/story/393891/missing-underscore-in-name-sent-innocent-man-to-prison.html"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/last-sentinel-HD-1920x1080.jpeg",
-        "title": "Tencent\u2019s \u201cGTA Rival\u201d Last Sentinel Collapses After Six Years of Development as 80 Layoffs Hit the Studio Behind It - Wccftech",
-        "description": "Tencent's GTA rival Last Sentinel has collapsed after six years in development, with 80 layoffs hitting LightSpeed LA, the studio behind it",
-        "source_link": "https://wccftech.com/tencent-last-sentinel-gta-rival-collapses-layoffs/"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-pixel-tag-leak.jpg.webp?quality=90&strip=all&crop=2.25%2C0%2C95.5%2C100&w=1200",
-        "title": "Google might launch a \u2018Pixel Tag\u2019 - The Verge",
-        "description": "Google is seemingly working on an item tracker that might compete with Apple\u2019s AirTag. 9to5Google obtained an image of something called a \u201cGoogle Pixel Tag.\u201d",
-        "source_link": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker"
       }
     ],
     "trending_movies": [
@@ -111,31 +111,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-        "title": "Disclosure Day",
-        "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorol...",
-        "source_link": "https://www.themoviedb.org/movie/1275779"
+        "image": "https://image.tmdb.org/t/p/w200/ddMt3IAgEHE0SWBjm97jR8gKx9B.jpg",
+        "title": "Nightborn",
+        "description": "In Finnish forest, Saga and her husband Jon embark on a new chapter as parents. But Saga's joy is overshadowed by a chilling suspicion about their new...",
+        "source_link": "https://www.themoviedb.org/movie/964849"
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/fCAURTUx3YfsJ8k9I0UamjSILiR.jpg",
+        "title": "The Devil Wears Prada 2",
+        "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant...",
+        "source_link": "https://www.themoviedb.org/movie/1314481"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/wy3w5vAs00Id06Sm9a8TOvIA4bX.jpg",
         "title": "WWE SummerSlam 2026: Saturday",
         "description": "The 2026 SummerSlam, also promoted as SummerSlam: Minnesota, is a professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. I...",
         "source_link": "https://www.themoviedb.org/movie/1741109"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-        "title": "Avatar Aang: The Last Airbender",
-        "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
-        "source_link": "https://www.themoviedb.org/movie/980431"
-      },
-      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
+        "image": "https://image.tmdb.org/t/p/w200/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+        "title": "Disclosure Day",
+        "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorol...",
+        "source_link": "https://www.themoviedb.org/movie/1275779"
       }
     ]
   }
