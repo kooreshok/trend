@@ -1,76 +1,76 @@
 {
-  "last_updated": "August 03, 2026, 18:46 UTC",
+  "last_updated": "August 03, 2026, 20:23 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/google-logo-2025-02.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google voice redesign merges AI Mode, Search Live, & Song lookup on Android - 9to5Google",
+        "description": "The voice search button accessible from the Google bar found on most Android homescreens is getting a big redesign.",
+        "source_link": "http://9to5google.com/2026/08/02/google-voice-search-redesign-2/"
+      },
+      {
+        "rank": 2,
+        "image": "https://gizmodo.com/app/uploads/2026/03/M5-MacBook-Air-review-02-1200x675.jpg",
+        "title": "If You\u2019re Struggling to Find a MacBook Air Right Now, This Is Probably Why - Gizmodo",
+        "description": "You'll never guess what's reportedly causing the shortage.",
+        "source_link": "https://gizmodo.com/if-youre-struggling-to-find-a-macbook-air-right-now-this-is-probably-why-2000793739"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.windowslatest.com/wp-content/uploads/2026/08/Windows-11s-new-WinUI-3-based-Print-Management-app-replacing-the-legacy-MMC-printer-admin-tool.jpg",
+        "title": "Windows 11's WinUI 3 modernization just reached one of its oldest legacy tools, meet the new Print Management - Windows Latest",
+        "description": "Windows 11's WinUI 3 modernization reaches Print Management, an early Insider test replacing the decades-old MMC-based printer admin tool.",
+        "source_link": "https://www.windowslatest.com/2026/08/02/windows-11s-winui-3-modernization-just-reached-one-of-its-oldest-legacy-tools-meet-the-new-print-management/"
+      },
+      {
+        "rank": 4,
         "image": "https://imageio.forbes.com/specials-images/imageserve/6a6cccfe09399171b8d955b1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "Apple iPhone 18 Pro Release Date September Signaled In Keynote Update - Forbes",
         "description": "A new report suggests when Apple will announce its key September event, revealing when the iPhone 18 Pro will go on sale.",
         "source_link": "https://www.forbes.com/sites/davidphelan/2026/08/02/apple-iphone-18-pro-september-release-date-signaled-in-keynote-update/"
       },
       {
-        "rank": 2,
+        "rank": 5,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/AirPods-Pro-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple\u2019s rumored AirPods with cameras could potentially debut as soon as next month - 9to5Mac",
+        "description": "Apple has been working on camera-equipped AirPods for quite some time, with Visual Intelligence at the forefront of the product....",
+        "source_link": "https://9to5mac.com/2026/08/02/airpods-with-cameras-visual-intelligence-could-arrive-this-year/"
+      },
+      {
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24895379/VLS_5062.JPG?quality=90&strip=all&crop=0%2C10.486021930258%2C100%2C79.027956139484&w=1200",
+        "title": "Xbox prices are increasing by up to \u20ac200 or \u00a3170 - The Verge",
+        "description": "Microsoft\u2019s struggling Xbox console continues to see unprecedented price bumps in the face of RAM and storage shortages.",
+        "source_link": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros"
+      },
+      {
+        "rank": 7,
+        "image": "https://i.pcmag.com/imagery/articles/05vBUqakWQQyGO0VeUnKaIx-1.fit_lim.size_1200x630.v1785673937.jpg",
+        "title": "Remember Pok\u00e9mon Ruby? Game Boy Advance Remake Is on the Way - PCMag",
+        "description": "Though it won't support vintage cartridges, Ayaneo's Android handheld will emulate classic console titles while retaining the general look and feel of the 2001 Nintendo handheld.",
+        "source_link": "https://www.pcmag.com/news/remember-pokemon-ruby-game-boy-advance-remake-is-on-the-way"
+      },
+      {
+        "rank": 8,
+        "image": "https://www.phoronix.net/image.php?id=2026&image=intel_starfire_linux_1",
+        "title": "Linux 7.3 To Begin Laying The Groundwork For Intel Starfire - Phoronix",
+        "description": "Intel recently announced Starfire as their new Panther Lake derived, space-grade SoC designed for extreme environments..",
+        "source_link": "https://www.phoronix.com/news/Intel-Starfire-Starts-Linux-7.3"
+      },
+      {
+        "rank": 9,
         "image": "https://insider-gaming.com/wp-content/uploads/2024/05/playstation-state-of-play.jpg",
         "title": "PlayStation Petition Loses Steam Even As Sony Doubles Down on Disc Decision - Insider Gaming",
         "description": "Sony Interactive Entertainment has not backed down from the decision to scrap discs, but the energy in the debate is already waning.",
         "source_link": "https://insider-gaming.com/playstation-petition-loses-steam-sony-double-down-disc/"
       },
       {
-        "rank": 3,
-        "image": "https://gizmodo.com/app/uploads/2026/07/Xgimi-Memomind-One-review-18-1200x675.jpg",
-        "title": "Xgimi MemoMind One Review: You Don\u2019t Want Smart Glasses That Record Everything You Say - Gizmodo",
-        "description": "I tested Xgimi's MemoMind One, and I don't think I ever want to venture down that path again.",
-        "source_link": "https://gizmodo.com/you-dont-want-smart-glasses-that-record-everything-you-say-trust-me-2000793058"
-      },
-      {
-        "rank": 4,
+        "rank": 10,
         "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/08/Apple-Maps-vs.-Google-Maps-vs.-Waze.jpg",
         "title": "Apple Maps vs. Google Maps vs. Waze: Which CarPlay App Wins? - Geeky Gadgets",
         "description": "Which CarPlay navigation app deserves your dashboard? We test Google Maps' new 3D buildings directly against Waze and the iOS 27 Apple Maps.",
         "source_link": "https://www.geeky-gadgets.com/best-carplay-navigation-app/"
-      },
-      {
-        "rank": 5,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/07/woman-sleeping-while-wearing-a-blue-google-fitbit-air-tracker-device.jpg?w=1600&h=900&fit=crop",
-        "title": "I almost returned my Google Fitbit Air for broken sleep tracking until I changed one setting - Android Police",
-        "description": "A single tweak in Google Health revived the sleep points I'd been missing",
-        "source_link": "https://www.androidpolice.com/i-almost-returned-google-fitbit-air-broken-sleep-tracking-until-i-changed-setting/"
-      },
-      {
-        "rank": 6,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/samsung-phone-scanning-a-book-page-with-the-camera-app.png?w=1600&h=900&fit=crop",
-        "title": "I almost downloaded another app until I found this Samsung Camera feature - Android Police",
-        "description": "It's not perfect, and that's the point",
-        "source_link": "https://www.androidpolice.com/i-almost-downloaded-another-app-until-i-found-this-samsung-camera-feature/"
-      },
-      {
-        "rank": 7,
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/07/galaxy-watch-ultra-2-fitbit-oura-ring-5-desk-2.JPG?w=1600&h=900&fit=crop",
-        "title": "I tracked sleep with Galaxy Watch Ultra 2, Fitbit Air, and Oura Ring 5. This is the one I'd buy - Android Police",
-        "description": "Which one should you share your bed with?",
-        "source_link": "https://www.androidpolice.com/i-tracked-sleep-with-the-galaxy-watch-ultra-2-fitbit-air-and-oura-ring-5/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/07/kef-ls-luxe-speakers-lead.webp",
-        "title": "10 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
-        "description": "Catching you up on the past week\u2019s most notable product releases.",
-        "source_link": "https://www.gearpatrol.com/audio/best-new-tech-releases-8-02-26/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/07/watches-you-missed-august-2-2026-lead.webp",
-        "title": "26 New Watches You Might\u2019ve Missed from Citizen, Timex, Breitling, TAG Heuer and More - gearpatrol.com",
-        "description": "Keep time with the industry's most exciting new watches, including Citizen, Timex, Breitling, TAG Heuer and more.",
-        "source_link": "https://www.gearpatrol.com/watches/watches-you-missed-august-2-2026/"
-      },
-      {
-        "rank": 10,
-        "image": "https://assetsio.gnwcdn.com/SHT_preview_11.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Silent Hill: Townfall's dev team wrecked old TVs with magnets to make its in-game gadget feel real - Eurogamer.net",
-        "description": "Silent Hill: Townfall studio Screen Burn used broken TVs and magnets to make its in-game gadget, the CRTV, feel analogue as well as look it.",
-        "source_link": "https://www.eurogamer.net/silent-hill-townfall-crtv"
       }
     ],
     "trending_movies": [
@@ -111,17 +111,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
         "title": "Disclosure Day",
         "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorol...",
         "source_link": "https://www.themoviedb.org/movie/1275779"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
         "rank": 8,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
+        "image": "https://image.tmdb.org/t/p/w200/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+        "title": "The Devil's Mouth",
+        "description": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low,...",
+        "source_link": "https://www.themoviedb.org/movie/1481343"
       }
     ]
   }
