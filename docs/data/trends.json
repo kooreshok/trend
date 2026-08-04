@@ -1,76 +1,76 @@
 {
-  "last_updated": "August 03, 2026, 22:04 UTC",
+  "last_updated": "August 04, 2026, 00:04 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://techcrunch.com/wp-content/uploads/2024/10/macbook-air-2024-update.png?resize=1200,618",
+        "title": "The global memory shortage hits the MacBook Air - TechCrunch",
+        "description": "The global memory chip shortage appears to be affecting the availability of Apple\u2019s most popular Mac.",
+        "source_link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/"
+      },
+      {
+        "rank": 2,
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1364485108/image_1364485108.jpg?io=getty-c-w630",
+        "title": "Google pulls AI feature after users create fake satellite images (GOOGL:NASDAQ) - Seeking Alpha",
+        "description": "Google paused a new AI feature in Google Earth after it created realistic fake satellite images.",
+        "source_link": "https://seekingalpha.com/news/4623153-google-pulls-ai-feature-after-users-create-fake-satellite-images"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-fold-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Here\u2019s how iPhone Ultra\u2019s form factor could compare to other Apple products - 9to5Mac",
+        "description": "Next month, Apple will be unveiling its first foldable iPhone \u2013 rumored to be called iPhone Ultra. It\u2019s going to...",
+        "source_link": "https://9to5mac.com/2026/08/02/heres-how-iphone-ultras-form-factor-could-compare-to-other-apple-products/"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.bgr.com/img/gallery/3-tech-brands-you-might-not-realize-are-owned-by-tcl/l-intro-1785282788.jpg",
+        "title": "3 Tech Brands You Might Not Realize Are Owned By TCL - bgr.com",
+        "description": "TCL owns several other tech brands that help expand its marketplace reach beyond TVs and smartphones. Among the most prominent are Palm, iFFALCON, and RayNeo.",
+        "source_link": "https://www.bgr.com/2226201/tech-brands-owned-by-tcl/"
+      },
+      {
+        "rank": 5,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/google-logo-2025-02.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google voice redesign merges AI Mode, Search Live, & Song lookup on Android - 9to5Google",
         "description": "The voice search button accessible from the Google bar found on most Android homescreens is getting a big redesign.",
         "source_link": "http://9to5google.com/2026/08/02/google-voice-search-redesign-2/"
       },
       {
-        "rank": 2,
-        "image": "https://gizmodo.com/app/uploads/2026/03/M5-MacBook-Air-review-02-1200x675.jpg",
-        "title": "If You\u2019re Struggling to Find a MacBook Air Right Now, This Is Probably Why - Gizmodo",
-        "description": "You'll never guess what's reportedly causing the shortage.",
-        "source_link": "https://gizmodo.com/if-youre-struggling-to-find-a-macbook-air-right-now-this-is-probably-why-2000793739"
-      },
-      {
-        "rank": 3,
+        "rank": 6,
         "image": "https://www.bgr.com/img/gallery/5-essential-apps-to-download-on-your-nvidia-shield-tv-pro/l-intro-1785254107.jpg",
         "title": "5 Essential Apps To Download On Your Nvidia Shield TV Pro - bgr.com",
         "description": "If you recently picked up an Nvidia Shield TV Pro, make sure to check out these essential apps to make the most of your new device.",
         "source_link": "https://www.bgr.com/2225145/essential-apps-download-nvidia-shield-tv-pro/"
       },
       {
-        "rank": 4,
+        "rank": 7,
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-S27-Ultra-Infohaeppchen-Vom-Kamera-Design-ueber-Preisanstiege-bis-zu-fehlenden-Features.jpg",
+        "title": "Samsung Galaxy S27 Ultra: Weird camera designs and higher prices tipped - Notebookcheck",
+        "description": "We\u2019re halfway between the Galaxy S26 launch and the next big Galaxy Unpacked event and the rumors surrounding the Galaxy S27 series expected in January or February 2027 are starting to heat up. For the first time, four Galaxy S27 phones are set to hit the mar\u2026",
+        "source_link": "https://www.notebookcheck.net/Samsung-Galaxy-S27-Ultra-Weird-camera-designs-and-higher-prices-tipped.1358369.0.html"
+      },
+      {
+        "rank": 8,
         "image": "https://imageio.forbes.com/specials-images/imageserve/6a6cccfe09399171b8d955b1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "Apple iPhone 18 Pro Release Date September Signaled In Keynote Update - Forbes",
         "description": "A new report suggests when Apple will announce its key September event, revealing when the iPhone 18 Pro will go on sale.",
         "source_link": "https://www.forbes.com/sites/davidphelan/2026/08/02/apple-iphone-18-pro-september-release-date-signaled-in-keynote-update/"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://mp1st.com/wp-content/uploads/2026/08/marvel-wolverine-butt-600x338.jpg",
         "title": "Marvel\u2019s Wolverine Will Feature a Handful of Brief Sequences With \u201cExposed Buttocks\u201d - MP1st",
         "description": "Marvel's Wolverine will feature partial nudity confirmed by its summary, as it earns its M for Mature rating.",
         "source_link": "https://mp1st.com/news/marvels-wolverine-feature-a-handful-brief-sequences-with-exposed-buttocks"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/10/AirPods-Pro-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple\u2019s rumored AirPods with cameras could potentially debut as soon as next month - 9to5Mac",
         "description": "Apple has been working on camera-equipped AirPods for quite some time, with Visual Intelligence at the forefront of the product....",
         "source_link": "https://9to5mac.com/2026/08/02/airpods-with-cameras-visual-intelligence-could-arrive-this-year/"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24895379/VLS_5062.JPG?quality=90&strip=all&crop=0%2C10.486021930258%2C100%2C79.027956139484&w=1200",
-        "title": "Xbox prices are increasing by up to \u20ac200 or \u00a3170 - The Verge",
-        "description": "Microsoft\u2019s struggling Xbox console continues to see unprecedented price bumps in the face of RAM and storage shortages.",
-        "source_link": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.bgr.com/img/gallery/8-new-audio-upgrades-to-look-out-for-in-2026/l-intro-1785347770.jpg",
-        "title": "8 New Audio Upgrades To Look Out For In 2026 - bgr.com",
-        "description": "From record players and desk speakers to wireless headphones, here are some of the newest audio upgrades you should consider adding to your collection.",
-        "source_link": "https://www.bgr.com/2226365/new-audio-upgrades-look-out-for/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.cnet.com/wp-content/uploads/sites/2/Razer-Blade-18-lid.jpeg",
-        "title": "Razer Blade 18 Review: Biggest (but Not Heaviest), Baddest Gaming Laptop Money Can Buy - CNET",
-        "description": "And it will take a lot of money to buy.",
-        "source_link": "https://www.cnet.com/tech/computing/razer-blade-18-gaming-laptop-review/"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.phoronix.net/image.php?id=2026&image=intel_starfire_linux_1",
-        "title": "Linux 7.3 To Begin Laying The Groundwork For Intel Starfire - Phoronix",
-        "description": "Intel recently announced Starfire as their new Panther Lake derived, space-grade SoC designed for extreme environments..",
-        "source_link": "https://www.phoronix.com/news/Intel-Starfire-Starts-Linux-7.3"
       }
     ],
     "trending_movies": [
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-        "title": "Masters of the Universe",
-        "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
-        "source_link": "https://www.themoviedb.org/movie/454639"
+        "image": "https://image.tmdb.org/t/p/w200/lH8k9uCWYn2b2gsYleqYBDPbWa8.jpg",
+        "title": "The Devil's Mouth",
+        "description": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low,...",
+        "source_link": "https://www.themoviedb.org/movie/1481343"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/vBBZSRVB6X1dcVJq74E5WPege3N.jpg",
-        "title": "WWE SummerSlam 2026: Sunday",
+        "image": "https://image.tmdb.org/t/p/w200/mASBuCwVd01yqacg4dFBAwsWMAh.jpg",
+        "title": "WWE SummerSlam 2026: Saturday",
         "description": "The 2026 SummerSlam, also promoted as SummerSlam: Minnesota, is a professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. I...",
-        "source_link": "https://www.themoviedb.org/movie/1741545"
+        "source_link": "https://www.themoviedb.org/movie/1741109"
       }
     ]
   }
