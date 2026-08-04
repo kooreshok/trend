@@ -1,76 +1,76 @@
 {
-  "last_updated": "August 04, 2026, 04:08 UTC",
+  "last_updated": "August 04, 2026, 07:33 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/Pixel-11-with-Gemini-Intelligence-Evan-Blass-leakmail-scaled-1-scaled.jpg",
+        "title": "Mega Pixel 11 series leak leaves nothing to the imagination - Android Authority",
+        "description": "A new Pixel 11 series leak has given away detailed specs and pricing for the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold.",
+        "source_link": "https://www.androidauthority.com/pixel-11-leak-specs-us-price-3693656/"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/08/Suikoden-STAR-LEAP-Japan_08-03-26.jpg",
+        "title": "Suikoden STAR LEAP launches August 7 in Japan - Gematsu",
+        "description": "Free-to-play RPG Suikoden STAR LEAP will launch for iOS via App Store and Android via Google Play on August 7 in Japan, Konami announced. Information regarding the global launch for PC via Steam, i\u2026",
+        "source_link": "https://www.gematsu.com/2026/08/suikoden-star-leap-launches-august-7-in-japan"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/Google-AI-Studio-Mobile-App.jpg",
+        "title": "Google is canceling an unreleased app after 800,000 people pre-ordered it - androidauthority.com",
+        "description": "The company says it will bring AI-powered app creation directly into the Gemini app, eliminating the need for a separate app.",
+        "source_link": "https://www.androidauthority.com/google-ai-studio-mobile-app-canceled-3693645/"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-01-image-10.jpg",
+        "title": "der8auer tests PC chimney effect, dropping CPU temps by 19\u00b0C with a 110cm 3D-printed tower - TechSpot",
+        "description": "Building one meant understanding what a chimney actually does, which isn't quite what the forum posts assume. Hot air rising is just convection, and it happens around...",
+        "source_link": "https://www.techspot.com/news/113323-der8auer-tests-pc-chimney-effect-dropping-cpu-temps.html"
+      },
+      {
+        "rank": 5,
         "image": "https://www.gematsu.com/wp-content/uploads/2026/08/Palworld-Online-Ann_08-02-26.jpg",
         "title": "Palworld Online announced for iOS, Android - Gematsu",
         "description": "Garena has announced\u00a0Palworld Online, a \u201clarge-scale\u201d multiplayer survival adventure game currently in development under licensing from Pocketpair. It will be available for iOS and Andr\u2026",
         "source_link": "https://www.gematsu.com/2026/08/palworld-online-announced-for-ios-android"
       },
       {
-        "rank": 2,
+        "rank": 6,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/08/Changeable-Guardian-ESTIQUE_08-02-26.jpg",
+        "title": "Changeable Guardian ESTIQUE for PS5, Xbox Series, Switch, and PC launches August 6 - Gematsu",
+        "description": "AMATA Games will release Cat Hui Trading LLC-developed side-scrolling robot shoot \u2019em up Changeable Guardian ESTIQUE for PlayStation 5, Xbox Series, Switch, and PC via Steam and Microsoft Sto\u2026",
+        "source_link": "https://www.gematsu.com/2026/08/changeable-guardian-estique-for-ps5-xbox-series-switch-and-pc-launches-august-6"
+      },
+      {
+        "rank": 7,
+        "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt39c814cfb36b3847/6a6f21fe558ad2a58d396ee9/dying_light_2.jpg",
+        "title": "PlayStation Plus August addition includes free DLC for all players - GAMINGbible",
+        "description": "More bang for your buck.",
+        "source_link": "https://www.gamingbible.com/news/platform/playstation/dying-light-2-free-dlc-playstation-plus-932311-20260802"
+      },
+      {
+        "rank": 8,
         "image": "https://media.eventhubs.com/images/2026/08/02-street-fighter-season-4-patch-notest.webp",
         "title": "Street Fighter 6 Season 4 update patch notes - eventhubs.com",
         "description": "The time for Street Fighter 6's Season 4 update has finally arrived, and players can now check out what is going to be changing about the fighting game.Capcom just released the official patch notes for the Season 4 ...",
         "source_link": "https://www.eventhubs.com/news/2026/aug/02/street-fighter-season-4-patch-notes/"
       },
       {
-        "rank": 3,
+        "rank": 9,
         "image": "https://www.bgr.com/img/gallery/5-disadvantages-of-switching-to-a-smart-ring/l-intro-1785339997.jpg",
         "title": "5 Disadvantages Of Switching To A Smart Ring - bgr.com",
         "description": "The problem with smart rings is that they lack a screen, have fewer style options, need to be sized accurately, and don't fit comfortably if lifting weights.",
         "source_link": "https://www.bgr.com/2226138/disadvantages-switching-to-smart-ring/"
       },
       {
-        "rank": 4,
+        "rank": 10,
         "image": "https://www.bgr.com/img/gallery/star-treks-5-most-iconic-sci-fi-gadgets-ranked/l-intro-1785526295.jpg",
         "title": "Star Trek's 5 Most Iconic Sci-Fi Gadgets, Ranked - bgr.com",
         "description": "Star Trek is regarded as a cornerstone of modern science-fiction television, and these five gadgets have become just as iconic as a result.",
         "source_link": "https://www.bgr.com/2228187/star-trek-most-iconic-sci-fi-gadgets-ranked/"
-      },
-      {
-        "rank": 5,
-        "image": "https://techcrunch.com/wp-content/uploads/2024/10/macbook-air-2024-update.png?resize=1200,618",
-        "title": "The global memory shortage hits the MacBook Air - TechCrunch",
-        "description": "The global memory chip shortage appears to be affecting the availability of Apple\u2019s most popular Mac.",
-        "source_link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/"
-      },
-      {
-        "rank": 6,
-        "image": "https://assetsio.gnwcdn.com/final-fantasy-7-revelation-gameplay-screen-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "As hype builds for Final Fantasy 7 Revelation, Remake and Rebirth continue to sell well - Eurogamer.net",
-        "description": "Final Fantasy 7 Remake and Rebirth have been selling \"several times better\" than expected in the wake of Revelation's Summer Game Fest 2026 reveal.",
-        "source_link": "https://www.eurogamer.net/final-fantasy-7-revelation-remake-rebirth-sales"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-fold-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Here\u2019s how iPhone Ultra\u2019s form factor could compare to other Apple products - 9to5Mac",
-        "description": "Next month, Apple will be unveiling its first foldable iPhone \u2013 rumored to be called iPhone Ultra. It\u2019s going to...",
-        "source_link": "https://9to5mac.com/2026/08/02/heres-how-iphone-ultras-form-factor-could-compare-to-other-apple-products/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.bgr.com/img/gallery/3-tech-brands-you-might-not-realize-are-owned-by-tcl/l-intro-1785282788.jpg",
-        "title": "3 Tech Brands You Might Not Realize Are Owned By TCL - bgr.com",
-        "description": "TCL owns several other tech brands that help expand its marketplace reach beyond TVs and smartphones. Among the most prominent are Palm, iFFALCON, and RayNeo.",
-        "source_link": "https://www.bgr.com/2226201/tech-brands-owned-by-tcl/"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/09/google-logo-2025-02.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google voice redesign merges AI Mode, Search Live, & Song lookup on Android - 9to5Google",
-        "description": "The voice search button accessible from the Google bar found on most Android homescreens is getting a big redesign.",
-        "source_link": "http://9to5google.com/2026/08/02/google-voice-search-redesign-2/"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.bgr.com/img/gallery/5-essential-apps-to-download-on-your-nvidia-shield-tv-pro/l-intro-1785254107.jpg",
-        "title": "5 Essential Apps To Download On Your Nvidia Shield TV Pro - bgr.com",
-        "description": "If you recently picked up an Nvidia Shield TV Pro, make sure to check out these essential apps to make the most of your new device.",
-        "source_link": "https://www.bgr.com/2225145/essential-apps-download-nvidia-shield-tv-pro/"
       }
     ],
     "trending_movies": [
@@ -97,45 +97,45 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-        "title": "Supergirl",
-        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
-        "source_link": "https://www.themoviedb.org/movie/1081003"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
         "title": "Soulm8te",
         "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts...",
         "source_link": "https://www.themoviedb.org/movie/1307118"
       },
       {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+        "title": "Supergirl",
+        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
+        "source_link": "https://www.themoviedb.org/movie/1081003"
+      },
+      {
         "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+        "title": "Evil Dead Burn",
+        "description": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-...",
+        "source_link": "https://www.themoviedb.org/movie/1212763"
+      },
+      {
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
         "title": "Disclosure Day",
         "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorol...",
         "source_link": "https://www.themoviedb.org/movie/1275779"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
-        "title": "Avatar Aang: The Last Airbender",
-        "description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he emba...",
-        "source_link": "https://www.themoviedb.org/movie/980431"
-      },
-      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/vBBZSRVB6X1dcVJq74E5WPege3N.jpg",
-        "title": "WWE SummerSlam 2026: Sunday",
-        "description": "The 2026 SummerSlam, also promoted as SummerSlam: Minnesota, is a professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. I...",
-        "source_link": "https://www.themoviedb.org/movie/1741545"
+        "image": "https://image.tmdb.org/t/p/w200/w4GrHRGgRQOYG95f2oVLYzGJ4Md.jpg",
+        "title": "Storm on Sesame Street",
+        "description": "In the Storm on Sesame Street special, Elmo and his friends work together to get ready for a big storm, learning how to be prepared, have courage, and...",
+        "source_link": "https://www.themoviedb.org/movie/1740877"
       },
       {
         "rank": 10,
