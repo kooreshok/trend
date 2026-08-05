@@ -1,85 +1,92 @@
 {
-  "last_updated": "August 05, 2026, 18:16 UTC",
+  "last_updated": "August 05, 2026, 20:22 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Asus-Googlebook-leak-full-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Here\u2019s the first Asus Googlebook as the floodgates start to open - 9to5Google",
+        "description": "Another Googlebook has surfaced online just a day after images of a separate PC maker\u2019s version made an appearance. This...",
+        "source_link": "http://9to5google.com/2026/08/04/heres-the-first-asus-googlebook/"
+      },
+      {
+        "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2026/08/record.jpg",
+        "title": "Fans Upset Over Some New Vinyl Records Missing Content And Final Mixes - Kotaku",
+        "description": "Artists like Olivia Rodrigo and Raye are catching flak from collectors and fans for selling incomplete records",
+        "source_link": "https://kotaku.com/physical-media-fans-are-sick-of-expensive-vinyl-albums-with-unfinished-tracks-or-missing-songs-a-bait-and-switch-isnt-cool-2000721582"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/04/Pixel-10a-camera-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Android 17 August update rolling out with three Pixel 10 fixes - 9to5Google",
+        "description": "Google is rolling out the August 2026 security patch for Android 17 on the Pixel 10 Pro, Pixel 10 Pro XL, Pixel 10 Pro Fold, and Pixel 10a.",
+        "source_link": "http://9to5google.com/2026/08/04/android-17-august-pixel-update/"
+      },
+      {
+        "rank": 4,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iViSImCe2Rf8/v1/1200x801.jpg",
+        "title": "Apple Gears Up for September iPhone Launch With Retail Employee Lottery - Bloomberg.com",
+        "description": "With Apple Inc. gearing up for its biggest product launch of the year, the company is opening a lottery for US retail employees who want to help staff the in-person unveiling.",
+        "source_link": "https://www.bloomberg.com/news/articles/2026-08-04/apple-gears-up-for-september-iphone-launch-with-retail-employee-lottery"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/pixel-11-google-store-teaser.jpg",
+        "title": "Fresh Pixel 11 series leak reveals thinner camera bar and 30-hour battery - Android Authority",
+        "description": "A new leak has come for the base model Pixel 11 and Pixel 11 Pro Fold, revealing marketing materials for both phones.",
+        "source_link": "https://www.androidauthority.com/pixel-11-series-marketing-materials-3694475/"
+      },
+      {
+        "rank": 6,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/08/Crimson-Moon-Date_08-04-26.jpg",
+        "title": "Crimson Moon launches September 1 - Gematsu",
+        "description": "Gothic action adventure RPG Crimson Moon will launch for PlayStation 5, Xbox Series, and PC via Steam and Epic Games Store on September 1, developer ProbablyMonsters announced.",
+        "source_link": "https://www.gematsu.com/2026/08/crimson-moon-launches-september-1"
+      },
+      {
+        "rank": 7,
+        "image": null,
+        "title": "\u2018One of Our Biggest Reinventions in Recent History\u2019 \u2013 All of the Biggest Details on FC 27\u2019s Open World The Grounds Mode - IGN",
+        "description": null,
+        "source_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3VMRnB1UmFBVmhhQ3lrbDQ1OFNFMTdhbVBaeUEyclpsNkhyRExnVjJ5ODEzSE9iRnlxQWFQdDNXN3EwS01ZN2g5XzJpa0ZpQzBBNlJaRTI4OXVpVXQzdVNZSWpFaWZrak9RRGtEWWYyUUFWSUN6cGhWd0lCbm5heDdtOWZmaFZtOEYxM0dmN1M2ZTgtLTFyeg?oc=5"
+      },
+      {
+        "rank": 8,
+        "image": "https://kotaku.com/app/uploads/2026/08/cyberpunk-sale-1200x675.jpg",
+        "title": "Steam\u2019s Cyberpunk Sale Features Some Massive Classics At Their Lowest Ever Prices - kotaku.com",
+        "description": "Cyberpunk 2077 and RoboCop: Rogue City will barely trouble your wallet",
+        "source_link": "https://kotaku.com/steam-cyberpunk-sale-2077-robocop-rogue-city-uplink-ghostrunner-2000721522"
+      },
+      {
+        "rank": 9,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/12/Pixel-9-Pro-Fingerprint-Unlock-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google Password Manager passkeys could be at risk with new \u2018Pass-ta-key\u2019 attack - 9to5Google",
+        "description": "Passkeys are becoming more popular as a safer alternative to traditional passwords, but some cracks are starting to show after...",
+        "source_link": "http://9to5google.com/2026/08/04/google-password-manager-passkeys-could-be-at-risk/"
+      },
+      {
+        "rank": 10,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "iPhone 18 Pro will have three upgrades that have been rumored for years - 9to5Mac",
         "description": "iPhone 18 Pro is coming very soon, and expected to feature three upgrades that have been rumored for years. Here\u2019s what\u2019s coming.",
         "source_link": "https://9to5mac.com/2026/08/04/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/"
-      },
-      {
-        "rank": 2,
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/08/Mafia-DLC_08-04-26.jpg",
-        "title": "Mafia: The Old Country expansion \u2018Man of Honor\u2019 gameplay first look trailer - Gematsu",
-        "description": "Publisher 2K and developer Hangar 13 have released a three-minute gameplay first look trailer for Mafia: The Old Country expansion \u201cMan of Honor.\u201d",
-        "source_link": "https://www.gematsu.com/2026/08/mafia-the-old-country-expansion-man-of-honor-gameplay-first-look-trailer"
-      },
-      {
-        "rank": 3,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Pixel-Watch-5-leak-cover-Blass.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Pixel Watch 5 specs leak reveals what\u2019s new: \u2018Accelerated\u2019 chip, 2nd-gen Active Band, more - 9to5Google",
-        "description": "Full Pixel Watch 5 specs have leaked today and reveal that Google made a trio of key hardware changes over last year.",
-        "source_link": "http://9to5google.com/2026/08/04/pixel-watch-5-specs-leak-2/"
-      },
-      {
-        "rank": 4,
-        "image": "https://cdn.onemileatatime.com/wp-content/uploads/2026/02/Park-Hyatt-Kuala-Lumpur-51.jpeg",
-        "title": "My Strange Amex Credit Card Fraud: What Really Happened In Malaysia?! - One Mile at a Time",
-        "description": "I just had fraudulent transactions on an Amex card, and I find them to be particularly strange, given some recent Citi card fraud. Here's why.",
-        "source_link": "https://onemileatatime.com/insights/strange-amex-credit-card-fraud/"
-      },
-      {
-        "rank": 5,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-green.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "WhatsApp launches three new features to upgrade group chats - 9to5Mac",
-        "description": "WhatsApp has three upgrades for group chats launching today, including improvements to polls, @all mentions, and more.",
-        "source_link": "https://9to5mac.com/2026/08/04/whatsapp-launches-new-features-to-upgrade-group-chats/"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdm.link/app/uploads/2026/08/steinberg-classics.jpeg",
-        "title": "VST is 30 years old, and Steinberg is giving away some of its earliest plugins - CDM Create Digital Music",
-        "description": "It's the format that changed software music making forever: the VST plug-in format turns 30 this year. Steinberg is giving away updated versions of Neon, CS-40, Karlette, VB1, and LM7 -- some of its earliest plug-ins -- to celebrate. And that means you can ru\u2026",
-        "source_link": "https://cdm.link/vst-at-30-years-and-steinberg-classics-free/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-fold-hilight-leak-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Leak confirms Pixel 11 \u2018Glow\u2019 is called \u2018HiLight\u2019 and what it can do - 9to5Google",
-        "description": "As we reported on last week, the \u201cPixel Glow\u201d feature coming to the Pixel 11 series is likely going to...",
-        "source_link": "http://9to5google.com/2026/08/04/google-pixel-11-hilight-glow-leak/"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Next year\u2019s iPhone Pro models will have larger screen sizes, per leak - 9to5Mac",
-        "description": "Next year\u2019s 20th anniversary iPhone Pro models could bring new, larger screen sizes per a reputable leaker.",
-        "source_link": "https://9to5mac.com/2026/08/04/next-years-iphone-pro-models-will-have-larger-screen-sizes-per-leak/"
-      },
-      {
-        "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2026/08/stella-balde-e1785850013847.jpg",
-        "title": "Shift Up CEO Tries To Defend Stellar Blade: Blood Rain Slop Video From Fan Backlash And Continues To Get Roasted: 'Insane Cope' - Kotaku",
-        "description": "Kim Hyung Tae is at odds with some of the sequel's biggest boosters",
-        "source_link": "https://kotaku.com/shift-up-ceo-tries-to-defend-stellar-blade-blood-rain-slop-video-from-fan-backlash-and-continues-to-get-roasted-insane-cope-2000721498"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-        "title": "Evil Dead Burn",
-        "description": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-...",
-        "source_link": "https://www.themoviedb.org/movie/1212763"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+        "title": "Evil Dead Burn",
+        "description": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-...",
+        "source_link": "https://www.themoviedb.org/movie/1212763"
       },
       {
         "rank": 3,
@@ -97,17 +104,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg",
-        "title": "Lucky Strike",
-        "description": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy cr...",
-        "source_link": "https://www.themoviedb.org/movie/1594914"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
         "title": "Supergirl",
         "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
         "source_link": "https://www.themoviedb.org/movie/1081003"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg",
+        "title": "Lucky Strike",
+        "description": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy cr...",
+        "source_link": "https://www.themoviedb.org/movie/1594914"
       },
       {
         "rank": 7,
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
+        "title": "The Death of Robin Hood",
+        "description": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the...",
+        "source_link": "https://www.themoviedb.org/movie/1284465"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
         "title": "Backrooms",
         "description": "A strange doorway appears in the basement of a furniture showroom....",
         "source_link": "https://www.themoviedb.org/movie/1083381"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-        "title": "Michael",
-        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
-        "source_link": "https://www.themoviedb.org/movie/936075"
       }
     ]
   }
