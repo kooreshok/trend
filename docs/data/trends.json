@@ -1,69 +1,76 @@
 {
-  "last_updated": "August 05, 2026, 09:32 UTC",
+  "last_updated": "August 05, 2026, 11:55 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://kubrick.htvapps.com/vidthumb/2d6d2be3-042b-4239-91fd-3736f6c5f8c1/9e9cb804-16d9-4975-97b2-f7cb314fa58e.jpg?crop=0.816xw%3A0.815xh%3B0.0212xw%2C0&resize=1200%3A*",
+        "title": "Microsoft warns travelers amid hotel Wi-Fi hacks - WMUR",
+        "description": "Microsoft is warning travelers to be cautious when connecting to hotel Wi-Fi networks after identifying a campaign in which hackers use fake login pages to steal account credentials. The warning comes as many Granite Staters head out on vacation or welcome vi\u2026",
+        "source_link": "https://www.wmur.com/article/microsoft-hotel-hacks/73337749"
+      },
+      {
+        "rank": 2,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igdRTndkBnd4/v0/1200x800.jpg",
+        "title": "Apple Briefly Takes Telegram Off App Store Over Abusive Content - Bloomberg.com",
+        "description": "Apple Inc. briefly removed the Telegram messaging app from its App Store after finding content on the platform that violated a ban on child sexual abuse material.",
+        "source_link": "https://www.bloomberg.com/news/articles/2026-08-04/apple-briefly-takes-telegram-off-app-store-over-abusive-content"
+      },
+      {
+        "rank": 3,
         "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-07/30/17/thumb/T5gru-_8N.jpg?crop=5999:3141;0,5%26downsize=1250:*",
         "title": "I'm Warning You, These 16 Absolutely Cooky Facts Will Forever Occupy Real Estate In Your Brain - BuzzFeed",
         "description": "Can't wait to whip one of these out at a dinner party 10 years from now.",
         "source_link": "https://www.buzzfeed.com/nicolebeckett/weirdest-facts"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "image": "https://images.nintendolife.com/afe968594129b/large.jpg",
+        "title": "Tetris 99's New Crossover Event Celebrates Splatoon Raiders, Unlock A Special Theme - Nintendo Life",
+        "description": "Drop in later this week",
+        "source_link": "https://www.nintendolife.com/news/2026/08/tetris-99s-new-crossover-event-celebrates-splatoon-raiders-unlock-a-special-theme"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/07/ps-plus-august.jpg?resize=1200,630",
+        "title": "PlayStation Plus Essential August Monthly Free Games Rolling Out Now - PlayStation LifeStyle",
+        "description": "PS Plus Essential August 2026 monthly free games have begun rolling out, starting with Japan and Asia where it\u2019s Tuesday, August 4.",
+        "source_link": "https://www.playstationlifestyle.net/2026/08/03/ps-plus-essential-august-monthly-free-games-out-now/"
+      },
+      {
+        "rank": 6,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/Even-Windows-fans-see-the-MacBook-Neo-as-a-winner.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple plans to open iPhone clipboard access to Windows PCs - 9to5Mac",
         "description": "Apple will let users copy and paste content between an iPhone and a Windows PC, following an interoperability request from Microsoft in the EU.",
         "source_link": "https://9to5mac.com/2026/08/03/apple-plans-to-open-iphone-clipboard-access-to-windows-pcs/"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://www.slashgear.com/img/gallery/6-mini-gadgets-to-add-to-your-wishlist-in-2026/l-intro-1785338472.jpg",
         "title": "6 Mini Gadgets To Add To Your Wishlist In 2026 - SlashGear",
         "description": "Whether you're into cameras, wearables, or clever accessories, these mini gadgets from 2026 show how much technology can fit into a surprisingly small package.",
         "source_link": "https://www.slashgear.com/2226095/mini-gadgets-worth-buying-2026/"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/BoR-Screenshot-66.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
         "title": "The studio behind Pok\u00e9mon struggles to find its voice in Beast of Reincarnation - The Verge",
         "description": "Game Freak is best known for the Pok\u00e9mon series, but the studio is exploring action games with Beast of Reincarnation on the PS5, Xbox, and PC.",
         "source_link": "https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox"
       },
       {
-        "rank": 5,
+        "rank": 9,
+        "image": "https://m-cdn.phonearena.com/images/article/182328-wide-two_1200/Galaxy-S27-Ultra-camera-tech-might-save-it-from-iPhone-18-Pro-Maxs-fate.jpg",
+        "title": "Galaxy S27 Ultra camera tech might save it from iPhone 18 Pro Max's fate - PhoneArena",
+        "description": "Samsung will reportedly slim down all Galaxy S27 Ultra cameras.",
+        "source_link": "https://www.phonearena.com/news/galaxy-s27-ultra-inkjet-thinner-camera_id182328"
+      },
+      {
+        "rank": 10,
         "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281915461.jpg?resize=1200,800",
         "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call - TechCrunch",
         "description": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
         "source_link": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/"
-      },
-      {
-        "rank": 6,
-        "image": "https://kotaku.com/app/uploads/2025/12/Larian-divinity-1200x675.jpg",
-        "title": "Fans Discovered A Chaotic Secret In Divinity's Reveal Trailer - Kotaku",
-        "description": "Just don't make me watch that trailer again",
-        "source_link": "https://kotaku.com/chaotic-secret-larian-divinity-reveal-trailer-2000721274"
-      },
-      {
-        "rank": 7,
-        "image": null,
-        "title": "Microsoft warns hackers are targeting hotel Wi-Fi networks: What to know, how to protect yourself - ABC News - Breaking News, Latest News and Videos",
-        "description": null,
-        "source_link": "https://abcnews.com/GMA/News/microsoft-warns-hackers-targeting-hotel-wi-fi-networks/story?id\\\\u003d135320517"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-8-scaled.jpg",
-        "title": "Android 17 QPR2 Beta 2 arrives for Pixel 6a and newer devices - Android Authority",
-        "description": "It's been two weeks since we got our first taste of QPR2, and today Android 17 QPR2 Beta 2 is finally available.",
-        "source_link": "https://www.androidauthority.com/android-17-qpr2-beta-2-3694096/"
-      },
-      {
-        "rank": 9,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/google-pixel-11-pro-marketing-materials-leak/-952x498w6/gsmarena_000.jpg",
-        "title": "Google Pixel 11 Pro marketing materials leak confirming some specs - GSMArena.com news - GSMArena.com",
-        "description": "The design is exactly what you'd expect. After showing us marketing materials for the Pixel 11 and Pixel 11 Pro Fold last week, Evan Blass aka @evleaks is...",
-        "source_link": "https://www.gsmarena.com/google_pixel_11_pro_marketing_materials_leak_confirming_some_specs-news-73988.php"
       }
     ],
     "trending_movies": [
@@ -97,24 +104,24 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
         "title": "Soulm8te",
         "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts...",
         "source_link": "https://www.themoviedb.org/movie/1307118"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
         "title": "Supergirl",
         "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
         "source_link": "https://www.themoviedb.org/movie/1081003"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
         "rank": 8,
