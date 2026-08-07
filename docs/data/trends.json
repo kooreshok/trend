@@ -1,5 +1,5 @@
 {
-  "last_updated": "August 07, 2026, 09:56 UTC",
+  "last_updated": "August 07, 2026, 10:50 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,24 +76,24 @@
     "trending_movies": [
       {
         "rank": 1,
+        "image": "https://image.tmdb.org/t/p/w200/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "title": "The Last House",
+        "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped....",
+        "source_link": "https://www.themoviedb.org/movie/1284041"
+      },
+      {
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
-      },
-      {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "title": "The Last House",
-        "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped....",
-        "source_link": "https://www.themoviedb.org/movie/1284041"
       },
       {
         "rank": 4,
@@ -118,17 +118,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
-        "title": "Primetime",
-        "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history....",
-        "source_link": "https://www.themoviedb.org/movie/1375441"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
         "title": "Beast Race",
         "description": "Inspired by the illegal universe of the Brazilian animal lottery, a fearless young man must win a deadly race to save his sister in a dystopian future...",
         "source_link": "https://www.themoviedb.org/movie/1263532"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
+        "title": "Primetime",
+        "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history....",
+        "source_link": "https://www.themoviedb.org/movie/1375441"
       },
       {
         "rank": 9,
