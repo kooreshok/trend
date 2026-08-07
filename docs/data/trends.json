@@ -1,27 +1,27 @@
 {
-  "last_updated": "August 07, 2026, 00:38 UTC",
+  "last_updated": "August 07, 2026, 03:46 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets-prd.ignimgs.com/2026/08/05/gta-steve-haines-1785966835318.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "'I Was So Disappointed' \u2014 GTA 5 Actor Auditioned for 60 Roles in GTA 6, But Heard Nothing from Rockstar - IGN",
+        "description": "Actor Robert Bogue, who played FIB agent Steve Haines in Grand Theft Auto 5, says he auditioned for 60 roles in GTA 6, but he was ultimately ignored by Rockstar Games.",
+        "source_link": "https://www.ign.com/articles/gta-5-actor-auditioned-for-60-roles-in-gta-6-but-heard-nothing-from-rockstar"
+      },
+      {
+        "rank": 2,
+        "image": null,
+        "title": "Minecraft Gets Nintendo Switch 2 Version With an Upgrade Path for Switch 1 Owners - ign.com",
+        "description": null,
+        "source_link": "https://www.ign.com/articles/minecraft-is-coming-to-nintendo-switch-2-soon-with-an-upgrade-path-for-switch-1-owners"
+      },
+      {
+        "rank": 3,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-3-4-green.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple Watch Ultra 4: Three new features that already have me excited - 9to5Mac",
         "description": "Apple Watch Ultra 4 is coming next month, here are three rumored new features that I\u2019m especially excited about.",
         "source_link": "https://9to5mac.com/2026/08/05/apple-watch-ultra-4-three-new-features-that-already-have-me-excited/"
-      },
-      {
-        "rank": 2,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2256966963-1152x648-1785958066.jpg",
-        "title": "Reddit signals ominous upcoming \"changes\u201d for old.reddit.com - Ars Technica",
-        "description": "Reddit says the beloved site is used for some \"bad behavior.\"",
-        "source_link": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/"
-      },
-      {
-        "rank": 3,
-        "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2026/01/sonic_35th_art.jpg?fit=1920%2C1248&ssl=1",
-        "title": "Sonic Team boss says more \u201csurprises\u201d are yet to come for Sonic 35th anniversary - My Nintendo News",
-        "description": "The head of Sonic Team, Takashi Iizuka, has said in a recent interview that there are still more surprises in store for fans for the iconic series 35th anniversary celebrations. While we have already\u2026",
-        "source_link": "https://mynintendonews.com/2026/08/05/sonic-team-boss-says-more-surprises-are-yet-to-come-for-sonic-35th-anniversary/"
       },
       {
         "rank": 4,
@@ -46,31 +46,31 @@
       },
       {
         "rank": 7,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/pixel-11-pro-glow-teaser.jpg",
-        "title": "Here's how Pixel 11 Pro HiLight will work with Google Contacts - Android Authority",
-        "description": "Pixel 11 Pro phones are getting a new \"HiLight\" notification system, and Google's Contacts app reveals how it will work.",
-        "source_link": "https://www.androidauthority.com/contacts-pixel-11-hilight-3694988/"
-      },
-      {
-        "rank": 8,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-concept.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "iPhone 18 Pro event date: When Apple announced its event over the last six years - 9to5Mac",
         "description": "Apple has announced its event two weeks in advance for four straight years, pointing to a likely iPhone 18 Pro event announcement this month.",
         "source_link": "https://9to5mac.com/2026/08/05/iphone-18-pro-event-date-when-announcement/"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/samsung-fold-8-content-marketing-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Samsung insists the Galaxy Z Fold 8 is \u2018perfect\u2019 for \u2018full-screen\u2019 video \u2013 it\u2019s not - 9to5Google",
         "description": "As Samsung\u2019s pre-order perks for the Galaxy Z Fold 8 come to an end, the company continues to advertise its...",
         "source_link": "http://9to5google.com/2026/08/05/samsung-galaxy-z-fold-8-video/"
       },
       {
+        "rank": 9,
+        "image": "https://kotaku.com/app/uploads/2026/08/bg3stream.jpg",
+        "title": "Official Baldur\u2019s Gate 3 Stream Gets Shut Down By YouTube For Sexy Times - Kotaku",
+        "description": "Three years later, Larian is still getting a slap on the wrist for its RPG\u2019s sex scenes",
+        "source_link": "https://kotaku.com/baldurs-gate-3-larian-stream-dark-urge-youtube-twitch-ban-2000721971"
+      },
+      {
         "rank": 10,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Minecraft-Switch-2-release-date.jpg",
-        "title": "Minecraft reveals Nintendo Switch 2 release date, new details - Nintendo Everything",
-        "description": "Minecraft has shared its Nintendo Switch 2 release date plus new details including an upgrade for the Super Mario Mash-up Pack.",
-        "source_link": "https://nintendoeverything.com/minecraft-reveals-nintendo-switch-2-release-date-new-details/"
+        "image": "https://cdn.mos.cms.futurecdn.net/rZahZkuJ7czAVqnMB4XcmB-1530-80.png",
+        "title": "Confirmed: Xbox 'Platinum' completion achievements are coming \"later this year\" - Windows Central",
+        "description": "Xbox CEO Asha Sharma just confirmed that the team is working on \"Platinum\"-style achievement completion recognition, slated for later this year.",
+        "source_link": "https://www.windowscentral.com/gaming/xbox/confirmed-xbox-platinum-completion-achievements-are-coming-later-this-year"
       }
     ],
     "trending_movies": [
@@ -111,17 +111,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-        "title": "Disclosure Day",
-        "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorol...",
-        "source_link": "https://www.themoviedb.org/movie/1275779"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
         "title": "Soulm8te",
         "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts...",
         "source_link": "https://www.themoviedb.org/movie/1307118"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+        "title": "Disclosure Day",
+        "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorol...",
+        "source_link": "https://www.themoviedb.org/movie/1275779"
       },
       {
         "rank": 8,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
-        "title": "The Death of Robin Hood",
-        "description": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the...",
-        "source_link": "https://www.themoviedb.org/movie/1284465"
+        "image": "https://image.tmdb.org/t/p/w200/gnAsZvBygplNpp8PtjoTEYv3VPB.jpg",
+        "title": "Leviticus",
+        "description": "Two teenage boys must escape a violent entity that takes the form of the person they desire most:  each other....",
+        "source_link": "https://www.themoviedb.org/movie/1564614"
       }
     ]
   }
