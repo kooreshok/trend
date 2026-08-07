@@ -1,5 +1,5 @@
 {
-  "last_updated": "August 07, 2026, 11:41 UTC",
+  "last_updated": "August 07, 2026, 12:52 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,7 +76,7 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/tz3Afb8yxSrYmbfHGGRsJ6HvwRO.jpg",
         "title": "The Last House",
         "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped....",
         "source_link": "https://www.themoviedb.org/movie/1284041"
@@ -111,17 +111,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-        "title": "Supergirl",
-        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
-        "source_link": "https://www.themoviedb.org/movie/1081003"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
         "title": "Beast Race",
         "description": "Inspired by the illegal universe of the Brazilian animal lottery, a fearless young man must win a deadly race to save his sister in a dystopian future...",
         "source_link": "https://www.themoviedb.org/movie/1263532"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+        "title": "Supergirl",
+        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
+        "source_link": "https://www.themoviedb.org/movie/1081003"
       },
       {
         "rank": 8,
