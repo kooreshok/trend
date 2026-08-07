@@ -1,82 +1,75 @@
 {
-  "last_updated": "August 07, 2026, 12:52 UTC",
+  "last_updated": "August 07, 2026, 14:09 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets-prd.ignimgs.com/2026/08/06/grand-theft-auto-vi-an-extended-look-coming-august-27-00-00-09-1786018175594.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Grand Theft Auto 6: An Extended Look Premieres on Netflix This Month, Rockstar Confirms - ign.com",
+        "description": "Rockstar has announced that a special Grand Theft Auto 6: An Extended Look will premiere on Netflix later this month.",
+        "source_link": "https://www.ign.com/articles/grand-theft-auto-6-an-extended-look-premieres-on-netflix-this-month-rockstar-confirms"
+      },
+      {
+        "rank": 2,
+        "image": "https://assetsio.gnwcdn.com/halo-campaign-evolved-master-chief-back.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "\"This is just a tough reality in the gaming industry right now\" - Halo Studios hit by layoffs after release of Halo: Campaign Evolved - Eurogamer.net",
+        "description": "An unconfirmed number of developers have been let go from Halo Studios just over a week since Campaign Evolved's release.",
+        "source_link": "https://www.eurogamer.net/halo-studios-layoffs-campaign-evolved"
+      },
+      {
+        "rank": 3,
+        "image": "https://assetsio.gnwcdn.com/minecraft-switch-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Minecraft finally has a Switch 2 release date, but there may be bad news for Switch 1 owners - Eurogamer.net",
+        "description": "Mojang is done teasing us about an imminent release of Minecraft on Switch 2.",
+        "source_link": "https://www.eurogamer.net/minecraft-switch-2-release-date-upgrade-path"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/Pixel-Watch-4-FishCat-Face-scaled.jpg",
+        "title": "Another huge Pixel Watch 5 leak showcases everything from design to health features - Android Authority",
+        "description": "New Pixel Watch 5 leak showcases health features such as heart rate variability tracking, \"Ask Coach,\" and more alongside Gemini Intelligence.",
+        "source_link": "https://www.androidauthority.com/pixel-watch-5-leak-design-health-features-3695089/"
+      },
+      {
+        "rank": 5,
         "image": "https://helios-i.mashable.com/imagery/articles/04MU8YLieh4SnQZQji07ChT/hero-image.fill.size_1200x675.v1785960797.jpg",
         "title": "Samsung Galaxy Z series is breaking pre-order records - Mashable",
         "description": "Will we finally see foldable phones enter the mainstream?",
         "source_link": "https://mashable.com/tech/samsung-galaxy-z-foldables-break-sales-records-korea-europe"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://hackaday.com/wp-content/uploads/2026/08/amazon_fire_stick_hd_internals_electronupdate_youtube.jpg",
         "title": "Full Teardown Of A 2026 Amazon Fire Stick HD - Hackaday",
         "description": "After the release of Google\u2019s Chromecast so-called \u2018streaming sticks\u2019 have remained a popular form factor, even though such technology is these days part of \u2018smart\u2019 TV\u2026",
         "source_link": "https://hackaday.com/2026/08/05/full-teardown-of-a-2026-amazon-fire-stick-hd/"
       },
       {
-        "rank": 3,
-        "image": "https://cdn.mos.cms.futurecdn.net/VqP76GcpWXZmVVaCkv8DoN-1920-80.jpg",
-        "title": "Halo Studios hit by layoffs just days after Halo: Campaign Evolved launch - Windows Central",
-        "description": "A number of developers previously employed at Halo Studios have posted on LinkedIn confirming layoffs at the studio.",
-        "source_link": "https://www.windowscentral.com/gaming/halo/halo-studios-is-the-latest-xbox-games-studio-to-be-hit-by-layoffs-just-days-after-campaign-evolved-launch-as-reports-reveal-troubled-development"
-      },
-      {
-        "rank": 4,
+        "rank": 7,
         "image": null,
         "title": "Google Is Finally Shutting Down the Google Assistant. Here's What Android Users Need to Know - inc.com",
         "description": null,
         "source_link": "https://www.inc.com/georgia-fearn/google-is-finally-shutting-down-the-google-assistant-heres-what-android-users-need-to-know/91385340"
       },
       {
-        "rank": 5,
-        "image": "https://assets-prd.ignimgs.com/2026/07/01/new-key-art-01-1782922658372.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Minecraft Gets Nintendo Switch 2 Version With an Upgrade Path for Switch 1 Owners - IGN",
-        "description": "Minecraft is getting a proper Nintendo Switch 2 version very soon, and Switch 1 owners will be entitled to an upgrade",
-        "source_link": "https://www.ign.com/articles/minecraft-is-coming-to-nintendo-switch-2-soon-with-an-upgrade-path-for-switch-1-owners"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/05/Xbox.jpg",
-        "title": "Next Xbox console will play every generation according to leaked Microsoft memo - Dexerto",
-        "description": "The next generation of Xbox could be Microsoft\u2019s most backwards-compatible console yet after a newly leaked internal memo was revealed.",
-        "source_link": "https://www.dexerto.com/gaming/next-xbox-console-will-play-every-generation-according-to-leaked-microsoft-memo-3395110/"
-      },
-      {
-        "rank": 7,
+        "rank": 8,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/apple-watch-ultra-3-4-green.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Apple Watch Ultra 4: Three new features that already have me excited - 9to5Mac",
         "description": "Apple Watch Ultra 4 is coming next month, here are three rumored new features that I\u2019m especially excited about.",
         "source_link": "https://9to5mac.com/2026/08/05/apple-watch-ultra-4-three-new-features-that-already-have-me-excited/"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/05/86123bf1-1869-4eaa-9335-eb13dea7cebe/thumbnail/1200x630/e1c50a8725b8922ffdc1a85bfa54dc51/gettyimages-1451733282.jpg",
         "title": "Some Gen Zers swap their smartphones for \"dumb\" phones to curb social media habits - CBS News",
         "description": "\"It really opens up your mind,\" said one 23-year-old who ditched smartphones to wean herself off social media.",
         "source_link": "https://www.cbsnews.com/news/social-media-smartphones-gen-z-dumb-phones/"
-      },
-      {
-        "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2026/08/Fallout-3-feature.jpg",
-        "title": "Fallout 3 Dev Excited For Remaster To Improve Game's Visuals - Kotaku",
-        "description": "According to longtime game developer Nathan Purkeypile, Bethesda's open-world RPG was 'super tech constrained'",
-        "source_link": "https://kotaku.com/fallout-3-dev-excited-for-the-remaster-because-the-original-games-visuals-were-100-percent-not-what-we-intended-2000721988"
-      },
-      {
-        "rank": 10,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Minecraft-24.60-update.jpg",
-        "title": "Minecraft 26.40 update out now, patch notes - nintendoeverything.com",
-        "description": "Minecraft has released its latest update with version 26.40, and here are the patch notes in full.",
-        "source_link": "https://nintendoeverything.com/minecraft-26-40-update-out-now-patch-notes/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/tz3Afb8yxSrYmbfHGGRsJ6HvwRO.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
         "title": "The Last House",
         "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped....",
         "source_link": "https://www.themoviedb.org/movie/1284041"
@@ -97,31 +90,31 @@
       },
       {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+        "title": "Supergirl",
+        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
+        "source_link": "https://www.themoviedb.org/movie/1081003"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
         "title": "Evil Dead Burn",
         "description": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-...",
         "source_link": "https://www.themoviedb.org/movie/1212763"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
         "title": "Beast Race",
         "description": "Inspired by the illegal universe of the Brazilian animal lottery, a fearless young man must win a deadly race to save his sister in a dystopian future...",
         "source_link": "https://www.themoviedb.org/movie/1263532"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-        "title": "Supergirl",
-        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
-        "source_link": "https://www.themoviedb.org/movie/1081003"
       },
       {
         "rank": 8,
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg",
-        "title": "Lucky Strike",
-        "description": "A wounded American soldier fights to survive behind enemy lines during WWII's Battle of the Bulge against the Germans, relying on his instinct, spy cr...",
-        "source_link": "https://www.themoviedb.org/movie/1594914"
+        "image": "https://image.tmdb.org/t/p/w200/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+        "title": "Michael",
+        "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discov...",
+        "source_link": "https://www.themoviedb.org/movie/936075"
       }
     ]
   }
