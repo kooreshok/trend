@@ -1,69 +1,69 @@
 {
-  "last_updated": "August 08, 2026, 16:27 UTC",
+  "last_updated": "August 08, 2026, 17:24 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://kotaku.com/app/uploads/2026/08/pocket88.jpg",
+        "title": "Pok\u00e9mon TCG Pocket Loses Nearly Half Its Players, And It\u2019s Pretty Obvious Why - Kotaku",
+        "description": "The game's shortcomings have put a real hole in creator DeNA's financial results",
+        "source_link": "https://kotaku.com/pokemon-tcg-pocket-dena-players-trading-hourglass-pull-rates-2000722438"
+      },
+      {
+        "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2026/08/Dmon-screenshot-1200x675.jpg",
+        "title": "Overwatch's Mech Designers Must Really Want D.Mon To Die, Huh? - Kotaku",
+        "description": "I mean why else would they have her whole ass exposed like that?",
+        "source_link": "https://kotaku.com/new-overwatch-hero-dmon-bad-mech-design-2000722433"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.nintendolife.com/a1c22d797ccab/large.jpg",
+        "title": "Final Fantasy XIV Online Updated On Switch 2, Here Are The Full Patch Notes - Nintendo Life",
+        "description": "Faster load times and more",
+        "source_link": "https://www.nintendolife.com/news/2026/08/final-fantasy-xiv-online-updated-on-switch-2-here-are-the-full-patch-notes"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.zdnet.com/a/img/resize/39cdf1d7217da3b68bfb58154eabfbad9d35e2a5/2025/10/08/6532e132-afe4-4b37-9bdd-7c30200f03ba/dsc07950.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "title": "I compared Google's pricier Pixel 11 series to Samsung's Galaxy lineup - here's the better value now - ZDNET",
+        "description": "The Pixel 11 may cost more, but Google's software advantage may make it worth it for you.",
+        "source_link": "https://www.zdnet.com/article/google-pricier-pixel-11-series-compared-to-samsung-galaxy-lineup-heres-the-better-value/"
+      },
+      {
+        "rank": 5,
         "image": "https://imageio.forbes.com/specials-images/imageserve/6a75e3cff851567be19b28e7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "\u2018Destiny 2\u2019 Players Are Miraculously Unvaulting Cut Content From The Game - Forbes",
         "description": "It is one of the most infamous moments in Destiny history, when Bungie announced that it could no longer support the enormous mountain of content the game was amassing.",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/08/07/destiny-2-players-are-miraculously-unvaulting-cut-content-from-the-game/"
       },
       {
-        "rank": 2,
-        "image": "https://assets-prd.ignimgs.com/2026/06/24/ultimate-edition-01-1782295792416.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Take-Two Boss Defends No Disc Version of GTA 6, Equates Physical Releases to Vinyl Records - IGN",
-        "description": "Strauss Zelnick, boss of Rockstar parent company Take-Two, has defended the company\u2019s decision not to release GTA 6 on a physical disc, insisting when it comes to big games, discs \u201cdon\u2019t really make sense for the consumer.\u201d",
-        "source_link": "https://www.ign.com/articles/take-two-boss-defends-no-disc-version-of-gta-6-equates-physical-releases-to-vinyl-records"
-      },
-      {
-        "rank": 3,
-        "image": "https://images.nintendolife.com/030a9fb6ce96d/large.jpg",
-        "title": "These New Donkey Kong Clothes From Nintendo And OppoSuits Are Bananas - Nintendo Life",
-        "description": "We want them all",
-        "source_link": "https://www.nintendolife.com/news/2026/08/these-new-donkey-kong-clothes-from-nintendo-and-opposuits-are-bananas"
-      },
-      {
-        "rank": 4,
-        "image": "https://assets-prd.ignimgs.com/2025/05/08/gta6-ps5-pro-blogroll-1746706763762.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Rockstar Owner Take-Two Confirms GTA 6 November Release Date Still on Track - IGN",
-        "description": "Rockstar owner Take-Two has confirmed the current November 19 GTA 6 release date is still on track, and insisted the upcoming Grand Theft Auto VI: An Extended Look will help grow \u201cconsumers\u2019 passion and anticipation\" for the game.",
-        "source_link": "https://www.ign.com/articles/rockstar-owner-take-two-confirms-gta-6-release-date-still-on-track-says-gta-6-an-extended-look-will-help-grow-consumers-passion-and-anticipation"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.trueachievements.com/imgs/177359/reforj.jpg",
-        "title": "Ex-Minecraft devs' Reforj finally starts taking shape with major graphics overhaul - trueachievements.com",
-        "description": "Reforj \u2014 the upcoming sandbox game from ex-Minecraft porting team 4J Studios \u2014 got a new graphics update that finally helps set it further apart from Minecraft.",
-        "source_link": "https://www.trueachievements.com/news/reforj-graphics-rixels"
-      },
-      {
         "rank": 6,
-        "image": "https://images.pushsquare.com/dca5cb5c5cb97/large.jpg",
-        "title": "Free 4K, 60fps PS5 Update for Ghost Recon Wildlands Out Now, Included with PS Plus Extra - Push Square",
-        "description": "Or everyone can try until 10th August",
-        "source_link": "https://www.pushsquare.com/news/2026/08/free-4k-60fps-ps5-update-for-ghost-recon-wildlands-out-now-included-with-ps-plus-extra"
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iPhone 18 Pro is getting even more \u2018Pro\u2019 this year in three ways - 9to5Mac",
+        "description": "iPhone 18 Pro and Pro Max will be unveiled soon, and rumors point to at least three ways the new models will be even more \u2018Pro\u2019 this year.",
+        "source_link": "https://9to5mac.com/2026/08/07/iphone-18-pro-is-getting-even-more-pro-this-year-in-three-ways/"
       },
       {
         "rank": 7,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/90s-search-engines-1152x648-1785895106.jpg",
-        "title": "Remembering the pre-Google web, when search was an experiment - Ars Technica",
-        "description": "Most people have completely forgotten how chaotic it really was.\"",
-        "source_link": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/"
+        "image": "https://assetsio.gnwcdn.com/strauss-zelnick-gta-take-two.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "As GTA 6 publisher Take-Two revises its 2027 net bookings up to $8.2bn, Strauss Zelnick confirms its sales are \"well over 90% digital\" - Eurogamer.net",
+        "description": "First Capcom, now Take-Two: Strauss Zelnick doesn't appear phased by PlayStation's migration to an 'all-digital future'.",
+        "source_link": "https://www.eurogamer.net/take-two-stock-digital-gta6-physical"
       },
       {
         "rank": 8,
-        "image": "https://images.digitalfoundry.net/1c397f7abd710/large.jpg",
-        "title": "Minecraft Switch 2 Edition Coming This Autumn, Featuring Vibrant Visuals - Digital Foundry",
-        "description": "But how much will it cost for owners of the original Switch edition?",
-        "source_link": "https://www.digitalfoundry.net/news/2026/08/minecraft-switch-2-edition-coming-this-autumn-featuring-vibrant-visuals"
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Sony-WH-1000XM488.jpg",
+        "title": "Sony WH-1000XM4C price and release date leaked - Notebookcheck",
+        "description": "According to a new leak, the Sony WH-1000XM4C will launch next month, in September, with a \u20ac249.99 price tag. At the moment, it's unknown if it is intended to be a refreshed version of the original model or a \"Lite\" edition.",
+        "source_link": "https://www.notebookcheck.net/Sony-WH-1000XM4C-price-and-release-date-leaked.1362589.0.html"
       },
       {
         "rank": 9,
-        "image": "https://images.macrumors.com/t/bq6yL1c56Am51v60QX4hM28RT58=/1920x/article-new/2026/08/cat-couch-lock-screen-clock-compact-mode.jpeg",
-        "title": "iOS 27's New Compact Clock Gives Your Wallpaper Room to Breathe - MacRumors",
-        "description": "In iOS 26, Apple let you stretch the Lock Screen clock down your iPhone's display until it dwarfed everything else. In iOS 27, Apple has a new clock option that does the opposite, with the introduction of a compact mode that shrinks the time to roughly the si\u2026",
-        "source_link": "https://www.macrumors.com/how-to/ios-use-compact-lock-screen-clock/"
+        "image": "https://assetsio.gnwcdn.com/gears-of-war-e-day-june-2026-screen-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Gears of War: E-Day multiplayer beta blows past series' records on Steam - Eurogamer.net",
+        "description": "Those who pre-ordered the game are hopping in, and more are expected next week as the doors are flung open to everyone.",
+        "source_link": "https://www.eurogamer.net/gears-of-war-multiplayer-beta-popular-steam"
       }
     ],
     "trending_movies": [
@@ -97,17 +97,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
         "title": "THE RIBBON HERO",
         "description": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fa...",
         "source_link": "https://www.themoviedb.org/movie/1679730"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
         "rank": 7,
