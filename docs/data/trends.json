@@ -1,76 +1,76 @@
 {
-  "last_updated": "August 07, 2026, 23:28 UTC",
+  "last_updated": "August 08, 2026, 01:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Splatoon-Raiders-1.1.1-update.jpg",
+        "title": "Splatoon Raiders 1.1.1 update out now, patch notes - Nintendo Everything",
+        "description": "Splatoon Raiders gets its first post-launch update with version 1.1.1, and here are the patch notes from Nintendo.",
+        "source_link": "https://nintendoeverything.com/splatoon-raiders-1-1-1-update-out-now-patch-notes/"
+      },
+      {
+        "rank": 2,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+        "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400 - TechCrunch",
+        "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+        "source_link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2259495141.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+        "title": "Trevor Noah is hosting Google\u2019s Pixel 11 launch event - theverge.com",
+        "description": "Comedian Trevor Noah will host August 12th\u2019s Made by Google event for Pixel hardware. Other celebrities like Alex Cooper and Stephen Curry will appear, too.",
+        "source_link": "https://www.theverge.com/tech/976454/made-by-google-2026-event-pixel-11-trevor-noah"
+      },
+      {
+        "rank": 4,
         "image": "https://kotaku.com/app/uploads/2026/08/destiny23.jpg",
         "title": "Destiny 2 Modder Bringing Back Old, Cut Locations And Fans Are So Happpy - Kotaku",
         "description": "Soon you'll be able return to past memories once more",
         "source_link": "https://kotaku.com/a-destiny-2-modder-is-making-cut-content-playable-again-for-the-first-time-in-six-years-2000722290"
       },
       {
-        "rank": 2,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ielbTm6._hjo/v0/1200x800.jpg",
-        "title": "OpenAI\u2019s New Device Will Be Hockey Puck-Sized and Cost Over $300 - Bloomberg.com",
-        "description": "A highly anticipated new device from OpenAI will have a unique look, complete with moving parts that help give it personality, and likely cost more than $300, according to people familiar with the matter.",
-        "source_link": "https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300"
-      },
-      {
-        "rank": 3,
+        "rank": 5,
         "image": "https://media.wired.com/photos/6a73b0755ac7830744b4402a/191:100/w_1280,c_limit/Model-Behavior-Why-Normal-People-Dont-Use-AI-Business.jpg",
         "title": "Why Normal People Aren\u2019t Using AI Agents - WIRED",
         "description": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
         "source_link": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/"
       },
       {
-        "rank": 4,
+        "rank": 6,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/08/Fading-Echo-Switch-2_08-06-26.jpg",
+        "title": "Fading Echo coming to Switch 2 - Gematsu",
+        "description": "Fast-paced desert punk action adventure game Fading Echo will launch for Switch 2 alongside its PlayStation 5 and Xbox Series versions in 2026, publisher New Tales and development subsidiary Emeter\u2026",
+        "source_link": "https://www.gematsu.com/2026/08/fading-echo-coming-to-switch-2"
+      },
+      {
+        "rank": 7,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ng4explosion-1152x648.jpg",
+        "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident - Ars Technica",
+        "description": "The anomaly originated at the main oxygen valve on one of the BE-4 engines.\"",
+        "source_link": "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/"
+      },
+      {
+        "rank": 8,
+        "image": "https://media.thenextweb.com/2026/07/bots-outnumber-humans-internet-ai-agents-traffic.jpg",
+        "title": "OpenAI and four rivals just agreed on one standard for AI agents - The Next Web",
+        "description": "OpenAI, Amazon, Microsoft, Cursor and Vercel launched Agent Plugins, an open standard letting an agent extension run across ChatGPT, Copilot and more.",
+        "source_link": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp"
+      },
+      {
+        "rank": 9,
         "image": "https://www.notateslaapp.com/img/containers/article_images/2025/navigation_bar_recommended_destinations.png/0bc4152320d0abb7d598d63fb8cb0f58/navigation_bar_recommended_destinations.jpg",
         "title": "Tesla Rolls Out New Maps Update in North America - Not a Tesla App",
         "description": "The new map data package brings updated street layouts, revised speed limits, and points of interest across to Tesla vehicles across the continent",
         "source_link": "https://www.notateslaapp.com/news/4548/tesla-rolls-out-new-maps-update-in-north-america"
       },
       {
-        "rank": 5,
+        "rank": 10,
         "image": "https://kotaku.com/app/uploads/2026/08/playstation-1200x675.jpg",
         "title": "5 Lawsuits Accusing PlayStation Of Being Anti-Competitive, Explained - Kotaku",
         "description": "Here's how these anti-compete lawsuits are playing out",
         "source_link": "https://kotaku.com/playstation-is-being-sued-in-five-different-countries-over-anti-competitive-concerns-and-the-end-of-discs-isnt-helping-2000722141"
-      },
-      {
-        "rank": 6,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
-        "title": "ChatGPT brings unlimited text chats to free users - TechCrunch",
-        "description": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-        "source_link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/08/made-by-google-2024-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google reveals who is hosting Pixel 11 launch event and other guests - 9to5Google",
-        "description": "With Made by Google 2026 taking place in less than a week, the company today revealed who is hosting: Trevor Noah.",
-        "source_link": "http://9to5google.com/2026/08/06/pixel-11-launch-host/"
-      },
-      {
-        "rank": 8,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Octopath-Traveler-3-2.jpg",
-        "title": "Square Enix teases Octopath Traveler 3, aware of high expectations for the game - Nintendo Everything",
-        "description": "Developers of the Octopath Traveler series all but confirmed Octopath Traveler 3 for the future in a new interview.",
-        "source_link": "https://nintendoeverything.com/square-enix-teases-octopath-traveler-3-aware-of-high-expectations-for-the-game/"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/google-chrome-navigation-gemini-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google Chrome slowly starts rolling out updated navigation bar with Gemini button on Android [Gallery] - 9to5Google",
-        "description": "Google Chrome is testing a pretty major new redesign on mobile devices \u2013 Android and iPhone \u2013 which has dual...",
-        "source_link": "http://9to5google.com/2026/08/06/google-chrome-android-navigation-bar-gemini-button/"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.videogameschronicle.com/files/2026/08/ghost-recon-future-soldier.jpg",
-        "title": "Ghost Recon: Future Soldier is free to claim on PC for the next week - Video Games Chronicle",
-        "description": "Ubisoft is giving away the PC version to mark the series' 25th anniversary",
-        "source_link": "https://www.videogameschronicle.com/news/ghost-recon-future-soldier-is-free-to-claim-on-pc-for-the-next-week/"
       }
     ],
     "trending_movies": [
@@ -104,17 +104,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-        "title": "Evil Dead Burn",
-        "description": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-...",
-        "source_link": "https://www.themoviedb.org/movie/1212763"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+        "title": "Evil Dead Burn",
+        "description": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-...",
+        "source_link": "https://www.themoviedb.org/movie/1212763"
       },
       {
         "rank": 7,
