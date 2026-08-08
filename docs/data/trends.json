@@ -1,69 +1,76 @@
 {
-  "last_updated": "August 08, 2026, 18:30 UTC",
+  "last_updated": "August 08, 2026, 19:24 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.ctfassets.net/wn7ipiv9ue5v/5pdZg8ju76AQPhgDDwP7f2/85c82aa572e714ca61ec6ed4d836841e/Frame_92__1_.jpg?w=&h=630&fm=&q=",
+        "title": "Take-Two Interactive Software, Inc. Reports Results for Fiscal First Quarter 2027 - Take-Two Interactive Software, Inc.",
+        "description": "The Investor Relations website contains information about Take-Two Interactive Software, Inc.'s business for stockholders, potential investors, and financial analysts.",
+        "source_link": "http://www.take2games.com/ir/news/take-two-interactive-software-inc-reports-results-fiscal-first-6"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.notateslaapp.com/img/containers/article_images/2022/mobile-connector-2.jpg/ca01c4ec2a31286d00e98c14c1ad23d0/mobile-connector-2.jpg",
+        "title": "Tesla Rolls Out Rare Software Update to Mobile Connectors - Not a Tesla App",
+        "description": "In an unexpected hardware drop, Tesla has started pushing a firmware update for its portable Mobile Connector charging units",
+        "source_link": "https://www.notateslaapp.com/news/4555/tesla-rolls-out-rare-software-update-to-mobile-connectors"
+      },
+      {
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-Watch-5-teaser-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Pixel Watch 5 teaser pokes fun at Apple, Samsung by having \u2018decency to look like a watch\u2019 - 9to5Google",
+        "description": "Following teasers for the 11 Pro and 11 Pro Fold over the past week, Google today finally released a video for the Pixel Watch 5.",
+        "source_link": "http://9to5google.com/2026/08/07/pixel-watch-5-teaser/"
+      },
+      {
+        "rank": 4,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/kitesurf.webp?resize=1200,640",
+        "title": "Cloudflare launches Kitesurf, a browser built for AI agents - TechCrunch",
+        "description": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more effici\u2026",
+        "source_link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+      },
+      {
+        "rank": 5,
+        "image": "https://kotaku.com/app/uploads/2026/08/dmon-1200x675.jpg",
+        "title": "Blizzard Swears Overwatch\u2019s New Mech Hero Isn\u2019t \u2018D.Va 2.0\u2019 - Kotaku",
+        "description": "D.Mon is meant to be the \u2018icy, cool, and very confident\u2019 leader to D.Va\u2019s more aggressive, dive-based playstyle",
+        "source_link": "https://kotaku.com/overwatch-dmon-dva-new-tank-hero-season-4-trailer-ability-2000722499"
+      },
+      {
+        "rank": 6,
+        "image": "https://assets-prd.ignimgs.com/2026/08/04/ign-first-controlresonant-1-exclusivemissiongameplay-blogroll-1785854197580.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Control Resonant: Check Out a Full Mission of New Gameplay as We Take On the Metro Fault \u2014 IGN First - IGN",
+        "description": "Control Resonant is our IGN First for August, and we have a whole new mission of gameplay to kick things off.",
+        "source_link": "https://www.ign.com/articles/control-resonant-exclusive-metro-fault-mission-gameplay-ign-first"
+      },
+      {
+        "rank": 7,
+        "image": "https://cdn.motor1.com/images/mgl/mMzGOB/s1/2027-dodge-charger-super-bee-launch-edition-front-3-4.jpg",
+        "title": "The Super Bee Is Back: Dodge's Newest Charger Packs 600 Horsepower - Motor1.com",
+        "description": "The 2027 Dodge Super Bee is the most powerful Charger Sixpack yet with a revised twin-turbocharged engine and significant cooling upgrades. Here are the performance details.",
+        "source_link": "https://www.motor1.com/news/804106/2027-dodge-charger-super-bee-sixpack-engine-specs-details/"
+      },
+      {
+        "rank": 8,
         "image": "https://kotaku.com/app/uploads/2026/08/pocket88.jpg",
         "title": "Pok\u00e9mon TCG Pocket Loses Nearly Half Its Players, And It\u2019s Pretty Obvious Why - Kotaku",
         "description": "The game's shortcomings have put a real hole in creator DeNA's financial results",
         "source_link": "https://kotaku.com/pokemon-tcg-pocket-dena-players-trading-hourglass-pull-rates-2000722438"
       },
       {
-        "rank": 2,
-        "image": "https://kotaku.com/app/uploads/2026/08/Dmon-screenshot-1200x675.jpg",
-        "title": "Overwatch's Mech Designers Must Really Want D.Mon To Die, Huh? - Kotaku",
-        "description": "I mean why else would they have her whole ass exposed like that?",
-        "source_link": "https://kotaku.com/new-overwatch-hero-dmon-bad-mech-design-2000722433"
-      },
-      {
-        "rank": 3,
+        "rank": 9,
         "image": "https://images.nintendolife.com/a1c22d797ccab/large.jpg",
         "title": "Final Fantasy XIV Online Updated On Switch 2, Here Are The Full Patch Notes - Nintendo Life",
         "description": "Faster load times and more",
         "source_link": "https://www.nintendolife.com/news/2026/08/final-fantasy-xiv-online-updated-on-switch-2-here-are-the-full-patch-notes"
       },
       {
-        "rank": 4,
+        "rank": 10,
         "image": "https://www.zdnet.com/a/img/resize/39cdf1d7217da3b68bfb58154eabfbad9d35e2a5/2025/10/08/6532e132-afe4-4b37-9bdd-7c30200f03ba/dsc07950.jpg?auto=webp&fit=crop&height=675&width=1200",
         "title": "I compared Google's pricier Pixel 11 series to Samsung's Galaxy lineup - here's the better value now - ZDNET",
         "description": "The Pixel 11 may cost more, but Google's software advantage may make it worth it for you.",
         "source_link": "https://www.zdnet.com/article/google-pricier-pixel-11-series-compared-to-samsung-galaxy-lineup-heres-the-better-value/"
-      },
-      {
-        "rank": 5,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a75e3cff851567be19b28e7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "\u2018Destiny 2\u2019 Players Are Miraculously Unvaulting Cut Content From The Game - Forbes",
-        "description": "It is one of the most infamous moments in Destiny history, when Bungie announced that it could no longer support the enormous mountain of content the game was amassing.",
-        "source_link": "https://www.forbes.com/sites/paultassi/2026/08/07/destiny-2-players-are-miraculously-unvaulting-cut-content-from-the-game/"
-      },
-      {
-        "rank": 6,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/iphone-18-pro-mockup-fi-new-color.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iPhone 18 Pro is getting even more \u2018Pro\u2019 this year in three ways - 9to5Mac",
-        "description": "iPhone 18 Pro and Pro Max will be unveiled soon, and rumors point to at least three ways the new models will be even more \u2018Pro\u2019 this year.",
-        "source_link": "https://9to5mac.com/2026/08/07/iphone-18-pro-is-getting-even-more-pro-this-year-in-three-ways/"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/strauss-zelnick-gta-take-two.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "As GTA 6 publisher Take-Two revises its 2027 net bookings up to $8.2bn, Strauss Zelnick confirms its sales are \"well over 90% digital\" - Eurogamer.net",
-        "description": "First Capcom, now Take-Two: Strauss Zelnick doesn't appear phased by PlayStation's migration to an 'all-digital future'.",
-        "source_link": "https://www.eurogamer.net/take-two-stock-digital-gta6-physical"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Sony-WH-1000XM488.jpg",
-        "title": "Sony WH-1000XM4C price and release date leaked - Notebookcheck",
-        "description": "According to a new leak, the Sony WH-1000XM4C will launch next month, in September, with a \u20ac249.99 price tag. At the moment, it's unknown if it is intended to be a refreshed version of the original model or a \"Lite\" edition.",
-        "source_link": "https://www.notebookcheck.net/Sony-WH-1000XM4C-price-and-release-date-leaked.1362589.0.html"
-      },
-      {
-        "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/gears-of-war-e-day-june-2026-screen-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Gears of War: E-Day multiplayer beta blows past series' records on Steam - Eurogamer.net",
-        "description": "Those who pre-ordered the game are hopping in, and more are expected next week as the doors are flung open to everyone.",
-        "source_link": "https://www.eurogamer.net/gears-of-war-multiplayer-beta-popular-steam"
       }
     ],
     "trending_movies": [
