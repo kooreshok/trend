@@ -1,76 +1,76 @@
 {
-  "last_updated": "August 10, 2026, 14:19 UTC",
+  "last_updated": "August 10, 2026, 15:55 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZzRUuXUW0Ko/v9/1200x800.jpg",
+        "title": "Apple Explores Shaking Up Its Smartwatch for a New Era - Bloomberg.com",
+        "description": "Also: The company\u2019s big iPhone event approaches.",
+        "source_link": "https://www.bloomberg.com/news/newsletters/2026-08-09/apple-explores-apple-watch-shake-up-company-prepares-for-september-iphone-event"
+      },
+      {
+        "rank": 2,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/donut-media-car-swearingen.jpg?resize=1151,1200",
+        "title": "This \u2018adversarial\u2019 pattern can prevent surveillance cameras from detecting you - TechCrunch",
+        "description": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
+        "source_link": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.videocardz.com/1/2026/08/STEAM-DECK-PLAYSTATION-PORTAL-HERO.webp",
+        "title": "Steam Deck gets one of PS Portal\u2019s key features - VideoCardz.com",
+        "description": "Steam Deck and Steam Machine users can now test PlayStation cloud streaming through a third-party Steam app. Asobi also supports select purchased PS5 games without connecting to a console.",
+        "source_link": "https://videocardz.com/newz/steam-deck-gets-one-of-ps-portals-key-features"
+      },
+      {
+        "rank": 4,
         "image": "https://images.nintendolife.com/a4005d34b1818/large.jpg",
         "title": "Round Up: The Reviews For Pok\u00e9mon Pokopia: Bubbly Basin Are In - Nintendo Life",
         "description": "Including first impressions of the new DLC",
         "source_link": "https://www.nintendolife.com/news/2026/08/round-up-the-reviews-for-pokemon-pokopia-bubbly-basin-are-in"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Pixel-11-Pro-teaser-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "The Pixel 11 won\u2019t be exciting \u2013 what do you want next year? - 9to5Google",
         "description": "We\u2019re just a few days out from the launch of Google\u2019s Pixel 11 series and, at this point, it\u2019s all...",
         "source_link": "http://9to5google.com/2026/08/09/google-pixel-11-boring/"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://www.slashgear.com/img/gallery/5-motorcycles-bikers-love-to-take-on-road-trips/l-intro-1785854552.jpg",
+        "title": "5 Motorcycles Bikers Love To Take On Road Trips - slashgear.com",
+        "description": "From the Harley-Davidson Road Glide to the Royal Enfield Himalayan, these five motorcycles deliver the comfort, capability, and range road trips demand.",
+        "source_link": "https://www.slashgear.com/2229930/motorcycles-bikers-love-road-trips/"
+      },
+      {
+        "rank": 7,
         "image": "https://i.pcmag.com/imagery/articles/03CSX7VpMxXDKQRPwDdPH3I-1.fit_lim.size_1200x630.v1786277673.png",
         "title": "Apple TV vs. Fire TV vs. Google TV vs. Roku: Every Major Smart TV Platform Compared - pcmag.com",
         "description": "Most TVs are smart, but what does that mean? I examine the smart TV software platforms in use today to help you determine which one offers the content and features you want.",
         "source_link": "https://www.pcmag.com/explainers/apple-tv-vs-fire-tv-vs-google-tv-vs-roku-every-smart-tv-platform-compared"
       },
       {
-        "rank": 4,
+        "rank": 8,
+        "image": "https://www.bgr.com/img/gallery/4-web-browsers-more-powerful-than-google-chrome/l-intro-1785517623.jpg",
+        "title": "4 Web Browsers More Powerful Than Google Chrome - bgr.com",
+        "description": "Google Chrome isn't the only option for power users. These browsers offer deeper customization, privacy tools, productivity features, and more.",
+        "source_link": "https://www.bgr.com/2229023/browsers-more-powerful-than-google-chrome/"
+      },
+      {
+        "rank": 9,
         "image": "https://nintendoeverything.com/wp-content/uploads/Minecraft-Sw-2-closed-beta.webp",
         "title": "Minecraft just got a Nintendo Switch 2 closed beta, here\u2019s a first look - Nintendo Everything",
         "description": "A closed beta has just been discovered for Minecraft and Nintendo Switch 2, and here's a first look at it in action.",
         "source_link": "https://nintendoeverything.com/minecraft-just-got-a-nintendo-switch-2-closed-beta-heres-a-first-look/"
       },
       {
-        "rank": 5,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Windows-11-Weather-app.jpg",
-        "title": "Microsoft Currently Falling Short On Its Promise To Make Windows 11 More RAM Efficient, As Built-In Weather App Consumes Nearly 20% Of 8GB Memory - Wccftech",
-        "description": "Despite promises of a leaner Windows 11, the built-in Weather app is consuming nearly 20% of memory on 8GB systems; here's what's going wrong",
-        "source_link": "https://wccftech.com/windows-11-weather-app-high-ram-usage/"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.sciencealert.com/images/2026/08/dying-corn.jpg",
-        "title": "The World's Vegetables Are Vanishing, And It's Quietly Wrecking Our Diets - ScienceAlert",
-        "description": "Most of us aren't eating anywhere near enough vegetables, and we're suffering the health consequences.",
-        "source_link": "https://www.sciencealert.com/the-worlds-vegetables-are-vanishing-and-its-quietly-wrecking-our-diets"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.wsj.net/im-97877759/social",
-        "title": "Apple Tests Chinese Memory Chips as Supply Squeeze Bites - wsj.com",
-        "description": "Maker of iPhones talks to China\u2019s CXMT, but any deal would be politically sensitive",
-        "source_link": "https://www.wsj.com/tech/apple-tests-chinese-memory-chips-as-supply-squeeze-bites-d292bb97"
-      },
-      {
-        "rank": 8,
-        "image": null,
-        "title": "Walmart\u2019s AI-enabled 2-in-1 laptop and tablet is now $90 - thestreet.com",
-        "description": null,
-        "source_link": "https://www.thestreet.com/deals/tabwee-10-inch-ai-enabled-2-in-1-laptop-and-tablet-walmart-flash-sale-august-2026"
-      },
-      {
-        "rank": 9,
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/quiz-collage-aug9.jpg",
-        "title": "American Culture Quiz: Test yourself on family fun and medical marvels - Fox News",
-        "description": "The American Culture Quiz is a weekly test of our national traits, trends, history and people. This time, test your knowledge of family fun, medical marvels and more.",
-        "source_link": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-family-fun-medical-marvels"
-      },
-      {
         "rank": 10,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/68da390866f01d6a514d7a67/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "Here\u2019s When Apple Will Reveal Its iPhone 18 Pro Special Event - Forbes",
-        "description": "Apple\u2019s next iPhones will go on sale in just over a month. But when should you start looking out for the confirmation of the special event? Here\u2019s all you need to know.",
-        "source_link": "https://www.forbes.com/sites/davidphelan/2026/08/09/heres-when-apple-will-reveal-its-iphone-18-pro-special-event-date/"
+        "image": "https://www.westsiderag.com/wp-content/uploads/2026/08/crankyHour-1panelLayout-1500x1080-v1b-e1786237988275.jpg",
+        "title": "Cranky Hour on the Upper West Side - West Side Rag",
+        "description": "By Gary Martin Gary B. Martin\u00a0is an illustrator and animator who has lived on the Upper West Side for more",
+        "source_link": "https://www.westsiderag.com/2026/08/09/cranky-hour-on-the-upper-west-side"
       }
     ],
     "trending_movies": [
@@ -90,24 +90,24 @@
       },
       {
         "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "title": "The Invite",
+        "description": "Joe and Angela\u2019s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected pl...",
+        "source_link": "https://www.themoviedb.org/movie/950028"
+      },
+      {
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
         "title": "The Last House",
         "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped....",
         "source_link": "https://www.themoviedb.org/movie/1284041"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/dQuIUweJVXCqUOOizctGRfgy2Ty.jpg",
-        "title": "No Way Home",
-        "description": "Behind every secret lies a greater lie. When an unknown entity appears, reality begins to fracture as long-hidden truths and an ancient conspiracy col...",
-        "source_link": "https://www.themoviedb.org/movie/1719380"
-      },
-      {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-        "title": "The Invite",
-        "description": "Joe and Angela\u2019s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected pl...",
-        "source_link": "https://www.themoviedb.org/movie/950028"
+        "image": "https://image.tmdb.org/t/p/w200/tfgccePxnswMqhmtxafliLlcCVR.jpg",
+        "title": "Jackass: Best and Last",
+        "description": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade....",
+        "source_link": "https://www.themoviedb.org/movie/1612018"
       },
       {
         "rank": 6,
@@ -118,24 +118,24 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/tfgccePxnswMqhmtxafliLlcCVR.jpg",
-        "title": "Jackass: Best and Last",
-        "description": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade....",
-        "source_link": "https://www.themoviedb.org/movie/1612018"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
         "title": "The End of Oak Street",
         "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
         "source_link": "https://www.themoviedb.org/movie/1101383"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
         "title": "THE RIBBON HERO",
         "description": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fa...",
         "source_link": "https://www.themoviedb.org/movie/1679730"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+        "title": "Evil Dead Burn",
+        "description": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-...",
+        "source_link": "https://www.themoviedb.org/movie/1212763"
       },
       {
         "rank": 10,
