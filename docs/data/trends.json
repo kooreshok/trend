@@ -1,76 +1,76 @@
 {
-  "last_updated": "August 10, 2026, 18:50 UTC",
+  "last_updated": "August 10, 2026, 19:51 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.mos.cms.futurecdn.net/muNUpxoDCXvXXStVtxDShM-1746-80.jpg",
+        "title": "Made by Google 2026 Launch Live: Pixel 11, Pixel 11 Pro Fold, Pixel Watch 5, Gemini, and all the news - Android Central",
+        "description": "The Pixel event is happening next week, and we're tracking all the news and everything you need to know!",
+        "source_link": "https://www.androidcentral.com/phones/live/made-by-google-2026-launch-live-pixel-11-pixel-11-pro-fold-pixel-watch-5-gemini-and-all-the-news"
+      },
+      {
+        "rank": 2,
         "image": "https://assetsio.gnwcdn.com/release-asobi-remote-play-for-steam-deck-machine-linux-is-v0-mtu29gka8zhh1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Steam Deck can now do something Sony usually charges \u00a3200 for thanks to this new cloud-streaming app - Eurogamer.net",
         "description": "A new cloud-streaming app that lets players stream PlayStation games to their Steam Deck and Steam Machine without a PS5 has just opened a playtest.",
         "source_link": "https://www.eurogamer.net/steam-deck-ps5-streaming-app-asobi"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": null,
+        "title": "Amazon\u2019s $86 2-in-1 laptop and tablet has fully-integrated AI features - thestreet.com",
+        "description": null,
+        "source_link": "https://www.thestreet.com/shopping/aiprotablet-10-inch-android-16-tablet-amazon"
+      },
+      {
+        "rank": 4,
         "image": "https://images.macrumors.com/t/utojh2KSAyPpmL2zSSHd0_hnVQQ=/2500x/article-new/2025/08/Apple-Foldable-Thumb.jpg",
         "title": "Foldable 'iPhone Ultra 3' Rumored to Feature Larger Displays - MacRumors",
         "description": "Apple is already making plans for its third-generation foldable iPhone, with launch expected as early as 2028, according to Bloomberg's Mark...",
         "source_link": "https://www.macrumors.com/2026/08/09/iphone-ultra-3-rumored-to-feature-larger-displays/"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://assetsio.gnwcdn.com/Battlefield-6-Official-Multiplayer-Gameplay-Trailer-1-27-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "This Battlefield 6 player somehow got a full refund with 470 hours on the clock - Eurogamer.net",
         "description": "A Battlefield 6 player \"upset\" at the removal of the popular Rush mode claims to have secured a full refund from Steam despite having clocked up 470 hours.",
         "source_link": "https://www.eurogamer.net/battlefield-6-steam-refund-rush-mode"
       },
       {
-        "rank": 4,
+        "rank": 6,
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/polly-bibby-eye-reaction.jpg",
+        "title": "Bride cautions others before wedding day about risky beauty treatments: 'Pain wasn't worth it' - Fox News",
+        "description": "A young bride's eyes swelled shut with yellow discharge hours after getting eyelash extensions for her wedding \u2014 landing her in a hospital emergency room.",
+        "source_link": "https://www.foxnews.com/health/bride-cautions-others-before-wedding-day-risky-beauty-treatments-pain-wasnt-worth-it"
+      },
+      {
+        "rank": 7,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/08/Ceramic.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "A new ceramic Apple Watch could go on sale soon - 9to5Mac",
         "description": "Bloomberg\u2019s Mark Gurman wrote today that Apple is planning a return of the much-beloved ceramic Apple Watch. In fact, Gurman...",
         "source_link": "https://9to5mac.com/2026/08/09/a-new-ceramic-apple-watch-could-go-on-sale-soon/"
       },
       {
-        "rank": 5,
+        "rank": 8,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZzRUuXUW0Ko/v9/1200x800.jpg",
         "title": "Apple Explores Shaking Up Its Smartwatch for a New Era - Bloomberg.com",
         "description": "Also: The company\u2019s big iPhone event approaches.",
         "source_link": "https://www.bloomberg.com/news/newsletters/2026-08-09/apple-explores-apple-watch-shake-up-company-prepares-for-september-iphone-event"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://techcrunch.com/wp-content/uploads/2026/08/donut-media-car-swearingen.jpg?resize=1151,1200",
         "title": "This \u2018adversarial\u2019 pattern can prevent surveillance cameras from detecting you - TechCrunch",
         "description": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras.",
         "source_link": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/"
       },
       {
-        "rank": 7,
+        "rank": 10,
         "image": "https://images.nintendolife.com/0dbc4b4f42471/large.jpg",
         "title": "Minecraft Arrives On Switch 2 This October, Digital Upgrade Path Confirmed - nintendolife.com",
         "description": "Update: Minecraft Switch 2 closed beta reportedly goes live",
         "source_link": "https://www.nintendolife.com/news/2026/08/minecraft-arrives-on-switch-2-this-october-digital-upgrade-path-confirmed"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows_11_01.jpg",
-        "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM - Notebookcheck",
-        "description": "A new report shows Windows 11's built-in Weather app can consume more than 1 GB of RAM. By comparison, Apple's native Weather app on macOS uses roughly five times less memory under similar conditions.",
-        "source_link": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Pixel-11-Pro-teaser-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "The Pixel 11 won\u2019t be exciting \u2013 what do you want next year? - 9to5Google",
-        "description": "We\u2019re just a few days out from the launch of Google\u2019s Pixel 11 series and, at this point, it\u2019s all...",
-        "source_link": "http://9to5google.com/2026/08/09/google-pixel-11-boring/"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.nintendolife.com/a4005d34b1818/large.jpg",
-        "title": "Round Up: The Reviews For Pok\u00e9mon Pokopia: Bubbly Basin Are In - Nintendo Life",
-        "description": "Including first impressions of the new DLC",
-        "source_link": "https://www.nintendolife.com/news/2026/08/round-up-the-reviews-for-pokemon-pokopia-bubbly-basin-are-in"
       }
     ],
     "trending_movies": [
@@ -90,17 +90,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
         "title": "The Last House",
         "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped....",
         "source_link": "https://www.themoviedb.org/movie/1284041"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
         "rank": 5,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/mwmfEqWXZG6HmAUuN5SjO8s7UNV.jpg",
-        "title": "Beast Race",
-        "description": "In future Rio de Janeiro, a young leader of the resistance must enter a deadly parkour-inspired competition in order to save his sister's life....",
-        "source_link": "https://www.themoviedb.org/movie/1263532"
+        "image": "https://image.tmdb.org/t/p/w200/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+        "title": "Supergirl",
+        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
+        "source_link": "https://www.themoviedb.org/movie/1081003"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg",
-        "title": "Masters of the Universe",
-        "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rul...",
-        "source_link": "https://www.themoviedb.org/movie/454639"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
         "title": "THE RIBBON HERO",
         "description": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fa...",
         "source_link": "https://www.themoviedb.org/movie/1679730"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+        "title": "Evil Dead Burn",
+        "description": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-...",
+        "source_link": "https://www.themoviedb.org/movie/1212763"
       }
     ]
   }
