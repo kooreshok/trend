@@ -1,5 +1,5 @@
 {
-  "last_updated": "August 11, 2026, 09:55 UTC",
+  "last_updated": "August 11, 2026, 10:47 UTC",
   "categories": {
     "tech_news": [
       {
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-        "title": "THE RIBBON HERO",
-        "description": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fa...",
-        "source_link": "https://www.themoviedb.org/movie/1679730"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/ntW9zzhDmbt3sXDyPXb7SHVuDdB.jpg",
         "title": "Young Washington",
         "description": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choo...",
         "source_link": "https://www.themoviedb.org/movie/1308767"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
+        "title": "THE RIBBON HERO",
+        "description": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fa...",
+        "source_link": "https://www.themoviedb.org/movie/1679730"
       }
     ]
   }
