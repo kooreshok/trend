@@ -1,41 +1,41 @@
 {
-  "last_updated": "August 11, 2026, 03:39 UTC",
+  "last_updated": "August 11, 2026, 05:02 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.bgr.com/img/gallery/how-does-your-samsung-galaxy-watch-measure-antioxidant-levels/l-intro-1785348021.jpg",
+        "title": "How Does Your Samsung Galaxy Watch Measure Antioxidant Levels? - bgr.com",
+        "description": "You might not know this, but your Samsung Galaxy smartwatch has a function to measure your antioxidant levels, which it does with special LEDs.",
+        "source_link": "https://www.bgr.com/2229118/how-samsung-galaxy-watch-antioxidant-sensor-works/"
+      },
+      {
+        "rank": 2,
         "image": "https://www.slashgear.com/img/gallery/7-common-issues-with-the-toyota-gr-corolla-hot-hatch/l-intro-1785881143.jpg",
         "title": "7 Common Issues With The Toyota GR Corolla Hot Hatch - SlashGear",
         "description": "The Toyota GR Corolla Hot Hatch is essentially a rally car made street legal, but before you buy one, you should keep in mind these common issues.",
         "source_link": "https://www.slashgear.com/2230733/common-issues-toyota-gr-corolla/"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://www.slashgear.com/img/gallery/15-mini-gadgets-that-can-easily-fit-into-your-pocket-or-backpack/l-intro-1785879169.jpg",
         "title": "15 Mini Gadgets That Can Easily Fit Into Your Pocket Or Backpack - SlashGear",
         "description": "If you're looking for useful everyday carry gear, these compact gadgets will slip into your pocket and solve real problems wherever you go.",
         "source_link": "https://www.slashgear.com/2230479/mini-gadgets-easily-fit-into-pocket-backpack/"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://imageio.forbes.com/specials-images/imageserve/6a7680a1adf698bf2e785174/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "iPhone 18 Pro Release Date: Demand Drives September Launch - Forbes",
         "description": "Apple's September launch of the iPhone 18 Pro family is more than tradition. It is a key part of the entire ecosystem, all built around this fixed date in the calendar.",
         "source_link": "https://www.forbes.com/sites/ewanspence/2026/08/09/apple-iphone-18-pro-september-launch-window-supply-chain-analysis/"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": null,
         "title": "The next year Call of Duty will introduce a new sub-series to replace Black Ops and Modern Warfare - GameGPU",
         "description": null,
         "source_link": "https://en.gamegpu.com/news/igry/v-sleduyushchem-godu-call-of-duty-predstavit-novuyu-podseriiyu-vmesto-black-ops-i-modern-warfare"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.phoronix.net/image.php?id=2026&image=linux_72_rc7",
-        "title": "Linux 7.2-rc7 Released Following Another Exhausting AI-Driven Week - Phoronix",
-        "description": "Linux 7.2-rc7 is now available for testing as we close in on the official Linux 7.2 release hopefully next weekend.",
-        "source_link": "https://www.phoronix.com/news/Linux-7.2-rc7-Released"
       },
       {
         "rank": 6,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/nUCkV0iODxbULZQ5vRN1sDjPrpk.jpg",
-        "title": "THE RIBBON HERO",
-        "description": "When the monstrous Nergal devastates her kingdom, Princess Sapphire reawakens as the Ribbon Hero and fights to save her new home from the same dark fa...",
-        "source_link": "https://www.themoviedb.org/movie/1679730"
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
       }
     ]
   }
