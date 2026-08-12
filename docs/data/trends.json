@@ -1,69 +1,76 @@
 {
-  "last_updated": "August 12, 2026, 18:55 UTC",
+  "last_updated": "August 12, 2026, 19:58 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_16661.png?quality=90&strip=all&crop=0,3.4249563699826,100,93.150087260035",
+        "title": "Google\u2019s upcoming Pixel phones are for the fans, even if its launch event isn\u2019t - The Verge",
+        "description": "Made by Google 2026 will be a celebrity livestream that feels like a play for the mainstream, but the Pixel 11 phones themselves could have power user appeal.",
+        "source_link": "https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.digitalfoundry.net/e20b3f5a33e7b/large.jpg",
+        "title": "Bethesda Acknowledges Demand for Oblivion Remastered Patch, Calls for Calm - Digital Foundry",
+        "description": "\"We are looking into bringing [Switch 2 optimisations] to other platforms.\"",
+        "source_link": "https://www.digitalfoundry.net/news/2026/08/bethesda-acknowledges-demand-for-oblivion-remastered-patch-calls-for-calm"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.nintendolife.com/8afd7d3b7b8db/large.jpg",
+        "title": "Elden Ring For Switch 2 Is Looking Pretty Slick In New Story Trailer - Nintendo Life",
+        "description": "Not so tarnished, eh?",
+        "source_link": "https://www.nintendolife.com/news/2026/08/elden-ring-for-switch-2-is-looking-pretty-slick-in-new-story-trailer"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/08/LotR-War-North-Legacy-Edition_08-11-26.jpg",
+        "title": "The Lord of the Rings: War in the North - Legacy Edition now available for PS5, Xbox Series, Switch 2, Switch, and PC - Gematsu",
+        "description": "Aspyr ha announced and released The Lord of the Rings: War in the North \u2013 Legacy Edition, a remastered version of Snowblind Studios\u2019 2011-released action RPG, for PlayStation 5, Xbox Se\u2026",
+        "source_link": "https://www.gematsu.com/2026/08/the-lord-of-the-rings-war-in-the-north-legacy-edition-now-available-for-ps5-xbox-series-switch-2-switch-and-pc"
+      },
+      {
+        "rank": 5,
+        "image": "https://assets-prd.ignimgs.com/2026/08/07/ign-first-controlresonant-2-combatdetails-blogroll-1786102550782.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Control Resonant Wants 'To Challenge' What\u2019s Come Before In Action Games - IGN",
+        "description": "Control Resonant wants 'to challenge' what\u2019s come before in action games. We take a deep dive into Remedy's first full swing at melee combat.",
+        "source_link": "https://www.ign.com/articles/control-resonant-wants-to-challenge-whats-come-before-in-action-games-ign-first"
+      },
+      {
+        "rank": 6,
         "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Switch-2-Zelda-Pro-Controller.jpg",
         "title": "Zelda-themed Nintendo Switch 2 console and Pro Controller leaked - Notebookcheck",
         "description": "Nintendo is reportedly planning to launch a new limited-edition Zelda-themed Nintendo Switch 2 console and a matching Pro Controller to celebrate the series' 40th anniversary. And a new leak has now given us our first look at the hardware.",
         "source_link": "https://www.notebookcheck.net/Zelda-themed-Nintendo-Switch-2-console-and-Pro-Controller-leaked.1365883.0.html"
       },
       {
-        "rank": 2,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iPhone Ultra will have two features that \u2018Pro\u2019 users should love - 9to5Mac",
-        "description": "iPhone 18 Pro or iPhone Ultra? That\u2019s the decision upgraders will soon face. Here are two iPhone Ultra features that \u2018Pro\u2019 users should love.",
-        "source_link": "https://9to5mac.com/2026/08/11/iphone-ultra-will-have-two-features-that-pro-users-should-love/"
+        "rank": 7,
+        "image": "https://images.digitalfoundry.net/fcf11b3f0f729/large.jpg",
+        "title": "The Gears of War: E-Day Beta Shows UE5 Visuals at Their Best, Despite Sometimes Shaky Performance on Series X/S - Digital Foundry",
+        "description": "An important Xbox exclusive is shaping up nicely.",
+        "source_link": "https://www.digitalfoundry.net/previews/the-gears-of-war-e-day-beta-shows-ue5-visuals-at-their-best-despite-sometimes-shaky-performance-on-series-xs"
       },
       {
-        "rank": 3,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a7b2d58a5ea9228c3fd9c7e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "What\u2019s In The $100 \u2018GTA VI\u2019 Ultimate Edition, Which Most Fans Are Buying - Forbes",
-        "description": "While most players are upset the price of gaming is going up, a majority of them are willing to pay $100 for the GTA VI Ultimate Edition. Here's what's inside.",
-        "source_link": "https://www.forbes.com/sites/paultassi/2026/08/11/whats-in-the-100-gta-vi-ultimate-edition-which-most-fans-are-buying/"
-      },
-      {
-        "rank": 4,
+        "rank": 8,
         "image": "https://images.macrumors.com/t/3W26Rv2AgG-jzjMnQcwrrXDfnrc=/2500x/article-new/2026/08/iPhone-18-Pro-Dark-Cherry-Feature.jpg",
         "title": "iPhone 18 Pro Will Reportedly Start With 256GB of Storage - MacRumors",
         "description": "While the iPhone 17 Pro has double the base storage compared to the iPhone 16 Pro, there will apparently be no further increase this year.   In a...",
         "source_link": "https://www.macrumors.com/2026/08/11/iphone-18-pro-base-256gb-storage-report/"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "iOS 27 beta 5 adds option to upgrade iCloud+ subscription for more AI - 9to5Mac",
         "description": "iOS 27 beta 5 includes confirmation of something Apple has hinted before: paying for higher iCloud+ tiers unlocks more access to AI features.",
         "source_link": "https://9to5mac.com/2026/08/11/ios-27-beta-5-adds-option-to-upgrade-icloud-subscription-for-more-ai/"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://kotaku.com/app/uploads/2025/02/fb0dc7e15f3f97b7b7b2f7960c45faaa-1200x675.jpg",
         "title": "Overwatch Battle Pass Revamp Is Helping With The FOMO - Kotaku",
         "description": "The game\u2019s shift to a Battle Pass structure in 2022 has made it difficult to get cosmetics if you\u2019re not playing consistently each season",
         "source_link": "https://kotaku.com/overwatch-battle-pass-revamp-unvaulted-old-skins-unlock-2000723394"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-10-at-10.31.39-AM.png?quality=90&strip=all&crop=0,9.5560437679216,100,80.887912464157",
-        "title": "Why your Amazon order confirmation emails have become so unhelpful - The Verge",
-        "description": "Amazon\u2019s order emails no longer show what specific items a customer has purchased. The vague emails are likely partially related to the fight for data in the agentic AI era.",
-        "source_link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data"
-      },
-      {
-        "rank": 8,
-        "image": "https://assetsio.gnwcdn.com/Screenshot-from-Gears-of-War-E-Day.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Gears of War E-Day is at the centre of a heated movement debate, as players new and old are torn on wall-bouncing - Eurogamer.net",
-        "description": "After a weekend of multiplayer action, social media is alight with discussion around movement in Gears of War.",
-        "source_link": "https://www.eurogamer.net/gears-of-war-e-day-movement-wall-bouncing-debate-good-or-bad"
-      },
-      {
-        "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/directive-8020_9wViY6J.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Supermassive Games announces layoffs, up to 75 workers may be affected - GamesIndustry.biz",
-        "description": "This marks the third round of job cuts at the Guildford-based studio in three years",
-        "source_link": "https://www.gamesindustry.biz/supermassive-games-announces-layoffs-up-to-75-workers-may-be-affected"
       }
     ],
     "trending_movies": [
@@ -76,31 +83,31 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
-        "title": "The End of Oak Street",
-        "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
-        "source_link": "https://www.themoviedb.org/movie/1101383"
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
         "title": "The Invite",
         "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected pl...",
         "source_link": "https://www.themoviedb.org/movie/950028"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
+        "title": "The End of Oak Street",
+        "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
+        "source_link": "https://www.themoviedb.org/movie/1101383"
       },
       {
         "rank": 6,
@@ -111,17 +118,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/l5h8kKSXYCrM3rtjeX1oL0Sgnxj.jpg",
-        "title": "Nando Between Two Worlds - A Sintonia Film",
-        "description": "...",
-        "source_link": "https://www.themoviedb.org/movie/1487864"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
         "title": "The Last House",
         "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped....",
         "source_link": "https://www.themoviedb.org/movie/1284041"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
+        "title": "Nando Between Two Worlds - A Sintonia Film",
+        "description": "Caught between family life and his obligations to the criminal underworld, Nando faces an impossible choice about where his true loyalties lie....",
+        "source_link": "https://www.themoviedb.org/movie/1487864"
       },
       {
         "rank": 9,
@@ -132,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/tfgccePxnswMqhmtxafliLlcCVR.jpg",
-        "title": "Jackass: Best and Last",
-        "description": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade....",
-        "source_link": "https://www.themoviedb.org/movie/1612018"
+        "image": "https://image.tmdb.org/t/p/w200/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+        "title": "Supergirl",
+        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
+        "source_link": "https://www.themoviedb.org/movie/1081003"
       }
     ]
   }
