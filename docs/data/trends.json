@@ -1,76 +1,69 @@
 {
-  "last_updated": "August 12, 2026, 23:35 UTC",
+  "last_updated": "August 13, 2026, 01:37 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/closer-xbox-elite-3-leak.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen - The Verge",
+        "description": "A Redditor has legit-looking photos of a prototype Xbox controller that\u2019s almost certainly the Xbox Elite Series 3.",
+        "source_link": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen"
+      },
+      {
+        "rank": 2,
+        "image": "https://krebsonsecurity.com/wp-content/uploads/2026/08/workingonpc.png",
+        "title": "Microsoft Plugs Nearly 400 Security Holes - Krebs on Security",
+        "description": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
+        "source_link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/"
+      },
+      {
+        "rank": 3,
+        "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/20260811_095802.jpg",
+        "title": "Xbox CEO Asha Sharma Gushes About Elder Scrolls VI, Does Not Seem To Notice Giant Rat On Bethesda Office Lawn - Aftermath",
+        "description": "Please clap (instead of talking about layoffs)",
+        "source_link": "https://aftermath.site/xbox-asha-sharma-elder-scrolls-vi-bethesda-giant-rat/"
+      },
+      {
+        "rank": 4,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg",
         "title": "Chrome adopts what may be the best protection yet against account takeovers - Ars Technica",
         "description": "Device-bound session credentials thwart an increasingly common form of account takeover.",
         "source_link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://dims.apnews.com/dims4/default/517f034/2147483647/strip/true/crop/1000x666+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa8%2F3a%2F26e1fd440e90871ec53bb7407bfa%2Fd0e1fa3bbd504cca9472a9d128b7f6c3",
         "title": "Ultra rare Nintendo Mario game cartridges discovered in Wisconsin - AP News",
         "description": "A set of unique, extremely rare Super Mario cartridges was found in a gaming store in Waukesha, Wisconsin, and will be auctioned off starting Friday. Jason Ganos with Nintendo Wire said he discovered the products after they had been hidden away in a storage u\u2026",
         "source_link": "https://apnews.com/article/nintendo-wisconsin-mario-cartridges-video-de88a9fd5643913454328830e73f74c2"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "\u2018Everyone\u2019 at Apple uses iPhone Ultra name, says Mark Gurman - 9to5Mac",
         "description": "Mark Gurman says that \u2018iPhone Ultra\u2019 is the name widely used within Apple when referring to the upcoming foldable model.",
         "source_link": "https://9to5mac.com/2026/08/11/everyone-at-apple-uses-iphone-ultra-name-says-mark-gurman/"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://kotaku.com/app/uploads/2026/08/kingsfield42-1-1200x675.jpg",
         "title": "King's Field IV Will Kill You, And Some Of You Will Like It - Kotaku",
         "description": "Beware: Poison",
         "source_link": "https://kotaku.com/kings-field-4-kill-you-like-it-2000722569"
       },
       {
-        "rank": 5,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-noise-cancellation-anc.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "AirPods Pro 3 and more just got new public beta firmware - 9to5Mac",
-        "description": "Apple released iOS 27 public beta 3 today, and now new beta firmware has also arrived for AirPods Pro 3, AirPods Pro 2, and more.",
-        "source_link": "https://9to5mac.com/2026/08/11/airpods-pro-3-and-more-just-got-new-public-beta-firmware/"
-      },
-      {
-        "rank": 6,
-        "image": "https://kotaku.com/app/uploads/2026/08/scabby.jpg",
-        "title": "In Protest Of Mass Layoffs, Bethesda Devs Greet Xbox Leadership With A Giant Inflatable Rat - Kotaku",
-        "description": "'We heard that Microsoft leadership was coming to our office this week, and decided to make our presence visible'",
-        "source_link": "https://kotaku.com/xbox-protests-zenimax-studios-maryland-scabby-cwa-2000723471"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
-        "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days - BleepingComputer",
-        "description": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities.",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/"
-      },
-      {
         "rank": 8,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/google-tv-freeplay-movies-ondemand.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google TV adds over 10,000 free movies & shows on-demand, no apps needed - 9to5Google",
+        "description": "An update to Google TV Freeplay is bringing over 10,000 free movies and TV shows to the platform, no apps needed.",
+        "source_link": "http://9to5google.com/2026/08/11/google-tv-free-movies-on-demand/"
+      },
+      {
+        "rank": 9,
         "image": "https://kotaku.com/app/uploads/2026/08/Stop-Killing-Games-official-logo-1200x675.jpg",
         "title": "Stop Killing Games Joins Lawsuit Against Sony Over Its \u2018Total Control Of PlayStation Store Pricing\u2019 - Kotaku",
         "description": "Both Stop Killing Games and DoesItPlay are lending their support to a lawsuit against the digital 'monopoly'",
         "source_link": "https://kotaku.com/stop-killing-games-joins-lawsuit-against-sony-over-its-total-control-of-playstation-store-pricing-2000723377"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.notateslaapp.com/img/containers/article_images/2026/preferred-routes-1.webp/19e1a679c8c7b8399faafa6232a631ad/preferred-routes-1.jpg",
-        "title": "Tesla's New 'Preferred Routes' Doesn't Require the Summer Update - notateslaapp.com",
-        "description": "One of Tesla's most exciting Summer Update features does not require receiving the 2026.26 vehicle update.",
-        "source_link": "https://www.notateslaapp.com/news/4566/teslas-new-preferred-routes-doesnt-require-the-summer-update"
-      },
-      {
-        "rank": 10,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Grok Bot is an all-new iPhone and Mac app from SpaceXAI and Cursor - 9to5Mac",
-        "description": "SpaceXAI and Cursor are in the process of becoming a single company, but first, the two firms are releasing an...",
-        "source_link": "https://9to5mac.com/2026/08/11/grok-bot-is-an-all-new-iphone-and-mac-app-from-spacexai-and-cursor/"
       }
     ],
     "trending_movies": [
@@ -97,38 +90,38 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-        "title": "The Invite",
-        "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected pl...",
-        "source_link": "https://www.themoviedb.org/movie/950028"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
         "title": "The End of Oak Street",
         "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
         "source_link": "https://www.themoviedb.org/movie/1101383"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
-        "title": "Young Washington",
-        "description": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choo...",
-        "source_link": "https://www.themoviedb.org/movie/1308767"
-      },
-      {
-        "rank": 7,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
         "title": "Nando Between Two Worlds - A Sintonia Film",
         "description": "Caught between family life and his obligations to the criminal underworld, Nando faces an impossible choice about where his true loyalties lie....",
         "source_link": "https://www.themoviedb.org/movie/1487864"
       },
       {
-        "rank": 8,
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "title": "The Invite",
+        "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected pl...",
+        "source_link": "https://www.themoviedb.org/movie/950028"
+      },
+      {
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
         "title": "The Last House",
         "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped....",
         "source_link": "https://www.themoviedb.org/movie/1284041"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
+        "title": "Young Washington",
+        "description": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choo...",
+        "source_link": "https://www.themoviedb.org/movie/1308767"
       },
       {
         "rank": 9,
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-        "title": "Supergirl",
-        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
-        "source_link": "https://www.themoviedb.org/movie/1081003"
+        "image": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+        "title": "Project Hail Mary",
+        "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory return...",
+        "source_link": "https://www.themoviedb.org/movie/687163"
       }
     ]
   }
