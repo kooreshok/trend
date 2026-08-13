@@ -1,76 +1,69 @@
 {
-  "last_updated": "August 13, 2026, 16:51 UTC",
+  "last_updated": "August 13, 2026, 17:53 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-app-drawer-3.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google redesigns icons for Pixel Camera, Calculator, Clock, Recorder, & Weather apps - 9to5Google",
-        "description": "With the launch of the Pixel 11, Google has updated a handful of Pixel app icons to better align with its latest design language.",
-        "source_link": "http://9to5google.com/2026/08/12/pixel-camera-icon-redesign-more/"
+        "image": "https://assets-prd.ignimgs.com/2026/08/10/cyberpowerpcgamerxtreme-1786402775435.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "The CyberPowerPC RTX 5070 Gaming PC Drops to $1,399 Shipped and Includes Two Upcoming PC Games - IGN",
+        "description": "Get Star Wars Galactic Racer and Tomb Raider: Legacy of Atlantis for free as part of the Intel Gamer Days event.",
+        "source_link": "https://www.ign.com/articles/cyberpowerpc-geforce-rtx-5070-gaming-pc-deal-august-2026"
       },
       {
         "rank": 2,
+        "image": "https://techcrunch.com/wp-content/uploads/2022/06/moshed-windows-11.jpg?resize=1200,752",
+        "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug - TechCrunch",
+        "description": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them.",
+        "source_link": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/"
+      },
+      {
+        "rank": 3,
+        "image": "https://assetsio.gnwcdn.com/witcher-3-geralt_uS0zYOX.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Multiplayer Witcher spin-off Project Sirius reportedly hit by layoffs again, in \"broader shift in development strategy\" at CD Projekt Red - Eurogamer.net",
+        "description": "Of all the games CD Projekt Red has in development, the multiplayer-linked Witcher spin-off Project Sirius has had the most trouble.",
+        "source_link": "https://www.eurogamer.net/cd-projekt-red-project-sirius-layoffs"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.videogameschronicle.com/files/2026/08/E-Day-Controller-Collection-e01b6ed7344d088376e3.jpg",
+        "title": "Xbox officially reveals its limited edition Gears of War E-Day controller, plus new Design Lab options - Video Games Chronicle",
+        "description": "The controller and Design Lab update will both launch on September 30",
+        "source_link": "https://www.videogameschronicle.com/news/xbox-officially-reveals-its-limited-edition-gears-of-war-e-day-controller-plus-new-design-lab-options/"
+      },
+      {
+        "rank": 5,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/69f0b2cce6907e334cf464df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "\u2018Crimson Desert\u2019 DLC Is Imminent, Multiplayer Modes Ahead - Forbes",
+        "description": "Crimson Desert is getting DLC very soon, and Pearl Abyss is looking ahead to multiplayer for the smash hit game.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/08/12/crimson-desert-dlc-is-imminent-multiplayer-modes-ahead/"
+      },
+      {
+        "rank": 6,
         "image": "https://kotaku.com/app/uploads/2025/05/6235f61a2f468a596e148f467ed6c22f.jpg",
         "title": "Oblivion Remastered Is Fine On Switch 2, But Fans Want A PS5 Patch - Kotaku",
         "description": "Many players want Bethesda to update the RPG on PS5 and Xbox following the release of the new port",
         "source_link": "https://kotaku.com/the-oblivion-remaster-on-switch-2-is-better-than-expected-and-fans-are-angry-2000723781"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://imageio.forbes.com/specials-images/imageserve/6a64ac61c8dfb6888f9e71cf/0x0.jpg?format=jpg&crop=2562,1439,x255,y0,safe&height=900&width=1600&fit=bounds",
         "title": "\u2018Palworld\u2019 Patch Notes: Big Buffs For Way Less Grinding - forbes.com",
         "description": "Here are the Palworld patch notes for its latest update, which significantly nerfs some of the most annoying grinds in the game.",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/08/12/palworld-patch-notes-big-buffs-for-way-less-grinding/"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://techcrunch.com/wp-content/uploads/2026/08/Portfolio-3-1.png?resize=1200,675",
         "title": "Everything announced at Made by Google '26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features - TechCrunch",
         "description": "From the Pixel 11 series and a brand new competitor to Apple\u2019s AirTag, here are all the announcements from the Made by Google 2026 event.",
         "source_link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-pixel-11-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google starts rolling out Tap to Share for Pixel 6 and newer - 9to5Google",
         "description": "While Tap to Share was announced with the Pixel 11 series, it\u2019s also beginning to roll out for the Pixel 6 and newer today...",
         "source_link": "http://9to5google.com/2026/08/12/pixel-tap-to-share/"
-      },
-      {
-        "rank": 6,
-        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_Buds_Pro_2_and_Pixel_Buds_.max-1440x810.png",
-        "title": "Here\u2019s what\u2019s new with Pixel Buds Pro 2 and Pixel Buds 2a. - blog.google",
-        "description": "Google is launching a new color and upgraded features for Pixel Buds Pro 2 and Pixel Buds 2a as part of Made by Google.",
-        "source_link": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-buds-mbg-2026/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/MBG-Pixel-11-cases-28.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google-made Pixel 11 cases and Pixelsnap accessories get fresh hues [Gallery] - 9to5Google",
-        "description": "The Pixel 11, no matter which model you look at, ranges from bright and loud to quiet and stealthy colorways....",
-        "source_link": "http://9to5google.com/2026/08/12/google-made-pixel-11-cases-new-colors/"
-      },
-      {
-        "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Watch-5-on-stand.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Google\u2019s Pixel Watch 5 dives deeper into AI and health - The Verge",
-        "description": "The $399 Google Pixel Watch 5 doesn\u2019t change much in terms of hardware, but it features a ton of new AI and health updates.",
-        "source_link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Tag-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "The Pixel Tag is Google\u2019s answer to the AirTag - The Verge",
-        "description": "The $29 tracker combines UWB with Bluetooth channel sounding.",
-        "source_link": "https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.macrumors.com/t/EnMyTXcDkucRK4arsxQ4C2a7rGQ=/1600x/article-new/2026/07/Apple-Skipping-iPhone-18-This-Year.jpg",
-        "title": "Apple Skipping iPhone 18 Launch This Year - MacRumors",
-        "description": "Apple supplier Pegatron today indirectly confirmed that the standard iPhone 18 model will not be released until next year, according to a new report....",
-        "source_link": "https://www.macrumors.com/2026/08/12/apple-skipping-iphone-18-launch-this-year/"
       }
     ],
     "trending_movies": [
