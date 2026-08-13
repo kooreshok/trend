@@ -1,5 +1,5 @@
 {
-  "last_updated": "August 13, 2026, 08:16 UTC",
+  "last_updated": "August 13, 2026, 09:58 UTC",
   "categories": {
     "tech_news": [
       {
@@ -25,45 +25,52 @@
       },
       {
         "rank": 4,
+        "image": "https://assets-prd.ignimgs.com/2026/08/11/acerpredatororion-1786485689059.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Amazon Is Offering a Great Deal on a GeForce RTX 5070 Ti Gaming PC, and It Includes Two Upcoming AAA Games - IGN",
+        "description": "The RTX 5070 Ti graphics card is powerful enough to run the latest games smoothly at 4K.",
+        "source_link": "https://www.ign.com/articles/acer-predator-orion-rtx-5070-ti-gaming-pc-deal-intel-gamer-days-sale"
+      },
+      {
+        "rank": 5,
+        "image": "https://assets-prd.ignimgs.com/2026/08/11/intelgamerdays-1786476822304.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "The Intel Gamer Days Sale Stacks Walmart's Best Gaming PC Deals With Two Free Upcoming PC Games - IGN",
+        "description": "These aren't some no-name games, they'll otherwise cost $59.99 apiece at launch.",
+        "source_link": "https://www.ign.com/articles/intel-gamer-days-sale-2026-best-walmart-gaming-pc-deals"
+      },
+      {
+        "rank": 6,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/closer-xbox-elite-3-leak.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
         "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen - The Verge",
         "description": "A Redditor has legit-looking photos of a prototype Xbox controller that\u2019s almost certainly the Xbox Elite Series 3.",
         "source_link": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/hands-holding-phone-GettyImages-184060520-1024x683.jpg",
         "title": "What to know as your driver's license gets a digital upgrade - PBS",
         "description": "Your old plastic driver's license could soon be getting a digital upgrade. Multiplatform producer Tim McPhillips walks us through four things you should know, including some of the benefits and some of the concerns.",
         "source_link": "https://www.pbs.org/newshour/show/what-to-know-as-your-drivers-license-gets-a-digital-upgrade"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/20260811_095802.jpg",
         "title": "Xbox CEO Asha Sharma Gushes About Elder Scrolls VI, Does Not Seem To Notice Giant Rat On Bethesda Office Lawn - Aftermath",
         "description": "Please clap (instead of talking about layoffs)",
         "source_link": "https://aftermath.site/xbox-asha-sharma-elder-scrolls-vi-bethesda-giant-rat/"
       },
       {
-        "rank": 7,
+        "rank": 9,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg",
+        "title": "Chrome adopts what may be the best protection yet against account takeovers - Ars Technica",
+        "description": "Device-bound session credentials thwart an increasingly common form of account takeover.",
+        "source_link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/"
+      },
+      {
+        "rank": 10,
         "image": "https://images.macrumors.com/t/kVX3vjJ2eDLyestsvkmj3YZPffM=/1600x/article-new/2026/07/Apple-2026-Back-to-School-Graphic.jpg",
         "title": "Apple Extends 2026 Back to School Promotion Until September 24 - MacRumors",
         "description": "Apple today extended its 2026 Back to School Promotion until September 24, which means it will last almost a month longer than planned. The extension...",
         "source_link": "https://www.macrumors.com/2026/08/11/apple-extends-2026-back-to-school-promo/"
-      },
-      {
-        "rank": 8,
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HtkIdWjqoYaSkO4edq9d5ZotqTE-LNMM14UlVoPaVKw2hwBahFYrPkB3jttURH0gcBXxCDtyHhiGMAIrxCX74gYCb_ivX4INmfRzt7HRb-bPTNt1lV-nUQm_pHQQHrhUwx4JWS7DtAzOZ1etx-yjPAVrNJXGBltqXjHPSI5NcfnWQqYurz0LK-dRRMo/s1600/aug-ms-patch.jpg",
-        "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack - The Hacker News",
-        "description": "Microsoft patches 398 flaws, including exploited CVE-2026-68820 that lets local attackers reach SYSTEM, plus four unauthenticated 9.8 RCEs.",
-        "source_link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html"
-      },
-      {
-        "rank": 9,
-        "image": "https://dims.apnews.com/dims4/default/517f034/2147483647/strip/true/crop/1000x666+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa8%2F3a%2F26e1fd440e90871ec53bb7407bfa%2Fd0e1fa3bbd504cca9472a9d128b7f6c3",
-        "title": "Ultra rare Nintendo Mario game cartridges discovered in Wisconsin - AP News",
-        "description": "A set of unique, extremely rare Super Mario cartridges was found in a gaming store in Waukesha, Wisconsin, and will be auctioned off starting Friday. Jason Ganos with Nintendo Wire said he discovered the products after they had been hidden away in a storage u\u2026",
-        "source_link": "https://apnews.com/article/nintendo-wisconsin-mario-cartridges-video-de88a9fd5643913454328830e73f74c2"
       }
     ],
     "trending_movies": [
@@ -76,24 +83,24 @@
       },
       {
         "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
+      },
+      {
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
         "title": "Nando Between Two Worlds - A Sintonia Film",
         "description": "Caught between family life and his obligations to the criminal underworld, Nando faces an impossible choice about where his true loyalties lie....",
         "source_link": "https://www.themoviedb.org/movie/1487864"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
         "rank": 5,
@@ -111,17 +118,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
-        "title": "Young Washington",
-        "description": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choo...",
-        "source_link": "https://www.themoviedb.org/movie/1308767"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
         "title": "The Last House",
         "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped....",
         "source_link": "https://www.themoviedb.org/movie/1284041"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
+        "title": "Young Washington",
+        "description": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choo...",
+        "source_link": "https://www.themoviedb.org/movie/1308767"
       },
       {
         "rank": 9,
@@ -132,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/tfgccePxnswMqhmtxafliLlcCVR.jpg",
-        "title": "Jackass: Best and Last",
-        "description": "The fifth and final installment to Jackass franchise where the crew go on one last insane crusade....",
-        "source_link": "https://www.themoviedb.org/movie/1612018"
+        "image": "https://image.tmdb.org/t/p/w200/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+        "title": "Supergirl",
+        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
+        "source_link": "https://www.themoviedb.org/movie/1081003"
       }
     ]
   }
