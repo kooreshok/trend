@@ -1,76 +1,69 @@
 {
-  "last_updated": "August 13, 2026, 12:58 UTC",
+  "last_updated": "August 13, 2026, 14:23 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-back-of-phone-in-hand.jpg?quality=90&strip=all&crop=0%2C10.731065928071%2C100%2C78.537868143859&w=1200",
+        "title": "The 7 biggest announcements of Google\u2019s Pixel 11 launch - The Verge",
+        "description": "Google\u2019s August 12th Pixel event included its new lineup of Pixel 11 phones and the Pixel Watch 5, plus some new camera and health features.",
+        "source_link": "https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Watch-5-on-stand.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Google\u2019s Pixel Watch 5 dives deeper into AI and health - The Verge",
+        "description": "The $399 Google Pixel Watch 5 doesn\u2019t change much in terms of hardware, but it features a ton of new AI and health updates.",
+        "source_link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.macrumors.com/t/a63wTdKOm6Q4Sycz8dpdmeLDYSo=/2250x/article-new/2025/03/Foldable-iPhone-2023-Feature-Iridescent-1.jpg",
+        "title": "'iPhone Ultra' Screen Protectors Reveal Asymmetric Corners - MacRumors",
+        "description": "The leaker known as \"Ice Universe\" today shared images and a hands on video of screen protectors for Apple's rumored \"iPhone...",
+        "source_link": "https://www.macrumors.com/2026/08/12/iphone-ultra-screen-protectors-reveal-asymmetry/"
+      },
+      {
+        "rank": 4,
+        "image": "https://cdn.videocardz.com/1/2026/08/GOOGLEBOOK.webp",
+        "title": "Acer Googlebook 14 confirmed with Intel Panther Lake Core Ultra 5 325 processor - VideoCardz.com",
+        "description": "A European retailer has listed Acer's GP714-91N Googlebook with a Panther Lake processor. The system includes 16 GB memory and a 256 GB SSD.",
+        "source_link": "https://videocardz.com/newz/acer-googlebook-14-confirmed-with-intel-panther-lake-core-ultra-5-325-processor"
+      },
+      {
+        "rank": 5,
+        "image": "https://assets-prd.ignimgs.com/2026/08/12/hd2-main-1786527230045.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Helldivers 2 Update 7.0.0 Out Now \u2014 Check Out the Patch Notes - ign.com",
+        "description": "Helldivers 2 developer Arrowhead has released a major update for the game, adding new Illuminate enemies, a new biome, and raising the level cap. Check out the 7.0.0 patch notes.",
+        "source_link": "https://www.ign.com/articles/huge-helldivers-2-patch-adds-new-illuminate-enemies-a-new-biome-full-of-fresh-horrors-a-level-cap-increase-and-much-more"
+      },
+      {
+        "rank": 6,
+        "image": "https://assetsio.gnwcdn.com/giant-rat-bethesda.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Xbox CEO Asha Sharma's internal playthrough of The Elder Scrolls 6 disrupted by a giant inflatable rat, as Bethesda union protests cuts - Eurogamer.net",
+        "description": "The CWA video games union brought a giant inflatable rat as well as red flags marking each laid off employee.",
+        "source_link": "https://www.eurogamer.net/elder-scrolls-6-giant-inflatable-rat"
+      },
+      {
+        "rank": 7,
         "image": "https://images.pushsquare.com/5b3a8cd3a41dc/large.jpg",
         "title": "State of Play for Phantom Blade Zero Announced for Next Week, 11-Minute Trailer Revealed - Push Square",
         "description": "A $60 PS5 game with pre-orders live now",
         "source_link": "https://www.pushsquare.com/news/2026/08/state-of-play-for-phantom-blade-zero-announced-for-next-week-11-minute-trailer-revealed"
       },
       {
-        "rank": 2,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Pixel-11-Pro-teaser-2a.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google sends out $150 discount codes ahead of Pixel 11 pre-orders - 9to5Google",
-        "description": "With less than 24 hours to go until the company\u2019s Pixel 11 launch event, Google is sending $150 discount codes...",
-        "source_link": "http://9to5google.com/2026/08/11/google-pixel-11-discount-code-email/"
-      },
-      {
-        "rank": 3,
-        "image": "https://assets-prd.ignimgs.com/2026/08/11/acerpredatororion-1786485689059.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Amazon Is Offering a Great Deal on a GeForce RTX 5070 Ti Gaming PC, and It Includes Two Upcoming AAA Games - IGN",
-        "description": "The RTX 5070 Ti graphics card is powerful enough to run the latest games smoothly at 4K.",
-        "source_link": "https://www.ign.com/articles/acer-predator-orion-rtx-5070-ti-gaming-pc-deal-intel-gamer-days-sale"
-      },
-      {
-        "rank": 4,
-        "image": "https://assets-prd.ignimgs.com/2026/08/11/intelgamerdays-1786476822304.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "The Intel Gamer Days Sale Stacks Walmart's Best Gaming PC Deals With Two Free Upcoming PC Games - IGN",
-        "description": "These aren't some no-name games, they'll otherwise cost $59.99 apiece at launch.",
-        "source_link": "https://www.ign.com/articles/intel-gamer-days-sale-2026-best-walmart-gaming-pc-deals"
-      },
-      {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/closer-xbox-elite-3-leak.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "title": "Xbox Elite 3 prototype pad leaks with tiny built-in screen - The Verge",
-        "description": "A Redditor has legit-looking photos of a prototype Xbox controller that\u2019s almost certainly the Xbox Elite Series 3.",
-        "source_link": "https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen"
-      },
-      {
-        "rank": 6,
-        "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/20260811_095802.jpg",
-        "title": "Xbox CEO Asha Sharma Gushes About Elder Scrolls VI, Does Not Seem To Notice Giant Rat On Bethesda Office Lawn - Aftermath",
-        "description": "Please clap (instead of talking about layoffs)",
-        "source_link": "https://aftermath.site/xbox-asha-sharma-elder-scrolls-vi-bethesda-giant-rat/"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets-prd.ignimgs.com/2026/07/31/gettyimages-2186493403-1785487186283.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Stop Killing Games Joins Dutch Consumer Group's $457M Lawsuit Against Sony Over Digital Store 'Monopoly' - IGN",
-        "description": "The Stop Killing Games movement is officially suing Sony, claiming the company\u2019s \u201cmonopoly\u201d over the video game market is blatantly \u201cagainst the law.\u201d",
-        "source_link": "https://www.ign.com/articles/stop-killing-games-joins-dutch-consumer-groups-457m-lawsuit-against-sony-over-digital-store-monopoly"
-      },
-      {
         "rank": 8,
-        "image": "https://image.theregister.com/1683286.jpg?imageId=1683286&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "title": "421 bugs in Microsoft's Patch Tuesday release, and the Norks have already attacked one - The Register",
-        "description": "Sysadmins, welcome to your new norm",
-        "source_link": "https://www.theregister.com/security/2026/08/11/421-bugs-in-microsofts-patch-tuesday-release-and-the-norks-have-already-attacked-one/5286483"
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/01/Google-TV-logo-at-CES-2025-Stock-photo-1.jpg",
+        "title": "Google TV just got 10,000 free movies and shows to binge - Android Authority",
+        "description": "Google TV Freeplay now offers more than 10,000 free movies and TV shows on demand, with no subscription required.",
+        "source_link": "https://www.androidauthority.com/google-tv-freeplay-free-movies-tv-shows-3697473/"
       },
       {
         "rank": 9,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg",
-        "title": "Chrome adopts what may be the best protection yet against account takeovers - Ars Technica",
-        "description": "Device-bound session credentials thwart an increasingly common form of account takeover.",
-        "source_link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.macrumors.com/t/kVX3vjJ2eDLyestsvkmj3YZPffM=/1600x/article-new/2026/07/Apple-2026-Back-to-School-Graphic.jpg",
-        "title": "Apple Extends 2026 Back to School Promotion Until September 24 - MacRumors",
-        "description": "Apple today extended its 2026 Back to School Promotion until September 24, which means it will last almost a month longer than planned. The extension...",
-        "source_link": "https://www.macrumors.com/2026/08/11/apple-extends-2026-back-to-school-promo/"
+        "image": null,
+        "title": "Aspyr Announces The Lord of the Rings: War in the North Legacy Edition , Out Now on PC & Consoles! - Games Press",
+        "description": "'Legacy Edition' is now out.",
+        "source_link": "https://www.gamespress.com/Aspyr-Announces-The-Lord-of-the-Rings-War-in-the-North-Legacy-Edition-"
       }
     ],
     "trending_movies": [
@@ -83,31 +76,31 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
-        "title": "Nando Between Two Worlds - A Sintonia Film",
-        "description": "Caught between family life and his obligations to the criminal underworld, Nando faces an impossible choice about where his true loyalties lie....",
-        "source_link": "https://www.themoviedb.org/movie/1487864"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
-        "rank": 5,
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
+      },
+      {
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
         "title": "The End of Oak Street",
         "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
         "source_link": "https://www.themoviedb.org/movie/1101383"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
+        "title": "Nando Between Two Worlds - A Sintonia Film",
+        "description": "Caught between family life and his obligations to the criminal underworld, Nando faces an impossible choice about where his true loyalties lie....",
+        "source_link": "https://www.themoviedb.org/movie/1487864"
       },
       {
         "rank": 6,
@@ -125,17 +118,17 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
-        "title": "Young Washington",
-        "description": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choo...",
-        "source_link": "https://www.themoviedb.org/movie/1308767"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
+        "title": "Young Washington",
+        "description": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choo...",
+        "source_link": "https://www.themoviedb.org/movie/1308767"
       },
       {
         "rank": 10,
