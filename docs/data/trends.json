@@ -1,69 +1,62 @@
 {
-  "last_updated": "August 13, 2026, 18:56 UTC",
+  "last_updated": "August 13, 2026, 19:54 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://assets-prd.ignimgs.com/2026/08/10/cyberpowerpcgamerxtreme-1786402775435.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "The CyberPowerPC RTX 5070 Gaming PC Drops to $1,399 Shipped and Includes Two Upcoming PC Games - IGN",
-        "description": "Get Star Wars Galactic Racer and Tomb Raider: Legacy of Atlantis for free as part of the Intel Gamer Days event.",
-        "source_link": "https://www.ign.com/articles/cyberpowerpc-geforce-rtx-5070-gaming-pc-deal-august-2026"
+        "image": "https://assets-prd.ignimgs.com/2026/08/12/screenshot-2026-08-12-151416-1786544106177.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Xbox Reveals Stunning 3D-Moulded Gears of War: E-Day Limited Edition Controllers - IGN",
+        "description": "Microsoft has announced a pair of highly-detailed Gears of War: E-Day Limited Edition Xbox controllers, which look just as gruff and grizzled as you'd expect.",
+        "source_link": "https://www.ign.com/articles/xbox-reveals-stunning-3d-moulded-gears-of-war-e-day-limited-edition-controllers"
       },
       {
         "rank": 2,
-        "image": "https://techcrunch.com/wp-content/uploads/2022/06/moshed-windows-11.jpg?resize=1200,752",
-        "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug - TechCrunch",
-        "description": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them.",
-        "source_link": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/"
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-series-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Pixel 11 Pro displays are \u2018more than twice\u2019 as scratch-resistant \u2013 it only gets better from there - 9to5Google",
+        "description": "Google is delivering some seriously durable phones, or so it claims, with the entire Pixel 11 Pro series delivering huge...",
+        "source_link": "http://9to5google.com/2026/08/12/google-pixel-11-pro-anti-scratch-display-glass-upgrades/"
       },
       {
         "rank": 3,
-        "image": "https://assetsio.gnwcdn.com/witcher-3-geralt_uS0zYOX.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Multiplayer Witcher spin-off Project Sirius reportedly hit by layoffs again, in \"broader shift in development strategy\" at CD Projekt Red - Eurogamer.net",
-        "description": "Of all the games CD Projekt Red has in development, the multiplayer-linked Witcher spin-off Project Sirius has had the most trouble.",
-        "source_link": "https://www.eurogamer.net/cd-projekt-red-project-sirius-layoffs"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DSC01498.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200",
+        "title": "It looks like Apple\u2019s iPhone 18 really will skip the fall launch this year - The Verge",
+        "description": "Apple is reportedly planning to stagger the launch of the iPhone 18 series, with the base iPhone 18 now postponed until early 2027.",
+        "source_link": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed"
       },
       {
         "rank": 4,
-        "image": "https://www.videogameschronicle.com/files/2026/08/E-Day-Controller-Collection-e01b6ed7344d088376e3.jpg",
-        "title": "Xbox officially reveals its limited edition Gears of War E-Day controller, plus new Design Lab options - Video Games Chronicle",
-        "description": "The controller and Design Lab update will both launch on September 30",
-        "source_link": "https://www.videogameschronicle.com/news/xbox-officially-reveals-its-limited-edition-gears-of-war-e-day-controller-plus-new-design-lab-options/"
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iPhone 18 Pro set to become Apple\u2019s new default model - 9to5Mac",
+        "description": "iPhone 18 Pro is being unveiled soon, and due to a lineup overhaul this year, it\u2019s set to become Apple\u2019s new default model like never before.",
+        "source_link": "https://9to5mac.com/2026/08/12/iphone-18-pro-set-to-become-apples-new-default-model/"
       },
       {
         "rank": 5,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69f0b2cce6907e334cf464df/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "\u2018Crimson Desert\u2019 DLC Is Imminent, Multiplayer Modes Ahead - Forbes",
-        "description": "Crimson Desert is getting DLC very soon, and Pearl Abyss is looking ahead to multiplayer for the smash hit game.",
-        "source_link": "https://www.forbes.com/sites/paultassi/2026/08/12/crimson-desert-dlc-is-imminent-multiplayer-modes-ahead/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Matte-Black-on-Stands.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200",
+        "title": "Google\u2019s Pixel 11 phone preorders come with up to $350 in gift cards - The Verge",
+        "description": "Google has officially unveiled the Pixel 11, Pixel 11 Pro and Pro XL, and Pixel 11 Fold. They\u2019re available for preorder from retailers and carriers.",
+        "source_link": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date"
       },
       {
         "rank": 6,
-        "image": "https://kotaku.com/app/uploads/2025/05/6235f61a2f468a596e148f467ed6c22f.jpg",
-        "title": "Oblivion Remastered Is Fine On Switch 2, But Fans Want A PS5 Patch - Kotaku",
-        "description": "Many players want Bethesda to update the RPG on PS5 and Xbox following the release of the new port",
-        "source_link": "https://kotaku.com/the-oblivion-remaster-on-switch-2-is-better-than-expected-and-fans-are-angry-2000723781"
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iPhone Ultra\u2019s cameras might get very unorthodox placement, per leak - 9to5Mac",
+        "description": "iPhone Ultra will be unveiled next month, and a new leak indicates the device\u2019s front cameras could be positioned in unusual spots.",
+        "source_link": "https://9to5mac.com/2026/08/12/iphone-ultras-cameras-might-get-very-unorthodox-placement-per-leak/"
       },
       {
         "rank": 7,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a64ac61c8dfb6888f9e71cf/0x0.jpg?format=jpg&crop=2562,1439,x255,y0,safe&height=900&width=1600&fit=bounds",
-        "title": "\u2018Palworld\u2019 Patch Notes: Big Buffs For Way Less Grinding - forbes.com",
-        "description": "Here are the Palworld patch notes for its latest update, which significantly nerfs some of the most annoying grinds in the game.",
-        "source_link": "https://www.forbes.com/sites/paultassi/2026/08/12/palworld-patch-notes-big-buffs-for-way-less-grinding/"
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pr_pixel_11_01.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Find your perfect accessories with Spigen\u2019s Pixel 11 collection - 9to5Google",
+        "description": "Google\u2019s Pixel 11 series is a refinement that takes on a more eye-catching look with bold new colors, and Spigen...",
+        "source_link": "http://9to5google.com/2026/08/12/find-your-perfect-accessories-with-spigens-pixel-11-collection/"
       },
       {
         "rank": 8,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/08/Portfolio-3-1.png?resize=1200,675",
-        "title": "Everything announced at Made by Google '26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features - TechCrunch",
-        "description": "From the Pixel 11 series and a brand new competitor to Apple\u2019s AirTag, here are all the announcements from the Made by Google 2026 event.",
-        "source_link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-pixel-11-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google starts rolling out Tap to Share for Pixel 6 and newer - 9to5Google",
-        "description": "While Tap to Share was announced with the Pixel 11 series, it\u2019s also beginning to roll out for the Pixel 6 and newer today...",
-        "source_link": "http://9to5google.com/2026/08/12/pixel-tap-to-share/"
+        "image": null,
+        "title": "CD Projekt Confirms Layoffs on The Witcher Multiplayer Spin-Off, Issues Statement - IGN",
+        "description": null,
+        "source_link": "https://www.ign.com/articles/cd-projekt-confirms-layoffs-on-the-witcher-multiplayer-spinoff-issues-statement"
       }
     ],
     "trending_movies": [
