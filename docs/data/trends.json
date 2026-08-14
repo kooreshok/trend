@@ -1,34 +1,34 @@
 {
-  "last_updated": "August 14, 2026, 06:09 UTC",
+  "last_updated": "August 14, 2026, 08:11 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://kotaku.com/app/uploads/2026/08/rideshare-1-1200x675.jpg",
+        "title": "Saber CEO Makes Rideshare's Undisclosed AI Mess Even Worse - Kotaku",
+        "description": "Matt Karch said a missing Steam disclosure will be added eventually",
+        "source_link": "https://kotaku.com/saber-ceo-denies-replacing-rideshare-writer-with-chatgpt-but-says-i-would-frankly-in-retrospect-have-been-happy-to-replace-her-with-ai-2000723953"
+      },
+      {
+        "rank": 2,
         "image": "https://helios-i.mashable.com/imagery/articles/03mLdCgCWLITXqBminRPP6c/hero-image.fill.size_1200x675.v1786567658.jpg",
         "title": "Everything announced at Made by Google today, including Pixel 11, Pixel Watch 4, and Pixel Tag - Mashable",
         "description": "No surprises here, just new phones.",
         "source_link": "https://mashable.com/tech/made-by-google-2026-pixel-11-event-everything-announced"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://assets-prd.ignimgs.com/2025/06/06/hogwartslegacy-switch2review-blogroll-1749233453856.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Hogwarts Legacy 2 Is Officially in the Works, Confirms Warner Bros. - IGN",
         "description": "A sequel to Hogwarts Legacy is actively in development, according to Warner Bros.",
         "source_link": "https://www.ign.com/articles/hogwarts-legacy-2-is-officially-in-the-works-confirms-warner-bros"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://kotaku.com/app/uploads/2026/08/kingsfield43-1200x675.jpg",
         "title": "Things I Said Out Loud While Suffering Through King's Field 4 - Kotaku",
         "description": "This is just like Dark Souls",
         "source_link": "https://kotaku.com/things-said-kings-field-4-ancient-city-dark-souls-warp-week-2002-2000723445"
-      },
-      {
-        "rank": 4,
-        "image": "https://techcrunch.com/wp-content/uploads/2024/03/twitch-reflection.jpg?resize=1200,799",
-        "title": "Amazon will train on Twitch streamers\u2019 content by default, unless they opt out - TechCrunch",
-        "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-        "source_link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
       },
       {
         "rank": 5,
@@ -57,13 +57,6 @@
         "title": "iPhone 18 Pro set to become Apple\u2019s new default model - 9to5Mac",
         "description": "iPhone 18 Pro is being unveiled soon, and due to a lineup overhaul this year, it\u2019s set to become Apple\u2019s new default model like never before.",
         "source_link": "https://9to5mac.com/2026/08/12/iphone-18-pro-set-to-become-apples-new-default-model/"
-      },
-      {
-        "rank": 9,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iPhone Ultra\u2019s cameras might get very unorthodox placement, per leak - 9to5Mac",
-        "description": "iPhone Ultra will be unveiled next month, and a new leak indicates the device\u2019s front cameras could be positioned in unusual spots.",
-        "source_link": "https://9to5mac.com/2026/08/12/iphone-ultras-cameras-might-get-very-unorthodox-placement-per-leak/"
       }
     ],
     "trending_movies": [
@@ -76,45 +69,45 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "title": "The End of Oak Street",
-        "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
-        "source_link": "https://www.themoviedb.org/movie/1101383"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
         "title": "Minions & Monsters",
         "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
         "source_link": "https://www.themoviedb.org/movie/1315772"
       },
       {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-        "title": "The Invite",
-        "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected pl...",
-        "source_link": "https://www.themoviedb.org/movie/950028"
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "title": "The End of Oak Street",
+        "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
+        "source_link": "https://www.themoviedb.org/movie/1101383"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "title": "The Invite",
+        "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected pl...",
+        "source_link": "https://www.themoviedb.org/movie/950028"
+      },
+      {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
-        "title": "Nando Between Two Worlds - A Sintonia Film",
-        "description": "Caught between family life and his obligations to the criminal underworld, Nando faces an impossible choice about where his true loyalties lie....",
-        "source_link": "https://www.themoviedb.org/movie/1487864"
+        "image": "https://image.tmdb.org/t/p/w200/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "title": "The Last House",
+        "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped....",
+        "source_link": "https://www.themoviedb.org/movie/1284041"
       },
       {
         "rank": 8,
@@ -125,10 +118,10 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "title": "The Last House",
-        "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped....",
-        "source_link": "https://www.themoviedb.org/movie/1284041"
+        "image": "https://image.tmdb.org/t/p/w200/lP558W6RgDYaQvs9GKNGPUhVOLU.jpg",
+        "title": "Nando Between Two Worlds - A Sintonia Film",
+        "description": "Caught between family life and his obligations to the criminal underworld, Nando faces an impossible choice about where his true loyalties lie....",
+        "source_link": "https://www.themoviedb.org/movie/1487864"
       },
       {
         "rank": 10,
