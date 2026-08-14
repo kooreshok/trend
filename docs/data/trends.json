@@ -1,99 +1,85 @@
 {
-  "last_updated": "August 14, 2026, 01:28 UTC",
+  "last_updated": "August 14, 2026, 04:02 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://helios-i.mashable.com/imagery/articles/03mLdCgCWLITXqBminRPP6c/hero-image.fill.size_1200x675.v1786567658.jpg",
+        "title": "Everything announced at Made by Google today, including Pixel 11, Pixel Watch 4, and Pixel Tag - Mashable",
+        "description": "No surprises here, just new phones.",
+        "source_link": "https://mashable.com/tech/made-by-google-2026-pixel-11-event-everything-announced"
+      },
+      {
+        "rank": 2,
         "image": "https://assets-prd.ignimgs.com/2025/06/06/hogwartslegacy-switch2review-blogroll-1749233453856.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Hogwarts Legacy 2 Is Officially in the Works, Confirms Warner Bros. - IGN",
         "description": "A sequel to Hogwarts Legacy is actively in development, according to Warner Bros.",
         "source_link": "https://www.ign.com/articles/hogwarts-legacy-2-is-officially-in-the-works-confirms-warner-bros"
       },
       {
-        "rank": 2,
-        "image": "https://kotaku.com/app/uploads/2026/08/kingsfield43-1200x675.jpg",
-        "title": "Things I Said Out Loud While Suffering Through King's Field 4 - Kotaku",
-        "description": "This is just like Dark Souls",
-        "source_link": "https://kotaku.com/things-said-kings-field-4-ancient-city-dark-souls-warp-week-2002-2000723445"
+        "rank": 3,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Claude\u2019s Chrome side panel is now a full Cowork session - 9to5Mac",
+        "description": "Claude is turning its Chrome side panel into a full Cowork session, allowing browser-based tasks and conversations to follow users...",
+        "source_link": "https://9to5mac.com/2026/08/12/claude-cowork-chrome/"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://techcrunch.com/wp-content/uploads/2024/03/twitch-reflection.jpg?resize=1200,799",
         "title": "Amazon will train on Twitch streamers\u2019 content by default, unless they opt out - TechCrunch",
         "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
         "source_link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://assets-prd.ignimgs.com/2026/08/12/screenshot-2026-08-12-151416-1786544106177.png?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Xbox Reveals Stunning 3D-Moulded Gears of War: E-Day Limited Edition Controllers - IGN",
         "description": "Microsoft has announced a pair of highly-detailed Gears of War: E-Day Limited Edition Xbox controllers, which look just as gruff and grizzled as you'd expect.",
         "source_link": "https://www.ign.com/articles/xbox-reveals-stunning-3d-moulded-gears-of-war-e-day-limited-edition-controllers"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/KP_all_ganes_hero_16x9_v3-0b961b71e63e8ebfa89a.jpg",
         "title": "Kinetic Publishing Showcase Recap: Every Reveal, Including the New Sam Barlow Game - XBOX Wire",
         "description": "Kinetic Publishing just held its first ever showcase - here are all the details on the five games included.",
         "source_link": "https://news.xbox.com/en-us/2026/08/12/kinetic-publishing-showcase-recap-sam-barlow/"
       },
       {
-        "rank": 6,
-        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-black-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "iPhone 18 Pro set to become Apple\u2019s new default model - 9to5Mac",
-        "description": "iPhone 18 Pro is being unveiled soon, and due to a lineup overhaul this year, it\u2019s set to become Apple\u2019s new default model like never before.",
-        "source_link": "https://9to5mac.com/2026/08/12/iphone-18-pro-set-to-become-apples-new-default-model/"
-      },
-      {
         "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Matte-Black-on-Stands.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200",
-        "title": "Google\u2019s Pixel 11 phone preorders come with up to $350 in gift cards - The Verge",
-        "description": "Google has officially unveiled the Pixel 11, Pixel 11 Pro and Pro XL, and Pixel 11 Fold. They\u2019re available for preorder from retailers and carriers.",
-        "source_link": "https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date"
-      },
-      {
-        "rank": 8,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "iPhone Ultra\u2019s cameras might get very unorthodox placement, per leak - 9to5Mac",
         "description": "iPhone Ultra will be unveiled next month, and a new leak indicates the device\u2019s front cameras could be positioned in unusual spots.",
         "source_link": "https://9to5mac.com/2026/08/12/iphone-ultras-cameras-might-get-very-unorthodox-placement-per-leak/"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://www.gematsu.com/wp-content/uploads/2026/08/Dawn-of-War-IV_08-12-26_Top.jpg",
         "title": "Warhammer 40,000: Dawn of War IV delayed to December 3 - Gematsu",
         "description": "Publisher Deep Silver and developer KING Art Games have delayed Warhammer 40,000: Dawn of War IV from its previously planned September 17 release date to December 3. It will be available for PC via\u2026",
         "source_link": "https://www.gematsu.com/2026/08/warhammer-40000-dawn-of-war-iv-delayed-to-december-3"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.jalopnik.com/img/gallery/dodge-says-its-making-a-glh-hot-hatch-crossover-with-performance-people-didnt-quite-see-coming/l-intro-1786550421.jpg",
-        "title": "Dodge Says It's Making A GLH Hot Hatch Crossover With Performance 'People Didn't Quite See Coming' - Jalopnik",
-        "description": "Kuniskis said the GLH will be \"the next generation of Hornet, but the way we should have done it the first time.\"",
-        "source_link": "https://www.jalopnik.com/2235504/dodge-making-glh-hot-hatch-crossover/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-        "title": "Minions & Monsters",
-        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
-        "source_link": "https://www.themoviedb.org/movie/1315772"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "title": "The End of Oak Street",
+        "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
+        "source_link": "https://www.themoviedb.org/movie/1101383"
+      },
+      {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-        "title": "The Invite",
-        "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected pl...",
-        "source_link": "https://www.themoviedb.org/movie/950028"
+        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+        "title": "Minions & Monsters",
+        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
+        "source_link": "https://www.themoviedb.org/movie/1315772"
       },
       {
         "rank": 4,
@@ -104,17 +90,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "title": "The End of Oak Street",
-        "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
-        "source_link": "https://www.themoviedb.org/movie/1101383"
+        "image": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "title": "The Invite",
+        "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected pl...",
+        "source_link": "https://www.themoviedb.org/movie/950028"
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-        "title": "The Last House",
-        "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped....",
-        "source_link": "https://www.themoviedb.org/movie/1284041"
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
         "rank": 7,
@@ -125,24 +111,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
+        "image": "https://image.tmdb.org/t/p/w200/voT1x4FdnBieu1en3CeKhf7N0n8.jpg",
+        "title": "This, That, and Everything in Between",
+        "description": "A TV writer returns home to her estranged mother, igniting chaos as they navigate painful secrets and the  complexities of their dysfunctional family....",
+        "source_link": "https://www.themoviedb.org/movie/1632473"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/6CdoTKnRQHJkjRGxTefFGkPQplB.jpg",
         "title": "Young Washington",
         "description": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choo...",
         "source_link": "https://www.themoviedb.org/movie/1308767"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
+        "title": "The Last House",
+        "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped....",
+        "source_link": "https://www.themoviedb.org/movie/1284041"
       }
     ]
   }
