@@ -1,113 +1,113 @@
 {
-  "last_updated": "August 15, 2026, 18:21 UTC",
+  "last_updated": "August 15, 2026, 19:17 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+        "title": "Google will now allow users to remove visible watermark from its AI generations - TechCrunch",
+        "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+        "source_link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
+      },
+      {
+        "rank": 2,
+        "image": "https://assets-prd.ignimgs.com/2026/08/12/ign-first-controlresonant-3-bossfightgameplay-blogroll-1786532503502.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Watch Gameplay of a Brand New Control Resonant Boss Fight - IGN",
+        "description": "We've got more brand new Control Resonant gameplay to show you, as we take a look at one of the game's biggest boss fights.",
+        "source_link": "https://www.ign.com/articles/control-resonant-exclusive-boss-fight-gameplay-ign-first"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg",
+        "title": "Google ordered to make it easier to download alternative Android app stores - Ars Technica",
+        "description": "Third-party app stores are about to become more visible in Google Play.",
+        "source_link": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/"
+      },
+      {
+        "rank": 4,
         "image": "https://kotaku.com/app/uploads/2026/08/mariosgottagun-1200x675.jpg",
         "title": "It's Long Past Time Nintendo Gave Mario A Gun, You Cowards - Kotaku",
         "description": "The only thing that can save Nintendo is leaving childish things behind",
         "source_link": "https://kotaku.com/its-time-to-give-mario-a-gun-2000724461"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://images.nintendolife.com/4dcba6e0ddaa2/large.jpg",
         "title": "Feature: One Year On, Is Anyone Still Playing Drag x Drive? - Nintendo Life",
         "description": "Drag x Thrive?",
         "source_link": "https://www.nintendolife.com/features/one-year-on-is-anyone-still-playing-drag-x-drive"
       },
       {
-        "rank": 3,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-family-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Pixel 11 tidbits: The key details you should know about Google\u2019s latest phones - 9to5Google",
-        "description": "While not as major of a release as most years, Google\u2019s Pixel 11 devices bring a lot of new things...",
-        "source_link": "http://9to5google.com/2026/08/14/google-pixel-11-tidbits-details/"
-      },
-      {
-        "rank": 4,
+        "rank": 6,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/tvos-27-apple-tv-4k-fi.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "tvOS 27 could push you to upgrade to new Apple TV 4K - 9to5Mac",
         "description": "tvOS 27 is coming soon as the next software update for Apple TV, and for two reasons it could push you to upgrade to a new Apple TV 4K.",
         "source_link": "https://9to5mac.com/2026/08/14/tvos-27-could-push-you-to-upgrade-to-new-apple-tv-4k/"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://assetsio.gnwcdn.com/south-of-midnight_FEBooHb.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Compulsion Games becomes publisher of South of Midnight on Steam, suggesting departure from Xbox amid major restructuring is now complete - Eurogamer",
+        "description": "Life after Xbox begins for South of Midnight and We Happy Few developer Compulsion Games. Will it prosper?",
+        "source_link": "https://www.eurogamer.net/compulsion-games-south-of-midnight-publisher-xbox-restructuring"
+      },
+      {
+        "rank": 8,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/unforgetful-app.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Unforgetful is a new app from the creator of Overcast that enhances Apple Reminders - 9to5Mac",
+        "description": "Overcast developer Marco Arment just launched a brand-new app for iPhone, iPad, and Mac. Called Unforgetful, the new task-management app...",
+        "source_link": "https://9to5mac.com/2026/08/14/unforgetful-is-a-new-app-from-the-creator-of-overcast-that-enhances-apple-reminders/"
+      },
+      {
+        "rank": 9,
         "image": "https://images.macrumors.com/t/4Mwq21FvXXi4CRA3BhCrvJAF2pw=/2500x/article-new/2026/06/Everything-New-Your-iPhone-Can-Do-on-iOS-27-Feature-1.jpg",
         "title": "30 New Things Your iPhone Can Do in iOS 27 - MacRumors",
         "description": "Apple will release iOS 27 in September, and despite the company's focus this year on refining its flagship operating system and nixing bugs,...",
         "source_link": "https://www.macrumors.com/2026/08/14/new-things-your-iphone-can-do-ios-27/"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://assets-prd.ignimgs.com/2026/08/14/gandalf-1786713526548.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "'Every Review Just Compared It to Skyrim' \u2014 Why The Lord of the Rings: War in the North Got 'Lost in the Wash' Back in 2011 - IGN",
         "description": "The Lord of the Rings: War in the North developer \"argued vociferously\" not to go up against Skyrim, but he was \"overruled.\"",
         "source_link": "https://www.ign.com/articles/the-lord-of-the-rings-war-in-the-north-dev-warned-warner-bros-not-to-go-up-against-skyrim-back-in-2011"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/14/USAT/91298552007-getty-images-2151493841.jpg?crop=8189,4606,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-        "title": "People are injecting fat from dead bodies. It\u2019s called \u2018zombie filler\u2019 - usatoday.com",
-        "description": "People are injecting fat from corpses and calling it \"zombie filler.\" Doctors say the GLP-1 boom is driving the trend.",
-        "source_link": "https://www.usatoday.com/story/life/health-wellness/2026/08/14/zombie-filler-donor-fat-cadavers/91295567007/"
-      },
-      {
-        "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268665_Nothing_CMF_Clip_Pro_earbuds_AKrales_0144.jpg?quality=90&strip=all&crop=0%2C6.6231544521024%2C100%2C78.534031413613&w=1200",
-        "title": "CMF has managed to make cheap but good clip earbuds - The Verge",
-        "description": "\ufeffThe CMF Clip Pro are a very comfortable option for those that hate things in their ears.",
-        "source_link": "https://www.theverge.com/tech/979928/cmf-clip-pro-review"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.motor1.com/images/mgl/rKJPxP/s1/mclaren-mcl-6gt.jpg",
-        "title": "McLaren's New Supercar Brings Back The Manual After 34 Years - Motor1.com",
-        "description": "McLaren brings back the manual with the new McL 6GT supercar, the brand's first manual supercar since 1992.",
-        "source_link": "https://www.motor1.com/news/804887/mclaren-mcl-6gt-manual-supercar-revealed/"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.pushsquare.com/72a94fccd33b3/large.jpg",
-        "title": "You'll Have to Wait Until 2028 to Play PS5's Shiniest, Jankiest Sci-Fi Adventure - Push Square",
-        "description": "New Neo Berlin 2087 trailer just dropped",
-        "source_link": "https://www.pushsquare.com/news/2026/08/youll-have-to-wait-until-2028-to-play-ps5s-shiniest-jankiest-sci-fi-adventure"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-        "title": "Don't Say Good Luck",
-        "description": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical \u2014 until she's suddenly facing more drama at home than on the stage....",
-        "source_link": "https://www.themoviedb.org/movie/1504358"
-      },
-      {
-        "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
-        "rank": 4,
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+        "title": "Don't Say Good Luck",
+        "description": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical \u2014 until she's suddenly facing more drama at home than on the stage....",
+        "source_link": "https://www.themoviedb.org/movie/1504358"
+      },
+      {
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
         "title": "Avengers: Doomsday",
         "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
         "source_link": "https://www.themoviedb.org/movie/1003596"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
         "title": "Camp Rock 3",
         "description": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie...",
         "source_link": "https://www.themoviedb.org/movie/1493400"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
         "rank": 6,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-        "title": "The Invite",
-        "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected pl...",
-        "source_link": "https://www.themoviedb.org/movie/950028"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "title": "The Invite",
+        "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected pl...",
+        "source_link": "https://www.themoviedb.org/movie/950028"
       }
     ]
   }
