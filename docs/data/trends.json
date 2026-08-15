@@ -1,92 +1,85 @@
 {
-  "last_updated": "August 15, 2026, 00:58 UTC",
+  "last_updated": "August 15, 2026, 02:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.macrumors.com/t/qRmOexb-1DJ4BzULNReC0L_jgjA=/1800x/article-new/2026/04/iPhone-18-Pro-Rumored-Colors.jpg",
+        "title": "What's Coming in September: New iPhones, Apple Watches and More - MacRumors",
+        "description": "Apple will introduce at least five new devices at its iPhone-centric event next month, and it's also possible we'll get devices waiting on...",
+        "source_link": "https://www.macrumors.com/2026/08/13/apple-september-announcement-rumors/"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.droid-life.com/wp-content/uploads/2026/08/Pixel-11-Pro-XL-1-1200x628.jpg",
+        "title": "Google Play Has a Secret Pixel 11 Pro Deal - Droid Life",
+        "description": "We've talked about the Google Store promos on the Pixel 11 series, as well as Amazon's instant discount, but there's another you should be aware of that is stackable and sizable. Google Play is offering its Play Points members a deal that likely varies depend\u2026",
+        "source_link": "https://www.droid-life.com/2026/08/13/google-play-has-a-secret-pixel-11-pro-deal/"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25047560/236883_Epic_Vs_Google_D_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "\u2018That is not acceptable\u2019: Judge orders Google to make rival app store installs easier - The Verge",
+        "description": "Judge James Donato just ordered Google to make it easier to install rival app stores on Android.",
+        "source_link": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/08/Neo-Berlin-2087_08-13-26.jpg",
+        "title": "NEO BERLIN 2087 launches in 2028 - Gematsu",
+        "description": "Action RPG NEO BERLIN 2087 will launch for PlayStation 5, Xbox Series, and PC via Steam in 2028, publisher ByteRockers\u2019 Games and developer ELysium Game Studio announced.",
+        "source_link": "https://www.gematsu.com/2026/08/neo-berlin-2087-launches-in-2028"
+      },
+      {
+        "rank": 5,
         "image": "https://cdn.motor1.com/images/mgl/BXZEgw/s1/2027-porsche-911-carrera-s-mt-package.jpg",
         "title": "Porsche Heard You: The Manual 911 Carrera S Is Back - motor1.com",
         "description": "Porsche brings back the manual 911 Carrera S with a North American-exclusive MT package that packs six gears, 473 horsepower, and loads of features.",
         "source_link": "https://www.motor1.com/news/804726/2027-porsche-911-carrera-s-manual-package/"
       },
       {
-        "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268689_Robot_Lawnmower_JTuohy_0017.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "I finally found a robot lawnmower I\u2019d trust with my yard - The Verge",
-        "description": "I set five automowers against each other to find the best cutter for my challenging landscape. They\u2019re far from perfect, but they\u2019re getting there.",
-        "source_link": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame"
-      },
-      {
-        "rank": 3,
+        "rank": 6,
         "image": "https://www.restart.run/api/og?title=What%27s%20next%20for%20Restart&publishedAt=2026-08-13T16:00:00.000Z&imageUrl=https://cdn.sanity.io/images/wii1y9hm/production/8a8da964456a6d4ad371c97b2d5218f697d882b5-2048x1152.jpg",
         "title": "What's next for Restart - Restart.run",
         "description": "Restart.run is changing shape and moving off daily coverage.",
         "source_link": "https://www.restart.run/articles/whats-next-for-restart"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-08/13/17/thumb/VTXMUlKC5.jpg?crop=2500:1309;0,0%26downsize=1250:*",
         "title": "\u201cThere's No Coming Back From This:\u201d 35 People Who I Know For FACT Regret Literally Every Single Tiny Decision They\u2019ve Made This Year - BuzzFeed",
         "description": "Those are some tough cookies.",
         "source_link": "https://www.buzzfeed.com/daves4/tough-month-august-2026"
       },
       {
-        "rank": 5,
+        "rank": 8,
+        "image": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Windows.jpg",
+        "title": "Microsoft patches LegacyHive Windows zero-day vulnerability - BleepingComputer",
+        "description": "Microsoft has released security patches to address a Windows zero-day vulnerability known as \"LegacyHive,\" disclosed after the July 2026 Patch Tuesday.",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/"
+      },
+      {
+        "rank": 9,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/google-pixel-tag-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Google\u2019s Pixel Tag picks a bold strategy in a sea of AirTag clones [Gallery] - 9to5Google",
         "description": "Google\u2019s first first-party Find Hub tracker is finally here. The Pixel Tag drops in November and, while there\u2019s a lot...",
         "source_link": "http://9to5google.com/2026/08/13/google-pixel-tag-airtag-moto-tag/"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-4-1152x648.jpg",
-        "title": "Google announces Gemini 3.7 Flash just three weeks after previous release - Ars Technica",
-        "description": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
-        "source_link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/"
-      },
-      {
-        "rank": 7,
-        "image": "https://gizmodo.com/app/uploads/2025/08/pbs-sign-1200x675.jpg",
-        "title": "PBS Station Sues to Regain Access to 70 Years of Archival TV History - Gizmodo",
-        "description": "A PBS station in St. Louis lost access to the data after its cloud storage provider apparently went out of business.",
-        "source_link": "https://gizmodo.com/pbs-station-sues-to-regain-access-to-70-years-of-archival-tv-history-2000798323"
-      },
-      {
-        "rank": 8,
-        "image": "https://kotaku.com/app/uploads/2026/07/image-97.jpg",
-        "title": "There Is No Reason Not To Play South Of Midnight Anymore - Kotaku",
-        "description": "With Compulsion Games now newly independent, their BAFTA-winning game is now free from Xbox and anything else that might have kept you from trying it",
-        "source_link": "https://kotaku.com/south-of-midnight-compulsion-games-bds-xbox-2000724140"
-      },
-      {
-        "rank": 9,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mico-1.png?resize=1200,675",
-        "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps - TechCrunch",
-        "description": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-        "source_link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/"
-      },
-      {
-        "rank": 10,
-        "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-home/2026/08/13/pokemon-home-169-en.png",
-        "title": "Pok\u00e9mon FireRed Version and Pok\u00e9mon LeafGreen Version Link with Pok\u00e9mon HOME This October - Pokemon.com",
-        "description": "Complete the Pok\u00e9dex to partner up with a new Pok\u00e9mon, encounter new Legendary Pok\u00e9mon, and more.",
-        "source_link": "https://www.pokemon.com/uk/news/pokemon-firered-version-and-pokemon-leafgreen-version-link-with-pokemon-home-this-october"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/8wI9KByZtzBMWOzDFjxHPSOAuOH.jpg",
-        "title": "Camp Rock 3",
-        "description": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie...",
-        "source_link": "https://www.themoviedb.org/movie/1493400"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
         "title": "Don't Say Good Luck",
         "description": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical \u2014 until she's suddenly facing more drama at home than on the stage....",
         "source_link": "https://www.themoviedb.org/movie/1504358"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/8wI9KByZtzBMWOzDFjxHPSOAuOH.jpg",
+        "title": "Camp Rock 3",
+        "description": "When Connect 3 loses their opening act for a major reunion tour, they return to their beloved Camp Rock to discover the next big thing. As campers vie...",
+        "source_link": "https://www.themoviedb.org/movie/1493400"
       },
       {
         "rank": 3,
@@ -97,10 +90,10 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-        "title": "Minions & Monsters",
-        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
-        "source_link": "https://www.themoviedb.org/movie/1315772"
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
         "rank": 5,
@@ -111,17 +104,17 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
         "title": "My Best Friend, His Girlfriend and Me",
         "description": "Olli and Matze are best friends living, working and planning to travel the world together \u2014 until Matze's romance with Rebecca turns it all upside dow...",
         "source_link": "https://www.themoviedb.org/movie/1589248"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+        "title": "Minions & Monsters",
+        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
+        "source_link": "https://www.themoviedb.org/movie/1315772"
       },
       {
         "rank": 8,
