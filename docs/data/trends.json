@@ -1,76 +1,76 @@
 {
-  "last_updated": "August 15, 2026, 22:15 UTC",
+  "last_updated": "August 15, 2026, 23:14 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/Android-17-logo-close-up.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Android 17 QPR2 Beta 3 for Pixel rolling out - 9to5Google",
+        "description": "Following the last release at the start of last week, Google is rolling out Android 17 QPR2 Beta 3 for Pixel devices in a rare Friday drop.",
+        "source_link": "http://9to5google.com/2026/08/14/android-17-qpr2-beta-3-pixel/"
+      },
+      {
+        "rank": 2,
+        "image": "https://gizmodo.com/app/uploads/2026/08/Google-AI-Slop-Hell-1200x675.jpg",
+        "title": "Google Opens the Gates of AI Slop Hell - Gizmodo",
+        "description": "A new Gemini update will let AI slop artists skip cropping out a visible watermark.",
+        "source_link": "https://gizmodo.com/google-opens-the-gates-of-ai-slop-hell-2000798888"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.jalopnik.com/img/gallery/ford-ka-turbo-ls-volvo-s90-lincoln-town-car-ute-the-dopest-cars-i-found-for-sale-online/l-intro-1786724303.jpg",
+        "title": "Ford Ka, Turbo LS Volvo S90, Lincoln Town Car Ute: The Dopest Cars I Found For Sale Online - Jalopnik",
+        "description": "Amber's birthday is coming up, so you could think of this as a shopping list of potential gifts.",
+        "source_link": "https://www.jalopnik.com/2237170/ford-ka-turbo-ls-volvo-s90-lincoln-town-car-ute-dopest-cars/"
+      },
+      {
+        "rank": 4,
+        "image": "https://assets-prd.ignimgs.com/2026/08/14/lgevom3-1786733931517.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Save $3,100 Off the Massive 83\" LG Evo M3 4K OLED TV With Wireless Connectivity and 5 Year Warranty at Best Buy - IGN",
+        "description": "Lowest price ever for LG's biggest and best OLED TV of 2023.",
+        "source_link": "https://www.ign.com/articles/lg-evo-m3-4k-oled-tv-deal-august-2026"
+      },
+      {
+        "rank": 5,
+        "image": "https://assets-prd.ignimgs.com/2026/08/14/acerpredatororion-1786732992272.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Walmart Is Offering a Great Deal on a GeForce RTX 5070 Ti Gaming PC, and It Includes Two Upcoming AAA Games - IGN",
+        "description": "The RTX 5070 Ti graphics card is powerful enough to run the latest games smoothly at 4K.",
+        "source_link": "https://www.ign.com/articles/acer-predator-orion-rtx-5070-ti-gaming-pc-deal-intel-gamer-days-sale-updated"
+      },
+      {
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0395.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "A RAMageddon guide to back-to-school laptop shopping - theverge.com",
+        "description": "Shopping for a laptop for back to school? The MacBook Neo and MacBook Air are the easy answers, but there are also good and cheaper Windows and Chromebook alternatives.",
+        "source_link": "https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school"
+      },
+      {
+        "rank": 7,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg",
         "title": "Vulnerability giving attackers full control of Macs is under active exploitation - Ars Technica",
         "description": "Screen-sharing bug lets remote hackers log in without a password.",
         "source_link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/"
       },
       {
-        "rank": 2,
+        "rank": 8,
+        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/banner_1080p.jpg?w=1600&h=900&fit=crop",
+        "title": "After 10 Years In Development, Highly-Rated MMO Shocks With Free Steam Release - Polygon.com",
+        "description": "Soul's Remnant is an MMORPG that is defying odds on Steam, as the humble game developed by two people gains a 'very positive' rating.",
+        "source_link": "https://www.polygon.com/free-steam-game-like-maplestory-souls-remnant-mmo-rpg-what-is/"
+      },
+      {
+        "rank": 9,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Dk-Challenge-physical-cards.jpeg",
+        "title": "Nintendo reveals physical reward for completing the DK Challenge - Nintendo Everything",
+        "description": "Nintendo has just announced a physical collectible card set based on the digital rewards for the DK Challenge. Only players who are able to complete every mission in the DK Challenge before the end of the event will be able to receive it. There are a total of\u2026",
+        "source_link": "https://nintendoeverything.com/nintendo-reveals-physical-reward-for-completing-the-dk-challenge/"
+      },
+      {
+        "rank": 10,
         "image": "https://image.cnbcfm.com/api/v1/image/108349054-1786624520287-IMG_2633.jpg?v=1786642674&w=1920&h=1080",
         "title": "Lamborghini unveils Revuelto SV, its most powerful production car ever - CNBC",
         "description": "Lamborghini's Revuelto SV is a limited-edition V12 hybrid with over 1,050 horsepower, a 2.4-second 0-to-100 kph time and a $741,172 starting price.",
         "source_link": "https://www.cnbc.com/2026/08/14/lamborghini-revuelto-sv-hybrid-price.html"
-      },
-      {
-        "rank": 3,
-        "image": "https://www.topgear.com/sites/default/files/images/news-article/2026/08/aa8e75230bd72d18b12aa96aa779f8e7/DSCF4362-V1.jpg?w=1280&h=720",
-        "title": "The new Flachbau RS is a one-off Porsche 911 GT2 RS built to look (a bit) like Moby Dick - Top Gear",
-        "description": "Porsche\u2019s means are indeed sane, but the finished object? Mad",
-        "source_link": "https://www.topgear.com/car-news/supercars/new-flachbau-rs-a-one-porsche-911-gt2-rs-built-look-a-bit-moby-dick"
-      },
-      {
-        "rank": 4,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/08/person-remembering-reminder-GettyImages-1420814839.jpg?resize=1200,801",
-        "title": "Unforgetful is a new reminders app for people who can\u2019t stop hitting snooze - TechCrunch",
-        "description": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore \u2014 or accidentally dismiss.",
-        "source_link": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/"
-      },
-      {
-        "rank": 5,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-        "title": "Google will now allow users to remove visible watermark from its AI generations - TechCrunch",
-        "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-        "source_link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
-      },
-      {
-        "rank": 6,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOnyUd36Rxcw/v0/1200x675.jpg",
-        "title": "\u2018Monkey Island\u2019 Creator Finds Wealthy Investor for Next Game - Bloomberg.com",
-        "description": "Ron Gilbert didn\u2019t want to go with a traditional publisher for \u2018Thimbleweed Park 2,\u2019 so he took an unorthodox route",
-        "source_link": "https://www.bloomberg.com/news/newsletters/2026-08-14/-monkey-island-creator-finds-wealthy-investor-for-thimbleweed-park-2"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets-prd.ignimgs.com/2026/08/12/ign-first-controlresonant-3-bossfightgameplay-blogroll-1786532503502.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Watch Gameplay of a Brand New Control Resonant Boss Fight - IGN",
-        "description": "We've got more brand new Control Resonant gameplay to show you, as we take a look at one of the game's biggest boss fights.",
-        "source_link": "https://www.ign.com/articles/control-resonant-exclusive-boss-fight-gameplay-ign-first"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg",
-        "title": "Google ordered to make it easier to download alternative Android app stores - Ars Technica",
-        "description": "Third-party app stores are about to become more visible in Google Play.",
-        "source_link": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/"
-      },
-      {
-        "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/rideshare-stimulator_SBvvZcB.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Rideshare Stimulator finally gets its genAI disclosure after much Saber-rattling, and it turns out the game also uses the tech for in-game music - Rock Paper Shotgun",
-        "description": "Rideshare Stimulator has finally gotten a genAI disclosure on Steam after a furore, with Saber's CEO insisting that it's \"swim or die\" with genAI at large.",
-        "source_link": "https://www.rockpapershotgun.com/rideshare-stimulator-finally-gets-its-genai-disclosure-after-much-saber-rattling-and-it-turns-out-the-game-also-uses-the-tech-for-in-game-music"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.nintendolife.com/4dcba6e0ddaa2/large.jpg",
-        "title": "Feature: One Year On, Is Anyone Still Playing Drag x Drive? - Nintendo Life",
-        "description": "Drag x Thrive?",
-        "source_link": "https://www.nintendolife.com/features/one-year-on-is-anyone-still-playing-drag-x-drive"
       }
     ],
     "trending_movies": [
@@ -83,17 +83,17 @@
       },
       {
         "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+        "title": "Don't Say Good Luck",
+        "description": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical \u2014 until she's suddenly facing more drama at home than on the stage....",
+        "source_link": "https://www.themoviedb.org/movie/1504358"
+      },
+      {
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
         "title": "Avengers: Doomsday",
         "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
         "source_link": "https://www.themoviedb.org/movie/1003596"
-      },
-      {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-        "title": "Minions & Monsters",
-        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
-        "source_link": "https://www.themoviedb.org/movie/1315772"
       },
       {
         "rank": 4,
@@ -104,17 +104,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
-        "title": "Don't Say Good Luck",
-        "description": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical \u2014 until she's suddenly facing more drama at home than on the stage....",
-        "source_link": "https://www.themoviedb.org/movie/1504358"
+        "image": "https://image.tmdb.org/t/p/w200/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+        "title": "Minions & Monsters",
+        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
+        "source_link": "https://www.themoviedb.org/movie/1315772"
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "title": "The End of Oak Street",
-        "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
-        "source_link": "https://www.themoviedb.org/movie/1101383"
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
         "rank": 7,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
+        "image": "https://image.tmdb.org/t/p/w200/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "title": "The End of Oak Street",
+        "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
+        "source_link": "https://www.themoviedb.org/movie/1101383"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
-        "title": "My Best Friend, His Girlfriend and Me",
-        "description": "Olli and Matze are best friends living, working and planning to travel the world together \u2014 until Matze's romance with Rebecca turns it all upside dow...",
-        "source_link": "https://www.themoviedb.org/movie/1589248"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
         "title": "The Last House",
         "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped....",
         "source_link": "https://www.themoviedb.org/movie/1284041"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/aWLshM7DZECutuQVpMfhDiPZUQC.jpg",
+        "title": "My Best Friend, His Girlfriend and Me",
+        "description": "Olli and Matze are best friends living, working and planning to travel the world together \u2014 until Matze's romance with Rebecca turns it all upside dow...",
+        "source_link": "https://www.themoviedb.org/movie/1589248"
       }
     ]
   }
