@@ -1,71 +1,85 @@
 {
-  "last_updated": "August 17, 2026, 16:21 UTC",
+  "last_updated": "August 17, 2026, 17:21 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-poll-google-pixel-11-series/-952x498w6/gsmarena_000.jpg",
+        "title": "Weekly poll: which Google Pixel 11 model would you buy? - GSMArena.com news - gsmarena.com",
+        "description": "This generation brings a new chipset, some changes to the cameras and batteries - as well as new prices across the board.",
+        "source_link": "https://www.gsmarena.com/weekly_poll_which_google_pixel_11_model_would_you_buy-news-74157.php"
+      },
+      {
+        "rank": 2,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/samsung-galaxy-phone-surrounded-by-galaxy-ai-icons-and-toggles.png?w=1600&h=900&fit=crop",
+        "title": "5 disabled Samsung Galaxy features every owner should enable immediately - Android Police",
+        "description": "Galaxy AI is no longer just a gimmick",
+        "source_link": "https://www.androidpolice.com/disabled-samsung-galaxy-features-every-owner-enable/"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.slashgear.com/img/gallery/5-tech-brands-that-are-owned-by-anker/l-intro-1786447236.jpg",
+        "title": "5 Tech Brands That Are Owned By Anker - slashgear.com",
+        "description": "Anker owns Anker Solix, AnkerWork, Eufy, Soundcore, and Nebula, covering portable power, office gear, smart homes, audio, and projectors.",
+        "source_link": "https://www.slashgear.com/2234390/tech-brands-anker-owns/"
+      },
+      {
+        "rank": 4,
+        "image": "https://assetsio.gnwcdn.com/rideshare-saber-sacco.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Saber CEO Matthew Karch apologises to writer he said he'd have \"been happy to replace\" with AI - Eurogamer",
+        "description": "Matthew Karch has privately apologised to Stella Sacco after publicly saying he'd have been happy to replace her with AI.",
+        "source_link": "https://www.eurogamer.net/saber-ceo-karch-apologises-stella-sacco"
+      },
+      {
+        "rank": 5,
+        "image": "https://media.eventhubs.com/images/2026/08/14_ceobannert.webp",
+        "title": "CEO 2026 early results, stream ft. Craime, Punk, Higuchi, SonicFox, Rangchu, Hikari, Micky, Kobayan, Atif, Leffen, Kilzyou, Booce Lee and more - EventHubs",
+        "description": "Update: This story is being updated with live results as they occur.CEO is back again for 2026, albeit a bit later in the year than usual, and is happening in Orlando, Florida, U.S.A.It's set to ...",
+        "source_link": "https://www.eventhubs.com/news/2026/aug/14/ceo-2026-results/"
+      },
+      {
+        "rank": 6,
+        "image": "https://www.bgr.com/img/gallery/9-of-the-best-bluetooth-keyboards-for-your-tablet/l-intro-1786528142.jpg",
+        "title": "9 Of The Best Bluetooth Keyboards For Your Tablet - bgr.com",
+        "description": "From foldable models to keyboards with built-in trackpads, these are the best tablet kayboards for typing, working, and staying productive on the go.",
+        "source_link": "https://www.bgr.com/2235214/best-bluetooth-keyboards-for-your-tablet/"
+      },
+      {
+        "rank": 7,
         "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/hand-holding-a-smartphone-with-samsung-email-icon-and-floating-messages.jpg?w=1600&h=900&fit=crop",
         "title": "I planned to use Gmail forever, until one email app quietly replaced it for good - androidpolice.com",
         "description": "I just wanted to read emails, but Gmail served me with unsolicited AI tips",
         "source_link": "https://www.androidpolice.com/i-planned-to-use-gmail-forever-until-one-email-app-replaced-it/"
       },
       {
-        "rank": 2,
+        "rank": 8,
+        "image": null,
+        "title": "Walmart\u2019s Cute 407-Piece LEGO Cat Toy Is \u2018Perfect for Kitty Lovers\u2019 - ParadePets",
+        "description": null,
+        "source_link": "https://paradepets.com/shopping/lego-creator-3-in-1-playful-cat-toy-walmart-sale-august-2026"
+      },
+      {
+        "rank": 9,
         "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/04/img_3235.jpg?w=1600&h=900&fit=crop",
         "title": "I'd skip the expensive Samsung Galaxy S26 Ultra for these phones every time - androidpolice.com",
         "description": "Forget Samsung's latest, these five phones are great alternatives",
         "source_link": "https://www.androidpolice.com/id-skip-the-expensive-samsung-galaxy-s26-ultra-for-these-phones-every-time/"
-      },
-      {
-        "rank": 3,
-        "image": "https://www.bgr.com/img/gallery/does-apple-still-support-itunes/l-intro-1786388307.jpg",
-        "title": "Does Apple Still Support iTunes? - bgr.com",
-        "description": "Apple still supports its legendary iTunes software for legacy Macs and\u00a0Windows PCs, even though the company started gradually phasing it out in 2019.",
-        "source_link": "https://www.bgr.com/2233909/does-apple-support-itnues/"
-      },
-      {
-        "rank": 4,
-        "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTE5MzQx/amazon-logo.jpg?profile=share16-9",
-        "title": "Amazon is selling a $39 multi-tool for $24 that\u2019s easy to carry - thestreet.com",
-        "description": "\"It includes an impressive variety of functions.\"",
-        "source_link": "https://www.thestreet.com/deals/wetols-21-in-1-multi-tool-amazon-sale"
-      },
-      {
-        "rank": 5,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-Fold-in-Obsidian.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Face Unlock on Pixel 11 series works better in low light - 9to5Google",
-        "description": "The Pixel 11 series now offers Face Unlock that \u201crecognizes you more easily in low light.\u201d Since the Pixel 8...",
-        "source_link": "http://9to5google.com/2026/08/16/pixel-11-face-unlock/"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.bgr.com/img/gallery/which-nvidia-gpu-is-equivalent-to-the-playstation-5/l-intro-1786123994.jpg",
-        "title": "Which Nvidia GPU Is Equivalent To The PlayStation 5? - bgr.com",
-        "description": "Sony's video game console most closely matches an Nvidia RTX 3070, the equivalent of a mid-range card. But there's more to it than raw specs.",
-        "source_link": "https://www.bgr.com/2233620/nvidia-gpu-equivalent-to-playstation-5/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/08/Fiio-Ea13-Full-Size-Vacuum-Tube-Power-Amplifier-5x4-Edited-2-16x9-Lead-1.webp",
-        "title": "11 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
-        "description": "Catching you up on the past week\u2019s most notable product releases.",
-        "source_link": "https://www.gearpatrol.com/audio/best-new-tech-releases-8-16-26/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
         "rank": 3,
@@ -83,24 +97,24 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/aTmwK4yKzM52spczHFeuWldfzo7.jpg",
-        "title": "Minions & Monsters",
-        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
-        "source_link": "https://www.themoviedb.org/movie/1315772"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
         "title": "The End of Oak Street",
         "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
         "source_link": "https://www.themoviedb.org/movie/1101383"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/aTmwK4yKzM52spczHFeuWldfzo7.jpg",
+        "title": "Minions & Monsters",
+        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
+        "source_link": "https://www.themoviedb.org/movie/1315772"
       },
       {
         "rank": 8,
@@ -118,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-        "title": "The Invite",
-        "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected pl...",
-        "source_link": "https://www.themoviedb.org/movie/950028"
+        "image": "https://image.tmdb.org/t/p/w200/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+        "title": "Disclosure Day",
+        "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorol...",
+        "source_link": "https://www.themoviedb.org/movie/1275779"
       }
     ]
   }
