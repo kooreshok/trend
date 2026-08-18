@@ -1,76 +1,69 @@
 {
-  "last_updated": "August 18, 2026, 18:30 UTC",
+  "last_updated": "August 18, 2026, 19:23 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iOS-26.6-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Apple releases iOS 26.6.1 for iPhone, here\u2019s what\u2019s new - 9to5Mac",
+        "description": "Apple has just released iOS 26.6.1, a new software update for iPhone that arrives ahead of iOS 27 next month. Here\u2019s what\u2019s new.",
+        "source_link": "https://9to5mac.com/2026/08/17/apple-releases-ios-26-6-1-for-iphone-heres-whats-new/"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/iOS-27-b6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iOS 27 beta 6 now available as Apple tests major Siri AI upgrade - 9to5Mac",
+        "description": "Apple has released the sixth iOS 27 beta for developer testing. iOS 27 beta 6 continues Apple\u2019s summer beta cycle...",
+        "source_link": "https://9to5mac.com/2026/08/17/ios-27-beta-6/"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.popville.com/wp-content/uploads/2026/08/arepa-zone-popville.jpg",
+        "title": "Arepa Zone: \u201cAfter 12 years in business, we\u2019re facing the biggest challenge we\u2019ve ever encountered.\u201d - PoPville",
+        "description": "1121 14th Street, NW Thanks to Alexandra for passing on the tough request from the Arepa Zone: \"This update is a tough one to write. If you\u2019re a personal friend, you\u2019ve probably already heard a little about what we\u2019re going through. If not, we wanted to share\u2026",
+        "source_link": "https://www.popville.com/2026/08/arepa-zone-needs-your-support/"
+      },
+      {
+        "rank": 4,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/03/Pixel-10-and-S26-Ultra-cameras-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Samsung Galaxy design might ditch its \u2018core identity\u2019 for a Pixel camera bar \u2013 it needs to - 9to5Google",
+        "description": "New evidence suggests that Samsung is possibly, maybe, potentially looking to move away from the vertical camera design on Galaxy...",
+        "source_link": "http://9to5google.com/2026/08/17/samsung-galaxy-google-pixel-camera-bar-rumors/"
+      },
+      {
+        "rank": 5,
+        "image": "https://assetsio.gnwcdn.com/diablo-4-switch-2_IpuO7Y4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Long-awaited Switch 2 version of Diablo 4 reportedly releases days after BlizzCon, and includes both game expansions - Eurogamer",
+        "description": "It's been a long wait for Diablo 4 on Switch 2, and it seems that wait may now, finally, be over.",
+        "source_link": "https://www.eurogamer.net/diablo-4-switch-2-release-date-rumour-expansions"
+      },
+      {
+        "rank": 6,
+        "image": "https://assets-prd.ignimgs.com/2026/08/15/aliens-fireteam-elite-2-finalprev-blogroll-2-1786755913707.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Aliens: Fireteam Elite 2 \u2013 The Final Preview - IGN",
+        "description": "Aliens: Fireteam Elite 2 seems like one of those lazy Sunday games, where you kill part of an afternoon playing a couple hours with friends. It gets Aliens and understands that forty miles of bad road Cameron envisioned. As a co-op game, it\u2019s not going to cha\u2026",
+        "source_link": "https://www.ign.com/articles/aliens-fireteam-elite-2-the-final-preview"
+      },
+      {
+        "rank": 7,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-blue-angle-two.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iPhone 18 Pro: Six new features are coming next month - 9to5Mac",
+        "description": "Here are six new features rumored for the iPhone 18 Pro and Pro Max, both of which will launch next month at Apple\u2019s September event.",
+        "source_link": "https://9to5mac.com/2026/08/17/iphone-18-pro-six-new-features-are-coming-this-fall/"
+      },
+      {
+        "rank": 8,
         "image": "https://images.pushsquare.com/3338f807c17ee/large.jpg",
         "title": "Sony's New 'It Happens on PS5' Ad Has Gone Down Exactly as You'd Expect - Push Square",
         "description": "\"Discs used to happen on PS5\"",
         "source_link": "https://www.pushsquare.com/news/2026/08/sonys-new-it-happens-on-ps5-ad-has-gone-down-exactly-as-youd-expect"
       },
       {
-        "rank": 2,
-        "image": "https://assets-prd.ignimgs.com/2026/08/17/me1-blogroll-1786972844387.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "I Love the Whole Mass Effect Trilogy, but the First Game\u2019s Story Is Head-and-Shoulders Above What Came After - IGN",
-        "description": "The entire Mass Effect trilogy is fantastic, but the first game's story is head-and-shoulders above the tales told in the later games.",
-        "source_link": "https://www.ign.com/articles/the-original-mass-effect-is-the-trilogys-best-story-hands-down"
-      },
-      {
-        "rank": 3,
-        "image": "https://gonintendo.com/attachments/image/84592/file/medium-ab8bcb897956e9214c8f562e747e2625.jpg",
-        "title": "1000xRESIST Nintendo Switch 2 Edition officially announced, launches Aug. 20th, 2026 - GoNintendo",
-        "description": "Blessed be the ALLMOTHER",
-        "source_link": "https://gonintendo.com/contents/63848-1000xresist-nintendo-switch-2-edition-officially-announced-launches-aug-20th-2026"
-      },
-      {
-        "rank": 4,
-        "image": "https://kotaku.com/app/uploads/2026/08/babie.jpg",
-        "title": "Mattel Wants To Succeed In Games Where Hasbro Is Failing - Kotaku",
-        "description": "Mattel is looking to succeed where Hasbro failed",
-        "source_link": "https://kotaku.com/the-toy-maker-behind-barbie-and-hot-wheels-wants-to-make-its-own-video-games-2000724968"
-      },
-      {
-        "rank": 5,
-        "image": "https://assetsio.gnwcdn.com/ps5-ram-calendar.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Sony still hasn't chosen a PlayStation 6 release date, says CEO, as RAM crisis continues - Eurogamer",
-        "description": "There is still no internal release date for the PlayStation 5 successor, according to Sony's CEO.",
-        "source_link": "https://www.eurogamer.net/sony-ps6-internal-release-date-component-shortage"
-      },
-      {
-        "rank": 6,
-        "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/08/3M-St-Paul-Monument-place001-rgb.jpg",
-        "title": "\u2018Show How 3M Is 0% at Fault:\u2019 Expert Witness Used ChatGPT to Write Report Defending Company in Deadly Explosion Lawsuit - 404 Media",
-        "description": "ChatGPT prompts show how an expert witness report was created in a $61 million lawsuit over an explosion that killed three people.",
-        "source_link": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/"
-      },
-      {
-        "rank": 7,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-olive-23.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google says Pixel 11\u2019s new MediaTek modem is \u2018faster and more power efficient\u2019 - 9to5Google",
-        "description": "Google says the new MediaTek modem in its Pixel 11 phones will be more reliable, faster, and bring needed power improvements.",
-        "source_link": "http://9to5google.com/2026/08/17/google-pixel-11-mediatek-modem/"
-      },
-      {
-        "rank": 8,
-        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mortal-shell-2-standoff.jpg?w=1600&h=900&fit=crop",
-        "title": "Reviews Hail New Action-RPG as 2026\u2019s Best Soulslike - Polygon.com",
-        "description": "Mortal Shell 2 is a hit with critics, as the Soulslike sequel is reviewing much better than its predecessor.",
-        "source_link": "https://www.polygon.com/mortal-shell-review-roundup/"
-      },
-      {
         "rank": 9,
-        "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2026/08/Tesla-FSD-takes-wrong-exit.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Tesla FSD v14 swerved and try to drive me into a ditch for no reason - Electrek",
-        "description": "Tesla FSD v14.3.6 tried to take a highway exit it had already passed at 110 km/h on an empty, well-marked road at night. Here's what happened.",
-        "source_link": "http://electrek.co/2026/08/17/tesla-fsd-v14-3-6-swerved-exit-already-passed/"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.bgr.com/img/gallery/8-sams-club-electronics-with-deep-discounts-to-look-out-for-in-august-2026/l-intro-1786732160.jpg",
-        "title": "8 Sam's Club Electronics With Deep Discounts To Look Out For In August 2026 - bgr.com",
-        "description": "Sam's Club is a great place to score amazing deals on just about everything, especially tech. Check out the deep discounts the wholesaler has for August.",
-        "source_link": "https://www.bgr.com/2237320/sams-club-electronics-deep-discounts-august/"
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/08/sonos-live-activities-lock-screen.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Sonos just launched Live Activities on iPhone - 9to5Mac",
+        "description": "The Sonos app on iPhone just added a big new feature: Live Activities. Here are the details on how they work.",
+        "source_link": "https://9to5mac.com/2026/08/17/sonos-just-launched-live-activities-on-iphone/"
       }
     ],
     "trending_movies": [
@@ -83,17 +76,17 @@
       },
       {
         "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+        "title": "The Invite",
+        "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected pl...",
+        "source_link": "https://www.themoviedb.org/movie/950028"
+      },
+      {
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "title": "The End of Oak Street",
-        "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
-        "source_link": "https://www.themoviedb.org/movie/1101383"
       },
       {
         "rank": 4,
@@ -104,10 +97,10 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-        "title": "Insidious: Out of the Further",
-        "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to b...",
-        "source_link": "https://www.themoviedb.org/movie/1291595"
+        "image": "https://image.tmdb.org/t/p/w200/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+        "title": "The End of Oak Street",
+        "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
+        "source_link": "https://www.themoviedb.org/movie/1101383"
       },
       {
         "rank": 6,
@@ -118,17 +111,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-        "title": "The Invite",
-        "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected pl...",
-        "source_link": "https://www.themoviedb.org/movie/950028"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+        "title": "Insidious: Out of the Further",
+        "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to b...",
+        "source_link": "https://www.themoviedb.org/movie/1291595"
       },
       {
         "rank": 9,
