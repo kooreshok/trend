@@ -1,76 +1,76 @@
 {
-  "last_updated": "August 20, 2026, 16:28 UTC",
+  "last_updated": "August 20, 2026, 17:23 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-pixel-11-pro-fold-01.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+        "title": "Google\u2019s Pixel 11 Pro Fold feels like the end of an era - The Verge",
+        "description": "Google\u2019s Pixel 11 Pro Fold is a great foldable, with IP68 and a reliable triple camera, trapped in a shape everyone else seems to be moving on from.",
+        "source_link": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review"
+      },
+      {
+        "rank": 2,
+        "image": "https://unknownworlds.com/_next/image?url=https:/d17c72h1ypygg7.cloudfront.net/SN_2_EA_1_2_UPDATE_16x9_8b2efaac16.png&w=720&q=75",
+        "title": "Subnautica 2 Buddy System Update - Unknown Worlds",
+        "description": "Subnautica 2\u2019s Early Access 1.2 update,\u00a0Buddy System, just landed!",
+        "source_link": "https://unknownworlds.com/news/subnautica-2-buddy-system-update"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.mos.cms.futurecdn.net/XK7W9gHWEgHPdh5kir8n9-2000-80.jpg",
+        "title": "Apple iPhone 18 event \u2014 all the new products expected to launch in September - tomsguide.com",
+        "description": "Apple's first foldable phone is just the start",
+        "source_link": "https://www.tomsguide.com/phones/iphones/apple-iphone-18-event-all-the-new-products-expected-to-launch-in-september"
+      },
+      {
+        "rank": 4,
+        "image": "https://images.macrumors.com/t/bk2N_fO8Kkb58OMudH1Nzd1LgGI=/2048x/article-new/2026/01/Apple-Event-Logo.jpeg",
+        "title": "Apple Accidentally Leaked More Than 10 New Products in macOS Update - MacRumors",
+        "description": "Apple on Monday seeded the macOS 26.7 Release Candidate, and the upcoming software update has seemingly leaked more than 10 new Apple products.  ...",
+        "source_link": "https://www.macrumors.com/2026/08/19/apple-leak-macos-26-7/"
+      },
+      {
+        "rank": 5,
+        "image": "https://images.macrumors.com/t/yahagDRaUwJedSpmk_nrcNOR2aM=/2500x/article-new/2022/10/apple-tv-4k-yellow-bg-feature.jpg",
+        "title": "Next Apple TV Rumored to Have Five New Features, Including Siri AI - MacRumors",
+        "description": "According to rumors, the next-generation Apple TV 4K will have at least five new features, including an A17 Pro chip or newer, increased RAM, Siri AI...",
+        "source_link": "https://www.macrumors.com/2026/08/19/new-apple-tv-five-rumored-upgrades/"
+      },
+      {
+        "rank": 6,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a3bf23d7fa8bdd38d9ec320/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "\u2018GTA VI\u2019 Leaker Reveals Their Motivations, Promises More To Come - Forbes",
+        "description": "'GTA VI' is currently suffering from a number of leaks from a specific leaker, revealing gameplay, maps, systems and more.",
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/08/19/gta-vi-leaker-reveals-their-motivations-promises-more-to-come/"
+      },
+      {
+        "rank": 7,
+        "image": "https://insider-gaming.com/wp-content/uploads/2026/08/S.T.A.L.K.E.R.-2_-Heart-of-Chornobyl-09_08_2026-22_40_42-1024x576.png",
+        "title": "STALKER 2: Cost of Hope Review\u2014The Zone Will Never Be The Same After This - insider-gaming.com",
+        "description": "STALKER 2's Cost of Hope review is so massive it requires a full review. Find out everything you need to know about this DLC here.",
+        "source_link": "https://insider-gaming.com/reviews/stalker-2-cost-of-hope-review-zone-never-be-the-same/"
+      },
+      {
+        "rank": 8,
         "image": "https://images.pushsquare.com/b32a319cd0065/large.jpg",
         "title": "6 Ways PS5's Tides of Annihilation Blew Me Away After 2 Hours of Play - Push Square",
         "description": "The tide is high-ly impressive",
         "source_link": "https://www.pushsquare.com/previews/6-ways-ps5s-tides-of-annihilation-blew-me-away-after-2-hours-of-play"
       },
       {
-        "rank": 2,
+        "rank": 9,
+        "image": "https://assetsio.gnwcdn.com/Harvey-Smith_An3f71m.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "\"We chose the worst time in history\" \u2013 Harvey Smith on starting his own studio after Arkane - GamesIndustry.biz",
+        "description": "Black Pony Immersive has been built to create the games that Smith and his Dishonored and Deus Ex colleagues do best",
+        "source_link": "https://www.gamesindustry.biz/we-chose-the-worst-time-in-history-harvey-smith-on-starting-his-own-studio-after-arkane"
+      },
+      {
+        "rank": 10,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivNFP8m8svgo/v1/1200x675.jpg",
         "title": "PlayStation Reboots \u2018Horizon Hunters Gathering\u2019 as Live-Service Strategy Struggles - Bloomberg.com",
         "description": "The Japanese gaming titan has canceled or rebooted most of its live-service multiplayer projects in recent years",
         "source_link": "https://www.bloomberg.com/news/articles/2026-08-19/playstation-reboots-horizon-hunters-gathering-as-live-service-strategy-struggles"
-      },
-      {
-        "rank": 3,
-        "image": "https://assetsio.gnwcdn.com/the-binding-of-isaac-repentance%2B-screen-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "The next Binding of Isaac game is going up against Grand Theft Auto 6 - Eurogamer",
-        "description": "The Binding of Isaac: Repentance + Online is one of a very few games brave enough to have the same release date as GTA 6.",
-        "source_link": "https://www.eurogamer.net/the-binding-of-isaac-repentance-plus-online-date"
-      },
-      {
-        "rank": 4,
-        "image": "https://images.pushsquare.com/810116d314f40/large.jpg",
-        "title": "Wolverine PS5 Consoles, Accessories Available to Pre-Order Now - Push Square",
-        "description": "Console Covers for PS5 Pro already sold out",
-        "source_link": "https://www.pushsquare.com/news/2026/08/wolverine-ps5-consoles-accessories-available-to-pre-order-now"
-      },
-      {
-        "rank": 5,
-        "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-leak.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "GTA 6 gameplay footage and map appear to leak online, as group seemingly responsible makes demands of Rockstar - Eurogamer",
-        "description": "Grand Theft Auto 6 has seemingly suffered another gameplay leak ahead of an Extended Look premiere on Netflix next week.",
-        "source_link": "https://www.eurogamer.net/gta-6-leaked-gameplay-map-cyberleek"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.bgr.com/img/gallery/4-cool-new-anker-accessories-you-should-check-out-in-2026/l-intro-1786576840.jpg",
-        "title": "4 Cool New Anker Accessories You Should Check Out In 2026 - bgr.com",
-        "description": "The cool new Anker accessories for 2026 blow up the idea that chargers are boring. Among the goodies are a multi-use docking station and a wireless charger.",
-        "source_link": "https://www.bgr.com/2236562/cool-new-anker-accessories-2026/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.gtplanet.net/wp-content/uploads/2026/08/gt7-gameupdate-171-001-20260819.jpg",
-        "title": "Gran Turismo 7 Update Confirmed for August 20: Three Performance Sedans, Caterham Returns - GTPlanet",
-        "description": "After an unexpectedly longer wait for more information, we\u2019ve now got confirmation that the next content update for Gran Turismo 7 lands on Thursday, August 20, along with details on some of its contents...",
-        "source_link": "https://www.gtplanet.net/gran-turismo-7-update-confirmed-20260819/"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.theregister.com/5289525.jpg?imageId=5289525&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "title": "Raspberry Pi gets jiggy with batch CM5 provisioning - The Register",
-        "description": "Clamp, flash, repeat \u2013 no separate IO board or host computer required",
-        "source_link": "https://www.theregister.com/edge-and-iot/2026/08/19/raspberry-pi-gets-jiggy-with-batch-cm5-provisioning/5289499"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.macrumors.com/t/0543dbjxfqM6PrA4sngiXK-aF-o=/2500x/article-new/2026/07/iPhone-18-Pro-and-Pro-Max-Feature.jpg",
-        "title": "iPhone 17 Pro Cases Fit iPhone 18 Pro - Or At Least Otterbox Thinks So - MacRumors",
-        "description": "Bloomberg's Mark Gurman noted on X (Twitter) today that Otterbox is already selling iPhone 18 Pro cases at Best Buy. While the timing is early...",
-        "source_link": "https://www.macrumors.com/2026/08/19/iphone-17-pro-cases-fit-iphone-18-pro/"
-      },
-      {
-        "rank": 10,
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8000x4500+0+500/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F43%2Fdb%2Fb86df50f4db8b462b69cd049c4c2%2Fgettyimages-2112446687.jpg",
-        "title": "Feeling restless? Level up your life by starting a side quest - NPR",
-        "description": "Feeling restless in life? Level up your main quest with an activity that has no other purpose than to add whimsy to your life. Play experts share tips on how to find the perfect side quest.",
-        "source_link": "https://www.npr.org/2026/08/19/nx-s1-5936241/feeling-restless-level-up-your-life-start-side-quest"
       }
     ],
     "trending_movies": [
@@ -90,17 +90,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
         "rank": 5,
@@ -118,17 +118,17 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
         "title": "Minions & Monsters",
         "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
         "source_link": "https://www.themoviedb.org/movie/1315772"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
         "rank": 9,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "title": "The End of Oak Street",
-        "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
-        "source_link": "https://www.themoviedb.org/movie/1101383"
+        "image": "https://image.tmdb.org/t/p/w200/r0hCOPsYHFc7qok51canND9TVoN.jpg",
+        "title": "Pinocchio: Unstrung",
+        "description": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James...",
+        "source_link": "https://www.themoviedb.org/movie/1232569"
       }
     ]
   }
