@@ -1,62 +1,62 @@
 {
-  "last_updated": "August 21, 2026, 08:34 UTC",
+  "last_updated": "August 21, 2026, 09:31 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/LG-Display-FLiPP-featured.jpg",
+        "title": "LG Display Introduces FLiPP OLED Technology, Improving Brightness By Up To 1.6X With Longer Lifespan - Wccftech",
+        "description": "LG's FLiPP OLED technology offers 1.6x brightness, 2.4x lifespan, and 13% lower power consumption compared to FMM with enhanced manufacturing flexibility.",
+        "source_link": "https://wccftech.com/lg-display-introduces-flipp-oled-technology/"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.nintendolife.com/9734d790fdd87/large.jpg",
+        "title": "Pok\u00e9mon Pokopia Expansion Pass Getting Packaged Download Release - Nintendo Life",
+        "description": "Launching in Korea this September",
+        "source_link": "https://www.nintendolife.com/news/2026/08/pokemon-pokopia-expansion-pass-getting-packaged-download-release"
+      },
+      {
+        "rank": 3,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S26-family-1-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Samsung confirms August 27 event for the \u2018newest addition to the Galaxy S26 family\u2019 - 9to5Google",
         "description": "Samsung is teasing a new entrant to the Galaxy S26 series coming at an event on August 27, but it\u2019s...",
         "source_link": "http://9to5google.com/2026/08/19/samsung-august-event-galaxy-s26-family/"
       },
       {
-        "rank": 2,
-        "image": "https://images.rpgsite.net/articles/thumbnail/da49c9a1/21138/original/trails-in-the-sky-2nd-chapter-english-demo-download.png",
-        "title": "Trails in the Sky 2nd Chapter demo now available, Season Pass and Digital Deluxe Edition announced - RPG Site",
-        "description": "GungHo has launched a free Trails in the Sky 2nd Chapter demo on PS5, Steam, and Switch 1 with save data carrying over into the full game.",
-        "source_link": "https://www.rpgsite.net/news/21138-trails-in-the-sky-2nd-chapter-demo-download-save-transfer-ps5-switch-2-pc-steam"
+        "rank": 4,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/08/Black-Myth-Zhong-Khui-PV_08-19-26.jpg",
+        "title": "Black Myth: Zhong Kui 15-minute \u2018Gameplay\u2019 trailer - Gematsu",
+        "description": "Game Science has released a 15-minute early gameplay trailer for Black Myth: Wukong successor Black Myth: Zhong Kui.",
+        "source_link": "https://www.gematsu.com/2026/08/black-myth-zhong-kui-15-minute-gameplay-trailer"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://www.bleepstatic.com/content/hl-images/2023/03/24/ChatGPT.jpg",
+        "title": "OpenAI confirms ChatGPT is down as logins and signups fail - BleepingComputer",
+        "description": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations.",
+        "source_link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/"
+      },
+      {
+        "rank": 6,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imyPS6.O_neQ/v0/1200x800.jpg",
         "title": "Apple\u2019s Camera-Equipped AI AirPods Remain on Track for 2027 Despite Video Leak - Bloomberg.com",
         "description": "An Apple Inc. effort to sell camera-equipped AirPods remains on track for 2027, despite a leak from the company indicating that the product might arrive sooner.",
         "source_link": "https://www.bloomberg.com/news/articles/2026-08-19/apple-s-camera-equipped-ai-airpods-remain-on-track-for-2027-despite-video-leak"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://www.androidauthority.com/wp-content/uploads/2020/11/garmin-index-s2-smart-scale-review-weight.jpg",
         "title": "Google built a camera-based tool to estimate body fat more accurately than wearables - Android Authority",
         "description": "Google explains how its new photo-based tool can do a body composition analysis more accurately than your smartwatch.",
         "source_link": "https://www.androidauthority.com/google-research-photoscan-body-composition-3700687/"
       },
       {
-        "rank": 5,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/IMG_1032-1152x648.jpeg",
-        "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops - Ars Technica",
-        "description": "Framework says it's replacing some out-of-warranty AMD mainboards.",
-        "source_link": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/"
-      },
-      {
-        "rank": 6,
-        "image": "https://kotaku.com/app/uploads/2026/08/witcher-3-1196x675.jpg",
-        "title": "Witcher 3 Cut A Feature Because NPCs Kept Dropping Babies - Kotaku",
-        "description": "A commitment to realism had some unintended consequences",
-        "source_link": "https://kotaku.com/witcher-3-dev-explains-how-ultra-realistic-npcs-created-weird-problems-women-were-just-dropping-their-babies-left-and-right-2000725923"
-      },
-      {
-        "rank": 7,
+        "rank": 8,
         "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "iPhone 18 Pro: Three new design updates are coming - 9to5Mac",
         "description": "iPhone 18 Pro and Pro Max will reportedly bring three new design changes for users. Here\u2019s what rumors say to expect.",
         "source_link": "https://9to5mac.com/2026/08/19/iphone-18-pro-three-new-design-updates-are-coming-this-year/"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.videocardz.com/1/2026/08/LG-DISPLAY-FLIPP-OLED-TECH-HERO.webp",
-        "title": "LG Display unveils FLiPP OLED technology with up to 1.6x higher brightness and 2.4x longer lifespan - VideoCardz.com",
-        "description": "LG Display says FLiPP improves OLED aperture ratio by 55%. The process supports panels from 1 to 100 inches and can improve substrate utilization by up to 64%.",
-        "source_link": "https://videocardz.com/newz/lg-display-unveils-flipp-oled-technology-with-up-to-1-6x-higher-brightness-and-2-4x-longer-lifespan"
       },
       {
         "rank": 9,
@@ -67,10 +67,10 @@
       },
       {
         "rank": 10,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
-        "title": "Google packs Search and Gemini with new AI study tools - TechCrunch",
-        "description": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying,\u00a0as it continues to compete with companies like OpenAI.",
-        "source_link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/"
+        "image": "https://cdn.mos.cms.futurecdn.net/9HP44wo5oRsWcEi2XdYpdj-1680-80.jpg",
+        "title": "I went through the latest Windows 11 Insider builds for August and found 8 changes that actually improve the OS - Windows Central",
+        "description": "The latest Insider builds bring a customizable context menu, personalization changes, a better File Explorer, and some features say goodbye.",
+        "source_link": "https://www.windowscentral.com/microsoft/windows-11/8-new-windows-11-insider-features-and-changes-for-august-2026"
       }
     ],
     "trending_movies": [
