@@ -1,76 +1,76 @@
 {
-  "last_updated": "August 21, 2026, 06:37 UTC",
+  "last_updated": "August 21, 2026, 07:37 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/02/Galaxy-S26-family-1-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Samsung confirms August 27 event for the \u2018newest addition to the Galaxy S26 family\u2019 - 9to5Google",
+        "description": "Samsung is teasing a new entrant to the Galaxy S26 series coming at an event on August 27, but it\u2019s...",
+        "source_link": "http://9to5google.com/2026/08/19/samsung-august-event-galaxy-s26-family/"
+      },
+      {
+        "rank": 2,
         "image": "https://images.rpgsite.net/articles/thumbnail/da49c9a1/21138/original/trails-in-the-sky-2nd-chapter-english-demo-download.png",
         "title": "Trails in the Sky 2nd Chapter demo now available, Season Pass and Digital Deluxe Edition announced - RPG Site",
         "description": "GungHo has launched a free Trails in the Sky 2nd Chapter demo on PS5, Steam, and Switch 1 with save data carrying over into the full game.",
         "source_link": "https://www.rpgsite.net/news/21138-trails-in-the-sky-2nd-chapter-demo-download-save-transfer-ps5-switch-2-pc-steam"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imyPS6.O_neQ/v0/1200x800.jpg",
         "title": "Apple\u2019s Camera-Equipped AI AirPods Remain on Track for 2027 Despite Video Leak - Bloomberg.com",
         "description": "An Apple Inc. effort to sell camera-equipped AirPods remains on track for 2027, despite a leak from the company indicating that the product might arrive sooner.",
         "source_link": "https://www.bloomberg.com/news/articles/2026-08-19/apple-s-camera-equipped-ai-airpods-remain-on-track-for-2027-despite-video-leak"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://www.androidauthority.com/wp-content/uploads/2020/11/garmin-index-s2-smart-scale-review-weight.jpg",
         "title": "Google built a camera-based tool to estimate body fat more accurately than wearables - Android Authority",
         "description": "Google explains how its new photo-based tool can do a body composition analysis more accurately than your smartwatch.",
         "source_link": "https://www.androidauthority.com/google-research-photoscan-body-composition-3700687/"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/IMG_1032-1152x648.jpeg",
         "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops - Ars Technica",
         "description": "Framework says it's replacing some out-of-warranty AMD mainboards.",
         "source_link": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/"
       },
       {
-        "rank": 5,
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/MW4-Beta-Insults.jpg",
-        "title": "Want A Modern Warfare 4 Beta Code? Just Talk Trash - GameSpot",
-        "description": "Talk s***, get hit (with a free code)?",
-        "source_link": "https://www.gamespot.com/articles/want-a-modern-warfare-4-beta-code-just-talk-trash/"
+        "rank": 6,
+        "image": "https://kotaku.com/app/uploads/2026/08/witcher-3-1196x675.jpg",
+        "title": "Witcher 3 Cut A Feature Because NPCs Kept Dropping Babies - Kotaku",
+        "description": "A commitment to realism had some unintended consequences",
+        "source_link": "https://kotaku.com/witcher-3-dev-explains-how-ultra-realistic-npcs-created-weird-problems-women-were-just-dropping-their-babies-left-and-right-2000725923"
       },
       {
-        "rank": 6,
+        "rank": 7,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/02/iphone-18-pro-mockup.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "iPhone 18 Pro: Three new design updates are coming - 9to5Mac",
+        "description": "iPhone 18 Pro and Pro Max will reportedly bring three new design changes for users. Here\u2019s what rumors say to expect.",
+        "source_link": "https://9to5mac.com/2026/08/19/iphone-18-pro-three-new-design-updates-are-coming-this-year/"
+      },
+      {
+        "rank": 8,
         "image": "https://cdn.videocardz.com/1/2026/08/LG-DISPLAY-FLIPP-OLED-TECH-HERO.webp",
         "title": "LG Display unveils FLiPP OLED technology with up to 1.6x higher brightness and 2.4x longer lifespan - VideoCardz.com",
         "description": "LG Display says FLiPP improves OLED aperture ratio by 55%. The process supports panels from 1 to 100 inches and can improve substrate utilization by up to 64%.",
         "source_link": "https://videocardz.com/newz/lg-display-unveils-flipp-oled-technology-with-up-to-1-6x-higher-brightness-and-2-4x-longer-lifespan"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi50HcHSWt796lc8zQ8Anp_fHUqgV-BM0xiS1NxJW8zRDgBRJ9ovZOECiIhdQt0aVTUdhduJYP1o5wTa5RpDoCwhihq8rKqWmh73E9E8UzafyDcq1n1khCEIDCikK2L6NEt1mbIuMRm6F36bap74JtZawFqqCPvWF72SAm25BzREVerWYaRIDEo1O89V4k/s1600/jwt.jpg",
         "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second - The Hacker News",
         "description": "Researchers leak a JWT from a co-located Cloudflare Worker via Spectre at up to 12 bits per second; Cloudflare says the attack is mitigated.",
         "source_link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html"
       },
       {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Gemini-Live-Deep-Research.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Gemini Live adds Deep Research as Notebooks come to AI Mode - 9to5Google",
-        "description": "With the back-to-school season underway, Google is introducing new study tools across the Gemini app and Search.",
-        "source_link": "http://9to5google.com/2026/08/19/gemini-app-ai-mode-study-tools/"
-      },
-      {
-        "rank": 9,
-        "image": "https://assets-prd.ignimgs.com/2026/08/19/xbox-thumb-1787161267277.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Mattel Brick Shop Announces 1:1-Scale, 3,509-Piece Original Xbox, Complete With Scenes from 3 Games - IGN",
-        "description": "In celebration of the Xbox's 25th anniversary, Mattel has announced a 3,509-piece, 1:1-scale buildable original Xbox through its premium Mattel Brick Shop brand. And yes, it also includes a buildable 1:1-scale Duke controller and features lights, sounds, and \u2026",
-        "source_link": "https://www.ign.com/articles/relive-the-original-xbox-by-building-your-own-11-scale-3509-piece-mattel-brick-shop-version"
-      },
-      {
         "rank": 10,
-        "image": "https://gonintendo.com/attachments/image/84686/file/medium-ee02dfdd7815a0fc3e0483211e671b30.png",
-        "title": "Following accusations, James Pond Legacy devs say no generative AI was used in creating artwork - gonintendo.com",
-        "description": "Out of their depth",
-        "source_link": "https://gonintendo.com/contents/63928-following-accusations-james-pond-legacy-devs-say-no-generative-ai-was-used-in"
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
+        "title": "Google packs Search and Gemini with new AI study tools - TechCrunch",
+        "description": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying,\u00a0as it continues to compete with companies like OpenAI.",
+        "source_link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/"
       }
     ],
     "trending_movies": [
@@ -83,10 +83,10 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
         "rank": 3,
@@ -104,10 +104,10 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
+        "image": "https://image.tmdb.org/t/p/w200/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
         "rank": 6,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/y3zqa6qmLz2C2bUImOgYs6JxDNT.jpg",
-        "title": "Here the Whole Time",
-        "description": "An insecure teenager's vacation plans are ruined by an unexpected visitor: his neighbor and school crush who will spend two weeks sleeping at his hous...",
-        "source_link": "https://www.themoviedb.org/movie/1418582"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/r0hCOPsYHFc7qok51canND9TVoN.jpg",
         "title": "Pinocchio: Unstrung",
         "description": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James...",
         "source_link": "https://www.themoviedb.org/movie/1232569"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/y3zqa6qmLz2C2bUImOgYs6JxDNT.jpg",
+        "title": "Here the Whole Time",
+        "description": "An insecure teenager's vacation plans are ruined by an unexpected visitor: his neighbor and school crush who will spend two weeks sleeping at his hous...",
+        "source_link": "https://www.themoviedb.org/movie/1418582"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
+        "image": "https://image.tmdb.org/t/p/w200/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+        "title": "Avengers: Doomsday",
+        "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
+        "source_link": "https://www.themoviedb.org/movie/1003596"
       }
     ]
   }
