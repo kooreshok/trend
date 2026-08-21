@@ -1,76 +1,69 @@
 {
-  "last_updated": "August 21, 2026, 01:01 UTC",
+  "last_updated": "August 21, 2026, 02:57 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://gizmodo.com/app/uploads/2026/08/natalie-harp-printing-1-1200x675.jpg",
+        "title": "We Think We Found \u2018Human Printer\u2019 Natalie Harp\u2019s Printer Setup. It\u2019s Bulky - Gizmodo",
+        "description": "A fairly bulky printer, and a totally unnecessary backup battery. Why?",
+        "source_link": "https://gizmodo.com/we-think-we-found-human-printer-natalie-harps-printer-setup-its-bulky-2000800705"
+      },
+      {
+        "rank": 2,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imyPS6.O_neQ/v0/1200x800.jpg",
+        "title": "Apple\u2019s Camera-Equipped AI AirPods Remain on Track for 2027 Despite Video Leak - Bloomberg.com",
+        "description": "An Apple Inc. effort to sell camera-equipped AirPods remains on track for 2027, despite a leak from the company indicating that the product might arrive sooner.",
+        "source_link": "https://www.bloomberg.com/news/articles/2026-08-19/apple-s-camera-equipped-ai-airpods-remain-on-track-for-2027-despite-video-leak"
+      },
+      {
+        "rank": 3,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/IMG_1032-1152x648.jpeg",
         "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops - Ars Technica",
         "description": "Framework says it's replacing some out-of-warranty AMD mainboards.",
         "source_link": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/MW4-Beta-Insults.jpg",
+        "title": "Want A Modern Warfare 4 Beta Code? Just Talk Trash - GameSpot",
+        "description": "Talk s***, get hit (with a free code)?",
+        "source_link": "https://www.gamespot.com/articles/want-a-modern-warfare-4-beta-code-just-talk-trash/"
+      },
+      {
+        "rank": 5,
         "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-Pro-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
         "title": "Pixel 11 introduces unified \u2018Pixel search,\u2019 hides it in the drawer - 9to5Google",
         "description": "Google is introducing \u201cPixel search\u201d as a \u201cdedicated search companion designed to help you find personal information faster than ever.\u201d",
         "source_link": "http://9to5google.com/2026/08/19/pixel-11-search/"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://cdn.videocardz.com/1/2026/08/LG-DISPLAY-FLIPP-OLED-TECH-HERO.webp",
+        "title": "LG Display unveils FLiPP OLED technology with up to 1.6x higher brightness and 2.4x longer lifespan - VideoCardz.com",
+        "description": "LG Display says FLiPP improves OLED aperture ratio by 55%. The process supports panels from 1 to 100 inches and can improve substrate utilization by up to 64%.",
+        "source_link": "https://videocardz.com/newz/lg-display-unveils-flipp-oled-technology-with-up-to-1-6x-higher-brightness-and-2-4x-longer-lifespan"
+      },
+      {
+        "rank": 7,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi50HcHSWt796lc8zQ8Anp_fHUqgV-BM0xiS1NxJW8zRDgBRJ9ovZOECiIhdQt0aVTUdhduJYP1o5wTa5RpDoCwhihq8rKqWmh73E9E8UzafyDcq1n1khCEIDCikK2L6NEt1mbIuMRm6F36bap74JtZawFqqCPvWF72SAm25BzREVerWYaRIDEo1O89V4k/s1600/jwt.jpg",
+        "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second - The Hacker News",
+        "description": "Researchers leak a JWT from a co-located Cloudflare Worker via Spectre at up to 12 bits per second; Cloudflare says the attack is mitigated.",
+        "source_link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html"
+      },
+      {
+        "rank": 8,
         "image": "https://kotaku.com/app/uploads/2026/08/GettyImages-477358798-1200x675.jpg",
         "title": "Dire Forecast Predicts Big Drop In Console Sales If PS6 Is $1,000 - Kotaku",
         "description": "Console gaming could continue to shrink if something doesn't change",
         "source_link": "https://kotaku.com/dire-forecast-predicts-39-million-fewer-consoles-sold-if-ps6-and-xbox-helix-are-1000-2000725914"
       },
       {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/valve-steam-frame-leak.png?quality=90&strip=all&crop=0%2C6.6657792764812%2C100%2C86.668441447038&w=1200",
-        "title": "Watch Valve set up the Steam Frame in its own leaked videos - The Verge",
-        "description": "Valve has leaked several videos that demonstrate how to set up the Steam Frame, its upcoming virtual-reality headset.",
-        "source_link": "https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos"
-      },
-      {
-        "rank": 5,
+        "rank": 9,
         "image": "https://assets-prd.ignimgs.com/2026/08/19/xbox-thumb-1787161267277.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Mattel Brick Shop Announces 1:1-Scale, 3,509-Piece Original Xbox, Complete With Scenes from 3 Games - IGN",
         "description": "In celebration of the Xbox's 25th anniversary, Mattel has announced a 3,509-piece, 1:1-scale buildable original Xbox through its premium Mattel Brick Shop brand. And yes, it also includes a buildable 1:1-scale Duke controller and features lights, sounds, and \u2026",
         "source_link": "https://www.ign.com/articles/relive-the-original-xbox-by-building-your-own-11-scale-3509-piece-mattel-brick-shop-version"
-      },
-      {
-        "rank": 6,
-        "image": "https://gonintendo.com/attachments/image/84686/file/medium-ee02dfdd7815a0fc3e0483211e671b30.png",
-        "title": "Following accusations, James Pond Legacy devs say no generative AI was used in creating artwork - gonintendo.com",
-        "description": "Out of their depth",
-        "source_link": "https://gonintendo.com/contents/63928-following-accusations-james-pond-legacy-devs-say-no-generative-ai-was-used-in"
-      },
-      {
-        "rank": 7,
-        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/08/Gears-Gibson-Hero-54a7f8e362d304c3aef3.jpg",
-        "title": "Gears of War: E-Day and Gibson Unite for a Custom Guitar Collection - XBOX Wire",
-        "description": "Gibson Guitars and The Coalition are teaming up with a one-of-a-kind collaboration - two custom guitars that capture the spirit of Gears of War.",
-        "source_link": "https://news.xbox.com/en-us/2026/08/19/gears-of-war-eday-gibson-guitars-collection-sweepstakes-xbox/"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-new-icons-5.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Pixel Weather update brings new icon & \u2018Weather Brief\u2019 rename - 9to5Google",
-        "description": "The Pixel app updates continue today with Weather getting a new icon and some minor interface tweaks. This update...",
-        "source_link": "http://9to5google.com/2026/08/19/pixel-weather-new-icon/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.techspot.com/images2/news/bigimage/2026/08/2026-08-19-image-10.jpg",
-        "title": "Best Buy removes 32GB RAM worth $600 to \"repair\" customer's 64GB gaming laptop - TechSpot",
-        "description": "Redditor GRINZ_DOCTOR claims to have bought a Lenovo Legion 5 gaming laptop from Best Buy's website last December. The laptop reportedly worked as advertised for a few...",
-        "source_link": "https://www.techspot.com/news/113533-best-buy-removes-32gb-ram-worth-600-repair.html"
-      },
-      {
-        "rank": 10,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/google-ai-pro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google rolling out new gradient AI ring for subscribers on Android, web - 9to5Google",
-        "description": "Google is introducing a blue gradient ring around your Account photo to indicate whether you're subscribed to a paid tier.",
-        "source_link": "http://9to5google.com/2026/08/19/google-account-gradient-ring/"
       }
     ],
     "trending_movies": [
@@ -132,17 +125,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "title": "The End of Oak Street",
-        "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
-        "source_link": "https://www.themoviedb.org/movie/1101383"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/r0hCOPsYHFc7qok51canND9TVoN.jpg",
         "title": "Pinocchio: Unstrung",
         "description": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James...",
         "source_link": "https://www.themoviedb.org/movie/1232569"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+        "title": "Avengers: Doomsday",
+        "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
+        "source_link": "https://www.themoviedb.org/movie/1003596"
       }
     ]
   }
