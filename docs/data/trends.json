@@ -1,76 +1,69 @@
 {
-  "last_updated": "August 22, 2026, 16:17 UTC",
+  "last_updated": "August 22, 2026, 17:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.pushsquare.com/e7b50797bc6cc/large.jpg",
+        "title": "The Blood of Dawnwalker Won't Have 60FPS Mode on PS5 or Even PS5 Pro - Push Square",
+        "description": "Console footage shared online",
+        "source_link": "https://www.pushsquare.com/news/2026/08/the-blood-of-dawnwalker-wont-have-60fps-mode-on-ps5-or-even-ps5-pro"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Pixel Watch 5\u2019s AI watch face generator keeps the same form factor feeling fresh [Gallery] - 9to5Google",
+        "description": "Google's new Pixel Watch 5 series comes with an AI watch face generator, and it's maybe one of my favorite new add-ons.",
+        "source_link": "http://9to5google.com/2026/08/21/google-pixel-watch-5-ai-face-generator-feature/"
+      },
+      {
+        "rank": 3,
         "image": "https://imageio.forbes.com/specials-images/imageserve/681a18c5bb026fcec0cda700/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
         "title": "The \u2018GTA 6\u2019 Leaker Is Leaking Again, Ending Rumors Of Being Caught - Forbes",
         "description": "After 24 hours of silence, implying they may have been caught, the GTA 6 leaker has returned and is posting new footage.",
         "source_link": "https://www.forbes.com/sites/paultassi/2026/08/21/the-gta-6-leaker-is-leaking-again-ending-rumors-of-being-caught/"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "image": "https://images.macrumors.com/t/iGzoHynYtaO1mi-XBIP2hybXa8Y=/3840x/article-new/2025/10/Apple-Vision-Pro-Dual-Knit-Band.jpg",
+        "title": "Apple Reportedly Lays Off 60 Vision Products Group Employees - MacRumors",
+        "description": "Apple \"has just laid off an entire team dedicated to VR development,\" reports AppleInsider, citing its own source. Apple is said to have laid...",
+        "source_link": "https://www.macrumors.com/2026/08/21/apple-lays-off-vision-products-employees/"
+      },
+      {
+        "rank": 5,
         "image": "https://assetsio.gnwcdn.com/The-Duskbloods-%E2%80%93-Nintendo-Direct-_-Nintendo-Switch-2-1-58-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Having Duskbloods connectivity issues? FromSoftware says sit closer to your router or use an ethernet cable - Eurogamer",
         "description": "FromSoftware has issued a statement regarding connectivity problems with The Duskbloods network test, closing the first day of testing over three hours early.",
         "source_link": "https://www.eurogamer.net/the-duskbloods-network-test-connection-problems-fromsoftware"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://assets-prd.ignimgs.com/2026/08/21/sonic-games-for-nothing-deal-woot-1787309579452.png?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Woot Is Practically Giving Away Sonic Games to New Customers Today - IGN",
         "description": "Amazon-owned retailer Woot is practically giving away top Sonic titles today\u2014including Sonic x Shadow Generations for just $1\u2014to new customers.",
         "source_link": "https://www.ign.com/articles/woot-sonic-games-one-dollar-deal"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/samsung-galaxy-phone-next-to-a-fire-tv-stick-and-remote.png?w=1600&h=900&fit=crop",
         "title": "Why I permanently retired my Fire Stick after connecting a spare Android phone to my TV - Android Police",
         "description": "My Fire Stick is now redundant",
         "source_link": "https://www.androidpolice.com/permanently-retired-fire-stick-after-connecting-spare-android-phone-to-tv/"
       },
       {
-        "rank": 5,
+        "rank": 8,
+        "image": "https://images.purexbox.com/fe085c291c56e/large.jpg",
+        "title": "Xbox Series X25 Price & Release Date Details Are Starting To Leak Out - Pure Xbox",
+        "description": "We've got the European price and a seemingly confirmed date",
+        "source_link": "https://www.purexbox.com/news/2026/08/xbox-series-x25-price-and-release-date-details-are-starting-to-leak-out"
+      },
+      {
+        "rank": 9,
         "image": "https://images.macrumors.com/t/PRt3hOQOcgYP-iOW475qMTax9ks=/2500x/article-new/2026/06/airpods-pro-3-orange.jpeg",
         "title": "Camera AirPods Code Reveals Image Capture Resolution, Status Light, Person Detection, and More - MacRumors",
         "description": "Apple is working on camera-equipped AirPods, as indicated by various reports and a demo video of them in action discovered earlier this week. The...",
         "source_link": "https://www.macrumors.com/2026/08/21/camera-airpods-code-reveals-hardware-details/"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/05/googlebook-render-google-colors-hero-scaled.jpg",
-        "title": "New ASUS Googlebook leak shows more configurations and pricing details - Android Authority",
-        "description": "The ASUS Googlebook CX9406 has been spotted on a retailer's website with 16GB of RAM, an Intel Core Ultra 5 chip, and a 14-inch touchscreen.",
-        "source_link": "https://www.androidauthority.com/asus-cx9406-googlebook-leak-16gb-ram-3701366/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.f4wonline.com/wp-content/uploads/2024/01/aewfightforever-1024x577.jpg",
-        "title": "AEW reportedly took $30 million loss on Fight Forever video game, more details - F4W/WON",
-        "description": "Tony Khan has been asked frequently about the future of the AEW Fight Forever video game and whether he will do another one. Based on a new report out",
-        "source_link": "https://www.f4wonline.com/news/aew/aew-losses-30-million-fight-forever/"
-      },
-      {
-        "rank": 8,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/google-pixel-watch-5-39.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Google posts Pixel Watch 5 factory images with one unified build - 9to5Google",
-        "description": "Following the Pixel 11 series earlier today, Google has released factory and OTA images for the Pixel Watch 5.",
-        "source_link": "http://9to5google.com/2026/08/20/pixel-watch-5-images/"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/genki_manta1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Genki\u2019s new customizable controller has a big screen and adjustable buttons - The Verge",
-        "description": "Genki\u2019s Manta controller features a color screen for customizing the controller\u2019s functionality plus adjustable buttons and thumbsticks.",
-        "source_link": "https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.macrumors.com/t/qRmOexb-1DJ4BzULNReC0L_jgjA=/1800x/article-new/2026/04/iPhone-18-Pro-Rumored-Colors.jpg",
-        "title": "Dark Cherry and More: Every iPhone 18 Pro and iPhone Ultra Color Rumor - MacRumors",
-        "description": "We're likely about a month away from when Apple will launch new iPhone models, and color has been a major topic of discussion. There's going...",
-        "source_link": "https://www.macrumors.com/guide/iphone-18-pro-ultra-colors/"
       }
     ],
     "trending_movies": [
