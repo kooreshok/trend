@@ -1,76 +1,76 @@
 {
-  "last_updated": "August 22, 2026, 22:16 UTC",
+  "last_updated": "August 22, 2026, 23:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://kotaku.com/app/uploads/2026/04/IMG_3915-1.jpg",
+        "title": "Pok\u00e9mon\u2019s Battle System May Not Be Turn-Based For Much Longer - Kotaku",
+        "description": "Game Freak wants Pok\u00e9mon Champions to preserve the old style",
+        "source_link": "https://kotaku.com/pokemon-champions-turn-based-real-time-battles-winds-waves-2000726753"
+      },
+      {
+        "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2026/08/Screenshot-2026-08-21-at-3.29.07\u202fPM.jpg",
+        "title": "People With Eyes Accuse System 3 Devs Of Using Gen AI On Its James Pond Reboot - Kotaku",
+        "description": "System 3 denied the accusation in a blog post, but c'mon man look at that cow",
+        "source_link": "https://kotaku.com/james-pond-gen-ai-slop-accusations-system-3-2000726706"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258038_M5_Vision_Pro_AKrales_0256.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Apple is laying off staffers working on the Vision Pro and Siri - The Verge",
+        "description": "Apple is laying off staff working on Siri and the Vision Pro, including cutting a Vision Pro gaming team, Bloomberg reports.",
+        "source_link": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri"
+      },
+      {
+        "rank": 4,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898",
+        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero - TechCrunch",
+        "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+        "source_link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+      },
+      {
+        "rank": 5,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Motorola-X-GrapheneOS-1152x648.jpg",
+        "title": "Motorola\u2019s GrapheneOS phones will launch in 2027 priced higher than Pixels - Ars Technica",
+        "description": "The private Android-based OS will expand beyond Pixels next year.",
+        "source_link": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/"
+      },
+      {
+        "rank": 6,
         "image": "https://images.pushsquare.com/69da0c8d58f2e/large.jpg",
         "title": "Call of Duty: Modern Warfare 4 Beta: Start Times, How to Get Early Access, and What's Included - Push Square",
         "description": "All you need to know about the Modern Warfare 4 beta",
         "source_link": "https://www.pushsquare.com/guides/call-of-duty-modern-warfare-4-beta-start-times-how-to-get-early-access-and-whats-included"
       },
       {
-        "rank": 2,
+        "rank": 7,
         "image": "https://kotaku.com/app/uploads/2021/06/cdblz0xjfk311hb0yhoa-1200x675.jpg",
         "title": "Psychonauts Dev Now Owns All Its Games And Publishing Rights - Kotaku",
         "description": "'Everything, we got back, the transfer of the IP came back to us'",
         "source_link": "https://kotaku.com/psychonauts-dev-now-owns-all-its-games-publishing-rights-2000726713"
       },
       {
-        "rank": 3,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAyRi8Hvct.U/v1/1200x800.jpg",
-        "title": "Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams - Bloomberg.com",
-        "description": "Apple Inc. is cutting jobs across teams responsible for the Siri digital assistant and the Vision Pro headset, part of an effort to focus on new devices and artificial intelligence.",
-        "source_link": "https://www.bloomberg.com/news/articles/2026-08-21/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams"
-      },
-      {
-        "rank": 4,
+        "rank": 8,
         "image": "https://www.techpowerup.com/review/amd-ryzen-7-5800x3d-10th-anniversary/images/title.jpg",
         "title": "AMD Ryzen 7 5800X3D 10th Anniversary Review - TechPowerUp",
         "description": "The AMD Ryzen 7 5800X3D 10th Anniversary Edition brings back the legendary CPU known for its revolutionary 3D V-Cache tech. At $340, it's a compelling option, especially if you already have an existing AM4 setup. As bonus, AMD includes a Carbice thermal pad f\u2026",
         "source_link": "https://www.techpowerup.com/review/amd-ryzen-7-5800x3d-10th-anniversary/"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/assets/2464767/best-buy-logo-stock1_2040.jpg?quality=90&strip=all&crop=0%2C10.79064510921%2C100%2C78.418709781581&w=1200",
         "title": "$100 Best Buy gift cards will be $60 at stores Saturday - The Verge",
         "description": "Best Buy is celebrating its 60th anniversary by offering $100 gift cards for $60 in stores on August 22nd, 2026.",
         "source_link": "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://nintendoeverything.com/wp-content/uploads/Metal-Gear-Solid-Master-Collection-MGS4-updated-joke.jpg",
         "title": "Metal Gear Solid: Master Collection Vol. 2 updates MGS4 joke, even brings back original voice actor - Nintendo Everything",
         "description": "Following hands-on verdicts of Metal Gear Solid: Master Collection Vol. 2, an interesting tidbit has come to light about a joke that\u2019s been updated in Metal Gear Solid 4. In the original release, after reaching Shadow Moses Island, the game referenced changin\u2026",
         "source_link": "https://nintendoeverything.com/metal-gear-solid-master-collection-vol-2-updates-mgs4-joke-even-brings-back-original-voice-actor/"
-      },
-      {
-        "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jason_Duval_02.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "Microsoft and Discord subpoenaed over GTA VI gameplay leaks - The Verge",
-        "description": "Take-Two Interactive has subpoenaed Microsoft and Discord to identify \u201calleged infringers\u201d following\u00a0seemingly leaked gameplay footage of Grand Theft Auto VI.",
-        "source_link": "https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed"
-      },
-      {
-        "rank": 8,
-        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/30/7e27c809-55a4-48b5-aaf7-3b53e1ca8f56/thumbnail/1200x630g2/abb48e20305ffc7414411d903bcd3a56/gettyimages-2271711331.jpg",
-        "title": "Trump to honor Artemis II crew with nation's top space medal - CBS News",
-        "description": "President Trump plans to award the Congressional Space Medal of Honor to the crew\u200b of NASA's Artemis II mission\u200b in a ceremony Aug. 28.",
-        "source_link": "https://www.cbsnews.com/news/trump-artemis-ii-crew-space-medal/"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.nintendolife.com/260057cfa538c/large.jpg",
-        "title": "Fortnite Admin Panel Lobby Hack Codes List - Nintendo Life",
-        "description": "All Lobby Hacks released so far, and where to input them",
-        "source_link": "https://www.nintendolife.com/guides/fortnite-lobby-hack-codes-admin-panel"
-      },
-      {
-        "rank": 10,
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-base-model-with-Camera-Looks-UI-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "title": "Pixel Camera adds 'Launch control' and new 'Quick access' slider controls on Pixel 11 [Gallery] - 9to5Google",
-        "description": "The Google Pixel camera app is adding new \u201cQuick access\u201d controls on the Pixel 11 series, but it\u2019s a little...",
-        "source_link": "http://9to5google.com/2026/08/21/google-pixel-camera-11-update-launch-mode-quick-access/"
       }
     ],
     "trending_movies": [
@@ -83,7 +83,7 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
         "title": "Mutiny",
         "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' d...",
         "source_link": "https://www.themoviedb.org/movie/1288445"
