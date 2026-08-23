@@ -1,5 +1,5 @@
 {
-  "last_updated": "August 23, 2026, 22:15 UTC",
+  "last_updated": "August 23, 2026, 23:15 UTC",
   "categories": {
     "tech_news": [
       {
@@ -62,17 +62,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/tV712n7bMaRuaKyltFl65HPNRiP.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
         "title": "Mutiny",
         "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' d...",
         "source_link": "https://www.themoviedb.org/movie/1288445"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/tV712n7bMaRuaKyltFl65HPNRiP.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
         "rank": 3,
