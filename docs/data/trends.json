@@ -1,62 +1,69 @@
 {
-  "last_updated": "August 24, 2026, 08:41 UTC",
+  "last_updated": "August 24, 2026, 09:40 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/ef921658e80e6/large.jpg",
+        "title": "Video: Metal Gear Solid 4 Side-By-Side Graphics Comparison (Switch 2, PS5, PS3) - Nintendo Life",
+        "description": "Master Collection Vol. 2 launches next week",
+        "source_link": "https://www.nintendolife.com/news/2026/08/video-metal-gear-solid-4-side-by-side-graphics-comparison-switch-2-ps5-ps3"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.bgr.com/img/gallery/5-anker-finds-for-the-ultimate-steam-deck-starter-pack/l-intro-1787046521.jpg",
+        "title": "5 Anker Finds For The Ultimate Steam Deck Starter Pack - bgr.com",
+        "description": "Steam Deck is a powerful handheld on its own, but pairing it with Anker accessories like HDMI cables, chargers, and more can unlock its full potential.",
+        "source_link": "https://www.bgr.com/2238918/anker-finds-ultimate-steam-deck-starter-pack/"
+      },
+      {
+        "rank": 3,
         "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-poll-results-google-pixel-11-series/-952x498w6/gsmarena_000.jpg",
         "title": "Weekly poll results: a clear favorite emerges from the Google Pixel 11 family - GSMArena.com news - GSMArena.com",
         "description": "And it certainly isn't the Pixel 11 Pro Fold - the pricey foldable is getting overlooked in favor of other foldables or other Pixel 11 models.",
         "source_link": "https://www.gsmarena.com/weekly_poll_results_a_clear_favorite_emerges_from_the_google_pixel_11_family-news-74267.php"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://cdn.wccftech.com/wp-content/uploads/2026/08/Ryzen-5800X3D.jpg",
         "title": "AMD\u2019s AM4 CPUs Like The Re-Launched Ryzen 7 5800X3D Deliver Negligible Gaming Improvements In Newer Motherboards, Making Older Hardware Relevant During DRAM Crisis - Wccftech",
         "description": "AMD Ryzen 7 5800X3D shows negligible gaming gains on newer motherboards, proving older AM4 hardware remains fully relevant amid the current DRAM crisis",
         "source_link": "https://wccftech.com/amd-ryzen-7-5800x3d-am4-motherboard-performance-dram-crisis/"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://images.pushsquare.com/69d52814c6f59/large.jpg",
         "title": "Furious PS5 Players Unplug Their Consoles in Protest as Blackout Gets Underway - Push Square",
         "description": "Hello darkness my old friend",
         "source_link": "https://www.pushsquare.com/news/2026/08/furious-ps5-players-unplug-their-consoles-in-protest-as-blackout-gets-underway"
       },
       {
-        "rank": 4,
-        "image": "https://kotaku.com/app/uploads/2023/10/1f31239f96911bb226d0cc1d98a1c203-1200x675.jpg",
-        "title": "Former Arkane Devs Promise They Won\u2019t Commit Another Redfall - Kotaku",
-        "description": "The founders of Black Pony Immersive say they aren\u2019t going to be tempted by live service trends, averting previous mistakes made with their most infamous immersive sim",
-        "source_link": "https://kotaku.com/new-studio-from-arkane-austin-devs-promises-they-wont-commit-another-redfall-2000727068"
+        "rank": 6,
+        "image": "https://www.bgr.com/img/gallery/your-mac-has-a-hidden-diagnostic-menu-heres-how-to-enable-it/l-intro-1786996888.jpg",
+        "title": "Your Mac Has A Hidden Diagnostic Menu - Here's How To Enable It - bgr.com",
+        "description": "If you're having trouble with your Mac or you want to inspect one you're about to buy used, the best tool you have available is this hidden diagnostic menu.",
+        "source_link": "https://www.bgr.com/2238613/how-to-enable-mac-diagnostic-menu/"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://assetsio.gnwcdn.com/Valkyrie-Iteration-Mecha-Pilot-Raising-Pocket-Simulator.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Raise up a mech pilot and make sure she doesn't get Evangelion-level depressed in the sci-fi visual novel Valkyrie Iteration: Mecha Pilot Raising Pocket Simulator - Rock Paper Shotgun",
+        "description": "Easier said than done, I suppose.",
+        "source_link": "https://www.rockpapershotgun.com/raise-up-a-mech-pilot-and-make-sure-she-doesnt-get-evangelion-level-depressed-in-the-sci-fi-visual-novel-valkyrie-iteration-mecha-pilot-raising-pocket-simulator"
+      },
+      {
+        "rank": 8,
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-17-pro-cosmic-orange-cameras-angle.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "title": "Google\u2019s new Pixel 11 offers an incredible camera feature that Apple should copy - 9to5Mac",
+        "description": "Earlier this month, Google unveiled its new Pixel 11 lineup. The phones themselves were rather similar compared to the previous...",
+        "source_link": "https://9to5mac.com/2026/08/22/pixel-11-new-camera-feature-apple-should-copy/"
+      },
+      {
+        "rank": 9,
         "image": "https://nintendoeverything.com/wp-content/uploads/Onimusha-Sw-2-interview.jpg",
         "title": "Capcom talks Onimusha: Way of the Sword for Nintendo Switch 2, says you may not feel a difference compared to PS5 - Nintendo Everything",
         "description": "Nintendo Switch 2 players don\u2019t have anything to fear when it comes to the upcoming Onimusha: Way of the Sword, as Capcom has indicated that it\u2019ll be pretty much like the PS5 version. Based on some of the publisher\u2019s other recent games like Resident Evil Requ\u2026",
         "source_link": "https://nintendoeverything.com/capcom-talks-onimusha-way-of-the-sword-for-nintendo-switch-2-says-its-just-like-the-ps5-version/"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.mos.cms.futurecdn.net/aKcBqmNzkUMt723zeT5wNe-1920-80.png",
-        "title": "Spotted: New Shimano Dura-Ace R9300 groupset breaks cover at La Vuelta a Espa\u00f1a - Cyclingnews",
-        "description": "It's 13-speed, and it has a new shifter button, but it hasn't switched to fully wireless",
-        "source_link": "https://www.cyclingnews.com/cycling-tech-components/groupsets/new-dura-ace-spotted/"
-      },
-      {
-        "rank": 7,
-        "image": "https://gizmodo.com/app/uploads/2026/08/pigeon-foot-1200x675.jpg",
-        "title": "There Are Carrier Pigeon Apps Now Because Pigeon Technology Is Actually Superior - Gizmodo",
-        "description": "The original wireless carriers.",
-        "source_link": "https://gizmodo.com/there-are-carrier-pigeon-apps-now-because-pigeon-technology-is-actually-superior-2000801934"
-      },
-      {
-        "rank": 8,
-        "image": "https://m-cdn.phonearena.com/images/article/182770-wide-two_1200/Im-now-sure-the-Galaxy-Z-Fold-8-has-already-wiped-the-floor-with-the-foldable-iPhone.jpg",
-        "title": "I\u2019m now sure the Galaxy Z Fold 8 has already wiped the floor with the foldable iPhone - PhoneArena",
-        "description": "Foldable fans are losing trust in Apple\u2019s ability to launch an interesting device.",
-        "source_link": "https://www.phonearena.com/news/im-now-sure-the-galaxy-z-fold-8-has-already-wiped-the-floor-with-the-foldable-iphone_id182770"
       }
     ],
     "trending_movies": [
@@ -90,17 +97,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
         "rank": 7,
@@ -118,17 +125,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-        "title": "Minions & Monsters",
-        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
-        "source_link": "https://www.themoviedb.org/movie/1315772"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
         "title": "Evil Dead Burn",
         "description": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-...",
         "source_link": "https://www.themoviedb.org/movie/1212763"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+        "title": "Minions & Monsters",
+        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
+        "source_link": "https://www.themoviedb.org/movie/1315772"
       }
     ]
   }
