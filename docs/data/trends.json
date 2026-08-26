@@ -1,5 +1,5 @@
 {
-  "last_updated": "August 26, 2026, 05:29 UTC",
+  "last_updated": "August 26, 2026, 06:39 UTC",
   "categories": {
     "tech_news": [
       {
@@ -90,17 +90,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
         "title": "Mutiny",
         "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' d...",
         "source_link": "https://www.themoviedb.org/movie/1288445"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
         "rank": 5,
@@ -125,10 +125,10 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg",
-        "title": "Hadestown: The Musical",
-        "description": "The tragic love of Orpheus and Eurydice is intertwined with the complex relationship of Hades and Persephone. Eurydice, struggling with poverty, is lu...",
-        "source_link": "https://www.themoviedb.org/movie/1439808"
+        "image": "https://image.tmdb.org/t/p/w200/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+        "title": "Evil Dead Burn",
+        "description": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-...",
+        "source_link": "https://www.themoviedb.org/movie/1212763"
       },
       {
         "rank": 9,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-        "title": "Evil Dead Burn",
-        "description": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-...",
-        "source_link": "https://www.themoviedb.org/movie/1212763"
+        "image": "https://image.tmdb.org/t/p/w200/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg",
+        "title": "Hadestown: The Musical",
+        "description": "The tragic love of Orpheus and Eurydice is intertwined with the complex relationship of Hades and Persephone. Eurydice, struggling with poverty, is lu...",
+        "source_link": "https://www.themoviedb.org/movie/1439808"
       }
     ]
   }
