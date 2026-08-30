@@ -1,69 +1,62 @@
 {
-  "last_updated": "August 30, 2026, 12:32 UTC",
+  "last_updated": "August 30, 2026, 17:09 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://media.eventhubs.com/images/2026/08/28-fatal-fury-free-salet.webp",
-        "title": "Fatal Fury: City of the Wolves is free to play for the weekend though only on one platform, Standard Edition on sale for just $10 - EventHubs",
-        "description": "Duck King just launched as the second DLC character of Fatal Fury: City of the Wolves Season 3, and there's a few special offers going around for the game right now.Players who've never hopped on to the ...",
-        "source_link": "https://www.eventhubs.com/news/2026/aug/28/fatal-fury-free-sale/"
+        "image": "https://gizmodo.com/app/uploads/2026/08/iron-man-hed-1200x675.jpg",
+        "title": "The \u2018Iron Man\u2019 Game Lives, And Its First Look Leaked - Gizmodo",
+        "description": "If you've spent years holding out hope for Motive's 'Iron Man' game, you can apparently stay in line a little while longer.",
+        "source_link": "https://gizmodo.com/the-iron-man-game-lives-and-its-first-look-leaked-2000804575"
       },
       {
         "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Xbox CEO calls Project Helix a \u2018family of devices\u2019 - The Verge",
-        "description": "Xbox CEO Asha Sharma tells BBC News that Project Helix will be a \u201cfamily of devices.\u201d",
-        "source_link": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/samsung-galaxy-z-flip-8-review-13.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "The Galaxy Z Flip 8 is at its best when there\u2019s friction - The Verge",
+        "description": "The Samsung Galaxy Z Flip 8\u2019s cover screen feels more like a phone than ever, but the limitations are still what makes it.",
+        "source_link": "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review"
       },
       {
         "rank": 3,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-6.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Android 17 QPR2 Beta 4 rolling out with many Pixel bug fixes - 9to5Google",
-        "description": "Following the big release two weeks ago, Google is rolling out Android 17 QPR2 Beta 4 for Pixel devices...",
-        "source_link": "http://9to5google.com/2026/08/28/android-17-qpr2-beta-4-pixel/"
+        "image": "https://assetsio.gnwcdn.com/total-war-40k.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Total War: Warhammer 40,000 is aiming to be the \"definitive\" game for the setting, and I think it might be exactly that - Eurogamer.net",
+        "description": "Total War: Warhammer 40,000 was playable at Gamescom this year, a game that Creative Assembly hopes to be the definitive 40k game. I think they may have done it",
+        "source_link": "https://www.eurogamer.net/total-war-warhammer-40000-impressions-gamescom"
       },
       {
         "rank": 4,
-        "image": "https://kotaku.com/app/uploads/2026/08/GTa-6-stealing-1200x675.jpg",
-        "title": "For The First Time In 25+ Years, GTA 6 Will Make Stealing Cars Hard - Kotaku",
-        "description": "Committing grand theft auto in Grand Theft Auto 6 will be much more challenging and rewarding",
-        "source_link": "https://kotaku.com/for-the-first-time-in-25-years-gta-6-will-make-stealing-cars-hard-2000729419"
+        "image": "https://imageio.forbes.com/specials-images/imageserve/665fd748f52ec6750cddbbf1/0x0.jpg?format=jpg&crop=1066,658,x1778,y566,safe&height=900&width=1600&fit=bounds",
+        "title": "\u2018Force Restart\u2019\u2014Microsoft Changes Windows Update Next Month - Forbes",
+        "description": "Your Windows PC will force restart in September \u2014 here's why.",
+        "source_link": "https://www.forbes.com/sites/zakdoffman/2026/08/29/force-restart-microsoft-changes-windows-update-next-month/"
       },
       {
         "rank": 5,
-        "image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/08/photo-1566755272146-d8ebc6bdcdc7.jpeg",
-        "title": "Game Developers Devastated By Gamescom Laptop Theft Spree - Aftermath",
-        "description": "Multiple developers had laptops stolen Thursday night",
-        "source_link": "https://aftermath.site/gamescom-laptop-theft-spree-iam8bit-mimic/"
+        "image": "https://helios-i.mashable.com/imagery/articles/06gC5gJTWClWo7sagOMS435/hero-image.fill.size_1200x675.v1787927398.jpg",
+        "title": "'GTA 6' Cyberleek update: Meme coin crashes as leaker cashes out - Mashable",
+        "description": "This is how it was always going to go.",
+        "source_link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-cyberleek-memecoin-crash"
       },
       {
         "rank": 6,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s26-series-one-ui-9-beta-7-update/-952x498w6/gsmarena_001.jpg",
-        "title": "Samsung Galaxy S26 series receives seventh One UI 9 beta with Galaxy Z Fold8 series' features - GSMArena.com news - GSMArena.com",
-        "description": "This was a surprise, as the sixth beta was released just a few days ago. Samsung released the sixth One UI 9 beta for the Galaxy S26 series earlier this...",
-        "source_link": "https://www.gsmarena.com/samsung_galaxy_s26_series_one_ui_9_beta_7_update-news-74387.php"
+        "image": "https://traxion.gg/wp-content/uploads/2026/08/2-21.jpg",
+        "title": "All iRacing content will be available in career mode at \u2018zero extra cost\u2019 - Traxion.GG",
+        "description": "All content will be available in iRacing's career mode at \u2018zero extra cost\u2019, according to Senior Vice President and Executive Producer, Greg Hill.",
+        "source_link": "https://traxion.gg/all-iracing-content-will-be-available-in-career-mode-at-zero-extra-cost/"
       },
       {
         "rank": 7,
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/08/star-wars-zero-company-tactics.jpg",
-        "title": "Turn-Based-Tactics Fans Are Suddenly Eating Very Well - GameSpot",
-        "description": "Enjoying Star Wars Zero Company? There are some other impressive-looking turn-based games coming soon.",
-        "source_link": "https://www.gamespot.com/articles/turn-based-tactics-fans-are-suddenly-eating-very-well/"
+        "image": "https://assets-prd.ignimgs.com/2026/08/28/mimic-gamescom-stolen-1787956253274.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Indie Dev Posts Video Reporting Stolen Laptops at gamescom as CD Projekt Red and More Step in to Help - IGN",
+        "description": "Ryan Laley, the solo indie developer behind upcoming asymmetrical horror game Mimic, has shared a video confirming his gamescom was \"cut short\" after he and other developers had their laptops stolen.",
+        "source_link": "https://www.ign.com/articles/indie-dev-posts-video-reporting-stolen-laptops-at-gamescom-as-cd-projekt-red-and-more-step-in-to-help"
       },
       {
         "rank": 8,
-        "image": "https://www.techpowerup.com/img/cFxxKlXUNA2hUdg1.jpg",
-        "title": "DLSS 5 Patched to Work on RTX 4000 \"Ada Lovelace\" GPUs Despite No Official Support - TechPowerUp",
-        "description": "The modding community has been hard at work ever since the untimely release of DLSS-NR, a precursor to DLSS 5. Now, modders have gotten NVIDIA's leaked DLSS 5 tool working on RTX 4000 series cards, even though the tool was only built for RTX 5000 Blackwell ha\u2026",
-        "source_link": "https://www.techpowerup.com/352086/dlss-5-patched-to-work-on-rtx-4000-ada-lovelace-gpus-despite-no-official-support"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.droid-life.com/wp-content/uploads/2026/08/Pixel-11-Pro-Pixel-11-Pro-XL-Size-Comparison-1-1200x628.jpg",
-        "title": "Here\u2019s Your New Trade-in Values Towards the Pixel 11 Series - Droid Life",
-        "description": "If you didn't buy a Pixel 11 series phone before today, you missed out on the higher trade-in values that Google was offering through the Google Store. We're now a full week out from launch day and Google told us that yesterday was the final day to get those \u2026",
-        "source_link": "https://www.droid-life.com/2026/08/28/new-trade-in-values-towards-pixel-11-series/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Google further buries search results under AI mode - The Verge",
+        "description": "Google Search now automatically expands AI Overviews at the top of the results page for some searches, as reported by Search Engine Roundtable.",
+        "source_link": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand"
       }
     ],
     "trending_movies": [
@@ -76,66 +69,66 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
-      },
-      {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/iYhvs0hLGtZZt6qDrUnuM0E1zGM.jpg",
-        "title": "Mutiny",
-        "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' d...",
-        "source_link": "https://www.themoviedb.org/movie/1288445"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
-        "title": "The Last Sunrise",
-        "description": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins ...",
-        "source_link": "https://www.themoviedb.org/movie/1516698"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
-        "rank": 7,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+        "title": "Coyote vs. Acme",
+        "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
+        "source_link": "https://www.themoviedb.org/movie/1204680"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/5O616X9vmRzQdB68PHzBewPittd.jpg",
-        "title": "The Dog Stars",
-        "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gu...",
-        "source_link": "https://www.themoviedb.org/movie/1384216"
-      },
-      {
-        "rank": 10,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
         "title": "The Secret Woman",
         "description": "After discovering she has a family and a shipping empire, a woman with amnesia returns to a wealthy and seemingly perfect past to uncover why she left...",
         "source_link": "https://www.themoviedb.org/movie/1631807"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/iYhvs0hLGtZZt6qDrUnuM0E1zGM.jpg",
+        "title": "Mutiny",
+        "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' d...",
+        "source_link": "https://www.themoviedb.org/movie/1288445"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+        "title": "The Last Sunrise",
+        "description": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins ...",
+        "source_link": "https://www.themoviedb.org/movie/1516698"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg",
+        "title": "Motor City",
+        "description": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots r...",
+        "source_link": "https://www.themoviedb.org/movie/87513"
       }
     ]
   }
