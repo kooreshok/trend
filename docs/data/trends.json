@@ -1,76 +1,76 @@
 {
-  "last_updated": "September 01, 2026, 20:27 UTC",
+  "last_updated": "September 01, 2026, 22:57 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4CNZK2D4AWS7URZNGL4WDLYVIY.jpg&w=1440",
+        "title": "Chatbots got safer but will still role-play self-harm with users - The Washington Post",
+        "description": "A study that staged more than 50,000 conversations with AI chatbots found that they will help users role-play or write stories about their suicide or death.",
+        "source_link": "https://www.washingtonpost.com/technology/2026/08/31/chatbots-will-role-play-self-harm-scenarios-with-users-study-finds/"
+      },
+      {
+        "rank": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/06/Google-TV-Streamer-2.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Google TV Streamer gets $50 price increase - 9to5Google",
+        "description": "Google has quietly raised the price of the Google TV Streamer to $149.99.",
+        "source_link": "http://9to5google.com/2026/08/31/google-tv-streamer-increase/"
+      },
+      {
+        "rank": 3,
+        "image": "https://helios-i.mashable.com/imagery/articles/03Nqnn5qPnDFZMOvlZoCbj9/hero-image.fill.size_1200x675.v1788200663.png",
+        "title": "Microsoft Outlook outage reported by thousands of users on Monday - Mashable",
+        "description": "Is Microsoft Outlook down? Here's what we know about the outage.",
+        "source_link": "https://mashable.com/tech/microsoft-outlook-outage-aug-31"
+      },
+      {
+        "rank": 4,
+        "image": "https://pokemongohub.net/wp-content/uploads/2026/08/mega-squads-pokemon-go.jpg",
+        "title": "Mega Squads Event Guide: Maschiff, Shiny Flamigo, and New Super Megas - Pok\u00e9mon GO Hub",
+        "description": "Starts Tuesday, September 8, 2026, at 10:00 AM Local Time Ends Monday, September 14, 2026, at 8:00 PM Local Time Following Pok\u00e9mon GO Fest 2026: Mega Finale, the Mega Squads event kicks off the new Twilight Trails Season from Tuesday, September 8 at 10:00 a.m\u2026",
+        "source_link": "https://pokemongohub.net/post/event/pokemon-go-mega-squads-event-guide/"
+      },
+      {
+        "rank": 5,
         "image": "https://image.cnbcfm.com/api/v1/image/107329682-1699299150834-gettyimages-1778708098-js2_4099_isifrhca.jpeg?v=1761347922&w=1920&h=1080",
         "title": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages - CNBC",
         "description": "OpenAI's ChatGPT Work offering was down for some users on Monday, and Microsoft said it was having issues with Exchange Online.",
         "source_link": "https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html"
       },
       {
-        "rank": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-blue.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "iPhone Ultra release timing: Here\u2019s what the latest reporting says - 9to5Mac",
-        "description": "Apple will unveil its foldable iPhone Ultra next week at the September event, here\u2019s what to expect from release timing after that.",
-        "source_link": "https://9to5mac.com/2026/08/31/iphone-ultra-release-timing-heres-what-the-latest-reporting-says/"
+        "rank": 6,
+        "image": "https://cdn.videocardz.com/1/2026/08/ASUS-RTX-SPARK-LAPTOP-HERO.webp",
+        "title": "ASUS details ProArt P14 RTX Spark laptop, configurations start with 24GB unified memory - VideoCardz.com",
+        "description": "ASUS has published full ProArt P14 specifications, confirming RTX Spark configurations with 24GB, 32GB, 48GB, 64GB and 128GB of unified memory.",
+        "source_link": "https://videocardz.com/newz/asus-details-proart-p14-rtx-spark-laptop-configurations-start-with-24gb-unified-memory"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://images.macrumors.com/t/yCwNBKDvPvmRxaHtmlMqU-6TcPs=/2500x/article-new/2025/06/Mac-Studio-Feature.jpg",
         "title": "Apple Seemingly Made a Mistake When Announcing the New Mac Studio - MacRumors",
         "description": "Apple's press release for the new Mac Studio with M5 Max and M5 Ultra chips last week initially stated that the computer had \"next-generation...",
         "source_link": "https://www.macrumors.com/2026/08/31/apple-edits-mac-studio-press-release/"
       },
       {
-        "rank": 4,
+        "rank": 8,
+        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/31/Kazan--Russia---August-19--2021-Take-two.jpg",
+        "title": "Take-Two Stock Drops Amid GTA 6 Leaks - Benzinga",
+        "description": "Take-Two Interactive Software Inc (NASDAQ:TTWO) shares are falling Monday, potentially facing selling pressure tied to a string of leaks surrounding \"Grand Theft Auto VI\" ahead of the game's Nov. 19 release.",
+        "source_link": "https://www.benzinga.com/trading-ideas/movers/26/08/61530804/take-two-stock-drops-amid-gta-6-leaks"
+      },
+      {
+        "rank": 9,
         "image": "https://assets-prd.ignimgs.com/2026/08/31/hrdxhdzwwaax1k-1788198129736.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "'Don't Let Your Husband Play GTA 6' - Angry Spouses Are Threatening to Break Up With Their Partners If They Play GTA 6 - IGN",
         "description": "A bunch of angry spouses on social media believe that Grand Theft Auto 6's in-depth relationship mechanic is equivalent to cheating on your real life partner and worth breaking up over.",
         "source_link": "https://www.ign.com/articles/gta-6s-relationship-mechanic-is-cheating-on-your-real-life-partner-and-break-up-worthy-according-to-angry-spouses"
       },
       {
-        "rank": 5,
-        "image": "https://helios-i.mashable.com/imagery/articles/079SGqstsfdMi65InfowaSL/hero-image.fill.size_1200x675.v1788167658.webp",
-        "title": "Apple Watch will reportedly get a big redesign, but not this year - Mashable",
-        "description": "The changes on this year's Watch devices will reportedly be minor and cosmetic.",
-        "source_link": "https://mashable.com/tech/apple-watch-series-12-rumors-upgrades"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.pushsquare.com/91a6c246ecac9/large.jpg",
-        "title": "AC Black Flag Resynced Update 1.0.7 Live Tomorrow on PS5, Get the Patch Notes Here - Push Square",
-        "description": "Visual effects changed and a new pet for the Hideout",
-        "source_link": "https://www.pushsquare.com/news/2026/08/ac-black-flag-resynced-update-1-0-7-live-tomorrow-on-ps5-get-the-patch-notes-here"
-      },
-      {
-        "rank": 7,
+        "rank": 10,
         "image": "https://images.macrumors.com/t/PeEXCl2WWdKyHqei1lMVhyyE0_Y=/2500x/article-new/2026/06/iOS-27-Feature-Dark.jpg",
         "title": "Apple Seeds Eighth iOS 27 and iPadOS 27 Betas to Developers - MacRumors",
         "description": "Apple today seeded the eighth betas of iOS 27 and iPadOS 27 to developers for testing purposes, with the update coming one week after Apple released...",
         "source_link": "https://www.macrumors.com/2026/08/31/apple-seeds-ios-27-beta-8/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.bleepstatic.com/content/hl-images/2025/04/15/Exchange_headpic.jpg",
-        "title": "Microsoft Exchange Online outage causes email failures, auth issues - BleepingComputer",
-        "description": "Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers.",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/"
-      },
-      {
-        "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2026/08/just-dance.jpg",
-        "title": "Fans Think Ubisoft Just Accidentally Revealed The Date Of The Next Nintendo Direct - Kotaku",
-        "description": "If true, I guess we already know one game we'll be seeing",
-        "source_link": "https://kotaku.com/ubisoft-leaked-nintendo-direct-date-2000729913"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.techpowerup.com/img/sPIXmvqIcFSaY4TO.jpg",
-        "title": "Leaked DLSS 5 is Being Tested on RTX 20-series \"Turing\" GPUs, Now Runs on Emulators and Old DirectX Titles - TechPowerUp",
-        "description": "The leaked DLSS 5 DLL keeps finding new homes, and support has now spread to RTX 20-series \"Turing\" GPUs. That architecture is three whole generations behind the NVIDIA-recommended \"Blackwell,\" and modders are showing no signs of stopping either. Developer Sh\u2026",
-        "source_link": "https://www.techpowerup.com/352181/leaked-dlss-5-is-being-tested-on-rtx-20-series-turing-gpus-now-runs-on-emulators-and-old-directx-titles"
       }
     ],
     "trending_movies": [
@@ -104,10 +104,10 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
+        "image": "https://image.tmdb.org/t/p/w200/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+        "title": "The Wrong Girls",
+        "description": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives in...",
+        "source_link": "https://www.themoviedb.org/movie/1226699"
       },
       {
         "rank": 6,
@@ -118,10 +118,10 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
-        "title": "The Wrong Girls",
-        "description": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives in...",
-        "source_link": "https://www.themoviedb.org/movie/1226699"
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
         "rank": 8,
