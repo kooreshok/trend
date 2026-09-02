@@ -1,85 +1,85 @@
 {
-  "last_updated": "September 02, 2026, 00:51 UTC",
+  "last_updated": "September 02, 2026, 05:23 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5b6Yc3MtilCHZByZlSPAAU/ccd8c5adf4d86701c0572337f4aa06ca/ChatGPT_Image_Aug_31__2026__10_41_38_PM.png?w=800&q=75",
+        "title": "OpenClaw 2.0 is here, ushering in the era of 'multiplayer' AI coding: What it means for enterprises - VentureBeat",
+        "description": "OpenClaw is making another bet: that enterprises ultimately need an agent platform to function as both runtime and workplace.",
+        "source_link": "https://venturebeat.com/technology/openclaw-2-0-is-here-what-it-means-for-enterprises"
+      },
+      {
+        "rank": 2,
+        "image": "https://helios-i.mashable.com/imagery/articles/03hQIuXtXkx9hM5Jadk7sCZ/hero-image.fill.size_1200x675.v1788214528.jpg",
+        "title": "Microsoft acknowledges widespread Exchange Online problems - Mashable",
+        "description": "Initially reported as an Outlook problem, Microsoft says its Exchange Online service has been disrupted.",
+        "source_link": "https://mashable.com/tech/microsoft-responds-exchange-online-outlook-outage-aug-31"
+      },
+      {
+        "rank": 3,
+        "image": "https://helios-i.mashable.com/imagery/articles/05tC2qkVdI471bmvenaSCG3/hero-image.fill.size_1200x675.v1788167242.jpg",
+        "title": "Valve suffers massive 12TB leak, revealing a decade of Steam game files - Mashable",
+        "description": "The colossal leak could include data from over 2000 video games.",
+        "source_link": "https://mashable.com/entertainment/valve-leak-12-terabytes-steam-games"
+      },
+      {
+        "rank": 4,
+        "image": "https://substackcdn.com/image/fetch/$s_!fgkI!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0aa7727-9ab7-4a63-a6c7-9a372df45bf6_1920x1080.jpeg",
+        "title": "\u2018Most\u2019 of Star Wars Zero Company studio Bit Reactor was furloughed ahead of launch - Game File | Stephen Totilo",
+        "description": "The details emerged amid a legal dispute between company founders. The lawsuit also provides an unexpected look into a studio behind one of the best-reviewed Star Wars games in years",
+        "source_link": "https://www.gamefile.news/p/star-wars-zero-company-bit-reactor-furloughs-lawsuit"
+      },
+      {
+        "rank": 5,
+        "image": null,
+        "title": "New Galaxy Book6 with Windows 11 out at $799, has drawbacks - neowin.net",
+        "description": null,
+        "source_link": "https://www.neowin.net/news/new-galaxy-book6-with-windows-11-out-at-799-has-drawbacks/"
+      },
+      {
+        "rank": 6,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Pikmin-3-Deluxe-1.2.0-update.jpg",
+        "title": "Pikmin 3 Deluxe 1.2.0 update out now, patch notes - new benefits for Nintendo Switch 2 players - Nintendo Everything",
+        "description": "Pikmin 3 Deluxe just got a version 1.2.0 update aimed at Nintendo Switch 2 players, and here are the patch notes.",
+        "source_link": "https://nintendoeverything.com/pikmin-3-deluxe-1-2-0-update-out-now-patch-notes-new-benefits-for-nintendo-switch-2-players/"
+      },
+      {
+        "rank": 7,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Mario-Tennis-Fever-1.1.1-update.jpg",
+        "title": "Mario Tennis Fever 1.1.1 update out now, patch notes - Nintendo Everything",
+        "description": "Nintendo just came out with the latest update for Mario Tennis Fever, with version 1.1.1 now starting distribution for all players. This is a small patch all things considered. It includes one adjustment involving the return of a high ball and a bug fix with \u2026",
+        "source_link": "https://nintendoeverything.com/mario-tennis-fever-1-1-1-update-out-now-patch-notes/"
+      },
+      {
+        "rank": 8,
+        "image": "https://images.nintendolife.com/a3289297e4b1b/large.jpg",
+        "title": "Konami Press Start Showcase Announced, Expect News, Updates And \"Exclusive Footage\" - Nintendo Life",
+        "description": "Streaming worldwide this week",
+        "source_link": "https://www.nintendolife.com/news/2026/09/konami-press-start-showcase-announced-expect-news-updates-and-exclusive-footage"
+      },
+      {
+        "rank": 9,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/DragonRed.Supersports-6-1152x648.jpg",
         "title": "The Bentley Supersports: A stripped-out engineer\u2019s indulgence - Ars Technica",
         "description": "It's the lightest Bentley in 85 years.",
         "source_link": "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/"
       },
       {
-        "rank": 2,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25562292/DSCF0055.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "The Google TV Streamer now costs $50 more - The Verge",
-        "description": "Google has increased the price of its Google TV Streamer to $149, two years after the 4K streaming box launched.",
-        "source_link": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase"
-      },
-      {
-        "rank": 3,
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4CNZK2D4AWS7URZNGL4WDLYVIY.jpg&w=1440",
-        "title": "Chatbots got safer but will still role-play self-harm with users - The Washington Post",
-        "description": "A study that staged more than 50,000 conversations with AI chatbots found that they will help users role-play or write stories about their suicide or death.",
-        "source_link": "https://www.washingtonpost.com/technology/2026/08/31/chatbots-will-role-play-self-harm-scenarios-with-users-study-finds/"
-      },
-      {
-        "rank": 4,
-        "image": "https://pokemongohub.net/wp-content/uploads/2026/08/mega-squads-pokemon-go.jpg",
-        "title": "Mega Squads Event Guide: Maschiff, Shiny Flamigo, and New Super Megas - Pok\u00e9mon GO Hub",
-        "description": "Starts Tuesday, September 8, 2026, at 10:00 AM Local Time Ends Monday, September 14, 2026, at 8:00 PM Local Time Following Pok\u00e9mon GO Fest 2026: Mega Finale, the Mega Squads event kicks off the new Twilight Trails Season from Tuesday, September 8 at 10:00 a.m\u2026",
-        "source_link": "https://pokemongohub.net/post/event/pokemon-go-mega-squads-event-guide/"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.cnbcfm.com/api/v1/image/107329682-1699299150834-gettyimages-1778708098-js2_4099_isifrhca.jpeg?v=1761347922&w=1920&h=1080",
-        "title": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages - CNBC",
-        "description": "OpenAI's ChatGPT Work offering was down for some users on Monday, and Microsoft said it was having issues with Exchange Online.",
-        "source_link": "https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html"
-      },
-      {
-        "rank": 6,
-        "image": "https://techcrunch.com/wp-content/uploads/2024/06/microsoft-outlook-app.jpg?resize=1200,800",
-        "title": "Microsoft tests fix for latest hours-long Outlook outage - TechCrunch",
-        "description": "Microsoft says it's testing a fix for the widespread Outlook issues that have led to email delays and failures.",
-        "source_link": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/"
-      },
-      {
-        "rank": 7,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-ultra-concept-blue.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "iPhone Ultra release timing: Here\u2019s what the latest reporting says - 9to5Mac",
-        "description": "Apple will unveil its foldable iPhone Ultra next week at the September event, here\u2019s what to expect from release timing after that.",
-        "source_link": "https://9to5mac.com/2026/08/31/iphone-ultra-release-timing-heres-what-the-latest-reporting-says/"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.videocardz.com/1/2026/08/ASUS-RTX-SPARK-LAPTOP-HERO.webp",
-        "title": "ASUS details ProArt P14 RTX Spark laptop, configurations start with 24GB unified memory - VideoCardz.com",
-        "description": "ASUS has published full ProArt P14 specifications, confirming RTX Spark configurations with 24GB, 32GB, 48GB, 64GB and 128GB of unified memory.",
-        "source_link": "https://videocardz.com/newz/asus-details-proart-p14-rtx-spark-laptop-configurations-start-with-24gb-unified-memory"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.macrumors.com/t/yCwNBKDvPvmRxaHtmlMqU-6TcPs=/2500x/article-new/2025/06/Mac-Studio-Feature.jpg",
-        "title": "Apple Seemingly Made a Mistake When Announcing the New Mac Studio - MacRumors",
-        "description": "Apple's press release for the new Mac Studio with M5 Max and M5 Ultra chips last week initially stated that the computer had \"next-generation...",
-        "source_link": "https://www.macrumors.com/2026/08/31/apple-edits-mac-studio-press-release/"
-      },
-      {
         "rank": 10,
-        "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/31/Kazan--Russia---August-19--2021-Take-two.jpg",
-        "title": "Take-Two Stock Drops Amid GTA 6 Leaks - Benzinga",
-        "description": "Take-Two Interactive Software Inc (NASDAQ:TTWO) shares are falling Monday, potentially facing selling pressure tied to a string of leaks surrounding \"Grand Theft Auto VI\" ahead of the game's Nov. 19 release.",
-        "source_link": "https://www.benzinga.com/trading-ideas/movers/26/08/61530804/take-two-stock-drops-amid-gta-6-leaks"
+        "image": "https://images.purexbox.com/66a0e4d213090/large.jpg",
+        "title": "Xbox Fans Begin Creating Disc To Digital Lists For Supported And Non-Supported Games - Pure Xbox",
+        "description": "Rapidly gaining in numbers",
+        "source_link": "https://www.purexbox.com/news/2026/08/xbox-fans-begin-creating-disc-to-digital-lists-for-supported-and-non-supported-games"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
-        "title": "The Wrong Girls",
-        "description": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives in...",
-        "source_link": "https://www.themoviedb.org/movie/1226699"
+        "image": "https://image.tmdb.org/t/p/w200/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
+        "title": "Just Play Dead",
+        "description": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all....",
+        "source_link": "https://www.themoviedb.org/movie/1480574"
       },
       {
         "rank": 2,
@@ -90,59 +90,59 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
-        "title": "Just Play Dead",
-        "description": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all....",
-        "source_link": "https://www.themoviedb.org/movie/1480574"
+        "image": "https://image.tmdb.org/t/p/w200/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+        "title": "The Wrong Girls",
+        "description": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives in...",
+        "source_link": "https://www.themoviedb.org/movie/1226699"
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
-        "title": "Coyote vs. Acme",
-        "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
-        "source_link": "https://www.themoviedb.org/movie/1204680"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
         "title": "The Whisper Man",
         "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the ca...",
         "source_link": "https://www.themoviedb.org/movie/860508"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+        "title": "Coyote vs. Acme",
+        "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
+        "source_link": "https://www.themoviedb.org/movie/1204680"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
-        "title": "Minions & Monsters",
-        "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed mon...",
-        "source_link": "https://www.themoviedb.org/movie/1315772"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
-        "rank": 10,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/guq5cJ43v0qcMtLqrYHe5P9fgFM.jpg",
+        "title": "Resident Evil",
+        "description": "Bryan, a medical courier, unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
+        "source_link": "https://www.themoviedb.org/movie/1423191"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/hFborW6HmffKL05GIWlkTFdvVpN.jpg",
+        "title": "The Brink of War",
+        "description": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals\u2014or ignite disa...",
+        "source_link": "https://www.themoviedb.org/movie/192139"
       }
     ]
   }
