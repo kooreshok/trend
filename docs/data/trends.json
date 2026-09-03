@@ -1,62 +1,76 @@
 {
-  "last_updated": "September 03, 2026, 16:52 UTC",
+  "last_updated": "September 03, 2026, 19:35 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://assets-prd.ignimgs.com/2024/02/14/xbox-1-blogroll-1707928931451.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Xbox Down For You? Microsoft Acknowledges 'Major Outage' as Sign-In Issues Hit PC and Console - IGN",
-        "description": "Microsoft has resolved a \"major outage\", which saw account issues across PC, Xbox Series X/S and other devices.",
-        "source_link": "https://www.ign.com/articles/xbox-acknowledges-major-outage-as-sign-in-issues-hit-pc-and-consoles"
+        "image": "https://mp1st.com/wp-content/uploads/2026/09/scellf-600x338.png",
+        "title": "Report: Early Splinter Cell Remake Screenshots Unearthed, Revealing Environments and Easter Eggs - mp1st.com",
+        "description": "Check out early screenshots for the Splinter Cell Remake, revealing our first look at the game's environments and hidden easter eggs.",
+        "source_link": "https://mp1st.com/news/report-early-splinter-cell-remake-screenshots-unearthed-revealing-environments-and-easter-eggs"
       },
       {
         "rank": 2,
+        "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-champions/2026/09/02/pokemon-champions-169-en.png",
+        "title": "Get Ready for Regulation Set M\u2011C in Pok\u00e9mon Champions - Pokemon.com",
+        "description": "More Mega-Evolved Pok\u00e9mon make their return alongside new Z Mega Evolutions.",
+        "source_link": "https://www.pokemon.com/us/news/get-ready-for-regulation-set-m-c-in-pokemon-champions"
+      },
+      {
+        "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2026/09/smith1-1200x675.jpg",
+        "title": "Dishonored's Co-Creator Explains What So Many Games Are Missing - Kotaku",
+        "description": "The co-creator of new studio Black Pony Immersive tells us about defying expectations in the most underserved genre",
+        "source_link": "https://kotaku.com/harvey-smith-interview-black-pony-immersive-sim-dishonored-prey-2000730489"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XUJVPVHSYFHPVBVL73BK2ZG5ZQ.jpg&w=1200",
+        "title": "\u2018A friend I can trust\u2019: How Americans described their relationship with AI - The Washington Post",
+        "description": "More than a quarter of U.S. adults turn to chatbots for personal or emotional discussions, including for entertainment or social advice, a new survey found.",
+        "source_link": "https://www.washingtonpost.com/technology/interactive/2026/09/02/27-us-adults-turn-ai-personal-emotional-social-queries/"
+      },
+      {
+        "rank": 5,
+        "image": "https://dongknows.com/wp-content/uploads/A-3-pack-UX7-3-of-Ubiquitis-UniFi-Home-Wi-Fi-7-mesh-system-part-of-its-Whole-Home-WiFi-category-featuring-three-UniFi-Express-7-units-in-action.-Note-the-MLO-backhaul-link.jpg",
+        "title": "UniFi Home Wi-Fi 7 (UX7-3) with STR MLO Backhaul Review: Ubiquiti\u2019s True Whole Home WiFi Mesh Is Here! - Dong Knows Tech",
+        "description": "As part of Ubiquiti's new UniFi Whole Home WiFi category, the UniFi Home Wi-Fi 7, availble as 2-pack or 3-pack bundles of the UniFi Express 7 (UX7) now has STR MLO as its powerful backhaul. Check it out!",
+        "source_link": "https://dongknows.com/ux7-3-unifi-home-wi-fi-7-whole-home-wifi-mesh-review/"
+      },
+      {
+        "rank": 6,
+        "image": "https://www.phoronix.net/image.php?id=2026&image=cern_debian_1",
+        "title": "CERN Transitioning To Debian After Being A Longtime RHEL Institution - Phoronix",
+        "description": "CERN, the European Organization for Nuclear Research, besides being well known for its Large Hadron Collider (LHC) is known among longtime Linux users as a RHEL/CentOS shop",
+        "source_link": "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL"
+      },
+      {
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/smart_thermostat_x2_close_up_frame_lifestyle_1337_00.jpg?quality=90&strip=all&crop=0%2C10.738732648589%2C100%2C78.522534702822&w=1200",
         "title": "Tado\u2019s new thermostat is designed as a Nest killer - The Verge",
         "description": "The Smart Thermostat X supports Matter-over-Thread and comes with a more minimalist design.",
         "source_link": "https://www.theverge.com/tech/987888/tado-smart-thermostat-x-2nd-gen-launch-google-nest"
       },
       {
-        "rank": 3,
-        "image": "https://assetsio.gnwcdn.com/Tomb-Raider-Legacy-of-Atlantis-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Tomb Raider: Legacy of Atlantis isn't even out yet, but already it feels like an old relic - in all the wrong ways - Eurogamer.net",
-        "description": "Last year, on a bit of a whim, I ended up playing Tomb Raider 1's superb remaster and Crystal Dynamics' 2007 remake Tom\u2026",
-        "source_link": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-gamescom-preview"
-      },
-      {
-        "rank": 4,
-        "image": "https://cdn.videocardz.com/1/2026/09/NEXUS-MODS-STEAM-DB.webp",
-        "title": "SteamDB acquired by Nexus Mods after 13 years as an independent Steam database - VideoCardz.com",
-        "description": "SteamDB has been acquired by the company behind Nexus Mods after its founder said maintaining the service had become a full-time workload. The site will remain free and separate.",
-        "source_link": "https://videocardz.com/newz/steamdb-acquired-by-nexus-mods-after-13-years-as-an-independent-steam-database"
-      },
-      {
-        "rank": 5,
-        "image": "https://images.macrumors.com/t/5pBezqHvs4dVjfN-xLS4Kkzn_EA=/1672x/article-new/2026/09/m5-max-vs-m5-ultra-mac-studio.jpg",
-        "title": "Mac Studio Buyer's Guide: M5 Max vs. M5 Ultra - MacRumors",
-        "description": "Apple last week announced two new Mac Studio models, with one built around the M5 Max chip and one around the all-new M5 Ultra chip, replacing the M4...",
-        "source_link": "https://www.macrumors.com/guide/m5-max-vs-m5-ultra/"
-      },
-      {
-        "rank": 6,
-        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/marvel-s-wolverine-angry-logan.jpg?w=1600&h=900&fit=crop",
-        "title": "PlayStation Faces $7.85 Million Lawsuit for Allegedly Establishing Digital Game Monopoly on PlayStation - polygon.com",
-        "description": "Sony is being sued for anticompetitive behavior due its problematic policies regarding digital PlayStation game sales.",
-        "source_link": "https://www.polygon.com/sony-playstation-lawsuit-digital-game-monopoly/"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/mh-ascendance-boosted.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Capcom quietly releases new trailers for Monster Hunter Wilds Ascendance, teasing changes to all 14 weapon types - Eurogamer.net",
-        "description": "Another Monster Hunter expansion, another suite of changes to how weapons work - and this time, we're getting boosted.",
-        "source_link": "https://www.eurogamer.net/monster-hunter-wilds-ascendance-boost-weapons"
-      },
-      {
         "rank": 8,
-        "image": null,
-        "title": "Amazon is selling a 2-in-1 laptop and tablet on sale for $100 - thestreet.com",
-        "description": null,
-        "source_link": "https://www.thestreet.com/deals/suicoey-2-in-1-android-16-tablet-laptop-amazon-sale-september-2026"
+        "image": "https://images.macrumors.com/t/NpX1fQhYeWjvL0_2pVokzzAqn0g=/2500x/article-new/2026/08/mac-mini-2026-blue.jpg",
+        "title": "Apple's New Mac Mini Already Discounted - See the Pre-Order Deals - MacRumors",
+        "description": "Amazon has introduced the first cash discounts on Apple's brand new Mac mini, with discounts including two of the M6 models as well as the M5 Pro...",
+        "source_link": "https://www.macrumors.com/2026/09/02/pre-order-discounts-mac-mini/"
+      },
+      {
+        "rank": 9,
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/The_Witcher_Shtriga_3.jpeg",
+        "title": "The Witcher Remake Is Waiting On The Witcher 4 To Continue Development - GameSpot",
+        "description": "Developer Fool's Theory has prioritized work on The Witcher 3: Wild Hunt's Songs of the Past expansion instead.",
+        "source_link": "https://www.gamespot.com/articles/the-witcher-remake-is-waiting-on-the-witcher-4-to-continue-development/"
+      },
+      {
+        "rank": 10,
+        "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/12/a-laptop-screen-displaying-a-grid-of-six-open-source-app-icons.jpg?w=1600&h=900&fit=crop",
+        "title": "I can't believe these 11 Windows apps are free and open-source - MakeUseOf",
+        "description": "Quality apps that don't cost anything.",
+        "source_link": "https://www.makeuseof.com/i-cant-believe-these-11-windows-apps-are-free-and-open-source/"
       }
     ],
     "trending_movies": [
@@ -76,17 +90,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
+        "image": "https://image.tmdb.org/t/p/w200/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+        "title": "Gandhari",
+        "description": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible....",
+        "source_link": "https://www.themoviedb.org/movie/1355228"
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
-        "title": "Coyote vs. Acme",
-        "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
-        "source_link": "https://www.themoviedb.org/movie/1204680"
+        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
         "rank": 5,
@@ -97,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
+        "image": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+        "title": "Coyote vs. Acme",
+        "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
+        "source_link": "https://www.themoviedb.org/movie/1204680"
       },
       {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+        "title": "The Whisper Man",
+        "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the ca...",
+        "source_link": "https://www.themoviedb.org/movie/860508"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
-        "title": "Gandhari",
-        "description": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible....",
-        "source_link": "https://www.themoviedb.org/movie/1355228"
-      },
-      {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg",
-        "title": "Just Play Dead",
-        "description": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all....",
-        "source_link": "https://www.themoviedb.org/movie/1480574"
-      },
-      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-        "title": "The Whisper Man",
-        "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the ca...",
-        "source_link": "https://www.themoviedb.org/movie/860508"
+        "image": "https://image.tmdb.org/t/p/w200/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
+        "title": "The Brink of War",
+        "description": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals\u2014or ignite disa...",
+        "source_link": "https://www.themoviedb.org/movie/192139"
       }
     ]
   }
