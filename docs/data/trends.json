@@ -1,76 +1,62 @@
 {
-  "last_updated": "September 03, 2026, 12:31 UTC",
+  "last_updated": "September 03, 2026, 16:52 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://image.cnbcfm.com/api/v1/image/108354003-1787676182261-gettyimages-2290721593-zawrzel-economya260810_npMeU.jpeg?v=1787676253&w=1920&h=1080",
-        "title": "Apple shares are doing something they haven't done in 20 years. Here\u2019s what\u2019s happening - cnbc.com",
-        "description": "Apple stock hasn't been this inversely correlated to its tech peers since 2005.",
-        "source_link": "https://www.cnbc.com/2026/09/02/apple-shares-are-doing-something-they-havent-done-in-20-years-heres-whats-happening.html"
+        "image": "https://assets-prd.ignimgs.com/2024/02/14/xbox-1-blogroll-1707928931451.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Xbox Down For You? Microsoft Acknowledges 'Major Outage' as Sign-In Issues Hit PC and Console - IGN",
+        "description": "Microsoft has resolved a \"major outage\", which saw account issues across PC, Xbox Series X/S and other devices.",
+        "source_link": "https://www.ign.com/articles/xbox-acknowledges-major-outage-as-sign-in-issues-hit-pc-and-consoles"
       },
       {
         "rank": 2,
-        "image": "https://images.macrumors.com/t/v8sRmlTX0N1rOzPiDQv-4h-H_h4=/3840x/article-new/2026/09/sim-trays-iphone-18-pro-sonny-dickson%402x.jpg",
-        "title": "Leaked iPhone 18 Pro Parts Point to Three Color Options Excluding Black - MacRumors",
-        "description": "Longtime leaker Sonny Dickson has shared an image of differently colored SIM card trays that he claims are for Apple's upcoming iPhone 18 Pro...",
-        "source_link": "https://www.macrumors.com/2026/09/02/leaked-iphone-18-pro-parts-point-to-three-colors/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/smart_thermostat_x2_close_up_frame_lifestyle_1337_00.jpg?quality=90&strip=all&crop=0%2C10.738732648589%2C100%2C78.522534702822&w=1200",
+        "title": "Tado\u2019s new thermostat is designed as a Nest killer - The Verge",
+        "description": "The Smart Thermostat X supports Matter-over-Thread and comes with a more minimalist design.",
+        "source_link": "https://www.theverge.com/tech/987888/tado-smart-thermostat-x-2nd-gen-launch-google-nest"
       },
       {
         "rank": 3,
-        "image": "https://cdn.mos.cms.futurecdn.net/ftDQHZue9WoD59KBGjdfBT-2560-80.png",
-        "title": "Confirmed: Over 800 Xbox discs are supported by the disc-to-digital program, and growing. Here's the list. - Windows Central",
-        "description": "A new database tracking Xbox's new disc-to-digital program shows just how big the scale of the operation really is.",
-        "source_link": "https://www.windowscentral.com/gaming/xbox/confirmed-over-800-xbox-discs-are-supported-by-the-disc-to-digital-program-and-growing-heres-the-list"
+        "image": "https://assetsio.gnwcdn.com/Tomb-Raider-Legacy-of-Atlantis-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Tomb Raider: Legacy of Atlantis isn't even out yet, but already it feels like an old relic - in all the wrong ways - Eurogamer.net",
+        "description": "Last year, on a bit of a whim, I ended up playing Tomb Raider 1's superb remaster and Crystal Dynamics' 2007 remake Tom\u2026",
+        "source_link": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-gamescom-preview"
       },
       {
         "rank": 4,
-        "image": "https://assetsio.gnwcdn.com/gta-6-scooter-screen-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "The Grand Theft Auto run button has changed after 25 years - GTA 6 no longer requires you to tap a face button to peg it - Eurogamer.net",
-        "description": "Rockstar has decided to finally fall in line with other games regarding how you control Grand Theft Auto 6. You'll no longer need to tap a face button to run.",
-        "source_link": "https://www.eurogamer.net/gta-6-run-button-changes-tap-rockstar"
+        "image": "https://cdn.videocardz.com/1/2026/09/NEXUS-MODS-STEAM-DB.webp",
+        "title": "SteamDB acquired by Nexus Mods after 13 years as an independent Steam database - VideoCardz.com",
+        "description": "SteamDB has been acquired by the company behind Nexus Mods after its founder said maintaining the service had become a full-time workload. The site will remain free and separate.",
+        "source_link": "https://videocardz.com/newz/steamdb-acquired-by-nexus-mods-after-13-years-as-an-independent-steam-database"
       },
       {
         "rank": 5,
-        "image": "https://cdn.videocardz.com/1/2026/09/DELL-ALIENWARE-OLED-MONITORS-IFA2026.webp",
-        "title": "Alienware launches 32-inch 4K Tandem WOLED monitor for $699 and 560Hz QD-OLED model - VideoCardz.com",
-        "description": "Alienware has announced two RGB-stripe OLED gaming monitors, including a 32-inch 4K Tandem WOLED model priced at $699. The second model uses a 560Hz QD-OLED panel.",
-        "source_link": "https://videocardz.com/newz/alienware-launches-32-inch-4k-tandem-woled-monitor-for-699-and-560hz-qd-oled-model"
+        "image": "https://images.macrumors.com/t/5pBezqHvs4dVjfN-xLS4Kkzn_EA=/1672x/article-new/2026/09/m5-max-vs-m5-ultra-mac-studio.jpg",
+        "title": "Mac Studio Buyer's Guide: M5 Max vs. M5 Ultra - MacRumors",
+        "description": "Apple last week announced two new Mac Studio models, with one built around the M5 Max chip and one around the all-new M5 Ultra chip, replacing the M4...",
+        "source_link": "https://www.macrumors.com/guide/m5-max-vs-m5-ultra/"
       },
       {
         "rank": 6,
-        "image": "https://m-cdn.phonearena.com/images/article/183020-wide-two_1200/Leaked-Galaxy-S27-Plus-Pro-and-Ultra-image-will-make-you-appreciate-Samsungs-direction.jpg",
-        "title": "Leaked Galaxy S27, Plus, Pro, and Ultra image will make you appreciate Samsung's direction - PhoneArena",
-        "description": "A lineup photo depicting the new designs will make you see the void the S27 Ultra and Pro will fill.",
-        "source_link": "https://www.phonearena.com/news/galaxy-s27-ultra-pro-plus-design_id183020"
+        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/marvel-s-wolverine-angry-logan.jpg?w=1600&h=900&fit=crop",
+        "title": "PlayStation Faces $7.85 Million Lawsuit for Allegedly Establishing Digital Game Monopoly on PlayStation - polygon.com",
+        "description": "Sony is being sued for anticompetitive behavior due its problematic policies regarding digital PlayStation game sales.",
+        "source_link": "https://www.polygon.com/sony-playstation-lawsuit-digital-game-monopoly/"
       },
       {
         "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Dell-14S_Velvet-Green_Lifestyle.jpg?quality=90&strip=all&crop=0%2C16.709105790342%2C100%2C66.581788419316&w=1200",
-        "title": "Dell\u2019s newest laptop sounds a lot like a MacBook Neo - The Verge",
-        "description": "Dell\u2019s new Dell 14S is a colorful laptop aimed at students, starting with 8GB of RAM and sporting Intel\u2019s Wildcat Lake chips.",
-        "source_link": "https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs"
+        "image": "https://assetsio.gnwcdn.com/mh-ascendance-boosted.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Capcom quietly releases new trailers for Monster Hunter Wilds Ascendance, teasing changes to all 14 weapon types - Eurogamer.net",
+        "description": "Another Monster Hunter expansion, another suite of changes to how weapons work - and this time, we're getting boosted.",
+        "source_link": "https://www.eurogamer.net/monster-hunter-wilds-ascendance-boost-weapons"
       },
       {
         "rank": 8,
-        "image": "https://images.nintendolife.com/f81b19094353b/large.jpg",
-        "title": "Super Smash Bros. Ultimate Version 13.0.5 Is Now Live, Here Are The Full Patch Notes - Nintendo Life",
-        "description": "Signs of life with a small update",
-        "source_link": "https://www.nintendolife.com/news/2026/09/super-smash-bros-ultimate-version-13-0-5-is-now-live-here-are-the-full-patch-notes"
-      },
-      {
-        "rank": 9,
-        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24419429/Switch_MK8D_BCP_Screen_02.jpg?w=1600&h=900&fit=crop",
-        "title": "9 Years Later, Mario Kart 8 Just Got a Game-Changing Update for Nintendo Switch 2 - Polygon.com",
-        "description": "Nintendo adds Switch 2 support to Mario Kart 8 Deluxe bringing 8-player split-screen multiplayer and a 96-course marathon VS Race.",
-        "source_link": "https://www.polygon.com/mario-kart-8-deluxe-switch-2-update-patch-notes-nintendo/"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.nintendolife.com/62cb4f06ee74a/large.jpg",
-        "title": "Nintendo Expands Switch Online's NES Library With Three More Titles - Nintendo Life",
-        "description": "Japan's Famicom library also got an update",
-        "source_link": "https://www.nintendolife.com/news/2026/09/nintendo-expands-switch-onlines-nes-library-with-three-more-titles"
+        "image": null,
+        "title": "Amazon is selling a 2-in-1 laptop and tablet on sale for $100 - thestreet.com",
+        "description": null,
+        "source_link": "https://www.thestreet.com/deals/suicoey-2-in-1-android-16-tablet-laptop-amazon-sale-september-2026"
       }
     ],
     "trending_movies": [
@@ -83,38 +69,38 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
-        "title": "LEGO Star Wars: The Mandalorian",
-        "description": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adven...",
-        "source_link": "https://www.themoviedb.org/movie/1731694"
+        "image": "https://image.tmdb.org/t/p/w200/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+        "title": "Clash of the Thundermans",
+        "description": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abili...",
+        "source_link": "https://www.themoviedb.org/movie/1506560"
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
-        "title": "Coyote vs. Acme",
-        "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
-        "source_link": "https://www.themoviedb.org/movie/1204680"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+        "title": "Coyote vs. Acme",
+        "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
+        "source_link": "https://www.themoviedb.org/movie/1204680"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+        "title": "LEGO Star Wars: The Mandalorian",
+        "description": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adven...",
+        "source_link": "https://www.themoviedb.org/movie/1731694"
+      },
+      {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
-        "title": "The Brink of War",
-        "description": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals\u2014or ignite disa...",
-        "source_link": "https://www.themoviedb.org/movie/192139"
+        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
         "rank": 7,
@@ -125,24 +111,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
-        "title": "Clash of the Thundermans",
-        "description": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abili...",
-        "source_link": "https://www.themoviedb.org/movie/1506560"
-      },
-      {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-        "title": "The Whisper Man",
-        "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the ca...",
-        "source_link": "https://www.themoviedb.org/movie/860508"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
         "title": "Gandhari",
         "description": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible....",
         "source_link": "https://www.themoviedb.org/movie/1355228"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg",
+        "title": "Just Play Dead",
+        "description": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all....",
+        "source_link": "https://www.themoviedb.org/movie/1480574"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+        "title": "The Whisper Man",
+        "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the ca...",
+        "source_link": "https://www.themoviedb.org/movie/860508"
       }
     ]
   }
