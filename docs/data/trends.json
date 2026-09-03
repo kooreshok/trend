@@ -1,69 +1,76 @@
 {
-  "last_updated": "September 02, 2026, 23:48 UTC",
+  "last_updated": "September 03, 2026, 02:42 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/f81b19094353b/large.jpg",
+        "title": "Super Smash Bros. Ultimate Version 13.0.5 Is Now Live - Nintendo Life",
+        "description": "Signs of life with a small update",
+        "source_link": "https://www.nintendolife.com/news/2026/09/super-smash-bros-ultimate-version-13-0-5-is-now-live-here-are-the-full-patch-notes"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.nintendolife.com/b6c07a55458ed/large.jpg",
+        "title": "Mario Kart 8 Deluxe Has Been Updated To Version 4.0.0, Here Are The Full Patch Notes - Nintendo Life",
+        "description": "A free Switch 2 update is now available",
+        "source_link": "https://www.nintendolife.com/news/2026/09/mario-kart-8-deluxe-has-been-updated-to-version-4-0-0-here-are-the-full-patch-notes"
+      },
+      {
+        "rank": 3,
+        "image": "https://assets-prd.ignimgs.com/2026/08/27/exclusivelookbr-gtfm-1787873244868.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "GTA 6's Morality Meter Can Reportedly Break If You Cause Too Much Chaos - IGN",
+        "description": "Grand Theft Auto 6's morality meter can reportedly \"shatter\" and lead to you becoming essentially irredeemable for an entire playthrough of the game.",
+        "source_link": "https://www.ign.com/articles/gta-6s-morality-meter-will-reportedly-shatter-and-make-you-irredeemable-if-you-cause-too-much-mayhem"
+      },
+      {
+        "rank": 4,
         "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-18-pro-max-colors-new-leak/-952x498w6/gsmarena_000.jpg",
         "title": "Latest leak claims the iPhone 18 Pro lineup will launch in these new colors - GSMArena.com news - gsmarena.com",
         "description": "Apple will unveil the new iPhones on September 9. There have been plenty of rumors surrounding the color options for the upcoming iPhone 18 Pro series, and...",
         "source_link": "https://www.gsmarena.com/latest_leak_claims_the_iphone_18_pro_lineup_will_launch_in_these_new_colors-news-74438.php"
       },
       {
-        "rank": 2,
+        "rank": 5,
+        "image": "https://deadline.com/wp-content/uploads/2026/08/image-1.jpeg?w=1024",
+        "title": "\u2018Grand Theft Auto VI\u2019 Extended Preview Is Netflix\u2019s Most-Watched Weekly Title - Deadline",
+        "description": "A 27-minute extended look at 'Grand Theft Auto VI' landed on Netflix on August 27, raking in 31.1 million views globally over the weekend.",
+        "source_link": "http://deadline.com/2026/09/grand-theft-auto-vi-netflix-preview-viewership-top-10-1237064600/"
+      },
+      {
+        "rank": 6,
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-purple.jpg?quality=82&strip=all&resize=1200,628",
         "title": "New iPhone Ultra details arrive for specs, multitasking, launch timing, more - 9to5Mac",
         "description": "A new Tom\u2019s Guide interview with Mark Gurman has fresh details on what to expect from iPhone Ultra\u2019s specs, software, launch timing, and more.",
         "source_link": "https://9to5mac.com/2026/09/01/new-iphone-ultra-details-arrive-for-specs-multitasking-launch-timing-more/"
       },
       {
-        "rank": 3,
+        "rank": 7,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-Watch-5-Display-3.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Google rolling out Pixel Watch 5 September update - 9to5Google",
+        "description": "Following last month\u2019s launch, Google is rolling out the first update (September 2026) for the Pixel Watch 5 today.",
+        "source_link": "http://9to5google.com/2026/09/01/first-pixel-watch-5-update/"
+      },
+      {
+        "rank": 8,
+        "image": "https://assets-prd.ignimgs.com/2026/04/28/bloodofdawnwalker-romance-blogroll-1777378741034.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "I've Been Playing The Blood of Dawnwalker For a Week and It's Avoided the Classic Unreal 5 Pitfalls - IGN",
+        "description": "Just like with Star Wars Zero Company and Halo: Campaign Evolved, The Blood of Dawnwalker runs on Unreal Engine 5, and has been shockingly free of technical problems. The game doesn't have the same issues with crashing and stuttering that Zero Company has, an\u2026",
+        "source_link": "https://www.ign.com/articles/the-blood-of-dawnwalker-proves-unreal-5-can-be-done-well"
+      },
+      {
+        "rank": 9,
+        "image": "https://cdn.mos.cms.futurecdn.net/VVts2792MPQo3uMwdx2DZY-2560-80.jpg",
+        "title": "Nonprofit wants to launch 80,000-year mission to Alpha Centauri in 2029 (video) - Space",
+        "description": "\"None of us will be here when this journey ends, and that is the point.\"",
+        "source_link": "https://www.space.com/space-exploration/nonprofit-wants-to-launch-80-000-year-mission-to-alpha-centauri-in-2029-video"
+      },
+      {
+        "rank": 10,
         "image": "https://assetsio.gnwcdn.com/Trevor-in-GTA-5-carries-a-jerry-can-as-a-car-burns-behind-him.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "As GTA 6 looms on the horizon, Rockstar Games is releasing a closed beta for GTA Online RP's official server, nopixel 5 - Eurogamer.net",
         "description": "GTA 6's online is still an unknown, but Rockstar Games is putting a closed beta out for its GTA Online RP server called nopixel 5, and it's coming soon.",
         "source_link": "https://www.eurogamer.net/rockstar-games-official-gta-online-rp-server-closed-beta"
-      },
-      {
-        "rank": 4,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-watch-series-11-us.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Apple Watch Series 12: Three new features coming next week - 9to5Mac",
-        "description": "Apple Watch Series 12 is coming next week at the September event, here are three new features rumored for the next-generation model.",
-        "source_link": "https://9to5mac.com/2026/09/01/apple-watch-series-12-three-new-features-coming-next-week/"
-      },
-      {
-        "rank": 5,
-        "image": "https://variety.com/wp-content/uploads/2026/08/GTA-6-1.jpg?w=1000&h=563&crop=1",
-        "title": "\u2018GTA 6\u2019 Extended Look Tops Netflix Charts With 31.1 Million Views in Four Days - Variety",
-        "description": "With only six hours of exclusivity Netflix's \"Grand Theft Auto 6\" extended look became the streamer's most-viewed title last week.",
-        "source_link": "https://variety.com/2026/tv/news/gta-6-netflix-extended-look-views-1236848409/"
-      },
-      {
-        "rank": 6,
-        "image": "https://kotaku.com/app/uploads/2025/04/46516965fadfe423111db17f56ff74e5-1200x675.jpg",
-        "title": "The Hundred Line Was Meant To Be Different Than Fire Emblem - Kotaku",
-        "description": "The Hundred Line: Last Defense Academy\u2019s battles make you less concerned for your characters\u2019 lives than other strategy RPGs",
-        "source_link": "https://kotaku.com/hundred-line-last-defense-academy-fire-emblem-permadeath-2000730281"
-      },
-      {
-        "rank": 7,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
-        "title": "New Android Drop adds remembered items in Find Hub, makes anti-nausea dots official - Ars Technica",
-        "description": "New features are rolling out across the Android ecosystem starting today.",
-        "source_link": "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.cnet.com/wp-content/uploads/sites/2/Roku-Pro-OLED.jpg",
-        "title": "Roku Pro TV Now One of Cheapest OLEDs Starting at $999 - cnet.com",
-        "description": "The Roku Pro OLED TVs promise better picture quality at an affordable price.",
-        "source_link": "https://www.cnet.com/tech/home-entertainment/roku-pro-tv-now-one-of-cheapest-oleds-starting-at-999/"
-      },
-      {
-        "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/resident-evil-requiem-header-3.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "PlayStation argues \"reasonable consumers\" already know they don't actually own their digital games - Eurogamer.net",
-        "description": "PlayStation lawyers have argued that \"reasonable\" players aren't being deceived by Sony's small print, which says digital game purchases don't grant ownership.",
-        "source_link": "https://www.eurogamer.net/playstation-reasonable-consumers-know-dont-own-digital-games"
       }
     ],
     "trending_movies": [
@@ -76,66 +83,66 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
-        "title": "Just Play Dead",
-        "description": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all....",
-        "source_link": "https://www.themoviedb.org/movie/1480574"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
         "title": "Coyote vs. Acme",
         "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
         "source_link": "https://www.themoviedb.org/movie/1204680"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/yng4wYjB9cjX7np9c9YqfJjX52o.jpg",
-        "title": "LEGO Star Wars: The Mandalorian",
-        "description": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adven...",
-        "source_link": "https://www.themoviedb.org/movie/1731694"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
-        "title": "The Whisper Man",
-        "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the ca...",
-        "source_link": "https://www.themoviedb.org/movie/860508"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
-        "title": "I Want Your Sex",
-        "description": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to beco...",
-        "source_link": "https://www.themoviedb.org/movie/1288059"
-      },
-      {
-        "rank": 9,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
         "title": "The Brink of War",
         "description": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals\u2014or ignite disa...",
         "source_link": "https://www.themoviedb.org/movie/192139"
       },
       {
-        "rank": 10,
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+        "title": "LEGO Star Wars: The Mandalorian",
+        "description": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adven...",
+        "source_link": "https://www.themoviedb.org/movie/1731694"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg",
+        "title": "Just Play Dead",
+        "description": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all....",
+        "source_link": "https://www.themoviedb.org/movie/1480574"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+        "title": "The Whisper Man",
+        "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the ca...",
+        "source_link": "https://www.themoviedb.org/movie/860508"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/pR7SIX3AwqdoD96OI44oLG98e7g.jpg",
+        "title": "I Want Your Sex",
+        "description": "When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to beco...",
+        "source_link": "https://www.themoviedb.org/movie/1288059"
       }
     ]
   }
