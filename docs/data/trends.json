@@ -1,76 +1,69 @@
 {
-  "last_updated": "September 03, 2026, 19:35 UTC",
+  "last_updated": "September 03, 2026, 22:11 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.macrumors.com/t/jG4b-VKd9y8S2sNqme6nXQKRHkY=/1672x/article-new/2026/09/iPhone-Handoff-Feature.jpeg",
+        "title": "iOS 27 Introduces New 'iPhone Handoff' Feature - MacRumors",
+        "description": "Apple has added a new \"iPhone Handoff\" feature to iOS 27 that will allow you to switch between two iPhones while using the same phone number...",
+        "source_link": "https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2245678912.jpg?quality=90&strip=all&crop=0%2C10.738163954941%2C100%2C78.523672090118&w=1200",
+        "title": "1Password wades into a right-wing mess after funding a Linux project - The Verge",
+        "description": "The controversy surrounds David Heinemeier Hansson, who has posted strident anti-vax and anti-immigrant views.",
+        "source_link": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy"
+      },
+      {
+        "rank": 3,
+        "image": null,
+        "title": "The Blood of Dawnwalker Review: Time Doesn't Heal All Wounds - Game Informer",
+        "description": null,
+        "source_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU096aVpQU2pKd3pnaXZmNGZMZmdMb1dqa3ZCMnlreWtzbko3MHJhTTVvdVRWNTN3VVY0OEdsV25uSkN0dWlxMkp5dE5mTDRqd1lBdXd5TzNNOFItUmlMRXA2VlVaTVB5Z0NYME56VVh5MlZXNHhFaDdqZzVjR2o5WW5KQ1d1SzBpdVBv?oc=5"
+      },
+      {
+        "rank": 4,
+        "image": "https://i.pcmag.com/imagery/articles/00OOkP3Z99iAHa5Qz7EtsHQ-1.fit_lim.size_1200x630.v1788356076.jpg",
+        "title": "The Best Mobile Networks in America, Ranked - PCMag",
+        "description": "We analyzed more than 2 million speed tests alongside price, coverage, and customer satisfaction data to rank every major wireless carrier and MVNO in 49 states, 19 major cities, and nationwide. Before your phone contract renews, see which network wins where \u2026",
+        "source_link": "https://www.pcmag.com/articles/the-best-mobile-networks-usa-2026"
+      },
+      {
+        "rank": 5,
+        "image": "https://media.wired.com/photos/6a973d9ebb1b14821345f01b/191:100/w_1280,c_limit/AI-Lab-Russian-Mathematicians-Got-AI-Models-to-Communicate-Subconsciously-Business.jpg",
+        "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words - WIRED",
+        "description": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
+        "source_link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/"
+      },
+      {
+        "rank": 6,
         "image": "https://mp1st.com/wp-content/uploads/2026/09/scellf-600x338.png",
         "title": "Report: Early Splinter Cell Remake Screenshots Unearthed, Revealing Environments and Easter Eggs - mp1st.com",
         "description": "Check out early screenshots for the Splinter Cell Remake, revealing our first look at the game's environments and hidden easter eggs.",
         "source_link": "https://mp1st.com/news/report-early-splinter-cell-remake-screenshots-unearthed-revealing-environments-and-easter-eggs"
       },
       {
-        "rank": 2,
-        "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-champions/2026/09/02/pokemon-champions-169-en.png",
-        "title": "Get Ready for Regulation Set M\u2011C in Pok\u00e9mon Champions - Pokemon.com",
-        "description": "More Mega-Evolved Pok\u00e9mon make their return alongside new Z Mega Evolutions.",
-        "source_link": "https://www.pokemon.com/us/news/get-ready-for-regulation-set-m-c-in-pokemon-champions"
-      },
-      {
-        "rank": 3,
-        "image": "https://kotaku.com/app/uploads/2026/09/smith1-1200x675.jpg",
-        "title": "Dishonored's Co-Creator Explains What So Many Games Are Missing - Kotaku",
-        "description": "The co-creator of new studio Black Pony Immersive tells us about defying expectations in the most underserved genre",
-        "source_link": "https://kotaku.com/harvey-smith-interview-black-pony-immersive-sim-dishonored-prey-2000730489"
-      },
-      {
-        "rank": 4,
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XUJVPVHSYFHPVBVL73BK2ZG5ZQ.jpg&w=1200",
-        "title": "\u2018A friend I can trust\u2019: How Americans described their relationship with AI - The Washington Post",
-        "description": "More than a quarter of U.S. adults turn to chatbots for personal or emotional discussions, including for entertainment or social advice, a new survey found.",
-        "source_link": "https://www.washingtonpost.com/technology/interactive/2026/09/02/27-us-adults-turn-ai-personal-emotional-social-queries/"
-      },
-      {
-        "rank": 5,
-        "image": "https://dongknows.com/wp-content/uploads/A-3-pack-UX7-3-of-Ubiquitis-UniFi-Home-Wi-Fi-7-mesh-system-part-of-its-Whole-Home-WiFi-category-featuring-three-UniFi-Express-7-units-in-action.-Note-the-MLO-backhaul-link.jpg",
-        "title": "UniFi Home Wi-Fi 7 (UX7-3) with STR MLO Backhaul Review: Ubiquiti\u2019s True Whole Home WiFi Mesh Is Here! - Dong Knows Tech",
-        "description": "As part of Ubiquiti's new UniFi Whole Home WiFi category, the UniFi Home Wi-Fi 7, availble as 2-pack or 3-pack bundles of the UniFi Express 7 (UX7) now has STR MLO as its powerful backhaul. Check it out!",
-        "source_link": "https://dongknows.com/ux7-3-unifi-home-wi-fi-7-whole-home-wifi-mesh-review/"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.phoronix.net/image.php?id=2026&image=cern_debian_1",
-        "title": "CERN Transitioning To Debian After Being A Longtime RHEL Institution - Phoronix",
-        "description": "CERN, the European Organization for Nuclear Research, besides being well known for its Large Hadron Collider (LHC) is known among longtime Linux users as a RHEL/CentOS shop",
-        "source_link": "https://www.phoronix.com/news/CERN-Goes-Debian-Leaving-RHEL"
-      },
-      {
         "rank": 7,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/smart_thermostat_x2_close_up_frame_lifestyle_1337_00.jpg?quality=90&strip=all&crop=0%2C10.738732648589%2C100%2C78.522534702822&w=1200",
-        "title": "Tado\u2019s new thermostat is designed as a Nest killer - The Verge",
-        "description": "The Smart Thermostat X supports Matter-over-Thread and comes with a more minimalist design.",
-        "source_link": "https://www.theverge.com/tech/987888/tado-smart-thermostat-x-2nd-gen-launch-google-nest"
+        "image": "https://kotaku.com/app/uploads/2026/09/Jason_and_Lucia_03.15z-.jpg",
+        "title": "Rockstar Is Finally Ditching 'Tap X To Sprint' In GTA 6, But Not Everyone Is Happy: 'I\u2019m Honestly A Little Disappointed' - Kotaku",
+        "description": "For some players, this is good news; for others, it's the end of an era",
+        "source_link": "https://kotaku.com/rockstar-is-finally-ditching-tap-x-to-sprint-in-gta-6-but-not-everyone-is-happy-im-honestly-a-little-disappointed-2000730560"
       },
       {
         "rank": 8,
-        "image": "https://images.macrumors.com/t/NpX1fQhYeWjvL0_2pVokzzAqn0g=/2500x/article-new/2026/08/mac-mini-2026-blue.jpg",
-        "title": "Apple's New Mac Mini Already Discounted - See the Pre-Order Deals - MacRumors",
-        "description": "Amazon has introduced the first cash discounts on Apple's brand new Mac mini, with discounts including two of the M6 models as well as the M5 Pro...",
-        "source_link": "https://www.macrumors.com/2026/09/02/pre-order-discounts-mac-mini/"
+        "image": "https://gizmodo.com/app/uploads/2026/09/openAI-sam-neuralese-1200x675.jpg",
+        "title": "This Is the Worst Possible Time for OpenAI to Bf\u04167!\u0645#2\u732b$9&\u0915 - Gizmodo",
+        "description": "While the world braces itself for a new era of rogue AI agents, the company is reportedly dabbling with a risky new technique.",
+        "source_link": "https://gizmodo.com/this-is-the-worst-possible-time-for-openai-to-bf\u04367\u06452\u732b9\u0915-2000806350"
       },
       {
         "rank": 9,
-        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/The_Witcher_Shtriga_3.jpeg",
-        "title": "The Witcher Remake Is Waiting On The Witcher 4 To Continue Development - GameSpot",
-        "description": "Developer Fool's Theory has prioritized work on The Witcher 3: Wild Hunt's Songs of the Past expansion instead.",
-        "source_link": "https://www.gamespot.com/articles/the-witcher-remake-is-waiting-on-the-witcher-4-to-continue-development/"
-      },
-      {
-        "rank": 10,
-        "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/12/a-laptop-screen-displaying-a-grid-of-six-open-source-app-icons.jpg?w=1600&h=900&fit=crop",
-        "title": "I can't believe these 11 Windows apps are free and open-source - MakeUseOf",
-        "description": "Quality apps that don't cost anything.",
-        "source_link": "https://www.makeuseof.com/i-cant-believe-these-11-windows-apps-are-free-and-open-source/"
+        "image": "https://kotaku.com/app/uploads/2026/09/no-rest.jpg",
+        "title": "No Rest For The Wicked Director Calls Video Game Critics Who Have Different Opinions \u2018Untrustworthy\u2019 - Kotaku",
+        "description": "Pay attention, because his new site is 'the one source of truth for gamers'",
+        "source_link": "https://kotaku.com/no-rest-for-the-wicked-thomas-mahler-ori-video-games-critic-2000730551"
       }
     ],
     "trending_movies": [
@@ -104,24 +97,24 @@
       },
       {
         "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
         "title": "LEGO Star Wars: The Mandalorian",
         "description": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adven...",
         "source_link": "https://www.themoviedb.org/movie/1731694"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
         "title": "Coyote vs. Acme",
         "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
         "source_link": "https://www.themoviedb.org/movie/1204680"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
         "rank": 8,
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
-        "title": "The Brink of War",
-        "description": "President Ronald Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals\u2014or ignite disa...",
-        "source_link": "https://www.themoviedb.org/movie/192139"
+        "image": "https://image.tmdb.org/t/p/w200/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
+        "title": "Resident Evil",
+        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
+        "source_link": "https://www.themoviedb.org/movie/1423191"
       }
     ]
   }
