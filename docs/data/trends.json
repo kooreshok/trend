@@ -1,69 +1,69 @@
 {
-  "last_updated": "September 04, 2026, 05:24 UTC",
+  "last_updated": "September 04, 2026, 10:27 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-blood-of-dawnwalker/a/a3/Time_Progression_Tutorial.jpg",
-        "title": "Things to Know Before Starting - ign.com",
-        "description": "The Blood of Dawnwalker might look like other fantasy RPGs at first glance, but there are tons of creative ideas here. Some of the systems can really throw you",
-        "source_link": "https://www.ign.com/wikis/the-blood-of-dawnwalker/Things_to_Know_Before_Starting"
+        "image": null,
+        "title": "Exclusive | Can Evan Spiegel Sell the World on $2,195 Smart Glasses? - WSJ",
+        "description": null,
+        "source_link": "https://www.wsj.com/tech/can-evan-spiegel-sell-the-world-on-2-195-smart-glasses-3fb9b8ca"
       },
       {
         "rank": 2,
+        "image": "https://helios-i.mashable.com/imagery/articles/06tGFhLKvLFIPb9VrneTQiQ/hero-image.fill.size_1200x675.v1788289465.jpg",
+        "title": "'GTA 6' on PS5 vs Xbox: Key differences to consider - Mashable",
+        "description": "The extended look that premiered on Netflix was played on a PS5. But will Xbox be able to play the game equally well?",
+        "source_link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-xbox-series-x-s-playstation-differences"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.nintendolife.com/db0537762ea0f/large.jpg",
+        "title": "Nintendo Switch App Update Adds Some Handy New Features - Nintendo Life",
+        "description": "Download it today",
+        "source_link": "https://www.nintendolife.com/news/2026/09/nintendo-switch-app-update-adds-some-handy-new-features"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/09/Lollipop-Chainsaw-Next_09-02-26_Top.jpg",
+        "title": "New Lollipop Chainsaw game playable at TGS 2026 - gematsu.com",
+        "description": "The new Lollipop Chainsaw game first announced in July 2025 will be playable at Tokyo Game Show 2026, which will run from September 17 to 21 at Makuhari Messe in Chiba, Japan, publisher Dragami Gam\u2026",
+        "source_link": "https://www.gematsu.com/2026/09/new-lollipop-chainsaw-game-playable-at-tgs-2026"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.dsogaming.com/wp-content/uploads/2026/04/The-Blood-of-Dawnwalker-feature-3.jpg",
+        "title": "The Blood of Dawnwalker Suffers From Major Stutters and a 30FPS Cinematic Cap - DSOGaming",
+        "description": "Bandai Namco has just released The Blood of Dawnwalker, which uses Unreal Engine 5. And sadly, the game suffers from major stuttering issues.",
+        "source_link": "https://www.dsogaming.com/news/the-blood-of-dawnwalker-suffers-from-major-stutters-and-a-30fps-cinematic-cap/"
+      },
+      {
+        "rank": 6,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Alienware-QD-OLED-Gaming-Monitors-1920x1080.jpg",
+        "title": "Alienware Debuts 32\u2033 AW3226K 4K Monitor With RGB Stripe Tandem OLED While Its 25\u2033 AW2527HX Takes QD-OLED Refresh Rate To 560Hz - Wccftech",
+        "description": "Alienware has introduced two new options within its QD-OLED Gaming lineup, the 32 AW3226K and the 25 AW2527HX monitors.",
+        "source_link": "https://wccftech.com/alienware-aw3226k-4k-monitor-rgb-stripe-tandem-oled-aw2527hx-qd-oled-560hz/"
+      },
+      {
+        "rank": 7,
         "image": "https://image.cnbcfm.com/api/v1/image/102086320-mad-money-lightning-2.jpg?v=1698277418&w=1920&h=1080",
         "title": "Cramer's lightning round: Buy Howmet Aerospace - CNBC",
         "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
         "source_link": "https://www.cnbc.com/2026/09/02/cramers-lightning-round-buy-howmet-aerospace.html"
       },
       {
-        "rank": 3,
+        "rank": 8,
+        "image": "https://kotaku.com/app/uploads/2026/09/witcher-3-cyberpunk.jpg",
+        "title": "The Witcher 3 Remastered Isn't Pulling Punches: 'When We Think About This Remaster, It's Almost Like A 2.0 Overhaul' - Kotaku",
+        "description": "Just calling it a 'remaster' might not do justice to what CDPR has planned",
+        "source_link": "https://kotaku.com/the-witcher-3-remastered-isnt-pulling-punches-when-we-think-about-this-remaster-its-almost-like-a-2-0-overhaul-2000730636"
+      },
+      {
+        "rank": 9,
         "image": "https://kotaku.com/app/uploads/2024/05/75ce5c0109c9b51e3fb6b72e1a94160d.jpg",
         "title": "Resident Evil 2 Director Says Capcom Is Making Current Resident Evil Games Too Damn Scary - Kotaku",
         "description": "Mood, MOOD!",
         "source_link": "https://kotaku.com/resident-evil-too-scary-resident-evil-2-hideki-kamiya-2000730624"
-      },
-      {
-        "rank": 4,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Apple-A20-Pro.jpg",
-        "title": "Apple\u2019s A20 Pro Front Side Die Shot Shows New Record For GPU Core Count To Deliver Better Graphics Performance, New Packaging Allows For Increased Memory Bus Width - Wccftech",
-        "description": "A leaked Apple A20 Pro die shot reveals a record GPU core count for upgraded graphics, while new WMCM packaging unlocks a wider 96-bit memory bus width",
-        "source_link": "https://wccftech.com/apple-a20-pro-die-shot-record-gpu-cores-wider-memory-bus/"
-      },
-      {
-        "rank": 5,
-        "image": "https://kotaku.com/app/uploads/2026/09/geralt-1200x675.jpg",
-        "title": "The Witcher 3's Quest Designer And The Voice Of Geralt Tell Us What To Expect From Its Unexpected Final Expansion - Kotaku",
-        "description": "Doug Cockle and Pawel Sasko reveal what awaits players in Geralt\u2019s unlikely return",
-        "source_link": "https://kotaku.com/the-witcher-3s-quest-designer-and-the-voice-of-geralt-tell-us-what-to-expect-from-its-unexpected-final-expansion-2000730565"
-      },
-      {
-        "rank": 6,
-        "image": "https://s.yimg.com/lo/mysterio/api/a0ea0b8af5c462ff72c15b3b0998efb5365fb794cbae87b04ac14468ef626734/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsvg_articles_291%2F07ba0a837f14299988a301c3044ff5b8.jpg",
-        "title": "GTA 6's Lucia And Jason Are Already Sparking TikTok Arguments - Yahoo",
-        "description": "Couples are arguing online about how spending time cultivating Jason and Lucia's relationship in GTA 6 is equivalent to cheating in a real-life relationship.",
-        "source_link": "https://www.svg.com/2249883/gta-6-lucia-jason-tiktok-cheating-arguments/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.cnet.com/wp-content/uploads/sites/2/acer-project-dualplay-mini.jpg",
-        "title": "Acer Shows Off a Transformer-ish Concept for a Windows Gaming Handheld - CNET",
-        "description": "If it's going to do double duty as a computer, it might as well have a keyboard, right?",
-        "source_link": "https://www.cnet.com/tech/gaming/acer-shows-off-a-transformer-ish-concept-for-a-windows-gaming-handheld/"
-      },
-      {
-        "rank": 8,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/dell-14s-macbook-neo-rival-1.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Dell's new 14S laptop exists to challenge MacBook Neo and, somehow, might be even cheaper - 9to5Google",
-        "description": "Apple\u2019s MacBook Neo has made waves in the laptop world because it\u2019s a remarkably well-built and reliable laptop at a...",
-        "source_link": "http://9to5google.com/2026/09/02/dell-14s-laptop-announcement/"
-      },
-      {
-        "rank": 9,
-        "image": "https://assets-prd.ignimgs.com/2026/09/02/wdblacksn8502-1788367331109.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "The Officially Licensed WD Black 1TB PlayStation 5 SSD Just Dropped to the Lowest Price of the Year - ign.com",
-        "description": "Brand new with 5 year WD warranty.",
-        "source_link": "https://www.ign.com/articles/wd-black-1tb-playstation-5-ssd-deal-september-2026"
       }
     ],
     "trending_movies": [
@@ -76,24 +76,24 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
-        "title": "Gandhari",
-        "description": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible....",
-        "source_link": "https://www.themoviedb.org/movie/1355228"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
         "title": "Clash of the Thundermans",
         "description": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abili...",
         "source_link": "https://www.themoviedb.org/movie/1506560"
       },
       {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+        "title": "Gandhari",
+        "description": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible....",
+        "source_link": "https://www.themoviedb.org/movie/1355228"
+      },
+      {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
-        "title": "Coyote vs. Acme",
-        "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
-        "source_link": "https://www.themoviedb.org/movie/1204680"
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
         "rank": 5,
@@ -111,10 +111,10 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
+        "image": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+        "title": "Coyote vs. Acme",
+        "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
+        "source_link": "https://www.themoviedb.org/movie/1204680"
       },
       {
         "rank": 8,
