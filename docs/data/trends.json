@@ -1,76 +1,69 @@
 {
-  "last_updated": "September 04, 2026, 00:40 UTC",
+  "last_updated": "September 04, 2026, 05:24 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://assets-prd.ignimgs.com/2025/10/30/scream7trailer-ign-blogroll1-1761830241024.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Unreleased Scream Game Surfaces Online Following Steam Leak - ign.com",
-        "description": "An unreleased Scream game has found its way online thanks to the recent Steam leak.",
-        "source_link": "https://www.ign.com/articles/a-playable-build-of-an-unreleased-scream-game-has-surfaced-thanks-to-the-steam-leak"
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/the-blood-of-dawnwalker/a/a3/Time_Progression_Tutorial.jpg",
+        "title": "Things to Know Before Starting - ign.com",
+        "description": "The Blood of Dawnwalker might look like other fantasy RPGs at first glance, but there are tons of creative ideas here. Some of the systems can really throw you",
+        "source_link": "https://www.ign.com/wikis/the-blood-of-dawnwalker/Things_to_Know_Before_Starting"
       },
       {
         "rank": 2,
-        "image": "https://images.purexbox.com/9bf01d8752de2/large.jpg",
-        "title": "PSA: Some Versions Of The Same Game Aren't Compatible With Xbox Disc To Digital - Pure Xbox",
-        "description": "Battlefield 4 confirmed to be affected by this",
-        "source_link": "https://www.purexbox.com/news/2026/09/psa-some-versions-of-the-same-game-arent-compatible-with-xbox-disc-to-digital"
+        "image": "https://image.cnbcfm.com/api/v1/image/102086320-mad-money-lightning-2.jpg?v=1698277418&w=1920&h=1080",
+        "title": "Cramer's lightning round: Buy Howmet Aerospace - CNBC",
+        "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+        "source_link": "https://www.cnbc.com/2026/09/02/cramers-lightning-round-buy-howmet-aerospace.html"
       },
       {
         "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2024/05/75ce5c0109c9b51e3fb6b72e1a94160d.jpg",
+        "title": "Resident Evil 2 Director Says Capcom Is Making Current Resident Evil Games Too Damn Scary - Kotaku",
+        "description": "Mood, MOOD!",
+        "source_link": "https://kotaku.com/resident-evil-too-scary-resident-evil-2-hideki-kamiya-2000730624"
+      },
+      {
+        "rank": 4,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Apple-A20-Pro.jpg",
+        "title": "Apple\u2019s A20 Pro Front Side Die Shot Shows New Record For GPU Core Count To Deliver Better Graphics Performance, New Packaging Allows For Increased Memory Bus Width - Wccftech",
+        "description": "A leaked Apple A20 Pro die shot reveals a record GPU core count for upgraded graphics, while new WMCM packaging unlocks a wider 96-bit memory bus width",
+        "source_link": "https://wccftech.com/apple-a20-pro-die-shot-record-gpu-cores-wider-memory-bus/"
+      },
+      {
+        "rank": 5,
+        "image": "https://kotaku.com/app/uploads/2026/09/geralt-1200x675.jpg",
+        "title": "The Witcher 3's Quest Designer And The Voice Of Geralt Tell Us What To Expect From Its Unexpected Final Expansion - Kotaku",
+        "description": "Doug Cockle and Pawel Sasko reveal what awaits players in Geralt\u2019s unlikely return",
+        "source_link": "https://kotaku.com/the-witcher-3s-quest-designer-and-the-voice-of-geralt-tell-us-what-to-expect-from-its-unexpected-final-expansion-2000730565"
+      },
+      {
+        "rank": 6,
+        "image": "https://s.yimg.com/lo/mysterio/api/a0ea0b8af5c462ff72c15b3b0998efb5365fb794cbae87b04ac14468ef626734/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsvg_articles_291%2F07ba0a837f14299988a301c3044ff5b8.jpg",
+        "title": "GTA 6's Lucia And Jason Are Already Sparking TikTok Arguments - Yahoo",
+        "description": "Couples are arguing online about how spending time cultivating Jason and Lucia's relationship in GTA 6 is equivalent to cheating in a real-life relationship.",
+        "source_link": "https://www.svg.com/2249883/gta-6-lucia-jason-tiktok-cheating-arguments/"
+      },
+      {
+        "rank": 7,
         "image": "https://www.cnet.com/wp-content/uploads/sites/2/acer-project-dualplay-mini.jpg",
         "title": "Acer Shows Off a Transformer-ish Concept for a Windows Gaming Handheld - CNET",
         "description": "If it's going to do double duty as a computer, it might as well have a keyboard, right?",
         "source_link": "https://www.cnet.com/tech/gaming/acer-shows-off-a-transformer-ish-concept-for-a-windows-gaming-handheld/"
       },
       {
-        "rank": 4,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-camera-array.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "iPhone 18 Pro will have three upgrades that have been rumored for years - 9to5Mac",
-        "description": "iPhone 18 Pro launches next week, and expected to feature three upgrades that have been rumored for years. Here\u2019s what\u2019s coming.",
-        "source_link": "https://9to5mac.com/2026/09/02/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/"
-      },
-      {
-        "rank": 5,
-        "image": "https://media.wired.com/photos/6a973d9ebb1b14821345f01b/191:100/w_1280,c_limit/AI-Lab-Russian-Mathematicians-Got-AI-Models-to-Communicate-Subconsciously-Business.jpg",
-        "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words - WIRED",
-        "description": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
-        "source_link": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/"
-      },
-      {
-        "rank": 6,
-        "image": "https://helios-i.mashable.com/imagery/articles/06tGFhLKvLFIPb9VrneTQiQ/hero-image.fill.size_1200x675.v1788289465.jpg",
-        "title": "'GTA 6' on PS5 vs Xbox: Key differences to consider - Mashable",
-        "description": "The extended look that premiered on Netflix was played on a PS5. But will Xbox be able to play the game equally well?",
-        "source_link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-xbox-series-x-s-playstation-differences"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/ace-combat-8_S9S0TTA.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Ace Combat 8 reveals live service online multiplayer modes that include PvE, PvP, PvPvE battles, and a hangout space - Eurogamer.net",
-        "description": "Bandai Namco has revealed the full scope of its Ace Combat Online online modes, including PvP, PvE, and a social space for player avatars.",
-        "source_link": "https://www.eurogamer.net/ace-combat-8-online-modes-social-space-revealed"
-      },
-      {
         "rank": 8,
-        "image": "https://kotaku.com/app/uploads/2026/09/smith1-1200x675.jpg",
-        "title": "Dishonored's Co-Creator Explains What So Many Games Are Missing - Kotaku",
-        "description": "The co-creator of new studio Black Pony Immersive tells us about defying expectations in the most underserved genre",
-        "source_link": "https://kotaku.com/harvey-smith-interview-black-pony-immersive-sim-dishonored-prey-2000730489"
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/dell-14s-macbook-neo-rival-1.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Dell's new 14S laptop exists to challenge MacBook Neo and, somehow, might be even cheaper - 9to5Google",
+        "description": "Apple\u2019s MacBook Neo has made waves in the laptop world because it\u2019s a remarkably well-built and reliable laptop at a...",
+        "source_link": "http://9to5google.com/2026/09/02/dell-14s-laptop-announcement/"
       },
       {
         "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/nvida-dlss-5.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Nvidia's controversial, face-changing, gen-AI DLSS 5 tech releases tomorrow for one game, and seems to tank frame-rates - Eurogamer.net",
-        "description": "If you own a 50-series GeForce graphics card or laptop, or use GeForce Now, you can try Nvidia's controversial new DLSS 5 tech this week.",
-        "source_link": "https://www.eurogamer.net/dlss-5-release-date-nvidia-nba-2k7-frame-rate"
-      },
-      {
-        "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2255012715.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Google is sending MrBeast into the wilderness, armed with AI - The Verge",
-        "description": "YouTuber Jimmy \u201cMrBeast\u201d Donaldson will feature Gemini, Google Health, and the Fitbit Air in his videos as part of a multi-year deal with Google.",
-        "source_link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit"
+        "image": "https://assets-prd.ignimgs.com/2026/09/02/wdblacksn8502-1788367331109.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "The Officially Licensed WD Black 1TB PlayStation 5 SSD Just Dropped to the Lowest Price of the Year - ign.com",
+        "description": "Brand new with 5 year WD warranty.",
+        "source_link": "https://www.ign.com/articles/wd-black-1tb-playstation-5-ssd-deal-september-2026"
       }
     ],
     "trending_movies": [
@@ -83,66 +76,66 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
-        "title": "Clash of the Thundermans",
-        "description": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abili...",
-        "source_link": "https://www.themoviedb.org/movie/1506560"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
         "title": "Gandhari",
         "description": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible....",
         "source_link": "https://www.themoviedb.org/movie/1355228"
       },
       {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+        "title": "Clash of the Thundermans",
+        "description": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abili...",
+        "source_link": "https://www.themoviedb.org/movie/1506560"
+      },
+      {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
         "title": "Coyote vs. Acme",
         "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
         "source_link": "https://www.themoviedb.org/movie/1204680"
       },
       {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
         "title": "LEGO Star Wars: The Mandalorian",
         "description": "The Mandalorian and Grogu join their misfit allies for an epic party, celebrating their heroism. As friends regale the crowd with tales of their adven...",
         "source_link": "https://www.themoviedb.org/movie/1731694"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
         "title": "The Whisper Man",
         "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the ca...",
         "source_link": "https://www.themoviedb.org/movie/860508"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/uhzRnTW4DM13UQBvZP3eVNzQTuz.jpg",
-        "title": "Supergirl",
-        "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion o...",
-        "source_link": "https://www.themoviedb.org/movie/1081003"
-      },
-      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
-        "title": "Resident Evil",
-        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
-        "source_link": "https://www.themoviedb.org/movie/1423191"
+        "image": "https://image.tmdb.org/t/p/w200/sY65bOZcjQqO6VdpOXLN5VcW61e.jpg",
+        "title": "Fall 2: Deadpoint",
+        "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, shee...",
+        "source_link": "https://www.themoviedb.org/movie/1101412"
       }
     ]
   }
