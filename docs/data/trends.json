@@ -1,69 +1,76 @@
 {
-  "last_updated": "September 05, 2026, 14:27 UTC",
+  "last_updated": "September 05, 2026, 17:04 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-09-04-at-1.23.51-PM.png",
-        "title": "All the Weirdest, Wildest Tech We Found at IFA 2026 - CNET",
-        "description": "From intimate AI companions to feline food processors, here\u2019s what made us do a double take at the tech expo in Berlin.",
-        "source_link": "https://www.cnet.com/tech/the-weirdest-and-wackiest-tech-we-found-at-ifa-2026/"
+        "image": "https://assets-prd.ignimgs.com/2023/05/10/faceoff-zelda-blogroll-01-1683736595052.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Nintendo Confirms 2 Nintendo Direct Broadcasts for Next Week, Including a Dedicated Legend of Zelda 40th Anniversary Broadcast - ign.com",
+        "description": "Nintendo has announced a pair of Nintendo Direct broadcasts for next week, including a dedicated Legend of Zelda 40th Anniversary showcase.",
+        "source_link": "https://www.ign.com/articles/nintendo-confirms-2-nintendo-direct-broadcasts-for-next-week-including-a-dedicated-legend-of-zelda-40th-anniversary-broadcast"
       },
       {
         "rank": 2,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igD2ab0tfrVk/v1/1200x800.jpg",
+        "title": "Apple to Kick Off Ternus Era With Its Biggest-Ever Slate of New Products - bloomberg.com",
+        "description": "From the foldable iPhone to a touch-screen MacBook, here\u2019s what to expect on Sept. 9 and beyond.",
+        "source_link": "https://www.bloomberg.com/news/articles/2026-09-04/what-to-expect-at-sept-9-apple-event-foldable-iphone-iphone-18-pro-watch"
+      },
+      {
+        "rank": 3,
+        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/09_exodus_tga_2025.jpg?w=1600&h=900&fit=crop",
+        "title": "After 2 Hours, Exodus Feels Like the Second Coming of Mass Effect - Polygon.com",
+        "description": "Exodus, the debut space sci-fi action RPG of Archetype Entertainment, is the Mass Effect replacement we've been waiting for.",
+        "source_link": "https://www.polygon.com/exodus-preview-hands-on/"
+      },
+      {
+        "rank": 4,
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/067c/live/895a4a20-a84d-11f1-80f8-c33181935c5a.jpg",
+        "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers - bbc.com",
+        "description": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
+        "source_link": "https://www.bbc.com/news/articles/cj06zd4l99lo"
+      },
+      {
+        "rank": 5,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Fairphone-6-8-1152x648.jpg",
         "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+. - Ars Technica",
         "description": "Fairphone's CTO explains how and why the Dutch company builds a different kind of smartphone.",
         "source_link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/projectzenith.jpg?quality=90&strip=all&crop=0%2C10.435506901475%2C100%2C79.128986197049&w=1200",
+        "title": "Microsoft\u2019s Project Zenith is a \u201cdistraction-free Windows experience\u201d for developers - The Verge",
+        "description": "Microsoft is launching new developer-focused devices that have a customized Windows install. It\u2019s designed to create a distraction-free Windows 11 for devs.",
+        "source_link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers"
+      },
+      {
+        "rank": 7,
+        "image": "https://images.macrumors.com/t/MmGO09OKRksbI4LCNJoltf9BkrA=/2321x/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg",
+        "title": "iPhone Ultra Production Hitting Just 'a Few Hundred' a Day, Says Nikkei - MacRumors",
+        "description": "Apple last month only managed to produce \"a few hundred units a day\" of its upcoming foldable iPhone because of the company's extremely...",
+        "source_link": "https://www.macrumors.com/2026/09/04/iphone-ultra-production-extremely-limited/"
+      },
+      {
+        "rank": 8,
+        "image": "https://cdn.videocardz.com/1/2026/09/AMD-THREADRIPPER-HALO-WORKSTATION-1.webp",
+        "title": "AMD Threadripper Halo Station packs 96-core CPU and Instinct MI350P GPUs, up to 576GB GPU memory and 2TB system memory - VideoCardz.com",
+        "description": "AMD has shown its Threadripper Halo Station with a 96-core CPU, two Instinct MI350P GPUs and 2TB of system memory. The design is planned to support four GPUs with 576GB HBM3E.",
+        "source_link": "https://videocardz.com/newz/amd-threadripper-halo-station-packs-96-core-cpu-and-instinct-mi350p-gpus-up-to-576gb-gpu-memory-and-2tb-system-memory"
+      },
+      {
+        "rank": 9,
         "image": "https://ychef.files.bbci.co.uk/624x351/p0p7yxkj.jpg",
         "title": "The 300-year-old tool helping stranded astronauts get home - BBC",
         "description": "An old seafaring instrument could help astronauts on ever more far-flung and perilous missions.",
         "source_link": "https://www.bbc.com/future/article/20260903-the-300-year-old-instrument-that-could-save-stranded-astronauts"
       },
       {
-        "rank": 4,
-        "image": "https://www.techpowerup.com/img/ODqupQpUHTjnqGWw.jpg",
-        "title": "NVIDIA Confirms DLSS 5 for GeForce RTX 40-Series is Coming - TechPowerUp",
-        "description": "NVIDIA has officially confirmed that the company is working to bring DLSS 5 neural rendering to the previous-generation GeForce RTX 40-Series \"Ada Lovelace.\" Previously, it was believed that DLSS 5 technology would be exclusive to the latest GeForce RTX 50-Se\u2026",
-        "source_link": "https://www.techpowerup.com/352330/nvidia-confirms-dlss-5-for-geforce-rtx-40-series-is-coming"
-      },
-      {
-        "rank": 5,
-        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/starcraft-zerg.jpg?w=1600&h=900&fit=crop",
-        "title": "Blizzard Officially Starts Teasing StarCraft News with Cryptic Secret Messages - Polygon.com",
-        "description": "Amid StarCraft 3 reports, Blizzard has started teasing a new StarCraft project the week before BlizzCon 2026.",
-        "source_link": "https://www.polygon.com/starcraft-teaser-blizzard-blizzcon-2026/"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/maxresdefault.webp",
-        "title": "Watch The AMD IFA Opening Keynote Live Here \u2013 Consumer-Tech, Ryzen AI MAX 400 Launch & More - Wccftech",
-        "description": "AMD's Jack Huynh to present The Era of Personal AI keynote at IFA 2026, highlighting Ryzen AI MAX 400 and FSR Diamond advancements.",
-        "source_link": "https://wccftech.com/watch-amd-ifa-2026-opening-keynote-live-here/"
-      },
-      {
-        "rank": 7,
-        "image": "https://gizmodo.com/app/uploads/2026/09/magic-the-gathering-zeta-set-thought-scour-crop-1200x675.jpg",
-        "title": "\u2018Magic: The Gathering\u2019 Zeta Set Drop Was a \u2018Disaster,\u2019 Says Wizards of the Coast - Gizmodo",
-        "description": "The Secret Lair platform is no stranger to botched sales, but this one was particularly bad.",
-        "source_link": "https://gizmodo.com/magic-the-gathering-zeta-set-drop-was-a-disaster-says-wizards-of-the-coast-2000806927"
-      },
-      {
-        "rank": 8,
-        "image": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/09/03/c3df146d/xbox-cloud-gaming-1.jpg.webp",
-        "title": "Xbox Announces Monthly Hour Limits To Cloud Gaming Are Coming In November - Game Informer",
-        "description": "Game Pass subscribers can now only use cloud gaming for a limited number of hours each month. - Game Informer",
-        "source_link": "https://gameinformer.com/2026/09/03/xbox-announces-monthly-hour-limits-to-cloud-gaming-are-coming-in-november"
-      },
-      {
-        "rank": 9,
-        "image": "https://bespinbulletin.com/wp-content/uploads/2026/06/Gp9LRQ5awAUvNCU-copy.webp",
-        "title": "First Star Wars Zero Company Patch Coming Next Week - Bespin Bulletin",
-        "description": "The first post launch patch for Star Wars Zero Company is coming very soon. EA Star Wars has finally shared some information about an update and what it will address. This news comes after some radio silence from the studio and publisher of Zero Company in re\u2026",
-        "source_link": "https://bespinbulletin.com/first-star-wars-zero-company-patch-coming-next-week/"
+        "rank": 10,
+        "image": "https://www.topgear.com/sites/default/files/images/news-article/2026/09/e1b1e8a77ec60b8e01e2fcf1bd8bace9/GTX-1.jpg?w=1280&h=720",
+        "title": "The Jensen Interceptor GTX is a new V8 track-only monster (for now)\u2026 - Top Gear",
+        "description": "Reborn Sixties super-GT has supercharged American firepower and plans for an entire Interceptor family",
+        "source_link": "https://www.topgear.com/car-news/first-look/jensen-interceptor-gtx-a-new-v8-track-only-monster-now"
       }
     ],
     "trending_movies": [
@@ -83,10 +90,10 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
+        "image": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
+        "title": "Coyote vs. Acme",
+        "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
+        "source_link": "https://www.themoviedb.org/movie/1204680"
       },
       {
         "rank": 4,
@@ -97,10 +104,10 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
-        "title": "Coyote vs. Acme",
-        "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
-        "source_link": "https://www.themoviedb.org/movie/1204680"
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
         "rank": 6,
@@ -111,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/9VWplgfRcYkUao9QGQXUP3rWQK7.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
         "title": "The Whisper Man",
         "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the ca...",
         "source_link": "https://www.themoviedb.org/movie/860508"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/aF3IhwS1mrVfvM9OMXmTaXAT0l8.jpg",
         "title": "Gandhari",
         "description": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible....",
         "source_link": "https://www.themoviedb.org/movie/1355228"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+        "title": "Clash of the Thundermans",
+        "description": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abili...",
+        "source_link": "https://www.themoviedb.org/movie/1506560"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-        "title": "Backrooms",
-        "description": "A strange doorway appears in the basement of a furniture showroom....",
-        "source_link": "https://www.themoviedb.org/movie/1083381"
+        "image": "https://image.tmdb.org/t/p/w200/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+        "title": "Mutiny",
+        "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' d...",
+        "source_link": "https://www.themoviedb.org/movie/1288445"
       }
     ]
   }
