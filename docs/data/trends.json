@@ -1,55 +1,69 @@
 {
-  "last_updated": "September 04, 2026, 23:39 UTC",
+  "last_updated": "September 05, 2026, 02:40 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://gizmodo.com/app/uploads/2026/09/magic-the-gathering-zeta-set-thought-scour-crop-1200x675.jpg",
+        "title": "\u2018Magic: The Gathering\u2019 Zeta Set Drop Was a \u2018Disaster,\u2019 Says Wizards of the Coast - Gizmodo",
+        "description": "The Secret Lair platform is no stranger to botched sales, but this one was particularly bad.",
+        "source_link": "https://gizmodo.com/magic-the-gathering-zeta-set-drop-was-a-disaster-says-wizards-of-the-coast-2000806927"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ugreen1.jpg?quality=90&strip=all&crop=0%2C10.776325370133%2C100%2C78.447349259734&w=1200",
+        "title": "You can watch the coolant flow inside Ugreen\u2019s liquid-cooled power bank - The Verge",
+        "description": "Ugreen claims its new MagFlow Pro Magnetic Power Bank is the world\u2019s first with a liquid cooling system to reduce heat buildup and prolong the battery\u2019s life.",
+        "source_link": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling"
+      },
+      {
+        "rank": 3,
         "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Android-Motion-Assist-cover.jpg?quality=82&strip=all&resize=1200,628",
         "title": "How to check if Motion Assist has rolled out to your Android 17 phone - 9to5Google",
         "description": "Following the announcement on Tuesday, Google is slowly rolling out Motion Assist to phones running Android 17.",
         "source_link": "http://9to5google.com/2026/09/03/android-motion-assist-rollout/"
       },
       {
-        "rank": 2,
-        "image": "https://www.notateslaapp.com/img/containers/article_images/2026/automatic-collision-avoidance.webp/8013c2da185d86def59682bdf1c7cddf/automatic-collision-avoidance.jpg",
-        "title": "Tesla Introduces 'Automatic Collision Evasion' for Manual Drives - Not a Tesla App",
-        "description": "Tesla has quietly added a major new active safety capability to its vehicles, turning its autonomous driving software into an emergency crash-prevention tool",
-        "source_link": "https://www.notateslaapp.com/news/4646/tesla-adds-fsd-automatic-collision-evasion-for-manual-drives"
+        "rank": 4,
+        "image": "https://www.cnet.com/wp-content/uploads/sites/2/26413.jpeg",
+        "title": "The Weirdest and Wackiest Tech We Found at IFA 2026 - CNET",
+        "description": "From AI intimate companions to a smartphone for your dog, here\u2019s what raised our eyebrows the most at this year\u2019s IFA.",
+        "source_link": "https://www.cnet.com/tech/the-weirdest-and-wackiest-tech-we-found-at-ifa-2026/"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://images.macrumors.com/t/J0ptTP3I4NtS5Xon_otDDCTHiHo=/2311x/article-new/2026/09/iPhone-Ultra-Final-Rumors-Thumb.jpg",
         "title": "Foldable iPhone Ultra: The Latest Rumors Before Apple's Event - MacRumors",
         "description": "We're less than a week away from the debut of Apple's first foldable iPhone, and rumors have been picking up as the event date approaches....",
         "source_link": "https://www.macrumors.com/2026/09/03/iphone-ultra-latest-rumors/"
       },
       {
-        "rank": 4,
-        "image": "https://images.ctfassets.net/ryplwhabvmmk/ranSldsrQrYeXbqnZeoG7/c12353bae9c1581c36b61cb8adda15f6/EOE-Icetille-Explorer-960x540.jpg",
-        "title": "Metagame Mentor: The Top Standard Decks for September 2026's RCQs - magic.gg",
-        "description": "Mono-Green Landfall continues to define the metagame, but new contenders have risen to face the onslaught of rumbling Forests. Here's what to expect at the upcoming Standard RCQs!",
-        "source_link": "https://www.magic.gg/news/metagame-mentor-the-top-standard-decks-for-september-2026s-rcqs"
+        "rank": 6,
+        "image": "https://images.pushsquare.com/8ed799038a8ea/large.jpg",
+        "title": "Ratchet & Clank's PS5 Re-Release Will Have a Platinum Trophy When It Comes to PS Plus Premium - Push Square",
+        "description": "Another reason to replay",
+        "source_link": "https://www.pushsquare.com/news/2026/09/ratchet-and-clanks-ps5-re-release-will-have-a-platinum-trophy-when-it-comes-to-ps-plus-premium"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "image": "https://www.videogameschronicle.com/files/2026/06/a845e05e5b72d1139b526eb826ed026865972e40.jpg",
         "title": "UK PS5 and Xbox sales jumped by a third following GTA 6\u2019s Netflix reveal - Video Games Chronicle",
         "description": "PS5 sales were up 33% on GTA 6's reveal week",
         "source_link": "https://www.videogameschronicle.com/news/uk-ps5-and-xbox-sales-tripled-following-gta-6s-netflix-reveal/"
       },
       {
-        "rank": 6,
-        "image": null,
-        "title": "1Password Users Flee Platform After $300,000 Donation. Should You Run, Too? - All About Cookies",
-        "description": null,
-        "source_link": "https://allaboutcookies.org/1password-linux-donation-controversy"
+        "rank": 8,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmobile.jpg?quality=90&strip=all&crop=0,3.4801106327551,100,93.03977873449",
+        "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option - The Verge",
+        "description": "Microsoft is trying once again to tempt people without an Xbox into its ecosystem.",
+        "source_link": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option"
       },
       {
-        "rank": 7,
-        "image": "https://image.cnbcfm.com/api/v1/image/108358445-1788447829721-gettyimages-2291589796-GERMANY_GAMESCOM.jpeg?v=1788447870&w=1920&h=1080",
-        "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb - CNBC",
-        "description": "Xbox Game Pass subscribers will have cloud gaming capped starting in November.",
-        "source_link": "https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html"
+        "rank": 9,
+        "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g90/youtube/c9V5ugavBQU.jpg",
+        "title": "NIS America Announces The Eminence in Shadow: Phantom Echoes Game - Anime News Network",
+        "description": "Game launches for PS5, Switch 2, PC in 2027 // NIS America announced during Sony's State of Play livestream on Thursday The Eminence in Shadow: Phantom Echoes,...",
+        "source_link": "https://www.animenewsnetwork.com/news/2026-09-03/nis-america-announces-the-eminence-in-shadow-phantom-echoes-game/.241316"
       }
     ],
     "trending_movies": [
@@ -62,45 +76,45 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
-        "title": "Gandhari",
-        "description": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible....",
-        "source_link": "https://www.themoviedb.org/movie/1355228"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
-        "title": "Clash of the Thundermans",
-        "description": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abili...",
-        "source_link": "https://www.themoviedb.org/movie/1506560"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
-        "rank": 6,
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+        "title": "Gandhari",
+        "description": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible....",
+        "source_link": "https://www.themoviedb.org/movie/1355228"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
         "title": "Coyote vs. Acme",
         "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
         "source_link": "https://www.themoviedb.org/movie/1204680"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+        "title": "Clash of the Thundermans",
+        "description": "When Chloe develops a destructive new superpower, the Hero League orders her to an elite boarding school for superheroes to learn control of her abili...",
+        "source_link": "https://www.themoviedb.org/movie/1506560"
       },
       {
         "rank": 8,
@@ -111,17 +125,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
+        "image": "https://image.tmdb.org/t/p/w200/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
+        "title": "Buddy",
+        "description": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented....",
+        "source_link": "https://www.themoviedb.org/movie/1514026"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-        "title": "Mutiny",
-        "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' d...",
-        "source_link": "https://www.themoviedb.org/movie/1288445"
+        "image": "https://image.tmdb.org/t/p/w200/9VWplgfRcYkUao9QGQXUP3rWQK7.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
       }
     ]
   }
