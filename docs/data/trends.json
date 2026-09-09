@@ -1,69 +1,76 @@
 {
-  "last_updated": "September 09, 2026, 12:40 UTC",
+  "last_updated": "September 09, 2026, 16:59 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/apple-memorial-day-2026-deals.jpg?c=16x9&q=w_800,c_fill",
+        "title": "Labor Day is a great time to save on MacBooks, iPads, AirPods and Apple Watches - CNN",
+        "description": "Apple products like AirPods, iPads, MacBooks and official accessories are on sale during the final hours of Labor Day weekend.",
+        "source_link": "https://www.cnn.com/cnn-underscored/deals/apple-labor-day-sale-2026-09-07"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EMOEHPMXIYYLUNDN4JYLOO4CXQ_size-normalized.JPG&w=1440",
+        "title": "Walking an extra 1,000 steps a day may help your heart, study finds - The Washington Post",
+        "description": "Here\u2019s the latest science on how many steps you actually need every day.",
+        "source_link": "https://www.washingtonpost.com/wellness/2026/09/08/new-science-why-you-should-take-an-extra-1000-steps-today/"
+      },
+      {
+        "rank": 3,
+        "image": "https://s.yimg.com/lo/mysterio/api/e4946dc65284e97b411ef1c038538e922cb24a010dedf5b62c879f07b0d8528a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2Fa9ca2250-3026-40a6-b589-8aab51dc26ce",
+        "title": "Apple\u2019s new CEO John Ternus expected to debut foldable iPhone at event Wednesday - Yahoo Finance",
+        "description": "Apple will kick off a new era on Wednesday when CEO John Ternus takes the stage for the first time for the company\u2019s annual iPhone launch event.",
+        "source_link": "https://finance.yahoo.com/technology/article/apples-new-ceo-john-ternus-expected-to-debut-foldable-iphone-at-event-wednesday-132214684.html"
+      },
+      {
+        "rank": 4,
+        "image": "https://assets.warhammer-community.com/articles/0-2026/september/wc07-09/whplus-sep08-1-feature-kc8l1nyop8.jpg",
+        "title": "A galaxy-shaking clash comes to Warhammer TV this week - Warhammer Community",
+        "description": "Necron C\u2019tan Shards and Tyranid monsters collide on Battle Report.",
+        "source_link": "https://www.warhammer-community.com/articles/nbjctngk/a-galaxy-shaking-clash-comes-to-warhammer-tv-this-week"
+      },
+      {
+        "rank": 5,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0007.jpg?quality=90&strip=all&crop=0%2C7.9509095732762%2C100%2C78.534031413613&w=1200",
         "title": "LG TVs caught spying even when offline or on standby - The Verge",
         "description": "Gamers Nexus gives you another reason to never connect your smart TV to the internet.",
         "source_link": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://assetsio.gnwcdn.com/nz-gta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Grand Theft Auto 6 worldwide unlock times revealed, and Xbox owners can seemingly still use the old New Zealand trick to play early - Eurogamer.net",
         "description": "A lot of Xbox owners will be teleporting to New Zealand to play Grand Theft Auto 6 at the earliest possible moment.",
         "source_link": "https://www.eurogamer.net/gta-6-worldwide-release-unlock-times-ps5-xbox-series-x-s"
       },
       {
-        "rank": 3,
-        "image": "https://www.canonrumors.com/wp-content/uploads/2026/09/sigma-85mm-f1.2-dg-art-header-1600.jpg",
-        "title": "Sigma's Lightweight 85mm f/1.2 Art Is Official, But Canon RF Shooters Are Out in the Cold - Canon Rumors",
-        "description": "Sigma has officially announced the Sigma 85mm f/1.2 DG Art for E and L mounts. As usual, Nikon and Canon mounts are left looking in from the outside. This one may sting more than most releases, as the 85mm f/1.2 prime lens is a \"core\" product for most manufac\u2026",
-        "source_link": "https://www.canonrumors.com/sigma-officially-announces-the-85mm-f-1-2-dg-art-for-only-1599/"
-      },
-      {
-        "rank": 4,
-        "image": "https://assetsio.gnwcdn.com/arjun-street-fighter-6-gameplay-trailer.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Street Fighter 6 gets a new gameplay trailer for Arjun, a new Indian brawler with a love for Bollywood - Eurogamer.net",
-        "description": "Capcom has released a gameplay trailer for Arjun, a brand-new character coming to the fighting game on the 13th October as part of the season 4 character pass.",
-        "source_link": "https://www.eurogamer.net/street-fighter-6-arjun-gameplay-trailer"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.canonrumors.com/wp-content/uploads/2026/09/canon-eos-r8-mark-ii-mockup-header.jpg",
-        "title": "Canon EOS R8 Mark II Leak: Specs, IBIS Upgrades, and Design Revealed Ahead of Launch - Canon Rumors",
-        "description": "The Canon EOS R8 Mark II will be announced on September 15, 2026, along with a new Speedlite EL-5 II and R8 Mark II Ergonomic Grip. So far, the rumored camera specifications have been well received. What tends to be hard to come by with Canon releases is imag\u2026",
-        "source_link": "https://www.canonrumors.com/here-is-what-the-new-canon-eos-r8-mark-ii-will-look-like/"
-      },
-      {
-        "rank": 6,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Logi-MX-Keys.webp?resize=1200,628",
-        "title": "Logitech launches $99 MX Keypad for coding and AI workflows - 9to5Mac",
-        "description": "Programmable physical controls are becoming key to power user workflows, including agentic programming. Now Logitech is bringing to market a...",
-        "source_link": "https://9to5mac.com/2026/09/08/logitech-launches-99-mx-keypad-for-coding-and-ai-workflows/"
-      },
-      {
         "rank": 7,
-        "image": "https://cdn.motor1.com/images/mgl/Rqbq69/s1/2027-bmw-3-series-camouflaged-prototype-of-m350-xdrive.jpg",
-        "title": "The New BMW 3 Series Gets A More Powerful Six-Cylinder Engine - Motor1.com",
-        "description": "The eighth-generation BMW 3 Series is almost here, complete with an M Performance model. The new M350 xDrive has an inline-six and a rear-wheel-drive mode.",
-        "source_link": "https://www.motor1.com/news/807455/2027-bmw-3-series-m350-details-photos/"
+        "image": null,
+        "title": "Jellyfin 12 ships with version jump and breaking client changes - neowin.net",
+        "description": null,
+        "source_link": "https://www.neowin.net/news/jellyfin-12-ships-with-version-jump-and-breaking-client-changes/"
       },
       {
         "rank": 8,
-        "image": "https://images.nintendolife.com/87e5a868b111e/large.jpg",
-        "title": "Pok\u00e9mon Champions Director Wants To Keep The Game's Focus On PvP - Nintendo Life",
-        "description": "\"At least while more people are increasingly playing\"",
-        "source_link": "https://www.nintendolife.com/news/2026/09/pokemon-champions-director-wants-to-keep-the-games-focus-on-pvp"
+        "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt6d8140960a9978b5/6a9fcf497868a55fbe6ade74/ps5-playstation-5-system-update-getty-images.jpg",
+        "title": "PS5 'major system upgrade' on the way that includes hefty boost to graphics - GAMINGbible",
+        "description": "It's the biggest update to drop on PlayStation 5 in a while.",
+        "source_link": "https://www.gamingbible.com/news/platform/playstation/ps5-system-update-14-0-graphics-boost-367280-20260908"
       },
       {
         "rank": 9,
-        "image": "https://cdn.mos.cms.futurecdn.net/yRjhKbdFpwpWMbenMSnUud-1920-80.png",
-        "title": "Some people are worried Apple's folding iPhone design could present a brand new health risk - Creative Bloq",
-        "description": "Move over, 'iPhone pinky'.",
-        "source_link": "https://www.creativebloq.com/design/product-design/some-people-are-worried-apples-folding-iphone-design-could-present-a-brand-new-health-risk"
+        "image": "https://insider-gaming.com/wp-content/uploads/2026/07/xbox-lawsuit-scaled.jpg",
+        "title": "Ubisoft, Square Enix Opt Out of XBOX Disc to Digital Program - Insider Gaming",
+        "description": "Ubisoft and Square Enix are not participating in XBOX's disc to digital program, players have discovered, with rumors of more big absences.",
+        "source_link": "https://insider-gaming.com/ubisoft-square-enix-opt-out-of-xbox-disc-to-digital-program/"
+      },
+      {
+        "rank": 10,
+        "image": "https://ychef.files.bbci.co.uk/624x351/p0p7zfys.jpg",
+        "title": "Why getting your hands dirty is good for you - BBC",
+        "description": "Putting our hands in soil and touching grass, trees or moss provides a wide range of health benefits, for our skin and wider immune system.",
+        "source_link": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks"
       }
     ],
     "trending_movies": [
@@ -83,38 +90,38 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-        "title": "Mayday",
-        "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance...",
-        "source_link": "https://www.themoviedb.org/movie/1137844"
+        "image": "https://image.tmdb.org/t/p/w200/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+        "title": "Why Did I Get Married Again?",
+        "description": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again...",
+        "source_link": "https://www.themoviedb.org/movie/1522689"
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
-        "title": "Coyote vs. Acme",
-        "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
-        "source_link": "https://www.themoviedb.org/movie/1204680"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
         "title": "Practical Magic 2",
         "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all....",
         "source_link": "https://www.themoviedb.org/movie/1302904"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+        "title": "Drawn Together",
+        "description": "Marfil Cort\u00e9s, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Desp...",
+        "source_link": "https://www.themoviedb.org/movie/1440098"
+      },
+      {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-        "title": "Mutiny",
-        "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' d...",
-        "source_link": "https://www.themoviedb.org/movie/1288445"
+        "image": "https://image.tmdb.org/t/p/w200/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+        "title": "Mayday",
+        "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance...",
+        "source_link": "https://www.themoviedb.org/movie/1137844"
       },
       {
         "rank": 8,
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+        "title": "Mutiny",
+        "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' d...",
+        "source_link": "https://www.themoviedb.org/movie/1288445"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
-        "title": "Just Play Dead",
-        "description": "A criminal mastermind plans to fake his death for insurance money while framing his wife's lover. His wife plots to kill him for real and take it all....",
-        "source_link": "https://www.themoviedb.org/movie/1480574"
       }
     ]
   }
