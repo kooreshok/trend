@@ -1,113 +1,113 @@
 {
-  "last_updated": "September 10, 2026, 23:38 UTC",
+  "last_updated": "September 11, 2026, 02:43 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_NPatel_0006.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "The black iPhone Pro returns - The Verge",
+        "description": "After not having a black model in the iPhone 17 Pro lineup last year, Apple has brought black back with the iPhone 18 Pro.",
+        "source_link": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color"
+      },
+      {
+        "rank": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/12/apple-intelligence-liquid-glass.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Apple shares more details about Apple Intelligence usage limits and terms - 9to5Mac",
+        "description": "Apple today published a new support article that provides more detail on Apple Intelligence usage terms, limits, and restrictions.",
+        "source_link": "https://9to5mac.com/2026/09/09/apple-shares-more-details-about-apple-intelligence-usage-limits-and-terms/"
+      },
+      {
+        "rank": 3,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
         "title": "4 groups caught using the same Chrome and Windows exploit kit - Ars Technica",
         "description": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
         "source_link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/"
       },
       {
-        "rank": 2,
-        "image": "https://images.macrumors.com/t/AMzlHXYCh5f7HOPQwqP7K3rUyXI=/1600x/article-new/2026/06/Siri-AI.jpg",
-        "title": "Apple's Fine Print: Daily Usage Limits for Siri AI, 'Expanded Access' Coming for a Fee - MacRumors",
-        "description": "Apple today confirmed that there will be a daily usage limit for Siri AI, with expanded access available for a fee in the future.   In the fine print...",
-        "source_link": "https://www.macrumors.com/2026/09/09/apple-siri-ai-usage-limits/"
+        "rank": 4,
+        "image": "https://s.yimg.com/lo/mysterio/api/0d1c487a60aa04bc72b6c6f3f1b6e38fe475737ed3c751efdd76d2732797c649/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-07%2F048cac10-86de-4047-a59e-123c9f2e6c91",
+        "title": "Apple event live: iPhone Duo, iPhone 18 Pro & watches announced - finance.yahoo.com",
+        "description": "Apple (AAPL) unveiled its first foldable phone, the iPhone Duo, and a slew of product updates at its annual fall event at its Cupertino, Calif., headquarters...",
+        "source_link": "https://finance.yahoo.com/markets/stocks/live/apple-event-live-iphone-duo-iphone-18-pro--watches-announced-122840434.html"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://www.droid-life.com/wp-content/uploads/2026/09/iPhone-18-Pro-vs-Pixel-11-Pro.jpg",
         "title": "Pixel 11 Pro vs. iPhone 18 Pro: Which to Buy? - Droid Life",
         "description": "Apple shared its new hardware line-up for the end of 2026 today, revealing the iPhone 18 Pro, iPhone 18 Pro Max, iPhone Duo, new Apple Watch models, and some new AirPods. For those who missed the event and don\u2019t want to re-watch, yet still want to see how the\u2026",
         "source_link": "https://www.droid-life.com/2026/09/09/pixel-11-pro-vs-iphone-18-pro-which-to-buy/"
       },
       {
-        "rank": 4,
-        "image": null,
-        "title": "iPhone Duo Gets Its Own Case and Folio With Kickstand - MacRumors",
-        "description": null,
-        "source_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdEt1bWN4NUhCRGtRZ284aV9pNy0tcE5CSHZCdWNaNDh1NzdCLWktMS1FVlpzYll4UEd0ZFlvSENGbFZ4QnNVV1c0VEdfcjlIaVJ2dWl5emdJS0xGcG8xOXV4VUFFdmlkVFRTZzZiRTdweG5EbXBXN1NGWWtTcjBRVFNn?oc=5"
+        "rank": 6,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/iphone-duo-galaxy-z-fold-8-1.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Samsung reacts to Apple\u2019s foldable iPhone Duo; \u2018reheating our leftovers\u2019 - 9to5Google",
+        "description": "Samsung is apparently of two minds when it comes to reacting to Apple\u2019s first foldable device, with some interesting reactions...",
+        "source_link": "http://9to5google.com/2026/09/09/samsung-apple-iphone-duo-reaction/"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://images.macrumors.com/t/tr_VS848STONXjdXk1fwDpJecuE=/1600x/article-new/2026/09/iphone-duo-kickstand.jpg",
+        "title": "iPhone Duo Gets Its Own Case and Folio With Kickstand - MacRumors",
+        "description": "Apple today introduced two dedicated accessories for iPhone Duo, its Case and a Folio with Kickstand.    The iPhone Duo Case is a thin, two-part...",
+        "source_link": "https://www.macrumors.com/2026/09/09/iphone-duo-gets-its-own-case-and-folio/"
+      },
+      {
+        "rank": 8,
         "image": "https://images.macrumors.com/t/PeEXCl2WWdKyHqei1lMVhyyE0_Y=/2500x/article-new/2026/06/iOS-27-Feature-Dark.jpg",
         "title": "Apple Seeds iOS 27 and iPadOS 27 Release Candidates - MacRumors",
         "description": "Apple today seeded the release candidate versions of iOS 27 and iPadOS 27 for final testing purposes, with the update coming a week after Apple...",
         "source_link": "https://www.macrumors.com/2026/09/09/apple-ios-27-rc/"
       },
       {
-        "rank": 6,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/iphone-duo-pixel-11-pro-fold.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Apple\u2019s iPhone Duo foldable has the same IP68 protection as Pixel Fold \u2013 temporary - 9to5Google",
-        "description": "Apple did the thing. The first foldable iPhone has arrived with the new iPhone Duo delivering a pretty compelling package...",
-        "source_link": "http://9to5google.com/2026/09/09/apple-iphone-duo-foldable-ip68-google-pixel/"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.macrumors.com/t/XEU16kt-6jgaEnJRrVVbql2f7YU=/1960x/article-new/2025/09/iPhone-17-Pro-Cosmic-Orange.jpg",
-        "title": "Apple Discontinues iPhone 17 Pro and iPhone 17 Pro Max - MacRumors",
-        "description": "Following the announcement of the iPhone 18 Pro models today, Apple discontinued the iPhone 17 Pro and \u200ciPhone 17 Pro Max.   Apple usually retires...",
-        "source_link": "https://www.macrumors.com/2026/09/09/apple-discontinues-iphone-17-pro-max/"
-      },
-      {
-        "rank": 8,
+        "rank": 9,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/iPhoneAirProdCard_00d871.jpg?quality=90&strip=all&crop=0%2C10.739243980059%2C100%2C78.521512039882&w=1200",
         "title": "Apple is raising iPhone prices by $100 on all of its old models - The Verge",
         "description": "The price increase impacts the iPhone 16, the full iPhone 17 lineup, as well as the iPhone Air.",
         "source_link": "https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-Watch-Series-12-2up-260909_big.jpg.medium_2x.jpg?resize=1200,675",
         "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day - TechCrunch",
         "description": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember details from daily conversations.",
         "source_link": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/"
-      },
-      {
-        "rank": 10,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-reference-image-iphone-18-pro.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "iPhone 18 Pro can authenticate that your photo wasn\u2019t edited with AI - 9to5Mac",
-        "description": "Apple is introducing a new Reference Image feature as part of the new iPhone 18 Pro, which digitally authenticates that...",
-        "source_link": "https://9to5mac.com/2026/09/09/iphone-18-pro-can-authenticate-that-your-photo-wasnt-edited-with-ai/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-        "title": "Moana",
-        "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
-        "source_link": "https://www.themoviedb.org/movie/1108427"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
         "title": "Drawn Together",
         "description": "Marfil Cort\u00e9s, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Desp...",
         "source_link": "https://www.themoviedb.org/movie/1440098"
       },
       {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
-        "title": "Why Did I Get Married Again?",
-        "description": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again...",
-        "source_link": "https://www.themoviedb.org/movie/1522689"
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+        "title": "Moana",
+        "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
+        "source_link": "https://www.themoviedb.org/movie/1108427"
       },
       {
-        "rank": 4,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
         "title": "Call My Agent! The Movie",
         "description": "Five years after ASK Agency closed, debut director Andr\u00e9a loses her lead actor just days before filming and reunited with her old team \u2014 for better or...",
         "source_link": "https://www.themoviedb.org/movie/1365884"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
         "title": "Practical Magic 2",
         "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all....",
         "source_link": "https://www.themoviedb.org/movie/1302904"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/rwaxLuOkJ5mMvJU5juNaPcKADOW.jpg",
+        "title": "Why Did I Get Married Again?",
+        "description": "The couples reunite for the destination wedding of Marcus and Angela's daughter, bringing drama old and new as they ask, \"Why did we get married again...",
+        "source_link": "https://www.themoviedb.org/movie/1522689"
       },
       {
         "rank": 6,
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-        "title": "Mayday",
-        "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance...",
-        "source_link": "https://www.themoviedb.org/movie/1137844"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+        "title": "Mayday",
+        "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance...",
+        "source_link": "https://www.themoviedb.org/movie/1137844"
       }
     ]
   }
