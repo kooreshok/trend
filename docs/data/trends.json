@@ -1,76 +1,69 @@
 {
-  "last_updated": "September 12, 2026, 05:20 UTC",
+  "last_updated": "September 12, 2026, 09:58 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://helios-i.mashable.com/imagery/articles/01x0H7AdKnXe9mTOVdAHzgq/hero-image.fill.size_1200x675.v1789057814.png",
+        "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable",
+        "description": "Welcome back, ceramic cases!",
+        "source_link": "https://mashable.com/tech/apple-watch-series-12-vs-11-price-specs"
+      },
+      {
+        "rank": 2,
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/IMG_0012.jpeg?quality=82&strip=all&resize=1200,628",
         "title": "T-Mobile will charge $5/month for Apple\u2019s new iPhone Handoff feature - 9to5Mac",
         "description": "Apple\u2019s new iPhone Handoff feature, which lets users share a single phone number across two iPhones, will cost $5 per month on T-Mobile.",
         "source_link": "https://9to5mac.com/2026/09/10/t-mobile-will-charge-5-month-for-apples-new-iphone-handoff-feature/"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-18-pro-iphone-18-pro-max-a20-pro-benchmarks/-952x498w6/gsmarena_000.jpg",
         "title": "Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news - GSMArena.com",
         "description": "The A20 Pro delivers solid performance improvements compared to its predecessor. Yesterday, Apple unveiled the iPhone 18 Pro and iPhone 18 Pro Max, which...",
         "source_link": "https://www.gsmarena.com/here_are_the_iphone_18_pro_and_iphone_18_pro_max_geekbench_scores-news-74559.php"
       },
       {
-        "rank": 3,
-        "image": "https://images.macrumors.com/t/Y-VS_5R-pjW-VTKI6_PCLhbvXJY=/1844x/article-new/2026/09/apple-watch-ultra-4-live-rewind.jpg",
-        "title": "You Can't Use Apple Watch's Live Rewind Secretly, Apple Says - MacRumors",
-        "description": "With the Apple Watch Series 12 and Ultra 4, Apple is adding Live Rewind, which relies on an S11 processor and new continual listening features.  ...",
-        "source_link": "https://www.macrumors.com/2026/09/10/apple-watch-live-rewind/"
+        "rank": 4,
+        "image": null,
+        "title": "Verizon scales back a perk that keeps prices low for customers - thestreet.com",
+        "description": null,
+        "source_link": "https://www.thestreet.com/retail/verizon-removes-price-lock-guarantee-from-myplan"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa1aae49b-1788979940.jpg?resize=1920%2C1440",
         "title": "LG defends smart-TV features amid audio surveillance allegations - Al Jazeera",
         "description": "Recent accusations against the electronics company have raised new questions about the nonconsensual data it harvests.",
         "source_link": "https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations"
       },
       {
-        "rank": 5,
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&strip=all&crop=0%2C9.8234763765205%2C100%2C80.353047246959&w=1200",
+        "title": "Slack can now vibe-code interactive charts and reports inside chats - theverge.com",
+        "description": "A new Slackforce Surfaces feature uses AI to build interactive polls, dashboards, presentations, and other tools directly inside Slack.",
+        "source_link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch"
+      },
+      {
+        "rank": 7,
         "image": "https://kotaku.com/app/uploads/2026/09/09_Aerith_re_FIX-1-1200x675.jpg",
         "title": "Final Fantasy 7 Revelation Requires A Download Instead Of Shipping Complete On Multiple Discs To Avoid Compromising The 'Fidelity' And 'Quality' - Kotaku",
         "description": "Director Naoki Hamaguchi defended the move amid the current uproar over physical games",
         "source_link": "https://kotaku.com/heres-why-final-fantasy-7-revelation-will-require-a-download-instead-of-shipping-complete-on-multiple-discs-like-the-previous-games-2000733319"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://cdn.motor1.com/images/mgl/nA8yAx/s1/mercedes-amg-cle-646-spezialanfertigung.jpg",
         "title": "Mercedes-AMG's New Super Coupe Is A 637-HP Track Car For The Road - Motor1.com",
         "description": "Mercedes-Benz has launched its second Mythos car, a V8-powered CLE coupe with extensive powertrain and design changes. Here are all the details.",
         "source_link": "https://www.motor1.com/news/807883/mercedes-amg-cle-636-mythos-specs-horsepower-details/"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://assets-prd.ignimgs.com/2026/08/10/wardogs-1786382120921.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Wardogs Is Already a Huge Hit As It Sells a Million Copies and Blows Past 300k Concurrent Players on Launch Day - IGN",
         "description": "Wardogs has already surpassed a million copies sold and is lighting up Steam's concurrent player charts.",
         "source_link": "https://www.ign.com/articles/wardogs-surpasses-1-million-copies-sold-on-day-one-blows-past-300k-peak-concurrent-players-on-steam"
-      },
-      {
-        "rank": 8,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/3.-X-Ray-Shop-Tab.png?resize=1200,675",
-        "title": "Amazon makes it easier to buy what you see on Prime Video - TechCrunch",
-        "description": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its shopping app, and a new Lens-powered \u201cShop the Scene\u201d feature.",
-        "source_link": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.cnet.com/wp-content/uploads/sites/2/IMG_9998.jpg",
-        "title": "Apple Watch Ultra 4 Hands-On: A Closer Look at Its Biggest Upgrades - cnet.com",
-        "description": "Finally a battery worthy of an ultramarathon, better health sensors and a powerful processor that keeps it running.",
-        "source_link": "https://www.cnet.com/tech/mobile/apple-watch-ultra-4-hands-on/"
-      },
-      {
-        "rank": 10,
-        "image": "https://assetsio.gnwcdn.com/metroid-ravenous_cipaD5y.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Metroid Dread studio MercurySteam appears to confirm it's making Metroid Ravenous, addressing a lingering question from yesterday's Nintendo Direct - Eurogamer.net",
-        "description": "For a moment there, we weren't sure which studio was making the new Switch 2 Metroid game, but MercurySteam appears to be back at the helm.",
-        "source_link": "https://www.eurogamer.net/metroid-ravenous-mercury-steam-developer"
       }
     ],
     "trending_movies": [
@@ -83,66 +76,66 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
-        "title": "Call My Agent! The Movie",
-        "description": "Five years after ASK Agency closed, debut director Andr\u00e9a loses her lead actor just days before filming and reunited with her old team \u2014 for better or...",
-        "source_link": "https://www.themoviedb.org/movie/1365884"
-      },
-      {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
-        "title": "Drawn Together",
-        "description": "Marfil Cort\u00e9s, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Desp...",
-        "source_link": "https://www.themoviedb.org/movie/1440098"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-        "title": "Mayday",
-        "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance...",
-        "source_link": "https://www.themoviedb.org/movie/1137844"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
-        "title": "One Night Only",
-        "description": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex....",
-        "source_link": "https://www.themoviedb.org/movie/1433367"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg",
         "title": "Go Team!",
         "description": "When their team-building event gets downgraded to a tiny village, a cheese company's staff think it can't get worse \u2014 then they learn about the layoff...",
         "source_link": "https://www.themoviedb.org/movie/1558568"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-        "title": "Practical Magic 2",
-        "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all....",
-        "source_link": "https://www.themoviedb.org/movie/1302904"
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/p4SvSFIkjCs4y0C7yAcYP9XNmP2.jpg",
+        "title": "Call My Agent! The Movie",
+        "description": "Five years after ASK Agency closed, debut director Andr\u00e9a loses her lead actor just days before filming and reunited with her old team \u2014 for better or...",
+        "source_link": "https://www.themoviedb.org/movie/1365884"
       },
       {
-        "rank": 10,
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+        "title": "Drawn Together",
+        "description": "Marfil Cort\u00e9s, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Desp...",
+        "source_link": "https://www.themoviedb.org/movie/1440098"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+        "title": "Mayday",
+        "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance...",
+        "source_link": "https://www.themoviedb.org/movie/1137844"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
+        "title": "One Night Only",
+        "description": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex....",
+        "source_link": "https://www.themoviedb.org/movie/1433367"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+        "title": "Mutiny",
+        "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' d...",
+        "source_link": "https://www.themoviedb.org/movie/1288445"
       }
     ]
   }
