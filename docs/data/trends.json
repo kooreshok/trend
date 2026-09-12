@@ -1,92 +1,85 @@
 {
-  "last_updated": "September 12, 2026, 13:28 UTC",
+  "last_updated": "September 12, 2026, 16:41 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irVCazdsMeMM/v1/1200x800.jpg",
+        "title": "PlayStation Ditched Hideo Kojima\u2019s \u2018Physint\u2019 on Budget Concerns, Missed Deadlines - Bloomberg.com",
+        "description": "The legendary Japanese creator of \u2018Death Stranding\u2019 will take his new game to Xbox",
+        "source_link": "https://www.bloomberg.com/news/articles/2026-09-11/hideo-kojima-s-physint-video-game-dropped-by-playstation-goes-to-xbox"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.macrumors.com/t/XkXIFJA4xs886cMQZFadUBy8rLE=/2500x/article-new/2026/09/What-Upgrading-to-iPhone-18-Pro-From-iPhone-17-Pro-Gets-You-Feature.jpg",
+        "title": "What Upgrading to iPhone 18 Pro From iPhone 17 Pro Gets You - MacRumors",
+        "description": "Apple's new iPhone 18 Pro and iPhone 18 Pro Max largely build on last year's models with a series of targeted upgrades rather than a major...",
+        "source_link": "https://www.macrumors.com/2026/09/11/upgrade-to-iphone-18-pro-from-iphone-17-pro/"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.nintendolife.com/f570806f4b82a/large.jpg",
+        "title": "Nintendo Wins Court Case Ruling The Sale Of Switch \"Circumvention Devices\" Unlawful - Nintendo Life",
+        "description": "\"avoid purchasing or using circumvention devices\"",
+        "source_link": "https://www.nintendolife.com/news/2026/09/nintendo-wins-court-case-ruling-the-sale-of-switch-circumvention-devices-unlawful"
+      },
+      {
+        "rank": 4,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg",
         "title": "ClickFix attacks infecting PCs and Macs are going viral - Ars Technica",
         "description": "Simplicity\u2014combined with the difficulty of getting stuff done\u2014makes ClickFix ideal.",
         "source_link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/"
       },
       {
-        "rank": 2,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/galaxy-buds-on-sg-leak-5.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Samsung\u2019s open-ear Galaxy Buds On leak with clip design, \u2018Auto Volume,\u2019 gestures [Gallery] - 9to5Google",
-        "description": "Word has been out on a new pair of open-ear Galaxy Buds from Samsung and, now, a detailed leak shows...",
-        "source_link": "http://9to5google.com/2026/09/10/samsung-galaxy-buds-on-open-ear-leak/"
+        "rank": 5,
+        "image": "https://www.sammobile.com/wp-content/uploads/2026/03/Galaxy-Buds-4-Pro-review-10.jpg",
+        "title": "Samsung's Galaxy Buds On design and features leak ahead of launch - SamMobile",
+        "description": "Samsung is working on completely different type of earbuds, and they could launch soon. Now, their design has leaked.",
+        "source_link": "https://www.sammobile.com/news/galaxy-buds-on-leak-ahead-of-launch/"
       },
       {
-        "rank": 3,
+        "rank": 6,
         "image": "https://helios-i.mashable.com/imagery/articles/01x0H7AdKnXe9mTOVdAHzgq/hero-image.fill.size_1200x675.v1789057814.png",
         "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable",
         "description": "Welcome back, ceramic cases!",
         "source_link": "https://mashable.com/tech/apple-watch-series-12-vs-11-price-specs"
       },
       {
-        "rank": 4,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/IMG_0012.jpeg?quality=82&strip=all&resize=1200,628",
-        "title": "T-Mobile will charge $5/month for Apple\u2019s new iPhone Handoff feature - 9to5Mac",
-        "description": "Apple\u2019s new iPhone Handoff feature, which lets users share a single phone number across two iPhones, will cost $5 per month on T-Mobile.",
-        "source_link": "https://9to5mac.com/2026/09/10/t-mobile-will-charge-5-month-for-apples-new-iphone-handoff-feature/"
-      },
-      {
-        "rank": 5,
+        "rank": 7,
         "image": null,
         "title": "Verizon scales back a perk that keeps prices low for customers - thestreet.com",
         "description": null,
         "source_link": "https://www.thestreet.com/retail/verizon-removes-price-lock-guarantee-from-myplan"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-fitbit-air-hands-on-10.jpg?quality=82&strip=all&resize=1200,628",
         "title": "Possible Google device at FCC could be Wear OS-powered fitness tracker - 9to5Google",
         "description": "A new piece of hardware passed through FCC certification\u00a0today and the evidence points to it being a Wear OS-powered device made by Google.",
         "source_link": "http://9to5google.com/2026/09/10/google-wear-os-tracker/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6aa1aae49b-1788979940.jpg?resize=1920%2C1440",
-        "title": "LG defends smart-TV features amid audio surveillance allegations - Al Jazeera",
-        "description": "Recent accusations against the electronics company have raised new questions about the nonconsensual data it harvests.",
-        "source_link": "https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations"
-      },
-      {
-        "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_2464.png?quality=90&strip=all&crop=0%2C9.8234763765205%2C100%2C80.353047246959&w=1200",
-        "title": "Slack can now vibe-code interactive charts and reports inside chats - theverge.com",
-        "description": "A new Slackforce Surfaces feature uses AI to build interactive polls, dashboards, presentations, and other tools directly inside Slack.",
-        "source_link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch"
-      },
-      {
-        "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2026/09/09_Aerith_re_FIX-1-1200x675.jpg",
-        "title": "Final Fantasy 7 Revelation Requires A Download Instead Of Shipping Complete On Multiple Discs To Avoid Compromising The 'Fidelity' And 'Quality' - Kotaku",
-        "description": "Director Naoki Hamaguchi defended the move amid the current uproar over physical games",
-        "source_link": "https://kotaku.com/heres-why-final-fantasy-7-revelation-will-require-a-download-instead-of-shipping-complete-on-multiple-discs-like-the-previous-games-2000733319"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-        "title": "Moana",
-        "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
-        "source_link": "https://www.themoviedb.org/movie/1108427"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/jM8LRvzYIqZqw6Si5xNECiHFDgM.jpg",
         "title": "Go Team!",
         "description": "When their team-building event gets downgraded to a tiny village, a cheese company's staff think it can't get worse \u2014 then they learn about the layoff...",
         "source_link": "https://www.themoviedb.org/movie/1558568"
       },
       {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+        "title": "Moana",
+        "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
+        "source_link": "https://www.themoviedb.org/movie/1108427"
+      },
+      {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
         "rank": 4,
@@ -97,10 +90,10 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
+        "image": "https://image.tmdb.org/t/p/w200/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
+        "title": "Drawn Together",
+        "description": "Marfil Cort\u00e9s, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Desp...",
+        "source_link": "https://www.themoviedb.org/movie/1440098"
       },
       {
         "rank": 6,
@@ -111,10 +104,10 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
-        "title": "Drawn Together",
-        "description": "Marfil Cort\u00e9s, a daughter of a wealthy Spanish businessman, is kidnapped and released, leading her father to hire Sebastian Moore as a bodyguard. Desp...",
-        "source_link": "https://www.themoviedb.org/movie/1440098"
+        "image": "https://image.tmdb.org/t/p/w200/46q8z1TbbVcF8uhRHsvt5s0h2SH.jpg",
+        "title": "One Night Only",
+        "description": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex....",
+        "source_link": "https://www.themoviedb.org/movie/1433367"
       },
       {
         "rank": 8,
@@ -125,17 +118,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-        "title": "Mutiny",
-        "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' d...",
-        "source_link": "https://www.themoviedb.org/movie/1288445"
       }
     ]
   }
