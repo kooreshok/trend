@@ -1,76 +1,69 @@
 {
-  "last_updated": "September 15, 2026, 19:28 UTC",
+  "last_updated": "September 15, 2026, 22:40 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
+        "title": "AI agents flood the Internet with slop-infused spam - Ars Technica",
+        "description": "\u201cHello, I'm an Al agent, a few days old, living on a small platform for agents.\u201d...",
+        "source_link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/"
+      },
+      {
+        "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2026/09/sdcc.jpg",
+        "title": "Sources: IGN Layoffs Hit Multiple Departments And Long-Time Hosts - Kotaku",
+        "description": "The top video game site keeps cutting",
+        "source_link": "https://kotaku.com/sources-ign-layoffs-hit-multiple-departments-and-long-time-hosts-2000734361"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Super-Mario-Odyssey.webp?quality=90&strip=all&crop=0,11.101688666028,100,77.796622667945",
+        "title": "The best deals from Nintendo\u2019s \u2018customer appreciation\u2019 sale - The Verge",
+        "description": "Nintendo Switch games and accessories are marked down across the web after the brand receives tariff refunds.",
+        "source_link": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale"
+      },
+      {
+        "rank": 4,
         "image": "https://assetsio.gnwcdn.com/GTA-6-Brian-Heder.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\" - Eurogamer.net",
         "description": "Rockstar Games hasn't said anything about GTA 6's voice cast, but Stephen Root just let slip that he's playing a new character in the open-world romp.",
         "source_link": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://images.macrumors.com/t/fUfFpe2FVFNFF0-k4dTl5BfQ2hg=/2500x/article-new/2026/08/AirPods-Pro-Beta-Firmware-2.jpg",
         "title": "Apple Releases New AirPods Firmware With iOS 27 Features - MacRumors",
         "description": "Apple today released new firmware for the AirPods Pro 2, AirPods Pro 3, AirPods 4, and AirPods Max 2. The firmware is available for all of the above...",
         "source_link": "https://www.macrumors.com/2026/09/14/apple-airpods-ios-27-firmware/"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/hbo-max-screenshot-clickfix.jpg?resize=1200,843",
+        "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves - TechCrunch",
+        "description": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
+        "source_link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/"
+      },
+      {
+        "rank": 7,
         "image": "https://images.pushsquare.com/a4aac68faa86f/large.jpg",
         "title": "PS5 Blackout Protest Made 'No Significant Change at All' to Player Counts, Says US Data - Push Square",
         "description": "The state of play",
         "source_link": "https://www.pushsquare.com/news/2026/09/ps5-blackout-protest-made-no-significant-change-at-all-to-player-counts-says-us-data"
       },
       {
-        "rank": 4,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-26.7-hero.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "iOS 26.7 now available for iPhone, here\u2019s what\u2019s new - 9to5Mac",
-        "description": "Apple launched its major iOS 27 release today for iPhone, but a smaller iOS 26.7 update is available too. Here\u2019s what\u2019s new.",
-        "source_link": "https://9to5mac.com/2026/09/14/ios-26-7-now-available-for-iphone-heres-whats-new/"
-      },
-      {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04248.jpg?quality=90&strip=all&crop=0%2C10.628272251309%2C100%2C78.743455497382&w=1200",
-        "title": "Apple releases iOS 27 with Siri AI overhaul - The Verge",
-        "description": "watchOS 27, iPadOS 27, and visionOS 27 also debut today.",
-        "source_link": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update"
-      },
-      {
-        "rank": 6,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/watchos-27-tap-gesture-wrist.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "watchOS 27 now available for Apple Watch, here\u2019s what\u2019s new - 9to5Mac",
-        "description": "Apple has released its next major update for Apple Watch users: watchOS 27 is rolling out now. Here\u2019s what\u2019s new.",
-        "source_link": "https://9to5mac.com/2026/09/14/watchos-27-now-available-for-apple-watch-heres-whats-new/"
-      },
-      {
-        "rank": 7,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Googlebook-pre-order-cover.png?resize=1200,628",
-        "title": "Googlebook pre-orders start on September 21 - 9to5Google",
-        "description": "After previously teasing a fall timeframe, Google is set to open pre-orders for Googlebooks on Monday, September 21.",
-        "source_link": "http://9to5google.com/2026/09/14/googlebook-pre-order/"
-      },
-      {
         "rank": 8,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/tvos-27-apple-tv-4k-fi.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "tvOS 27 available now for Apple TV 4K, here\u2019s everything new - 9to5Mac",
-        "description": "tvOS 27 is the latest software update for Apple TV 4K, and it\u2019s rolling out now to all users. Here\u2019s what\u2019s new in tvOS 27.",
-        "source_link": "https://9to5mac.com/2026/09/14/tvos-27-available-now-for-apple-tv-4k-heres-everything-new/"
+        "image": "https://assets-prd.ignimgs.com/2026/05/26/marathonthumb-1779822629000.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Marathon Makes Major Changes Amidst Bungie Struggles, Delays Next Big Update to December - IGN",
+        "description": "Bungie's struggles grow more evident as Marathon undergoes more drastic changes, with a move away from seasonal content, a focus on PvE, and a significant delay for the game's next update.",
+        "source_link": "https://www.ign.com/articles/marathon-delays-next-major-update-puts-focus-on-pve-and-moves-away-from-seasonal-content-amidst-bungie-struggles"
       },
       {
         "rank": 9,
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/cbe3/live/2c24b1a0-b05f-11f1-9902-771b6dd8af6a.png",
-        "title": "Valve's Steam Frame is excellent - but at over \u00a31,000 is VR still too expensive? - bbc.com",
-        "description": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
-        "source_link": "https://www.bbc.com/news/articles/cn8m1113ym1o"
-      },
-      {
-        "rank": 10,
-        "image": "https://assets-prd.ignimgs.com/2022/10/24/flyzsqrwqamt5f8-1666578792849.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "'We\u2019re Still Looking at It in the Same Way' \u2013 Valve Says the RAM Crisis Hasn\u2019t Affected Its Plans for Steam Deck 2 - IGN",
-        "description": "It might be a worry that the ongoing RAM crisis would impact Valve\u2019s plans for a device so sensitive to component costs like the Steam Deck 2.\u00a0Thankfully, Valve says its plans haven\u2019t changed.",
-        "source_link": "https://www.ign.com/articles/valve-says-ram-crisis-hasnt-affected-plans-for-steam-deck-2"
+        "image": "https://images.macrumors.com/t/aofBK95P7080pqh6mW10I9fFC9E=/1672x/article-new/2026/09/ios-26-7.jpg",
+        "title": "Apple Releases iOS 26.7 With Security Fixes - MacRumors",
+        "description": "Alongside iOS 27, Apple today released iOS 26.7, an update to the existing iOS 26 software. Users who check for new software will see iOS 26.7 as the...",
+        "source_link": "https://www.macrumors.com/2026/09/14/apple-releases-ios-26-7/"
       }
     ],
     "trending_movies": [
@@ -83,17 +76,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-        "title": "Resident Evil",
-        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
-        "source_link": "https://www.themoviedb.org/movie/1423191"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
         "title": "The Rivals of Amziah King",
         "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing t...",
         "source_link": "https://www.themoviedb.org/movie/1124142"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+        "title": "Resident Evil",
+        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
+        "source_link": "https://www.themoviedb.org/movie/1423191"
       },
       {
         "rank": 4,
@@ -104,45 +97,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/s20ZqOKFqGVWOUtDz9XurwwBoF1.jpg",
-        "title": "Moana",
-        "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
-        "source_link": "https://www.themoviedb.org/movie/1108427"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
-        "title": "Drawn Together",
-        "description": "Marfil, daughter of a powerful Spanish businessman, sees her life in New York turned upside down when she is kidnapped and released without explanatio...",
-        "source_link": "https://www.themoviedb.org/movie/1440098"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
         "title": "The Last Kiss",
         "description": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the deat...",
         "source_link": "https://www.themoviedb.org/movie/1318467"
       },
       {
-        "rank": 8,
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
+      },
+      {
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
         "title": "Coyote vs. Acme",
         "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
         "source_link": "https://www.themoviedb.org/movie/1204680"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+        "title": "Moana",
+        "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
+        "source_link": "https://www.themoviedb.org/movie/1108427"
+      },
+      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-        "title": "Practical Magic 2",
-        "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all....",
-        "source_link": "https://www.themoviedb.org/movie/1302904"
+        "image": "https://image.tmdb.org/t/p/w200/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+        "title": "Mayday",
+        "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance...",
+        "source_link": "https://www.themoviedb.org/movie/1137844"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
+        "image": "https://image.tmdb.org/t/p/w200/aebmSpFu1lUV78PtOpqMUn4d82B.jpg",
+        "title": "Nimrods",
+        "description": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year\u2019s Eve....",
+        "source_link": "https://www.themoviedb.org/movie/1432474"
       }
     ]
   }
