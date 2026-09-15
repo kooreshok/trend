@@ -1,76 +1,69 @@
 {
-  "last_updated": "September 15, 2026, 10:56 UTC",
+  "last_updated": "September 15, 2026, 15:26 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://assets-prd.ignimgs.com/2026/09/13/geralt-1789330423902.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "The Witcher 3 Geralt Skin for Diablo 4 Barbarians Revealed \u2014 but There's a Catch - IGN",
-        "description": "CD Projekt and Blizzard have released a first look at the Geralt-themed Barbarian skin for Diablo 4, but you'll need to preorder The Witcher 3 expansion Songs of the Past on Battle.net to get it.",
-        "source_link": "https://www.ign.com/articles/the-witcher-3-geralt-skin-for-diablo-4-barbarians-revealed-but-theres-a-catch"
+        "image": "https://images.macrumors.com/t/HAbY2RBLL5aLJL0IJd9M8FyRpRE=/2500x/article-new/2026/06/macOS-iOS-27-Siri-App-Feature.jpg",
+        "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows - MacRumors",
+        "description": "Code sleuth \"pdfu\" has uncovered iOS 27 and macOS Golden Gate private frameworks that show Apple has designed its new Siri architecture to...",
+        "source_link": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"
       },
       {
         "rank": 2,
-        "image": "https://www.bgr.com/img/gallery/5-budget-android-phones-you-should-consider-instead-of-the-google-pixel-11/l-intro-1788967014.jpg",
-        "title": "5 Budget Android Phones You Should Consider Instead Of The Google Pixel 11 - bgr.com",
-        "description": "Considering a Google Pixel 11 smartphone, but feeling put off by the $900 price tag? Why not consider these five much cheaper Android phone alternatives.",
-        "source_link": "https://www.bgr.com/2253813/budget-android-phones-google-pixel-11-alternatives/"
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2252639401.jpg?c=16x9&q=w_800,c_fill",
+        "title": "They created Siri before Apple bought it. They\u2019re still waiting for their original vision to come true - CNN",
+        "description": "Dag Kittlaus and Adam Cheyer, known for creating an assistant that\u2019s now found in billions of Apple devices, have been thinking about what comes after the search engine for a long time.",
+        "source_link": "https://www.cnn.com/2026/09/14/tech/siri-founders-apple-ai"
       },
       {
         "rank": 3,
-        "image": "https://images.pushsquare.com/1975023bd4c09/large.jpg",
-        "title": "Sony Shuts Down The Last of Us 2 PC Multiplayer Fan Mod - Push Square",
-        "description": "Nine months of work down the drain",
-        "source_link": "https://www.pushsquare.com/news/2026/09/sony-shuts-down-the-last-of-us-2-pc-multiplayer-fan-mod"
+        "image": "https://images.nintendolife.com/4b808ea46c7c3/large.jpg",
+        "title": "Fire Emblem: Fortune's Weave Gets A Seven-Minute Overview Trailer - Nintendo Life",
+        "description": "Ready for this week's launch",
+        "source_link": "https://www.nintendolife.com/news/2026/09/fire-emblem-fortunes-weave-gets-a-seven-minute-overview-trailer"
       },
       {
         "rank": 4,
-        "image": "https://images.macrumors.com/t/2wYn2nihwl9hafPlrrVkqxxPOls=/1672x/article-new/2026/09/iOS-27-Icon-iPhone.jpeg",
-        "title": "iOS 27 Available Tomorrow With These 8 New Features - MacRumors",
-        "description": "During its iPhone 18 Pro and iPhone Duo event last week, Apple announced that iOS 27 will be released widely on Monday, September 14.   iOS 27 should...",
-        "source_link": "https://www.macrumors.com/2026/09/13/ios-27-features-available-tomorrow/"
+        "image": "https://assets-prd.ignimgs.com/2026/09/14/brian-heder-01-0r-ute88os9k-1789380658191.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "'You're Gonna See Me in It' \u2014 King of the Hill Voice Actor Confirms Role in GTA 6, First Major Cast Member to Do So - IGN",
+        "description": "The first major cast member has confirmed his appearance in Grand Theft Auto 6, seemingly going off Rockstar\u2019s tightly controlled marketing script.",
+        "source_link": "https://www.ign.com/articles/first-major-cast-member-confirms-appearance-in-gta-6-seemingly-going-off-rockstars-script"
       },
       {
         "rank": 5,
-        "image": "https://www.thestreet.com/.image/MjEyMzI3NjQwNzAxMzQ3MzM3/walmart-logo.jpg?profile=share16-9",
-        "title": "Walmart\u2019s $70 2-in-1 tablet comes with a 7-piece accessories bundle - thestreet.com",
-        "description": "It \"charges super fast.\"",
-        "source_link": "https://www.thestreet.com/deals/sharecloud-2-in-1-laptop-tablet-walmart-flash-sale-mp"
+        "image": "https://images.macrumors.com/t/1lygljCOZBkj565M6S2GQ6yjgXg=/1600x/article-new/2026/09/iphone-duo-case.jpg",
+        "title": "iPhone Duo Has a Hidden Display Setting for Case Compatibility - MacRumors",
+        "description": "Apple's new iPhone Duo has a special option in its display settings that adds a narrow black border to the left side of the front screen.  ...",
+        "source_link": "https://www.macrumors.com/2026/09/14/iphone-duo-hidden-display-setting-explained/"
       },
       {
         "rank": 6,
-        "image": "https://kotaku.com/app/uploads/2026/09/Warcraft-III-Reforged_-Forsaken-Kingdom-_-Launch-Trailer-0-8-screenshot-1200x675.jpg",
-        "title": "Warcraft 3 Reforged\u2019 s Big Update Adds Two New Secret Levels That No One\u2019s Found Yet - Kotaku",
-        "description": "Cows? Lore secrets? Something else?",
-        "source_link": "https://kotaku.com/warcraft-3-reforged-forsaken-kingdom-secret-levels-2000734013"
+        "image": "https://i.insider.com/6aa45cf09b8974787b1cb435?width=1191&format=jpeg",
+        "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs. - Business Insider",
+        "description": "A Buffalo coffee shop's fall menu went viral for all the wrong reasons. Its owner apologized for using AI but also urged \"kindness and respect.\"",
+        "source_link": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9#article"
       },
       {
         "rank": 7,
-        "image": "https://kotaku.com/app/uploads/2024/05/21092468b7c641fb4386d2f4f6f00223-1200x675.jpg",
-        "title": "The Legend of Zelda: Majora\u2019s Mask\u2019s Art Director Gets Blow Back For Using AI In Prototyping Test - Kotaku",
-        "description": "Takaya Imamura was surprised that he was 'getting slammed this hard' for sharing a prototype made with the help of AI",
-        "source_link": "https://kotaku.com/the-legend-of-zelda-majoras-masks-art-director-gets-blow-back-for-using-ai-in-prototyping-test-2000734003"
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/NVIDIA-RTX-PRO-5500-Blackwell-Graphics-Card-_1-1920x1051.jpg",
+        "title": "NVIDIA Intros RTX PRO 5500 Blackwell Graphics Card, Features Same Core Count As The 5090 But With 2.6x The VRAM - Wccftech",
+        "description": "NVIDIA's latest addition to the Blackwell PRO family is the RTX PRO 5500 Workstation Edition graphics card with 84 GB of memory.",
+        "source_link": "https://wccftech.com/nvidia-intros-rtx-pro-5500-blackwell-graphics-card-21760-cores-84-gb-memory/"
       },
       {
         "rank": 8,
-        "image": "https://www.slashgear.com/img/gallery/xbox-is-bringing-a-big-dose-of-nostalgia-to-its-current-gen-consoles/l-intro-1789311506.jpg",
-        "title": "Xbox Is Bringing A Big Dose Of Nostalgia To Its Current-Gen Consoles - SlashGear",
-        "description": "Xbox is giving old-school gamers a dose of nostalgia by letting them choose older console startup animations when powering on the Xbox Series X or S.",
-        "source_link": "https://www.slashgear.com/2256911/xbox-nostalgic-startup-animations-series-x-s/"
+        "image": "https://assetsio.gnwcdn.com/diablo-4-the-amazon-concept-art-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Blizzard confirms no more Diablo 4 expansions from now until Diablo 5's release - Eurogamer.net",
+        "description": "Lord of Hatred is, indeed, Diablo 4's final expansion.",
+        "source_link": "https://www.eurogamer.net/diablo-4-expansions-over"
       },
       {
         "rank": 9,
-        "image": "https://www.slashgear.com/img/gallery/12-classic-radioshack-electronics-that-are-pure-nostalgia-today/l-intro-1788387331.jpg",
-        "title": "12 Classic RadioShack Electronics That Are Pure Nostalgia Today - SlashGear",
-        "description": "In late 20th century, RadioShack ruled the roost when it came to consumer electronics, and these products were a big part of why.",
-        "source_link": "https://www.slashgear.com/2251943/classic-nostalgic-radioshack-toys-electronics/"
-      },
-      {
-        "rank": 10,
-        "image": "https://cdn.newser.com/image/1710733-12-20260913155504.jpeg",
-        "title": "Tiny $70 E-Reader Makes Reading Addictive Again - Newser",
-        "description": "Pocket-size Xteink X3 turns idle moments into binge-reading sessions",
-        "source_link": "https://www.newser.com/story/396068/tiny-70-e-reader-makes-reading-addictive-again.html"
+        "image": null,
+        "title": "Samsung will apparently launch the Galaxy Tab S12 series a bit later than expected - PhoneArena",
+        "description": null,
+        "source_link": "https://www.phonearena.com/news/samsung-galaxy-tab-s12-series-launch-date-october-7-leaked_id183314"
       }
     ],
     "trending_movies": [
@@ -90,31 +83,31 @@
       },
       {
         "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/xAdcsPCcW3I0bS4zUwDHWWZjSpd.jpg",
+        "title": "The Rivals of Amziah King",
+        "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing t...",
+        "source_link": "https://www.themoviedb.org/movie/1124142"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+        "title": "Coyote vs. Acme",
+        "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
+        "source_link": "https://www.themoviedb.org/movie/1204680"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/s20ZqOKFqGVWOUtDz9XurwwBoF1.jpg",
-        "title": "Moana",
-        "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
-        "source_link": "https://www.themoviedb.org/movie/1108427"
-      },
-      {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
         "title": "Hope",
         "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking ...",
         "source_link": "https://www.themoviedb.org/movie/1058424"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/xAdcsPCcW3I0bS4zUwDHWWZjSpd.jpg",
-        "title": "The Rivals of Amziah King",
-        "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing t...",
-        "source_link": "https://www.themoviedb.org/movie/1124142"
       },
       {
         "rank": 7,
@@ -125,24 +118,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
-        "title": "Coyote vs. Acme",
-        "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
-        "source_link": "https://www.themoviedb.org/movie/1204680"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
         "title": "Practical Magic 2",
         "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all....",
         "source_link": "https://www.themoviedb.org/movie/1302904"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/s20ZqOKFqGVWOUtDz9XurwwBoF1.jpg",
+        "title": "Moana",
+        "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
+        "source_link": "https://www.themoviedb.org/movie/1108427"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
-        "title": "Mayday",
-        "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance...",
-        "source_link": "https://www.themoviedb.org/movie/1137844"
+        "image": "https://image.tmdb.org/t/p/w200/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+        "title": "The Last Kiss",
+        "description": "Laurel always imagined her first kiss would be a fairy tale. Instead, that fantasy turns frightening when she's cursed with an ability to see the deat...",
+        "source_link": "https://www.themoviedb.org/movie/1318467"
       }
     ]
   }
