@@ -1,76 +1,76 @@
 {
-  "last_updated": "September 17, 2026, 18:45 UTC",
+  "last_updated": "September 17, 2026, 23:51 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-siri-modular-face.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Apple Watch Series 12 has subtle design change that Apple didn\u2019t mention - 9to5Mac",
-        "description": "Apple Watch Series 12 has a subtle design change that Apple didn\u2019t mention in its announcement: larger bezels around the display.",
-        "source_link": "https://9to5mac.com/2026/09/16/apple-watch-series-12-has-subtle-design-change-that-apple-didnt-mention/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268716_Snap_Specs_NMonroe_0038_crop_ce3bfd.jpg?quality=90&strip=all&crop=5.153125%2C12.770360674811%2C94.846875%2C74.459278650378&w=1200",
+        "title": "I wore Snap\u2019s $2,200 smart glasses - theverge.com",
+        "description": "The Verge tried Snap\u2019s Specs AR glasses at the company\u2019s headquarters, and they\u2019re strange glasses with weird ideas.",
+        "source_link": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses"
       },
       {
         "rank": 2,
-        "image": "https://kotaku.com/app/uploads/2026/04/MindsEye-offical-artwork-Build-a-Rocket-Boy-1200x675.jpg",
-        "title": "The Studio Behind MindsEye Is Closing Following Latest Round Of Layoffs - Kotaku",
-        "description": "Multiple Build a Rocket Boy employees have stated that their time at the MindsEye maker has come to an end, and sources have confirmed to Kotaku that the company is winding down for good",
-        "source_link": "https://kotaku.com/the-studio-behind-mindseye-is-closing-following-latest-round-of-layoffs-2000735090"
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-8.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Google rolling out Android 17 QPR2 Beta 5 for Pixel - 9to5Google",
+        "description": "The two-week update cycle continues with Google rolling out Android 17 QPR2 Beta 5 for Pixel devices today...",
+        "source_link": "http://9to5google.com/2026/09/16/android-17-qpr2-beta-5-pixel/"
       },
       {
         "rank": 3,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/golden-gate-wallpaper-1152x648-1789126743.jpg",
-        "title": "macOS 27 Golden Gate: The Ars Technica review - Ars Technica",
-        "description": "It's both a \"Snow Leopard update\" and a major leap for Apple Intelligence.",
-        "source_link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/"
+        "image": "https://www.bleepstatic.com/content/hl-images/2024/10/02/Windows_11_headpic.jpg",
+        "title": "Windows 11 KB5124008 update breaks domain trust for some users - BleepingComputer",
+        "description": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials.",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/"
       },
       {
         "rank": 4,
-        "image": "https://techcrunch.com/wp-content/uploads/2025/08/IMG_3163.jpg?resize=1200,684",
-        "title": "Google says some Pixel phone owners were hacked in zero-day attacks - TechCrunch",
-        "description": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"",
-        "source_link": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/"
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/zuck-glasses-2173579471-e1788354102893.jpg?resize=1200,761",
+        "title": "After accusations of selling \u2018perv glasses,\u2019 Meta prepares to sell a pair without a camera - TechCrunch",
+        "description": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+        "source_link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/"
       },
       {
         "rank": 5,
-        "image": null,
-        "title": "Pok\u00e9mon Content Creator Gets Dragged After Opening Possibly Stolen Cards - Kotaku",
-        "description": null,
-        "source_link": "https://kotaku.com/roush-pokemon-tcg-30th-celebration-set-stolen-cards-ultimate-premium-2000735067"
+        "image": "https://kotaku.com/app/uploads/2026/09/hyper-light-1200x675.jpg",
+        "title": "'Nearly Everyone' Laid Off As Hyper Light Drifter Studio Risks Closing: 'I'm Not Sure Yet How Or If Heart Machine Survives' - Kotaku",
+        "description": "The team's recent projects didn't quite pan out",
+        "source_link": "https://kotaku.com/nearly-everyone-laid-as-hyper-light-drifter-studio-risks-closure-im-not-sure-yet-how-or-if-heart-machine-survives-2000735172"
       },
       {
         "rank": 6,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/Welcome-to-One-UI-9-screen-3.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Samsung starts rolling out Android 17 with One UI 9, confirms initial list of Galaxy devices - 9to5Google",
-        "description": "After months in beta, Samsung is now rolling out One UI 9, based on Android 17, to select Galaxy devices....",
-        "source_link": "http://9to5google.com/2026/09/16/samsung-android-17-one-ui-9-update-list/"
+        "image": "https://kotaku.com/app/uploads/2023/08/cbcfa88617eefefc2b8dd3e9bd64c663.jpg",
+        "title": "Super Ugly Mew Cards Are The Chase For Pok\u00e9mon\u2019s 30th Anniversary, And One\u2019s Already Sold For $20k - kotaku.com",
+        "description": "The RGB Mew cards were at one point believed to be a hoax",
+        "source_link": "https://kotaku.com/pokemon-30th-anniversary-tcg-card-set-mew-pull-rate-2000735148"
       },
       {
         "rank": 7,
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/16/USAT/91789309007-getty-images-1364281982-1.jpg?crop=560,315,x98,y77&width=560&height=315&format=pjpg&auto=webp",
-        "title": "What is \u2018ghost posting\u2019? Why Gen Z is hiding their Instagram posts - usatoday.com",
-        "description": "What is \u201cghost posting\u201d? Gen Z is using an Instagram trick to take control over what shows up on their followers' feeds. It's part of a growing trend.",
-        "source_link": "https://www.usatoday.com/story/life/health-wellness/2026/09/16/gen-zs-instagram-trick-ghost-posting-what-is-it/91777287007/"
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/appl-tv-icon-26.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "iOS 27.2 gives Apple TV a new profiles feature on iPhone - 9to5mac.com",
+        "description": "iOS 27.2 beta 1 arrived today, and with it a key new feature for the Apple TV app on iPhone: user profiles.",
+        "source_link": "https://9to5mac.com/2026/09/16/ios-27-2-gives-apple-tv-a-new-profiles-feature-on-iphone/"
       },
       {
         "rank": 8,
-        "image": "https://kotaku.com/app/uploads/2026/09/Video-game-shirts.jpg",
-        "title": "Why Does Trying To Buy A Video Game T-Shirt Suck So Much? - Kotaku",
-        "description": "GenAI has made things worse, but it's been bad for a while",
-        "source_link": "https://kotaku.com/why-does-trying-to-buy-a-video-game-t-shirt-suck-so-much-2000730574"
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Google-Home-MCP-cover.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Google Home MCP lets Antigravity, Claude, OpenClaw, & more control your smart home - 9to5Google",
+        "description": "Google today announced \u201cHome MCP\u201d to let your personal AI agent interact with your smart home devices via the Model Context Protocol.",
+        "source_link": "http://9to5google.com/2026/09/16/google-home-mcp/"
       },
       {
         "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/fighting-a-fire-breathing-chicken-in-Fable.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Xbox's Fable reboot was allowed a 10-year development because the RPG series is \"vital to the DNA of the platform\", developer Playground Games says - Eurogamer.net",
-        "description": "Fable survived its long development cycle because people inside Xbox think highly of the franchise.",
-        "source_link": "https://www.eurogamer.net/fable-vital-dna-of-xbox-playground-games"
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "iOS 27.2 expands Siri AI to these new languages - 9to5mac.com",
+        "description": "iOS 27.2 beta 1 released today for developers, and it expands Siri AI support to several new languages just days after the public launch.",
+        "source_link": "https://9to5mac.com/2026/09/16/ios-27-2-expands-siri-ai-to-these-new-languages/"
       },
       {
         "rank": 10,
-        "image": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/09/SINGER_1970DUALTRACK_TRIO.jpg",
-        "title": "Singer Reimagined Keeps The GMT Hits Coming With The 1970 DualTrack - Fratello Watches",
-        "description": "\u2713 Singer introduces the 1970 DualTrack in three variations \u2713 Khaki green, Cobalt blue, and Dark Espresso brown \u2713 CHF 23,000 (ex. VAT) \u2713",
-        "source_link": "https://www.fratellowatches.com/singer-reimagined-1970-dualtrack/"
+        "image": "https://images.macrumors.com/t/5ysreh3IqjkFV-ATNpPltlH2pRQ=/2000x/article-new/2026/09/apple-ios-27-health-app-watch.jpg",
+        "title": "iOS 27.2 Beta Previews New Apple Intelligence Health App - MacRumors",
+        "description": "The first beta of iOS 27.2 includes Apple's redesigned Health app, giving developers a chance to try out the features ahead of launch later this...",
+        "source_link": "https://www.macrumors.com/2026/09/16/ios-27-2-beta-health-app/"
       }
     ],
     "trending_movies": [
@@ -90,10 +90,10 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
-        "title": "The Rivals of Amziah King",
-        "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing t...",
-        "source_link": "https://www.themoviedb.org/movie/1124142"
+        "image": "https://image.tmdb.org/t/p/w200/wDebpR4NplIM8EteAGfd51Zdisu.jpg",
+        "title": "Sultana",
+        "description": "Sultana is a drama set in Istanbul's one and only strip club, telling a story of a women, power, rivalry and solidarity. A new Turkish story where wom...",
+        "source_link": "https://www.themoviedb.org/movie/1656489"
       },
       {
         "rank": 4,
@@ -104,45 +104,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/wDebpR4NplIM8EteAGfd51Zdisu.jpg",
-        "title": "Sultana",
-        "description": "Sultana is a drama set in Istanbul's one and only strip club, telling a story of a women, power, rivalry and solidarity. A new Turkish story where wom...",
-        "source_link": "https://www.themoviedb.org/movie/1656489"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
+        "title": "The Rivals of Amziah King",
+        "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing t...",
+        "source_link": "https://www.themoviedb.org/movie/1124142"
+      },
+      {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
-        "title": "Hope",
-        "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking ...",
-        "source_link": "https://www.themoviedb.org/movie/1058424"
+        "image": "https://image.tmdb.org/t/p/w200/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+        "title": "Tony",
+        "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will sha...",
+        "source_link": "https://www.themoviedb.org/movie/1329016"
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-        "title": "Moana",
-        "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
-        "source_link": "https://www.themoviedb.org/movie/1108427"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
         "title": "Coyote vs. Acme",
         "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
         "source_link": "https://www.themoviedb.org/movie/1204680"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
         "title": "Rage of Stars",
         "description": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity....",
         "source_link": "https://www.themoviedb.org/movie/1323244"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+        "title": "Moana",
+        "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
+        "source_link": "https://www.themoviedb.org/movie/1108427"
       }
     ]
   }
