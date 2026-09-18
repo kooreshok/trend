@@ -1,76 +1,76 @@
 {
-  "last_updated": "September 18, 2026, 16:54 UTC",
+  "last_updated": "September 18, 2026, 19:24 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.macrumors.com/t/2-E47N76SEYvPKCVIhCCCQ4JxHQ=/2500x/article-new/2026/09/50-New-macOS-Golden-Gate-Features-and-Changes-Worth-Checking-Out-Feature.jpg",
+        "title": "50 New macOS Golden Gate Features and Changes Worth Checking Out - MacRumors",
+        "description": "Apple released macOS 27 Golden Gate this week, and despite the company's focus this year on refining its flagship operating system, improving...",
+        "source_link": "https://www.macrumors.com/2026/09/17/new-features-changes-macos-27/"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/09/Rogue-PoP-Anniversary-Update_09-17-26.jpg",
+        "title": "The Rogue Prince of Persia \u2018Anniversary\u2019 update now available - Gematsu",
+        "description": "Publisher Ubisoft and developer Evil Empire have released the \u201cAnniversary\u201d update for The Rogue Prince of Persia.",
+        "source_link": "https://www.gematsu.com/2026/09/the-rogue-prince-of-persia-anniversary-update-now-available"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.macrumors.com/t/wPmqdDfKmnq9LyjpRxFCccGuSHI=/1600x/article-new/2026/09/Black-iPhone-18-Pro.jpg",
+        "title": "iPhone 18 Pro Max Test Shows Much Faster Charging From 0% to 100% - MacRumors",
+        "description": "Apple said the new iPhone 18 Pro models are capable of faster USB-C charging compared to the iPhone 17 Pro models, and a new video shared by the...",
+        "source_link": "https://www.macrumors.com/2026/09/17/iphone-18-pro-max-charging-speed-test/"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25480192/247141_NOTEPAD_X_BOX_CVIRGINIA.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Xbox\u2019s clever disc-to-digital feature was 15 years in the making - The Verge",
+        "description": "Microsoft\u2019s controversial Xbox One bets are paying off more than a decade later.",
+        "source_link": "https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad"
+      },
+      {
+        "rank": 5,
         "image": "https://www.gematsu.com/wp-content/uploads/2026/09/LoH-Collection-Ann_09-17-26.jpg",
         "title": "Dragon Slayer: The Legend of Heroes I & II announced for PS5, PS4, Switch, and PC - Gematsu",
         "description": "Edia has announced RPG collection Dragon Slayer: The Legend of Heroes I & II for PlayStation 5, PlayStation 4, Switch, and PC (Steam). It will launch in 2027 worldwide.",
         "source_link": "https://www.gematsu.com/2026/09/dragon-slayer-the-legend-of-heroes-i-ii-announced-for-ps5-ps4-switch-and-pc"
       },
       {
-        "rank": 2,
+        "rank": 6,
+        "image": null,
+        "title": "T-Mobile adds monthly fee to a new iPhone feature for customers - thestreet.com",
+        "description": null,
+        "source_link": "https://www.thestreet.com/retail/t-mobile-adds-monthly-fee-to-iphone-handoff-feature-for-customers"
+      },
+      {
+        "rank": 7,
+        "image": "https://assetsio.gnwcdn.com/valor-mortis-screen-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Valor Mortis is only $40 because its developer knows you'll be choosing from a lot of big games over this \"stacked\" autumn - Eurogamer.net",
+        "description": "Valor Mortis, previously delayed to avoid a busy September, has today revealed it won't be as expensive as many of the games releasing around the same time.",
+        "source_link": "https://www.eurogamer.net/valor-mortis-40-usd-price-stacked-autumn-season"
+      },
+      {
+        "rank": 8,
+        "image": "https://assets-prd.ignimgs.com/2026/09/17/screenshot-2026-09-17-140655-1789650442135.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Bungie Denies Rumor It Plans to Merge the Destiny and Marathon IPs - IGN",
+        "description": "Bungie has stepped in to deny a rumor that it planned to merge the Destiny and Marathon IPs amid continued questions about the future of both franchises.",
+        "source_link": "https://www.ign.com/articles/bungie-denies-rumor-it-plans-to-merge-the-destiny-and-marathon-ips-confirms-marathon-december-and-march-2027-updates-are-free"
+      },
+      {
+        "rank": 9,
+        "image": "https://tii.imgix.net/production/articles/17834/a2cec41c-a7e2-47aa-97b9-3f45bf448cda.jpg?fm=jpg&auto=compress&w=1200&frame=0",
+        "title": "Introducing The Information\u2019s 50 Most Influential People in Tech - The Information",
+        "description": "Money, technical savvy and disruptive ideas all matter within the technology industry. But the most seismic force is influence. Those who have it build, fund and steer the companies that alter the world\u2014again and again. Those without it can only rise so far. \u2026",
+        "source_link": "https://www.theinformation.com/articles/introducing-informations-50-influential-people-tech"
+      },
+      {
+        "rank": 10,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/bose1.jpg?quality=90&strip=all&crop=0,10.752607989199,100,78.494784021602",
         "title": "Bose\u2019s next open earbuds have more bass, more volume, and more battery life - The Verge",
         "description": "Bose helped start the clip-on earbud trend, and its second-gen Ultra Open Earbuds deliver improved sound and battery life with a redesigned charging case.",
         "source_link": "https://www.theverge.com/tech/996341/bose-ultra-open-earbuds-second-gen-wireless-sport"
-      },
-      {
-        "rank": 3,
-        "image": "https://assets.warhammer-community.com/articles/0-2026/september/wc14-09/40k_otherdetach-sep17-1-feature-id2c2kanqc.jpg",
-        "title": "Space Marines detachments \u2013 Salamanders, Raven Guard, and more - Warhammer Community",
-        "description": "More Warhammer 40,000 detachments for Codex-compliant Chapters.",
-        "source_link": "https://www.warhammer-community.com/articles/dhwqtqkc/space-marines-detachments-salamanders-raven-guard-and-more"
-      },
-      {
-        "rank": 4,
-        "image": "https://images.pushsquare.com/cf27edd765b6c/large.jpg",
-        "title": "There's a New Ni no Kuni Game, Kind of, and It's Now Confirmed for PS5 - Push Square",
-        "description": "Bloomwalker drops Xbox exclusivity",
-        "source_link": "https://www.pushsquare.com/news/2026/09/theres-a-new-ni-no-kuni-game-kind-of-and-its-now-confirmed-for-ps5"
-      },
-      {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0059.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "The Apple Watch Series 12 is the start of a new wearable era - The Verge",
-        "description": "The Apple Watch Series 12 adds two important hardware updates that spell out an ambitious plan for AI health and ambient sensing features.",
-        "source_link": "https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch"
-      },
-      {
-        "rank": 6,
-        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/TGS_AnnounceStatic_2026-814e275774b1b96bd7e9.jpg",
-        "title": "XBOX @ Tokyo Game Show 2026: All the Announcements, Including an Appearance by Hideo Kojima - XBOX Wire",
-        "description": "Tokyo Game Show is a celebration of the creators, developers, and communities shaping the future of gaming. As we celebrate 25 years of XBOX and over 20 years in Japan, Tokyo Game Show is an opportunity to recognize the players, creators, and developers who h\u2026",
-        "source_link": "https://news.xbox.com/en-us/2026/09/17/xbox-tokyo-game-show-2026-recap/"
-      },
-      {
-        "rank": 7,
-        "image": "https://variety.com/wp-content/uploads/2026/09/P104LHHH.jpg?w=1000&h=563&crop=1",
-        "title": "Bill Skarsgard to Star in Hideo Kojima\u2019s \u2018Physint\u2019 Video Game From Xbox - Variety",
-        "description": "Bill Skarsg\u00e5rd will star as the lead in Hideo Kojima's upcoming video game \"Physint\" from publishing partner Xbox.",
-        "source_link": "https://variety.com/2026/gaming/news/physint-bill-skarsgard-hideo-kojima-xbox-game-1236865279/"
-      },
-      {
-        "rank": 8,
-        "image": "https://assets-prd.ignimgs.com/2026/09/17/hsaspbgwkaatzcz-1789640377723.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Death Stranding's Mads Mikkelsen Plays Call of Duty: Modern Warfare 4 Antagonist - IGN",
-        "description": "Activision has revealed Casino Royale and Death Stranding star Mads Mikkelsen as a major antagonist in Call of Duty: Modern Warfare 4.",
-        "source_link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-campaign-trailer-reveals-death-stranding-star-mads-mikkelsen"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/08/Shape-of-Dreams-Console_09-17-26.jpg",
-        "title": "Shape of Dreams now available for PS5, Xbox Series, and Switch 2 alongside \u2018Starless Path\u2019 update - Gematsu",
-        "description": "Publisher NEOWIZ and developer Lizard Smoothie have released roguelite action video game Shape of Dreams for PlayStation 5, Xbox Series, Switch 2, and PC via Microsoft Store at a launch discount pr\u2026",
-        "source_link": "https://www.gematsu.com/2026/09/shape-of-dreams-now-available-for-ps5-xbox-series-and-switch-2-alongside-starless-path-update"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.androidauthority.com/wp-content/uploads/2025/04/Galaxy-S24-Ultra-S25-bench-scaled.jpg",
-        "title": "Galaxy S25 and older models finally have a One UI 9 rollout date - androidauthority.com",
-        "description": "The Galaxy S25 series and Samsung\u2019s 2025 foldables are set to get One UI 9 on September 28, with older models following later.",
-        "source_link": "https://www.androidauthority.com/samsung-galaxy-s25-z-fold-7-flip-7-one-ui-9-rollout-date-3712314/"
       }
     ],
     "trending_movies": [
@@ -97,7 +97,7 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/rGzlBlz9A7seUUTZp5k68A4IDvm.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg",
         "title": "Teenage Sex and Death at Camp Miasma",
         "description": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the ...",
         "source_link": "https://www.themoviedb.org/movie/1240889"
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
+        "image": "https://image.tmdb.org/t/p/w200/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+        "title": "The Fix",
+        "description": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing sc...",
+        "source_link": "https://www.themoviedb.org/movie/1228834"
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
         "title": "Rage of Stars",
         "description": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity....",
         "source_link": "https://www.themoviedb.org/movie/1323244"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+        "title": "Hope",
+        "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking ...",
+        "source_link": "https://www.themoviedb.org/movie/1058424"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
-        "title": "The Rivals of Amziah King",
-        "description": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing t...",
-        "source_link": "https://www.themoviedb.org/movie/1124142"
+        "image": "https://image.tmdb.org/t/p/w200/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
       }
     ]
   }
