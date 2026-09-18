@@ -1,76 +1,76 @@
 {
-  "last_updated": "September 18, 2026, 02:55 UTC",
+  "last_updated": "September 18, 2026, 07:57 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/b6e026950c7ce/large.jpg",
+        "title": "Round Up: Capcom Spotlight - TGS 2026 Showcase, Every Switch 2 Announcement And Update - Nintendo Life",
+        "description": "Free Mega Man Pragmata outfits, swimsuit reveals & more",
+        "source_link": "https://www.nintendolife.com/news/2026/09/round-up-capcom-spotlight-tgs-2026-showcase-every-switch-2-announcement-and-update"
+      },
+      {
+        "rank": 2,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Monster-Hunter-Wilds-Switch-2-gameplay.jpg",
+        "title": "Get a first look at Monster Hunter Wilds running on Nintendo Switch 2 - Nintendo Everything",
+        "description": "Some of the first gameplay of the new Nintendo Switch 2 version of Monster Hunter Wilds has now emerged. Capcom recently showed off this version ahead of its appearance at the 2026 Tokyo Game Show. Thanks to GameSpot, we have 17 minutes of footage. Everything\u2026",
+        "source_link": "https://nintendoeverything.com/get-a-first-look-at-monster-hunter-wilds-running-on-nintendo-switch-2/"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.nintendolife.com/77411251ab9d8/large.jpg",
+        "title": "Nintendo Store Adds Some New Exclusives For Switch Online Members (North America) - Nintendo Life",
+        "description": "A Zelda metal desktop display and Virtual Boy glasses case",
+        "source_link": "https://www.nintendolife.com/news/2026/09/nintendo-store-adds-some-new-exclusives-for-switch-online-members-north-america"
+      },
+      {
+        "rank": 4,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/tyler-review.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Photographer Tyler Stalman reviews the iPhone 18 Pro\u2019s new camera with variable aperture - 9to5Mac",
+        "description": "Here\u2019s what Tyler Stalman had to say about the iPhone 18 Pro\u2019s new variable aperture, photographic styles, Apple Reference Image, and more.",
+        "source_link": "https://9to5mac.com/2026/09/16/photographer-tyler-stalman-reviews-the-iphone-18-pros-new-camera-with-variable-aperture/"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/09/FF-Resonance-PV_09-16-26.jpg",
+        "title": "Final Fantasy Resonance TGS 2026 trailer - gematsu.com",
+        "description": "Square Enix has released the Tokyo Game Show 2026 trailer for HD-2D turn-based RPG Final Fantasy Resonance.",
+        "source_link": "https://www.gematsu.com/2026/09/final-fantasy-resonance-tgs-2026-trailer"
+      },
+      {
+        "rank": 6,
         "image": "https://www.gematsu.com/wp-content/uploads/2026/09/Lollipop-Chainsaw-2-B2B-Ann_09-16-26.jpg",
         "title": "Lollipop Chainsaw 2 Back2Back announced for PS5 - Gematsu",
         "description": "Publishers Dragami Games and Nada Holdings, and developer JP Universe have announced Lollipop Chainsaw 2 Back2Back for PlayStation 5. It will launch in 2027. It is also playable at Tokyo Game Show \u2026",
         "source_link": "https://www.gematsu.com/2026/09/lollipop-chainsaw-2-back2back-announced-for-ps5"
       },
       {
-        "rank": 2,
+        "rank": 7,
         "image": "https://images.macrumors.com/t/50A6SvlTYlnmQmnJMOfHIXNqoIA=/2500x/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
         "title": "Everything New in iOS 27.2 Beta 1 - MacRumors",
         "description": "Apple surprised us with the first beta of iOS 27.2 today instead of releasing an iOS 27.1 beta. Apple likely went straight to iOS 27.2 to keep iPhone...",
         "source_link": "https://www.macrumors.com/guide/ios-27-2-beta-features/"
       },
       {
-        "rank": 3,
-        "image": "https://image.cnbcfm.com/api/v1/image/108322746-1781639526820-108322746-1781636449036-Spiegel1.jpg?v=1785789937&w=1920&h=1080",
-        "title": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce - CNBC",
-        "description": "Snap is partnering with Nvidia, Amazon Web Services and Salesforce as part of an enterprise sales push centered on its $2,000 Specs AR glasses.",
-        "source_link": "https://www.cnbc.com/2026/09/16/snap-enterprise-ai-service.html"
+        "rank": 8,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-15-at-9.05.55-PM.png?quality=90&strip=all&crop=5.0466377440347%2C0%2C89.906724511931%2C100&w=1200",
+        "title": "Snap is launching a new Specs AI tool, and it\u2019s coming to iOS and Mac - The Verge",
+        "description": "Snap\u2019s \u201cSpecs Intelligence\u201d AI tool is launching in preview on iOS and will be coming to Mac and the Specs AR glasses.",
+        "source_link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac"
       },
       {
-        "rank": 4,
+        "rank": 9,
+        "image": "https://assets-prd.ignimgs.com/2026/09/16/minecraft-creeper-1789598198361.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "GPT-6 Astra Plays Minecraft, Gets So Depressed After Creeper Destroys Its Progress That It Farms Potatoes for Hours - IGN",
+        "description": "OpenAI\u2019s newest model, GPT-6 Astra, got so depressed after a creeper upended its progress in Minecraft that it listlessly farmed potatoes for hours and grew paranoid of anything green.",
+        "source_link": "https://www.ign.com/articles/gpt-6-astra-plays-minecraft-gets-so-depressed-after-creeper-destroys-its-progress-that-it-farms-potatoes-for-hours"
+      },
+      {
+        "rank": 10,
         "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-8.jpg?quality=82&strip=all&resize=1200,628",
         "title": "Google rolling out Android 17 QPR2 Beta 5 for Pixel - 9to5Google",
         "description": "The two-week update cycle continues with Google rolling out Android 17 QPR2 Beta 5 for Pixel devices today...",
         "source_link": "http://9to5google.com/2026/09/16/android-17-qpr2-beta-5-pixel/"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.bleepstatic.com/content/hl-images/2024/10/02/Windows_11_headpic.jpg",
-        "title": "Windows 11 KB5124008 update breaks domain trust for some users - BleepingComputer",
-        "description": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials.",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/"
-      },
-      {
-        "rank": 6,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/zuck-glasses-2173579471-e1788354102893.jpg?resize=1200,761",
-        "title": "After accusations of selling \u2018perv glasses,\u2019 Meta prepares to sell a pair without a camera - TechCrunch",
-        "description": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
-        "source_link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/"
-      },
-      {
-        "rank": 7,
-        "image": "https://kotaku.com/app/uploads/2026/09/hyper-light-1200x675.jpg",
-        "title": "'Nearly Everyone' Laid Off As Hyper Light Drifter Studio Risks Closing: 'I'm Not Sure Yet How Or If Heart Machine Survives' - Kotaku",
-        "description": "The team's recent projects didn't quite pan out",
-        "source_link": "https://kotaku.com/nearly-everyone-laid-as-hyper-light-drifter-studio-risks-closure-im-not-sure-yet-how-or-if-heart-machine-survives-2000735172"
-      },
-      {
-        "rank": 8,
-        "image": "https://kotaku.com/app/uploads/2023/08/cbcfa88617eefefc2b8dd3e9bd64c663.jpg",
-        "title": "Super Ugly Mew Cards Are The Chase For Pok\u00e9mon\u2019s 30th Anniversary, And One\u2019s Already Sold For $20k - kotaku.com",
-        "description": "The RGB Mew cards were at one point believed to be a hoax",
-        "source_link": "https://kotaku.com/pokemon-30th-anniversary-tcg-card-set-mew-pull-rate-2000735148"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-09-at-7.44.37-AM.png?quality=90&strip=all&crop=0%2C2.8499270178814%2C100%2C94.300145964237&w=1200",
-        "title": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders - The Verge",
-        "description": "Walmart is once again giving gamers a discount when they preorder an upcoming Nintendo game, this time taking $10 off Metroid Ravenous.",
-        "source_link": "https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.macrumors.com/t/5ysreh3IqjkFV-ATNpPltlH2pRQ=/2000x/article-new/2026/09/apple-ios-27-health-app-watch.jpg",
-        "title": "iOS 27.2 Beta Previews New Apple Intelligence Health App - MacRumors",
-        "description": "The first beta of iOS 27.2 includes Apple's redesigned Health app, giving developers a chance to try out the features ahead of launch later this...",
-        "source_link": "https://www.macrumors.com/2026/09/16/ios-27-2-beta-health-app/"
       }
     ],
     "trending_movies": [
@@ -97,17 +97,17 @@
       },
       {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+        "title": "You+Me \u2013 Against the World",
+        "description": "Alma Lancaster, 18, leads a seemingly perfect life in a wealthy family, who believe she is studying law. In secret, she pursues her true dream \u2014 cinem...",
+        "source_link": "https://www.themoviedb.org/movie/1641629"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
-        "title": "Rage of Stars",
-        "description": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity....",
-        "source_link": "https://www.themoviedb.org/movie/1323244"
       },
       {
         "rank": 6,
@@ -118,10 +118,10 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
+        "image": "https://image.tmdb.org/t/p/w200/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
+        "title": "Rage of Stars",
+        "description": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity....",
+        "source_link": "https://www.themoviedb.org/movie/1323244"
       },
       {
         "rank": 8,
@@ -132,10 +132,10 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-        "title": "Coyote vs. Acme",
-        "description": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the ...",
-        "source_link": "https://www.themoviedb.org/movie/1204680"
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
         "rank": 10,
