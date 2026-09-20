@@ -1,69 +1,76 @@
 {
-  "last_updated": "September 20, 2026, 20:13 UTC",
+  "last_updated": "September 20, 2026, 22:54 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Fatal-Fury-City-of-the-Wolves-DLC-leak-datamine.jpg",
+        "title": "Fatal Fury: City of the Wolves datamine potentially leaks future DLC characters - Nintendo Everything",
+        "description": "Fans have been datamining the latest update for Fatal Fury: City of the Wolves, which may have leaked future characters with a potential Season 4 of DLC. We\u2019ll be getting into the details below, so keep that in mind before proceeding. All information comes fr\u2026",
+        "source_link": "https://nintendoeverything.com/fatal-fury-city-of-the-wolves-datamine-potentially-leaks-future-dlc-characters/"
+      },
+      {
+        "rank": 2,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-backwards-compatibility-fixes-September-2026.jpg",
+        "title": "Nintendo has issued new batch of Switch 1 backwards compatibility fixes for Switch 2 - Nintendo Everything",
+        "description": "Nintendo has now released new Switch 1 backwards compatibility fixes for Switch 2, and here's the full list.",
+        "source_link": "https://nintendoeverything.com/nintendo-has-issued-new-batch-of-switch-1-backwards-compatibility-fixes-for-switch-2/"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.macrumors.com/t/ERXbALqGfy0lkvWipEq15WE1xic=/1600x/article-new/2023/11/apple-silicon-1-feature.jpg",
+        "title": "M6 Pro Chip Result on Geekbench is Likely Fake - MacRumors",
+        "description": "A supposed Geekbench result for an unreleased M6 Pro chip surfaced this week, but it is likely fake.  Geekbench creator John Poole informed MacRumors...",
+        "source_link": "https://www.macrumors.com/2026/09/19/m6-pro-geekbench-result-likely-fake/"
+      },
+      {
+        "rank": 4,
+        "image": "https://cdn.onemileatatime.com/wp-content/uploads/2026/09/Manila-Airport-Transit-1.jpeg?width=1200&quality=75&height=952&aspect_ratio=150%3A119",
+        "title": "Philippine Airlines\u2019 Manila Lounge & Ground Experience Is Laughably Bad - One Mile at a Time",
+        "description": "A long security line, near-invisible lounge signage, and Wi-Fi that won't connect to laptops \u2014 here's why Philippine Airlines' Manila transit experience disappoints.",
+        "source_link": "https://onemileatatime.com/insights/philippine-airlines-manila-lounge-ground-experience/"
+      },
+      {
+        "rank": 5,
+        "image": null,
+        "title": "The \u2018Hunter\u2019s Supermoon\u2019 Rises This Weekend \u2014 Here\u2019s When To See It - Forbes",
+        "description": null,
+        "source_link": "https://www.forbes.com/sites/jamiecartereurope/2026/09/19/the-hunters-supermoon-rises-this-weekend---heres-when-to-see-it/"
+      },
+      {
+        "rank": 6,
         "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-18-pro-max-ifr/inline/-952x498w6/gsmarena_001.jpg",
         "title": "Here's how Apple circumvented the battery shipping restrictions for iPhone 18 Pro Max - GSMArena.com news - GSMArena.com",
         "description": "Learn about this simple software trick that regulators hate. If you've been following the smartphone trends in recent years, you've probably noticed that...",
         "source_link": "https://www.gsmarena.com/heres_apples_clever_way_of_circumventing_20wh_battery_shipping_restrictions-news-74689.php"
       },
       {
-        "rank": 2,
+        "rank": 7,
         "image": "https://images.nintendolife.com/798a68048c15f/large.jpg",
         "title": "Round Up: The Switch 2 Games We Played At TGS From 2026's Shoo-In 'Publisher Of The Year' - Nintendo Life",
         "description": "Resident Mega Dogma Wilds",
         "source_link": "https://www.nintendolife.com/previews/round-up-the-switch-2-games-we-played-at-tgs-from-2026s-shoo-in-publisher-of-the-year"
       },
       {
-        "rank": 3,
+        "rank": 8,
         "image": "https://www.digitaltrends.com/tachyon/2026/09/Google-Pixel-11-Pro-Rear.jpg?resize=1200%2C630",
-        "title": "5 phones to buy instead of the Google Pixel 11 Pro - Digital Trends",
+        "title": "5 phones to buy instead of the Google Pixel 11 Pro - digitaltrends.com",
         "description": "The Pixel 11 Pro is one of Google\u2019s strongest flagships yet, but these five phones offer better value, more performance, or a completely different form factor.",
         "source_link": "https://www.digitaltrends.com/phones/5-phones-to-buy-instead-of-the-google-pixel-11-pro/"
       },
       {
-        "rank": 4,
+        "rank": 9,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-health-sensing-system.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Apple Watch Series 12 might finally convince me to switch away from WHOOP - 9to5Mac",
+        "description": "Earlier this year, I picked up a WHOOP for the very first time. As a longtime Apple Watch user I...",
+        "source_link": "https://9to5mac.com/2026/09/19/heres-why-apple-watch-series-12-may-get-me-to-ditch-whoop/"
+      },
+      {
+        "rank": 10,
         "image": "https://substackcdn.com/image/fetch/$s_!p6KV!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4abfe829-2918-424c-b622-20cc8199be1f_3152x1054.png",
         "title": "The Big Holes in Wearable Heart Rate Variability And Readiness Scores - Ground Truths | Eric Topol",
         "description": "A Gaping Lack of Evidence for Health Benefits",
         "source_link": "https://erictopol.substack.com/p/the-big-holes-in-wearable-heart-rate"
-      },
-      {
-        "rank": 5,
-        "image": "https://i.pcmag.com/imagery/articles/04PjbstS8k08WjabefhMbqG-1.fit_lim.size_1200x630.v1789734082.png",
-        "title": "We\u2019ve Found the Best iPhone 18 Pro and Pro Max Deals to Save You Up to $1,300 at Apple, AT&T, T-Mobile, and More - PCMag",
-        "description": "Today's the day. You can finally bring home an iPhone 18 Pro or iPhone 18 Pro Max. Here are the best places to order from to get the biggest bang for your buck.",
-        "source_link": "https://www.pcmag.com/news/iphone-18-pro-hits-shelves-today-save-up-to-1300-at-apple-tmobile-att"
-      },
-      {
-        "rank": 6,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0005.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "There are ways to protect yourself from your spying TV - The Verge",
-        "description": "Not every smart TV is as easily hackable as Gamers Nexus says LG\u2019s are, but they\u2019re all tracking what you watch unless you opt out.",
-        "source_link": "https://www.theverge.com/tech/997682/every-tv-company-is-spying"
-      },
-      {
-        "rank": 7,
-        "image": "https://media.appleinsider.com/gallery/69046-145576-iPhone-18-Pro-Max-back-burgundy-held-xl.jpg",
-        "title": "Teardown confirms US iPhone 18 Pro Max lacks Apple's C2 modem - AppleInsider",
-        "description": "A teardown of the iPhone 18 Pro Max has confirmed an oddity of the US-based model, in that it uses a Qualcomm modem instead of Apple's C2 chip.",
-        "source_link": "https://appleinsider.com/articles/26/09/19/teardown-confirms-us-iphone-18-pro-max-lacks-apples-c2-modem"
-      },
-      {
-        "rank": 8,
-        "image": "https://img.huffingtonpost.com/asset/6aa981921700007eb420180a.jpg?cache=henzy5IHdC&ops=500_281%2Cscalefit_1200_630",
-        "title": "No One Wants To Talk About This Embarrassing Part Of Aging \u2014 But This Small Toilet Tool Can Help - HuffPost",
-        "description": "The Bottom Buddy is an ergonomic toilet wand that is giving people back their independence.",
-        "source_link": "https://www.huffpost.com/entry/bottom-buddy-wiping-aid_l_6aa828dde4b0781f96938971"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.trueachievements.com/imgs/178540/poll-xbox-tokyo-game-show-2026.jpg",
-        "title": "Poll: What were your favorite announcements from Xbox Tokyo Game Show 2026? - TrueAchievements",
-        "description": "With 17 reveals and announcements from this year's show, for this week's poll, we want to know: what were your favorite announcements from Xbox Tokyo Game Show 2026?",
-        "source_link": "https://www.trueachievements.com/poll/63783/poll-xbox-tokyo-game-show-2026"
       }
     ],
     "trending_movies": [
@@ -111,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
-        "title": "You+Me - Against the World",
-        "description": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: fi...",
-        "source_link": "https://www.themoviedb.org/movie/1641629"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-        "title": "Moana",
-        "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
-        "source_link": "https://www.themoviedb.org/movie/1108427"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+        "title": "You+Me - Against the World",
+        "description": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: fi...",
+        "source_link": "https://www.themoviedb.org/movie/1641629"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+        "title": "Moana",
+        "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
+        "source_link": "https://www.themoviedb.org/movie/1108427"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg",
-        "title": "The Get Out",
-        "description": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds him...",
-        "source_link": "https://www.themoviedb.org/movie/1279493"
+        "image": "https://image.tmdb.org/t/p/w200/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+        "title": "Mayday",
+        "description": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance...",
+        "source_link": "https://www.themoviedb.org/movie/1137844"
       }
     ]
   }
