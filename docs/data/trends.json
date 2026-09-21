@@ -1,76 +1,76 @@
 {
-  "last_updated": "September 21, 2026, 11:50 UTC",
+  "last_updated": "September 21, 2026, 17:45 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQwYS19BNhac/v8/1200x800.jpg",
+        "title": "Apple\u2019s \u2018Personal Hub\u2019 AI Strategy Hints at Upcoming Home Device - Bloomberg.com",
+        "description": "Also: What happened with the iPhone Duo Pencil and layoffs at Fitness+.",
+        "source_link": "https://www.bloomberg.com/news/newsletters/2026-09-20/apple-s-home-ai-hub-details-apple-fitness-layoffs-and-iphone-duo-apple-pencil-mu9vv9k0"
+      },
+      {
+        "rank": 2,
+        "image": null,
+        "title": "Jim Cramer sends strong signal to Apple stock investors - thestreet.com",
+        "description": null,
+        "source_link": "https://www.thestreet.com/investing/stocks/apple-stock-jim-cramer-iphone-duo"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.cnet.com/wp-content/uploads/sites/2/RatHat-Malware.png",
+        "title": "Say Hello to RatHat, a New AI-Powered Malware Invading the Android Ecosystem - CNET",
+        "description": "The malware pretends to be a legitimate download for an app like Google Chrome.",
+        "source_link": "https://www.cnet.com/tech/services-and-software/rathat-malware-attacks-android-phones/"
+      },
+      {
+        "rank": 4,
+        "image": "https://assetsio.gnwcdn.com/wow-forever.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Blizzard developer says World of Warcraft: Forever's beta numbers are the \"craziest\" he's seen in 17 years - Eurogamer.net",
+        "description": "World of Warcraft: Forever's beta was overwhelmed by players this week, with a Blizzard developer calling the numbers the biggest he's seen in 17 years.",
+        "source_link": "https://www.eurogamer.net/world-of-warcraft-forever-beta-craziest-numbers-blizzard"
+      },
+      {
+        "rank": 5,
+        "image": "https://images.seattletimes.com/wp-content/uploads/2026/09/09162026_tzr_tzr_110924.jpg?d=1200x630",
+        "title": "Fitbit creators unveil screenless wearable to help track aging parents - The Seattle Times",
+        "description": "The $300 Luffu Link wearable has location sharing, health sensing, a wau to ask for help, plus voice logging for medications, meals, mood and other reminders.",
+        "source_link": "https://www.bloomberg.com/news/articles/2026-08-25/fitbit-founders-launch-screen-free-health-tracker-for-seniors"
+      },
+      {
+        "rank": 6,
+        "image": "https://images.axios.com/r4gyyIJySS_k4reDFk1vTQoABy4=/0x0:1920x1080/1366x768/2026/09/20/1789907160034.jpg",
+        "title": "The tech battle to build your AI assistant - Axios",
+        "description": "Tech giants and startups are racing to build your AI agent.",
+        "source_link": "https://www.axios.com/2026/09/20/ai-assistant-openai-meta-muse-instinct-grok-apple"
+      },
+      {
+        "rank": 7,
         "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EH2X75DW66CW3YPGB54D2V6EYU_size-normalized.jpg&w=1440",
         "title": "Hideo Kojima explains the surprise split with Sony - The Washington Post",
         "description": "Celebrated game director Hideo Kojima wrestled with Sony\u2019s surprise cancellation months before it went public, he said in an interview, fearing \u201cour studio could collapse.\u201d",
         "source_link": "https://www.washingtonpost.com/style/2026/09/20/hideo-kojima-explains-surprise-physint-split-with-sony/"
       },
       {
-        "rank": 2,
-        "image": "https://cdn.mos.cms.futurecdn.net/GTrSzbvbSigPgscpMS3JsU-2560-80.jpg",
-        "title": "I spent 30 minutes with the iPhone Duo \u2014 3 things you just don\u2019t get from the pictures - Tom's Guide",
-        "description": "This thing hits different when you hold it",
-        "source_link": "https://www.tomsguide.com/phones/iphones/i-spent-30-minutes-with-the-iphone-duo-3-things-you-just-dont-get-from-the-pictures"
-      },
-      {
-        "rank": 3,
-        "image": "https://assetsio.gnwcdn.com/Screenshot-2026-09-20-at-10.09.46.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Insomniac denies AI made Marvel's Wolverine's weird bathroom sign - blames a \"UV map bug\" instead - Eurogamer.net",
-        "description": "Insomniac denies using generative AI on Marvel's Wolverine after fans spotted a strange bathroom sign, blaming a \"UV map bug\" instead.",
-        "source_link": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign"
-      },
-      {
-        "rank": 4,
-        "image": "https://www.trueachievements.com/imgs/178563/xbox-gets-48-new-games-next-week-including-one-game-pass-addition.jpg",
-        "title": "Xbox gets 48 new games next week, including two Game Pass additions - TrueAchievements",
-        "description": "Next week, Control Resonant, Dune: Awakening, EA Sports FC 27, Graveyard Keeper 2, and 44 more new games launch across Xbox consoles and Xbox PC.",
-        "source_link": "https://www.trueachievements.com/news/new-xbox-games-september-21"
-      },
-      {
-        "rank": 5,
-        "image": "https://hackaday.com/wp-content/uploads/2026/09/backside_decap_RP2350.jpg",
-        "title": "Laser Your Way Into Debug Mode On The RP2350 - Hackaday",
-        "description": "The RP2350 is actually a pretty secure chip, all things considered. It has secure boot, ARMv8\u2019s TrustZone to split secure and non-secure execution, and you can permanently disable debug \u2014 the\u2026",
-        "source_link": "https://hackaday.com/2026/09/19/laser-your-way-into-debug-mode-on-the-rp2350/"
-      },
-      {
-        "rank": 6,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "iOS 27 makes your iPhone faster in these 30+ ways - 9to5Mac",
-        "description": "iOS 27 speeds up your iPhone across Photos, Safari, Camera, and more. Here are all the performance improvements Apple has outlined.",
-        "source_link": "https://9to5mac.com/2026/09/19/ios-27-makes-your-iphone-faster-in-30-ways-heres-the-full-list/"
-      },
-      {
-        "rank": 7,
-        "image": null,
-        "title": "Microsoft confirms its free highly rated Windows 11 editor is surprisingly hard to run - Neowin",
-        "description": null,
-        "source_link": "https://www.neowin.net/news/microsoft-confirms-its-free-highly-rated-windows-11-editor-is-surprisingly-hard-to-run/"
-      },
-      {
         "rank": 8,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Fatal-Fury-City-of-the-Wolves-DLC-leak-datamine.jpg",
-        "title": "Fatal Fury: City of the Wolves datamine potentially leaks future DLC characters - Nintendo Everything",
-        "description": "Fans have been datamining the latest update for Fatal Fury: City of the Wolves, which may have leaked future characters with a potential Season 4 of DLC. We\u2019ll be getting into the details below, so keep that in mind before proceeding. All information comes fr\u2026",
-        "source_link": "https://nintendoeverything.com/fatal-fury-city-of-the-wolves-datamine-potentially-leaks-future-dlc-characters/"
+        "image": "https://images.purexbox.com/6c01f6f4508ea/large.jpg",
+        "title": "Five Games Are Confirmed For Xbox Game Pass Over The Next Few Days - Pure Xbox",
+        "description": "Three \"Day One\" releases, and two games joining new tiers",
+        "source_link": "https://www.purexbox.com/news/2026/09/five-games-are-confirmed-for-xbox-game-pass-over-the-next-few-days"
       },
       {
         "rank": 9,
-        "image": "https://nintendoeverything.com/wp-content/uploads/Nintendo-backwards-compatibility-fixes-September-2026.jpg",
-        "title": "Nintendo has issued new batch of Switch 1 backwards compatibility fixes for Switch 2 - Nintendo Everything",
-        "description": "Nintendo has now released new Switch 1 backwards compatibility fixes for Switch 2, and here's the full list.",
-        "source_link": "https://nintendoeverything.com/nintendo-has-issued-new-batch-of-switch-1-backwards-compatibility-fixes-for-switch-2/"
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/27B-AI-model-running-on-an-iPhone-18-Pro.jpg",
+        "title": "Apple\u2019s A20 Pro Demonstrated To Be An On-Device AI Beast, Can Run A 27B Parameter Model At Double The Speed Of The iPhone 17 Pro\u2019s A19 Pro - Wccftech",
+        "description": "Apple\u2019s next-gen A20 Pro chip demonstrates groundbreaking on-device AI capabilities, running a massive 27B parameter model at double the speed of the iPhone 17 Pro's A19 Pro",
+        "source_link": "https://wccftech.com/apple-a20-pro-demonstrated-run-27b-ai-model-double-speed-a19-pro/"
       },
       {
         "rank": 10,
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Galaxy-20-Ultra.jpg",
-        "title": "Galaxy S27 Pro and S27 Ultra reportedly getting major battery upgrade - Notebookcheck",
-        "description": "Samsung\u2019s Galaxy S27 Ultra and S27 Pro are expected to get major battery upgrades, with certification records pointing to typical capacities of about 5,700mAh and 5,200mAh, respectively. This would mark the most significant battery upgrade since the S20.",
-        "source_link": "https://www.notebookcheck.net/Galaxy-S27-Pro-and-S27-Ultra-reportedly-getting-major-battery-upgrade.1403489.0.html"
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-4-scaled.jpg",
+        "title": "The iPhone 18 Pro isn't worth $1,200, and the Pixel 11 Pro proves it - Android Authority",
+        "description": "The iPhone 18 Pro is an excellent flagship, but the Pixel 11 Pro offers a more compelling package \u2014 and with a lower price tag.",
+        "source_link": "https://www.androidauthority.com/pixel-11-pro-vs-iphone-18-pro-3712022/"
       }
     ],
     "trending_movies": [
@@ -90,24 +90,24 @@
       },
       {
         "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+        "title": "Best of the Best",
+        "description": "Two best friends at UCLA leap into the competitive and cutthroat world of collegiate Bollywood-fusion dance....",
+        "source_link": "https://www.themoviedb.org/movie/1514863"
+      },
+      {
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/kereiSEFjFa2Rc0hIVpfeqwuXq4.jpg",
-        "title": "Teenage Sex and Death at Camp Miasma",
-        "description": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the ...",
-        "source_link": "https://www.themoviedb.org/movie/1240889"
-      },
-      {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
-        "title": "Best of the Best",
-        "description": "Two best friends at UCLA leap into the competitive and cutthroat world of collegiate Bollywood-fusion dance....",
-        "source_link": "https://www.themoviedb.org/movie/1514863"
+        "image": "https://image.tmdb.org/t/p/w200/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+        "title": "Forgotten Island",
+        "description": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports the...",
+        "source_link": "https://www.themoviedb.org/movie/1465063"
       },
       {
         "rank": 6,
@@ -125,10 +125,10 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
-        "title": "Forgotten Island",
-        "description": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports the...",
-        "source_link": "https://www.themoviedb.org/movie/1465063"
+        "image": "https://image.tmdb.org/t/p/w200/kereiSEFjFa2Rc0hIVpfeqwuXq4.jpg",
+        "title": "Teenage Sex and Death at Camp Miasma",
+        "description": "After years of slapdash sequels, the Camp Miasma franchise is handed over to an enthusiastic young director for resurrection. But when she visits the ...",
+        "source_link": "https://www.themoviedb.org/movie/1240889"
       },
       {
         "rank": 9,
@@ -139,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
-        "title": "You+Me - Against the World",
-        "description": "Alma Lancaster, 18, appears to lead a perfect life within a wealthy family who believes she is studying law. In secret, she pursues her true dream: fi...",
-        "source_link": "https://www.themoviedb.org/movie/1641629"
+        "image": "https://image.tmdb.org/t/p/w200/zMmHkDi2PqudAsHlhtmkkshZ5XX.jpg",
+        "title": "Spa Weekend",
+        "description": "Four lifelong friends realize that somewhere between careers, relationships, families, and everyday responsibilities, they\u2019ve forgotten how to take ca...",
+        "source_link": "https://www.themoviedb.org/movie/1341138"
       }
     ]
   }
