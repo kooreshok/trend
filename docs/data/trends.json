@@ -1,141 +1,148 @@
 {
-  "last_updated": "September 22, 2026, 15:22 UTC",
+  "last_updated": "September 22, 2026, 19:30 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://assets.warhammer-community.com/articles/0-2026/september/wc21-09/paintinterview_jonninas-sep21-1-feature-mogoyng1ot.jpg",
+        "title": "Jon 'Ninjon' Ninas on starting Warhammer, how he paints, and the new Warhammer Tone Pro - Warhammer Community",
+        "description": "Hugely popular painter Ninjon talks about the new paint range.",
+        "source_link": "https://www.warhammer-community.com/articles/jmxyx6hv/jon-ninjon-ninas-on-starting-warhammer-how-he-paints-and-the-new-warhammer-tone-pro"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ghaul_08cropped.jpg?quality=90&strip=all&crop=10.059114583333%2C0%2C79.881770833333%2C100&w=1200",
+        "title": "Bungie says it\u2019s \u201cnot done with Destiny\u201d and will bring back vaulted content - The Verge",
+        "description": "Bungie is reversing its controversial content vault that saw Destiny 2 content removed six years ago.",
+        "source_link": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations"
+      },
+      {
+        "rank": 3,
+        "image": "https://assets-prd.ignimgs.com/2026/09/21/cyberpowerpcphanteks-1790006054087.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Walmart Has the Best Deal on a GeForce RTX 5080 Prebuilt Gaming PC I've Seen in Months - IGN",
+        "description": "Equipped with an RTX 5080 Founder's Edition GPU, 32GB of RAM, and a 1TB SSD.",
+        "source_link": "https://www.ign.com/articles/walmart-has-the-best-deal-on-a-geforce-rtx-5080-prebuilt-gaming-pc-ive-seen-in-months"
+      },
+      {
+        "rank": 4,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Which-new-Apple-products-will-launch-this-year-\u2013-and-which-wont.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "John Ternus just gave the best defense yet for Vision Pro - 9to5Mac",
+        "description": "John Ternus recently sat down for a lengthy interview with Clique TV, and in it he gave the best defense yet for Apple\u00a0Vision Pro.",
+        "source_link": "https://9to5mac.com/2026/09/21/john-ternus-just-gave-the-best-defense-yet-for-vision-pro/"
+      },
+      {
+        "rank": 5,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2025/06/Pixel-VIPs.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Pixel VIPs 2.0 redesign starts rolling out with fullscreen look - 9to5Google",
+        "description": "Following last week\u2019s Feature Drop, Pixel VIPs 2.0 is beginning to roll out, and it brings more changes than just the widget redesign.",
+        "source_link": "http://9to5google.com/2026/09/21/pixel-vips-2-0-widget-redesign/"
+      },
+      {
+        "rank": 6,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-ultra-4-step-tracking.webp?resize=1200,628",
+        "title": "New Apple Watch Series 12 and Ultra 4 fitness feature is surprisingly motivating - 9to5Mac",
+        "description": "Apple Watch Series 12 and Ultra 4 include a new fitness-tracking feature: live step tracking on the watch face. Alongside...",
+        "source_link": "https://9to5mac.com/2026/09/21/this-new-apple-watch-series-12-and-ultra-4-feature-is-surprisingly-motivating/"
+      },
+      {
+        "rank": 7,
+        "image": "https://assetsio.gnwcdn.com/Physint-art.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Hideo Kojima doesn't know if Physint will be released on PS5, and he hasn't decided if it's going to use Sony's Decima game engine - Eurogamer.net",
+        "description": "Sony's sudden decision to drop Hideo Kojima's Metal Gear successor Physint has raised many questions about the game's future.",
+        "source_link": "https://www.eurogamer.net/hideo-kojima-physint-playstation-release-decima-engine"
+      },
+      {
+        "rank": 8,
+        "image": "https://kotaku.com/app/uploads/2025/02/c51e1c09f1eff7b0488d8b0d842d9fed-1200x675.jpg",
+        "title": "HD Pok\u00e9mon Ruby/Sapphire Video Sparks Switch Port Speculation - Kotaku",
+        "description": "The suspiciously HD Pok\u00e9mon Ruby and Sapphire clip has fans convinced that Nintendo Switch ports of the games might be dropping sooner than expected",
+        "source_link": "https://kotaku.com/high-definition-footage-of-pokemon-ruby-and-sapphire-on-official-pokemon-socials-sparks-nintendo-switch-port-speculation-2000736061"
+      },
+      {
+        "rank": 9,
         "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/EHVNVGDRULGDAFTBGZMWFZJOZU.jpg&w=1440",
         "title": "Why your smartwatch is so bad at telling you how many calories you burned - The Washington Post",
         "description": "A new study found that smartwatches overestimated caloric burns by about 15 to 25 percent.",
         "source_link": "https://www.washingtonpost.com/wellness/2026/09/21/why-your-smartwatch-is-so-bad-telling-you-how-many-calories-you-burn/"
       },
       {
-        "rank": 2,
-        "image": "https://images.pushsquare.com/596fff8f576c1/large.jpg",
-        "title": "Say Sawadika to Your New PS5 Controller, Feat Lisa from Blackpink - Push Square",
-        "description": "Got this DualSense from Geneva",
-        "source_link": "https://www.pushsquare.com/news/2026/09/say-sawadika-to-your-new-ps5-controller-feat-lisa-from-blackpink"
-      },
-      {
-        "rank": 3,
-        "image": "https://image.cnbcfm.com/api/v1/image/108364966-1789745761141-gettyimages-2093939320-1w3a3962.jpeg?v=1789745801&w=1920&h=1080",
-        "title": "These Gen Z-approved investment funds are having a moment\u2014what investors should know - CNBC",
-        "description": "Themed ETFs for industries like AI and energy are coming back into favor and are especially popular with Gen Z investors. Here are a few tips to keep in mind.",
-        "source_link": "https://www.cnbc.com/2026/09/21/themed-etfs-gen-z-investors.html"
-      },
-      {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_Dell_XPS_Googlebook_ADiBenedetto_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "The long dream of the Googlebook - The Verge",
-        "description": "By merging ChromeOS and Android, Google has found a new kind of laptop that it thinks can compete with Mac and Windows.",
-        "source_link": "https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history"
-      },
-      {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268735_iPhone_18_Pro_MAX_AKrales_0994.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Apple\u2019s clever software solution lets iPhone batteries skirt shipping limits - The Verge",
-        "description": "Apple has developed an interesting workaround to prevent the iPhone 18 Pro Max from being hit by shipping restrictions against big batteries.",
-        "source_link": "https://www.theverge.com/tech/998144/apple-iphone-18-pro-max-battery-firmware-limit"
-      },
-      {
-        "rank": 6,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/04/apple-intelligence-rainbow.jpeg?quality=82&strip=all&resize=1200,628",
-        "title": "You can now claim your payout from Apple\u2019s $250 million Siri settlement - 9to5Mac",
-        "description": "The major class action lawsuit against Apple over Siri and Apple Intelligence delays continues to progress. Apple is expected to...",
-        "source_link": "https://9to5mac.com/2026/09/21/you-can-now-claim-your-payout-from-apples-250-million-siri-settlement/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.videogameschronicle.com/files/2026/09/final-fantasy-7-revelation-pic2.jpg",
-        "title": "Final Fantasy 7 Revelation will let players raise their character\u2019s level automatically to skip grinding - Video Games Chronicle",
-        "description": "It's designed for players who don't want the side content and just want the main story",
-        "source_link": "https://www.videogameschronicle.com/news/final-fantasy-revelation-will-let-players-automatically-raise-their-characters-level-to-skip-grinding/"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.macrumors.com/t/28K8GzT_qW1bSru-H9LUBSEsEIQ=/2500x/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
-        "title": "iPhone 20 Pro Display Sizes Leak Ahead of 2027 Launch - MacRumors",
-        "description": "Apple's 20th-anniversary iPhone lineup could feature slightly larger displays than the iPhone 18 Pro models, if a new leak shared on Weibo is...",
-        "source_link": "https://www.macrumors.com/2026/09/21/iphone-20-pro-display-sizes-leak/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.yourtango.com/sites/default/files/image_blog/2026-09/zodiac-signs-money-troubles-end-september-22-2026.png",
-        "title": "Money Troubles Come To An End For 3 Zodiac Signs On Tuesday, September 22 - YourTango",
-        "description": "Money troubles start coming to an end for three zodiac signs on September 22, 2026 during Chiron retrograde. They are: Cancer, Leo, and Capricorn.",
-        "source_link": "https://www.yourtango.com/2026399723/zodiac-signs-money-troubles-end-september-22-2026"
+        "rank": 10,
+        "image": "https://assets-prd.ignimgs.com/2026/09/19/bioshock-1789779285257.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Fall 2007 Was the Greatest Stretch in Gaming \u2013 and Definitely Xbox \u2013 History - IGN",
+        "description": "The fact that you can slice up the Fall of 2007 in so many different ways \u2013 best Xbox season ever, best PC season ever, best November ever \u2013 and the argument for its unmatched brilliance still holds up is iron-clad proof that it is, indisputably, the best sea\u2026",
+        "source_link": "https://www.ign.com/articles/fall-2007-was-the-greatest-stretch-in-gaming-and-definitely-xbox-history"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-        "title": "Resident Evil",
-        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
-        "source_link": "https://www.themoviedb.org/movie/1423191"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
         "title": "One Last Shot",
         "description": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network....",
         "source_link": "https://www.themoviedb.org/movie/1607127"
       },
       {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+        "title": "Resident Evil",
+        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
+        "source_link": "https://www.themoviedb.org/movie/1423191"
+      },
+      {
         "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/iZK7dZXAZEqAt5TYionYretrgWg.jpg",
+        "title": "Super Troopers 3",
+        "description": "When Farva's over-the-top Indian engagement to Thorny's sister spirals into chaos, the Super Troopers must navigate Thorny's schemes to break up the r...",
+        "source_link": "https://www.themoviedb.org/movie/675871"
+      },
+      {
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
         "title": "Ice Cream Man",
         "description": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results....",
         "source_link": "https://www.themoviedb.org/movie/1477712"
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
+        "title": "The End of Oak Street",
+        "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
+        "source_link": "https://www.themoviedb.org/movie/1101383"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
         "title": "Heart of the Beast",
         "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness....",
         "source_link": "https://www.themoviedb.org/movie/1263337"
       },
       {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
-        "title": "Super Troopers 3",
-        "description": "When Farva's over-the-top Indian engagement to Thorny's sister spirals into chaos, the Super Troopers must navigate Thorny's schemes to break up the r...",
-        "source_link": "https://www.themoviedb.org/movie/675871"
-      },
-      {
-        "rank": 6,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
         "title": "Idiots",
         "description": "When two unqualified bozos are hired to transfer a rich teen to rehab, their straightforward gig quickly spirals into dangerous mayhem....",
         "source_link": "https://www.themoviedb.org/movie/445466"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "title": "The End of Oak Street",
-        "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
-        "source_link": "https://www.themoviedb.org/movie/1101383"
-      },
-      {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-        "title": "Forgotten Island",
-        "description": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports the...",
-        "source_link": "https://www.themoviedb.org/movie/1465063"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
         "title": "Digger",
         "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
         "source_link": "https://www.themoviedb.org/movie/1248832"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+        "title": "Backrooms",
+        "description": "A strange doorway appears in the basement of a furniture showroom....",
+        "source_link": "https://www.themoviedb.org/movie/1083381"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
+        "image": "https://image.tmdb.org/t/p/w200/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+        "title": "Forgotten Island",
+        "description": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports the...",
+        "source_link": "https://www.themoviedb.org/movie/1465063"
       }
     ]
   }
