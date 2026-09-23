@@ -1,76 +1,69 @@
 {
-  "last_updated": "September 23, 2026, 18:11 UTC",
+  "last_updated": "September 23, 2026, 21:59 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://image.cnbcfm.com/api/v1/image/108366464-1790106895627-gettyimages-2279393456-042a6837_z1kl6pep.jpeg?v=1790106926&w=1920&h=1080",
+        "title": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market - CNBC",
+        "description": "The overall smartphone market is expected to contract 14% in terms of units shipped in 2026.",
+        "source_link": "https://www.cnbc.com/2026/09/22/qualcomm-releases-android-chip-built-for-ai-amid-memory-shortage.html"
+      },
+      {
+        "rank": 2,
+        "image": "https://assets-prd.ignimgs.com/2026/09/22/walmartgamingpc-1790097740162.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "The Walmart GeForce Week Sale Has Black Friday Worthy Gaming PC Deals, But They're Selling Out Quickly - IGN",
+        "description": "The best prices I've seen all year on prebuilt gaming PCs with RTX 5060 to 5090.",
+        "source_link": "https://www.ign.com/articles/walmart-geforce-week-sale-2026-best-deals-on-gaming-pcs"
+      },
+      {
+        "rank": 3,
+        "image": "https://s.hdnux.com/photos/01/67/32/50/31304202/3/rawImage.jpg",
+        "title": "Surprise, surprise: Dreamforce nightlife is awful - sfgate.com",
+        "description": "Dreamforce's annual customer conference brings thousands to San Francisco for a three-day tech party, but are people having fun?",
+        "source_link": "https://www.sfgate.com/tech/article/dreamforce-nightlife-22444059.php"
+      },
+      {
+        "rank": 4,
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-7mst88qv0-1790105095846.jpg?quality=75&strip=all&1790090738&w=1200",
+        "title": "Seniors struggling worse than teens with screens, AI and algorithms - New York Post",
+        "description": "We talk a lot about young people\u2019s dependence on technology, but what if their parents and grandparents are quietly developing the same concerning digital habits?",
+        "source_link": "https://nypost.com/2026/09/22/tech/seniors-struggling-worse-than-teens-with-screens-ai-and-algorithms/"
+      },
+      {
+        "rank": 5,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.45.18-PM.png?resize=1200,927",
+        "title": "Apple could take on Whoop with a new fitness tracker, report says - TechCrunch",
+        "description": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices.",
+        "source_link": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/"
+      },
+      {
+        "rank": 6,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Premiere-Android-1-1152x648.jpg",
+        "title": "Adobe Premiere finally brings powerful video editing to Android, and it\u2019s free - Ars Technica",
+        "description": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra.",
+        "source_link": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/"
+      },
+      {
+        "rank": 7,
+        "image": "https://simscommunity.info/wp-content/uploads/2026/09/Sims-4-Free-Content-Overview-FI-2d9d70.jpg",
+        "title": "New Items & Bug Fixes: The Sims 4 Patch Overview (September 2026) - Sims Community",
+        "description": "A new Sims 4 Patch has dropped, bringing with it new CAS and Build-Buy items, as well as a whole host of new bug fixes for the game!",
+        "source_link": "https://simscommunity.info/2026/09/22/sims-4-patch-september-2026-overview/"
+      },
+      {
+        "rank": 8,
+        "image": "https://kotaku.com/app/uploads/2026/09/gears-of-war-1200x675.jpg",
+        "title": "Gears of War: E-Day Story Director Laid Off Just Four Days After Celebrating The Game Going Gold - Kotaku",
+        "description": "The Gears dev had been at the Coalition since 2022 and was excited for people to play the game",
+        "source_link": "https://kotaku.com/gears-of-war-e-day-story-director-laid-off-just-four-days-after-celebrating-the-game-going-gold-2000736518"
+      },
+      {
+        "rank": 9,
         "image": "https://images.pushsquare.com/df8d61e3a15e3/large.jpg",
         "title": "PS Plus Discount for One of PS5's Best New Indie Games - Push Square",
         "description": "Well Dweller opens to 90+ critic reviews",
         "source_link": "https://www.pushsquare.com/news/2026/09/ps-plus-discount-for-one-of-ps5s-best-new-indie-games"
-      },
-      {
-        "rank": 2,
-        "image": "https://simscommunity.info/wp-content/uploads/2025/01/ts4newupdateFE2025.jpg",
-        "title": "The Sims 4 Update: Official Patch Notes (Sep 22nd, 2026) - Sims Community",
-        "description": "The Sims Team has just released a new The Sims 4 Update across PC, Mac, Xbox and Playstation supported consoles. The update includes over 95 bug fixes for the",
-        "source_link": "https://simscommunity.info/2026/09/22/the-sims-4-update-sep-22-26-release/"
-      },
-      {
-        "rank": 3,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL4E_RQR6ZJc/v2/1200x800.jpg",
-        "title": "Apple Is Developing New Fitness Tracker Aimed at Rivaling Whoop - bloomberg.com",
-        "description": "Apple Inc. is developing a screenless health and fitness tracker similar to Whoop Inc.\u2019s wrist-worn device, part of an effort to rethink its smartwatch lineup and add new wearable technologies.",
-        "source_link": "https://www.bloomberg.com/news/articles/2026-09-22/apple-is-developing-new-fitness-tracker-aimed-at-rivaling-whoop"
-      },
-      {
-        "rank": 4,
-        "image": "https://images.macrumors.com/t/Y5LosWiiqev53GeuCdn3HHvaHJw=/2500x/article-new/2026/02/iOS-26-Home-Feature.jpg",
-        "title": "Apple Will Soon Announce an All-New Operating System - MacRumors",
-        "description": "Apple is developing an all-new operating system that is essentially a mix of tvOS, watchOS, and iOS, according to Bloomberg's Mark Gurman.   In...",
-        "source_link": "https://www.macrumors.com/2026/09/22/apple-working-on-an-all-new-operating-system/"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CMLYVKUMPMQUUIQUBGJJOJUPLE_size-normalized.jpg&w=1440",
-        "title": "\u2018Halo\u2019 to move under Call of Duty publisher as Xbox announces layoffs - washingtonpost.com",
-        "description": "The cuts affect Halo Studios, other first-party developers, and management and central functions within Xbox, according to an announcement posted this morning by Matt Booty, Xbox\u2019s chief content officer. The company is now about 75 percent finished with a res\u2026",
-        "source_link": "https://www.washingtonpost.com/entertainment/video-games/2026/09/22/halo-move-under-call-duty-publisher-xbox-announces-layoffs/"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.videocardz.com/1/2026/09/CYBERPOWER-PC-FOUNDERS-EDITION-RTX-50.webp",
-        "title": "CyberPowerPC now sells prebuilt PCs with NVIDIA RTX 50 Founders Edition GPUs, 1,000 RTX 5080 systems sell in one day - VideoCardz.com",
-        "description": "CyberPowerPC is using NVIDIA's own RTX 50 Founders Edition cards in new Walmart systems. The RTX 5080 configuration with Ryzen 7 9800X3D costs $2,299.",
-        "source_link": "https://videocardz.com/newz/cyberpowerpc-now-sells-prebuilt-pcs-with-nvidia-rtx-50-founders-edition-gpus-1000-rtx-5080-systems-sell-in-one-day"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/rayman-music.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "With \"a dozen\" music levels, Rayman Legends Retold doubles down on the best bit of the original game, and having played it I couldn't be happier - Eurogamer.net",
-        "description": "By adding in more music tracks to Rayman Legends Retold, Ubisoft proves the indefatigable spirit of the 2013 game is still alive.",
-        "source_link": "https://www.eurogamer.net/rayman-legends-iconic-music-levels-retold-interview"
-      },
-      {
-        "rank": 8,
-        "image": "https://kotaku.com/app/uploads/2026/04/state-of-decay-3-1200x675.jpg",
-        "title": "State Of Decay 3 Studio Announces It\u2019s Now Free From Xbox And Employee-Owned - Kotaku",
-        "description": "The studio behind open-world zombie series State of Decay confirmed it has completed its separation from Microsoft",
-        "source_link": "https://kotaku.com/state-of-decay-3-studio-announces-its-now-free-from-xbox-and-employee-owned-2000736481"
-      },
-      {
-        "rank": 9,
-        "image": "https://hackster.imgix.net/uploads/attachments/2004313/_nRic1Gsugj.blob?auto=compress%2Cformat&w=600&h=450&fit=min",
-        "title": "The Maker\u2019s Toolbox: Bambu Lab R1 CO2 Laser Cutter Review - Hackster.io",
-        "description": "I\u2019ve spent the past couple of weeks testing the new Bambu Lab R1 and have a lot of thoughts to share with you.",
-        "source_link": "https://www.hackster.io/news/the-maker-s-toolbox-bambu-lab-r1-co2-laser-cutter-review-6da9c29b3b93"
-      },
-      {
-        "rank": 10,
-        "image": "https://kotaku.com/app/uploads/2026/09/pokefights.jpg",
-        "title": "Pok\u00e9mon 30th Celebration Cards Cause Fights, Arrests And Embarrassing Displays From The Crowds Camping Overnight - Kotaku",
-        "description": "It's made all the more enjoyable when you realize the cards aren't holding any value",
-        "source_link": "https://kotaku.com/pokemon-tcg-30th-celebration-target-best-buy-scalpers-lines-fights-2000736414"
       }
     ],
     "trending_movies": [
@@ -97,38 +90,38 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
-        "title": "Idiots",
-        "description": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their pa...",
-        "source_link": "https://www.themoviedb.org/movie/445466"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
         "title": "Heart of the Beast",
         "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness....",
         "source_link": "https://www.themoviedb.org/movie/1263337"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-        "title": "Digger",
-        "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
-        "source_link": "https://www.themoviedb.org/movie/1248832"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
+        "title": "Idiots",
+        "description": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their pa...",
+        "source_link": "https://www.themoviedb.org/movie/445466"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
         "title": "Ice Cream Man",
         "description": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results....",
         "source_link": "https://www.themoviedb.org/movie/1477712"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+        "title": "Digger",
+        "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
+        "source_link": "https://www.themoviedb.org/movie/1248832"
       },
       {
         "rank": 9,
