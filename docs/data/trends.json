@@ -1,69 +1,76 @@
 {
-  "last_updated": "September 24, 2026, 20:14 UTC",
+  "last_updated": "September 24, 2026, 23:43 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260922_C0744.00_29_03_12.Still016.jpg?quality=90&strip=all&crop=0%2C10.741088940398%2C100%2C78.517822119203&w=1200",
+        "title": "Meta\u2019s next VR device isn\u2019t a headset \u2014 it\u2019s glasses - The Verge",
+        "description": "The new Meta VR Glasses, announced at Connect, sit on your ears like a pair of glasses but have immersive displays for watching movies, playing games, and working.",
+        "source_link": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F59c65c52-869f-45b1-953e-9417f9ec66e6.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+        "title": "Apple\u2019s ChatGPT tools \u2018dramatically underperformed\u2019, OpenAI claims - Financial Times",
+        "description": "Court documents reveal how companies\u2019 ties unravelled while the iPhone maker has since turned to a Google-powered \u2018Siri AI\u2019",
+        "source_link": "https://www.ft.com/content/256c4b36-a6c8-49ee-aa15-81cb089b2ced?syn-25a6b1a6\\\\u003d1"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/image6-4.webp",
+        "title": "NVIDIA Unleashes The Next Chapter of Neural Rendering & Path Tracing With RTX Kit SDK While RTX Mega Geometry 2.0 SDK Gives Devs the Ability To Stream Insane Levels of Detail - Wccftech",
+        "description": "NVIDIA unleashes RTX Kit and RTX Mega Geometry 2.0 SDKs, giving devs a taste of next-gen Neural Rendering, Path Tracing & game technologies.",
+        "source_link": "https://wccftech.com/nvidia-rtx-kit-rtx-mega-geometry-2-0-sdk-unleash-next-chapter-of-neural-rendering-path-tracing/"
+      },
+      {
+        "rank": 4,
+        "image": "https://cdn.mos.cms.futurecdn.net/bgKBTDRZr7ngCbZ7x3Tb8F-2560-80.jpg",
+        "title": "Microsoft\u2019s new 2026 Surface Pro 12-inch and Laptop 13-inch bring Snapdragon X2 Plus power and 5G connectivity - Windows Central",
+        "description": "The company is launching its new \"entry premium\" Surface Pro and Surface Laptop, both starting at over $1,000.",
+        "source_link": "https://www.windowscentral.com/hardware/surface/microsoft-unveils-new-surface-pro-12-inch-and-surface-laptop-13-inch-with-snapdragon-x2-plus-brighter-screens-and-5g-options-heres-a-first-look"
+      },
+      {
+        "rank": 5,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2195918304-1152x648-1749154130.jpg",
+        "title": "Discord age verification rolls out today with changes spurred by user backlash - Ars Technica",
+        "description": "Discord will try to automatically estimate ages, require verification when it can't.",
+        "source_link": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/"
+      },
+      {
+        "rank": 6,
+        "image": "https://kotaku.com/app/uploads/2026/09/Fireemblemfortunesbored.jpg",
+        "title": "Can Everybody In Fire Emblem: Fortune\u2019s Weave Please Shut The Hell Up A Little Bit? - Kotaku",
+        "description": "That goes double for the game itself",
+        "source_link": "https://kotaku.com/fire-emblem-fortunes-weave-too-much-dialogue-tutorials-2000736807"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.videogameschronicle.com/files/2026/07/double-fine-productions.jpg",
+        "title": "\u2018I just assume someone is being greedy\u2019: Double Fine\u2019s Tim Schafer says he doesn\u2019t know why the industry isn\u2019t recovering - Video Games Chronicle",
+        "description": "He also says Double Fine's survival is \"worth fighting for\" following its split from Xbox",
+        "source_link": "https://www.videogameschronicle.com/news/i-just-assume-someone-is-being-greedy-double-fines-tim-schafer-says-he-doesnt-know-why-the-industry-isnt-recovering/"
+      },
+      {
+        "rank": 8,
         "image": "https://images.macrumors.com/t/AMzlHXYCh5f7HOPQwqP7K3rUyXI=/1600x/article-new/2026/06/Siri-AI.jpg",
         "title": "Siri AI Coming to HomePod - MacRumors",
         "description": "Apple's smarter, more capable version of Siri is expanding to the HomePod, according to details found by code sleuth pdfu. According to pdfu,...",
         "source_link": "https://www.macrumors.com/2026/09/23/siri-ai-coming-to-homepod/"
       },
       {
-        "rank": 2,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-tab-s12-series-specs-leak/-952x498w6/gsmarena_000.jpg",
-        "title": "Galaxy Tab S12+ and S12 Ultra specs leak - here's what will be upgraded - GSMArena.com news - GSMArena.com",
-        "description": "As we've seen before, both slates will be powered by the Dimensity 9500. The \"plus\" model is getting a new battery too, but it loses a camera.",
-        "source_link": "https://www.gsmarena.com/galaxy_tab_s12_and_s12_ultra_specs_leak__heres_what_will_be_upgraded-news-74731.php"
-      },
-      {
-        "rank": 3,
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4fb0a335-ec4b-48df-aee4-5b68305eff34.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "title": "Zuckerberg to unveil new AI products as Meta\u2019s Muse app tops charts - Financial Times",
-        "description": "Social media group\u2019s personal AI \u2018agent\u2019 that can shop and schedule has become most downloaded app in US",
-        "source_link": "https://www.ft.com/content/f4770cdf-626e-41e3-9db0-3dc0b64b8c00?syn-25a6b1a6\\\\u003d1"
-      },
-      {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Blue-Yeti-2-USB-mic-hero-black.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Logitech\u2019s new Blue Yeti 2 mic adjusts itself to where you are - theverge.com",
-        "description": "Logitech G\u2019s Blue Yeti 2 USB microphone builds on its predecessor\u2019s classic design with some modern upgrades.",
-        "source_link": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability"
-      },
-      {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-        "title": "Xbox\u2019s Mythic Achievements sound like PlayStation\u2019s Platinum trophy - The Verge",
-        "description": "The Xbox Mythic Achievement has its own unique unlock sound.",
-        "source_link": "https://www.theverge.com/news/999404/xbox-mythic-achievement-feature"
-      },
-      {
-        "rank": 6,
-        "image": "https://kotaku.com/app/uploads/2026/09/the-fade.jpg",
-        "title": "Dragon Age Director Finally Says What Fans Have Been Thinking For Years: The Fade Needs To Go - Kotaku",
-        "description": "Mark Darrah also shared what he'd change about the other games in the series",
-        "source_link": "https://kotaku.com/dragon-age-origins-the-fade-mark-darrah-2000736731"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.nintendolife.com/bdc052b6f5fb6/large.jpg",
-        "title": "Poll: Who's Your Favourite Fire Emblem: Fortune's Weave Character? - Nintendo Life",
-        "description": "Cai on the prize",
-        "source_link": "https://www.nintendolife.com/features/poll-whos-your-favourite-fire-emblem-fortunes-weave-character"
-      },
-      {
-        "rank": 8,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/YouTube-Music-Ask-1-1.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "YouTube Music adding corner access to \u2018Ask Music\u2019 with Gemini - 9to5Google",
-        "description": "As part of Made on YouTube 2026, a handful of updates to YouTube Music that are coming later this year were previewed.",
-        "source_link": "http://9to5google.com/2026/09/23/youtube-music-ask-gemini/"
-      },
-      {
         "rank": 9,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Next year\u2019s iPhone Pro models have \u2018near-borderless\u2019 design: report - 9to5mac.com",
-        "description": "Apple reportedly has a redesign coming to next year\u2019s iPhone Pro models, here\u2019s the latest on the \u201cnear-borderless\u201d design and display.",
-        "source_link": "https://9to5mac.com/2026/09/23/next-years-iphone-pro-models-have-near-borderless-design-report/"
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+        "title": "ChatGPT mobile app gets voice-based agentic features - TechCrunch",
+        "description": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+        "source_link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/"
+      },
+      {
+        "rank": 10,
+        "image": "https://assets-prd.ignimgs.com/2026/08/24/the-witcher-3-gwent-songs-of-the-past-1787611131275.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Some Fans Seem to Think The Witcher 3 Remastered Looks Worse Than the Original in Official Comparison Clip - IGN",
+        "description": "The Witcher 3 fans have reacted to an official comparison clip featuring a snippet of side-by-side gameplay from the original game and the upcoming remaster, with some saying the new version actually looks worse.",
+        "source_link": "https://www.ign.com/articles/fans-seem-to-think-the-witcher-3-remastered-looks-worse-than-the-original"
       }
     ],
     "trending_movies": [
@@ -104,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
-        "title": "Idiots",
-        "description": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their pa...",
-        "source_link": "https://www.themoviedb.org/movie/445466"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
         "title": "Digger",
         "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
         "source_link": "https://www.themoviedb.org/movie/1248832"
       },
       {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
+        "title": "Idiots",
+        "description": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their pa...",
+        "source_link": "https://www.themoviedb.org/movie/445466"
+      },
+      {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-        "title": "Avengers: Doomsday",
-        "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
-        "source_link": "https://www.themoviedb.org/movie/1003596"
-      },
-      {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
         "title": "Forgotten Island",
         "description": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports the...",
         "source_link": "https://www.themoviedb.org/movie/1465063"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
+        "title": "Primetime",
+        "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controver...",
+        "source_link": "https://www.themoviedb.org/movie/1375441"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       }
     ]
   }
