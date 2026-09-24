@@ -1,69 +1,76 @@
 {
-  "last_updated": "September 24, 2026, 11:00 UTC",
+  "last_updated": "September 24, 2026, 16:23 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://techcrunch.com/wp-content/uploads/2024/09/discord-app-logo.jpg?resize=1200,800",
-        "title": "Discord\u2019s age verification era is upon us, despite community backlash - TechCrunch",
-        "description": "According to Discord, 90% of users will not have to verify their age.",
-        "source_link": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/xiaomi-18-pro-max-pair.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Xiaomi\u2019s new 18 Pro phones improve on Samsung\u2019s privacy display - theverge.com",
+        "description": "An international launch for the Xiaomi 18 Pro and 18 Pro Max is confirmed for later this year.",
+        "source_link": "https://www.theverge.com/tech/999253/xiaomi-18-pro-max-privacy-display-launch-china"
       },
       {
         "rank": 2,
+        "image": "https://images.purexbox.com/197420c202da8/large.jpg",
+        "title": "Unlocking Xbox's New Mythic Achievement Sounds Incredible, And Here's How It Might Work - Pure Xbox",
+        "description": "Answering the big DLC question",
+        "source_link": "https://www.purexbox.com/news/2026/09/unlocking-xboxs-new-mythic-achievement-sounds-incredible-and-heres-how-it-might-work"
+      },
+      {
+        "rank": 3,
+        "image": "https://assetsio.gnwcdn.com/discord-(2).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Discord re-launches age verification following backlash over privacy concerns - GamesIndustry.biz",
+        "description": "Platform adds alternative methods that do not require video selfies or ID to verify age",
+        "source_link": "https://www.gamesindustry.biz/discord-re-launches-age-verification-following-backlash-over-privacy-concerns"
+      },
+      {
+        "rank": 4,
+        "image": "https://assetsio.gnwcdn.com/gears-of-war-e-day-june-2026-screen-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch - Eurogamer.net",
+        "description": "Gears of War: E-Day story director Juan Vaca announced he was included in yesterday's Xbox cuts, which resulted in widespread layoffs and studio consolidation.",
+        "source_link": "https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts"
+      },
+      {
+        "rank": 5,
+        "image": "https://the5krunner.com/wp-content/uploads/2026/09/buy-coros-pace-4-pro-product-series.jpg?wsr",
+        "title": "new Coros Pace 4 Pro launched \u2013 Why? - the5krunner.com",
+        "description": "The Coros Pace 4 Pro arrives at GBP 389 / USD 449 with titanium, sapphire and a 1.47in 3,500-nit AMOLED. It is the best-built Pace yet, but it leaves the range with three overlapping maps-and-AMOLED watches.",
+        "source_link": "https://the5krunner.com/2026/09/22/coros-pace-4-pro/"
+      },
+      {
+        "rank": 6,
+        "image": "https://www.videogameschronicle.com/files/2026/09/Sprigatito.jpg",
+        "title": "Exclusive: The next Pok\u00e9mon TCG Delta Reign illustration rare officially revealed - Video Games Chronicle",
+        "description": "Sprigatito will get a new illustration rare in the new set",
+        "source_link": "https://www.videogameschronicle.com/news/exclusive-the-next-pokemon-tcg-delta-reign-illustration-rare-officially-revealed/"
+      },
+      {
+        "rank": 7,
+        "image": "https://cdn.mos.cms.futurecdn.net/FDJ2VgTWRJ4st6bGiL5nh9-2560-80.jpg",
+        "title": "I put the iPhone 18 Pro Max vs. iPhone 17 Pro Max through a 7-round face-off \u2014 here\u2019s the winner - Tom's Guide",
+        "description": "Is it worth upgrading?",
+        "source_link": "https://www.tomsguide.com/phones/iphones/i-put-the-iphone-18-pro-max-vs-iphone-17-pro-max-through-a-7-round-face-off-heres-the-winner"
+      },
+      {
+        "rank": 8,
         "image": "https://images.macrumors.com/t/Nn9fuxpIL2pwS6UfLUvYVmlrILE=/2500x/article-new/2026/01/mac-mini-blue.jpeg",
         "title": "New Mac Mini Has Two Storage Downsides, Including Unremovable SSD - macrumors.com",
         "description": "As confirmed by the website \"Expand Mac mini,\" NAND storage in the new Mac mini models with the M6 and M5 Pro chips is soldered to the logic...",
         "source_link": "https://www.macrumors.com/2026/09/22/new-mac-mini-ssd-cant-be-removed/"
       },
       {
-        "rank": 3,
+        "rank": 9,
         "image": "https://gizmodo.com/app/uploads/2026/08/Xbox-Gamescom-1-e1787757563766-1200x675.jpg",
         "title": "New Adtech From Microsoft Would Interrupt Your Game at 'Promoted Content Trigger Events' - Gizmodo",
         "description": "Fantastic news for everyone who loves ads in their video games.",
         "source_link": "https://gizmodo.com/new-adtech-from-microsoft-would-interrupt-your-game-at-promoted-content-trigger-events-2000815772"
       },
       {
-        "rank": 4,
-        "image": "https://assets-prd.ignimgs.com/2026/06/17/gears-thumb-1781708355267.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Gears of War: E-Day's Story Director Gets Unceremoniously Laid Off Just Days Ahead of Game's Release - IGN",
-        "description": "Gears of War: E-Day's story director has been laid off, just one week before the game's early access launch.",
-        "source_link": "https://www.ign.com/articles/gears-of-war-e-day-story-director-laid-off-just-a-week-before-early-access-launch"
-      },
-      {
-        "rank": 5,
+        "rank": 10,
         "image": "https://nintendoeverything.com/wp-content/uploads/Zelda-Ocarina-of-Time-pre-order-bonus-guide.jpg",
         "title": "Zelda: Ocarina of Time Nintendo Switch 2 pre-order bonus guide - Nintendo Everything",
         "description": "New guide covers every pre-order bonus available for The Legend of Zelda: Ocarina of Time remake on Switch 2 worldwide.",
         "source_link": "https://nintendoeverything.com/zelda-ocarina-of-time-nintendo-switch-2-pre-order-bonus-guide/"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.pokebeach.com/news/2026/09/hGhtjYgbqrkL5aJpDk5vWU-819-80_jpg_webp.jpg",
-        "title": "20+ \"Delta Reign\" Card Images Revealed! - PokeBeach",
-        "description": "TPCi's European branch has sent out Delta Reign card images to foreign press outlets and media, including IGN, Gamesradar, Nintendo Life,",
-        "source_link": "https://www.pokebeach.com/2026/09/20-delta-reign-card-images-revealed"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets-prd.ignimgs.com/2024/06/09/sod2-1717953324498.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "'These Changes Will Not Impact the Game's Launch' - State of Decay Developer Undead Labs Responds to 'Significant' Layoffs Following Independence from Xbox - IGN",
-        "description": "State of Decay 3 developer Undead Labs has confirmed that it has had to undergo \"significant\" layoffs following its independence from Xbox.",
-        "source_link": "https://www.ign.com/articles/state-of-decay-developer-undead-labs-confirms-significant-layoffs-following-independence-from-xbox"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.techpowerup.com/img/wnUpsa6nlRjnIBrF.jpg",
-        "title": "CyberPowerPC Launches RTX Founders Edition Pre-Built PCs Starting at $1,549 - TechPowerUp",
-        "description": "NVIDIA's Founders Edition graphics cards are generally restricted to its own retail channels, but it seems as though CyberPowerPC has a limited run of RTX 50-series GPUs available in its pre-built gaming PCs for a GeForce Week event, which is slated to run un\u2026",
-        "source_link": "https://www.techpowerup.com/352972/cyberpowerpc-launches-rtx-founders-edition-pre-built-pcs-starting-at-usd-1-549"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.macrumors.com/t/50A6SvlTYlnmQmnJMOfHIXNqoIA=/2500x/article-new/2026/09/iOS-27.2-Next-to-iPhone.jpg",
-        "title": "Apple Releases First Public Betas of iOS 27.2 and macOS Golden Gate 27.2 - macrumors.com",
-        "description": "Apple today seeded the first betas of iOS 27.2, iPadOS 27.2, macOS Golden Gate 27.2, tvOS 27.2, and watchOS 27.2. The software comes a day after...",
-        "source_link": "https://www.macrumors.com/2026/09/22/apple-releases-ios-27-2-public-beta/"
       }
     ],
     "trending_movies": [
@@ -83,45 +90,45 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
-        "title": "One Last Shot",
-        "description": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network....",
-        "source_link": "https://www.themoviedb.org/movie/1607127"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-        "title": "Heart of the Beast",
-        "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness....",
-        "source_link": "https://www.themoviedb.org/movie/1263337"
-      },
-      {
-        "rank": 6,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
         "title": "Idiots",
         "description": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their pa...",
         "source_link": "https://www.themoviedb.org/movie/445466"
       },
       {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+        "title": "One Last Shot",
+        "description": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network....",
+        "source_link": "https://www.themoviedb.org/movie/1607127"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+        "title": "Heart of the Beast",
+        "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness....",
+        "source_link": "https://www.themoviedb.org/movie/1263337"
+      },
+      {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
-        "title": "Ice Cream Man",
-        "description": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results....",
-        "source_link": "https://www.themoviedb.org/movie/1477712"
+        "image": "https://image.tmdb.org/t/p/w200/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+        "title": "Avengers: Doomsday",
+        "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
+        "source_link": "https://www.themoviedb.org/movie/1003596"
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-        "title": "Digger",
-        "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
-        "source_link": "https://www.themoviedb.org/movie/1248832"
+        "image": "https://image.tmdb.org/t/p/w200/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+        "title": "Forgotten Island",
+        "description": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports the...",
+        "source_link": "https://www.themoviedb.org/movie/1465063"
       },
       {
         "rank": 9,
@@ -132,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-        "title": "Forgotten Island",
-        "description": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports the...",
-        "source_link": "https://www.themoviedb.org/movie/1465063"
+        "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+        "title": "Digger",
+        "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
+        "source_link": "https://www.themoviedb.org/movie/1248832"
       }
     ]
   }
