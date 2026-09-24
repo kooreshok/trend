@@ -1,69 +1,62 @@
 {
-  "last_updated": "September 24, 2026, 00:21 UTC",
+  "last_updated": "September 24, 2026, 05:48 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://image.cnbcfm.com/api/v1/image/108366464-1790106895627-gettyimages-2279393456-042a6837_z1kl6pep.jpeg?v=1790106926&w=1920&h=1080",
-        "title": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market - CNBC",
-        "description": "The overall smartphone market is expected to contract 14% in terms of units shipped in 2026.",
-        "source_link": "https://www.cnbc.com/2026/09/22/qualcomm-releases-android-chip-built-for-ai-amid-memory-shortage.html"
+        "image": "https://www.techpowerup.com/img/wnUpsa6nlRjnIBrF.jpg",
+        "title": "CyberPowerPC Launches RTX Founders Edition Pre-Built PCs Starting at $1,549 - TechPowerUp",
+        "description": "NVIDIA's Founders Edition graphics cards are generally restricted to its own retail channels, but it seems as though CyberPowerPC has a limited run of RTX 50-series GPUs available in its pre-built gaming PCs for a GeForce Week event, which is slated to run un\u2026",
+        "source_link": "https://www.techpowerup.com/352972/cyberpowerpc-launches-rtx-founders-edition-pre-built-pcs-starting-at-usd-1-549"
       },
       {
         "rank": 2,
-        "image": "https://assets-prd.ignimgs.com/2026/09/22/walmartgamingpc-1790097740162.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "The Walmart GeForce Week Sale Has Black Friday Worthy Gaming PC Deals, But They're Selling Out Quickly - IGN",
-        "description": "The best prices I've seen all year on prebuilt gaming PCs with RTX 5060 to 5090.",
-        "source_link": "https://www.ign.com/articles/walmart-geforce-week-sale-2026-best-deals-on-gaming-pcs"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415491/DSC08587.JPG?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Rabbit\u2019s new AI agent doesn\u2019t need an R1 to run - The Verge",
+        "description": "Rabbit, the company behind the underwhelming R1 AI device, is launching an AI agent that can run across different operating systems and platforms.",
+        "source_link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3"
       },
       {
         "rank": 3,
-        "image": "https://s.hdnux.com/photos/01/67/32/50/31304202/3/rawImage.jpg",
-        "title": "Surprise, surprise: Dreamforce nightlife is awful - sfgate.com",
-        "description": "Dreamforce's annual customer conference brings thousands to San Francisco for a three-day tech party, but are people having fun?",
-        "source_link": "https://www.sfgate.com/tech/article/dreamforce-nightlife-22444059.php"
+        "image": "https://na.rdcpix.com/a2bd35f5f7f0da6db1784d9981b247ccw-c2015878763srd_w1200_q80.jpg",
+        "title": "Chip and Joanna Gaines Finally Sell Their Famous $2.7 Million Historic Waco Castle\u2014Fully Furnished - Realtor.com",
+        "description": "The yearslong renovation and design project, which was featured on \"Fixer Upper: The Castle,\" is ready for new residents.",
+        "source_link": "https://www.realtor.com/news/reality-tv/chip-joanna-gaines-sell-waco-texas-castle/"
       },
       {
         "rank": 4,
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-7mst88qv0-1790105095846.jpg?quality=75&strip=all&1790090738&w=1200",
-        "title": "Seniors struggling worse than teens with screens, AI and algorithms - New York Post",
-        "description": "We talk a lot about young people\u2019s dependence on technology, but what if their parents and grandparents are quietly developing the same concerning digital habits?",
-        "source_link": "https://nypost.com/2026/09/22/tech/seniors-struggling-worse-than-teens-with-screens-ai-and-algorithms/"
+        "image": "https://assets-prd.ignimgs.com/2026/09/22/gta-6-vice-city-sign-1790108459424.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "GTA 6's Miami Takeover Has Begun Following the Completion of a 'Welcome to Vice City' Sign in the City - IGN",
+        "description": "Rockstar Games has reportedly spent $1 million to install a \"Welcome to Vice City\" sign in Miami as part of Grand Theft Auto 6's marketing push.",
+        "source_link": "https://www.ign.com/articles/grand-theft-auto-6s-miami-takeover-begins-as-rockstar-spends-nearly-1-million-on-welcome-to-vice-city-signage"
       },
       {
         "rank": 5,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/Feature-Image-5.jpg",
+        "title": "CONTROL Resonant PC Performance Analysis & Tuning Guide \u2013 How To Get The Best Experience On PC - Wccftech",
+        "description": "CONTROL Resonant offers optimized graphics settings improving performance by 91% without ray tracing and 77% with it on RTX 4060, showcasing Remedy's Northlight Engine.",
+        "source_link": "https://wccftech.com/how-to/control-resonant-pc-performance-analysis-tuning-guide-how-to-get-the-best-experience-on-pc/"
+      },
+      {
+        "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/qualcomm-snapdragon-8-elite-gen-6-and-extreme.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+        "title": "Qualcomm\u2019s Snapdragon 8 Elite Gen 6 comes in an Extreme version too - The Verge",
+        "description": "There are two flagship Qualcomm Snapdragon chips this year, but good luck spotting the difference.",
+        "source_link": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.droid-life.com/wp-content/uploads/2026/09/Googlebook-2.jpg",
+        "title": "Googlebook Reactions: Who Are These $899+ Laptops For? - Droid Life",
+        "description": "Google unveiled its first wave of Googlebook laptops this week. The pricing surprised a few people, with the laptops starting at $899 and quickly jumping over $1,000 for some models. We have full Googlebook details here if you missed it, but essentially, they\u2026",
+        "source_link": "https://www.droid-life.com/2026/09/22/googlebook-reactions-who-are-these-899-laptops-for/"
+      },
+      {
+        "rank": 8,
         "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.45.18-PM.png?resize=1200,927",
         "title": "Apple could take on Whoop with a new fitness tracker, report says - TechCrunch",
         "description": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices.",
         "source_link": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Premiere-Android-1-1152x648.jpg",
-        "title": "Adobe Premiere finally brings powerful video editing to Android, and it\u2019s free - Ars Technica",
-        "description": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra.",
-        "source_link": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/"
-      },
-      {
-        "rank": 7,
-        "image": "https://simscommunity.info/wp-content/uploads/2026/09/Sims-4-Free-Content-Overview-FI-2d9d70.jpg",
-        "title": "New Items & Bug Fixes: The Sims 4 Patch Overview (September 2026) - Sims Community",
-        "description": "A new Sims 4 Patch has dropped, bringing with it new CAS and Build-Buy items, as well as a whole host of new bug fixes for the game!",
-        "source_link": "https://simscommunity.info/2026/09/22/sims-4-patch-september-2026-overview/"
-      },
-      {
-        "rank": 8,
-        "image": "https://kotaku.com/app/uploads/2026/09/gears-of-war-1200x675.jpg",
-        "title": "Gears of War: E-Day Story Director Laid Off Just Four Days After Celebrating The Game Going Gold - Kotaku",
-        "description": "The Gears dev had been at the Coalition since 2022 and was excited for people to play the game",
-        "source_link": "https://kotaku.com/gears-of-war-e-day-story-director-laid-off-just-four-days-after-celebrating-the-game-going-gold-2000736518"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.pushsquare.com/df8d61e3a15e3/large.jpg",
-        "title": "PS Plus Discount for One of PS5's Best New Indie Games - Push Square",
-        "description": "Well Dweller opens to 90+ critic reviews",
-        "source_link": "https://www.pushsquare.com/news/2026/09/ps-plus-discount-for-one-of-ps5s-best-new-indie-games"
       }
     ],
     "trending_movies": [
@@ -85,57 +78,57 @@
         "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
         "title": "One Last Shot",
-        "description": "Seasoned Navy SEAL Jake Harris is called back into action when the world is threatened by a former comrade. To track down and prevent the mastermind f...",
+        "description": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network....",
         "source_link": "https://www.themoviedb.org/movie/1607127"
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
-        "title": "Idiots",
-        "description": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their pa...",
-        "source_link": "https://www.themoviedb.org/movie/445466"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-        "title": "Digger",
-        "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
-        "source_link": "https://www.themoviedb.org/movie/1248832"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/iZK7dZXAZEqAt5TYionYretrgWg.jpg",
-        "title": "Super Troopers 3",
-        "description": "When Farva\u2019s wildly over-the-top Indian engagement to Thorny\u2019s sister spirals into chaos, the Super Troopers must navigate Thorny\u2019s schemes to break u...",
-        "source_link": "https://www.themoviedb.org/movie/675871"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-        "title": "Avengers: Doomsday",
-        "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
-        "source_link": "https://www.themoviedb.org/movie/1003596"
-      },
-      {
-        "rank": 9,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
         "title": "Heart of the Beast",
         "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness....",
         "source_link": "https://www.themoviedb.org/movie/1263337"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
+        "title": "Ice Cream Man",
+        "description": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results....",
+        "source_link": "https://www.themoviedb.org/movie/1477712"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
+        "title": "Idiots",
+        "description": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their pa...",
+        "source_link": "https://www.themoviedb.org/movie/445466"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+        "title": "Digger",
+        "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
+        "source_link": "https://www.themoviedb.org/movie/1248832"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/iZK7dZXAZEqAt5TYionYretrgWg.jpg",
+        "title": "Super Troopers 3",
+        "description": "When Farva\u2019s wildly over-the-top Indian engagement to Thorny\u2019s sister spirals into chaos, the Super Troopers must navigate Thorny\u2019s schemes to break u...",
+        "source_link": "https://www.themoviedb.org/movie/675871"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
+        "image": "https://image.tmdb.org/t/p/w200/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+        "title": "Avengers: Doomsday",
+        "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
+        "source_link": "https://www.themoviedb.org/movie/1003596"
       }
     ]
   }
