@@ -1,76 +1,62 @@
 {
-  "last_updated": "September 24, 2026, 23:43 UTC",
+  "last_updated": "September 25, 2026, 03:10 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/20260922_C0744.00_29_03_12.Still016.jpg?quality=90&strip=all&crop=0%2C10.741088940398%2C100%2C78.517822119203&w=1200",
-        "title": "Meta\u2019s next VR device isn\u2019t a headset \u2014 it\u2019s glasses - The Verge",
-        "description": "The new Meta VR Glasses, announced at Connect, sit on your ears like a pair of glasses but have immersive displays for watching movies, playing games, and working.",
-        "source_link": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on"
+        "image": "https://image.cnbcfm.com/api/v1/image/108367194-1790203487519-gettyimages-2296202855-20090101260924-99-740118.jpeg?v=1790203638&w=1920&h=1080",
+        "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push - CNBC",
+        "description": "At Meta Connect, CEO Mark Zuckerberg revealed new VR Glasses and the Muse Charm gadget for AI agents.",
+        "source_link": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html"
       },
       {
         "rank": 2,
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F59c65c52-869f-45b1-953e-9417f9ec66e6.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "title": "Apple\u2019s ChatGPT tools \u2018dramatically underperformed\u2019, OpenAI claims - Financial Times",
-        "description": "Court documents reveal how companies\u2019 ties unravelled while the iPhone maker has since turned to a Google-powered \u2018Siri AI\u2019",
-        "source_link": "https://www.ft.com/content/256c4b36-a6c8-49ee-aa15-81cb089b2ced?syn-25a6b1a6\\\\u003d1"
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11059-5/MediaObjects/41586_2026_11059_Fig1_HTML.png",
+        "title": "Targeting ZMYND8 unleashes IL-2 signalling to override T cell exhaustion - Nature",
+        "description": "ZMYND8 suppresses IL-2R\u2013STAT5 signalling by inhibiting p300-mediated transcriptional activation&nbsp;of Il2ra to&nbsp;enforce CD8+ T cell terminal&nbsp;exhaustion, and its deletion boosts effector-like states and markedly enhances antiviral and antitumour imm\u2026",
+        "source_link": "https://www.nature.com/articles/s41586-026-11059-5"
       },
       {
         "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2026/09/image-2026-09-23T151824.629-1200x675.jpg",
+        "title": "The First Ace Combat Game In Seven Years Is Playing For Keeps - Kotaku",
+        "description": "The franchise's ambitions are bigger than ever in Ace Combat 8: Wings of Theve",
+        "source_link": "https://kotaku.com/the-first-ace-combat-game-in-seven-years-is-playing-for-keeps-2000736801"
+      },
+      {
+        "rank": 4,
         "image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/image6-4.webp",
         "title": "NVIDIA Unleashes The Next Chapter of Neural Rendering & Path Tracing With RTX Kit SDK While RTX Mega Geometry 2.0 SDK Gives Devs the Ability To Stream Insane Levels of Detail - Wccftech",
         "description": "NVIDIA unleashes RTX Kit and RTX Mega Geometry 2.0 SDKs, giving devs a taste of next-gen Neural Rendering, Path Tracing & game technologies.",
         "source_link": "https://wccftech.com/nvidia-rtx-kit-rtx-mega-geometry-2-0-sdk-unleash-next-chapter-of-neural-rendering-path-tracing/"
       },
       {
-        "rank": 4,
-        "image": "https://cdn.mos.cms.futurecdn.net/bgKBTDRZr7ngCbZ7x3Tb8F-2560-80.jpg",
-        "title": "Microsoft\u2019s new 2026 Surface Pro 12-inch and Laptop 13-inch bring Snapdragon X2 Plus power and 5G connectivity - Windows Central",
-        "description": "The company is launching its new \"entry premium\" Surface Pro and Surface Laptop, both starting at over $1,000.",
-        "source_link": "https://www.windowscentral.com/hardware/surface/microsoft-unveils-new-surface-pro-12-inch-and-surface-laptop-13-inch-with-snapdragon-x2-plus-brighter-screens-and-5g-options-heres-a-first-look"
+        "rank": 5,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Surface-Laptop-Image.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm\u2019s X2 Plus - The Verge",
+        "description": "Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch. The hardware remains the same, but the chips get upgraded to Qualcomm\u2019s X2 Plus.",
+        "source_link": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus"
       },
       {
-        "rank": 5,
+        "rank": 6,
+        "image": "https://www.slashgear.com/img/gallery/13-cool-tractor-supply-gadgets-you-might-not-realize-exist/l-intro-1789588584.jpg",
+        "title": "13 Cool Tractor Supply Gadgets You Might Not Realize Exist - slashgear.com",
+        "description": "As one of the biggest suppliers around for equipment useful for those living in more rural settings, Tractor Supply sells a lot of obscure stuff.",
+        "source_link": "https://www.slashgear.com/2261948/cool-lesser-known-tractor-supply-gadgets/"
+      },
+      {
+        "rank": 7,
+        "image": "https://s.hdnux.com/photos/01/67/33/23/31307006/3/rawImage.jpg",
+        "title": "Gavin Newsom\u2019s childhood SF home returns to market - SFGATE",
+        "description": "Gov. Gavin Newsom's former childhood home in San Francisco is for sale for $4.5 million, offering Sutro Forest views and a secluded, woodsy setting.",
+        "source_link": "https://www.sfgate.com/realestate/article/newsom-sf-childhood-home-22445918.php"
+      },
+      {
+        "rank": 8,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2195918304-1152x648-1749154130.jpg",
         "title": "Discord age verification rolls out today with changes spurred by user backlash - Ars Technica",
         "description": "Discord will try to automatically estimate ages, require verification when it can't.",
         "source_link": "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/"
-      },
-      {
-        "rank": 6,
-        "image": "https://kotaku.com/app/uploads/2026/09/Fireemblemfortunesbored.jpg",
-        "title": "Can Everybody In Fire Emblem: Fortune\u2019s Weave Please Shut The Hell Up A Little Bit? - Kotaku",
-        "description": "That goes double for the game itself",
-        "source_link": "https://kotaku.com/fire-emblem-fortunes-weave-too-much-dialogue-tutorials-2000736807"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.videogameschronicle.com/files/2026/07/double-fine-productions.jpg",
-        "title": "\u2018I just assume someone is being greedy\u2019: Double Fine\u2019s Tim Schafer says he doesn\u2019t know why the industry isn\u2019t recovering - Video Games Chronicle",
-        "description": "He also says Double Fine's survival is \"worth fighting for\" following its split from Xbox",
-        "source_link": "https://www.videogameschronicle.com/news/i-just-assume-someone-is-being-greedy-double-fines-tim-schafer-says-he-doesnt-know-why-the-industry-isnt-recovering/"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.macrumors.com/t/AMzlHXYCh5f7HOPQwqP7K3rUyXI=/1600x/article-new/2026/06/Siri-AI.jpg",
-        "title": "Siri AI Coming to HomePod - MacRumors",
-        "description": "Apple's smarter, more capable version of Siri is expanding to the HomePod, according to details found by code sleuth pdfu. According to pdfu,...",
-        "source_link": "https://www.macrumors.com/2026/09/23/siri-ai-coming-to-homepod/"
-      },
-      {
-        "rank": 9,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-        "title": "ChatGPT mobile app gets voice-based agentic features - TechCrunch",
-        "description": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-        "source_link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/"
-      },
-      {
-        "rank": 10,
-        "image": "https://assets-prd.ignimgs.com/2026/08/24/the-witcher-3-gwent-songs-of-the-past-1787611131275.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Some Fans Seem to Think The Witcher 3 Remastered Looks Worse Than the Original in Official Comparison Clip - IGN",
-        "description": "The Witcher 3 fans have reacted to an official comparison clip featuring a snippet of side-by-side gameplay from the original game and the upcoming remaster, with some saying the new version actually looks worse.",
-        "source_link": "https://www.ign.com/articles/fans-seem-to-think-the-witcher-3-remastered-looks-worse-than-the-original"
       }
     ],
     "trending_movies": [
@@ -111,10 +97,10 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-        "title": "Digger",
-        "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
-        "source_link": "https://www.themoviedb.org/movie/1248832"
+        "image": "https://image.tmdb.org/t/p/w200/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
+        "title": "Primetime",
+        "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controver...",
+        "source_link": "https://www.themoviedb.org/movie/1375441"
       },
       {
         "rank": 7,
@@ -132,17 +118,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
-        "title": "Primetime",
-        "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controver...",
-        "source_link": "https://www.themoviedb.org/movie/1375441"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+        "title": "Digger",
+        "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
+        "source_link": "https://www.themoviedb.org/movie/1248832"
       }
     ]
   }
