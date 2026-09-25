@@ -1,134 +1,148 @@
 {
-  "last_updated": "September 25, 2026, 09:18 UTC",
+  "last_updated": "September 25, 2026, 14:56 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/057c94eab9d69/1280x720.jpg",
+        "title": "DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition Review (Switch 2) - Nintendo Life",
+        "description": "Well, at least it looks a little nicer",
+        "source_link": "https://www.nintendolife.com/reviews/nintendo-switch-2/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition"
+      },
+      {
+        "rank": 2,
+        "image": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2026/06/fire_emblem_fortunes_weave.jpg?fit=1600%2C900&ssl=1",
+        "title": "Digital Foundry: Fire Emblem Fortune\u2019s Weave is 720p docked, 540p handheld and 30fps, but uses DLSS - My Nintendo News",
+        "description": "The tech-focussed team at Digital Foundry has been busy examining the recently released Fire Emblem Fortune\u2019s Weave on the Nintendo Switch 2. The strategic RPG runs at 720p when played in docked mode\u2026",
+        "source_link": "https://mynintendonews.com/2026/09/24/digital-foundry-fire-emblem-fortunes-weave-is-720p-docked-540p-handheld-and-30-fps-but-uses-dlss/"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.nintendolife.com/0b1207e81e8a4/large.jpg",
+        "title": "One Of The Switch's Most Underrated Gems Is Now Free For Switch Online Users - Nintendo Life",
+        "description": "Play it, for goodness' sake",
+        "source_link": "https://www.nintendolife.com/news/2026/09/one-of-the-switchs-most-underrated-gems-is-now-free-for-switch-online-users"
+      },
+      {
+        "rank": 4,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_3740-1152x648.jpeg",
+        "title": "Review: Apple\u2019s hyper-pricey M5 Ultra Mac Studio made me into a vibe coder - arstechnica.com",
+        "description": "Usable local AI is a lot of fun, but how much would you pay for it?",
+        "source_link": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/"
+      },
+      {
+        "rank": 5,
+        "image": "https://assets-prd.ignimgs.com/2026/09/24/pokemon-30th-set-preorders-amazon-where-to-buy-ign-1790240002143.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Pok\u00e9mon TCG: 30th Anniversary Celebration Booster Bundles Are In Stock at Amazon - IGN",
+        "description": "Amazon has recently restocked its allocation of Pok\u00e9mon TCG's 30th Celebration Booster Bundles, which are currently available for just $45. That's considerably under current market rates, which sit around $122.64 at TCGplayer.",
+        "source_link": "https://www.ign.com/articles/pokemon-tcg-30th-anniversary-celebration-booster-bundles-where-to-buy"
+      },
+      {
+        "rank": 6,
+        "image": "https://assetsio.gnwcdn.com/xbox-controller-sam-pak-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Microsoft files patent for \"ad-credit\" system to show ads on PC and Xbox without disrupting gameplay - GamesIndustry.biz",
+        "description": "After viewing content, players would receive a \"credit\" for a designated period of ad-free playtime",
+        "source_link": "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay"
+      },
+      {
+        "rank": 7,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/mayo.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Apple says software update to fix iPhone 18 Pro rebooting bug is coming next week - 9to5Mac",
+        "description": "On Monday, we reported on an issue where iPhone 18 Pro and iPhone 18 Pro Max users were seeing their...",
+        "source_link": "https://9to5mac.com/2026/09/23/apple-iphone-18-pro-rebooting-bug-software-update-fix/"
+      },
+      {
+        "rank": 8,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizoRcyQE1N3fGUKa2FY_q_T7EG_CyjTpMGGk1oFUF-XpBZa0zCA6V2yEuv3_Z1OrEjMmhbHdaVmo6NMrwb98U9VFGXDpRcItboVuZH7qc9QgPd5ZLDudfJPWoaSDbtkoXJeLTZw-6JDbq5F6YEp4AkeoJd10Nb_H9tuU0fYdgqkLrP6BTpAPOYwO6WdmkN/s1600/wordpress-exploits.jpg",
+        "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure - The Hacker News",
+        "description": "Attackers are exploiting WordPress CVE-2026-87902 to include pearcmd.php and write PHP files when specific theme and server conditions are met.",
+        "source_link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html"
+      },
+      {
+        "rank": 9,
+        "image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/David_wearing_Snap_Specs_indoors_better_angle.png",
+        "title": "Snap Specs Hands-On: Minimum Viable Consumer True AR Glasses - UploadVR",
+        "description": "Snap Specs is optically rough, but with impressive tracking just about passes the minimum bar for first-generation true AR glasses.",
+        "source_link": "https://www.uploadvr.com/snap-specs-hands-on-minimum-viable-consumer-true-ar-glasses/"
+      },
+      {
+        "rank": 10,
         "image": "https://helios-i.mashable.com/imagery/articles/06MV8nz2gJRtTG8zkWE9cuC/hero-image.fill.size_1200x675.v1790154280.png",
         "title": "Nikon unveils Z5IIC camera, aimed at making photography less intimidating - mashable.com",
         "description": "If you're interested in seriously upgrading your Instagram posts, this camera may help.",
         "source_link": "https://mashable.com/tech/nikon-z5iic-announced-scene-mode-fish"
-      },
-      {
-        "rank": 2,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
-        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent - TechCrunch",
-        "description": "The tiny hardware device creates another mobile home for its AI agent Muse.",
-        "source_link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/"
-      },
-      {
-        "rank": 3,
-        "image": "https://image.cnbcfm.com/api/v1/image/108367194-1790203487519-gettyimages-2296202855-20090101260924-99-740118.jpeg?v=1790203638&w=1920&h=1080",
-        "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push - CNBC",
-        "description": "At Meta Connect, CEO Mark Zuckerberg revealed new VR Glasses and the Muse Charm gadget for AI agents.",
-        "source_link": "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html"
-      },
-      {
-        "rank": 4,
-        "image": "https://images.nintendolife.com/839f2fccbec1f/large.jpg",
-        "title": "Metroid Ravenous Announcement Sees Demand For Physical Copies Of Metroid Dread Spike - Nintendo Life",
-        "description": "Sealed copies are selling for \"well above\" the $100 mark",
-        "source_link": "https://www.nintendolife.com/news/2026/09/metroid-ravenous-announcement-sees-demand-for-physical-copies-of-metroid-dread-spike"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.droid-life.com/wp-content/uploads/2026/08/Pixel-11-Pro-Pixel-11-Pro-XL-Size-Comparison-2.jpg",
-        "title": "Verizon\u2019s Pixel 11 Pro Deal Drops $620 Off With No Trickery - droid-life.com",
-        "description": "The best Pixel 11 Pro deal is at Verizon, where you can save $620 off at full retail, no contract or device payment plan required.",
-        "source_link": "https://www.droid-life.com/2026/09/23/verizon-slashes-620-off-pixel-11-pro/"
-      },
-      {
-        "rank": 6,
-        "image": null,
-        "title": "Microsoft is killing an Office app you\u2019ve used for decades - thestreet.com",
-        "description": null,
-        "source_link": "https://www.thestreet.com/technology/microsoft-kills-35-year-old-office-app-publisher-oct-1"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets-prd.ignimgs.com/2026/09/22/geforceweeklaptops-1790109540795.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "The Walmart GeForce Week Sale Has Black Friday Worthy Gaming Laptop Deals - IGN",
-        "description": "The best prices I've seen all year on gaming laptops with RTX 5060 to 5080.",
-        "source_link": "https://www.ign.com/articles/the-walmart-geforce-week-sale-has-black-friday-worthy-gaming-laptop-deals"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.bgr.com/img/gallery/iphone-18-pro-review-the-best-camera-smartphone-of-2026/l-intro-1790198086.jpg",
-        "title": "iPhone 18 Pro Review: The Best Camera Smartphone Of 2026 - bgr.com",
-        "description": "As expected, the iPhone 18 Pro and iPhone 18 Pro Max are iterative upgrades, but the camera quality and battery life are best in class for 2026.",
-        "source_link": "https://www.bgr.com/2267077/iphone-18-pro-review/"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+        "title": "UNABOMBER",
+        "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Profes...",
+        "source_link": "https://www.themoviedb.org/movie/1492640"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/g9rXb8I143ikhEjHK1BZdZ2tQzt.jpg",
         "title": "The Love Hypothesis",
         "description": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of ...",
         "source_link": "https://www.themoviedb.org/movie/1032863"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
         "title": "Resident Evil",
         "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
         "source_link": "https://www.themoviedb.org/movie/1423191"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
         "title": "Toy Story 5",
         "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
         "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
         "title": "Heart of the Beast",
         "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness....",
         "source_link": "https://www.themoviedb.org/movie/1263337"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
         "title": "One Last Shot",
         "description": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network....",
         "source_link": "https://www.themoviedb.org/movie/1607127"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
         "title": "Primetime",
         "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controver...",
         "source_link": "https://www.themoviedb.org/movie/1375441"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-        "title": "The Death of Robin Hood",
-        "description": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the...",
-        "source_link": "https://www.themoviedb.org/movie/1284465"
-      },
-      {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/yXbG3BjBlu79tIknvqOF5Pnkw1V.jpg",
-        "title": "UNABOMBER",
-        "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Profes...",
-        "source_link": "https://www.themoviedb.org/movie/1492640"
+        "image": "https://image.tmdb.org/t/p/w200/5JJRTM1mMuqnK4BJojMljm5Xpgj.jpg",
+        "title": "Legend of the White Dragon",
+        "description": "Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obs...",
+        "source_link": "https://www.themoviedb.org/movie/843352"
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
         "title": "Digger",
         "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
         "source_link": "https://www.themoviedb.org/movie/1248832"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
-        "title": "Idiots",
-        "description": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their pa...",
-        "source_link": "https://www.themoviedb.org/movie/445466"
       }
     ]
   }
