@@ -1,69 +1,76 @@
 {
-  "last_updated": "September 27, 2026, 00:09 UTC",
+  "last_updated": "September 27, 2026, 06:07 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f6dc/live/98dd3e90-b7a1-11f1-ba14-197cc9acea52.jpg",
+        "title": "Silent Hill Townfall: Iconic horror game gets a clever Scottish makeover - BBC",
+        "description": "One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?",
+        "source_link": "https://www.bbc.com/news/articles/ckvgyzjpy2eno"
+      },
+      {
+        "rank": 2,
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Xbox-1.png",
+        "title": "Microsoft CEO Attempts To Kill Remaining Xbox Goodwill - GameSpot",
+        "description": "Satya Nadella praises the \"streamlining\" of Xbox's business after the latest layoffs and he isn't sure why Western consumers don't trust AI.",
+        "source_link": "https://www.gamespot.com/articles/microsoft-ceo-attempts-to-kill-remaining-xbox-goodwill/"
+      },
+      {
+        "rank": 3,
         "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-Watch-Health-Guardian-copy-1.jpg?quality=82&strip=all&resize=1200,628",
         "title": "Google Health 5.09 rolling out: Cardio Load from third-party workouts, more - 9to5Google",
         "description": "Following yesterday's announcement, Google Health 5.09 is rolling out with support for the new Health Guardian features on the Pixel Watch.",
         "source_link": "http://9to5google.com/2026/09/25/google-health-5-09-release-notes/"
       },
       {
-        "rank": 2,
+        "rank": 4,
+        "image": "https://assets-prd.ignimgs.com/2026/09/25/gta-6-alligator-3d-print-1790365181135.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Rather Than Pay $400, GTA 6 Fans Are Already 3D Printing Items in the Game's Pricey Collector's Edition - IGN",
+        "description": "Fans of GTA 6 are already copying items in the game\u2019s $400 collector\u2019s edition and 3D-printing them for a far cheaper price.",
+        "source_link": "https://www.ign.com/articles/gta-6-fans-are-already-3d-printing-items-in-the-games-400-collectors-edition"
+      },
+      {
+        "rank": 5,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg",
         "title": "Google ads caught delivering convincing scareware ads to unsuspecting users - Ars Technica",
         "description": "Ads appearing all over the Internet are trying to scam people.",
         "source_link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/"
       },
       {
-        "rank": 3,
-        "image": "https://images.macrumors.com/t/KrNLjmGnptCUVBzzHI3bfULhtY4=/2500x/article-new/2022/10/Apple-TV-2022-Feature-Blue.jpg",
-        "title": "Apple Finally Shares tvOS 27 Release Notes With List of New Features - MacRumors",
-        "description": "Apple today finally shared release notes for tvOS 27, nearly two weeks after releasing the software update. Many of the new features and changes...",
-        "source_link": "https://www.macrumors.com/2026/09/25/tvos-27-release-notes/"
+        "rank": 6,
+        "image": "https://gizmodo.com/app/uploads/2026/09/Meta-VR-glasses-7-1200x675.jpg",
+        "title": "VR Headsets Are So Cooked - Gizmodo",
+        "description": "After using Meta VR Glasses, I'm not so sure where headsets even fit in.",
+        "source_link": "https://gizmodo.com/vr-headsets-are-so-cooked-2000817445"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://www.androidauthority.com/wp-content/uploads/2025/05/google-one-ai-ultra-plan-hero-on-phone-scaled.jpg",
         "title": "Google's $5 AI plan is now even more tempting - Android Authority",
         "description": "Google AI plans now include premium Colab benefits, offering faster computing, GPU access, and more for subscribers.",
         "source_link": "https://www.androidauthority.com/google-ai-plans-premium-colab-benefits-3715703/"
       },
       {
-        "rank": 5,
+        "rank": 8,
         "image": "https://kotaku.com/app/uploads/2026/09/village-in-the-shade-box-1200x675.jpg",
         "title": "NISA CEO Says He's Having 'Discussions' With Sony About Discs - Kotaku",
         "description": "'It's possible that the discussion may change in the future'",
         "source_link": "https://kotaku.com/disgaea-dev-ceo-discussions-sony-physical-discs-2000737194"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/09/25/774e6cb2/gameinformer_gtavi_issue382_hero.jpg.webp",
         "title": "Cover Reveal \u2013 Grand Theft Auto VI - Game Informer",
         "description": "Rockstar Games' next crime epic graces the cover of Game Informer. - Game Informer",
         "source_link": "https://gameinformer.com/cover-reveal/2026/09/25/cover-reveal-grand-theft-auto-vi"
       },
       {
-        "rank": 7,
+        "rank": 10,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg",
         "title": "Microsoft stops insisting you need a \"Copilot+ PC\" - Ars Technica",
         "description": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
         "source_link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/"
-      },
-      {
-        "rank": 8,
-        "image": null,
-        "title": "T-Mobile quietly plans new perks to keep customers from switching - thestreet.com",
-        "description": null,
-        "source_link": "https://www.thestreet.com/retail/t-mobile-quietly-plans-eight-new-free-perks-for-customers"
-      },
-      {
-        "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2024/07/2535f786fb4aea9c51067a4d845be727.jpg",
-        "title": "Several Final Fantasy XIV Modding Communities Have Banned Popular NSFW Modder - Kotaku",
-        "description": "The bans came after modder Noffletoff was credibly accused of participating in graphic discussions of illegal content",
-        "source_link": "https://kotaku.com/final-fantasy-14-nsfw-modder-noffletoff-alleged-csam-discussion-ring-2000737071"
       }
     ],
     "trending_movies": [
@@ -83,38 +90,38 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-        "title": "Toy Story 5",
-        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
-        "source_link": "https://www.themoviedb.org/movie/1084244"
+        "image": "https://image.tmdb.org/t/p/w200/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+        "title": "Primetime",
+        "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controver...",
+        "source_link": "https://www.themoviedb.org/movie/1375441"
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-        "title": "The Love Hypothesis",
-        "description": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of ...",
-        "source_link": "https://www.themoviedb.org/movie/1032863"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
-        "title": "One Last Shot",
-        "description": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network....",
-        "source_link": "https://www.themoviedb.org/movie/1607127"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
+        "title": "The Love Hypothesis",
+        "description": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of ...",
+        "source_link": "https://www.themoviedb.org/movie/1032863"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+        "title": "Heart of the Beast",
+        "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness....",
+        "source_link": "https://www.themoviedb.org/movie/1263337"
+      },
+      {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-        "title": "Primetime",
-        "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controver...",
-        "source_link": "https://www.themoviedb.org/movie/1375441"
+        "image": "https://image.tmdb.org/t/p/w200/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+        "title": "Toy Story 5",
+        "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder ...",
+        "source_link": "https://www.themoviedb.org/movie/1084244"
       },
       {
         "rank": 8,
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-        "title": "Heart of the Beast",
-        "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness....",
-        "source_link": "https://www.themoviedb.org/movie/1263337"
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-        "title": "The End of Oak Street",
-        "description": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers ...",
-        "source_link": "https://www.themoviedb.org/movie/1101383"
+        "image": "https://image.tmdb.org/t/p/w200/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+        "title": "One Last Shot",
+        "description": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network....",
+        "source_link": "https://www.themoviedb.org/movie/1607127"
       }
     ]
   }
