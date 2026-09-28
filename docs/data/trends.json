@@ -1,69 +1,76 @@
 {
-  "last_updated": "September 28, 2026, 10:27 UTC",
+  "last_updated": "September 28, 2026, 18:22 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": null,
+        "title": "Users find a default, mandatory Windows feature freezes your PC when you use internet - neowin.net",
+        "description": null,
+        "source_link": "https://www.neowin.net/news/users-find-a-default-mandatory-windows-feature-freezes-your-pc-when-you-use-internet/"
+      },
+      {
+        "rank": 2,
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLXDyUjhFLnw/v18/1200x800.jpg",
+        "title": "Meta\u2019s VR Glasses Are What the Apple Vision Pro Should Have Been - Bloomberg.com",
+        "description": "Apple weighs what to do next with its headset.",
+        "source_link": "https://www.bloomberg.com/news/newsletters/2026-09-27/meta-s-vr-glasses-are-exactly-what-the-apple-vision-pro-should-have-been-mujvy8q6"
+      },
+      {
+        "rank": 3,
+        "image": "https://ychef.files.bbci.co.uk/624x351/p0pc7npb.jpg",
+        "title": "How much should you actually tip on a 'free' walking tour? - BBC",
+        "description": "They're advertised as free \u2013 but guides often pay a fee for every guest. Here's what travellers should know before joining one.",
+        "source_link": "https://www.bbc.com/travel/article/20260924-how-much-should-you-actually-pay-on-a-free-walking-tour"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer_2eede2.jpg?quality=90&strip=all&crop=0%2C3.4168590960013%2C100%2C93.166281807997&w=1200",
+        "title": "Googlebooks might be the real deal - The Verge",
+        "description": "Plus: New Meta glasses, Remedy\u2019s Control sequel, Microsoft\u2019s updated Surface Mouse, and more.",
+        "source_link": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse"
+      },
+      {
+        "rank": 5,
+        "image": "https://images.purexbox.com/06bb311b673be/large.jpg",
+        "title": "25+ Of The Best Discounted Games From Xbox's Open World Sale - purexbox.com",
+        "description": "Big worlds, small prices",
+        "source_link": "https://www.purexbox.com/features/25plus-of-the-best-discounted-games-from-xboxs-open-world-sale"
+      },
+      {
+        "rank": 6,
+        "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/7TRLGXZLP2IYEUGL7B2WF5KIXY.JPG?auth=3972485972a74aeddd57f475dc69c97d7f7d8cb5ffd9e6c4beeba06d0c68b412&width=1440",
+        "title": "Terrell Williams is back with the Patriots after beating prostate cancer. He has a message for everyone. - The Boston Globe",
+        "description": "Like this columnist learned: It doesn't matter how tough you think you are. Testing is vital, especially for Black men.",
+        "source_link": "https://www.bostonglobe.com/2026/09/27/sports/patriots-terrell-williams-prostate-cancer/"
+      },
+      {
+        "rank": 7,
         "image": "https://www.techpowerup.com/img/aoLF3cP3TZvyyxG1.jpg",
         "title": "Microsoft CEO Says Xbox's \"Streamlining\" Is \"Great To See\" Following Recent Layoffs - techpowerup.com",
         "description": "Microsoft CEO Satya Nadella called Xbox's ongoing job cuts \"great to see,\" commenting on the restructuring led by Xbox CEO Asha Sharma. The remark follows Xbox's latest layoffs, which cut 268 more jobs on top of the 1,600 eliminated earlier this year, part of\u2026",
         "source_link": "https://www.techpowerup.com/353123/microsoft-ceo-says-xboxs-streamlining-is-great-to-see-following-recent-layoffs"
       },
       {
-        "rank": 2,
-        "image": null,
+        "rank": 8,
+        "image": "https://m-cdn.phonearena.com/images/article/183618-wide-two_1200/Video-shows-a-southpaw-using-the-iPhone-Duo-with-one-hand.jpg",
         "title": "Video shows a southpaw using the iPhone Duo with one hand - phonearena.com",
-        "description": null,
+        "description": "Can a lefty use the iPhone Duo with one hand?",
         "source_link": "https://www.phonearena.com/news/iphone-duo-used-left-handed-in-video_id183618"
       },
       {
-        "rank": 3,
+        "rank": 9,
         "image": "https://gamegpu.com/images/1_2026/NEWS/Q3/Sent/6/Image_izzxykizzxykizzx_ggpu.webp#joomlaImage://local-images/1_2026/NEWS/Q3/Sent/6/Image_izzxykizzxykizzx_ggpu.webp?width=1920&height=1080",
         "title": "Silent Hill: Townfall compared on RTX 5080 and PS5 Pro with DLSS 4.5 and PSSR 2 in 4K - GameGPU",
         "description": "An extended comparative benchmarking of psychological horror films has been published online. Silent Hill: Townfall, in which the quality of graphics and level...",
         "source_link": "https://en.gamegpu.com/news/igry/silent-hill-townfall-sravnili-na-rtx-5080-i-ps5-pro-s-dlss-4-5-i-pssr-2-v-4k"
       },
       {
-        "rank": 4,
+        "rank": 10,
         "image": "https://gamegpu.com/images/1_2026/NEWS/Q3/Sent/6/Image_ma1rn2ma1rn2ma1r_ggpu.webp#joomlaImage://local-images/1_2026/NEWS/Q3/Sent/6/Image_ma1rn2ma1rn2ma1r_ggpu.webp?width=1920&height=1080",
         "title": "Sony may reconsider plans to phase out physical discs for PlayStation. - GameGPU",
         "description": "The management of Japanese company Nippon Ichi Software and its Western publishing division NIS America announced that they are holding direct consultations...",
         "source_link": "https://en.gamegpu.com/news/zhelezo/kompaniya-sony-mozhet-peresmotret-plany-po-otkazu-ot-fizicheskikh-diskov-dlya-playstation"
-      },
-      {
-        "rank": 5,
-        "image": "https://comicbookmovie.com/images/articles/banners/wolverine-ending-and-post-credits-scene-explained-by-video-games-creative-team---spoilers-ab230091.jpg",
-        "title": "Wolverine Ending And Post-Credits Scene Explained By Video Game's Creative Team - Spoilers - ComicBookMovie.com",
-        "description": "Wolverine Ending And Post-Credits Scene Explained By Video Game's Creative Team - Spoilers",
-        "source_link": "https://comicbookmovie.com/x_men/wolverine/wolverine-ending-and-post-credits-scene-explained-by-video-games-creative-team---spoilers-a230091"
-      },
-      {
-        "rank": 6,
-        "image": null,
-        "title": "World Market's 'Beautifully Crafted' Stoneware Dinner Plate Is 'Perfect for Your Thanksgiving Table' - Dengarden",
-        "description": null,
-        "source_link": "https://dengarden.com/shopping/world-market-willow-embossed-dinner-plate"
-      },
-      {
-        "rank": 7,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-deals-25/-952x498w6/gsmarena_us.jpg",
-        "title": "Deals: Galaxy Z Fold7 vs. Galaxy Z Fold8 and Z Fold8 Ultra, plus Galaxy S26 FE alternatives - GSMArena.com news - GSMArena.com",
-        "description": "The Z Fold7 is a lot cheaper than its replacement - but you will be missing out on some great improvements and the Z Fold8 Ultra is discounted as well.",
-        "source_link": "https://www.gsmarena.com/deals_galaxy_z_fold7_vs_galaxy_z_fold8_and_z_fold8_ultra_plus_galaxy_s26_fe_alternatives-news-74767.php"
-      },
-      {
-        "rank": 8,
-        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/MCD2_1920x1080-84f3ca1c12bda31f0ad8.jpg",
-        "title": "Minecraft Dungeons II\u2019s New Dimension Coming to Minecraft Java & Bedrock Edition - news.xbox.com",
-        "description": "At Minecraft LIVE, Mojang announced that the first new dimension in 14 years - The Sift - will be coming to both Minecraft Dungeons II and Minecraft Java & Bedrock Edition. Learn more inside.",
-        "source_link": "https://news.xbox.com/en-us/2026/09/26/minecraft-new-dimension-sift-dungeons-2/"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.pushsquare.com/73b5180231321/large.jpg",
-        "title": "Sony Spooked by Rumoured $400 Million Budget for Hideo Kojima's Physint - Push Square",
-        "description": "PlayStation wouldn't own the IP",
-        "source_link": "https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint"
       }
     ],
     "trending_movies": [
@@ -76,66 +83,66 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-        "title": "UNABOMBER",
-        "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Profes...",
-        "source_link": "https://www.themoviedb.org/movie/1492640"
-      },
-      {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-        "title": "Resident Evil",
-        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
-        "source_link": "https://www.themoviedb.org/movie/1423191"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
         "title": "Digger",
         "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
         "source_link": "https://www.themoviedb.org/movie/1248832"
       },
       {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+        "title": "UNABOMBER",
+        "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Profes...",
+        "source_link": "https://www.themoviedb.org/movie/1492640"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+        "title": "Resident Evil",
+        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
+        "source_link": "https://www.themoviedb.org/movie/1423191"
+      },
+      {
         "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/e2t7NjahJTgz2PMx2BW4ZRgHR6Z.jpg",
+        "title": "Verity",
+        "description": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident....",
+        "source_link": "https://www.themoviedb.org/movie/1283515"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
         "title": "Heart of the Beast",
         "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness....",
         "source_link": "https://www.themoviedb.org/movie/1263337"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
         "title": "Primetime",
         "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controver...",
         "source_link": "https://www.themoviedb.org/movie/1375441"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/40jN1UgNAYEkGt2M0i81ghLF3cc.jpg",
+        "title": "Avengers: Doomsday",
+        "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
+        "source_link": "https://www.themoviedb.org/movie/1003596"
+      },
+      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-        "title": "The Love Hypothesis",
-        "description": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of ...",
-        "source_link": "https://www.themoviedb.org/movie/1032863"
+        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
-        "title": "One Last Shot",
-        "description": "Navy Seal Jake Harris must stop a team of mercenaries, led by his disillusioned former comrade, from disabling the US missile defense network....",
-        "source_link": "https://www.themoviedb.org/movie/1607127"
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
       }
     ]
   }
