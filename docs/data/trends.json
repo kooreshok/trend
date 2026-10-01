@@ -1,76 +1,76 @@
 {
-  "last_updated": "October 01, 2026, 15:57 UTC",
+  "last_updated": "October 01, 2026, 20:50 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": null,
+        "title": "Blizzard Survey Suggests New Classes Coming To WoW: Forever - Kotaku",
+        "description": null,
+        "source_link": "https://kotaku.com/blizzard-survey-players-demon-hunter-wow-forever-2000738699"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "\u201cXbox is not for sale\u201d says Microsoft\u2019s gaming chief - The Verge",
+        "description": "Xbox CEO Asha Sharma is taking a \u2018long-term view\u2019 of Microsoft\u2019s gaming division.",
+        "source_link": "https://www.theverge.com/news/1002736/xbox-not-for-sale-asha-sharma-interview"
+      },
+      {
+        "rank": 3,
         "image": "https://assets.warhammer-community.com/articles/0-2026/september/wc28-09/dow_marinestrailer-sep30-2-share-omay84znpl.jpg",
         "title": "Dawn of War IV \u2013 Blood Ravens and Dark Angels team up in new trailer - Warhammer Community",
         "description": "Watch the new faction trailer now.",
         "source_link": "https://www.warhammer-community.com/articles/wfvliytx/dawn-of-war-iv-blood-ravens-and-dark-angels-team-up-in-new-trailer"
       },
       {
-        "rank": 2,
-        "image": "https://kotaku.com/app/uploads/2026/08/asha-sharma-xbox-1200x675.jpg",
-        "title": "Asha Sharma Says 'Xbox Is Not For Sale' Amid Concerns Microsoft's Gaming Business Is Being Streamlined For A Spin-Off - Kotaku",
-        "description": "Xbox is already looking very different than it did a year ago",
-        "source_link": "https://kotaku.com/asha-sharma-says-xbox-is-not-for-sale-amid-concerns-microsofts-gaming-business-is-being-streamlined-for-a-spin-off-2000738651"
+        "rank": 4,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Gemini-skills-cover.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Google details Gems to skills migration, including free access - 9to5Google",
+        "description": "As we spotted over the weekend, Gemini is replacing Gems with skills, and Google today fully detailed the migration.",
+        "source_link": "http://9to5google.com/2026/09/30/gemini-skills-free/"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://images.pushsquare.com/600bb5c9eaa26/1280x720.jpg",
         "title": "PS Plus Essential Games for October 2026 Announced - Push Square",
         "description": "On the hunt",
         "source_link": "https://www.pushsquare.com/news/2026/09/ps-plus-essential-games-for-october-2026-announced"
       },
       {
-        "rank": 4,
+        "rank": 6,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2186493403-1024x648.jpg",
+        "title": "The PS5 hacking scene just took a big leap forward - Ars Technica",
+        "description": "New exploit works on all but the most recently updated consoles.",
+        "source_link": "https://arstechnica.com/gaming/2026/09/ps5-jailbreaks-just-got-a-lot-more-useful/"
+      },
+      {
+        "rank": 7,
+        "image": "https://cdn.mos.cms.futurecdn.net/zStqGAVL46JxYoqhtjk5tK-2560-80.jpg",
+        "title": "Dark clouds appear over 'Xbox Cloud Gaming' as it retires apps on some TVs \u2014 and the reasons are poorly explained - Windows Central",
+        "description": "Microsoft just emailed users of older Samsung TVs that the Xbox Cloud Gaming app is going to be killed off soon, but didn't really explain why.",
+        "source_link": "https://www.windowscentral.com/gaming/xbox/dark-clouds-appear-over-xbox-cloud-gaming-as-it-retires-apps-on-some-tvs-and-the-reasons-are-poorly-explained"
+      },
+      {
+        "rank": 8,
+        "image": "https://s.yimg.com/lo/mysterio/api/db2d20d0f1e10e7d5949cfc9519006e4bffcc602b5c6ac6203ceaf3a2031b107/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F4d0a1b4d-f103-4d5d-9e4b-5ba09d3ceece",
+        "title": "Apple stock pops on report it will unveil all-new smart home hub at Oct. 13 event - Yahoo Finance",
+        "description": "Apple stock pops on reported home hub device event.",
+        "source_link": "https://finance.yahoo.com/technology/article/apple-stock-pops-on-report-it-will-unveil-all-new-smart-home-hub-at-oct-13-event-150002671.html"
+      },
+      {
+        "rank": 9,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/FO76_-CAMP_Pet_Deathclaw-1920x1080.jpg",
+        "title": "Bethesda Maps Fallout 76\u2019s Biggest Year Yet, Expanding the Map toward Fallout 3\u2019s Capital Wasteland by Summer 2027 - Wccftech",
+        "description": "Bethesda has mapped out a truly exciting year of free updates for Fallout 76, including a new map expansion into the Capital Wasteland.",
+        "source_link": "https://wccftech.com/fallout-76-roadmap-capital-wasteland-map-expansion-summer-2027/"
+      },
+      {
+        "rank": 10,
         "image": "https://images.pushsquare.com/529854c72fdea/1280x720.jpg",
         "title": "'Absolutely Massive' God of War Laufey Pre-Orders as PS5 Exclusive Starts Strong - Push Square",
         "description": "That's the Faye to do it",
         "source_link": "https://www.pushsquare.com/news/2026/09/absolutely-massive-god-of-war-laufey-pre-orders-as-ps5-exclusive-starts-strong"
-      },
-      {
-        "rank": 5,
-        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/the-witcher-3-songs-of-the-past-key-art-cropped.png?w=1600&h=900&fit=crop",
-        "title": "Switch 2 players Can Claim a Free Copy of The Witcher 3 Thanks to a Loophole - Polygon.com",
-        "description": "A glitch lets Switch 2 owners redeem a copy of The Witcher 3: Wild Hunt Remastered even if they don't own the original.",
-        "source_link": "https://www.polygon.com/the-witcher-3-remastered-switch-2-loophole-explained/"
-      },
-      {
-        "rank": 6,
-        "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-legends-z-a/bundle/announce/pokemon-legends-z-a-169-us.png",
-        "title": "Pok\u00e9mon Legends: Z-A \u2013 Nintendo Switch 2 Edition + Mega Dimension Bundle Coming Soon - Pokemon.com",
-        "description": "The Pok\u00e9mon Legends: Z-A \u2013 Nintendo Switch 2 Edition + Mega Dimension bundle is coming soon.",
-        "source_link": "https://www.pokemon.com/us/news/pokemon-legends-z-a-nintendo-switch-2-edition-mega-dimension-bundle-coming-soon"
-      },
-      {
-        "rank": 7,
-        "image": null,
-        "title": "Grasshopper Manufacture splits from NetEase Games - Gematsu",
-        "description": null,
-        "source_link": "https://www.gematsu.com/2026/09/grasshopper-manufacture-splits-from-netease-games"
-      },
-      {
-        "rank": 8,
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f4b8/live/e7f33150-bcc5-11f1-ae14-0b840f99ba59.jpg",
-        "title": "WhatsApp introduces optional parental controls for teenagers - BBC",
-        "description": "The social messaging app will let parents decide on privacy settings for their child's account.",
-        "source_link": "https://www.bbc.com/news/articles/cm986x65we88o"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/fire-tv-stick-4k_ftv-remote_hero_1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "Amazon\u2019s new Fire TV Stick 4K can pull power directly from your TV - The Verge",
-        "description": "Amazon launched a new Fire TV Stick 4K with support for direct power from TVs and a slimmer design, along with a redesigned Fire TV remote.",
-        "source_link": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power"
-      },
-      {
-        "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268780_Sonos_Ace_Ultra_P_JHiggins_6.jpg?quality=90&strip=all&crop=0%2C10.737425760868%2C100%2C78.525148478264&w=1200",
-        "title": "The Sonos Ace Ultra are the headphones Sonos should have made the first time - The Verge",
-        "description": "\ufeffWith better sound, better ANC, and Wi-Fi audio streaming, the Ace Ultra are finally worthy of the Sonos name.",
-        "source_link": "https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review"
       }
     ],
     "trending_movies": [
@@ -83,17 +83,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-        "title": "The Uprising",
-        "description": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a des...",
-        "source_link": "https://www.themoviedb.org/movie/977942"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
         "title": "Verity",
         "description": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident....",
         "source_link": "https://www.themoviedb.org/movie/1283515"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+        "title": "The Uprising",
+        "description": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a des...",
+        "source_link": "https://www.themoviedb.org/movie/977942"
       },
       {
         "rank": 4,
@@ -104,17 +104,17 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-        "title": "Resident Evil",
-        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
-        "source_link": "https://www.themoviedb.org/movie/1423191"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/2bKGy1SoXZEUa69HRSy51rVM5KF.jpg",
         "title": "Livestream from Hell",
         "description": "When Kevin Hart teams up with fellow comedian, Druski, and streamer, Kai Cenat for a record-breaking livestream at his tech-savvy mansion, things go h...",
         "source_link": "https://www.themoviedb.org/movie/1437195"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+        "title": "Resident Evil",
+        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
+        "source_link": "https://www.themoviedb.org/movie/1423191"
       },
       {
         "rank": 7,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+        "title": "Avengers: Doomsday",
+        "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
+        "source_link": "https://www.themoviedb.org/movie/1003596"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
         "title": "UNABOMBER",
         "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Profes...",
         "source_link": "https://www.themoviedb.org/movie/1492640"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
+        "image": "https://image.tmdb.org/t/p/w200/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+        "title": "Soulm8te",
+        "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts...",
+        "source_link": "https://www.themoviedb.org/movie/1307118"
       }
     ]
   }
