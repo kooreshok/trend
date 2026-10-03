@@ -1,62 +1,76 @@
 {
-  "last_updated": "October 03, 2026, 20:31 UTC",
+  "last_updated": "October 03, 2026, 23:29 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doomsql-1152x648-1790974550.png",
+        "title": "Can it run Doom: SQL database edition - Ars Technica",
+        "description": "300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
+        "source_link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/"
+      },
+      {
+        "rank": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-7.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Google already rolling out Android 17 QPR3 Beta 1 for Pixel - 9to5Google",
+        "description": "Following a QPR2 release earlier this week, Google today is rolling out Android 17 QPR3 Beta 1.",
+        "source_link": "http://9to5google.com/2026/10/02/android-17-qpr3-beta-1-pixel/"
+      },
+      {
+        "rank": 3,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-21.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement - 9to5Mac",
+        "description": "Apple has confirmed an issue causing a \u201csmall number\u201d of iPhone 18 Pro Max devices on AT&T to lose cellular...",
+        "source_link": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/"
+      },
+      {
+        "rank": 4,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk - The Verge",
+        "description": "Apple is introducing new safeguards for its full disk access permission on Mac in response to the risks associated with AI-powered agents.",
+        "source_link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+      },
+      {
+        "rank": 5,
         "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/android-motion-sickness-2.jpg",
         "title": "Android malware can steal your PIN and bank logins - Fox News",
         "description": "RatHat Android malware uses AI to steal banking credentials, intercept two-factor authentication codes and reconstruct your PIN from touch inputs.",
         "source_link": "https://www.foxnews.com/tech/android-malware-steal-pin-bank-logins"
       },
       {
-        "rank": 2,
-        "image": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
-        "title": "Apple says it\u2019s tightening macOS \u2018Full Disk Access\u2019 controls due to new risks from AI agents - TechCrunch",
-        "description": "Apple says it will add new controls around macOS\u2019s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users\u2019 files, messages, mail, and browsing history riskier.",
-        "source_link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
+        "rank": 6,
+        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1002%2Fr1725012_1296x729_16%2D9.jpg",
+        "title": "Miami Heat announce 'A Night in Vice City' theme ahead of GTA VI release - ESPN",
+        "description": "With Grand Theft Auto VI's long-awaited release date set for Nov. 19, the Heat are partnering with Rockstar Games to offer a topical lead-up event the night before.",
+        "source_link": "https://www.espn.com/nba/story/_/id/50085674/miami-heat-night-vice-city-game"
       },
       {
-        "rank": 3,
-        "image": "https://assets-prd.ignimgs.com/2026/08/31/hrdxhdzwwaax1k-1788198129736.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "GTA 6 PEGI Age Rating Reveals Mentions of 'Decapitation' and Cocaine That Can Be 'Snorted' at 'Any Time' - IGN",
-        "description": "GTA 6 has received a rating of PEGI 18, revealing mentions of \"decapitation,\" the ability for players to snort cocaine at any time, \"scenes of sexual fetishes,\" and much more.",
-        "source_link": "https://www.ign.com/articles/gta-6-age-rating-confirms-new-details-on-sex-drug-use-decapitation-and-more"
-      },
-      {
-        "rank": 4,
+        "rank": 7,
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/apple-home-ios-26.jpg?quality=82&strip=all&resize=1200,628",
         "title": "Apple\u2019s new \u2018homeOS\u2019 will launch this month, here\u2019s what\u2019s coming - 9to5Mac",
         "description": "Apple reportedly plans to launch new Home products on October 13 alongside an all-new operating system rumored to be called \u2018homeOS.\u2019",
         "source_link": "https://9to5mac.com/2026/10/02/apples-new-homeos-will-launch-this-month-heres-whats-coming/"
       },
       {
-        "rank": 5,
-        "image": "https://images.pushsquare.com/dbe4d1355695f/1280x720.jpg",
-        "title": "Sony's Quietly Improved Base PS5 Hardware with a Number of Internal Optimisations - Push Square",
-        "description": "New models shipping now",
-        "source_link": "https://www.pushsquare.com/news/2026/10/sonys-quietly-improved-base-ps5-hardware-with-a-number-of-internal-optimisations"
+        "rank": 8,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nacon1.jpg?quality=90&strip=all&crop=0%2C10.741589819318%2C100%2C78.516820361363&w=1200",
+        "title": "Nacon\u2019s new PS5 controller can mix audio from your phone and console - The Verge",
+        "description": "The Nacon Revolution 5 Unlimited brings an asymmetrical TMR thumbstick design to the PS5 with a built-in screen for customizing the controller\u2019s functionality.",
+        "source_link": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller"
       },
       {
-        "rank": 6,
-        "image": "https://images.macrumors.com/t/pk_46mIJUs-eOG4byslklFF8tm4=/1600x/article-new/2026/10/ATT-Apple.jpg",
-        "title": "AT&T on iPhone 18 Pro Max Issues: 'We Are Working With Apple' - MacRumors",
-        "description": "In a statement shared with MacRumors today, AT&T said it is \"working with Apple\" to resolve iPhone 18 Pro Max cellular issues.  ...",
-        "source_link": "https://www.macrumors.com/2026/10/02/att-statement-on-iphone-18-pro-max-issues/"
+        "rank": 9,
+        "image": "https://www.videogameschronicle.com/files/2025/03/IMG_1331-e1778073030403-2560x1613.jpeg",
+        "title": "Warhorse COO wants GTA 6 to set a new $80 price standard for triple-A games - Video Games Chronicle",
+        "description": "Warhorse's Martin Klima hopes GTA 6's $80 price point sets a precedent for triple-A games",
+        "source_link": "https://www.videogameschronicle.com/news/warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for-triple-a-games/"
       },
       {
-        "rank": 7,
+        "rank": 10,
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Using-an-iPad-mini-to-preview-the-iPhone-Duo-experience.jpg?quality=82&strip=all&resize=1200,628",
         "title": "Using an iPad mini to preview the iPhone Duo experience - 9to5Mac",
         "description": "Alongside using the iPhone 18 Pro, I\u2019ve also been carrying out a little experiment as we await the launch of...",
         "source_link": "https://9to5mac.com/2026/10/02/using-an-ipad-mini-to-preview-the-iphone-duo-experience/"
-      },
-      {
-        "rank": 8,
-        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/419700/419785.6.jpg",
-        "title": "Gurnoor Brar has been expensive, but India are happy to pay the price for now - Cricinfo",
-        "description": "Ahead of the 2027 ODI World Cup, the team management wants the fast bowler tested, not protected",
-        "source_link": "https://www.cricinfo.com/story/ind-vs-wi-3rd-odi-gurnoor-brar-has-been-expensive-but-india-happy-to-pay-the-price-for-now-1556930"
       }
     ],
     "trending_movies": [
@@ -69,31 +83,31 @@
       },
       {
         "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
+        "title": "Verity",
+        "description": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident....",
+        "source_link": "https://www.themoviedb.org/movie/1283515"
+      },
+      {
+        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
         "title": "Doing Life",
         "description": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all od...",
         "source_link": "https://www.themoviedb.org/movie/1458857"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
         "title": "The Uprising",
         "description": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a des...",
         "source_link": "https://www.themoviedb.org/movie/977942"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
         "title": "Resident Evil",
         "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
         "source_link": "https://www.themoviedb.org/movie/1423191"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
-        "title": "Verity",
-        "description": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident....",
-        "source_link": "https://www.themoviedb.org/movie/1283515"
       },
       {
         "rank": 6,
@@ -104,10 +118,10 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-        "title": "UNABOMBER",
-        "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Profes...",
-        "source_link": "https://www.themoviedb.org/movie/1492640"
+        "image": "https://image.tmdb.org/t/p/w200/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+        "title": "Avengers: Doomsday",
+        "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
+        "source_link": "https://www.themoviedb.org/movie/1003596"
       },
       {
         "rank": 8,
@@ -118,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-        "title": "Soulm8te",
-        "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts...",
-        "source_link": "https://www.themoviedb.org/movie/1307118"
+        "image": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+        "title": "UNABOMBER",
+        "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Profes...",
+        "source_link": "https://www.themoviedb.org/movie/1492640"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/em19DrMkLSinf04NEhiRxTnVupI.jpg",
-        "title": "Schumacher '94 - The Birth of a Legend",
-        "description": "Michael Schumacher's first World Championship win roars to life through personal interviews and archival footage of the legendary 1994 Formula 1 seaso...",
-        "source_link": "https://www.themoviedb.org/movie/1752355"
+        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       }
     ]
   }
