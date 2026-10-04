@@ -1,76 +1,76 @@
 {
-  "last_updated": "October 03, 2026, 23:29 UTC",
+  "last_updated": "October 04, 2026, 04:02 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/8e330870aa2ed/1280x720.jpg",
+        "title": "Nintendo Has Renewed Multiple Game Trademarks - nintendolife.com",
+        "description": "Blasting back",
+        "source_link": "https://www.nintendolife.com/news/2026/10/nintendo-has-renewed-multiple-game-trademarks"
+      },
+      {
+        "rank": 2,
+        "image": "https://assets-prd.ignimgs.com/2026/10/03/capcom-re-engine-ai-game-development-1790991062381.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "\u2018A Future Where We Create Games Together With AI\u2019 \u2014 Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine - IGN",
+        "description": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an \"AI-generation game engine.\"",
+        "source_link": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai"
+      },
+      {
+        "rank": 3,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+        "title": "Meta wants your next gadget to be Muse-infused - TechCrunch",
+        "description": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+        "source_link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
+      },
+      {
+        "rank": 4,
+        "image": "https://i.pcmag.com/imagery/articles/06h6NJK0d4qbfsrUHWcCPVN-1.fit_lim.size_1200x630.v1790931853.jpg",
+        "title": "Apple Confirms AT&T iPhone 18 Pro Max Problems. You Might Need a New Phone - PCMag",
+        "description": "This week's iOS update is intended to prevent this from happening to other phones. If your iPhone 18 Max Pro has already lost service, you'll need to return it for a new one.",
+        "source_link": "https://www.pcmag.com/news/apple-confirms-att-iphone-18-pro-max-problems-you-might-need-new-phone"
+      },
+      {
+        "rank": 5,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+        "title": "Apple changes full-disk access permissions to curb abuse from AI agents - Ars Technica",
+        "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+        "source_link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
+      },
+      {
+        "rank": 6,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doomsql-1152x648-1790974550.png",
         "title": "Can it run Doom: SQL database edition - Ars Technica",
         "description": "300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
         "source_link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/"
       },
       {
-        "rank": 2,
+        "rank": 7,
+        "image": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/05/05/ef760bfa/378_endofabyss03.jpg.webp",
+        "title": "End of Abyss Review: Samus-Inspired Survival Success - Game Informer",
+        "description": "End of Abyss (PlayStation 5) Review \u2013 8/10: Despite the glitches, I loved snooping through the cold, industrial hallways of End of Abyss. - Game Informer",
+        "source_link": "https://gameinformer.com/review/end-of-abyss/samus-inspired-survival-success"
+      },
+      {
+        "rank": 8,
         "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-7.jpg?quality=82&strip=all&resize=1200,628",
         "title": "Google already rolling out Android 17 QPR3 Beta 1 for Pixel - 9to5Google",
         "description": "Following a QPR2 release earlier this week, Google today is rolling out Android 17 QPR3 Beta 1.",
         "source_link": "http://9to5google.com/2026/10/02/android-17-qpr3-beta-1-pixel/"
       },
       {
-        "rank": 3,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-21.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement - 9to5Mac",
-        "description": "Apple has confirmed an issue causing a \u201csmall number\u201d of iPhone 18 Pro Max devices on AT&T to lose cellular...",
-        "source_link": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/"
+        "rank": 9,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/siri-ai.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "iOS 27\u2019s Siri gets one thing very right that other AI assistants get wrong - 9to5mac.com",
+        "description": "Siri AI is now available in iOS 27 as a major upgrade to Apple\u2019s assistant, and it differs greatly from other AI assistants in one key area.",
+        "source_link": "https://9to5mac.com/2026/10/02/ios-27s-siri-gets-one-thing-very-right-that-other-ai-assistants-get-wrong/"
       },
       {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk - The Verge",
-        "description": "Apple is introducing new safeguards for its full disk access permission on Mac in response to the risks associated with AI-powered agents.",
-        "source_link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
-      },
-      {
-        "rank": 5,
+        "rank": 10,
         "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/android-motion-sickness-2.jpg",
         "title": "Android malware can steal your PIN and bank logins - Fox News",
         "description": "RatHat Android malware uses AI to steal banking credentials, intercept two-factor authentication codes and reconstruct your PIN from touch inputs.",
         "source_link": "https://www.foxnews.com/tech/android-malware-steal-pin-bank-logins"
-      },
-      {
-        "rank": 6,
-        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1002%2Fr1725012_1296x729_16%2D9.jpg",
-        "title": "Miami Heat announce 'A Night in Vice City' theme ahead of GTA VI release - ESPN",
-        "description": "With Grand Theft Auto VI's long-awaited release date set for Nov. 19, the Heat are partnering with Rockstar Games to offer a topical lead-up event the night before.",
-        "source_link": "https://www.espn.com/nba/story/_/id/50085674/miami-heat-night-vice-city-game"
-      },
-      {
-        "rank": 7,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/apple-home-ios-26.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Apple\u2019s new \u2018homeOS\u2019 will launch this month, here\u2019s what\u2019s coming - 9to5Mac",
-        "description": "Apple reportedly plans to launch new Home products on October 13 alongside an all-new operating system rumored to be called \u2018homeOS.\u2019",
-        "source_link": "https://9to5mac.com/2026/10/02/apples-new-homeos-will-launch-this-month-heres-whats-coming/"
-      },
-      {
-        "rank": 8,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nacon1.jpg?quality=90&strip=all&crop=0%2C10.741589819318%2C100%2C78.516820361363&w=1200",
-        "title": "Nacon\u2019s new PS5 controller can mix audio from your phone and console - The Verge",
-        "description": "The Nacon Revolution 5 Unlimited brings an asymmetrical TMR thumbstick design to the PS5 with a built-in screen for customizing the controller\u2019s functionality.",
-        "source_link": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.videogameschronicle.com/files/2025/03/IMG_1331-e1778073030403-2560x1613.jpeg",
-        "title": "Warhorse COO wants GTA 6 to set a new $80 price standard for triple-A games - Video Games Chronicle",
-        "description": "Warhorse's Martin Klima hopes GTA 6's $80 price point sets a precedent for triple-A games",
-        "source_link": "https://www.videogameschronicle.com/news/warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for-triple-a-games/"
-      },
-      {
-        "rank": 10,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Using-an-iPad-mini-to-preview-the-iPhone-Duo-experience.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Using an iPad mini to preview the iPhone Duo experience - 9to5Mac",
-        "description": "Alongside using the iPhone 18 Pro, I\u2019ve also been carrying out a little experiment as we await the launch of...",
-        "source_link": "https://9to5mac.com/2026/10/02/using-an-ipad-mini-to-preview-the-iphone-duo-experience/"
       }
     ],
     "trending_movies": [
@@ -111,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-        "title": "Runner",
-        "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthle...",
-        "source_link": "https://www.themoviedb.org/movie/1377237"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
         "title": "Avengers: Doomsday",
         "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
         "source_link": "https://www.themoviedb.org/movie/1003596"
       },
       {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+        "title": "Runner",
+        "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthle...",
+        "source_link": "https://www.themoviedb.org/movie/1377237"
+      },
+      {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
+        "image": "https://image.tmdb.org/t/p/w200/6QgJQrClh9ej357yzLWgCxrjAmJ.jpg",
+        "title": "Kung Fu Soccer",
+        "description": "The \"Supreme Invincible Cup\" is about to begin, and a host of top teams are about to engage in an unprecedented showdown! But the Kung Fu Women's Socc...",
+        "source_link": "https://www.themoviedb.org/movie/1491920"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-        "title": "UNABOMBER",
-        "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Profes...",
-        "source_link": "https://www.themoviedb.org/movie/1492640"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
       }
     ]
   }
