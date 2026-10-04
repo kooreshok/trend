@@ -1,76 +1,76 @@
 {
-  "last_updated": "October 04, 2026, 10:51 UTC",
+  "last_updated": "October 04, 2026, 15:38 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Shimon-Hayut.jpg",
+        "title": "\u2018Tinder Swindler\u2019 romance fraudster promises \u2018safe\u2019 dating app \u2013 using intel from con man playbook - Fox News",
+        "description": "Simon Leviev, the notorious 'Tinder Swindler' who was born Shimon Hayut, says his new Safe Love dating app will use identity verification to prevent the fraud he once committed.",
+        "source_link": "https://www.foxnews.com/us/tinder-swindler-romance-fraudster-promises-safe-dating-app-using-intel-con-man-playbook"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.macrumors.com/t/-EqV_WsH-3zWuaclf21YDFIvVhg=/1600x/article-new/2026/10/iPhone-18-Pro-Max-Glacier-Camera.jpg",
+        "title": "Apple Says iPhone 18 Pro Max Users With AT&T Cellular Issue Need to Have Device Replaced - MacRumors",
+        "description": "Apple today confirmed that a \"small number\" of iPhone 18 Pro Max users on the AT&T network have experienced an issue that causes the...",
+        "source_link": "https://www.macrumors.com/2026/10/02/apple-statement-on-iphone-18-pro-max-att-issue/"
+      },
+      {
+        "rank": 3,
         "image": "https://assets-prd.ignimgs.com/2026/10/03/capcom-re-engine-ai-game-development-1790991062381.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "\u2018A Future Where We Create Games Together With AI\u2019 \u2014 Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine - IGN",
         "description": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an \"AI-generation game engine.\"",
         "source_link": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
         "title": "Meta wants your next gadget to be Muse-infused - TechCrunch",
         "description": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
         "source_link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
       },
       {
-        "rank": 3,
-        "image": "https://i.pcmag.com/imagery/articles/06h6NJK0d4qbfsrUHWcCPVN-1.fit_lim.size_1200x630.v1790931853.jpg",
-        "title": "Apple Confirms AT&T iPhone 18 Pro Max Problems. You Might Need a New Phone - PCMag",
-        "description": "This week's iOS update is intended to prevent this from happening to other phones. If your iPhone 18 Max Pro has already lost service, you'll need to return it for a new one.",
-        "source_link": "https://www.pcmag.com/news/apple-confirms-att-iphone-18-pro-max-problems-you-might-need-new-phone"
+        "rank": 5,
+        "image": "https://images.nintendolife.com/cc53314210756/1280x720.jpg",
+        "title": "Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Arrives This Month - Nintendo Life",
+        "description": "But the race isn't over yet...",
+        "source_link": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-final-content-drop-of-year-one-arrives-this-month"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
         "title": "Apple changes full-disk access permissions to curb abuse from AI agents - Ars Technica",
         "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
         "source_link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://kotaku.com/app/uploads/2026/10/gta-6-screen-booth.jpg",
+        "title": "GTA 6 Had A Really Busy Week - Kotaku",
+        "description": "We are less than 50 days away from the release of Grand Theft Auto 6 and marketing is kicking into high gear",
+        "source_link": "https://kotaku.com/gta-6-had-a-really-busy-week-2000739409"
+      },
+      {
+        "rank": 8,
         "image": "https://gizmodo.com/app/uploads/2026/10/nikon-1200x675.jpg",
         "title": "Contest-Winning Microscope Video Is Full of AI Confabulations, Scientists Say - Gizmodo",
         "description": "The winner of Nikon's 2026 Small World In Motion contest said he used AI to post-process real video.",
         "source_link": "https://gizmodo.com/contest-winning-microscope-video-is-full-of-ai-confabulations-scientists-say-2000820652"
       },
       {
-        "rank": 6,
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/heat-gta.png",
-        "title": "Miami Heat tease release of new 'Vice City' jerseys on the night before 'Grand Theft Auto VI' release - Fox News",
-        "description": "\"Grand Theft Auto VI\" gets an unprecedented sports tie-in as the Miami Heat debut reimagined \"Vice City\" jerseys against the Milwaukee Bucks.",
-        "source_link": "https://www.foxnews.com/outkick-sports/miami-heat-tease-release-new-vice-city-jerseys-night-before-grand-theft-auto-vi-release"
+        "rank": 9,
+        "image": "https://s.yimg.com/lo/mysterio/api/65f42886932f0349067916cb8ae0e8b2b233040459f945a28f87100438c5d37f/lightyear_networkapi/resizefill_w1200_h630%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F68623ccf-c69b-452e-aaf2-58c7b96380cb",
+        "title": "Miami Heat to play as Vice City from Grand Theft Auto VI for single game, with new court and uniforms - Yahoo Sports",
+        "description": "This will also happen to be Giannis Antetokounmpo's first game against his old team, the Milwaukee Bucks.",
+        "source_link": "https://sports.yahoo.com/nba/article/miami-heat-to-play-as-vice-city-from-grand-theft-auto-vi-for-single-game-with-new-court-and-uniforms-212134941.html"
       },
       {
-        "rank": 7,
+        "rank": 10,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doomsql-1152x648-1790974550.png",
         "title": "Can it run Doom: SQL database edition - Ars Technica",
         "description": "300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
         "source_link": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/"
-      },
-      {
-        "rank": 8,
-        "image": "https://gameinformer.com/sites/default/files/styles/og_image/public/2026/05/05/ef760bfa/378_endofabyss03.jpg.webp",
-        "title": "End of Abyss Review: Samus-Inspired Survival Success - Game Informer",
-        "description": "End of Abyss (PlayStation 5) Review \u2013 8/10: Despite the glitches, I loved snooping through the cold, industrial hallways of End of Abyss. - Game Informer",
-        "source_link": "https://gameinformer.com/review/end-of-abyss/samus-inspired-survival-success"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q6C3RGY6E6EMA3MRLAOQEMRPQU_size-normalized.jpg&w=1440",
-        "title": "Only one browser has this really helpful search tool - The Washington Post",
-        "description": "This is great for experimentation with a different search site, keeping a particular search out of your history at your usual site, or giving yourself a break from AI-first answers.",
-        "source_link": "https://www.washingtonpost.com/technology/2026/10/02/search-without-ai-or-your-browser-history-with-mozilla-firefox/"
-      },
-      {
-        "rank": 10,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-7.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Google already rolling out Android 17 QPR3 Beta 1 for Pixel - 9to5Google",
-        "description": "Following a QPR2 release earlier this week, Google today is rolling out Android 17 QPR3 Beta 1.",
-        "source_link": "http://9to5google.com/2026/10/02/android-17-qpr3-beta-1-pixel/"
       }
     ],
     "trending_movies": [
@@ -83,17 +83,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/6QgJQrClh9ej357yzLWgCxrjAmJ.jpg",
-        "title": "Kung Fu Soccer",
-        "description": "The \"Supreme Invincible Cup\" is about to begin, and a host of top teams are about to engage in an unprecedented showdown! But the Kung Fu Women's Socc...",
-        "source_link": "https://www.themoviedb.org/movie/1491920"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
         "title": "Doing Life",
         "description": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all od...",
         "source_link": "https://www.themoviedb.org/movie/1458857"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+        "title": "The Uprising",
+        "description": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a des...",
+        "source_link": "https://www.themoviedb.org/movie/977942"
       },
       {
         "rank": 4,
@@ -104,45 +104,45 @@
       },
       {
         "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/6QgJQrClh9ej357yzLWgCxrjAmJ.jpg",
+        "title": "Kung Fu Soccer",
+        "description": "The \"Supreme Invincible Cup\" is about to begin, and a host of top teams are about to engage in an unprecedented showdown! But the Kung Fu Women's Socc...",
+        "source_link": "https://www.themoviedb.org/movie/1491920"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/dGSsPovyUW5XVekXcy7F2GyhTEh.jpg",
         "title": "Verity",
         "description": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident....",
         "source_link": "https://www.themoviedb.org/movie/1283515"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-        "title": "The Uprising",
-        "description": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a des...",
-        "source_link": "https://www.themoviedb.org/movie/977942"
-      },
-      {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-        "title": "Runner",
-        "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthle...",
-        "source_link": "https://www.themoviedb.org/movie/1377237"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
         "title": "Avengers: Doomsday",
         "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
         "source_link": "https://www.themoviedb.org/movie/1003596"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+        "title": "Runner",
+        "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthle...",
+        "source_link": "https://www.themoviedb.org/movie/1377237"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-        "title": "UNABOMBER",
-        "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Profes...",
-        "source_link": "https://www.themoviedb.org/movie/1492640"
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
       }
     ]
   }
