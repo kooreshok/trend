@@ -1,76 +1,69 @@
 {
-  "last_updated": "October 05, 2026, 01:31 UTC",
+  "last_updated": "October 05, 2026, 08:11 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.purexbox.com/ee436dd5c886a/1280x720.jpg",
+        "title": "Poll: How Many 'Mythic' Xbox Achievements Do You Reckon You'll Have? - purexbox.com",
+        "description": "Full completions are being backdated to the Xbox 360 era",
+        "source_link": "https://www.purexbox.com/news/2026/10/poll-how-many-mythic-xbox-achievements-do-you-reckon-youll-have"
+      },
+      {
+        "rank": 2,
         "image": "https://nintendoeverything.com/wp-content/uploads/Witcher-3-Remastered-frame-rate-resolution.webp",
         "title": "The Witcher 3 Remastered Nintendo Switch 2 tech analysis, including frame rate and resolution - Nintendo Everything",
         "description": "Get details about frame rate, resolution, and more for The Witcher 3 Remastered on Nintendo Switch 2 with this new technical analysis.",
         "source_link": "https://nintendoeverything.com/the-witcher-3-remastered-nintendo-switch-2-frame-rate-resolution/"
       },
       {
-        "rank": 2,
-        "image": "https://kotaku.com/app/uploads/2026/10/starcraftAI.jpg",
-        "title": "AI Made StarCraft Bot Swaps In Human Made Bot In Tournament - Kotaku",
-        "description": "In a showdown between AI generated Brood War bots and human made ones, OpenAI\u2019s champion resorted to its natural playbook: lie, cheat and steal",
-        "source_link": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607"
-      },
-      {
         "rank": 3,
-        "image": "https://www.bgr.com/img/gallery/iphone-owners-turn-off-this-setting-to-save-battery-life/l-intro-1790367454.jpg",
-        "title": "iPhone Owners Turn Off This Setting To Save Battery Life - bgr.com",
-        "description": "The Background App Refresh on iPhone keeps your apps updated with the latest information before they are opened, which is nice, but it drains the battery.",
-        "source_link": "https://www.bgr.com/2271390/why-iphone-owners-turn-off-background-app-refresh/"
+        "image": "https://www.techpowerup.com/img/wxjJUoXsPqiUdLQy.jpg",
+        "title": "Jagex Announces RuneScape 4, a New MMO Built in Unreal Engine - TechPowerUp",
+        "description": "Jagex has announced a fourth RuneScape MMO at RuneFest 2026. It currently goes by the working title RS4, though most people are already calling it RuneScape 4. The game is being built in Unreal Engine, and Jagex hasn't said which version. It's the first numbe\u2026",
+        "source_link": "https://www.techpowerup.com/353372/jagex-announces-runescape-4-a-new-mmo-built-in-unreal-engine"
       },
       {
         "rank": 4,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/gemini-logo.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think - 9to5Google",
+        "description": "Following the compute-based usage change in May, Google is introducing limits on what Gemini models free and AI Plus users can access.",
+        "source_link": "http://9to5google.com/2026/10/03/gemini-model-limits-oct-26/"
+      },
+      {
+        "rank": 5,
+        "image": "https://assets-prd.ignimgs.com/2026/10/01/btfiuoeldu6mkzuez7e008xhvd1icgg-jcb-u5aiuoy-1790813782471.jpeg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Gears of War: E-Day Devs 'Proud to Be One of Xbox's Main Titles' Amid Newfound Focus on Exclusivity - IGN",
+        "description": "The Gears of War: E-Day developers at The Coalition say they are \"proud to be one of Xbox's main titles\" as Microsoft refocuses on exclusivity.",
+        "source_link": "https://www.ign.com/articles/gears-of-war-e-day-devs-proud-to-be-one-of-xboxs-main-titles-amid-newfound-focus-on-exclusivity"
+      },
+      {
+        "rank": 6,
+        "image": "https://kotaku.com/app/uploads/2026/10/valorantkeyo-1200x675.jpg",
+        "title": "Valorant Player Banned Due To Previous CPU Owner\u2019s Cheating Ways - Kotaku",
+        "description": "In a wild coincidence a German player was penalized over the playing habits of their Ryzen 7's previous owner, claiming that nothing short of replacing the entire PC will overcome Riot's infamous anti-cheat detection",
+        "source_link": "https://kotaku.com/valorant-player-banned-due-to-previous-gpu-owners-cheating-ways-2000739597"
+      },
+      {
+        "rank": 7,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/one-ui-9-s26-ultra-hero.jpg?w=1600&h=900&fit=crop",
+        "title": "6 One UI 9 features you should immediately try out - Android Police",
+        "description": "The One UI 9 features worth trying first",
+        "source_link": "https://www.androidpolice.com/one-ui-9-features-you-should-try/"
+      },
+      {
+        "rank": 8,
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-siri-ai.jpg?quality=82&strip=all&resize=1200,628",
         "title": "Here\u2019s why I upgraded from the Apple Watch Series 10 to Series 12 - 9to5Mac",
         "description": "I\u2019m someone who doesn\u2019t often upgrade my Apple Watch right when a new one comes out. The Apple Watch Series...",
         "source_link": "https://9to5mac.com/2026/10/03/heres-why-i-upgraded-from-the-apple-watch-series-10-to-series-12/"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "image": "https://assetsio.gnwcdn.com/final-fantasy-7-revelation-gameplay-screen-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "Final Fantasy 7 Revelation's director responds to fans demanding a full disc version - eurogamer.net",
         "description": "Naoki Hamaguchi says he fought for a disc release of Final Fantasy 7 Revelation, as the industry heads towards an all-digital future.",
         "source_link": "https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media"
-      },
-      {
-        "rank": 6,
-        "image": "https://www.jalopnik.com/img/gallery/6-old-school-pony-cars-that-arent-the-ford-mustang/l-intro-1790779448.jpg",
-        "title": "6 Old-School Pony Cars That Aren't The Ford Mustang - Jalopnik",
-        "description": "Besides the Mustang, pony cars of the 1970s inclued the Mercury Cougar, Plymouth Barracuda / 'Cuda, Dodge Challenger, Chevy Camaro, and AMC Javelin.",
-        "source_link": "https://www.jalopnik.com/2273229/old-school-pony-cars-that-arent-ford-mustang/"
-      },
-      {
-        "rank": 7,
-        "image": "https://kotaku.com/app/uploads/2020/10/fq045ymbm59gdgvaizrv-1200x675.jpg",
-        "title": "Activision And Bethesda Crackdown On GenAI MW2 And Fallout Projects - Kotaku",
-        "description": "Vibe coders are getting legal notices",
-        "source_link": "https://kotaku.com/activision-and-bethesda-crackdown-on-genai-mw2-and-fallout-projects-2000739580"
-      },
-      {
-        "rank": 8,
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/best-tvs-best-tested-cnnu-fire-tv-omni-qled-05.jpg?c=16x9&q=w_800,c_fill",
-        "title": "I\u2019ve tested TVs and tracked Prime Day deals for 11 years. Here are the 10 best early sales - CNN",
-        "description": "Our tech reviewer and TV tester has picked his favorite TV, soundbar and streaming device sales that arrived early for this year\u2019s October Prime Day.",
-        "source_link": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-tv-deals-2026-10-03"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.purexbox.com/ee436dd5c886a/1280x720.jpg",
-        "title": "Poll: How Many 'Mythic' Xbox Achievements Do You Reckon You'll Have? - Pure Xbox",
-        "description": "Full completions are being backdated to the Xbox 360 era",
-        "source_link": "https://www.purexbox.com/news/2026/10/poll-how-many-mythic-xbox-achievements-do-you-reckon-youll-have"
-      },
-      {
-        "rank": 10,
-        "image": "https://helios-i.mashable.com/imagery/articles/031cKZ2YPNfUndUMBTLb3sN/hero-image.fill.size_1200x675.v1791037084.jpg",
-        "title": "iPhone 18 Pro Max users on AT&T: Take these steps to save your service - Mashable",
-        "description": "If you still have service, update ASAP.",
-        "source_link": "https://mashable.com/tech/apple-replacing-iphone-18-pro-max-cell-service-issues"
       }
     ],
     "trending_movies": [
@@ -83,10 +76,10 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
-        "title": "Verity",
-        "description": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident....",
-        "source_link": "https://www.themoviedb.org/movie/1283515"
+        "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+        "title": "Resident Evil",
+        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
+        "source_link": "https://www.themoviedb.org/movie/1423191"
       },
       {
         "rank": 3,
@@ -97,10 +90,10 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-        "title": "Avengers: Doomsday",
-        "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
-        "source_link": "https://www.themoviedb.org/movie/1003596"
+        "image": "https://image.tmdb.org/t/p/w200/97y0RdzRIeZ2j6se98hRQpxz3eR.jpg",
+        "title": "Verity",
+        "description": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident....",
+        "source_link": "https://www.themoviedb.org/movie/1283515"
       },
       {
         "rank": 5,
@@ -111,38 +104,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-        "title": "Resident Evil",
-        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
-        "source_link": "https://www.themoviedb.org/movie/1423191"
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-        "title": "Soulm8te",
-        "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts...",
-        "source_link": "https://www.themoviedb.org/movie/1307118"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
         "title": "Doing Life",
         "description": "A single mother and an incarcerated man forge an unlikely bond through heartfelt letters, unlocking a door to redemption, hope and love against all od...",
         "source_link": "https://www.themoviedb.org/movie/1458857"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
         "title": "Runner",
         "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthle...",
         "source_link": "https://www.themoviedb.org/movie/1377237"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
+        "title": "Avengers: Doomsday",
+        "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
+        "source_link": "https://www.themoviedb.org/movie/1003596"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
+        "image": "https://image.tmdb.org/t/p/w200/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+        "title": "Soulm8te",
+        "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts...",
+        "source_link": "https://www.themoviedb.org/movie/1307118"
       }
     ]
   }
