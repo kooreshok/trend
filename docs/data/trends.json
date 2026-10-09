@@ -1,76 +1,69 @@
 {
-  "last_updated": "October 08, 2026, 22:47 UTC",
+  "last_updated": "October 09, 2026, 02:42 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.pushsquare.com/075bd3207da3c/1280x720.jpg",
+        "title": "PS5 to Integrate Anime into Main Menu as Sony Tightens Ties with Crunchyroll - Push Square",
+        "description": "\"Anime and gaming have overlapping communities\"",
+        "source_link": "https://www.pushsquare.com/news/2026/10/ps5-to-integrate-anime-into-main-menu-as-sony-tightens-ties-with-crunchyroll"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.rpgsite.net/articles/thumbnail/da49c9a1/21529/original/dd2dareviewminipic.png",
+        "title": "Dragon's Dogma 2: Dark Arisen Review - RPG Site",
+        "description": "Dragon's Dogma 2: Dark Arisen is an enjoyable expansion, but does it actually expand on what the original release did well?",
+        "source_link": "https://www.rpgsite.net/review/21529-dragons-dogma-2-dark-arisen-review"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/257534_Teenage_Engineering_OP-XY_TOBrien_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Teenage Engineering\u2019s CEO says it\u2019ll stop making synths - The Verge",
+        "description": "The end could be nigh for Teenage Engineering\u2019s iconic OP-1 according to a Highsnobiety interview.",
+        "source_link": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths"
+      },
+      {
+        "rank": 4,
+        "image": "https://kotaku.com/app/uploads/2026/10/jason-gta6.jpg",
+        "title": "Rockstar, Does GTA 6\u2019s Jason Show Full Hog Or Not? - Kotaku",
+        "description": "I know I\u2019ll see him naked, but just how naked?",
+        "source_link": "https://kotaku.com/grand-theft-auto-6-gta6-jason-naked-nude-shower-scene-2000742015"
+      },
+      {
+        "rank": 5,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268755_Googlebook_home_buttons_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
+        "title": "Android\u2019s physical navigation buttons are back on Googlebooks, but not the way you think - The Verge",
+        "description": "An oldie but a goodie \u2014 and kind of a necessity-die.",
+        "source_link": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think"
+      },
+      {
+        "rank": 6,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
+        "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11 - TechCrunch",
+        "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+        "source_link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
+      },
+      {
+        "rank": 7,
+        "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/10/Anker-fall-Prime-Day-2026.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Amazon Anker fall Prime Day sale now live at up to 50% off! Deals on chargers, power banks, Qi2.2 gear, more from just $10 - 9to5Toys",
+        "description": "As part of Amazon\u2019s ongoing fall Prime Day sale, Anker\u2019s official storefront is now offering a huge selection of deals...",
+        "source_link": "http://9to5toys.com/2026/10/07/amazon-anker-fall-prime-day-sale-now-live-at-up-to-50-off/"
+      },
+      {
+        "rank": 8,
         "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/article-pictures/MinecraftVanilla_Switch2_NetBlog_1170x500.jpg",
         "title": "Pre-order Minecraft for Nintendo Switch\u2122 2 today! - Minecraft",
         "description": "Minecraft for Nintendo Switch\u2122 2 launches October 27, and pre-orders are available now for the Standard Edition, Deluxe Collection, Ultimate Collection, and physical retail version. All editions include the Super Mario\u2122 Mash-Up Pack with Vibrant Visuals, whil\u2026",
         "source_link": "https://www.minecraft.net/en-us/article/pre-order-minecraft-for-nintendo-switch-2"
       },
       {
-        "rank": 2,
-        "image": "https://mp1st.com/wp-content/uploads/2026/10/dtsalesnew-600x338.png",
-        "title": "PlayStation Store Sale \u201cPlayer\u2019s Choice\u201d Live on October 7 - MP1st",
-        "description": "Sony has kicked off the PSN Store \"Player's Choice\" sale, and it includes a host of AAA games. Check out the complete list.",
-        "source_link": "https://mp1st.com/news/playstation-store-sale-players-choice-live-on-october-7"
-      },
-      {
-        "rank": 3,
-        "image": "https://kotaku.com/app/uploads/2026/10/callofdutyleague.jpg",
-        "title": "Call Of Duty Commentator Leaves The League After Revealing He\u2019s Dating His Co-Commentator\u2019s Ex-Wife - Kotaku",
-        "description": "Maven and MerK had commentated together for years",
-        "source_link": "https://kotaku.com/call-of-duty-merk-maven-league-ex-wife-divorce-dating-2000741968"
-      },
-      {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/microsoft-surface-rtx-spark-dev-box-promo-1.png?quality=90&strip=all&crop=0%2C30.391676058944%2C100%2C65.44502617801&w=1200",
-        "title": "Surface RTX Spark Dev Box is available for preorder for $5,999 - The Verge",
-        "description": "Microsoft launched preorders for the $5,999 Surface RTX Spark Dev Box mini PC, which starts shipping on November 24th.",
-        "source_link": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder"
-      },
-      {
-        "rank": 5,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/Pixel-11-color-family-1.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Pixel 11 series still not on Android 17 QPR1 with October update - 9to5Google",
-        "description": "With yesterday's October 2026 update, the Pixel 11, 11 Pro, 11 Pro XL, and 11 Pro Fold are not yet running Android 17 QPR1.",
-        "source_link": "http://9to5google.com/2026/10/07/pixel-11-no-android-17-qpr1/"
-      },
-      {
-        "rank": 6,
-        "image": "https://kotaku.com/app/uploads/2026/09/Star-Wars-Zero-Company.jpg",
-        "title": "Star Wars Zero Company Studio Tries To Bring Back As Many Furloughed Devs 'As Possible' Following 'Unexpected Business Developments Outside Of Our Control' - Kotaku",
-        "description": "Bit Reactor says it will have more to share on the XCOM-like strategy game's future 'soon'",
-        "source_link": "https://kotaku.com/star-wars-zero-company-studio-tries-to-bring-back-as-many-furloughed-devs-as-possible-following-unexpected-business-developments-outside-of-our-control-2000741943"
-      },
-      {
-        "rank": 7,
-        "image": "https://cdn.mos.cms.futurecdn.net/gg6qX453NT7mvFBeyydUBW-1486-80.jpeg",
-        "title": "The best Amazon Prime Day deals of day 2: savings on headphones, OLED TVs, Dolby Atmos soundbars and more, direct from our experts - What Hi-Fi?",
-        "description": "Our reviewers are adding the top audio and home cinema savings they\u2019ve spotted live!",
-        "source_link": "https://www.whathifi.com/live/news/big-deal-days-2026-hi-fi-home-cinema-deals"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.macrumors.com/t/bpf068NEVnDrf7S6J0MTaKoeZJE=/2500x/article-new/2025/10/Prime-Big-Deal-Days-25-Red-and-Green.jpg",
-        "title": "Get AirPods Pro 3 for $179, Apple Watch for $199, and More Before Prime Day Ends Today - MacRumors",
-        "description": "Amazon Prime Big Deal Days is coming to a close later today, so we're quickly recapping all of the best Apple and Apple-related deals that are...",
-        "source_link": "https://www.macrumors.com/2026/10/07/prime-day-ends-today-october-26/"
-      },
-      {
         "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
-        "title": "AI-Generated Games Platform Already Has 10 Million Monthly Users - Kotaku",
-        "description": "Astrocade is filled with AI slop, but millions of people don't seem to care",
-        "source_link": "https://kotaku.com/ai-generated-games-platform-already-has-10-million-monthly-users-2000741894"
-      },
-      {
-        "rank": 10,
-        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XGP_ComingSoon0610_16x9_FBXTH_N_CW90_GBL_MGP_N_N_1_EN-US-cbf1b2ed3dea08b65ef4.jpg",
-        "title": "Coming to XBOX Game Pass: Battlefield 6, Valor Mortis, Forever Ago, and More - XBOX Wire",
-        "description": "Hope you\u2019ve been having fun digging in with Bravo Squad for Gears of War: E-Day or clearing the dungeons in Minecraft Dungeons II. When you\u2019re ready for your next game, we\u2019ve got more coming soon.",
-        "source_link": "https://news.xbox.com/en-us/2026/10/07/xbox-game-pass-october-2026-wave-1/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/surfacelaptopultra1.jpg?quality=90&strip=all&crop=0%2C10.462709848801%2C100%2C79.074580302398&w=1200",
+        "title": "The first Nvidia RTX Spark laptops cost up to $7,000 - The Verge",
+        "description": "Prices start much lower, but 128GB of unified memory is going to really cost you.",
+        "source_link": "https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000"
       }
     ],
     "trending_movies": [
@@ -83,31 +76,31 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-        "title": "Other Mommy",
-        "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increas...",
-        "source_link": "https://www.themoviedb.org/movie/1400837"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
         "title": "Fall 2: Deadpoint",
         "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, shee...",
         "source_link": "https://www.themoviedb.org/movie/1101412"
       },
       {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-        "title": "Digger",
-        "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
-        "source_link": "https://www.themoviedb.org/movie/1248832"
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+        "title": "Other Mommy",
+        "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increas...",
+        "source_link": "https://www.themoviedb.org/movie/1400837"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
         "title": "Insidious: Out of the Further",
         "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls...",
         "source_link": "https://www.themoviedb.org/movie/1291595"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+        "title": "Digger",
+        "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
+        "source_link": "https://www.themoviedb.org/movie/1248832"
       },
       {
         "rank": 6,
