@@ -1,76 +1,69 @@
 {
-  "last_updated": "October 10, 2026, 19:11 UTC",
+  "last_updated": "October 10, 2026, 23:09 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2299110674.jpg?quality=90&strip=all&crop=0%2C10.748316981873%2C100%2C78.503366036255&w=1200",
-        "title": "Microsoft tries to spark new life into Windows - The Verge",
-        "description": "Windows is slowly morphing into an agentic OS.",
-        "source_link": "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad"
+        "image": "https://www.cnet.com/wp-content/uploads/sites/2/Apple-Home-Event-.jpg",
+        "title": "Everything We Expect From Apple\u2019s Surprise Smart Home Event Next Week - CNET",
+        "description": "Here's what will reportedly be announced at Apple's Welcome Home event, and what we think is unlikely.",
+        "source_link": "https://www.cnet.com/home/smart-home/everything-we-expect-apple-smart-home-event/"
       },
       {
         "rank": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-welcome-home.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Apple \u2018Welcome home\u2019 event: Three new products are coming next week - 9to5Mac",
-        "description": "Apple\u2019s \u2018Welcome home\u2019 event is October 13. Here\u2019s what to expect, including the HomePad smart display, a new Apple TV 4K, and HomePod mini 2.",
-        "source_link": "https://9to5mac.com/2026/10/09/apple-welcome-home-event-three-new-products/"
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-1024x648.jpg",
+        "title": "PC shipments fall 20.1 percent in \u201csharpest decline\u201d since Q1 2023 - Ars Technica",
+        "description": "The current decline may be just the beginning of a new downward cycle.\"",
+        "source_link": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/"
       },
       {
         "rank": 3,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-1.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Googlebook\u2019s app situation is a mess, and not just because things are missing - 9to5Google",
+        "description": "Having been using a Googlebook for the better part of a week, there are any number of headaches I could...",
+        "source_link": "http://9to5google.com/2026/10/09/googlebook-app-situation-messy/"
+      },
+      {
+        "rank": 4,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/nikon1-1152x648.jpg",
+        "title": "Winning Nikon Small World in Motion video disqualified for AI use - Ars Technica",
+        "description": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
+        "source_link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/"
+      },
+      {
+        "rank": 5,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/fitbit-edge.jpeg?quality=90&strip=all&crop=0,12.572525668393,71.318894733819,37.340029381297",
+        "title": "Google teases Fitbit Edge launch next week - The Verge",
+        "description": "Google is getting ready to launch its rumored fitness tracker, the Fitbit Edge, on October 12th.",
+        "source_link": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week"
+      },
+      {
+        "rank": 6,
+        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/screenshot-2026-05-18-at-11-38-25-am.jpg?w=1600&h=900&fit=crop",
+        "title": "'GTA 6' Fandom Is Officially Shook After The Nude Jason Leak - Polygon.com",
+        "description": "A massive GTA 6 leak highlighting nudity sparks conspiracy theories about nude gameplay, cheats, and first-person mode",
+        "source_link": "https://www.polygon.com/gta-6-cyberleek-nude-jason-duvall-internet-archive-video-tank-cheat/"
+      },
+      {
+        "rank": 7,
+        "image": "https://images.macrumors.com/t/MzGHHpdv9LZDN3nLOmJmIk1mS4c=/1600x/article-new/2021/11/2017-apple-tv.jpg",
+        "title": "First Apple TV 4K Now 'Vintage' Ahead of New Model Coming on Tuesday - MacRumors",
+        "description": "Apple today added the first-generation Apple TV 4K from 2017 to the vintage products list on its website, just four days before a new model is...",
+        "source_link": "https://www.macrumors.com/2026/10/09/first-apple-tv-4k-now-vintage/"
+      },
+      {
+        "rank": 8,
         "image": "https://substackcdn.com/image/fetch/$s_!pB1v!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1afc76ee-b8cd-453f-8995-800a52f38f64_1920x1080.png",
         "title": "Gears of War: E-Day sells 230K copies - by Rhys Elliott - The Alinea Insight newsletter",
         "description": "But it made $37M in revenue, so there\u2019s more to this story. We dive into our Xbox (PC and console) and Steam estimates for E-Day, including revenue, Game Pass players, and more.",
         "source_link": "https://alineaanalytics.substack.com/p/gears-of-war-e-day-sells-230k-copies"
       },
       {
-        "rank": 4,
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg",
-        "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules - BBC",
-        "description": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
-        "source_link": "https://www.bbc.com/news/articles/cr86z33pdy9vo"
-      },
-      {
-        "rank": 5,
+        "rank": 9,
         "image": "https://kotaku.com/app/uploads/2025/06/0abeb34b62f840157ca35d399a8c4bc2.jpg",
         "title": "Charlie Cox Reveals He\u2019s Already Recorded 40 Hours Of Lines For A Surprise Sega Game - Kotaku",
         "description": "The Daredevil and Clair Obscur actor confirmed the new voice acting work during his appearance at NYCC",
         "source_link": "https://kotaku.com/charlie-cox-reveals-hes-already-recorded-40-hours-of-lines-for-a-surprise-sega-game-2000742798"
-      },
-      {
-        "rank": 6,
-        "image": "https://assetsio.gnwcdn.com/Forza-Horizon-6_BS1HQnI.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Forza Horizon 6 officially delayed to 2027 on PS5, to coincide with the release of the game's first paid expansion - Eurogamer.net",
-        "description": "The 'will-they-won't-they delay it?' saga is over: Forza Horizon 6 on PS5 won't launch this year. But it's not far away.",
-        "source_link": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay"
-      },
-      {
-        "rank": 7,
-        "image": "https://kotaku.com/app/uploads/2026/10/doublefineunion2.jpg",
-        "title": "Inside The Failed Fight To Unionize One Of Gaming\u2019s Most Idealized Studios - Kotaku",
-        "description": "Double Fine employees petitioned for a union in May. It created a rift in the studio that still hasn't healed",
-        "source_link": "https://kotaku.com/inside-the-failed-fight-to-unionize-one-of-gamings-most-idealized-studios-2000742755"
-      },
-      {
-        "rank": 8,
-        "image": "https://variety.com/wp-content/uploads/2026/10/Legend-of-Zelda-Ocarina-of-Time.png?w=1000&h=563&crop=1",
-        "title": "Nintendo of America Chief Breaks Down Her First Year: \u2018Zelda\u2019 Live-Action Movie, \u2018GTA 6,\u2019 Third-Party Game Goals and More - Variety",
-        "description": "After just under a year in her new role as president of Nintendo of America, Devon Pritchard is ready to share elements of her master plan.",
-        "source_link": "https://variety.com/2026/gaming/news/legend-of-zelda-movie-gta-6-nintendo-devon-pritchard-interview-1236906466/"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "title": "Instinct was the buzziest AI agent around \u2014 can it survive Muse? - The Verge",
-        "description": "Instinct\u2019s AI agent can get a lot done in its minimal text messaging-based interface. But no AI can do it all, and the buzzy startup has some big competition.",
-        "source_link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots"
-      },
-      {
-        "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_HP_Googlebook_14_ADiBenedetto_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "A week with Googlebooks: four notes from our testing so far - The Verge",
-        "description": "We\u2019ve been testing Googlebook laptops from Dell, Lenovo, Asus, Acer, and HP all week \u2014 all five launch offerings \u2014 and we already have many thoughts about Google\u2019s new operating system.",
-        "source_link": "https://www.theverge.com/tech/1008563/googlebook-software-impressions-thoughts-roundtable"
       }
     ],
     "trending_movies": [
@@ -97,10 +90,10 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-        "title": "Digger",
-        "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
-        "source_link": "https://www.themoviedb.org/movie/1248832"
+        "image": "https://image.tmdb.org/t/p/w200/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+        "title": "Insidious: Out of the Further",
+        "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls...",
+        "source_link": "https://www.themoviedb.org/movie/1291595"
       },
       {
         "rank": 5,
@@ -111,38 +104,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-        "title": "Fall 2: Deadpoint",
-        "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, shee...",
-        "source_link": "https://www.themoviedb.org/movie/1101412"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-        "title": "Resident Evil",
-        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
-        "source_link": "https://www.themoviedb.org/movie/1423191"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
         "title": "V/H/S/Mixtape",
         "description": "V/H/S/MIXTAPE cranks the volume on horror with a blood-soaked collection of cursed music videos, terrifying performances, and found footage. Press pla...",
         "source_link": "https://www.themoviedb.org/movie/1742441"
       },
       {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+        "title": "Fall 2: Deadpoint",
+        "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, shee...",
+        "source_link": "https://www.themoviedb.org/movie/1101412"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+        "title": "Digger",
+        "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
+        "source_link": "https://www.themoviedb.org/movie/1248832"
+      },
+      {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/7Ncfrt43mLLFB8yWcWON8imHr0Q.jpg",
-        "title": "Reporting Live",
-        "description": "A young reporter and her reluctant cameraman chase a story, only to get entangled in an illegal sand-mining racket run by a ruthless syndicate....",
-        "source_link": "https://www.themoviedb.org/movie/1389172"
+        "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+        "title": "Resident Evil",
+        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
+        "source_link": "https://www.themoviedb.org/movie/1423191"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-        "title": "Insidious: Out of the Further",
-        "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls...",
-        "source_link": "https://www.themoviedb.org/movie/1291595"
+        "image": "https://image.tmdb.org/t/p/w200/1etZaDkyHpaRz2cTvH2evgQm19J.jpg",
+        "title": "The Florist",
+        "description": "A quiet horticulturalist harboring a secret life as a lethal assassin finds his true identity jeopardized when he forms an unlikely friendship with a ...",
+        "source_link": "https://www.themoviedb.org/movie/1476746"
       }
     ]
   }
