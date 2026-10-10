@@ -1,76 +1,76 @@
 {
-  "last_updated": "October 10, 2026, 14:59 UTC",
+  "last_updated": "October 10, 2026, 19:11 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": null,
-        "title": "Southern Tier hunter gets his crossbow buck - Syracuse.com",
-        "description": null,
-        "source_link": "https://www.syracuse.com/news/2026/10/southern-tier-hunter-gets-his-crossbow-buck.html"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2299110674.jpg?quality=90&strip=all&crop=0%2C10.748316981873%2C100%2C78.503366036255&w=1200",
+        "title": "Microsoft tries to spark new life into Windows - The Verge",
+        "description": "Windows is slowly morphing into an agentic OS.",
+        "source_link": "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad"
       },
       {
         "rank": 2,
-        "image": "https://www.sciencealert.com/images/2026/10/OrangeCatsSurprise.jpg",
-        "title": "Secret of Orange Cats Finally Revealed After 60-Year Search - ScienceAlert",
-        "description": "If you've ever lived with an orange cat, you already know they're built different.",
-        "source_link": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search"
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-welcome-home.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Apple \u2018Welcome home\u2019 event: Three new products are coming next week - 9to5Mac",
+        "description": "Apple\u2019s \u2018Welcome home\u2019 event is October 13. Here\u2019s what to expect, including the HomePad smart display, a new Apple TV 4K, and HomePod mini 2.",
+        "source_link": "https://9to5mac.com/2026/10/09/apple-welcome-home-event-three-new-products/"
       },
       {
         "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/m365premium.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits - The Verge",
-        "description": "Microsoft is making lots of changes to its Microsoft 365 Family and Premium plans. Both will get shared AI benefits, but OneDrive storage is changing.",
-        "source_link": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes"
+        "image": "https://substackcdn.com/image/fetch/$s_!pB1v!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1afc76ee-b8cd-453f-8995-800a52f38f64_1920x1080.png",
+        "title": "Gears of War: E-Day sells 230K copies - by Rhys Elliott - The Alinea Insight newsletter",
+        "description": "But it made $37M in revenue, so there\u2019s more to this story. We dive into our Xbox (PC and console) and Steam estimates for E-Day, including revenue, Game Pass players, and more.",
+        "source_link": "https://alineaanalytics.substack.com/p/gears-of-war-e-day-sells-230k-copies"
       },
       {
         "rank": 4,
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6O3AVDB4CRCM5K56ATHOIWSECY.jpg&w=1440",
-        "title": "Margaret Hamilton dies at 90. Her programming helped astronauts reach the moon. - The Washington Post",
-        "description": "Working behind the scenes at MIT, she played a key role in the success of NASA's Apollo missions. She was later awarded the Presidential Medal of Freedom.",
-        "source_link": "https://www.washingtonpost.com/obituaries/2026/10/08/margaret-hamilton-dies-90-her-programming-helped-astronauts-reach-moon/"
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg",
+        "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules - BBC",
+        "description": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
+        "source_link": "https://www.bbc.com/news/articles/cr86z33pdy9vo"
       },
       {
         "rank": 5,
-        "image": "https://assets-prd.ignimgs.com/2026/10/08/phantombladezero-finalprev-blogroll-01-1791489524178.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "I Played 6 Hours of Phantom Blade Zero and Can\u2019t Stop Thinking About It | IGN Preview - IGN",
-        "description": "After half a day playing Phantom Blade Zero, it\u2019s gone from mostly not on my radar to to the top of my wishlist this fall, and I truly cannot wait to dive back in later this month to see if it can deliver beyond those first handful of hours. At least for now,\u2026",
-        "source_link": "https://www.ign.com/articles/phantom-blade-zero-might-be-this-years-most-stylish-action-game-ign-preview"
+        "image": "https://kotaku.com/app/uploads/2025/06/0abeb34b62f840157ca35d399a8c4bc2.jpg",
+        "title": "Charlie Cox Reveals He\u2019s Already Recorded 40 Hours Of Lines For A Surprise Sega Game - Kotaku",
+        "description": "The Daredevil and Clair Obscur actor confirmed the new voice acting work during his appearance at NYCC",
+        "source_link": "https://kotaku.com/charlie-cox-reveals-hes-already-recorded-40-hours-of-lines-for-a-surprise-sega-game-2000742798"
       },
       {
         "rank": 6,
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/dell-xps-16-creator-edition.png",
-        "title": "Dell launches Nvidia RTX Spark laptop with 18-core CPU, 3.2K 120Hz OLED display and 99 Wh battery - Notebookcheck",
-        "description": "Dell has launched its first XPS laptop powered by Nvidia\u2019s RTX Spark platform. The XPS 16 combines an 18-core N1X chip, 5,120 GPU cores, 32 GB of unified memory and a 16-inch 3.2K Tandem OLED touchscreen.",
-        "source_link": "https://www.notebookcheck.net/Dell-launches-Nvidia-RTX-Spark-laptop-with-18-core-CPU-3-2K-120Hz-OLED-display-and-99-Wh-battery.1418563.0.html"
+        "image": "https://assetsio.gnwcdn.com/Forza-Horizon-6_BS1HQnI.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Forza Horizon 6 officially delayed to 2027 on PS5, to coincide with the release of the game's first paid expansion - Eurogamer.net",
+        "description": "The 'will-they-won't-they delay it?' saga is over: Forza Horizon 6 on PS5 won't launch this year. But it's not far away.",
+        "source_link": "https://www.eurogamer.net/forza-horizon-6-ps5-release-date-delay"
       },
       {
         "rank": 7,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Researchers uncover new DarkSword spyware variant affecting unpatched iPhones - 9to5Mac",
-        "description": "iVerify released a report today detailing P7 DarkSword, a new variant of the malware associated with the DarkSword iPhone exploit chain uncovered earlier this year.",
-        "source_link": "https://9to5mac.com/2026/10/08/researchers-uncover-new-darksword-spyware-variant-affecting-unpatched-iphones/"
+        "image": "https://kotaku.com/app/uploads/2026/10/doublefineunion2.jpg",
+        "title": "Inside The Failed Fight To Unionize One Of Gaming\u2019s Most Idealized Studios - Kotaku",
+        "description": "Double Fine employees petitioned for a union in May. It created a rift in the studio that still hasn't healed",
+        "source_link": "https://kotaku.com/inside-the-failed-fight-to-unionize-one-of-gamings-most-idealized-studios-2000742755"
       },
       {
         "rank": 8,
-        "image": "https://kotaku.com/app/uploads/2026/10/image-265-1200x675.jpg",
-        "title": "Damn, This GTA 6 Screenshot Looks So Good People Don\u2019t Believe It\u2019s Real - Kotaku",
-        "description": "But look closer and it's clear this isn't magic",
-        "source_link": "https://kotaku.com/damn-this-gta-6-screenshot-looks-so-good-people-dont-believe-its-real-2000742750"
+        "image": "https://variety.com/wp-content/uploads/2026/10/Legend-of-Zelda-Ocarina-of-Time.png?w=1000&h=563&crop=1",
+        "title": "Nintendo of America Chief Breaks Down Her First Year: \u2018Zelda\u2019 Live-Action Movie, \u2018GTA 6,\u2019 Third-Party Game Goals and More - Variety",
+        "description": "After just under a year in her new role as president of Nintendo of America, Devon Pritchard is ready to share elements of her master plan.",
+        "source_link": "https://variety.com/2026/gaming/news/legend-of-zelda-movie-gta-6-nintendo-devon-pritchard-interview-1236906466/"
       },
       {
         "rank": 9,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starshipflight14_deploy-1152x648-1791410362.jpg",
-        "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink - Ars Technica",
-        "description": "These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
-        "source_link": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "title": "Instinct was the buzziest AI agent around \u2014 can it survive Muse? - The Verge",
+        "description": "Instinct\u2019s AI agent can get a lot done in its minimal text messaging-based interface. But no AI can do it all, and the buzzy startup has some big competition.",
+        "source_link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots"
       },
       {
         "rank": 10,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAASQ9Adt.dE/v1/1200x800.jpg",
-        "title": "Apple Set to Debut Touch-Screen MacBook and New iPad Mini in Late October - Bloomberg.com",
-        "description": "Apple Inc., already set to introduce a revamped smart home strategy next week, is planning a second launch in October to introduce its first touch-screen MacBook and a new iPad mini.",
-        "source_link": "https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_HP_Googlebook_14_ADiBenedetto_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "A week with Googlebooks: four notes from our testing so far - The Verge",
+        "description": "We\u2019ve been testing Googlebook laptops from Dell, Lenovo, Asus, Acer, and HP all week \u2014 all five launch offerings \u2014 and we already have many thoughts about Google\u2019s new operating system.",
+        "source_link": "https://www.theverge.com/tech/1008563/googlebook-software-impressions-thoughts-roundtable"
       }
     ],
     "trending_movies": [
@@ -97,52 +97,52 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-        "title": "Other Mommy",
-        "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increas...",
-        "source_link": "https://www.themoviedb.org/movie/1400837"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
-        "title": "Fall 2: Deadpoint",
-        "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, shee...",
-        "source_link": "https://www.themoviedb.org/movie/1101412"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
         "title": "Digger",
         "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everythin...",
         "source_link": "https://www.themoviedb.org/movie/1248832"
       },
       {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+        "title": "Other Mommy",
+        "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increas...",
+        "source_link": "https://www.themoviedb.org/movie/1400837"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+        "title": "Fall 2: Deadpoint",
+        "description": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, shee...",
+        "source_link": "https://www.themoviedb.org/movie/1101412"
+      },
+      {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
-        "title": "V/H/S/Mixtape",
-        "description": "V/H/S/MIXTAPE cranks the volume on horror with a blood-soaked collection of cursed music videos, terrifying performances, and found footage. Press pla...",
-        "source_link": "https://www.themoviedb.org/movie/1742441"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-        "title": "Insidious: Out of the Further",
-        "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls...",
-        "source_link": "https://www.themoviedb.org/movie/1291595"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
         "title": "Resident Evil",
         "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
         "source_link": "https://www.themoviedb.org/movie/1423191"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
+        "title": "V/H/S/Mixtape",
+        "description": "V/H/S/MIXTAPE cranks the volume on horror with a blood-soaked collection of cursed music videos, terrifying performances, and found footage. Press pla...",
+        "source_link": "https://www.themoviedb.org/movie/1742441"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/7Ncfrt43mLLFB8yWcWON8imHr0Q.jpg",
+        "title": "Reporting Live",
+        "description": "A young reporter and her reluctant cameraman chase a story, only to get entangled in an illegal sand-mining racket run by a ruthless syndicate....",
+        "source_link": "https://www.themoviedb.org/movie/1389172"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/1etZaDkyHpaRz2cTvH2evgQm19J.jpg",
-        "title": "The Florist",
-        "description": "A quiet horticulturalist harboring a secret life as a lethal assassin finds his true identity jeopardized when he forms an unlikely friendship with a ...",
-        "source_link": "https://www.themoviedb.org/movie/1476746"
+        "image": "https://image.tmdb.org/t/p/w200/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+        "title": "Insidious: Out of the Further",
+        "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, the purgatorial realm of lost souls...",
+        "source_link": "https://www.themoviedb.org/movie/1291595"
       }
     ]
   }
