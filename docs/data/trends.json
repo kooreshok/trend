@@ -1,82 +1,68 @@
 {
-  "last_updated": "October 14, 2026, 16:23 UTC",
+  "last_updated": "October 14, 2026, 20:23 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-2-apple-music-app-icon-new.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "iOS 27.2 adds new app icon for Apple Music, more design updates - 9to5Mac",
+        "description": "iOS 27.2 beta 4 debuted today for developers, and the update includes a new app icon for Apple Music alongside other design updates.",
+        "source_link": "https://9to5mac.com/2026/10/13/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates/"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/XBOX-LABS-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "title": "Xbox is officially embracing the chaos of AI-powered game ports - The Verge",
+        "description": "Microsoft has created a new Xbox Labs team to explore game decompiling. It\u2019s an emerging trend that has seen games remixed together.",
+        "source_link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration"
+      },
+      {
+        "rank": 3,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-health-app-ios-27-2.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "iOS 27.2 beta 4 no longer includes Apple\u2019s overhauled Health app - 9to5Mac",
+        "description": "An overhauled Apple Health app is coming, but it looks like iOS 27.2 won\u2019t include it. Apple first announced the...",
+        "source_link": "https://9to5mac.com/2026/10/13/ios-27-2-beta-4-no-longer-includes-apples-overhauled-health-app/"
+      },
+      {
+        "rank": 4,
+        "image": "https://cdn.zmescience.com/wp-content/uploads/2025/01/ai-slashes-cost-and-ti.jpg",
+        "title": "AI Designs Computer Chips We Can\u2019t Understand \u2014 But They Seem to Work Really Well - ZME Science",
+        "description": "Can we trust systems we don\u2019t fully understand?",
+        "source_link": "https://www.zmescience.com/science/computer-chips-made-by-ai-rep/"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.cnet.com/wp-content/uploads/sites/2/LG-Apple-All-Cameras.jpg",
+        "title": "Apple Just Declared War on Smart Home Security - CNET",
+        "description": "Starting this December, Apple\u2019s unleashing its own version of the smart home. We saw what\u2019s in store with our own eyes.",
+        "source_link": "https://www.cnet.com/home/smart-home/apple-just-declared-war-on-smart-home-security/"
+      },
+      {
+        "rank": 6,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675",
+        "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android - TechCrunch",
+        "description": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+        "source_link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"
+      },
+      {
+        "rank": 7,
+        "image": "https://insider-gaming.com/wp-content/uploads/2026/10/CFB27Screen.jpg",
+        "title": "EXCLUSIVE: EA Sports College Football\u2019s Future in Jeopardy, Sources Fear - Insider Gaming",
+        "description": "EA Sports College Football faces rising NIL costs and monetization concerns, with sources fearing the franchise's future moving forward.",
+        "source_link": "https://insider-gaming.com/ea-sports-college-football-future/"
+      },
+      {
+        "rank": 8,
         "image": "https://assetsio.gnwcdn.com/musk-wario.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
         "title": "\"That was not received well at Nintendo\" - as GTA 6 and Zelda are lampooned by Saturday Night Live, former employees recall Elon Musk Wario skit controversy - Eurogamer.net",
         "description": "As American comedy series Saturday Night Live airs a sketch lampooning the November showdown between Grand Theft Auto 6\u2026",
         "source_link": "https://www.eurogamer.net/snl-elon-musk-wario-skit-zelda-gta-6"
-      },
-      {
-        "rank": 2,
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6ace3cffded87bfe5846428b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "title": "The \u2018GTA 6\u2019 PC Release Date Window Revealed, Says New Report - Forbes",
-        "description": "GTA 6 is coming to PC after it hits consoles, but we have a new release date window according to a report. And it's close.",
-        "source_link": "https://www.forbes.com/sites/paultassi/2026/10/13/the-gta-6-pc-release-date-window-revealed-says-new-report/"
-      },
-      {
-        "rank": 3,
-        "image": "https://assets-prd.ignimgs.com/2026/10/12/phantombladezero-trailer-blogroll-1791839349440.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Phantom Blade Zero: The Hunt Boss Fight & Blood-Steel Form Appearance Reveal - IGN",
-        "description": "Watch Soul take on a new boss, The Hunt, in this gameplay video from Phantom Blade Zero. The video also offers a first look at Blood-Steel Form, an appearance included in the Deluxe Edition. Phantom Blade Zero launches on October 29, 2026, on PlayStation 5, S\u2026",
-        "source_link": "https://www.ign.com/videos/phantom-blade-zero-the-hunt-boss-fight-blood-steel-form-appearance-reveal"
-      },
-      {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/hogwarts-legacy-nvidia-dlss-5-3d-guided-neural-rendering-geforce-rtx-50-series-comparison-001-on.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month - The Verge",
-        "description": "DLSS 5 debuts in Hogwarts Legacy and Where Winds Meet next month.",
-        "source_link": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.cnbcfm.com/api/v1/image/108403253-1791897331342-Apple-HomeView-lineup-261013.jpg?v=1791897361&w=1920&h=1080",
-        "title": "Apple releases HomeView smart home hub with screen as showcase for Siri AI - CNBC",
-        "description": "The iPhone maker also announced the new Apple TV 4K and HomePod Mini.",
-        "source_link": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.macrumors.com/t/UcSy9N5pMnd8EOdTu-JSw5jhTgw=/1960x/article-new/2026/10/apple-home-collection.jpg",
-        "title": "Apple Launches 'Apple Home Collection' With Cameras, Lock, Thermostats and More - MacRumors",
-        "description": "Apple today debuted the \"Apple Home Collection,\" an accessory lineup it developed with LG Electronics and Schneider Electric. The collection...",
-        "source_link": "https://www.macrumors.com/2026/10/13/apple-home-collection/"
-      },
-      {
-        "rank": 7,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-TV-4K-261013_big.jpg.large_2x.jpg?resize=1200,675",
-        "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands - TechCrunch",
-        "description": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
-        "source_link": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/"
-      },
-      {
-        "rank": 8,
-        "image": "https://gizmodo.com/app/uploads/2026/10/HomePod-mini-2-hands-on-7-1200x675.jpg",
-        "title": "Apple Unveils Its First HomePod mini in Six Years - Gizmodo",
-        "description": "The HomePod mini 2 supports next-gen Siri AI features.",
-        "source_link": "https://gizmodo.com/apple-homepod-mini-2-2000809117"
-      },
-      {
-        "rank": 9,
-        "image": "https://assets-prd.ignimgs.com/2026/10/13/max-payne-3-1791891616427.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "\u2018I Got That Completely Wrong\u2019 \u2014 Dan Houser Considers Rockstar\u2019s Max Payne 3 a Failure - IGN",
-        "description": "\u2018I got that completely wrong\u2019 \u2014 Dan Houser explains why he thinks Rockstar\u2019s Max Payne 3 \u2018failed\u2019.",
-        "source_link": "https://www.ign.com/articles/i-got-that-completely-wrong-dan-houser-considers-rockstars-max-payne-3-a-failure"
-      },
-      {
-        "rank": 10,
-        "image": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/merchandise/tiles/2026/pokemon-beats-pill/pokemon-beats-pill-169.png",
-        "title": "Pok\u00e9mon \u00d7 Beats Pill Wireless Bluetooth\u00ae Speaker Coming Soon - Pokemon.com",
-        "description": "Boost your tunes with the upcoming Pok\u00e9mon \u00d7 Beats Pill Wireless Bluetooth\u00ae Speaker.",
-        "source_link": "https://www.pokemon.com/us/news/pokemon-beats-pill-wireless-bluetooth-speaker-coming-soon"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/bcK5naYzzfY0JBCgrPrsrbV6NO1.jpg",
         "title": "Hope",
         "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking ...",
         "source_link": "https://www.themoviedb.org/movie/1058424"
@@ -90,24 +76,24 @@
       },
       {
         "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+        "title": "Practical Magic 2",
+        "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all....",
+        "source_link": "https://www.themoviedb.org/movie/1302904"
+      },
+      {
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
         "title": "Street Fighter",
         "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrio...",
         "source_link": "https://www.themoviedb.org/movie/1153576"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
         "title": "Buddy",
         "description": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented....",
         "source_link": "https://www.themoviedb.org/movie/1514026"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-        "title": "Practical Magic 2",
-        "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all....",
-        "source_link": "https://www.themoviedb.org/movie/1302904"
       },
       {
         "rank": 6,
@@ -139,10 +125,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-        "title": "Clayface",
-        "description": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribl...",
-        "source_link": "https://www.themoviedb.org/movie/1400940"
+        "image": "https://image.tmdb.org/t/p/w200/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
+        "title": "Verity",
+        "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what ma...",
+        "source_link": "https://www.themoviedb.org/movie/1283515"
       }
     ]
   }
