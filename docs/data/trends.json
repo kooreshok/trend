@@ -1,69 +1,76 @@
 {
-  "last_updated": "October 14, 2026, 23:36 UTC",
+  "last_updated": "October 15, 2026, 02:56 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/d646e803ee572/1280x720.jpg",
+        "title": "Mario Kart 8 Deluxe Has Been Updated To Version 4.0.1, Here Are The Full Patch Notes - Nintendo Life",
+        "description": "Following a free Switch 2 update last month",
+        "source_link": "https://www.nintendolife.com/news/2026/10/mario-kart-8-deluxe-has-been-updated-to-version-4-0-1-here-are-the-full-patch-notes"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anbernic2-1152x648-1791926080.jpg",
+        "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers - Ars Technica",
+        "description": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.",
+        "source_link": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-1152x648.jpg",
+        "title": "Topgolf saved over $11.3 million after leaving VMware - Ars Technica",
+        "description": "Topgolf and VMware \"ran deep\" before the migration.",
+        "source_link": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/"
+      },
+      {
+        "rank": 4,
+        "image": "https://images.macrumors.com/t/sS-Pd_cKzSHSPdTS4kNlzjzjUoM=/1960x/article-new/2026/10/HomePod-mini-2-Mac.jpg",
+        "title": "HomePod Mini 2 Works as Default Speaker With Select Macs - MacRumors",
+        "description": "The new HomePod mini 2 can be used as a default speaker on all Mac models with Wi-Fi 6E or later, according to Apple. You can use a single HomePod,...",
+        "source_link": "https://www.macrumors.com/2026/10/13/homepod-mini-2-default-mac-speaker/"
+      },
+      {
+        "rank": 5,
         "image": "https://kotaku.com/app/uploads/2019/04/h9gbrcwqu9vtuivxgrlu-1200x675.jpg",
         "title": "Some Sony First-Party Games Have Been Delisted From the PlayStation Store - Kotaku",
         "description": "Some of Knack, Nathan Drake, and Kratos\u2019 games were pulled due to what appears to be a pricing error",
         "source_link": "https://kotaku.com/playstation-store-uncharted-god-of-war-knack-delisted-2000745375"
       },
       {
-        "rank": 2,
+        "rank": 6,
         "image": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg",
         "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days - BleepingComputer",
         "description": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities.",
         "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-2-apple-music-app-icon-new.jpg?quality=82&strip=all&resize=1200,628",
         "title": "iOS 27.2 adds new app icon for Apple Music, more design updates - 9to5Mac",
         "description": "iOS 27.2 beta 4 debuted today for developers, and the update includes a new app icon for Apple Music alongside other design updates.",
         "source_link": "https://9to5mac.com/2026/10/13/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates/"
       },
       {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/XBOX-LABS-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "Xbox is officially embracing the chaos of AI-powered game ports - The Verge",
-        "description": "Microsoft has created a new Xbox Labs team to explore game decompiling. It\u2019s an emerging trend that has seen games remixed together.",
-        "source_link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration"
-      },
-      {
-        "rank": 5,
+        "rank": 8,
         "image": "https://helios-i.mashable.com/imagery/articles/04w8NbExi6k1Ad70IRonOCy/hero-image.fill.size_1200x675.v1791902347.jpg",
         "title": "'GTA 6' Cyberleek release update: New leaks, development build, and roadmap of what might be next - Mashable",
         "description": "Maybe don't watch these videos on your work device.",
         "source_link": "https://mashable.com/entertainment/gta-grand-theft-auto-6-cyberleek-update-roadmap"
       },
       {
-        "rank": 6,
+        "rank": 9,
+        "image": "https://assetsio.gnwcdn.com/XBOX-LABS.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Xbox announces Xbox Labs, a new initiative to trial emerging ideas and \"new technology\" - GamesIndustry.biz",
+        "description": "New business unit is charged with testing new projects and judging them by user feedback",
+        "source_link": "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology"
+      },
+      {
+        "rank": 10,
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-health-app-ios-27-2.jpg?quality=82&strip=all&resize=1200,628",
         "title": "iOS 27.2 beta 4 no longer includes Apple\u2019s overhauled Health app - 9to5Mac",
         "description": "An overhauled Apple Health app is coming, but it looks like iOS 27.2 won\u2019t include it. Apple first announced the...",
         "source_link": "https://9to5mac.com/2026/10/13/ios-27-2-beta-4-no-longer-includes-apples-overhauled-health-app/"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets-prd.ignimgs.com/2024/05/27/cf25-blogroll-1716836985997.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "EA Sports' College Football Franchise Reportedly in Jeopardy Amidst Rising Costs and Declining Sales - IGN",
-        "description": "Developers working on EA Sports' College Football franchise reportedly fear that the series may not live to see the end of the decade.",
-        "source_link": "https://www.ign.com/articles/ea-sports-college-football-devs-reportedly-fear-the-franchise-could-disappear-by-2030"
-      },
-      {
-        "rank": 8,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/10/homepod-mini-2-ofic/-952x498w6/gsmarena_00.jpg",
-        "title": "Apple's HomePod mini 2 is here with Siri AI, new colors and improved sound - GSMArena.com news - GSMArena.com",
-        "description": "The smart speaker is priced at $149. Alongside the new Apple HomeView, upgraded Apple TV 4K, and Apple Home Collection, the company also unveiled the...",
-        "source_link": "https://www.gsmarena.com/apples_homepod_mini_2_is_here_with_siri_ai_new_colors_and_improved_sound-news-75028.php"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/rayban_meta_audio_12.jpg?quality=90&strip=all&crop=0%2C9.756192857701%2C100%2C80.487614284598&w=1200",
-        "title": "I don\u2019t miss the camera on the Ray-Ban Meta Audio glasses - The Verge",
-        "description": "The $349 Ray-Ban Meta Audio glasses can\u2019t record video and are a decent pair of open-ear headphones. But they don\u2019t solve the privacy problem.",
-        "source_link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables"
       }
     ],
     "trending_movies": [
@@ -97,24 +104,24 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-        "title": "Practical Magic 2",
-        "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all....",
-        "source_link": "https://www.themoviedb.org/movie/1302904"
-      },
-      {
-        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
         "title": "Buddy",
         "description": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented....",
         "source_link": "https://www.themoviedb.org/movie/1514026"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+        "title": "Practical Magic 2",
+        "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all....",
+        "source_link": "https://www.themoviedb.org/movie/1302904"
       },
       {
         "rank": 8,
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
+        "title": "Avengers: Doomsday",
+        "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
+        "source_link": "https://www.themoviedb.org/movie/1003596"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
         "title": "Matchbox the Movie",
         "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save ...",
         "source_link": "https://www.themoviedb.org/movie/1148365"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
-        "title": "Animals",
-        "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money ...",
-        "source_link": "https://www.themoviedb.org/movie/1236045"
       }
     ]
   }
