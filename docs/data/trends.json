@@ -1,76 +1,76 @@
 {
-  "last_updated": "October 16, 2026, 10:34 UTC",
+  "last_updated": "October 16, 2026, 15:08 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": null,
-        "title": "AI Controls IPhone Via ESP32 - Hackaday",
-        "description": null,
-        "source_link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SN2NUNmhNTnBTWTloU1VmbTZMUEhmcFdJSkxTa3JzblV3NU1VX00wR2pjRTBUSmQwR3pXVmdmcGZoSk1kRko1YVp6d2otVG5TU1BiM21PQnFqNTI2Y3FLS0hIalozOUZDNENndzRB?oc=5"
+        "image": "https://image.cnbcfm.com/api/v1/image/108411120-1792017144545-BEE_FRONTIER_SH01_1600x900.jpg?v=1792017283&w=1920&h=1080",
+        "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations - CNBC",
+        "description": "The $75 Bee Frontier is an upgraded version of Amazon's wearable bracelet, while the $100 Bee Eclipse attaches to a user's smartphone.",
+        "source_link": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html"
       },
       {
         "rank": 2,
+        "image": null,
+        "title": "Apple Now Inviting Media to October 28 'Launch Experience' - MacRumors",
+        "description": null,
+        "source_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNzdlc2JrdWVnZ3dtOGs5RENyNUhjZGpPTkRSTmowN0VhQVJxOVhZSEVGV2ZnNkZMWG9zdG8yUWkzbjdmYVhnQTVmVHhjdnVWcGhwYmJhMVJ2WGN1aE1wX19Uclo3cHZwZmJFcnYwaFhzcVdESHNWWFZMdW9Nc1Q5eXAzMFdqOHYzQmVJ?oc=5"
+      },
+      {
+        "rank": 3,
+        "image": null,
+        "title": "Big Walk Isn't On Xbox Because Of The 'Palestinian-Led BDS Movement' - Aftermath",
+        "description": null,
+        "source_link": "https://aftermath.site/big-walk-xbox-bds-palestine-boycott/"
+      },
+      {
+        "rank": 4,
+        "image": null,
+        "title": "Ubisoft to reduce workforce across D\u00fcsseldorf, Berlin, and Mainz as part of \"proposed voluntary departure plan\" - GamesIndustry.biz",
+        "description": null,
+        "source_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZWVoY2RrYXhrMGMxOTl2eWlXSjVHa2EwTEp2V28tZkVCV3JpbW1JcjBKUTJQUDVKbzFoaUZGc0dtdzlxU29kdHlwQVI4NzJBbmpQNmpfZ1ZLbENZRHR0RHluejB6aTdnQWpON2F5N241OHgzcC1ybUs5RHRjZzdjdGJGb0R3eWx6djJrQjBMS1JScGFXRkJoRHhTdU0zYnVRMlRNT0Y5S004d3NqLUtBMDF4NENRUUR4QmNfVHlPaUdVaS1kQ0Fic080QUNKVU53M3A4?oc=5"
+      },
+      {
+        "rank": 5,
+        "image": "https://hackaday.com/wp-content/uploads/2026/10/A-7-ESP32-lets-an-AI-set-an-alarm-on-a-stock-iPhone-no-Mac-no-jailbreak-0-20-screenshot-1.png",
+        "title": "AI Controls IPhone Via ESP32 - Hackaday",
+        "description": "Do you want to get an AI agent to do something to an iPhone? You could try and jailbreak the device and do some heavy software hacking, or\u2026 you could grab a microcontroller off the shelf and \u2026",
+        "source_link": "https://hackaday.com/2026/10/14/ai-controls-iphone-via-esp32/"
+      },
+      {
+        "rank": 6,
         "image": "https://images.nintendolife.com/fa2d30d6a1d4f/1280x720.jpg",
         "title": "Fire Emblem: Fortune's Weave Expansion Pass Announced, Wave 1 Launches Today - Nintendo Life",
         "description": "Three separate waves will be released",
         "source_link": "https://www.nintendolife.com/news/2026/10/fire-emblem-fortunes-weave-expansion-pass-announced-wave-1-launches-today"
       },
       {
-        "rank": 3,
+        "rank": 7,
+        "image": null,
+        "title": "Galaxy S27 and S27 Plus rumored to miss on an exciting camera upgrade - PhoneArena",
+        "description": null,
+        "source_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWtUWkpCZlNKcUkwUlh4SnhQOEZBYkpRX1VpMnQ5VHhBemtQZjdZMzQ5YmhKREplU0M0ZjlKSWRrbTdrSHJPcE9OR0swdUJnbDVxNGhrM01lYTRRRU04eGdlYzhDbnJfamFIalB3clRBMHp1T0E4THNnT1U3ampzNV85Ri1aTmZzVWJ1VEJKZ3NXMHoxNXZjeGhrbkdIdVc0Y0ZqY3Q5LTV0U2VybV9B?oc=5"
+      },
+      {
+        "rank": 8,
         "image": "https://9to5google.com/wp-content/uploads/sites/4/2021/01/Google-Nest-Mini-Charcoal-3.jpg?quality=82&strip=all&resize=1200,628",
         "title": "Old Google Home and Nest speakers getting big firmware update - 9to5Google",
         "description": "Google is testing a big firmware update for the Google Home, Home Mini, Nest Mini, and Nest Audio. This release...",
         "source_link": "http://9to5google.com/2026/10/14/google-home-nest-speaker-update/"
       },
       {
-        "rank": 4,
+        "rank": 9,
         "image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/Schneider-Electric-Apple-smart-thermostat.jpg?quality=82&strip=all&resize=1200,628",
         "title": "Apple and Schneider\u2019s new smart thermostat could help cut your electric bill - Electrek",
         "description": "Apple and Schneider's smart thermostat uses your iPhone to adjust temperatures and can shift energy use to cheaper, cleaner hours.",
         "source_link": "http://electrek.co/2026/10/14/apple-and-schneiders-new-smart-thermostat-could-help-cut-your-electric-bill/"
       },
       {
-        "rank": 5,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/egslauncher-1152x648.png",
-        "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam - Ars Technica",
-        "description": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
-        "source_link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/"
-      },
-      {
-        "rank": 6,
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/reversing-age-by-repro.jpg",
-        "title": "Reversing age by reprogramming gene expression networks - Medical Xpress",
-        "description": "Every organ and tissue progressively loses function and integrity as it ages. In fact, researchers have identified \"hallmarks of aging\" that not only present specific processes impacted by age, but are also thought of as levers that, if successfully targeted,\u2026",
-        "source_link": "https://medicalxpress.com/news/2026-10-reversing-age-reprogramming-gene-networks.html"
-      },
-      {
-        "rank": 7,
-        "image": "https://chromeunboxed.com/wp-content/uploads/2026/10/ChromebookASUSGooglebookOS.webp",
-        "title": "A user has installed Googlebook OS onto a Chromebook Plus, and it runs great - Chrome Unboxed",
-        "description": "Ever since Google officially launched the new Googlebook platform, one of the biggest questions hanging in the air has been what this means for existing Chromebook hardware. While we wait for official transition paths for existing Chromebook hardware, the ent\u2026",
-        "source_link": "https://chromeunboxed.com/a-user-has-installed-googlebook-os-onto-a-chromebook-plus-and-it-runs-great/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.sheepesports.com/en/articles/league-classic-to-go-offline-in-january-2027/en/opengraph-image-bcw1d0?0a3a7082f933e9e3",
-        "title": "League Classic to go offline in January 2027 - Sheep Esports",
-        "description": "The return to old-school League of Legends will be shorter than some fans hoped, as Riot Games prepares to end the current version of League Classic while leaving the door open for a comeback.",
-        "source_link": "https://www.sheepesports.com/en/articles/league-classic-to-go-offline-in-january-2027/en"
-      },
-      {
-        "rank": 9,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/fitbit-edge-1.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Google Fitbit Edge hands-on: Pixel Watch Lite, take two - 9to5Google",
-        "description": "Google\u2019s new Fitbit Edge tracker launches later this month and, as we get our review together, here\u2019s a quick hands-on...",
-        "source_link": "http://9to5google.com/2026/10/14/google-fitbit-edge-hands-on-pixel-watch-lite-take-two/"
-      },
-      {
         "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple-tv-4k-2026-event.jpg?quality=90&strip=all&crop=0%2C13.267789524525%2C100%2C78.534031413613&w=1200",
-        "title": "Apple missed an opportunity with the Apple TV 4K - The Verge",
-        "description": "The new Apple TV 4K streaming box has a premium price tag but doesn\u2019t add much-desired home theater features like audio passthrough and 120fps.",
-        "source_link": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features"
+        "image": null,
+        "title": "Gemini AI Plus subscribers will lose access to Pro models next month - 9to5Google",
+        "description": null,
+        "source_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51SU1Cd0ZISHVIRTRHVWxPd3pSaXFmam1uNVBIWnRGOXhvSGpKNGd0a01nWjJReXZOLUpoY1BrM0xFTW51ZTZBUGVXSmRzQU9DRUU3V2ZqemVrS0dHNWFzbGlRcGpZemtaWjdYb0RFcHZ3YWwtTkZr?oc=5"
       }
     ],
     "trending_movies": [
@@ -111,7 +111,7 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/pJ8RXWNO7aB19B0tUvLQqXTt7Yo.jpg",
         "title": "Love of Your Life",
         "description": "After a chance encounter sparks a sweeping romance, Maya's future is suddenly upended, sending her on an unexpected journey to love and live again....",
         "source_link": "https://www.themoviedb.org/movie/1381078"
@@ -132,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
-        "title": "Jailer 2",
-        "description": "When a dangerous syndicate expands its reach to threaten his family's peace, retired jailer Tiger Muthuvel Pandian goes undercover as a driver. Operat...",
-        "source_link": "https://www.themoviedb.org/movie/1234139"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
         "title": "Practical Magic 2",
         "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all....",
         "source_link": "https://www.themoviedb.org/movie/1302904"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/SGH7mlgfDyGgRCi2At62Ljg3zV.jpg",
+        "title": "Sacrifice",
+        "description": "During a star-studded charity gala brimming with celebrities, billionaires and empty speeches, a movie star in the midst of an existential crisis is t...",
+        "source_link": "https://www.themoviedb.org/movie/1284186"
       }
     ]
   }
