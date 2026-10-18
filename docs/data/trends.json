@@ -1,76 +1,76 @@
 {
-  "last_updated": "October 18, 2026, 10:16 UTC",
+  "last_updated": "October 18, 2026, 14:15 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/NWN-header-1152x648.jpg",
+        "title": "Why BioWare\u2019s Neverwinter Nights still has thousands of active players - Ars Technica",
+        "description": "The single-player is just OK, but according to the players, that doesn't matter.",
+        "source_link": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/"
+      },
+      {
+        "rank": 2,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgel6whr7-1_Lf62w6AJwYfEyic0x1lJ0c-qOfOprMUdm83xpM7rqXbJzplx7BPBUBDD4yUcLWoPvFBhF6HIDORPNNXYj7NfDOTf7YN5lT7p80jxtN6VrTxMjWT0OplFNx0BdjoMmFzk3ssVlbapm7Qfl0Z9_1T7jA_zwz2tbjrxzRircL28mr0zcsci98x/s1600/connectwise.jpg",
+        "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants - The Hacker News",
+        "description": "Attackers used a compromised ConnectWise Cloud Backup credential for unauthorized sign-ins across 173 Microsoft 365 tenants.",
+        "source_link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Grand-Theft-Auto-VI-Vice-City-Sign-Image-Source-Rockstar-Games.png",
+        "title": "GTA VI not yet gold: Rockstar explains the final push before launch - Notebookcheck",
+        "description": "Grand Theft Auto VI has yet to go gold ahead of its scheduled November 19, 2026 launch, with Rockstar developers telling Bloomberg that final fixes and refinements remain underway. The report examines how the game\u2019s complex, interconnected systems have shaped\u2026",
+        "source_link": "https://www.notebookcheck.net/GTA-VI-not-yet-gold-Rockstar-explains-the-final-push-before-launch.1426418.0.html"
+      },
+      {
+        "rank": 4,
         "image": "https://www.bgr.com/img/gallery/what-to-do-with-your-old-nest-gadgets-since-google-ended-support/l-intro-1791669710.jpg",
         "title": "What To Do With Your Old Nest Gadgets Since Google Ended Support - BGR",
         "description": "Wondering what's to be done with your Google Nest gadgets that have now reached their end of support? It turns out there's a few options to choose from.",
         "source_link": "https://www.bgr.com/2283131/what-to-do-with-old-google-nest/"
       },
       {
-        "rank": 2,
+        "rank": 5,
         "image": "https://images.macrumors.com/t/jG4b-VKd9y8S2sNqme6nXQKRHkY=/1672x/article-new/2026/09/iPhone-Handoff-Feature.jpeg",
         "title": "Verizon Will Charge $10 a Month for iPhone Handoff - MacRumors",
         "description": "Verizon plans to charge customers $10 per month for the iPhone Handoff feature that Apple added in iOS 27. iPhone Handoff allows one phone number...",
         "source_link": "https://www.macrumors.com/2026/10/16/verizon-iphone-handoff-cost/"
       },
       {
-        "rank": 3,
+        "rank": 6,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/hp-googlebook-14-1.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "HP Googlebook 14 Review: Great laptop, shame about the OS - 9to5Google",
+        "description": "HP\u2019s first crack at a Googlebook laptop is a winner, or at least as much of one as the platform...",
+        "source_link": "http://9to5google.com/2026/10/16/hp-googlebook-14-review/"
+      },
+      {
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Apple\u2019s updated App Store rules go after \u2018nudify\u2019 AI apps - The Verge",
         "description": "Apple\u2019s App Store rules now more explicitly ban so-called \u201cnudify\u201d apps that generate intimate images of people without their consent using AI tools, including \u201cbait-and-switch\u201d apps with \u201cnudification\u201d features.",
         "source_link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://static.boredpanda.com/blog/wp-content/uploads/2026/10/fb_image_6ad2a30822ebe.png",
         "title": "Man's Clever Trick After Realizing His Job Interviewer Was AI Sparks Fears For Humanity's Future - Bored Panda",
         "description": "As more and more companies replace their interviewers with AI, a frustrated comedian went viral by bringing his own \u201cAI representative\u201d to the meeting.",
         "source_link": "https://www.boredpanda.com/mans-clever-trick-after-realizing-job-interview-was-ai-goes-viral/"
       },
       {
-        "rank": 5,
+        "rank": 9,
+        "image": "https://i.pcmag.com/imagery/articles/06l0gtje8FYxV9C85Ds7epQ-1.fit_lim.size_1200x630.v1792177949.jpg",
+        "title": "Nvidia's RTX Spark Event in San Francisco Attracts Long Lines, But Few Buyers - PCMag",
+        "description": "Dozens lined up to check out the first RTX Spark laptops on launch day, but actual purchases were few and far between, with curious Nvidia fans citing the machines' high cost.",
+        "source_link": "https://www.pcmag.com/news/nvidias-rtx-spark-event-in-san-francisco-attracts-long-lines-but-few-buyers"
+      },
+      {
+        "rank": 10,
         "image": "https://assets-prd.ignimgs.com/2026/10/16/smash-bros-player-banned-from-tournament-bug-bites-1792187389080.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns - IGN",
         "description": "Professional Super Smash Bros. player Jason \u2018Mew2King\u2019 Zimmerman has been banned from a competitive tournament after posting photos of his concerning skin condition and complaining of a bug infestation in his home.",
         "source_link": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns"
-      },
-      {
-        "rank": 6,
-        "image": "https://kotaku.com/app/uploads/2026/10/Grand-Theft-Auto-6-Launch-Trailer-image-Rockstar-Games.jpg",
-        "title": "Fans Are Comparing Grand Theft Auto 6\u2032 s Latest Trailer To Its First And Complaining That It\u2019s A Blurry \u2018Downgrade\u2019 - Kotaku",
-        "description": "God forbid someone in Rockstar Games' marketing department decided to add a little artistic flair to a trailer",
-        "source_link": "https://kotaku.com/fans-are-comparing-grand-theft-auto-6s-latest-trailer-to-its-first-and-complaining-that-its-a-blurry-downgrade-2000746855"
-      },
-      {
-        "rank": 7,
-        "image": "https://media.wired.com/photos/6ad26281fc48d47f39527b44/191:100/w_1280,c_limit/Science_Pour%20One%20Out%20for%20the%20Leap%20Second_v1.jpg",
-        "title": "Pour One Out for the Leap Second - WIRED",
-        "description": "The metric might not mean much to laypeople, but leap seconds have been a source of contention in the timekeeping community for years. Now, they\u2019re dead.",
-        "source_link": "https://www.wired.com/story/leap-second-is-abolished-bipm-says/"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F776e515e-3e39-47f7-9fda-1b1683f6efb4.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-        "title": "Apple blames \u2018extraordinary\u2019 demand as foldable iPhones sell out - Financial Times",
-        "description": "Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale",
-        "source_link": "https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f?syn-25a6b1a6\\\\u003d1"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.macrumors.com/t/1lygljCOZBkj565M6S2GQ6yjgXg=/1600x/article-new/2026/09/iphone-duo-case.jpg",
-        "title": "Apple's $79 iPhone Duo Case Sticks On With Adhesive - MacRumors",
-        "description": "Apple's iPhone Duo Case uses adhesive to attach to the device, according to people who have picked one up.   The case comes in two pieces and...",
-        "source_link": "https://www.macrumors.com/2026/10/16/iphone-duo-case-adhesive/"
-      },
-      {
-        "rank": 10,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-facetime.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "HomeView will include these Apple apps at launch - 9to5Mac",
-        "description": "Apple\u2019s HomeView is available to pre-order now and ships November 13. Here are the Apple apps you\u2019ll be able to use on HomeView at launch.",
-        "source_link": "https://9to5mac.com/2026/10/16/homeview-will-include-these-apple-apps-at-launch/"
       }
     ],
     "trending_movies": [
@@ -104,45 +104,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
         "title": "Street Fighter",
         "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrio...",
         "source_link": "https://www.themoviedb.org/movie/1153576"
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/Ap8QwmKfSjYbWC4XIP8w9pdn72O.jpg",
-        "title": "You Can See Everything",
-        "description": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every mo...",
-        "source_link": "https://www.themoviedb.org/movie/1765072"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
         "title": "Animals",
         "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money ...",
         "source_link": "https://www.themoviedb.org/movie/1236045"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/nLKejp8AUnvcxDPPuWxecvEqeZJ.jpg",
-        "title": "Sacrifice",
-        "description": "During a star-studded charity gala brimming with celebrities, billionaires and empty speeches, a movie star in the midst of an existential crisis is t...",
-        "source_link": "https://www.themoviedb.org/movie/1284186"
-      },
-      {
-        "rank": 9,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
         "title": "Whalefall",
         "description": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massiv...",
         "source_link": "https://www.themoviedb.org/movie/1255833"
       },
       {
-        "rank": 10,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/1BdZbNvl1SfrrX8J9X5tQzN6Ivu.jpg",
         "title": "Buddy",
         "description": "A magical, singing orange unicorn holds his cast hostage in a surreal TV-show dimension, as he becomes more and more demented....",
         "source_link": "https://www.themoviedb.org/movie/1514026"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/nLKejp8AUnvcxDPPuWxecvEqeZJ.jpg",
+        "title": "Sacrifice",
+        "description": "During a star-studded charity gala brimming with celebrities, billionaires and empty speeches, a movie star in the midst of an existential crisis is t...",
+        "source_link": "https://www.themoviedb.org/movie/1284186"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+        "title": "Practical Magic 2",
+        "description": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all....",
+        "source_link": "https://www.themoviedb.org/movie/1302904"
       }
     ]
   }
