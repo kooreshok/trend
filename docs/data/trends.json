@@ -1,69 +1,76 @@
 {
-  "last_updated": "October 20, 2026, 22:02 UTC",
+  "last_updated": "October 21, 2026, 01:12 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/stupid-never-dies-golem-fight.png?w=1600&h=900&fit=crop",
+        "title": "Stupid Never Dies Is Easily the Worst Game of 2026 - Polygon.com",
+        "description": "Stupid Never Dies stumbles through its 30-hour runtime thanks to sluggish action and a rotten story.",
+        "source_link": "https://www.polygon.com/stupid-never-dies-review/"
+      },
+      {
+        "rank": 2,
+        "image": "https://gizmodo.com/app/uploads/2026/10/ender-dragon-1200x675.jpg",
+        "title": "Four AI Agents Have Slain Minecraft\u2019s Ender Dragon - Gizmodo",
+        "description": "\"To our knowledge, this is the first end-to-end autonomous completion of Minecraft by AI agents.\"",
+        "source_link": "https://gizmodo.com/four-ai-agents-have-slain-minecrafts-ender-dragon-2000827679"
+      },
+      {
+        "rank": 3,
         "image": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "'There's No One Person That Has This Whole Thing in Their Head' \u2014 GTA 6 Devs Had Freedom to Add Cool Features Just Like RDR2's Horse Balls - IGN",
         "description": "Rockstar Games gave the GTA 6 developers so much freedom to add cool details that not even the studio's top executives are aware of everything in the game.",
         "source_link": "https://www.ign.com/articles/theres-no-one-person-that-has-this-whole-thing-in-their-head-gta-6-devs-had-freedom-to-add-cool-features-just-like-rdr2s-horse-balls"
       },
       {
-        "rank": 2,
-        "image": "https://kotaku.com/app/uploads/2026/10/podcasts-1200x675.jpg",
-        "title": "As IGN Retreats From Podcasts, Fired Hosts Start Their Own - Kotaku",
-        "description": "X Button is the newest independent gaming network",
-        "source_link": "https://kotaku.com/as-ign-retreats-from-podcasts-fired-hosts-start-their-own-2000747616"
-      },
-      {
-        "rank": 3,
+        "rank": 4,
         "image": "https://gizmodo.com/app/uploads/2026/10/Redmi-K100-1200x675.jpg",
         "title": "Chinese Phone Batteries Are Just Getting Out of Hand - Gizmodo",
         "description": "I'll go further: Chinese phones are getting out of hand.",
         "source_link": "https://gizmodo.com/xiaomi-redmi-k100-2000827692"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://images.macrumors.com/t/22J13y3ZdnwHUE8SOAahOvwzclA=/2500x/article-new/2026/10/Apple-iPhone-Duo-Early-Feature.jpg",
         "title": "Apple Starts Moving Up iPhone Duo Delivery Dates - MacRumors",
         "description": "Apple has started bumping up estimated delivery dates for some customers who pre-ordered the iPhone Duo in countries such as the U.S. and Japan.   In...",
         "source_link": "https://www.macrumors.com/2026/10/19/apple-starts-moving-up-iphone-duo-delivery-dates/"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homepod-sound-glow.jpg?quality=82&strip=all&resize=1200,628",
         "title": "Your HomePod has a colorful new party trick: how to enable Sound Glow - 9to5Mac",
         "description": "Apple is rolling out a new feature for HomePod mini and the second-gen big HomePod called Sound Glow. This lights...",
         "source_link": "https://9to5mac.com/2026/10/19/homepod-sound-glow-colorful-light/"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://r2-media.wdwnt.com/2026/04/disney-gift-card.jpg",
         "title": "Sam's Club Will Offer 10% Off Disney Gift Cards for Limited Time, Likely to Sell Out Quickly - WDW News Today",
         "description": "Ahead of Black Friday, Sam's Club will offer their biannual 10% discount off Disney Gift Cards.",
         "source_link": "https://wdwnt.com/2026/10/sams-club-will-offer-10-off-disney-gift-cards-for-limited-time/"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ReactOS_NTFS_Drive_Properties.jpg",
         "title": "ReactOS reaches major milestone with NTFS install support - Ars Technica",
         "description": "ReactOS gains NTFS install support with new driver.",
         "source_link": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/"
       },
       {
-        "rank": 8,
-        "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/diecast_belt_sander_TS3.jpg",
-        "title": "This Guy Is Endurance-Racing 1:64 Diecast Cars On A Belt Sander And The Cars Have Been Running 29 Days Nonstop - Watch Live! - The Autopian",
-        "description": "A clever youtuber is racing 1.64 (\"Hot Wheels sized\") cars using a belt sander as a treadmill/road for endurance races that stretch on for weeks",
-        "source_link": "https://www.theautopian.com/this-guy-is-endurance-racing-164-diecast-cars-on-a-belt-sander-and-the-cars-have-been-running-29-days-nonstop-watch-live/"
+        "rank": 9,
+        "image": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/10/Triangel-Borea-BR05-16x9-Lead-1.webp",
+        "title": "A Beloved Hi-Fi Specialist Just Dropped a Gorgeous Pair of Audiophile Loudspeakers - Gear Patrol",
+        "description": "The revered audio brand's entry-level loudspeaker range just got a new addition.",
+        "source_link": "https://www.gearpatrol.com/audio/triangle-borea-br05-speakers/"
       },
       {
-        "rank": 9,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/star-wars-battlefront-iii-HD-1920x1080.jpeg",
-        "title": "Star Wars Battlefront 3 Could Land at Bungie, as Lucasfilm Reportedly Weighs the Halo and Destiny Studio Against EA DICE - Wccftech",
-        "description": "According to a startling rumor, Lucasfilm may be considering giving Star Wars Battlefront 3 to Bungie rather than DICE.",
-        "source_link": "https://wccftech.com/star-wars-battlefront-3-could-land-bungie-lucasfilm-weighs-against-ea-dice/"
+        "rank": 10,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/spotify-logo-2.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Spotify\u2019s \u2018QR code verification\u2019 cracks down on sharing and could ban you for a year - 9to5Google",
+        "description": "Spotify is rolling out a new method of cracking down on Family plan sharing, with \u201cQR code verification\u201d that\u2019s not...",
+        "source_link": "http://9to5google.com/2026/10/19/spotify-qr-code-verification-family-sharing/"
       }
     ],
     "trending_movies": [
@@ -83,17 +90,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
-        "title": "Clayface",
-        "description": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribl...",
-        "source_link": "https://www.themoviedb.org/movie/1400940"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
         "title": "The Weight",
         "description": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mi...",
         "source_link": "https://www.themoviedb.org/movie/1433583"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/5jCpQnWPikggmQZoDp1eAi6BI6w.jpg",
+        "title": "Clayface",
+        "description": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribl...",
+        "source_link": "https://www.themoviedb.org/movie/1400940"
       },
       {
         "rank": 5,
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+        "title": "Resident Evil",
+        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
+        "source_link": "https://www.themoviedb.org/movie/1423191"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
         "title": "Masterplan",
         "description": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings\u2026 and...",
         "source_link": "https://www.themoviedb.org/movie/1561726"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/l5N7o84cObmmBIZuetNFKR97kM5.jpg",
-        "title": "Dune: Part Three",
-        "description": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as ol...",
-        "source_link": "https://www.themoviedb.org/movie/1170608"
       }
     ]
   }
