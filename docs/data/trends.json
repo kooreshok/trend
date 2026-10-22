@@ -1,76 +1,76 @@
 {
-  "last_updated": "October 22, 2026, 00:22 UTC",
+  "last_updated": "October 22, 2026, 05:42 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s1600/php2shell.jpg",
+        "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert - The Hacker News",
+        "description": "PHP2Shell involves two critical PHP RCE flaws rated CVSS 9.2, with emergency fixes scheduled following a disclosure leak.",
+        "source_link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.nintendolife.com/3cae3dc49f114/1280x720.jpg",
+        "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 Estimated File Size Revealed - Nintendo Life",
+        "description": "Update: File size spotted on download card",
+        "source_link": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.bgr.com/img/gallery/samsung-galaxy-z-flip-8-review-iteration-overshadowed-by-innovation/l-intro-1792534467.jpg",
+        "title": "Samsung Galaxy Z Flip 8 Review: Iteration Overshadowed By Innovation - BGR",
+        "description": "Samsung's Galaxy Z Flip 8 might be the best clamshell foldable smartphone on the market for the money, but it's just not much of an upgrade over the Z Flip 7.",
+        "source_link": "https://www.bgr.com/2292418/galaxy-z-flip-8-review/"
+      },
+      {
+        "rank": 4,
         "image": "https://helios-i.mashable.com/imagery/articles/025cv7tAoEhRR4j8vCxOaLH/hero-image.fill.size_1200x675.v1792435214.jpg",
         "title": "Smart TV owners have found a new use for AI: Removing home-screen clutter - Mashable",
         "description": "Some TV owners are asking Claude Code to clear out the junk so they can just watch their shows.",
         "source_link": "https://mashable.com/tech/smart-tv-ads-claude-code-ai-cleanup"
       },
       {
-        "rank": 2,
+        "rank": 5,
+        "image": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami - IGN",
+        "description": "Eagle-eyed Rockstar fans have noticed camera crews recording convoys of flashy GTA-themed cars in Miami, creating speculation over a new live-action trailer.",
+        "source_link": "https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami"
+      },
+      {
+        "rank": 6,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/xbox-dominoes-1152x648.jpg",
         "title": "Report: Microsoft's Project Helix planned for 2028 at $1,200 to $1,800 price - Ars Technica",
         "description": "Xbox maker is also apparently planning its own gaming handheld for next year.",
         "source_link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/"
       },
       {
-        "rank": 3,
-        "image": "https://www.bleepstatic.com/content/hl-images/2021/03/29/PHP-headpic.jpg",
-        "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow - BleepingComputer",
-        "description": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure.",
-        "source_link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/"
+        "rank": 7,
+        "image": "https://www.droid-life.com/wp-content/uploads/2026/09/Pixel-11-Pro-Fold-Review-10.jpg",
+        "title": "Android 17 QPR3 Beta 2 Released for Pixel Phones - Droid Life",
+        "description": "Google released Android 17 QPR3 Beta 2 to all of its still-supported Pixel devices today. If you own a Pixel 6a up through the new Pixel 11 series, you can get an update with fresh software. This latest update has at least 20 fixes and improvements, which is \u2026",
+        "source_link": "https://www.droid-life.com/2026/10/20/android-17-qpr3-beta-2-released-for-pixel-phones/"
       },
       {
-        "rank": 4,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Android-17-launch-logo-1.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Android 17 QPR3 Beta 2 for Pixel rolling out with 21 fixes - 9to5Google",
-        "description": "The Android 17 QPR3 preview ahead of the March 2027 launch continues today with Beta 2 for Google Pixel devices....",
-        "source_link": "http://9to5google.com/2026/10/20/android-17-qpr3-beta-2-pixel/"
-      },
-      {
-        "rank": 5,
+        "rank": 8,
         "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2297293547_large_cropped.jpg?w=1121&h=630",
         "title": "EA Sports Announces Return of 'Fight Night' Boxing Video Game, 'The Fight Is Never Over' - Bleacher Report",
         "description": "Retro gaming fans were given a treat on Tuesday.",
         "source_link": "https://bleacherreport.com/articles/25513665-ea-sports-announces-return-fight-night-boxing-video-game-fight-never-over"
       },
       {
-        "rank": 6,
+        "rank": 9,
         "image": "https://techcrunch.com/wp-content/uploads/2026/04/Gemini-google-vehicles.jpeg?w=1200",
         "title": "Google is bringing a more personal version of its Gemini AI assistant to your car - TechCrunch",
         "description": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
         "source_link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/"
       },
       {
-        "rank": 7,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-event-hub.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "John Ternus talks his involvement with design teams at Apple - 9to5Mac",
-        "description": "John Ternus was interviewed by TIME and addressed a question about his ongoing involvement as CEO with Apple\u2019s design teams.",
-        "source_link": "https://9to5mac.com/2026/10/20/john-ternus-talks-his-involvement-with-design-teams-at-apple/"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-1152x648.jpg",
-        "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs - Ars Technica",
-        "description": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
-        "source_link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.macrumors.com/t/r-a84FeRhyCsmSrCJOuSvSywz14=/2100x/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg",
-        "title": "Apple's Touchscreen OLED MacBook Pro: Everything We Know - MacRumors",
-        "description": "Apple is working on a high-end MacBook Pro, and it's nearly ready to launch. It will have several firsts in a Mac, including an OLED display and...",
-        "source_link": "https://www.macrumors.com/guide/touchscreen-macbook-pro/"
-      },
-      {
         "rank": 10,
-        "image": "https://assets-prd.ignimgs.com/2026/10/20/image-2-1792525205185.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Xbox Game Pass Reportedly Getting 'Major Overhaul,' Will Feature '\u00c0 La Carte' Options - IGN",
-        "description": "Microsoft is reportedly planning a substantial revamp of Xbox Game Pass that will allow subscribers to choose the features they want in an \u00e0 la carte fashion. The report comes by way of a new Fortune profile piece on Xbox CEO Asha Sharma.",
-        "source_link": "https://www.ign.com/articles/xbox-game-pass-reportedly-getting-major-overhaul-will-feature-la-carte-options"
+        "image": "https://kotaku.com/app/uploads/2023/10/1a76617ac1879ca471869afe5a2cfec4.jpg",
+        "title": "A Big Overhaul Of Xbox Game Pass Is In The Works - Kotaku",
+        "description": "The service will reportedly move to a more \u00e0 la carte model",
+        "source_link": "https://kotaku.com/a-big-overhaul-of-xbox-game-pass-is-in-the-works-2000748041"
       }
     ],
     "trending_movies": [
@@ -83,66 +83,66 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-        "title": "Wildwood",
-        "description": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark...",
-        "source_link": "https://www.themoviedb.org/movie/791523"
-      },
-      {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-        "title": "Street Fighter",
-        "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrio...",
-        "source_link": "https://www.themoviedb.org/movie/1153576"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
         "title": "Moana",
         "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
         "source_link": "https://www.themoviedb.org/movie/1108427"
       },
       {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+        "title": "The Weight",
+        "description": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mi...",
+        "source_link": "https://www.themoviedb.org/movie/1433583"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+        "title": "Street Fighter",
+        "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrio...",
+        "source_link": "https://www.themoviedb.org/movie/1153576"
+      },
+      {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-        "title": "Masterplan",
-        "description": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings\u2026 and...",
-        "source_link": "https://www.themoviedb.org/movie/1561726"
-      },
-      {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/xKCdkfKmEqS0mKpWgHTeWuISHS3.jpg",
-        "title": "Dune: Part Three",
-        "description": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as ol...",
-        "source_link": "https://www.themoviedb.org/movie/1170608"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
         "title": "Bad Apples",
         "description": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will t...",
         "source_link": "https://www.themoviedb.org/movie/1198654"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/hxTjCfEmZJFAPW8h5S3tDQNaBi8.jpg",
+        "title": "By Any Means",
+        "description": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders....",
+        "source_link": "https://www.themoviedb.org/movie/1380417"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+        "title": "Hope",
+        "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking ...",
+        "source_link": "https://www.themoviedb.org/movie/1058424"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+        "title": "Wildwood",
+        "description": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark...",
+        "source_link": "https://www.themoviedb.org/movie/791523"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+        "title": "Masterplan",
+        "description": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings\u2026 and...",
+        "source_link": "https://www.themoviedb.org/movie/1561726"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-        "title": "Resident Evil",
-        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
-        "source_link": "https://www.themoviedb.org/movie/1423191"
+        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       }
     ]
   }
