@@ -1,13 +1,13 @@
 {
-  "last_updated": "October 22, 2026, 05:42 UTC",
+  "last_updated": "October 22, 2026, 11:02 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s1600/php2shell.jpg",
-        "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert - The Hacker News",
-        "description": "PHP2Shell involves two critical PHP RCE flaws rated CVSS 9.2, with emergency fixes scheduled following a disclosure leak.",
-        "source_link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html"
+        "image": "https://media.dcrainmaker.com/images/2026/10/1060YT1.jpg",
+        "title": "Garmin Edge 1060 Cycling GPS Hands-On: Everything You Need to Know! - DC Rainmaker",
+        "description": "Everything you need to know about the Garmin Edge 1060, based on initial real-world ride data and hands-on thoughts!",
+        "source_link": "https://www.dcrainmaker.com/2026/10/garmin-edge-1060-cycling-gps-full-hands-on-details.html"
       },
       {
         "rank": 2,
@@ -25,10 +25,10 @@
       },
       {
         "rank": 4,
-        "image": "https://helios-i.mashable.com/imagery/articles/025cv7tAoEhRR4j8vCxOaLH/hero-image.fill.size_1200x675.v1792435214.jpg",
-        "title": "Smart TV owners have found a new use for AI: Removing home-screen clutter - Mashable",
-        "description": "Some TV owners are asking Claude Code to clear out the junk so they can just watch their shows.",
-        "source_link": "https://mashable.com/tech/smart-tv-ads-claude-code-ai-cleanup"
+        "image": "https://images.macrumors.com/t/CyGdNbVv8jZwO-HTOZrHs9IFbWY=/1886x/article-new/2026/10/iPhone-Duo-Hinge-Feature-3.jpg",
+        "title": "First iPhone Duo Unboxing Video Appears Ahead of Friday Launch - MacRumors",
+        "description": "With just a couple of days to go until the iPhone Duo launches, the first unboxing video has surfaced online from someone who managed to get a device...",
+        "source_link": "https://www.macrumors.com/2026/10/20/iphone-duo-unboxing-video/"
       },
       {
         "rank": 5,
@@ -39,38 +39,38 @@
       },
       {
         "rank": 6,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&strip=all&crop=1.0809792843691%2C0%2C97.838041431262%2C100&w=1200",
+        "title": "Google\u2019s more personalized Gemini AI is heading to your car - The Verge",
+        "description": "Google is bringing Personal Intelligence to its Gemini AI assistant in Android Auto and cars with Google built-in.",
+        "source_link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
+      },
+      {
+        "rank": 7,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/xbox-dominoes-1152x648.jpg",
         "title": "Report: Microsoft's Project Helix planned for 2028 at $1,200 to $1,800 price - Ars Technica",
         "description": "Xbox maker is also apparently planning its own gaming handheld for next year.",
         "source_link": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/"
       },
       {
-        "rank": 7,
-        "image": "https://www.droid-life.com/wp-content/uploads/2026/09/Pixel-11-Pro-Fold-Review-10.jpg",
-        "title": "Android 17 QPR3 Beta 2 Released for Pixel Phones - Droid Life",
-        "description": "Google released Android 17 QPR3 Beta 2 to all of its still-supported Pixel devices today. If you own a Pixel 6a up through the new Pixel 11 series, you can get an update with fresh software. This latest update has at least 20 fixes and improvements, which is \u2026",
-        "source_link": "https://www.droid-life.com/2026/10/20/android-17-qpr3-beta-2-released-for-pixel-phones/"
+        "rank": 8,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Android-17-QPR1-yellow.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Here\u2019s everything new in Android 17 QPR3 Beta 2 [Gallery] - 9to5Google",
+        "description": "Google today rolled out Android 17 QPR3 Beta 2 with a number of fixes for Pixel devices.",
+        "source_link": "http://9to5google.com/2026/10/20/android-17-qpr3-beta-2-everything-new/"
       },
       {
-        "rank": 8,
+        "rank": 9,
+        "image": "https://www.bleepstatic.com/content/hl-images/2021/03/29/PHP-headpic.jpg",
+        "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow - BleepingComputer",
+        "description": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure.",
+        "source_link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/"
+      },
+      {
+        "rank": 10,
         "image": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2297293547_large_cropped.jpg?w=1121&h=630",
         "title": "EA Sports Announces Return of 'Fight Night' Boxing Video Game, 'The Fight Is Never Over' - Bleacher Report",
         "description": "Retro gaming fans were given a treat on Tuesday.",
         "source_link": "https://bleacherreport.com/articles/25513665-ea-sports-announces-return-fight-night-boxing-video-game-fight-never-over"
-      },
-      {
-        "rank": 9,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/04/Gemini-google-vehicles.jpeg?w=1200",
-        "title": "Google is bringing a more personal version of its Gemini AI assistant to your car - TechCrunch",
-        "description": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
-        "source_link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/"
-      },
-      {
-        "rank": 10,
-        "image": "https://kotaku.com/app/uploads/2023/10/1a76617ac1879ca471869afe5a2cfec4.jpg",
-        "title": "A Big Overhaul Of Xbox Game Pass Is In The Works - Kotaku",
-        "description": "The service will reportedly move to a more \u00e0 la carte model",
-        "source_link": "https://kotaku.com/a-big-overhaul-of-xbox-game-pass-is-in-the-works-2000748041"
       }
     ],
     "trending_movies": [
@@ -83,31 +83,31 @@
       },
       {
         "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+        "title": "Masterplan",
+        "description": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings\u2026 and...",
+        "source_link": "https://www.themoviedb.org/movie/1561726"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
+        "title": "Bad Apples",
+        "description": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will t...",
+        "source_link": "https://www.themoviedb.org/movie/1198654"
+      },
+      {
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
         "title": "Moana",
         "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
         "source_link": "https://www.themoviedb.org/movie/1108427"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
         "title": "The Weight",
         "description": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mi...",
         "source_link": "https://www.themoviedb.org/movie/1433583"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-        "title": "Street Fighter",
-        "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrio...",
-        "source_link": "https://www.themoviedb.org/movie/1153576"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
-        "title": "Bad Apples",
-        "description": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will t...",
-        "source_link": "https://www.themoviedb.org/movie/1198654"
       },
       {
         "rank": 6,
@@ -118,24 +118,24 @@
       },
       {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+        "title": "Street Fighter",
+        "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrio...",
+        "source_link": "https://www.themoviedb.org/movie/1153576"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
         "title": "Hope",
         "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking ...",
         "source_link": "https://www.themoviedb.org/movie/1058424"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
         "title": "Wildwood",
         "description": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark...",
         "source_link": "https://www.themoviedb.org/movie/791523"
-      },
-      {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-        "title": "Masterplan",
-        "description": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings\u2026 and...",
-        "source_link": "https://www.themoviedb.org/movie/1561726"
       },
       {
         "rank": 10,
