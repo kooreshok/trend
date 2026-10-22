@@ -1,76 +1,69 @@
 {
-  "last_updated": "October 22, 2026, 16:31 UTC",
+  "last_updated": "October 22, 2026, 20:23 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25728971/STK083_NVIDIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Nvidia\u2019s latest GPU driver brings a new way to speed up PC games - The Verge",
-        "description": "Microsoft\u2019s new Advanced Shader Delivery technology is now part of Nvidia\u2019s drivers.",
-        "source_link": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485114/STK048_XBOX2__A.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Xbox mandates a four-day return to office - The Verge",
+        "description": "Xbox employees close to Microsoft\u2019s Redmond headquarters will need to come into the office more starting in February.",
+        "source_link": "https://www.theverge.com/report/1015733/xbox-return-to-office-policy-four-days"
       },
       {
         "rank": 2,
-        "image": "https://images.digitalfoundry.net/848f3e853ecff/1280x720.jpg",
-        "title": "Microsoft: FSR 4.1 Coming \"Very Soon\" to Xbox Game Developers for Series X, Series S - Digital Foundry",
-        "description": "How will FSR 4.1 stack up against PS5's QSSR and Pro's PSSR 2?",
-        "source_link": "https://www.digitalfoundry.net/news/2026/10/microsoft-fsr-4-1-coming-very-soon-to-xbox-game-developers-for-series-x-series-s"
+        "image": "https://assets-prd.ignimgs.com/2026/08/21/madden-blog-football-1787310466395.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "EA Sports Is Working on a Brand New Open-World Football Game - IGN",
+        "description": "EA Sports is working on a new open-world football game, seemingly separate from Madden and College Football.",
+        "source_link": "https://www.ign.com/articles/ea-sports-confirms-its-developing-an-open-world-football-game"
       },
       {
         "rank": 3,
-        "image": "https://assetsio.gnwcdn.com/mouthwashing-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Here's our second wave of Xbox Game Pass games for October 2026 - Eurogamer.net",
-        "description": "The second batch of Xbox Game Pass games this month includes the console debuts of two genuine corkers.",
-        "source_link": "https://www.eurogamer.net/xbox-game-pass-list-october-2026"
+        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/Bootup_Wire-9c068aa206c9a72d2b1f.png",
+        "title": "Cloud Playtime Now Available to Test with XBOX Insiders - XBOX Wire",
+        "description": "Xbox Insiders can now test new Achievement features, including a visual refresh, game hiding, and highlighting fully completed games. These improvements aim to give players more control and personalization over their profiles, with broader availability coming\u2026",
+        "source_link": "https://news.xbox.com/en-us/2026/10/21/cloud-playtime-now-available-to-test-with-xbox-insiders/"
       },
       {
         "rank": 4,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/PXL_20261016_184926781-1152x648.jpg",
-        "title": "The past, present, and future share a show floor at Pinball Expo 2026 - Ars Technica",
-        "description": "Flipping through the highlights in and around Pinball Expo 2026.",
-        "source_link": "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/"
+        "image": "https://variety.com/wp-content/uploads/2026/10/Electronic-Arts-Logo.png?w=726&h=484&crop=1",
+        "title": "Electronic Arts Laying Off 3% of Employees in Studios Restructuring: BioWare Shutting Down, Respawn and DICE to Team on \u2018Star Wars: Battlefront 3\u2019 - Variety",
+        "description": "EA is restructuring its studios, laying off 3% of employees. BioWare is shutting down, while Respawn and DICE are teaming for 'Star Wars: Battlefront 3.'",
+        "source_link": "https://variety.com/2026/digital/news/ea-layoffs-bioware-shutting-down-respawn-dice-star-wars-battlefront-3-1236918715/"
       },
       {
         "rank": 5,
-        "image": "https://assetsio.gnwcdn.com/FMPlayForFree.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Football Manager 27 will be free to play for five days before its full release, in \"industry first\" for a game of its kind - Eurogamer.net",
-        "description": "FM27 is getting a free trial period with saves that carry over to the full game, with pre-orders not opening until the trial starts.",
-        "source_link": "https://www.eurogamer.net/football-manager-27-free-to-play-five-days"
+        "image": "https://assets.warhammer-community.com/dow_gametrailer-oct21-1-feature-dscknvvdp5.jpg",
+        "title": "Huge Warhammer 40,000: Dawn of War IV game overview trailer revealed - Warhammer Community",
+        "description": "Discover the factions, missions, maps, and more for the video game.",
+        "source_link": "https://www.warhammer-community.com/articles/0ruvpa79/huge-warhammer-40000-dawn-of-war-iv-game-overview-trailer-revealed"
       },
       {
         "rank": 6,
-        "image": "https://assetsio.gnwcdn.com/xbox-sunsetted.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Xbox reportedly planning three more rounds of layoffs, with the first wave coming as early as this month - Eurogamer.net",
-        "description": "Xbox is said to be laying off some employees this month, with two more waves planned for the near future.",
-        "source_link": "https://www.eurogamer.net/xbox-layoffs-october-november-january-report"
+        "image": "https://i0.wp.com/tmo.report/wp-content/uploads/2026/10/tmobileipada16featured.png?fit=1280%2C720&ssl=1",
+        "title": "Set Your Calendar, T-Mobile Giving Out Free iPads For One Day Only - The Mobile Report",
+        "description": "In an unusual move, T-Mobile appears to be giving out free iPad A16s for one day only next week, with qualifying service plan.",
+        "source_link": "https://tmo.report/2026/10/t-mobile-is-giving-away-free-ipad-a16s-for-one-day-only/"
       },
       {
         "rank": 7,
-        "image": "https://media.appleinsider.com/gallery/69478-146454-000-lead-unboxing-xl.jpg",
-        "title": "First iPhone Duo unboxing videos surface ahead of official reviews - AppleInsider",
-        "description": "A series of iPhone Duo unboxing videos are now on YouTube, showing how the device ships in its open configuration, and how the display crease is practically invisible.",
-        "source_link": "https://appleinsider.com/articles/26/10/21/first-iphone-duo-unboxing-videos-surface-ahead-of-official-reviews"
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Google-Maps-CarPlay.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Google Maps on CarPlay rolling out Gemini when navigating - 9to5Google",
+        "description": "Google Maps in CarPlay now lets you access Gemini when using navigation for a conversational driving experience.",
+        "source_link": "http://9to5google.com/2026/10/21/google-maps-carplay-gemini/"
       },
       {
         "rank": 8,
-        "image": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Sony Issues New PS5 Firmware Update as Jailbreak Race Heats Up Ahead of GTA 6 Release - IGN",
-        "description": "Sony has issued a new PlayStation 5 firmware update amid the homebrew community's ongoing effort to jailbreak the console.",
-        "source_link": "https://www.ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release"
+        "image": "https://images.digitalfoundry.net/ea9b9ce805bb2/1280x720.jpg",
+        "title": "Inside Call of Duty: Modern Warfare 4: The New Game-Changing Tech Powering Every Mode - Digital Foundry",
+        "description": "Smoke, weather and animation have all seen huge upgrades.",
+        "source_link": "https://www.digitalfoundry.net/features/inside-call-of-duty-modern-warfare-4-the-new-game-changing-tech-powering-every-mode"
       },
       {
         "rank": 9,
-        "image": "https://assetsio.gnwcdn.com/resident-evil-requiem-nostalgia-26.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "More copies of Resident Evil: Requiem were sold on PlayStation discs than on Xbox in total, reportedly, as Sony's march to a discless future continues - Eurogamer.net",
-        "description": "Single-player blockbuster PlayStation games still sell in notable quantities on disc, statistics show. In Japan, the desire for physical is even higher.",
-        "source_link": "https://www.eurogamer.net/playstation-physical-disc-sales-statistics-alinea"
-      },
-      {
-        "rank": 10,
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Apothecary-Diaries_10-21-26.jpg",
-        "title": "The Apothecary Diaries: The False Imperial Brother launches March 18, 2027 - Gematsu",
-        "description": "Mystery solving adventure game The Apothecary Diaries: The False Imperial Brother will launch for PlayStation 5, Switch 2, Switch, and PC via Steam on March 18, 2027 worldwide, publisher Koei Tecmo\u2026",
-        "source_link": "https://www.gematsu.com/2026/10/the-apothecary-diaries-the-false-imperial-brother-launches-march-18-2027"
+        "image": "https://www.pcguide.com/wp-content/uploads/2026/10/Masahiro-Sakurai.jpg",
+        "title": "Smash Bros and Kirby creator Masahiro Sakurai says AI usage will lead to unoriginal and \"unprofitable\" games - PC Guide",
+        "description": "Masahiro Sakurai believes AI could contribute to an even bigger flood of games that players simply don't want.",
+        "source_link": "https://www.pcguide.com/news/smash-bros-and-kirby-creator-masahiro-sakurai-says-ai-usage-will-lead-to-unoriginal-and-unprofitable-games/"
       }
     ],
     "trending_movies": [
@@ -83,17 +76,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
-        "title": "Bad Apples",
-        "description": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will t...",
-        "source_link": "https://www.themoviedb.org/movie/1198654"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
         "title": "Moana",
         "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
         "source_link": "https://www.themoviedb.org/movie/1108427"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
+        "title": "Bad Apples",
+        "description": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will t...",
+        "source_link": "https://www.themoviedb.org/movie/1198654"
       },
       {
         "rank": 4,
@@ -104,10 +97,10 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/hxTjCfEmZJFAPW8h5S3tDQNaBi8.jpg",
-        "title": "By Any Means",
-        "description": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders....",
-        "source_link": "https://www.themoviedb.org/movie/1380417"
+        "image": "https://image.tmdb.org/t/p/w200/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
+        "title": "Street Fighter",
+        "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrio...",
+        "source_link": "https://www.themoviedb.org/movie/1153576"
       },
       {
         "rank": 6,
@@ -118,31 +111,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-        "title": "Street Fighter",
-        "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrio...",
-        "source_link": "https://www.themoviedb.org/movie/1153576"
+        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
-        "title": "Masterplan",
-        "description": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings\u2026 and...",
-        "source_link": "https://www.themoviedb.org/movie/1561726"
+        "image": "https://image.tmdb.org/t/p/w200/85CvGoeXAcSSWy6So2DRD8ItJAN.jpg",
+        "title": "By Any Means",
+        "description": "In 1960s Mississippi, a young Black FBI agent is forced to partner with a notorious mafia hitman to investigate a wave of brutal civil rights murders....",
+        "source_link": "https://www.themoviedb.org/movie/1380417"
       },
       {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+        "title": "Wildwood",
+        "description": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark...",
+        "source_link": "https://www.themoviedb.org/movie/791523"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
-        "title": "Whalefall",
-        "description": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massiv...",
-        "source_link": "https://www.themoviedb.org/movie/1255833"
       }
     ]
   }
