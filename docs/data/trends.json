@@ -1,69 +1,62 @@
 {
-  "last_updated": "October 23, 2026, 03:07 UTC",
+  "last_updated": "October 23, 2026, 09:02 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://i0.wp.com/tmo.report/wp-content/uploads/2026/10/tmobileipada16featured.png?fit=1280%2C720&ssl=1",
+        "title": "T-Mobile Is Giving Away Free iPad A16s For One Day Only - The Mobile Report",
+        "description": "In an unusual move, T-Mobile appears to be giving out free iPad A16s for one day only next week, with qualifying service plan.",
+        "source_link": "https://tmo.report/2026/10/t-mobile-is-giving-away-free-ipad-a16s-for-one-day-only/"
+      },
+      {
+        "rank": 2,
         "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Phantom-Blade-Zero-PS5-Physical_10-21-26.jpg",
         "title": "Phantom Blade Zero launch trailer, PS5 physical editions launch in 2027 - Gematsu",
         "description": "S-GAME has released the launch trailer for Wuxia action RPG Phantom Blade Zero, as well as announced that physical standard, Deluxe, and Ultimate editions will launch for PlayStation 5 in 2027.",
         "source_link": "https://www.gematsu.com/2026/10/phantom-blade-zero-launch-trailer-ps5-physical-editions-launch-in-2027"
       },
       {
-        "rank": 2,
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "YouTube says it isn\u2019t testing hiding the dislike button - The Verge",
+        "description": "A YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is \u201cnot testing hiding the dislike button on YouTube for users.\u201d",
+        "source_link": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos"
+      },
+      {
+        "rank": 4,
         "image": "https://images.macrumors.com/t/gb26cGqhspJccA-wo07j2mXbIS4=/2880x/article-new/2026/09/iPhone-Duo-Open-large.png",
         "title": "iPhone Duo Reviewers Really Miss Face ID - MacRumors",
         "description": "Touch ID on the iPhone Duo might end up being frustrating for some users, based on media reviews that came out today. Multiple reviewers found Touch...",
         "source_link": "https://www.macrumors.com/2026/10/21/iphone-duo-touch-id-complaints/"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-fifth-avenue-iphone-launch-day.jpg?quality=82&strip=all&resize=1200,628",
         "title": "Giant iPhone Duo installations spotted at Apple Fifth Avenue ahead of Friday launch - 9to5Mac",
         "description": "While the iPhone Duo doesn\u2019t launch until Friday, preparations are already underway at Apple\u2019s flagship Fifth Avenue store in New York for the big day.",
         "source_link": "https://9to5mac.com/2026/10/21/giant-iphone-duo-installations-spotted-at-apple-fifth-avenue-ahead-of-friday-launch/"
       },
       {
-        "rank": 4,
+        "rank": 6,
+        "image": "https://www.jalopnik.com/img/gallery/1970-chevy-camaro-for-sale-with-90000-miles-shown-packs-supercharged-v8-and-5-speed-stick/l-intro-1792622288.jpg",
+        "title": "1970 Chevy Camaro For Sale With 90,000 Miles Shown Packs Supercharged V8 And 5-Speed Stick - Jalopnik",
+        "description": "Highly modified but in excellent condition, this supercharged 1970 Camaro is being offered for sale at a price that rivals the new Mustang Dark Horse.",
+        "source_link": "https://www.jalopnik.com/2293712/1970-chevrolet-camaro-pro-street-build-90000-miles-supercharged-v8-5-speed/"
+      },
+      {
+        "rank": 7,
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11172-5/MediaObjects/41586_2026_11172_Fig1_HTML.png",
+        "title": "Octupole-driven spin torque switching of antiferromagnetic tunnel junctions - Nature",
+        "description": "All-antiferromagnetic tunnel junctions can display both a large TMR and a reciprocal switching effect, octupole-driven spin-transfer torque, enabling nanoscale magnetic memory and potentially room-temperature terahertz spintronic devices.",
+        "source_link": "https://www.nature.com/articles/s41586-026-11172-5"
+      },
+      {
+        "rank": 8,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/xcloud3-1152x648.jpg",
         "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought - Ars Technica",
         "description": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
         "source_link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/"
-      },
-      {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skullcandy1.jpg?quality=90&strip=all&crop=0%2C10.717271201674%2C100%2C78.565457596651&w=1200",
-        "title": "Bose acquires Skullcandy to help it reach a wider audience - The Verge",
-        "description": "Details about the deal weren\u2019t revealed, but Skullcandy will remain a separate brand under Bose\u2019s premium consumer audio business.",
-        "source_link": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers"
-      },
-      {
-        "rank": 6,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "iOS 27.2 reveals Apple\u2019s Messages app could soon get highly requested change - 9to5Mac",
-        "description": "iOS 27.2 hints at a forthcoming Messages app change: the ability to exclude muted conversations from the unread badge count.",
-        "source_link": "https://9to5mac.com/2026/10/21/ios-27-2-reveals-apples-messages-app-could-soon-get-highly-requested-change/"
-      },
-      {
-        "rank": 7,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/apple-music-rebrand-icon-1152x648.jpg",
-        "title": "The new human-crafted Apple Music brand matters in an AI world - Ars Technica",
-        "description": "Opinion: In a world of AI slop, showing the human hands making things helps.",
-        "source_link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/"
-      },
-      {
-        "rank": 8,
-        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19753782/Screen_Shot_2020_02_28_at_10.14.59_AM.png?w=1600&h=900&fit=crop",
-        "title": "'Fallout 4' Is Officially Making A Comeback A Decade After Release - Polygon.com",
-        "description": "Bethesda is presenting a handful of new post-apocalyptic RPG experiences for Fallout 4 while fans wait for The Elder Scrolls 6",
-        "source_link": "https://www.polygon.com/fallout-4-dlc-expansion-fever-dreams-fathomless-command-overdrive-what-are/"
-      },
-      {
-        "rank": 9,
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1600/git-rce.jpg",
-        "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases - The Hacker News",
-        "description": "GitLab fixes CVE-2026-110264, a critical flaw that could allow unauthenticated code execution on self-managed versions dating back to 7.0.",
-        "source_link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html"
       }
     ],
     "trending_movies": [
@@ -76,17 +69,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-        "title": "Wildwood",
-        "description": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark...",
-        "source_link": "https://www.themoviedb.org/movie/791523"
+        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
-        "title": "Bad Apples",
-        "description": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will t...",
-        "source_link": "https://www.themoviedb.org/movie/1198654"
+        "image": "https://image.tmdb.org/t/p/w200/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+        "title": "Hope",
+        "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking ...",
+        "source_link": "https://www.themoviedb.org/movie/1058424"
       },
       {
         "rank": 4,
@@ -97,45 +90,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-        "title": "Hope",
-        "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking ...",
-        "source_link": "https://www.themoviedb.org/movie/1058424"
+        "image": "https://image.tmdb.org/t/p/w200/pcPLnxCThCIo9JFQIMFX4kAE5Yz.jpg",
+        "title": "Bad Apples",
+        "description": "A struggling primary school teacher is forced to take drastic action because of a foul-mouthed, violent student, and uncovers how her community will t...",
+        "source_link": "https://www.themoviedb.org/movie/1198654"
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-        "title": "Spider-Man: Brand New Day",
-        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
-        "source_link": "https://www.themoviedb.org/movie/969681"
+        "image": "https://image.tmdb.org/t/p/w200/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
+        "title": "V",
+        "description": "In the early 1990s, this city of desire, once a land of opportunity, was plagued by rampant crime and a breakdown of order. Man Tsz-keung, a working-c...",
+        "source_link": "https://www.themoviedb.org/movie/1567937"
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
-        "title": "The Weight",
-        "description": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mi...",
-        "source_link": "https://www.themoviedb.org/movie/1433583"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
         "title": "Street Fighter",
         "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrio...",
         "source_link": "https://www.themoviedb.org/movie/1153576"
       },
       {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/8i5iZV50CoEtmDCFM7RSxCkpE8h.jpg",
+        "title": "The Weight",
+        "description": "When Samuel is torn from his daughter and sent to a brutal prison, Warden Clancy offers him a high-stakes proposition: smuggle gold out of a remote mi...",
+        "source_link": "https://www.themoviedb.org/movie/1433583"
+      },
+      {
         "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+        "title": "Masterplan",
+        "description": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings\u2026 and...",
+        "source_link": "https://www.themoviedb.org/movie/1561726"
+      },
+      {
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
-        "title": "Idiots",
-        "description": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their pa...",
-        "source_link": "https://www.themoviedb.org/movie/445466"
       }
     ]
   }
