@@ -1,85 +1,85 @@
 {
-  "last_updated": "October 26, 2026, 02:56 UTC",
+  "last_updated": "October 26, 2026, 08:31 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://www.slashgear.com/img/gallery/how-much-would-it-cost-to-build-a-pc-that-can-compete-with-the-ps5-pro/l-intro-1792432420.jpg",
-        "title": "How Much Would It Cost To Build A PC That Can Compete With The PS5 Pro? - SlashGear",
-        "description": "The price of the PS5 Pro continues climbing. If you're going to shell out that much, maybe you should consider building a similar PC. How much would that be?",
-        "source_link": "https://www.slashgear.com/2290668/ps5-pro-competitor-pc-building-cost-estimate/"
+        "image": "https://www.bgr.com/img/gallery/which-amd-cpu-is-equivalent-to-the-one-in-the-playstation-5-pro/l-intro-1792502293.jpg",
+        "title": "Which AMD CPU Is Equivalent To The One In The PlayStation 5 Pro? - BGR",
+        "description": "Exploding console prices have led gamers to look for an AMD CPU that's equivalent to the one in the PlayStation 5 Pro. The closest match is the Ryzen 5 5600x.",
+        "source_link": "https://www.bgr.com/2291544/amd-gpu-equivalent-to-ps5-pro/"
       },
       {
         "rank": 2,
+        "image": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/10/marvels-wolverine-topped-game-sales-chart.jpg",
+        "title": "\u201cMarvel\u2019s Wolverine\u201d Topped Game Sales Chart - Dark Horizons",
+        "description": "PlayStation and Insomniac Games\u2019 \u201cMarvel\u2019s Wolverine\u201d debuted as the best-selling game of September in the United States, according to analytics firm Circana. Using the full game sales data of both physical and digital copies, the PlayStation 5 exclusive deli\u2026",
+        "source_link": "https://www.darkhorizons.com/marvels-wolverine-topped-game-sales-chart/"
+      },
+      {
+        "rank": 3,
         "image": "https://kotaku.com/app/uploads/2026/10/halotvshow-1200x675.jpg",
         "title": "Xbox Reportedly Bungled $500 Million Netflix Exclusivity Deal To Develop Movies, Shows Based On Games - Kotaku",
         "description": "According to industry insiders, newly appointed Xbox CEO Asha Sharma overplayed cross-media potential with recent Netflix exec Peter Rice to the tune of $800 million",
         "source_link": "https://kotaku.com/xbox-reportedly-bungled-500-million-netflix-exclusivity-deal-to-develop-movies-shows-based-on-games-2000749336"
       },
       {
-        "rank": 3,
-        "image": "https://images.macrumors.com/t/drErN-sKJCN6RvkjOQhhFQi9Eto=/2880x/article-new/2026/10/iPhone-Duo-Outer-Display-Hand.jpg",
-        "title": "Skip the Touch ID Scan: Unlock iPhone Duo With Apple Watch - MacRumors",
-        "description": "iPhone Duo uses a Touch ID sensor built into the side button for authentication. Some may feel this is a step backwards after almost a decade of Face...",
-        "source_link": "https://www.macrumors.com/how-to/unlock-iphone-duo-apple-watch/"
-      },
-      {
         "rank": 4,
-        "image": "https://images.macrumors.com/t/_iSrZKYTvERnz35IlfV7YKpid7s=/2498x/article-new/2026/10/jerryrigeverything-iphone-duo-dust.jpg",
-        "title": "iPhone Duo Fails JerryRigEverything's Dusty Durability Test - MacRumors",
-        "description": "Apple's iPhone Duo has failed JerryRigEverything's latest durability test. Despite its IP68 dust-resistance rating, dust entered the hinge...",
-        "source_link": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/"
+        "image": "https://assetsio.gnwcdn.com/steam-personal-calendar.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "I've got egg on my face because Steam's Personal Calendar feature has apparently been a test this whole time and is only now actually a fully fledged component - Rock Paper Shotgun",
+        "description": "Look, I've had a lot going on, alright?",
+        "source_link": "https://www.rockpapershotgun.com/ive-got-egg-on-my-face-because-steams-personal-calendar-feature-has-apparently-been-a-test-this-whole-time-and-is-only-now-actually-a-fully-fledged-component"
       },
       {
         "rank": 5,
-        "image": "https://www.jalopnik.com/img/gallery/5-cool-facts-about-the-ecto-1-every-ghostbusters-fan-should-know/l-intro-1792437174.jpg",
-        "title": "5 Cool Facts About The Ecto-1 Every Ghostbusters Fan Should Know - Jalopnik",
-        "description": "From its rarity to fun behind-the-scenes details, these are the most interesting facts about the Ecto-1 that every die-hard \"Ghostbusters\" fan needs to know.",
-        "source_link": "https://www.jalopnik.com/2290874/cool-ecto-1-facts-ghostbuster-fans-should-know/"
-      },
-      {
-        "rank": 6,
         "image": "https://www.thedailymeal.com/img/gallery/not-pyrex-not-corningware-the-250-year-old-dishware-brand-to-look-for-at-thrift-stores/l-intro-1792186451.jpg",
         "title": "Not Pyrex, Not CorningWare: The 250-Year-Old Dishware Brand To Look For At Thrift Stores - Daily Meal",
         "description": "An underrated dishware brand that's more than two centuries old is Spode, which has vintage plates and dishware you can find at the thrift store.",
         "source_link": "https://www.thedailymeal.com/2290049/vintage-dishware-thifting-spode/"
       },
       {
-        "rank": 7,
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/AI-Reverse-Engineering-Workflow.jpg",
-        "title": "AI tool REA cracks paid software: Is the software industry's business model coming to an end? - Notebookcheck",
-        "description": "Videos with titles like \u201cClone Everything\u201d and \u201cHow to Copy Any App\u201d are currently drawing viewers in on YouTube. The open-source tool REA (Reverse Engineer Anything) is designed to analyze the code of any paid app, allowing AI to recreate the software from s\u2026",
-        "source_link": "https://www.notebookcheck.net/AI-tool-REA-cracks-paid-software-Is-the-software-industry-s-business-model-coming-to-an-end.1433240.0.html"
-      },
-      {
-        "rank": 8,
+        "rank": 6,
         "image": null,
         "title": "New \u2018Mass Effect 5\u2019 Details Emerge After Cancellation, And It Sounds Great - Forbes",
         "description": null,
         "source_link": "https://www.forbes.com/sites/paultassi/2026/10/24/new-mass-effect-5-details-emerge-after-cancellation-and-it-sounds-great/"
       },
       {
+        "rank": 7,
+        "image": "https://cdn.videocardz.com/1/2026/10/PLAYSTATION-5-RUNNING-STEAM-HERO.webp",
+        "title": "Gamers are now playing Steam games directly on PlayStation 5, no streaming required - VideoCardz.com",
+        "description": "Steam games are reaching playable states on PS5 through Wine-based compatibility tools. Cyberpunk 2077, Cuphead and Hollow Knight are among the tested titles.",
+        "source_link": "https://videocardz.com/newz/gamers-are-now-playing-steam-games-directly-on-playstation-5-no-streaming-required"
+      },
+      {
+        "rank": 8,
+        "image": "https://www.housedigest.com/img/gallery/swap-the-bathtub-curtain-add-privacy-with-an-amazon-alternative/l-intro-1792428911.jpg",
+        "title": "Swap The Bathtub Curtain: Add Privacy With An Amazon Alternative - House Digest",
+        "description": "Tired of the clingy fabric of shower curtains, but still need a little privacy when you shower? Consider the Frosted Bathtub Shower Door by EGrinbey.",
+        "source_link": "https://www.housedigest.com/2290556/swap-bathtub-curtain-add-privacy-frost-glass-amazon-alternative/"
+      },
+      {
         "rank": 9,
-        "image": null,
-        "title": "iPhone Duo looks better out of the box but apparently soon falls behind Galaxy Z Fold 8 in what matters most to me - PhoneArena",
-        "description": null,
-        "source_link": "https://www.phonearena.com/news/iphone-duo-looks-better-out-of-the-box-but-soon-falls-behind-galaxy-z-fold-8_id184286"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro-and-tell.jpg?quality=90&strip=all&crop=0%2C10.722587942729%2C100%2C78.554824114543&w=1200",
+        "title": "What to expect from Apple\u2019s \u2018Pro and tell\u2019 event - The Verge",
+        "description": "Apple\u2019s long-rumored touchscreen MacBook Pro, an OLED iPad Mini, and more.",
+        "source_link": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
-        "title": "The Cycle",
-        "description": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene....",
-        "source_link": "https://www.themoviedb.org/movie/1290418"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
         "title": "Clayface",
         "description": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribl...",
         "source_link": "https://www.themoviedb.org/movie/1400940"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+        "title": "The Cycle",
+        "description": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene....",
+        "source_link": "https://www.themoviedb.org/movie/1290418"
       },
       {
         "rank": 3,
@@ -97,45 +97,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/t1azKLExwUxKj6v6m2L535evuRa.jpg",
-        "title": "La Bola Negra",
-        "description": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy....",
-        "source_link": "https://www.themoviedb.org/movie/1422041"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-        "title": "Hope",
-        "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking ...",
-        "source_link": "https://www.themoviedb.org/movie/1058424"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
-        "rank": 8,
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/t1azKLExwUxKj6v6m2L535evuRa.jpg",
+        "title": "LA BOLA NEGRA",
+        "description": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy....",
+        "source_link": "https://www.themoviedb.org/movie/1422041"
+      },
+      {
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
         "title": "Surviving Hurricane Otis",
         "description": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope....",
         "source_link": "https://www.themoviedb.org/movie/1780005"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
-        "title": "Moana",
-        "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
-        "source_link": "https://www.themoviedb.org/movie/1108427"
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+        "title": "Hope",
+        "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking ...",
+        "source_link": "https://www.themoviedb.org/movie/1058424"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
         "title": "Resident Evil",
         "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
         "source_link": "https://www.themoviedb.org/movie/1423191"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+        "title": "Moana",
+        "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unfo...",
+        "source_link": "https://www.themoviedb.org/movie/1108427"
       }
     ]
   }
