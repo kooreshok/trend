@@ -1,76 +1,76 @@
 {
-  "last_updated": "October 26, 2026, 20:51 UTC",
+  "last_updated": "October 27, 2026, 00:11 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://media.appleinsider.com/gallery/69530-146538-hinge1-xl.jpg",
+        "title": "Hinge damage suspected to be behind iPhone Duo screen cracks - AppleInsider",
+        "description": "The cause behind a repeating pattern in the way a very small amount of iPhone Duo screen cracks may have been discovered, with a failing element of the hinge believed to be causing the most damage.",
+        "source_link": "https://appleinsider.com/articles/26/10/25/hinge-damage-suspected-to-be-behind-iphone-duo-screen-cracks"
+      },
+      {
+        "rank": 2,
+        "image": "https://kotaku.com/app/uploads/2026/10/childrenofclay-1200x675.jpg",
+        "title": "13 Short And Sweet Scary Games To Treat Yourself To Before Halloween - Kotaku",
+        "description": "If you're lagging behind on your annual intake of ghouls and goblins, enjoy this selection of brief creeps, from retro classics to odd indie frights",
+        "source_link": "https://kotaku.com/13-short-and-sweet-scary-games-to-treat-yourself-to-before-halloween-2000749391"
+      },
+      {
+        "rank": 3,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&strip=all&crop=0%2C11.023851076207%2C100%2C77.952297847586&w=1200",
+        "title": "Zen Browser is the Arc replacement I was looking for - The Verge",
+        "description": "Zen Browser rips off all the best bits of Arc without the AI and feature bloat, making it the perfect replacement.",
+        "source_link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.techpowerup.com/img/KPxFR2qO3Nim6HCQ.jpg",
+        "title": "Netflix Reportedly Walked Away After Xbox Asked $800 Million for Its Game IP - TechPowerUp",
+        "description": "Netflix reportedly offered Microsoft $500 million for seven years of exclusive film and TV adaptation rights to Xbox games, but the two sides never reached a middle ground. According to Matthew Belloni's What I'm Hearing newsletter at Puck, which cites three \u2026",
+        "source_link": "https://www.techpowerup.com/354119/netflix-reportedly-walked-away-after-xbox-asked-usd-800-million-for-its-game-ip"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.housedigest.com/img/gallery/retire-your-old-fountain-the-alternative-from-home-depot-perfect-for-your-small-patio/l-intro-1792678073.jpg",
+        "title": "Retire Your Old Fountain: The Alternative From Home Depot Perfect For Your Small Patio - House Digest",
+        "description": "The Teamson Solar Gray Stone Wall Fountain from Home Depot is a great fountain for small patios thanks to its compact size and solar powered design.",
+        "source_link": "https://www.housedigest.com/2294062/retire-your-old-fountain-alternative-from-home-depot-small-patio/"
+      },
+      {
+        "rank": 6,
+        "image": "https://nintendoeverything.com/wp-content/uploads/Super-Mario-Bros.-Bowser-boss-fight.jpg",
+        "title": "Nintendo reveals why you don\u2019t actually fight Bowser in Super Mario Bros. 1 - Nintendo Everything",
+        "description": "Nintendo\u2019s Shigeru Miyamoto has shared some insight into why players don\u2019t actually fight Bowser in the original Super Mario Bros. Miyamoto was present at a press conference at the end of the week to celebrate him becoming the first developer to win Japan\u2019s O\u2026",
+        "source_link": "https://nintendoeverything.com/nintendo-reveals-why-you-dont-actually-fight-bowser-in-super-mario-bros-1/"
+      },
+      {
+        "rank": 7,
+        "image": "https://assets.warhammer-community.com/articles/0-2026/october/wc-19-10/sundaypreview-oct25-2-share-jktxohgn1f.jpg",
+        "title": "Sunday Preview \u2013 Orlocks rule the roads of Necromunda - Warhammer Community",
+        "description": "See what\u2019s coming up next week for Necromunda, Warhammer 40,000, and more.",
+        "source_link": "https://www.warhammer-community.com/articles/1bpkd6my/sunday-preview-orlocks-rule-the-roads-of-necromunda"
+      },
+      {
+        "rank": 8,
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg",
+        "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers - The Hacker News",
+        "description": "Unpatched Tailscale SSH flaws could let attackers gain root on permitted servers from a compromised device when port forwarding is enabled.",
+        "source_link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html"
+      },
+      {
+        "rank": 9,
+        "image": "https://images.timeextension.com/eb83b9e60abf9/1280x720.jpg",
+        "title": "The Making Of: Addams Family Values, Ocean Software's Attempt to Mix Hollywood & the Legend of Zelda - Time Extension",
+        "description": "\"Management didn't really understand development or the creative process\"",
+        "source_link": "https://www.timeextension.com/features/the-making-of-addams-family-values-ocean-softwares-attempt-to-mix-hollywood-and-the-legend-of-zelda"
+      },
+      {
+        "rank": 10,
         "image": "https://www.bgr.com/img/gallery/how-to-build-a-cheap-home-server-to-save-money-on-subscriptions/l-intro-1792517493.jpg",
         "title": "How To Build A Cheap Home Server To Save Money On Subscriptions - BGR",
         "description": "You can turn an old laptop, a computer, or even a Raspberry Pi into a cheap media server, but it's best to run a Linux distribution for maximum compatibility.",
         "source_link": "https://www.bgr.com/2292030/how-to-build-home-server-save-money/"
-      },
-      {
-        "rank": 2,
-        "image": "https://images.pushsquare.com/da8e33caf2657/1280x720.jpg",
-        "title": "PS5 Answers 'Bleakest' Month with a 22% Upswing in Sales - Push Square",
-        "description": "How much does the enthusiast discourse matter?",
-        "source_link": "https://www.pushsquare.com/features/ps5-answers-bleakest-month-with-a-22percent-upswing-in-sales"
-      },
-      {
-        "rank": 3,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/crkd1_56c540.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "This Switch 2 sequel accessory was a few millimeters away from being good - The Verge",
-        "description": "Crkd\u2019s $99.99 Nitro Deck 2 is a solid controller accessory for the Nintendo Switch and Switch 2, but its button and stick layout isn\u2019t comfortable.",
-        "source_link": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on"
-      },
-      {
-        "rank": 4,
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/MR75GJ5DA5B4RNHDESSZI75SRU.JPG&w=1440",
-        "title": "Forget shopping for gifts \u2014 receiving them is stressing us out - The Washington Post",
-        "description": "Experts offer tips on how to manage the feelings of disappointment, guilt or anxiety when you get a bad or inappropriate present.",
-        "source_link": "https://www.washingtonpost.com/home/2026/10/25/what-do-when-you-receive-bad-or-inappropriate-gift/"
-      },
-      {
-        "rank": 5,
-        "image": "https://assets.warhammer-community.com/goldendemon_eu2026-oct25-1-feature-1kplidfioy.jpg",
-        "title": "Golden Demon 2026 winners revealed at SPIEL Essen - Warhammer Community",
-        "description": "All of the miniatures that took home a trophy at Warhammer\u2019s ultimate painting competition.",
-        "source_link": "https://www.warhammer-community.com/articles/jqmnddcy/golden-demon-2026-winners-revealed-at-spiel-essen"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.macrumors.com/t/X2wsJRhYm31iCV7pJR2UQNCHkH8=/1600x/article-new/2025/01/2024-iPhone-Boxes-Feature.jpg",
-        "title": "Apple Stores Reportedly Rolling Out New Anti-Theft System for iPhones - MacRumors",
-        "description": "Bloomberg's Mark Gurman today reported that Apple is facing a growing problem where some people will buy iPhones or other products and either...",
-        "source_link": "https://www.macrumors.com/2026/10/25/apple-stores-anti-theft-iphone-box-checker/"
-      },
-      {
-        "rank": 7,
-        "image": "https://assets-prd.ignimgs.com/2026/08/24/lucia-hi-res-headshot-artwork-1787583598249.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "'A Lot of People Want to Get to Know Me' \u2014 GTA 6 Fans Swarm Rumored Lucia Actress Manni L. Perez's Livestream - IGN",
-        "description": "Manni L. Perez, the actress long rumored to be playing Lucia in GTA 6, has gone viral after dodging a swarm of comments from Grand Theft Auto fans during a recent livestream.",
-        "source_link": "https://www.ign.com/articles/rumored-lucia-actress-goes-viral-after-dodging-swarm-of-gta-6-comments-during-livestream"
-      },
-      {
-        "rank": 8,
-        "image": "https://techcrunch.com/wp-content/uploads/2016/09/robocash.jpg?resize=1200,849",
-        "title": "The hottest AI wearables and gadgets you should know about - TechCrunch",
-        "description": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-        "source_link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
-      },
-      {
-        "rank": 9,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipgZEQYo1qNg/v7/1200x800.jpg",
-        "title": "Apple to Unveil Touch MacBook Pro After Two Decades of Resistance - Bloomberg.com",
-        "description": "Also: The company rolls out a retail store tool to reduce wasted inventory.",
-        "source_link": "https://www.bloomberg.com/news/newsletters/2026-10-25/apple-to-unveil-touch-screen-macbook-pro-executive-promotions-in-box-checker"
-      },
-      {
-        "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "r/opensource just banned AI, non-English speakers, and more - The Verge",
-        "description": "The opensource subreddit\u2019s new rules against AI have sparked a revolt.",
-        "source_link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
       }
     ],
     "trending_movies": [
@@ -97,24 +97,24 @@
       },
       {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+        "title": "Obsession",
+        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
+        "source_link": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
         "title": "The Cycle",
         "description": "A daughter unravels her father's dark past after his body, missing for 36 years, is found at a horrific crime scene....",
         "source_link": "https://www.themoviedb.org/movie/1290418"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-        "title": "Obsession",
-        "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
-        "source_link": "https://www.themoviedb.org/movie/1339713"
       },
       {
         "rank": 7,
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-        "title": "Resident Evil",
-        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
-        "source_link": "https://www.themoviedb.org/movie/1423191"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/t1azKLExwUxKj6v6m2L535evuRa.jpg",
         "title": "LA BOLA NEGRA",
         "description": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy....",
         "source_link": "https://www.themoviedb.org/movie/1422041"
       },
       {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+        "title": "Resident Evil",
+        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
+        "source_link": "https://www.themoviedb.org/movie/1423191"
+      },
+      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
-        "title": "Avengers: Doomsday",
-        "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
-        "source_link": "https://www.themoviedb.org/movie/1003596"
+        "image": "https://image.tmdb.org/t/p/w200/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+        "title": "Wicker",
+        "description": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded...",
+        "source_link": "https://www.themoviedb.org/movie/1195803"
       }
     ]
   }
