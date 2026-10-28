@@ -1,69 +1,76 @@
 {
-  "last_updated": "October 28, 2026, 06:35 UTC",
+  "last_updated": "October 28, 2026, 13:46 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://cdn.videocardz.com/1/2026/10/NVIDIA-RTX-40-30-20-AI-UNLOCK.jpg",
-        "title": "Modders unlock hidden AI performance on NVIDIA RTX 20, 30 and 40 series GPUs, with up to 2\u00d7 tensor throughput - VideoCardz.com",
-        "description": "Modders have removed compute restrictions from several RTX 20, 30 and 40 series GPUs. The changes improve certain AI workloads but do not increase gaming FPS.",
-        "source_link": "https://videocardz.com/newz/modders-unlock-hidden-ai-performance-on-nvidia-rtx-20-30-and-40-series-gpus-with-up-to-2x-tensor-throughput"
+        "image": "https://www.trueachievements.com/imgs/180193/xbox-cracks-down-on-shovelware-by-banning-triple-stack-achievement-games.jpg",
+        "title": "Xbox cracks down on shovelware by targeting triple-stack achievement games - TrueAchievements",
+        "description": "Xbox has informed developers and publishers that they can no longer release identical games that don't offer distinct experiences with separate Xbox achievement lists.",
+        "source_link": "https://www.trueachievements.com/news/xbox-ban-shovelware-triple-stack-achievement-games"
       },
       {
         "rank": 2,
-        "image": "https://images.macrumors.com/t/MRLDVW2ExRH6dmGKL6UzdwluIig=/3840x/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg",
-        "title": "New iMac and 14-Inch MacBook Pro With M6 Chip Expected Tomorrow - MacRumors",
-        "description": "After announcing a new iPad mini today, Apple is expected to introduce updated iMac and 14-inch MacBook Pro models on Tuesday, both with the M6 chip...",
-        "source_link": "https://www.macrumors.com/2026/10/26/new-imac-and-14-inch-macbook-pro-m6-chip-rumors/"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple1.jpg?quality=90&strip=all&crop=0%2C10.744851025048%2C100%2C78.510297949903&w=1200",
+        "title": "Apple updates the MacBook Pro with M6 chips - The Verge",
+        "description": "The entry-level MacBook Pro gets Apple\u2019s latest silicon including its N1 wireless chip with Wi-Fi 7 and Bluetooth 6.",
+        "source_link": "https://www.theverge.com/tech/1017664/apple-macbook-pro-m6-processor-upgrade"
       },
       {
         "rank": 3,
-        "image": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "GTA 6's Release Has Led to a Notable Spike in Time Off Requests, According to New Data - IGN",
-        "description": "GTA 6's release has led to as much as a 17% increase in time-off requests, according to a new report.",
-        "source_link": "https://www.ign.com/articles/gta-6-causes-17-spike-in-time-off-requests-on-games-release-date"
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/2026-iPad-mini.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Apple knows the iPad mini market, but internet unimpressed by 60Hz - 9to5Mac",
+        "description": "Apple yesterday officially launched what it describes as \u201cthe biggest update ever\u201d to the iPad mini, featuring an OLED screen...",
+        "source_link": "https://9to5mac.com/2026/10/27/apple-knows-the-ipad-mini-market-but-internet-unimpressed-by-60hz/"
       },
       {
         "rank": 4,
-        "image": "https://kotaku.com/app/uploads/2026/06/gta-6-1.jpg",
-        "title": "AI Has Triggered A PS5 Homebrew Gold Rush, But It\u2019s Also The Reason GTA 6 Can\u2019t Be Pirated At Release - Kotaku",
-        "description": "One hacker is being accused of ruining everyone's chances of pirating GTA 6 after reporting a massive hypervisor exploit to Sony",
-        "source_link": "https://kotaku.com/ai-has-triggered-a-ps5-homebrew-gold-rush-but-its-also-the-reason-gta-6-cant-be-pirated-at-release-2000749776"
+        "image": "https://247wallst.com/wp-content/uploads/2026/10/apple-could-lose-its-5-trillion-valuation-as-iphon-featured-1793074643297.webp",
+        "title": "Apple Could Lose Its $5 Trillion Valuation as iPhone Duo Screens Crack - Yahoo Finance",
+        "description": "Apple's first foldable iPhone started cracking within days of launch, and the timing could not be worse for a company balancing a $5 trillion valuation on a razor-thin cushion.",
+        "source_link": "https://247wallst.com/investing/2026/10/27/apple-could-lose-its-5-trillion-valuation-as-iphone-duo-screens-crack/"
       },
       {
         "rank": 5,
-        "image": "https://images.pushsquare.com/ae7c6174d6a03/1280x720.jpg",
-        "title": "Rare Insight into PS5 Sales Pattern Reveals Significant Wolverine Bump - Push Square",
-        "description": "Good job, bub",
-        "source_link": "https://www.pushsquare.com/news/2026/10/rare-insight-into-ps5-sales-pattern-reveals-significant-wolverine-bump"
+        "image": "https://assetsio.gnwcdn.com/pokemon-unite-tier-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Pok\u00e9mon Unite closing down for good, but you'll still be able to use it afterwards, sort of - Eurogamer.net",
+        "description": "Switch and mobile Pok\u00e9mon MOBA Unite is being closed down, but there are some intriguing features coming to the game in the meantime.",
+        "source_link": "https://www.eurogamer.net/pokemon-unite-closing-date"
       },
       {
         "rank": 6,
-        "image": "https://assetsio.gnwcdn.com/Untitled-2_81p0NEm.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Mass Effect fans ramp up efforts to save BioWare's RPG series with a Times Square billboard and plans for more ads outside The Game Awards \"funded by the community\" - Eurogamer.net",
-        "description": "Fans are organising to support the \"Save Mass Effect\" movement with a billboard in Times Square, and more high-visibility ads planned for the rest of the year.",
-        "source_link": "https://www.eurogamer.net/mass-effect-fans-save-rpg-times-square"
+        "image": "https://images.macrumors.com/t/x3nzYuR7glvnEYI7Gw3v9dee4ZQ=/2000x/article-new/2026/03/iphone-17e-notch.jpg",
+        "title": "iPhone 18e Could Get Two Key Upgrades While Keeping 60Hz Display - MacRumors",
+        "description": "Apple's upcoming iPhone 18e model will retain a 60Hz display but could gain an upgraded front-facing camera, according to the leaker known as...",
+        "source_link": "https://www.macrumors.com/2026/10/27/iphone-18e-could-get-two-key-upgrades/"
       },
       {
         "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/Tim_Sweeney_P7vsPEF.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Epic Games CEO calls Steam's AI disclosure policies \"a political act\" - GamesIndustry.biz",
-        "description": "CEO of Epic Games, Tim Sweeney, has once again slammed Steam's AI disclosure policy, calling the company's position on \u2026",
-        "source_link": "https://www.gamesindustry.biz/epic-games-ceo-calls-steams-ai-disclosure-policies-a-political-act"
+        "image": "https://media.wired.com/photos/6adbdf82eed013bcc79da54f/191:100/w_1280,c_limit/gear-ai-agent-best.jpg",
+        "title": "I Tested Every Major AI Agent for a Day. Here\u2019s the Best One - WIRED",
+        "description": "I ranked six AI agents\u2014from Meta\u2019s Muse to Anthropic\u2019s Claude Duet\u2014on how well they completed basic tasks.",
+        "source_link": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/"
       },
       {
         "rank": 8,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Siri AI keeps getting better, here\u2019s what\u2019s new in iOS 27.2 - 9to5Mac",
-        "description": "Apple is rolling out its 27.2 software updates today, and they introduce several improvements for Siri AI. Here\u2019s what\u2019s new.",
-        "source_link": "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/"
+        "image": "https://assetsio.gnwcdn.com/black-flag-review.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "Assassin's Creed Black Flag Resynced's final major update adds long-awaited New Game Plus, new Nightmare difficulty and much more - Eurogamer.net",
+        "description": "Ubisoft is saying goodbye to Assassin's Creed Black Flag Resynced with a sizeable update arriving today.",
+        "source_link": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-new-game-plus-final-update"
       },
       {
         "rank": 9,
-        "image": "https://mp1st.com/wp-content/uploads/2026/10/SHR-600x338.png",
-        "title": "Report: Silent Hill 1 Remake Targeting 2027 Release, First Cast Details Revealed - MP1st",
-        "description": "Bloober Team\u2019s Silent Hill 1 remake is targeting a 2027 release under the codename 'Project Noise.' Check out the first cast details here.",
-        "source_link": "https://mp1st.com/news/report-silent-hill-1-remake-targeting-2027-release-first-cast-details-revealed"
+        "image": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675",
+        "title": "X is nudging users to promote their posts with a pointing hand, and people are confused - TechCrunch",
+        "description": "Whose hand is behind this travesty?",
+        "source_link": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/"
+      },
+      {
+        "rank": 10,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/5d7af6b1-79a9-410a-a5d1-57e60127b4f9.jpg",
+        "title": "Phantom Blade Zero PC Performance Benchmarks \u2013 Fast-Paced Wuxia That Looks Phenomenal In Path Tracing & Boosted By NVIDIA RTX Tech - Wccftech",
+        "description": "Phantom Blade Zero is out now on PC, offering increased graphics fidelity through NVIDIA's DLSS 4.5 technology, Path Tracing, and much more.",
+        "source_link": "https://wccftech.com/phantom-blade-zero-pc-performance-benchmarks/"
       }
     ],
     "trending_movies": [
@@ -76,7 +83,7 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/5O616X9vmRzQdB68PHzBewPittd.jpg",
         "title": "The Dog Stars",
         "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gu...",
         "source_link": "https://www.themoviedb.org/movie/1384216"
@@ -90,52 +97,52 @@
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-        "title": "Sense and Sensibility",
-        "description": "A charming, witty, and deeply relatable story of love and sisterhood....",
-        "source_link": "https://www.themoviedb.org/movie/1503762"
+        "image": "https://image.tmdb.org/t/p/w200/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg",
+        "title": "Drive - The Pretenders",
+        "description": "A young race car mechanic fakes an engagement with racing's most scandalous star - officially for his reputation, secretly for her own shot behind the...",
+        "source_link": "https://www.themoviedb.org/movie/1596275"
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/wuUe5BjmS0nJnw1n6pBbTtYFXCZ.jpg",
         "title": "Dune: Part Three",
         "description": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as ol...",
         "source_link": "https://www.themoviedb.org/movie/1170608"
       },
       {
         "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+        "title": "Sense and Sensibility",
+        "description": "A charming, witty, and deeply relatable story of love and sisterhood....",
+        "source_link": "https://www.themoviedb.org/movie/1503762"
+      },
+      {
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
         "title": "Clayface",
         "description": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribl...",
         "source_link": "https://www.themoviedb.org/movie/1400940"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
-        "title": "Runner",
-        "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthle...",
-        "source_link": "https://www.themoviedb.org/movie/1377237"
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+        "title": "Ali G: Who Iz I?",
+        "description": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced...",
+        "source_link": "https://www.themoviedb.org/movie/1727734"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
         "title": "Wildwood",
         "description": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark...",
         "source_link": "https://www.themoviedb.org/movie/791523"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg",
-        "title": "The Stunt Driver",
-        "description": "Based on a true story, a Canadian stunt driver recruits a top sports manager and rocket car designers to attempt a record-breaking jump across the Sai...",
-        "source_link": "https://www.themoviedb.org/movie/1562777"
-      },
-      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/jT5SR5qc9KvVg7HUEmjMWEUYMce.jpg",
-        "title": "LA BOLA NEGRA",
-        "description": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy....",
-        "source_link": "https://www.themoviedb.org/movie/1422041"
+        "image": "https://image.tmdb.org/t/p/w200/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
+        "title": "Runner",
+        "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthle...",
+        "source_link": "https://www.themoviedb.org/movie/1377237"
       }
     ]
   }
