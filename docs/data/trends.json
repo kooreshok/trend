@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 27, 2026, 21:45 UTC",
+  "last_updated": "October 28, 2026, 00:55 UTC",
   "categories": {
     "tech_news": [
       {
@@ -76,17 +76,17 @@
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
-        "title": "The Dog Stars",
-        "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gu...",
-        "source_link": "https://www.themoviedb.org/movie/1384216"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
         "title": "Verity",
         "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what ma...",
         "source_link": "https://www.themoviedb.org/movie/1283515"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/A7i16oDi03qrKep5pBfuTWNUTb.jpg",
+        "title": "The Dog Stars",
+        "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gu...",
+        "source_link": "https://www.themoviedb.org/movie/1384216"
       },
       {
         "rank": 3,
@@ -111,38 +111,38 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
-        "title": "Sense and Sensibility",
-        "description": "A charming, witty, and deeply relatable story of love and sisterhood....",
-        "source_link": "https://www.themoviedb.org/movie/1503762"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
         "title": "Wildwood",
         "description": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark...",
         "source_link": "https://www.themoviedb.org/movie/791523"
       },
       {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg",
+        "title": "Sense and Sensibility",
+        "description": "A charming, witty, and deeply relatable story of love and sisterhood....",
+        "source_link": "https://www.themoviedb.org/movie/1503762"
+      },
+      {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
+        "title": "Runner",
+        "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthle...",
+        "source_link": "https://www.themoviedb.org/movie/1377237"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
         "title": "Avengers: Doomsday",
         "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
         "source_link": "https://www.themoviedb.org/movie/1003596"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
         "title": "Obsession",
         "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon...",
         "source_link": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-        "title": "Hope",
-        "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking ...",
-        "source_link": "https://www.themoviedb.org/movie/1058424"
       }
     ]
   }
