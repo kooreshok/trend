@@ -1,76 +1,76 @@
 {
-  "last_updated": "October 28, 2026, 19:17 UTC",
+  "last_updated": "October 28, 2026, 23:50 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo_208.jpg?quality=90&strip=all&crop=0%2C3.5651957117926%2C100%2C92.869608576415&w=1200",
+        "title": "Here\u2019s why the iPhone Duo\u2019s hinge could be cracking the screen - The Verge",
+        "description": "\u201cCrackgate\u201d reports of broken iPhone Duo screens may be due to an issue where a part of the hinge pushes up against the inside screen.",
+        "source_link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-1152x648.jpg",
+        "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip - Ars Technica",
+        "description": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+        "source_link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/"
+      },
+      {
+        "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2026/10/IMG_1254-1200x675.jpg",
+        "title": "It Took Mass Effect Fans Less Than 15 Minutes To Crowdfund Billboards Outside EA's Offices And The Game Awards - Kotaku",
+        "description": "The #SaveMassEffect campaign is rallying to be heard in places EA can\u2019t avoid",
+        "source_link": "https://kotaku.com/savemasseffect-mass-effect-billboard-ea-hq-game-awards-2000750281"
+      },
+      {
+        "rank": 4,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/iphone-18-mockup-red.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Apple\u2019s low-cost iPhone 18 details revealed by leaker - 9to5Mac",
+        "description": "Apple reportedly plans to introduce a low-cost iPhone 18e next spring alongside iPhone 18 and iPhone Air 2, here\u2019s what to expect.",
+        "source_link": "https://9to5mac.com/2026/10/27/apples-low-cost-iphone-18-details-revealed-by-leaker/"
+      },
+      {
+        "rank": 5,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/malware.jpg",
+        "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth - Ars Technica",
+        "description": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
+        "source_link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
+      },
+      {
+        "rank": 6,
+        "image": "https://simscommunity.info/wp-content/uploads/2026/10/TS4freeeldersFI-306f6e.jpg",
+        "title": "Free Elder Stuff in The Sims 4 October 2026 Patch - Sims Community",
+        "description": "The Sims 4 October 2026 Patch adds free hairstyles, clothing, Build/Buy items, Styled Looks, and four new Elder Sims to the Gallery.",
+        "source_link": "https://simscommunity.info/2026/10/27/sims-4-october-2026-patch/"
+      },
+      {
+        "rank": 7,
+        "image": "https://assets-prd.ignimgs.com/2026/02/25/gettyimages-2260552299-1772013326846.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Some Discord Messages Will Be Searchable on Google in December, Here's How to Opt Out - IGN",
+        "description": "Over the last decade, Discord has become the de facto community space for gaming, and there are a lot of huge servers out there that you can find by scrolling through its public servers page. But starting on November 16, some messages in these huge servers wi\u2026",
+        "source_link": "https://www.ign.com/articles/discord-messages-in-discoverable-servers-will-soon-be-searchable-on-google"
+      },
+      {
+        "rank": 8,
+        "image": "https://cdn.mos.cms.futurecdn.net/mvt46cnvEXvZk6ygQKzn44-1496-80.jpg",
+        "title": "Blizzard said it wouldn't sell real-money World of Warcraft housing items tied to player races. It lied. - Windows Central",
+        "description": "World of Warcraft's latest premium-paid housing cosmetics are stirring controversy as they are race-tied decor items, which Blizzard said it wouldn't do.",
+        "source_link": "https://www.windowscentral.com/gaming/blizzard/blizzard-said-it-wouldnt-sell-real-money-world-of-warcraft-housing-items-tied-to-player-races-it-lied"
+      },
+      {
+        "rank": 9,
         "image": "https://kotaku.com/app/uploads/2026/10/Dieonthishill-1200x675.jpg",
         "title": "Did The You Don\u2019t Know Jack Devs Plagiarize A Solo Dev\u2019s Board Game? - Kotaku",
         "description": "Sam Greszes says that Jackbox Games went silent after requesting a demo of his board game Die on this Hill. A year later, it launches Debate and Switch.",
         "source_link": "https://kotaku.com/did-the-you-dont-know-jack-devs-plagiarize-a-solo-devs-board-game-2000750185"
       },
       {
-        "rank": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/carplay-ios-27-home-screen-car.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "iOS 27.2 has two CarPlay improvements, here\u2019s what\u2019s new - 9to5Mac",
-        "description": "iOS 27.2 arrived this week with a variety of new features, including two improvements for CarPlay. Here\u2019s what\u2019s new.",
-        "source_link": "https://9to5mac.com/2026/10/27/ios-27-2-has-two-carplay-improvements-heres-whats-new/"
-      },
-      {
-        "rank": 3,
-        "image": "https://images.pushsquare.com/51a527501c32b/1280x720.jpg",
-        "title": "New Cyberpunk 2077 PS5 Patch Is Great News If You're Argentinian, CDPR Clarifies Update - Push Square",
-        "description": "Mystery solved",
-        "source_link": "https://www.pushsquare.com/news/2026/10/new-cyberpunk-2077-ps5-patch-is-great-news-if-youre-argentinian-cdpr-clarifies-update"
-      },
-      {
-        "rank": 4,
-        "image": "https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/slayerswordwinner-oct27-2-share-zwoyclhs2v.jpg",
-        "title": "Maxime Penaud talks about winning the Slayer Sword - Warhammer Community",
-        "description": "A closer look at the stunning miniature and a chat with the winning painter.",
-        "source_link": "https://www.warhammer-community.com/articles/i0wowquj/maxime-penaud-talks-about-winning-the-slayer-sword"
-      },
-      {
-        "rank": 5,
-        "image": "https://assets-prd.ignimgs.com/2026/09/19/forever-1789805930640.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "World of Warcraft Forever Opts For a Slower Update Schedule Than Retail's 8-Week Patch Cycle - IGN",
-        "description": "World of Warcraft Forever launches a week from today, and while the game will have a huge swath of content available on day one, there will be new content continually added to the game. But how frequently should fans expect new content to arrive? It sounds li\u2026",
-        "source_link": "https://www.ign.com/articles/blizzard-reveals-plan-for-world-of-warcraft-forever-update-frequency"
-      },
-      {
-        "rank": 6,
-        "image": "https://assets.warhammer-community.com/aos_chaoschampsretro-oct27-1-feature-a0rkl1ukq9.jpg",
-        "title": "Warhammer Day \u2013 Chaos Champions through the ages - Warhammer Community",
-        "description": "Take a look back at the heroes of the Dark Gods over the years.",
-        "source_link": "https://www.warhammer-community.com/articles/rfpmoxiw/warhammer-day-chaos-champions-through-the-ages"
-      },
-      {
-        "rank": 7,
-        "image": "https://helios-i.mashable.com/imagery/articles/06XGVBgJMUVEeCHPIGP20by/hero-image.fill.size_1200x675.v1793049091.jpg",
-        "title": "Firefox brings back internet icons for new anti-tracking, anti-AI campaign - Mashable",
-        "description": "Numa Numa Guy, Overly Attached Girlfriend, Annoying Orange \u2014 they're all here.",
-        "source_link": "https://mashable.com/tech/come-back-to-firefox-campaign-internet-personalities-memes"
-      },
-      {
-        "rank": 8,
-        "image": "https://assets-prd.ignimgs.com/2026/10/26/appleiphoneduo2-1793039214046.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "T-Mobile Is Offering a $1,000 Off Discount on the Apple iPhone Duo Foldable Smartphone - IGN",
-        "description": "Apple's biggest iPhone update in years.",
-        "source_link": "https://www.ign.com/articles/t-mobiles-apple-iphone-duo-deal-explained"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&strip=all&crop=0%2C3.0468973306098%2C100%2C93.90620533878&w=1200",
-        "title": "Google\u2019s next Genie AI model generates more realistic experiences - The Verge",
-        "description": "The Genie 4 world model offers more realism and can create audio to accompany its interactive worlds.",
-        "source_link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model"
-      },
-      {
         "rank": 10,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/google-pixel-tag-2.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Android Find Hub app reveals how 'Left Behind' and 'Ring your phone' alerts work on Pixel Tag - 9to5Google",
-        "description": "We\u2019re just weeks away from the launch of Google\u2019s first Android Find Hub tracker, the Pixel Tag, and that\u2019s also...",
-        "source_link": "http://9to5google.com/2026/10/27/android-find-hub-left-behind-ring-your-phone-alert-details/"
+        "image": "https://scg-static.starcitygames.com/articles/2026/09/ad30f3cd-copy-of-copy-of-article-summary-card-2022241.png",
+        "title": "Hasbro Appoints Dungeons & Dragons VP As Next President Of Wizards Of The Coast - Star City Games",
+        "description": "New Wizards of the Coast President is the first internal employee to be promoted to the role",
+        "source_link": "https://articles.starcitygames.com/news/hasbro-appoints-dungeons-dragons-vp-as-next-president-of-wizards-of-the-coast/"
       }
     ],
     "trending_movies": [
@@ -90,38 +90,38 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/5O616X9vmRzQdB68PHzBewPittd.jpg",
-        "title": "The Dog Stars",
-        "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gu...",
-        "source_link": "https://www.themoviedb.org/movie/1384216"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
         "title": "Forgotten Island",
         "description": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports the...",
         "source_link": "https://www.themoviedb.org/movie/1465063"
       },
       {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
-        "title": "Runner",
-        "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthle...",
-        "source_link": "https://www.themoviedb.org/movie/1377237"
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/5O616X9vmRzQdB68PHzBewPittd.jpg",
+        "title": "The Dog Stars",
+        "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gu...",
+        "source_link": "https://www.themoviedb.org/movie/1384216"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
         "title": "Ali G: Who Iz I?",
         "description": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced...",
         "source_link": "https://www.themoviedb.org/movie/1727734"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
         "title": "Clayface",
         "description": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribl...",
         "source_link": "https://www.themoviedb.org/movie/1400940"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+        "title": "Wildwood",
+        "description": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark...",
+        "source_link": "https://www.themoviedb.org/movie/791523"
       },
       {
         "rank": 8,
@@ -132,10 +132,10 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/sLYCyO58UvBuBtbHTQjPCCgJ4dG.jpg",
-        "title": "Avengers: Doomsday",
-        "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
-        "source_link": "https://www.themoviedb.org/movie/1003596"
+        "image": "https://image.tmdb.org/t/p/w200/vJk2TW1QZAmBiD7oj9ZF9EPTYY1.jpg",
+        "title": "Runner",
+        "description": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthle...",
+        "source_link": "https://www.themoviedb.org/movie/1377237"
       },
       {
         "rank": 10,
