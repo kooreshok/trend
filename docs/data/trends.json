@@ -1,69 +1,76 @@
 {
-  "last_updated": "November 02, 2026, 17:44 UTC",
+  "last_updated": "November 03, 2026, 00:25 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEnE77inLpeM/v0/1200x800.jpg",
-        "title": "Apple Missed a Chance to Be Revolutionary With Touch-Screen Mac - Bloomberg.com",
-        "description": "Also: The latest on the cracked iPhone Duo screens.",
-        "source_link": "https://www.bloomberg.com/news/newsletters/2026-11-01/apple-touch-screen-macbook-pro-impressions-software-division-gaming-shake-up"
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Wear-OS-7-cover.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Wear OS adding \u2018system status bar\u2019 to apps, Wear OS 7.1 coming - 9to5Google",
+        "description": "Earlier this week, Google revealed that a \u201clater platform release of Wear OS\u201d is adding a \u201csystem status bar.\u201d",
+        "source_link": "http://9to5google.com/2026/11/01/wear-os-status-bar/"
       },
       {
         "rank": 2,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Googlebook-family-cover.webp?resize=1200,628",
+        "title": "Google says Googlebook \u2018detachables\u2019 are coming soon - 9to5Google",
+        "description": "At the Android Dev Summit 2026 earlier this week, Google said that Googlebook detachables will be the next form factor.",
+        "source_link": "http://9to5google.com/2026/11/01/googlebook-detachables/"
+      },
+      {
+        "rank": 3,
+        "image": "https://kotaku.com/app/uploads/2026/11/ss_8b6b1072bd6d96bd37949e4bfb8c3a229f3ef337.1920x1080-1200x675.jpg",
+        "title": "Tony Hawk Kicked Out Of Park While Trying To Recreate Pro Skater 3 - Kotaku",
+        "description": "The legendary Birdman wanted to celebrate 25 years of the iconic third entry in his video game series, only to be escorted out by security",
+        "source_link": "https://kotaku.com/tony-hawk-kicked-out-of-park-while-trying-to-recreate-pro-skater-3-2000752094"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.bgr.com/img/gallery/solar-farms-in-the-sahara-might-have-an-unexpected-effect-on-the-global-climate/l-intro-1793203101.jpg",
+        "title": "Solar Farms In The Sahara Might Have An Unexpected Effect On The Global Climate - BGR",
+        "description": "The Sahara Desert might seem like the perfect place to build a massive solar farm, but research suggests that doing so might have broad consequences.",
+        "source_link": "https://www.bgr.com/2299931/solar-farms-sahara-unexpected-effect-global-climate/"
+      },
+      {
+        "rank": 5,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/32-GB-Ryzen-9850X3D-bundle.jpg",
+        "title": "G.Skill 32 GB DDR5 Now Costs $156 When Purchased With Ryzen 9850X3D And B850 Motherboard Bundle - Wccftech",
+        "description": "Get the AMD Ryzen 7 9850X3D, 32 GB DDR5 RAM, and B850 motherboard bundle for $829 at Micro Center, saving $324 off the regular price.",
+        "source_link": "https://wccftech.com/g-skill-32-gb-ddr5-now-costs-156-when-purchased-with-ryzen-9850x3d-and-b850-motherboard-bundle/"
+      },
+      {
+        "rank": 6,
+        "image": "https://www.jalopnik.com/img/gallery/10-of-the-most-influential-concept-cars-ever-made/l-intro-1793041945.jpg",
+        "title": "10 Of The Most Influential Concept Cars Ever Made - Jalopnik",
+        "description": "The most influential concept cars ever made include the Buick Y-Job, the Mercedes-Benz C111, the Ford Probe III, and the GM AUTOnomy Concept.",
+        "source_link": "https://www.jalopnik.com/2298551/most-influential-concept-cars-ever-made/"
+      },
+      {
+        "rank": 7,
+        "image": "https://cdn.mos.cms.futurecdn.net/rTwRzX6SZ2japbE6WEr7NW-1920-80.jpg",
+        "title": "Why blaming Xbox players for 'Gears of War: E-Day' sales is completely ridiculous - Windows Central",
+        "description": "Xbox gamers are not to blame for 'only' a reported 400,000 sales, and you are not any less of a customer or fan for using Xbox Game Pass to your advantage.",
+        "source_link": "https://www.windowscentral.com/gaming/xbox/gears-of-war-eday-sales-not-game-pass-fault"
+      },
+      {
+        "rank": 8,
+        "image": "https://futurism.com/wp-content/uploads/2026/10/microsoft-patents-ai-words-in-peoples-mouths.jpg?w=1200",
+        "title": "Microsoft Patents an AI That Can Literally Put Words in People\u2019s Mouths in Real Time - Futurism",
+        "description": "Microsoft just filed a patent for an AI product that would be able to transform live video in real time to alter speakers' words and faces.",
+        "source_link": "https://futurism.com/artificial-intelligence/microsoft-patents-ai-words-in-peoples-mouths"
+      },
+      {
+        "rank": 9,
+        "image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-01-at-16.28.57.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+        "title": "A Persona 1 remake called Be Your True Mind has seemingly leaked, and it looks a lot like Persona 5 - Eurogamer.net",
+        "description": "A short clip of what appears to be a Persona 1 remake, subtitled Be Your True Mind, has leaked online, showing Persona 5-style menus and combat.",
+        "source_link": "https://www.eurogamer.net/persona-1-remake-be-your-true-mind-leak"
+      },
+      {
+        "rank": 10,
         "image": "https://kotaku.com/app/uploads/2026/11/halloweenmariospeedrun.jpg",
         "title": "Mario-Dressed Speedrunner Breaks World Record - Kotaku",
         "description": "The record-smashing Niftski seems to credit the dress-up routine with taking an edge off, bringing him two frames away from a perfect run",
         "source_link": "https://kotaku.com/mario-dressed-speedrunner-breaks-world-super-mario-bros-record-on-halloween-stream-can-i-please-break-character-2000752087"
-      },
-      {
-        "rank": 3,
-        "image": "https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whday_licensed-oct29-2-share-lw5oyqre6k.jpg",
-        "title": "Big Warhammer Day news for Officially Licensed video games and merch - Warhammer Community",
-        "description": "Reveals, special offers, and more.",
-        "source_link": "https://www.warhammer-community.com/articles/nla2w7td/big-warhammer-day-news-for-officially-licensed-video-games-and-merch"
-      },
-      {
-        "rank": 4,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB376_VALVE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "A fully playable version of Portal prequel F-Stop leaked - The Verge",
-        "description": "Nearly 20 years after its cancellation, Valve\u2019s camera-based Portal prequel, F-Stop, is no longer lost media.",
-        "source_link": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak"
-      },
-      {
-        "rank": 5,
-        "image": "https://images.macrumors.com/t/hDGkYUBX7leA4HwBu6c7d-XhWog=/2071x/article-new/2026/10/homeview_home_screen_feature-1.jpg",
-        "title": "Apple's HomeView Ships With Six-Month-Old Software - MacRumors",
-        "description": "It is well known that Apple's new HomeView smart home hub was significantly delayed, and there is now yet another piece of evidence: the device...",
-        "source_link": "https://www.macrumors.com/2026/11/01/apple-homeview-six-month-old-software/"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.macrumors.com/t/p9s-nnk2GVhsXedfykv8gW3Dpic=/2500x/article-new/2025/08/iPad-Pro-2024-vs-Air-2024-Feature.jpg",
-        "title": "Three New iPads Rumored to Launch in First Half of 2027 - MacRumors",
-        "description": "After announcing a new iPad mini with an OLED display earlier this month, Apple plans to release new iPad Air, iPad Pro, and entry-level iPad models...",
-        "source_link": "https://www.macrumors.com/2026/11/01/three-new-ipads-in-first-half-of-2027/"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.sheknows.com/wp-content/uploads/2026/10/dermatologists-say-yellow-stains-on-your-pillow-are-a-warning-sign-and-heres-what-they-mean.jpeg?w=1024",
-        "title": "Dermatologists Say Yellow Stains on Your Pillow Are a Warning Sign, and Here\u2019s What They Mean - SheKnows",
-        "description": "A dermatologist explains why pillows turn yellow, how to reduce sweat and skincare buildup, and when it\u2019s time to replace your pillow.",
-        "source_link": "http://www.sheknows.com/health-and-wellness/articles/1235090265/yellow-stains-on-pillow-how-to-fix-gq9021/"
-      },
-      {
-        "rank": 8,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/10/Pixel-11-fold-feat.jpg?resize=1200,675",
-        "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world - TechCrunch",
-        "description": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
-        "source_link": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.seattletimes.com/wp-content/uploads/2026/10/samsung.jpg?d=780x439",
-        "title": "Samsung joins cuff-shaped earbuds trend with $229 Galaxy Buds On - The Seattle Times",
-        "description": "Samsung said it developed the Galaxy Buds On through an AI-driven computational design process informed by over 119 million ear-data points.",
-        "source_link": "https://www.bloomberg.com/news/articles/2026-10-28/samsung-unveils-galaxy-buds-on-clip-on-earbuds-for-229"
       }
     ],
     "trending_movies": [
@@ -83,45 +90,45 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
-        "title": "Collision Course",
-        "description": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist...",
-        "source_link": "https://www.themoviedb.org/movie/1571955"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
-        "title": "Apocalypse Z: New World",
-        "description": "The Canary Islands have become Europe\u2019s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in searc...",
-        "source_link": "https://www.themoviedb.org/movie/1507696"
-      },
-      {
-        "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
-        "title": "Clayface",
-        "description": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribl...",
-        "source_link": "https://www.themoviedb.org/movie/1400940"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
-        "title": "Verity",
-        "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what ma...",
-        "source_link": "https://www.themoviedb.org/movie/1283515"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
         "title": "Godzilla Minus Zero",
         "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achi...",
         "source_link": "https://www.themoviedb.org/movie/1381071"
       },
       {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
+        "title": "Collision Course",
+        "description": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist...",
+        "source_link": "https://www.themoviedb.org/movie/1571955"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
+        "title": "Verity",
+        "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what ma...",
+        "source_link": "https://www.themoviedb.org/movie/1283515"
+      },
+      {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+        "title": "Apocalypse Z: New World",
+        "description": "The Canary Islands have become Europe\u2019s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in searc...",
+        "source_link": "https://www.themoviedb.org/movie/1507696"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
+        "title": "The Isolate Thief",
+        "description": "One bitter-cold winter during the Civil War, a young woman becomes the lone caretaker of a remote Union Army outpost. When a stash of stolen gold fall...",
+        "source_link": "https://www.themoviedb.org/movie/1404304"
+      },
+      {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/8g7q6o54WfKWRmUQ0Ye8OskevUY.jpg",
-        "title": "Wildwood",
-        "description": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into the Impassable Wilde...",
-        "source_link": "https://www.themoviedb.org/movie/791523"
+        "image": "https://image.tmdb.org/t/p/w200/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
+        "title": "Wild Horse Nine",
+        "description": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Is...",
+        "source_link": "https://www.themoviedb.org/movie/891621"
       },
       {
         "rank": 9,
@@ -132,10 +139,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/jzPwsojjFStf5lR5Nm07w2hH56G.jpg",
-        "title": "Avengers: Doomsday",
-        "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
-        "source_link": "https://www.themoviedb.org/movie/1003596"
+        "image": "https://image.tmdb.org/t/p/w200/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
+        "title": "My Best Friend",
+        "description": "Facing menopause and empty-nest anxiety, friends Julia and Clara decide to travel together to visit their daughters who are on an exchange program abr...",
+        "source_link": "https://www.themoviedb.org/movie/1257147"
       }
     ]
   }
