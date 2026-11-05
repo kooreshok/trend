@@ -1,76 +1,76 @@
 {
-  "last_updated": "November 05, 2026, 03:03 UTC",
+  "last_updated": "November 05, 2026, 11:48 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2024/02/YouTube-TV-logo-on-smartphone-stock-photo-5.jpg",
+        "title": "Exclusive: YouTube is cooking up something new called 'Tamba,' and it looks pretty social - Android Authority",
+        "description": "YouTube's latest Android app reveals a mysterious 'Tamba' project with followers, DMs, group chats, and other social features.",
+        "source_link": "https://www.androidauthority.com/youtube-tamba-sandbox-social-app-apk-teardown-3731409/"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.nintendolife.com/18e28c0a27fab/1280x720.jpg",
+        "title": "Sonic Racing: CrossWorlds - Year Two 2.0.0 Patch Now Live - New Additions, Changes & Improvements - Nintendo Life",
+        "description": "Including paid and free updates",
+        "source_link": "https://www.nintendolife.com/news/2026/11/sonic-racing-crossworlds-year-two-2-0-0-patch-now-live-new-additions-changes-and-improvements"
+      },
+      {
+        "rank": 3,
         "image": "https://images.pushsquare.com/58b02a8eb91ab/1280x720.jpg",
         "title": "PS Store Black Friday Sale Live Now with 2,200+ PS5 Discounts - Push Square",
         "description": "Here are some of the best PS5 deals",
         "source_link": "https://www.pushsquare.com/news/2026/11/ps-store-black-friday-sale-live-now-with-2200plus-ps5-discounts"
       },
       {
-        "rank": 2,
-        "image": "https://assets-prd.ignimgs.com/2026/11/03/lenovolegiontower5lc-1793744183960.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Save Over $1,000 Off the Lenovo Legion RTX 5070 Ti Gaming PC With 32GB of DDR5 RAM for Black Friday - IGN",
-        "description": "This first good deal I've seen on a Lenovo Legion gaming PC since the summer.",
-        "source_link": "https://www.ign.com/articles/lenovo-legion-rtx-5070-ti-gaming-pc-deal-november-2026"
-      },
-      {
-        "rank": 3,
-        "image": "https://image.theregister.com/1684318.jpg?imageId=1684318&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "title": "Microsoft improves Windows 11 performance on 8 GB PCs as RAM prices keep climbing - The Register",
-        "description": "We've got a hunch the memory crunch is taking a bite out of Windows revenue",
-        "source_link": "https://www.theregister.com/software/2026/11/03/microsoft-improves-windows-11-performance-on-8-gb-pcs-as-ram-prices-keep-climbing/5307382"
-      },
-      {
         "rank": 4,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/google-messages-thread-1.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Google Messages redesigning pinned chats and moving search - 9to5Google",
-        "description": "In addition to the new app icon, Google Messages is testing a redesign of pinned chats and search on the homepage.",
-        "source_link": "http://9to5google.com/2026/11/03/google-messages-pinned-chats-redesign/"
+        "image": "https://kotaku.com/app/uploads/2025/08/valve.jpg",
+        "title": "Devs Are Being Forced To Delay Their Games On Steam Thanks To AI Slop - Kotaku",
+        "description": "'Oh no, we are not releasing on the same day as Zelda'",
+        "source_link": "https://kotaku.com/devs-are-being-forced-to-delay-their-games-on-steam-and-they-think-its-because-of-the-ai-slop-flood-2000752839"
       },
       {
         "rank": 5,
+        "image": "https://cdn.mos.cms.futurecdn.net/wV35W2FsGUfG7Aebk8a6oa-2560-80.png",
+        "title": "Xbox shrunk its controller down to pocket size, but somehow kept all the buttons - Windows Central",
+        "description": "The Xbox Nano Controller drops on November 4, 2026 for the United States, UK, and other select markets. Here's some early impressions ahead of the full review.",
+        "source_link": "https://www.windowscentral.com/accessories/the-xbox-nano-controller-is-here-and-its-incredibly-cute-and-hides-a-surprise"
+      },
+      {
+        "rank": 6,
+        "image": "https://kotaku.com/app/uploads/2026/11/owstellarblade.jpg",
+        "title": "Overwatch\u2019s Midseason Patch Adds Teaser For Its Sexy New Omnic Detective Hero - Kotaku",
+        "description": "The Midtown map has a new clue for fans to investigate",
+        "source_link": "https://kotaku.com/overwatch-season-5-midseason-patch-omnic-detective-new-hero-55-rigby-2000752862"
+      },
+      {
+        "rank": 7,
+        "image": "https://assets-prd.ignimgs.com/2026/11/03/untitled-design-1793738170553.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Have the PS5 and Xbox Console Shortages Been Exaggerated Ahead of the GTA 6 Launch? - IGN",
+        "description": "Sony and Microsoft are warning about console shortages ahead of GTA 6 and Black Friday. Which consoles are available (or not) right now?",
+        "source_link": "https://www.ign.com/articles/what-ps5-and-xbox-consoles-are-in-stock-ahead-of-gta-6-and-black-friday"
+      },
+      {
+        "rank": 8,
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irqwXn8sNcqI/v1/1200x800.jpg",
         "title": "Xbox\u2019s Arkane Studios Attracts Multiple Bidders, Including Ubisoft - Bloomberg.com",
         "description": "Microsoft\u2019s gaming unit is looking to divest the French company behind \u2018Dishonored\u2019 and \u2018Marvel\u2019s Blade\u2019",
         "source_link": "https://www.bloomberg.com/news/articles/2026-11-03/xbox-s-arkane-studios-attracts-multiple-bidders-including-ubisoft"
       },
       {
-        "rank": 6,
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D6RH4YXCY2Y5AUD3DC467SR6OE_size-normalized.jpg&w=1440",
-        "title": "Google researchers are fighting the company to tell the world what they know about AI - The Washington Post",
-        "description": "Employees said that employment contracts at Google's AI division deter workers from speaking out about the dangers of the technology.",
-        "source_link": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/"
+        "rank": 9,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257946_iPhone_17_AKrales_0063.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "iPhone 18 rumors suggest a bigger battery, higher price next year - The Verge",
+        "description": "A leaker says Apple\u2019s base iPhone 18 will get a price hike alongside battery and chip upgrades when it launches early next year.",
+        "source_link": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery"
       },
       {
-        "rank": 7,
+        "rank": 10,
         "image": "https://images.macrumors.com/t/UkiRbaS2GEd5EyTccUEykNbJA78=/2500x/article-new/2026/11/macs-black-friday.jpeg",
         "title": "Best Early Black Friday Mac Deals: Save Hundreds on MacBook Air, Mac Mini, and More - MacRumors",
         "description": "We're getting closer to Black Friday, which lands on Friday, November 27 this year. In the lead-up to the shopping holiday, we're tracking a...",
         "source_link": "https://www.macrumors.com/2026/11/03/best-early-black-friday-mac-2026/"
-      },
-      {
-        "rank": 8,
-        "image": "https://kotaku.com/app/uploads/2026/11/tales-of-destiny-lilith.jpg",
-        "title": "Someone Just Figured Out How To Recruit A Previously Unrecruitable Party Member In A Nearly 30-Year-Old RPG - Kotaku",
-        "description": "You can get Lilith in Tales of Destiny after all, no cheats required",
-        "source_link": "https://kotaku.com/someone-just-figured-out-how-to-recruit-a-previously-unrecruitable-party-member-in-a-nearly-30-year-old-rpg-2000752817"
-      },
-      {
-        "rank": 9,
-        "image": "https://assets-prd.ignimgs.com/2026/11/03/xbox-series-x-bite-alligator-console-sweepstakes-1793733499952.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Xbox Announces Sweepstakes for an Alligator-Shaped Series X That You Can Win Before GTA 6 Launches - IGN",
-        "description": "GTA 6 is mere weeks away from launch, and to celebrate, Xbox is bringing the wildlife of Leonida to players\u2019 living rooms with a one-of-a-kind console.",
-        "source_link": "https://www.ign.com/articles/xbox-made-an-alligator-shaped-series-x-and-you-can-win-it-before-gta-6-launches"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.macrumors.com/t/AMzlHXYCh5f7HOPQwqP7K3rUyXI=/1600x/article-new/2026/06/Siri-AI.jpg",
-        "title": "Siri AI Gets More Capable in iOS 27.3 - MacRumors",
-        "description": "Apple is expanding what Siri AI can do in and across apps in iOS 27.3, which is available to developers as of today.   Siri can complete more complex...",
-        "source_link": "https://www.macrumors.com/2026/11/03/ios-27-3-siri-ai/"
       }
     ],
     "trending_movies": [
@@ -90,24 +90,24 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/wCBlcfbVPiK0mc13mgJDEoxRBHB.jpg",
         "title": "A Dog's Perfect Christmas",
         "description": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Ev...",
         "source_link": "https://www.themoviedb.org/movie/1570488"
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-        "title": "Primetime",
-        "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered drea...",
-        "source_link": "https://www.themoviedb.org/movie/1375441"
-      },
-      {
-        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
         "title": "Model Citizen",
         "description": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met wit...",
         "source_link": "https://www.themoviedb.org/movie/1792170"
+      },
+      {
+        "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+        "title": "Primetime",
+        "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered drea...",
+        "source_link": "https://www.themoviedb.org/movie/1375441"
       },
       {
         "rank": 6,
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
+        "title": "Ramayana: Rise of a Legend",
+        "description": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love...",
+        "source_link": "https://www.themoviedb.org/movie/656908"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/tYH4rQZlHtuFSeDS0bsV17khvJC.jpg",
         "title": "The Cat in the Hat",
         "description": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundari...",
         "source_link": "https://www.themoviedb.org/movie/1117898"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
         "title": "Wild Horse Nine",
         "description": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Is...",
         "source_link": "https://www.themoviedb.org/movie/891621"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
-        "title": "Wildwood",
-        "description": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark...",
-        "source_link": "https://www.themoviedb.org/movie/791523"
-      },
-      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
-        "title": "Verity",
-        "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what ma...",
-        "source_link": "https://www.themoviedb.org/movie/1283515"
+        "image": "https://image.tmdb.org/t/p/w200/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
+        "title": "Beware Boi\u00fana",
+        "description": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly...",
+        "source_link": "https://www.themoviedb.org/movie/1244523"
       }
     ]
   }
