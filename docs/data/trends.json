@@ -1,76 +1,69 @@
 {
-  "last_updated": "November 07, 2026, 15:22 UTC",
+  "last_updated": "November 07, 2026, 19:50 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://media.cybernews.com/images/featured-big/2026/11/android.jpg",
-        "title": "GhostMap: an app can brick Android device, leaving it in crash loop - Cybernews",
-        "description": "Android 10 and later face GhostMap Android vulnerability that can force boot loops after app install, Bitdefender says.",
-        "source_link": "https://cybernews.com/security/new-android-vulnerability-ghostmap-crash-loop/"
+        "image": "https://images.nintendolife.com/ec92cd7148c0c/1280x720.jpg",
+        "title": "PSA: Want To Learn Link's Ocarina Tunes? Nintendo's Got The Sheet Music For All Of Them - Nintendo Life",
+        "description": "Hylian how-to",
+        "source_link": "https://www.nintendolife.com/news/2026/11/psa-want-to-learn-links-ocarina-tunes-nintendos-got-the-sheet-music-for-all-of-them"
       },
       {
         "rank": 2,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/macbook-pro-proled-xdr-touch-07.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Apple explains how to turn off the new MacBook Pro\u2019s glowing logo - 9to5Mac",
-        "description": "Apple knows that not everyone will want to keep it on. Here\u2019s the company\u2019s official guide to turning it off.",
-        "source_link": "https://9to5mac.com/2026/11/05/apple-explains-how-to-turn-off-the-new-macbook-pros-glowing-logo/"
+        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/GoW_EDAY_20th_Lancer-027826f9d544349f4546.jpg",
+        "title": "20 Years of Gears - XBOX Wire",
+        "description": "SummaryGears of War celebrates 20 years with a special anniversary event in Gears of War: E-Day, honoring two decades of brotherhood, community, and Gears of War celebrates 20 years with a special anniversary event in Gears of War: E-Day, honoring two decades\u2026",
+        "source_link": "https://news.xbox.com/en-us/?p=228001"
       },
       {
         "rank": 3,
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-gift-guide-teens-oo-main-89df68.jpg",
-        "title": "The gifts teens are actually asking for this year, according to shopping editors and real teens - NBC News",
-        "description": "Looking for gifts for teenage girls and boys? Discover our picks for stylish, practical and personalized presents, with recommendations from real teens.",
-        "source_link": "https://www.nbcnews.com/select/shopping/best-gifts-for-teens-2026-rcna607267"
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Next year\u2019s iPhone Pro redesign will drop an important button, per leak - 9to5Mac",
+        "description": "Apple is rumored to have a big iPhone redesign coming next year, and per a new leak, it may come with the loss of the Action button.",
+        "source_link": "https://9to5mac.com/2026/11/06/next-years-iphone-pro-redesign-will-drop-an-important-button-per-leak/"
       },
       {
         "rank": 4,
-        "image": "https://images.macrumors.com/t/moB5pnioz9ULPrWGK9M7DZdy-9Y=/1600x/article-new/2026/10/hero_medium_2x-feature1.jpg",
-        "title": "Apple Surveys iPhone Duo Buyers About Crease and Camera - MacRumors",
-        "description": "Apple is sending email surveys to some iPhone Duo buyers to get feedback on display size, crease, under-display camera, and other features.   The...",
-        "source_link": "https://www.macrumors.com/2026/11/05/apple-iphone-duo-survey/"
+        "image": "https://kotaku.com/app/uploads/2026/11/miyamoto-1200x675.jpg",
+        "title": "Nintendo\u2019s Shigeru Miyamoto Misses Financial Briefing Due To A \u2018Sudden Illness\u2019 But Is Expected To Recover Soon - Kotaku",
+        "description": "'He is expected to recover in a few days to a week'",
+        "source_link": "https://kotaku.com/nintendos-shigeru-miyamoto-misses-financial-briefing-due-to-a-sudden-illness-but-is-expected-to-recover-soon-2000754655"
       },
       {
         "rank": 5,
-        "image": "https://www.techpowerup.com/img/FZr9vA8SJkZdK5YD.jpg",
-        "title": "New Xbox PC App Claims 60% Faster Launch Times and UX Improvements - TechPowerUp",
-        "description": "Epic Games's recent proclamation of significantly faster launch times on its new vibe-coded Epic Games Launcher, followed by a Steam update making similar performance improvements, seems to have inspired Microsoft's Xbox to put in the work to improve its Xbox\u2026",
-        "source_link": "https://www.techpowerup.com/354525/new-xbox-pc-app-claims-60-faster-launch-times-and-ux-improvements"
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXR9F1Fu-E50zYby7QnTXAX324GHruNgN0_-95ygoUQV94WlkKSNHt1n8Af8HANmBe6GYgt_1-jGJzGNdg6NnoWY_Jrfbxjyv8mSQzOCa_t7e-e5S8DEB32YavCpthT2pB3jQsFRNJ69bgOgph9qyCBppvb93YSsYSzBM1P9CdeO_rhMcF4LgCj-kQvY2C/s1600/gpt-cyber.jpg",
+        "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits - The Hacker News",
+        "description": "OpenAI unveils GPT-6 Cyber, reporting 948 Linux privilege escalation exploits and 81 unknown Firefox flaws discovered with its help.",
+        "source_link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html"
       },
       {
         "rank": 6,
-        "image": "https://images.macrumors.com/t/XM5h7IRnM8GreuKQNQzYWM9F_xE=/2500x/article-new/2026/11/Apples-First-Touchscreen-Mac-is-Now-Arriving-to-Customers-Feature.jpg",
-        "title": "Apple's First Touchscreen Mac is Now Arriving to Customers - MacRumors",
-        "description": "It's Friday, November 6 in Australia and New Zealand, which means customers who preordered a PROLED touchscreen MacBook Pro, OLED iPad mini, M6...",
-        "source_link": "https://www.macrumors.com/2026/11/05/touchscreen-mac-now-arriving-to-customers/"
+        "image": "https://images.nintendolife.com/50d3c65946e36/1280x720.jpg",
+        "title": "Are You A Tired Parent? The Witcher 3's New Accessibility Mode Was Built With You In Mind - Nintendo Life",
+        "description": "For anyone busy adulting",
+        "source_link": "https://www.nintendolife.com/news/2026/11/are-you-a-tired-parent-the-witcher-3s-new-accessibility-mode-was-built-with-you-in-mind"
       },
       {
         "rank": 7,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg",
-        "title": "Vulnerability allows attackers to log into some Linux devices sans password - Ars Technica",
-        "description": "Certain configurations of Alpine are affected. Other distros may be as well.",
-        "source_link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
+        "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3266419-0-59719400-1793973662-image_3acedd.png?w=1024",
+        "title": "Valve escaped Windows. Now Steam is breaking free from the PC itself - PCWorld",
+        "description": "Steam Deck made Windows optional. Steam Frame takes aim at x86. Valve is building a future where your Steam library barely cares what kind of computer sits underneath it. Is that good for gamers?",
+        "source_link": "https://www.pcworld.com/article/3266419/valve-escaped-windows-now-steam-is-breaking-free-from-the-pc-itself.html"
       },
       {
         "rank": 8,
-        "image": "https://assets-prd.ignimgs.com/2026/11/05/lucia-caminos-14-1793891731331.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "GTA 6 Hype Has Led to Spectrum Offering Free Internet Upgrade So Fans Can Download the Game Quickly - IGN",
-        "description": "Spectrum customers can get a free internet upgrade this month to download GTA 6 faster.",
-        "source_link": "https://www.ign.com/articles/spectrum-is-offering-free-internet-upgrades-so-people-can-download-gta-6-faster"
+        "image": "https://images.pushsquare.com/27ed3754d272a/1280x720.jpg",
+        "title": "These 8+ PS5 Games Will Be Delisted in November and December 2026 - Push Square",
+        "description": "Going offline",
+        "source_link": "https://www.pushsquare.com/news/2026/11/these-8plus-ps5-games-will-be-delisted-in-november-and-december-2026"
       },
       {
         "rank": 9,
-        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/DSC_7310-Edit.jpg",
-        "title": "Why the Factor ONE Proves Specialized Needs a New Venge - Outside Magazine",
-        "description": "Aerodynamic data is objective, but selling speed is entirely psychological. Specialized made a massive marketing mistake, and no one seems to be noticing.",
-        "source_link": "https://velo.outsideonline.com/road/road-gear/why-specialized-needs-new-venge-dropped/#article"
-      },
-      {
-        "rank": 10,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/assets_MS2027641_000001_feature-2-3-D-1152x648.jpg",
-        "title": "Sony revives the original Walkman headphones, adds USB-C - Ars Technica",
-        "description": "Orange ear cushions included.",
-        "source_link": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/"
+        "image": "https://images.pushsquare.com/7ae9053263de6/1280x720.jpg",
+        "title": "Sony's Killing This Ratchet & Clank Game Before It Even Comes Out - Push Square",
+        "description": "No more Ranger Rumble",
+        "source_link": "https://www.pushsquare.com/news/2026/11/sonys-killing-this-ratchet-and-clank-game-before-it-even-comes-out"
       }
     ],
     "trending_movies": [
@@ -83,7 +76,7 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
@@ -104,24 +97,24 @@
       },
       {
         "rank": 5,
+        "image": "https://image.tmdb.org/t/p/w200/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+        "title": "Godzilla Minus Zero",
+        "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achi...",
+        "source_link": "https://www.themoviedb.org/movie/1381071"
+      },
+      {
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
         "title": "Resident Evil",
         "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
         "source_link": "https://www.themoviedb.org/movie/1423191"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
         "title": "The Mongoose",
         "description": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special For...",
         "source_link": "https://www.themoviedb.org/movie/1294189"
-      },
-      {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-        "title": "Godzilla Minus Zero",
-        "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achi...",
-        "source_link": "https://www.themoviedb.org/movie/1381071"
       },
       {
         "rank": 8,
@@ -132,17 +125,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/wJ9FLxq3Q6D4ve8TUepYsr0PL3p.jpg",
-        "title": "All Wishes Come True!",
-        "description": "Eight grassroot mortals use their street smarts and hilarious schemes to defy powerful gods, earning their title as the Eight Immortals....",
-        "source_link": "https://www.themoviedb.org/movie/1633056"
+        "image": "https://image.tmdb.org/t/p/w200/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
+        "title": "A Dog's Perfect Christmas",
+        "description": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Ev...",
+        "source_link": "https://www.themoviedb.org/movie/1570488"
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
-        "title": "Ramayana: Rise of a Legend",
-        "description": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love...",
-        "source_link": "https://www.themoviedb.org/movie/656908"
+        "image": "https://image.tmdb.org/t/p/w200/kTOeFV92c3QHJ3bEkT660P7BcWN.jpg",
+        "title": "Musk",
+        "description": "An incisive look behind the legend of Elon Musk, the world's most heralded \"inventor-entrepreneur\" who has enormous influence on the world in which we...",
+        "source_link": "https://www.themoviedb.org/movie/1096228"
       }
     ]
   }
