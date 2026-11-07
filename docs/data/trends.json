@@ -1,85 +1,92 @@
 {
-  "last_updated": "November 07, 2026, 19:50 UTC",
+  "last_updated": "November 07, 2026, 23:22 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-134100-1152x648.jpg",
+        "title": "Artist pulls popular screensaver from Roku OS because of Fox acquisition - Ars Technica",
+        "description": "Developer: \u201cI can\u2019t be part of the Fox world.\u201d...",
+        "source_link": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/"
+      },
+      {
+        "rank": 2,
+        "image": "https://assets-prd.ignimgs.com/2026/10/30/ss-4b2b412307b72a21f68148c32fab7a278875d139-1920x1080-1793370780028.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Canadian Politician Petitions Government to Help BioWare Buy Its Way From Under EA - IGN",
+        "description": "A Canadian politician has started an official government petition to save Mass Effect developer BioWare.",
+        "source_link": "https://www.ign.com/articles/canadian-politician-petitions-government-to-help-bioware-buy-its-way-from-under-ea"
+      },
+      {
+        "rank": 3,
+        "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F06%2Fgrand-theft-auto-vi-gta6-real-in-game-cars-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+        "title": "The 'Grand Theft Auto VI' Custom In-Game Cars Have Come to Life - Hypebeast",
+        "description": "West Coast Customs painstakingly recreated the iconic cars of the game.",
+        "source_link": "https://hypebeast.com/2026/11/grand-theft-auto-vi-gta6-real-in-game-cars#article"
+      },
+      {
+        "rank": 4,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent - TechCrunch",
+        "description": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+        "source_link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+      },
+      {
+        "rank": 5,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/discord-redmagic-12-pro.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Discord is about to get way, way faster on your Android phone - 9to5Google",
+        "description": "A new Discord update built on Rust is substantially reducing the amount of RAM it uses, leading to significantly faster loading times",
+        "source_link": "http://9to5google.com/2026/11/06/discord-is-about-to-get-way-way-faster-on-your-android-phone/"
+      },
+      {
+        "rank": 6,
+        "image": "https://assets-prd.ignimgs.com/2026/11/06/xbox-series-x-x25-1787838440148-1793987454358.jpeg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "You Can Request an Invite to Buy an Xbox Series X | X25 Special Edition Console at Amazon Right Now - IGN",
+        "description": null,
+        "source_link": "https://www.ign.com/articles/xbox-series-x-x25-special-edition-console-invite-requests-are-up-at-amazon"
+      },
+      {
+        "rank": 7,
+        "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2220974969.jpg",
+        "title": "Bluetooth 7 Speeds Are Set to Quadruple in 2027, Especially for Audio - CNET",
+        "description": "The Bluetooth Group has announced a new standard. Here's how it works and when you can expect to benefit from it.",
+        "source_link": "https://www.cnet.com/tech/bluetooth-7-speeds-quadruple-2027/"
+      },
+      {
+        "rank": 8,
+        "image": "https://images.macrumors.com/t/bn-vb4EvT__PrYAMCEn1MrjiwUo=/2572x/article-new/2026/11/Apple-Says-Over-100000-Apps-Optimized-for-iPhone-Duo-But-These-Are-Still-Missing-Feature-1.jpg",
+        "title": "Apple Says More Than 100,000 Apps Optimized for iPhone Duo, Here's What's Still Missing - MacRumors",
+        "description": "Apple today announced that more than 100,000 apps have been optimized for the iPhone Duo, released two weeks ago. We confirmed that this figure...",
+        "source_link": "https://www.macrumors.com/2026/11/06/apple-says-100k-apps-optimized-for-iphone-duo/"
+      },
+      {
+        "rank": 9,
+        "image": "https://kotaku.com/app/uploads/2025/11/ratchclankmobile.jpg",
+        "title": "PlayStation Is Already Killing Off Ratchet & Clank Mobile Game Just 12 Months After It Was Revealed - Kotaku",
+        "description": "Ratchet & Clank: Ranger Rumble never officially launched globally",
+        "source_link": "https://kotaku.com/playstation-mobile-game-shuts-down-just-12-months-after-it-was-revealed-2000754657"
+      },
+      {
+        "rank": 10,
         "image": "https://images.nintendolife.com/ec92cd7148c0c/1280x720.jpg",
         "title": "PSA: Want To Learn Link's Ocarina Tunes? Nintendo's Got The Sheet Music For All Of Them - Nintendo Life",
         "description": "Hylian how-to",
         "source_link": "https://www.nintendolife.com/news/2026/11/psa-want-to-learn-links-ocarina-tunes-nintendos-got-the-sheet-music-for-all-of-them"
-      },
-      {
-        "rank": 2,
-        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/GoW_EDAY_20th_Lancer-027826f9d544349f4546.jpg",
-        "title": "20 Years of Gears - XBOX Wire",
-        "description": "SummaryGears of War celebrates 20 years with a special anniversary event in Gears of War: E-Day, honoring two decades of brotherhood, community, and Gears of War celebrates 20 years with a special anniversary event in Gears of War: E-Day, honoring two decades\u2026",
-        "source_link": "https://news.xbox.com/en-us/?p=228001"
-      },
-      {
-        "rank": 3,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Next year\u2019s iPhone Pro redesign will drop an important button, per leak - 9to5Mac",
-        "description": "Apple is rumored to have a big iPhone redesign coming next year, and per a new leak, it may come with the loss of the Action button.",
-        "source_link": "https://9to5mac.com/2026/11/06/next-years-iphone-pro-redesign-will-drop-an-important-button-per-leak/"
-      },
-      {
-        "rank": 4,
-        "image": "https://kotaku.com/app/uploads/2026/11/miyamoto-1200x675.jpg",
-        "title": "Nintendo\u2019s Shigeru Miyamoto Misses Financial Briefing Due To A \u2018Sudden Illness\u2019 But Is Expected To Recover Soon - Kotaku",
-        "description": "'He is expected to recover in a few days to a week'",
-        "source_link": "https://kotaku.com/nintendos-shigeru-miyamoto-misses-financial-briefing-due-to-a-sudden-illness-but-is-expected-to-recover-soon-2000754655"
-      },
-      {
-        "rank": 5,
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXR9F1Fu-E50zYby7QnTXAX324GHruNgN0_-95ygoUQV94WlkKSNHt1n8Af8HANmBe6GYgt_1-jGJzGNdg6NnoWY_Jrfbxjyv8mSQzOCa_t7e-e5S8DEB32YavCpthT2pB3jQsFRNJ69bgOgph9qyCBppvb93YSsYSzBM1P9CdeO_rhMcF4LgCj-kQvY2C/s1600/gpt-cyber.jpg",
-        "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits - The Hacker News",
-        "description": "OpenAI unveils GPT-6 Cyber, reporting 948 Linux privilege escalation exploits and 81 unknown Firefox flaws discovered with its help.",
-        "source_link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.nintendolife.com/50d3c65946e36/1280x720.jpg",
-        "title": "Are You A Tired Parent? The Witcher 3's New Accessibility Mode Was Built With You In Mind - Nintendo Life",
-        "description": "For anyone busy adulting",
-        "source_link": "https://www.nintendolife.com/news/2026/11/are-you-a-tired-parent-the-witcher-3s-new-accessibility-mode-was-built-with-you-in-mind"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.pcworld.com/wp-content/uploads/2026/11/3266419-0-59719400-1793973662-image_3acedd.png?w=1024",
-        "title": "Valve escaped Windows. Now Steam is breaking free from the PC itself - PCWorld",
-        "description": "Steam Deck made Windows optional. Steam Frame takes aim at x86. Valve is building a future where your Steam library barely cares what kind of computer sits underneath it. Is that good for gamers?",
-        "source_link": "https://www.pcworld.com/article/3266419/valve-escaped-windows-now-steam-is-breaking-free-from-the-pc-itself.html"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.pushsquare.com/27ed3754d272a/1280x720.jpg",
-        "title": "These 8+ PS5 Games Will Be Delisted in November and December 2026 - Push Square",
-        "description": "Going offline",
-        "source_link": "https://www.pushsquare.com/news/2026/11/these-8plus-ps5-games-will-be-delisted-in-november-and-december-2026"
-      },
-      {
-        "rank": 9,
-        "image": "https://images.pushsquare.com/7ae9053263de6/1280x720.jpg",
-        "title": "Sony's Killing This Ratchet & Clank Game Before It Even Comes Out - Push Square",
-        "description": "No more Ranger Rumble",
-        "source_link": "https://www.pushsquare.com/news/2026/11/sonys-killing-this-ratchet-and-clank-game-before-it-even-comes-out"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-        "title": "Heart of the Beast",
-        "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness....",
-        "source_link": "https://www.themoviedb.org/movie/1263337"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
+      },
+      {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+        "title": "Heart of the Beast",
+        "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness....",
+        "source_link": "https://www.themoviedb.org/movie/1263337"
       },
       {
         "rank": 3,
@@ -90,24 +97,24 @@
       },
       {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
+        "title": "Resident Evil",
+        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
+        "source_link": "https://www.themoviedb.org/movie/1423191"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
         "title": "Possible Love",
         "description": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires....",
         "source_link": "https://www.themoviedb.org/movie/1483525"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
         "title": "Godzilla Minus Zero",
         "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achi...",
         "source_link": "https://www.themoviedb.org/movie/1381071"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-        "title": "Resident Evil",
-        "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
-        "source_link": "https://www.themoviedb.org/movie/1423191"
       },
       {
         "rank": 7,
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg",
-        "title": "A Dog's Perfect Christmas",
-        "description": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Ev...",
-        "source_link": "https://www.themoviedb.org/movie/1570488"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/kTOeFV92c3QHJ3bEkT660P7BcWN.jpg",
         "title": "Musk",
         "description": "An incisive look behind the legend of Elon Musk, the world's most heralded \"inventor-entrepreneur\" who has enormous influence on the world in which we...",
         "source_link": "https://www.themoviedb.org/movie/1096228"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
+        "title": "Verity",
+        "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what ma...",
+        "source_link": "https://www.themoviedb.org/movie/1283515"
       }
     ]
   }
