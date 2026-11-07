@@ -1,76 +1,76 @@
 {
-  "last_updated": "November 07, 2026, 01:33 UTC",
+  "last_updated": "November 07, 2026, 08:13 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://images.nintendolife.com/e302ae1549597/1280x720.jpg",
+        "title": "Nintendo Reiterates Plans For Zelda's 40th Anniversary - Nintendo Life",
+        "description": "\"We will pursue a variety of initiatives\"",
+        "source_link": "https://www.nintendolife.com/news/2026/11/nintendo-reiterates-plans-for-zeldas-40th-anniversary"
+      },
+      {
+        "rank": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/macbook-pro-proled-xdr-touch-07.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Apple explains how to turn off the new MacBook Pro\u2019s glowing logo - 9to5Mac",
+        "description": "Apple knows that not everyone will want to keep it on. Here\u2019s the company\u2019s official guide to turning it off.",
+        "source_link": "https://9to5mac.com/2026/11/05/apple-explains-how-to-turn-off-the-new-macbook-pros-glowing-logo/"
+      },
+      {
+        "rank": 3,
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-gift-guide-teens-oo-main-89df68.jpg",
+        "title": "The gifts teens are actually asking for this year, according to shopping editors and real teens - NBC News",
+        "description": "Looking for gifts for teenage girls and boys? Discover our picks for stylish, practical and personalized presents, with recommendations from real teens.",
+        "source_link": "https://www.nbcnews.com/select/shopping/best-gifts-for-teens-2026-rcna607267"
+      },
+      {
+        "rank": 4,
+        "image": "https://images.macrumors.com/t/moB5pnioz9ULPrWGK9M7DZdy-9Y=/1600x/article-new/2026/10/hero_medium_2x-feature1.jpg",
+        "title": "Apple Surveys iPhone Duo Buyers About Crease and Camera - MacRumors",
+        "description": "Apple is sending email surveys to some iPhone Duo buyers to get feedback on display size, crease, under-display camera, and other features.   The...",
+        "source_link": "https://www.macrumors.com/2026/11/05/apple-iphone-duo-survey/"
+      },
+      {
+        "rank": 5,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg",
+        "title": "Vulnerability allows attackers to log into some Linux devices sans password - Ars Technica",
+        "description": "Certain configurations of Alpine are affected. Other distros may be as well.",
+        "source_link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
+      },
+      {
+        "rank": 6,
+        "image": "https://assets-prd.ignimgs.com/2026/11/05/lucia-caminos-14-1793891731331.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "GTA 6 Hype Has Led to Spectrum Offering Free Internet Upgrade So Fans Can Download the Game Quickly - IGN",
+        "description": "Spectrum customers can get a free internet upgrade this month to download GTA 6 faster.",
+        "source_link": "https://www.ign.com/articles/spectrum-is-offering-free-internet-upgrades-so-people-can-download-gta-6-faster"
+      },
+      {
+        "rank": 7,
+        "image": null,
+        "title": "Windows 11 27H2 could be major upgrade with 64-bit performance boost, new default wallpapers - Neowin",
+        "description": null,
+        "source_link": "https://www.neowin.net/news/windows-11-27h2-could-be-major-upgrade-with-64-bit-performance-boost-new-default-wallpapers/"
+      },
+      {
+        "rank": 8,
+        "image": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/DSC_7310-Edit.jpg",
+        "title": "Why the Factor ONE Proves Specialized Needs a New Venge - Outside Magazine",
+        "description": "Aerodynamic data is objective, but selling speed is entirely psychological. Specialized made a massive marketing mistake, and no one seems to be noticing.",
+        "source_link": "https://velo.outsideonline.com/road/road-gear/why-specialized-needs-new-venge-dropped/#article"
+      },
+      {
+        "rank": 9,
         "image": "https://cdn.mos.cms.futurecdn.net/XyTApFhvyfxVv4QbRBAPqk-2000-80.jpg",
         "title": "Nintendo Switch 2 Zelda 40th Anniversary Edition restock live \u2014 Target confirms online drop this week - Tom's Guide",
         "description": "Ocarina of Time launch day could bring Zelda Switch 2 restock",
         "source_link": "https://www.tomsguide.com/news/live/zelda-edition-switch-2-console-restock-live-updates"
       },
       {
-        "rank": 2,
-        "image": "https://kotaku.com/app/uploads/2026/11/beardedguy1-1200x675.jpg",
-        "title": "The Best Thing I\u2019ve Seen In The Ocarina Of Time Remake Is This New Guy In Castle Town - Kotaku",
-        "description": "I need him to teach me his ways or just give me his powers",
-        "source_link": "https://kotaku.com/legend-zelda-ocarina-of-time-remake-switch-castle-town-new-npcs-bearded-guy-2000754229"
-      },
-      {
-        "rank": 3,
-        "image": "https://www.videogameschronicle.com/files/2024/02/nier-automata.jpg",
-        "title": "Nier: Automata\u2019s latest update increases game size from 50GB to 366GB - Video Games Chronicle",
-        "description": "Don't try to download Nier: Automata right now",
-        "source_link": "https://www.videogameschronicle.com/news/nier-automatas-latest-update-increases-game-size-from-50gb-to-366gb/"
-      },
-      {
-        "rank": 4,
+        "rank": 10,
         "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
         "title": "Meta says US users can now video chat with their Muse AI avatar - TechCrunch",
         "description": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
         "source_link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
-      },
-      {
-        "rank": 5,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/RoadRash_Screenshot_12.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "title": "EA is bringing 25 classic PC games to Steam - The Verge",
-        "description": "EA is bringing 25 classic games to Steam, including \u201cAnniversary Editions\u201d of the motorcycle racer Road Rash and six Wing Commander titles.",
-        "source_link": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6dlss-1152x648.png",
-        "title": "Gamers go to ridiculous lengths to \u201cimprove\u201d GTA VI with Nvidia\u2019s DLSS 5 - Ars Technica",
-        "description": "Using a capture card and open source software to run PS5 video through a PC GPU.",
-        "source_link": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.nintendolife.com/b48473f3a67e3/1280x720.jpg",
-        "title": "We Have So Many Questions About This Stellar Blade Launch Trailer - Nintendo Life",
-        "description": "\"Take EVE everywhere\"",
-        "source_link": "https://www.nintendolife.com/news/2026/11/we-have-so-many-questions-about-this-stellar-blade-launch-trailer"
-      },
-      {
-        "rank": 8,
-        "image": null,
-        "title": "Apple\u2019s new $299 device comes with a warning for buyers - TheStreet",
-        "description": null,
-        "source_link": "https://www.thestreet.com/investing/apple-homeview-new-299-smart-home-device-may-cost-extra-add-ons-subscriptions"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ApplicationFrameHost_463qT9deYw.jpg?quality=90&strip=all&crop=0%2C4.3743779624242%2C100%2C91.251244075152&w=1200",
-        "title": "Xbox overhauls its PC, web, and cloud apps with a faster design - The Verge",
-        "description": "Microsoft is overhauling its Xbox PC app and Xbox Cloud Gaming design. A new, faster UI is rolling out to testers.",
-        "source_link": "https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign"
-      },
-      {
-        "rank": 10,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "OpenAI says its new cybersecurity model is better at not hacking other companies - The Verge",
-        "description": "OpenAI has announced GPT-6 Cyber, the latest version of its cybersecurity model that the company says is better at finding vulnerabilities without going out of bounds.",
-        "source_link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch"
       }
     ],
     "trending_movies": [
@@ -104,10 +104,10 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-        "title": "Godzilla Minus Zero",
-        "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achi...",
-        "source_link": "https://www.themoviedb.org/movie/1381071"
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
         "rank": 6,
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+        "title": "Godzilla Minus Zero",
+        "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achi...",
+        "source_link": "https://www.themoviedb.org/movie/1381071"
+      },
+      {
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
         "title": "Primetime",
         "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered drea...",
         "source_link": "https://www.themoviedb.org/movie/1375441"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/hz2Hv8tPToHvQ7HaxzqeLvahmcJ.jpg",
         "title": "Ramayana: Rise of a Legend",
         "description": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love...",
         "source_link": "https://www.themoviedb.org/movie/656908"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/fez7kLyGzpowduJapTFZZ1feCS0.jpg",
-        "title": "One Year to Live, Buy a Man",
-        "description": "Given a year to live, frugal 40-year-old Yui finally lets herself spend: \"buying\" nightclub host Sena. What begins as a contract takes an unexpected t...",
-        "source_link": "https://www.themoviedb.org/movie/1654940"
-      },
-      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/kTOeFV92c3QHJ3bEkT660P7BcWN.jpg",
-        "title": "Musk",
-        "description": "An incisive look behind the legend of Elon Musk, the world's most heralded \"inventor-entrepreneur\" who has enormous influence on the world in which we...",
-        "source_link": "https://www.themoviedb.org/movie/1096228"
+        "image": "https://image.tmdb.org/t/p/w200/wJ9FLxq3Q6D4ve8TUepYsr0PL3p.jpg",
+        "title": "All Wishes Come True!",
+        "description": "Eight grassroot mortals use their street smarts and hilarious schemes to defy powerful gods, earning their title as the Eight Immortals....",
+        "source_link": "https://www.themoviedb.org/movie/1633056"
       }
     ]
   }
