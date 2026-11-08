@@ -1,82 +1,82 @@
 {
-  "last_updated": "November 08, 2026, 04:05 UTC",
+  "last_updated": "November 08, 2026, 11:39 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Image_19F2B4C6-FC08-4BD0-94A5-AAE6C3A21789.jpeg",
+        "title": "I tried local AI on HP\u2019s Omnibook Ultra \u2013 it\u2019s a private, powerful beast with zero token fees - ZDNET",
+        "description": "I ran a free, open-weights AI model locally on HP\u2019s $7,000 OmniBook Ultra and turned 20 years of my articles into a searchable archive in a day.",
+        "source_link": "https://www.zdnet.com/tech/hp-omnibook-ultra-nvidia-rtx-spark-laptop-review/"
+      },
+      {
+        "rank": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/qSjugCWqy45jwEfZ3P9DRQ-2325-80.jpg",
+        "title": "World of Warcraft: Forever is the biggest launch in WoW history, beating Wrath itself - Windows Central",
+        "description": "Blizzard confirmed that World of Warcraft Forever is absolutely huge, and potentially represents a headache for World of Warcraft's retail arm.",
+        "source_link": "https://www.windowscentral.com/gaming/blizzard/blizzard-confirms-world-of-warcraft-forever-is-the-biggest-launch-in-wow-history-beating-wrath-of-the-lich-king-is-wow-retail-cooked"
+      },
+      {
+        "rank": 3,
+        "image": "https://assets-prd.ignimgs.com/2026/09/28/wow-1790594365869.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch - IGN",
+        "description": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
+        "source_link": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch"
+      },
+      {
+        "rank": 4,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/iphone-action-button-gone-rumor/-952x498w6/gsmarena_000.jpg",
+        "title": "Future iPhones will have one less button, new rumor claims - GSMArena.com news - GSMArena.com",
+        "description": "Two will become one, apparently. Apple introduced the Action button with the iPhone 15 Pro, and the iPhone 18 Pro still has it. Now, a tipster on Weibo...",
+        "source_link": "https://www.gsmarena.com/future_iphones_will_have_one_less_button_new_rumor_claims-news-75391.php"
+      },
+      {
+        "rank": 5,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif",
         "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG - Ars Technica",
         "description": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
         "source_link": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/"
       },
       {
-        "rank": 2,
-        "image": "https://assets3.thrillist.com/v1/image/3210756/1200x675/crop;;webp=auto;jpeg_quality=85.jpg",
-        "title": "Costco Employee Finds Carrier Left In Shopping Cart \u2014 Then Reads The Writing On The Side - The Dodo",
-        "description": "She was 14 years old and all alone.",
-        "source_link": "https://www.thedodo.com/daily-dodo/costco-employee-finds-carrier-left-in-shopping-cart-then-reads-the-writing-on-the-side"
+        "rank": 6,
+        "image": "https://images.macrumors.com/t/7q4QqphUJThOhCQ98BeO_58HXAE=/1920x/article-new/2026/11/MacBook-Pro-with-PROLED-XDR-Display-First-Impressions-Thumb.jpg",
+        "title": "Hands-On With Apple's New OLED Touchscreen MacBook Pro - MacRumors",
+        "description": "Happy touch your Mac day! Apple's new PROLED MacBook Pro is now in the hands of customers. We picked up one of the new machines to get our greasy...",
+        "source_link": "https://www.macrumors.com/2026/11/06/oled-macbook-pro-hands-on/"
       },
       {
-        "rank": 3,
+        "rank": 7,
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iOS-27-Guide-LG.jpg?quality=82&strip=all&resize=1200,628",
         "title": "iOS 27.3: New features, release date, more - 9to5Mac",
         "description": "This week, Apple released the first iOS 27.3 beta. The update includes multiple new features for iPhone users, including the...",
         "source_link": "https://9to5mac.com/2026/11/06/ios-27-3-new-features-release-date-more/"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/watchos-27-watch-face-red.jpg?quality=82&strip=all&resize=1200,628",
         "title": "watchOS 27.3 adds new Apple Watch feature that I absolutely love - 9to5Mac",
         "description": "watchOS 27.3 is here in beta with a major new feature for the latest Apple Watch models: Siri Recap, which I'm already really loving.",
         "source_link": "https://9to5mac.com/2026/11/06/watchos-27-3-adds-new-apple-watch-feature-that-i-absolutely-love/"
       },
       {
-        "rank": 5,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/apple-iphone-duo-optimized-apps/-952x498w6/gsmarena_000.jpg",
-        "title": "Apple says over 100,000 apps are now optimized for the iPhone Duo - GSMArena.com news - GSMArena.com",
-        "description": "Thousands of titles are landing every day. The iPhone Duo started shipping about two weeks ago, and app support has been one of the early talking points....",
-        "source_link": "https://www.gsmarena.com/apple_says_over_100000_apps_are_now_optimized_for_the_iphone_duo-news-75390.php"
-      },
-      {
-        "rank": 6,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-134100-1152x648.jpg",
-        "title": "Artist pulls popular screensaver from Roku OS because of Fox acquisition - Ars Technica",
-        "description": "Developer: \u201cI can\u2019t be part of the Fox world.\u201d...",
-        "source_link": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/"
-      },
-      {
-        "rank": 7,
-        "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F06%2Fgrand-theft-auto-vi-gta6-real-in-game-cars-tw.jpg?w=1080&cbr=1&q=90&fit=max",
-        "title": "The 'Grand Theft Auto VI' Custom In-Game Cars Have Come to Life - Hypebeast",
-        "description": "West Coast Customs painstakingly recreated the iconic cars of the game.",
-        "source_link": "https://hypebeast.com/2026/11/grand-theft-auto-vi-gta6-real-in-game-cars#article"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Zelda-Ocarina-of-Time-DLSS-1920x1080.jpg",
-        "title": "The Legend of Zelda: Ocarina of Time Remake Now Runs at 60 FPS on PC Emulators Lichii and Eglantine, a Day After Booting at 20-30 FPS - Wccftech",
-        "description": "The Nintendo Switch 2 remake of The Legend of Zelda: Ocarina of Time already runs at 60 frames per second on various PC emulators.",
-        "source_link": "https://wccftech.com/zelda-ocarina-of-time-remake-60-fps-pc-emulators/"
-      },
-      {
         "rank": 9,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent - TechCrunch",
-        "description": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-        "source_link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+        "image": "https://assets-prd.ignimgs.com/2026/11/02/vintage-vice-city-pack-exclusive-looks-04-1793635497190.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch - IGN",
+        "description": "Germany has a unique legal loophole that lets 60 employees take time off work to play GTA 6 without putting their jobs in jeopardy.",
+        "source_link": "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch"
       },
       {
         "rank": 10,
-        "image": "https://kotaku.com/app/uploads/2026/11/MEtruck-1200x675.jpg",
-        "title": "A Truck Demanding EA \u2018Save Mass Effect\u2019 Is Currently Driving Around The Company\u2019s Headquarters - Kotaku",
-        "description": "BioWare fans continue to take the fight to IRL spaces",
-        "source_link": "https://kotaku.com/save-mass-effect-ea-bioware-redwood-truck-billboard-2000754705"
+        "image": "https://assets-prd.ignimgs.com/2026/11/06/dead-by-daylight-terrifier-1793985074146.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Dead by Daylight Jumps to Positive Ratings After Steam Hides 'Off-Topic' Reviews Following BurntPeanut Backlash - IGN",
+        "description": "Dead by Daylight has returned to 'Mostly Positive' recent reviews on Steam after Valve labeled a chunk of ratings surrounding TheBurntPeanut backlash as 'off-topic.'",
+        "source_link": "https://www.ign.com/articles/dead-by-daylight-jumps-to-positive-ratings-after-steam-hides-off-topic-reviews-following-burntpeanut-backlash"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
@@ -125,24 +125,24 @@
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
+        "title": "Ramayana: Rise of a Legend",
+        "description": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love...",
+        "source_link": "https://www.themoviedb.org/movie/656908"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
         "title": "The Mongoose",
         "description": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special For...",
         "source_link": "https://www.themoviedb.org/movie/1294189"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
-        "title": "Verity",
-        "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what ma...",
-        "source_link": "https://www.themoviedb.org/movie/1283515"
-      },
-      {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
-        "title": "Ramayana: Rise of a Legend",
-        "description": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love...",
-        "source_link": "https://www.themoviedb.org/movie/656908"
+        "image": "https://image.tmdb.org/t/p/w200/wJ9FLxq3Q6D4ve8TUepYsr0PL3p.jpg",
+        "title": "All Wishes Come True!",
+        "description": "Eight grassroot mortals use their street smarts and hilarious schemes to defy powerful gods, earning their title as the Eight Immortals....",
+        "source_link": "https://www.themoviedb.org/movie/1633056"
       }
     ]
   }
