@@ -1,76 +1,76 @@
 {
-  "last_updated": "November 07, 2026, 23:22 UTC",
+  "last_updated": "November 08, 2026, 04:05 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif",
+        "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG - Ars Technica",
+        "description": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
+        "source_link": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/"
+      },
+      {
+        "rank": 2,
+        "image": "https://assets3.thrillist.com/v1/image/3210756/1200x675/crop;;webp=auto;jpeg_quality=85.jpg",
+        "title": "Costco Employee Finds Carrier Left In Shopping Cart \u2014 Then Reads The Writing On The Side - The Dodo",
+        "description": "She was 14 years old and all alone.",
+        "source_link": "https://www.thedodo.com/daily-dodo/costco-employee-finds-carrier-left-in-shopping-cart-then-reads-the-writing-on-the-side"
+      },
+      {
+        "rank": 3,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iOS-27-Guide-LG.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "iOS 27.3: New features, release date, more - 9to5Mac",
+        "description": "This week, Apple released the first iOS 27.3 beta. The update includes multiple new features for iPhone users, including the...",
+        "source_link": "https://9to5mac.com/2026/11/06/ios-27-3-new-features-release-date-more/"
+      },
+      {
+        "rank": 4,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/watchos-27-watch-face-red.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "watchOS 27.3 adds new Apple Watch feature that I absolutely love - 9to5Mac",
+        "description": "watchOS 27.3 is here in beta with a major new feature for the latest Apple Watch models: Siri Recap, which I'm already really loving.",
+        "source_link": "https://9to5mac.com/2026/11/06/watchos-27-3-adds-new-apple-watch-feature-that-i-absolutely-love/"
+      },
+      {
+        "rank": 5,
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/apple-iphone-duo-optimized-apps/-952x498w6/gsmarena_000.jpg",
+        "title": "Apple says over 100,000 apps are now optimized for the iPhone Duo - GSMArena.com news - GSMArena.com",
+        "description": "Thousands of titles are landing every day. The iPhone Duo started shipping about two weeks ago, and app support has been one of the early talking points....",
+        "source_link": "https://www.gsmarena.com/apple_says_over_100000_apps_are_now_optimized_for_the_iphone_duo-news-75390.php"
+      },
+      {
+        "rank": 6,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-134100-1152x648.jpg",
         "title": "Artist pulls popular screensaver from Roku OS because of Fox acquisition - Ars Technica",
         "description": "Developer: \u201cI can\u2019t be part of the Fox world.\u201d...",
         "source_link": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/"
       },
       {
-        "rank": 2,
-        "image": "https://assets-prd.ignimgs.com/2026/10/30/ss-4b2b412307b72a21f68148c32fab7a278875d139-1920x1080-1793370780028.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Canadian Politician Petitions Government to Help BioWare Buy Its Way From Under EA - IGN",
-        "description": "A Canadian politician has started an official government petition to save Mass Effect developer BioWare.",
-        "source_link": "https://www.ign.com/articles/canadian-politician-petitions-government-to-help-bioware-buy-its-way-from-under-ea"
-      },
-      {
-        "rank": 3,
+        "rank": 7,
         "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F06%2Fgrand-theft-auto-vi-gta6-real-in-game-cars-tw.jpg?w=1080&cbr=1&q=90&fit=max",
         "title": "The 'Grand Theft Auto VI' Custom In-Game Cars Have Come to Life - Hypebeast",
         "description": "West Coast Customs painstakingly recreated the iconic cars of the game.",
         "source_link": "https://hypebeast.com/2026/11/grand-theft-auto-vi-gta6-real-in-game-cars#article"
       },
       {
-        "rank": 4,
+        "rank": 8,
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Zelda-Ocarina-of-Time-DLSS-1920x1080.jpg",
+        "title": "The Legend of Zelda: Ocarina of Time Remake Now Runs at 60 FPS on PC Emulators Lichii and Eglantine, a Day After Booting at 20-30 FPS - Wccftech",
+        "description": "The Nintendo Switch 2 remake of The Legend of Zelda: Ocarina of Time already runs at 60 frames per second on various PC emulators.",
+        "source_link": "https://wccftech.com/zelda-ocarina-of-time-remake-60-fps-pc-emulators/"
+      },
+      {
+        "rank": 9,
         "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
         "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent - TechCrunch",
         "description": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
         "source_link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
       },
       {
-        "rank": 5,
-        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/discord-redmagic-12-pro.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "Discord is about to get way, way faster on your Android phone - 9to5Google",
-        "description": "A new Discord update built on Rust is substantially reducing the amount of RAM it uses, leading to significantly faster loading times",
-        "source_link": "http://9to5google.com/2026/11/06/discord-is-about-to-get-way-way-faster-on-your-android-phone/"
-      },
-      {
-        "rank": 6,
-        "image": "https://assets-prd.ignimgs.com/2026/11/06/xbox-series-x-x25-1787838440148-1793987454358.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "You Can Request an Invite to Buy an Xbox Series X | X25 Special Edition Console at Amazon Right Now - IGN",
-        "description": null,
-        "source_link": "https://www.ign.com/articles/xbox-series-x-x25-special-edition-console-invite-requests-are-up-at-amazon"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2220974969.jpg",
-        "title": "Bluetooth 7 Speeds Are Set to Quadruple in 2027, Especially for Audio - CNET",
-        "description": "The Bluetooth Group has announced a new standard. Here's how it works and when you can expect to benefit from it.",
-        "source_link": "https://www.cnet.com/tech/bluetooth-7-speeds-quadruple-2027/"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.macrumors.com/t/bn-vb4EvT__PrYAMCEn1MrjiwUo=/2572x/article-new/2026/11/Apple-Says-Over-100000-Apps-Optimized-for-iPhone-Duo-But-These-Are-Still-Missing-Feature-1.jpg",
-        "title": "Apple Says More Than 100,000 Apps Optimized for iPhone Duo, Here's What's Still Missing - MacRumors",
-        "description": "Apple today announced that more than 100,000 apps have been optimized for the iPhone Duo, released two weeks ago. We confirmed that this figure...",
-        "source_link": "https://www.macrumors.com/2026/11/06/apple-says-100k-apps-optimized-for-iphone-duo/"
-      },
-      {
-        "rank": 9,
-        "image": "https://kotaku.com/app/uploads/2025/11/ratchclankmobile.jpg",
-        "title": "PlayStation Is Already Killing Off Ratchet & Clank Mobile Game Just 12 Months After It Was Revealed - Kotaku",
-        "description": "Ratchet & Clank: Ranger Rumble never officially launched globally",
-        "source_link": "https://kotaku.com/playstation-mobile-game-shuts-down-just-12-months-after-it-was-revealed-2000754657"
-      },
-      {
         "rank": 10,
-        "image": "https://images.nintendolife.com/ec92cd7148c0c/1280x720.jpg",
-        "title": "PSA: Want To Learn Link's Ocarina Tunes? Nintendo's Got The Sheet Music For All Of Them - Nintendo Life",
-        "description": "Hylian how-to",
-        "source_link": "https://www.nintendolife.com/news/2026/11/psa-want-to-learn-links-ocarina-tunes-nintendos-got-the-sheet-music-for-all-of-them"
+        "image": "https://kotaku.com/app/uploads/2026/11/MEtruck-1200x675.jpg",
+        "title": "A Truck Demanding EA \u2018Save Mass Effect\u2019 Is Currently Driving Around The Company\u2019s Headquarters - Kotaku",
+        "description": "BioWare fans continue to take the fight to IRL spaces",
+        "source_link": "https://kotaku.com/save-mass-effect-ea-bioware-redwood-truck-billboard-2000754705"
       }
     ],
     "trending_movies": [
@@ -118,31 +118,31 @@
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-        "title": "The Mongoose",
-        "description": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special For...",
-        "source_link": "https://www.themoviedb.org/movie/1294189"
-      },
-      {
-        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
         "title": "Primetime",
         "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered drea...",
         "source_link": "https://www.themoviedb.org/movie/1375441"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/kTOeFV92c3QHJ3bEkT660P7BcWN.jpg",
-        "title": "Musk",
-        "description": "An incisive look behind the legend of Elon Musk, the world's most heralded \"inventor-entrepreneur\" who has enormous influence on the world in which we...",
-        "source_link": "https://www.themoviedb.org/movie/1096228"
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+        "title": "The Mongoose",
+        "description": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special For...",
+        "source_link": "https://www.themoviedb.org/movie/1294189"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/rmaNMA1seHqpjtnYKzyynFAr1g8.jpg",
         "title": "Verity",
         "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what ma...",
         "source_link": "https://www.themoviedb.org/movie/1283515"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
+        "title": "Ramayana: Rise of a Legend",
+        "description": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love...",
+        "source_link": "https://www.themoviedb.org/movie/656908"
       }
     ]
   }
