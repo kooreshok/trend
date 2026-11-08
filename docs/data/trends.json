@@ -1,76 +1,69 @@
 {
-  "last_updated": "November 08, 2026, 11:39 UTC",
+  "last_updated": "November 08, 2026, 17:31 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Image_19F2B4C6-FC08-4BD0-94A5-AAE6C3A21789.jpeg",
-        "title": "I tried local AI on HP\u2019s Omnibook Ultra \u2013 it\u2019s a private, powerful beast with zero token fees - ZDNET",
-        "description": "I ran a free, open-weights AI model locally on HP\u2019s $7,000 OmniBook Ultra and turned 20 years of my articles into a searchable archive in a day.",
-        "source_link": "https://www.zdnet.com/tech/hp-omnibook-ultra-nvidia-rtx-spark-laptop-review/"
+        "image": "https://images.pushsquare.com/22fef94b93cd7/1280x720.jpg",
+        "title": "GTA 6's PS5 Physical Edition Revealed in First Photo - Push Square",
+        "description": "Code-in-box",
+        "source_link": "https://www.pushsquare.com/news/2026/11/gta-6s-ps5-physical-edition-revealed-in-first-photo"
       },
       {
         "rank": 2,
+        "image": "https://www.gamespot.com/wp-content/uploads/2026/11/4076447-mass.jpg",
+        "title": "BioWare Lives On: Here Are All The Post-BioWare Projects Currently In Production - GameSpot",
+        "description": "BioWare may be gone, but its legacy continues through studios, projects, and games created by former employees.",
+        "source_link": "https://www.gamespot.com/articles/bioware-lives-on-here-are-all-the-post-bioware-projects-currently-in-production/"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.seattletimes.com/wp-content/uploads/2026/11/11052026_tzr_tzr_162738.jpg?d=1200x630",
+        "title": "Boeing retirees are hit with 400% increase in Medicare Advantage premiums - The Seattle Times",
+        "description": "Faced with staggering insurance premium hikes, Boeing retirees are weighing whether they can afford coverage \u2014 and even retirement.",
+        "source_link": "https://www.seattletimes.com/business/boeing-retirees-shocked-by-400-jump-in-health-insurance-premiums/"
+      },
+      {
+        "rank": 4,
         "image": "https://cdn.mos.cms.futurecdn.net/qSjugCWqy45jwEfZ3P9DRQ-2325-80.jpg",
         "title": "World of Warcraft: Forever is the biggest launch in WoW history, beating Wrath itself - Windows Central",
         "description": "Blizzard confirmed that World of Warcraft Forever is absolutely huge, and potentially represents a headache for World of Warcraft's retail arm.",
         "source_link": "https://www.windowscentral.com/gaming/blizzard/blizzard-confirms-world-of-warcraft-forever-is-the-biggest-launch-in-wow-history-beating-wrath-of-the-lich-king-is-wow-retail-cooked"
       },
       {
-        "rank": 3,
+        "rank": 5,
+        "image": "https://www.bgr.com/img/gallery/how-much-would-it-cost-to-build-a-high-end-gaming-pc-in-2026/l-intro-1793372541.jpg",
+        "title": "How Much Would It Cost To Build A High-End Gaming PC In 2026? - BGR",
+        "description": "Buying a high-end gaming PC isn't entirely impossible, but even when making certain compromises, you should expect to stretch your budget into the thousands.",
+        "source_link": "https://www.bgr.com/2304132/how-much-would-it-cost-to-build-gaming-pc/"
+      },
+      {
+        "rank": 6,
         "image": "https://assets-prd.ignimgs.com/2026/09/28/wow-1790594365869.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch - IGN",
         "description": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
         "source_link": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch"
       },
       {
-        "rank": 4,
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/iphone-action-button-gone-rumor/-952x498w6/gsmarena_000.jpg",
-        "title": "Future iPhones will have one less button, new rumor claims - GSMArena.com news - GSMArena.com",
-        "description": "Two will become one, apparently. Apple introduced the Action button with the iPhone 15 Pro, and the iPhone 18 Pro still has it. Now, a tipster on Weibo...",
-        "source_link": "https://www.gsmarena.com/future_iphones_will_have_one_less_button_new_rumor_claims-news-75391.php"
-      },
-      {
-        "rank": 5,
+        "rank": 7,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif",
         "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG - Ars Technica",
         "description": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
         "source_link": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "image": "https://images.macrumors.com/t/7q4QqphUJThOhCQ98BeO_58HXAE=/1920x/article-new/2026/11/MacBook-Pro-with-PROLED-XDR-Display-First-Impressions-Thumb.jpg",
         "title": "Hands-On With Apple's New OLED Touchscreen MacBook Pro - MacRumors",
         "description": "Happy touch your Mac day! Apple's new PROLED MacBook Pro is now in the hands of customers. We picked up one of the new machines to get our greasy...",
         "source_link": "https://www.macrumors.com/2026/11/06/oled-macbook-pro-hands-on/"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iOS-27-Guide-LG.jpg?quality=82&strip=all&resize=1200,628",
         "title": "iOS 27.3: New features, release date, more - 9to5Mac",
         "description": "This week, Apple released the first iOS 27.3 beta. The update includes multiple new features for iPhone users, including the...",
         "source_link": "https://9to5mac.com/2026/11/06/ios-27-3-new-features-release-date-more/"
-      },
-      {
-        "rank": 8,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/watchos-27-watch-face-red.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "watchOS 27.3 adds new Apple Watch feature that I absolutely love - 9to5Mac",
-        "description": "watchOS 27.3 is here in beta with a major new feature for the latest Apple Watch models: Siri Recap, which I'm already really loving.",
-        "source_link": "https://9to5mac.com/2026/11/06/watchos-27-3-adds-new-apple-watch-feature-that-i-absolutely-love/"
-      },
-      {
-        "rank": 9,
-        "image": "https://assets-prd.ignimgs.com/2026/11/02/vintage-vice-city-pack-exclusive-looks-04-1793635497190.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch - IGN",
-        "description": "Germany has a unique legal loophole that lets 60 employees take time off work to play GTA 6 without putting their jobs in jeopardy.",
-        "source_link": "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch"
-      },
-      {
-        "rank": 10,
-        "image": "https://assets-prd.ignimgs.com/2026/11/06/dead-by-daylight-terrifier-1793985074146.png?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Dead by Daylight Jumps to Positive Ratings After Steam Hides 'Off-Topic' Reviews Following BurntPeanut Backlash - IGN",
-        "description": "Dead by Daylight has returned to 'Mostly Positive' recent reviews on Steam after Valve labeled a chunk of ratings surrounding TheBurntPeanut backlash as 'off-topic.'",
-        "source_link": "https://www.ign.com/articles/dead-by-daylight-jumps-to-positive-ratings-after-steam-hides-off-topic-reviews-following-burntpeanut-backlash"
       }
     ],
     "trending_movies": [
@@ -83,17 +76,17 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-        "title": "Heart of the Beast",
-        "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness....",
-        "source_link": "https://www.themoviedb.org/movie/1263337"
-      },
-      {
-        "rank": 3,
         "image": "https://image.tmdb.org/t/p/w200/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
         "title": "Model Citizen",
         "description": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met wit...",
         "source_link": "https://www.themoviedb.org/movie/1792170"
+      },
+      {
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+        "title": "Heart of the Beast",
+        "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness....",
+        "source_link": "https://www.themoviedb.org/movie/1263337"
       },
       {
         "rank": 4,
@@ -139,10 +132,10 @@
       },
       {
         "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/wJ9FLxq3Q6D4ve8TUepYsr0PL3p.jpg",
-        "title": "All Wishes Come True!",
-        "description": "Eight grassroot mortals use their street smarts and hilarious schemes to defy powerful gods, earning their title as the Eight Immortals....",
-        "source_link": "https://www.themoviedb.org/movie/1633056"
+        "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+        "title": "Spider-Man: Brand New Day",
+        "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
+        "source_link": "https://www.themoviedb.org/movie/969681"
       }
     ]
   }
