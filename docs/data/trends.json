@@ -1,76 +1,76 @@
 {
-  "last_updated": "November 10, 2026, 02:30 UTC",
+  "last_updated": "November 10, 2026, 10:42 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
-        "image": "https://www.techpowerup.com/img/Vw5ghI9h42eLBgWd.jpg",
-        "title": "Zelda: Ocarina of Time Remake Gets a Native PC Port Through Static Recompilation - TechPowerUp",
-        "description": "A GitHub developer going by tangerineturtle1 has released NX2navi, a native Windows port of the new Zelda: Ocarina of Time remake built through static recompilation. Rather than emulating Switch 2 hardware, it converts the game into x86-64 code before you pla\u2026",
-        "source_link": "https://www.techpowerup.com/354592/zelda-ocarina-of-time-remake-gets-a-native-pc-port-through-static-recompilation"
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/11/DQRPG-Ann_11-08-26.jpg",
+        "title": "Dragon Quest RPG: The Cursed Tree and the Chosen Isle announced for iOS, Android - Gematsu",
+        "description": "Square Enix has announced Dragon Quest RPG: The Cursed Tree and the Chosen Isle, \u201cthe next adventure in the Dragon Quest series\u201d for iOS and Android.",
+        "source_link": "https://www.gematsu.com/2026/11/dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle-announced-for-ios-android"
       },
       {
         "rank": 2,
+        "image": "https://cdn.mos.cms.futurecdn.net/WGjshCvjhQk42twXMotteh-1920-80.jpg",
+        "title": "No, this isn't Windows 11's new modernized Registry Editor \u2014 Microsoft confirms \"this is a sample\" and not the real thing after outrage online - Windows Central",
+        "description": "A new Registry Editor sample app has caused a stir online after people mistook it for a real replacement for the existing Registry Editor on Windows 11.",
+        "source_link": "https://www.windowscentral.com/microsoft/windows-11/no-this-isnt-windows-11s-new-modernized-registry-editor-microsoft-confirms-this-is-a-sample-and-not-the-real-thing-after-outrage-online"
+      },
+      {
+        "rank": 3,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/02/a-cluttered-stack-of-spam-otps-and-promotional-messages-beneath-a-cracked-google-messages-icon.png?w=1600&h=900&fit=crop",
+        "title": "I made Google Messages less annoying with these tweaks; my inbox is now manageable - Android Police",
+        "description": "Here's how I fixed my cluttered inbox",
+        "source_link": "https://www.androidpolice.com/google-messages-less-annoying-tweaks-inbox-manageable/"
+      },
+      {
+        "rank": 4,
         "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4599x2587+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fc0%2Fdc73c7204565a92b1ac2edbf6cdf%2Fap26240473368494.jpg",
         "title": "NASA is looking for astronauts to live and work on the Moon - NPR",
         "description": "NASA needs more recruits in order to return to the moon after being gone more than half a century.",
         "source_link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2149461717.jpg?resize=1200,900",
         "title": "Apps to distract you from the endless cycle of doomscrolling - TechCrunch",
         "description": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that\u2019s engaging and productive.",
         "source_link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "image": "https://assets-prd.ignimgs.com/2026/10/12/mv85-austin-sonny-1280-1791830924948.jpg?width=1280&format=jpg&auto=webp&quality=80",
         "title": "Why Austin Butler Cannot Drive the Iconic Black Ferrari in Miami Vice '85 - IGN",
-        "description": "New videos from the set of Miami Vice \u201885 reveal Austin Butler\u2019s Sonny Crockett and Michael B. Jordan\u201ds Ricardo Tubbs driving in a white Ferrari Testarossa, the wrong car for the period of the TV series that director Joseph Konsinski\u2019s film is retelling. And \u2026",
+        "description": "New videos from the set of Miami Vice \u201885 reveal Austin Butler\u2019s Sonny Crockett and Michael B. Jordan's Ricardo Tubbs driving a white Ferrari Testarossa, the wrong car for the period of the TV series that director Joseph Kosinski\u2019s film is retelling. And ther\u2026",
         "source_link": "https://www.ign.com/articles/austin-butler-miami-vice-85-black-ferrari-legal-reason"
       },
       {
-        "rank": 5,
+        "rank": 7,
+        "image": "https://sammyguru.com/wp-content/uploads/2026/11/Memory-thumbnail.png",
+        "title": "Exclusive: Here\u2019s Your First Look at Memory, Samsung\u2019s Take on Pixel Screenshots - SammyGuru",
+        "description": "Samsung's new Memory app saves screenshots, images, text and voice notes, then uses AI to name, tag and sort them. Here's a first look.",
+        "source_link": "https://sammyguru.com/exclusive-samsung-memory-app-first-look/"
+      },
+      {
+        "rank": 8,
+        "image": "https://www.chosun.com/resizer/v2/KITLPDG3VRBB7NNDMU4GIWU5YQ.jpg?auth=fa23af3988a305aae048a98a7406509e5f8ffed5506f43c63ac85d2471bec59c&width=1200&height=630&smart=true",
+        "title": "GTA6 Release Triggers $1B Economic Loss, Global Frenzy - \uc870\uc120\uc77c\ubcf4",
+        "description": "GTA6 Release Sparks $1 Billion Economic Loss Approximately 1.5 Million U.S. Workers Expected to Absent on Launch Day",
+        "source_link": "https://www.chosun.com/english/industry-en/2026/11/09/ME7KYHBGNNCIXB3PPQW2ULLC4Q/"
+      },
+      {
+        "rank": 9,
         "image": "https://techcrunch.com/wp-content/uploads/2026/06/SPECS27_52_Front_View81.png?resize=1200,675",
         "title": "If Snap's Specs are still ridiculously expensive, they're also a lot more comfortable than they used to be - TechCrunch",
         "description": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
         "source_link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/"
       },
       {
-        "rank": 6,
+        "rank": 10,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK108_EPIC_GAMES_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "title": "Epic Games Launcher is coming to SteamOS - The Verge",
         "description": "Epic Games confirmed that its Linux launcher will officially support SteamOS and Steam Decks.",
         "source_link": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos"
-      },
-      {
-        "rank": 7,
-        "image": "https://synthanatomy.com/wp-content/uploads/2026/11/Akai-MPC-Open-Source.jpg",
-        "title": "Akai MPC is moving toward an open platform, and the first step is here - synth anatomy",
-        "description": "The Akai MPC framework components are now open-source, including the MPC Standalone (G1 & G2), Force, and MPC Sample",
-        "source_link": "https://synthanatomy.com/2026/11/akai-mpc-is-now-open-source-standalone-and-mpc-sample.html"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Ryzen-5600X3D-16-GB-DDR4-mobo-bundle-deal.jpg",
-        "title": "For Just $249, Micro Center Bundles Ryzen 5 5600X3D, 16 GB DDR4 RAM, And B550 Motherboard For A Limited Time - Wccftech",
-        "description": "Micro Center offers a limited-time bundle: Ryzen 5600X3D, B550 motherboard, and 16 GB DDR4 RAM for just $249, saving $194.",
-        "source_link": "https://wccftech.com/ryzen-5600x3d-motherboard-and-16-gb-ddr4-bundle-micro-center-dropped-it-to-just-249/"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.bgr.com/img/gallery/3-affordable-retro-consoles-you-can-buy-from-gamestop/l-intro-1793742309.jpg",
-        "title": "3 Affordable Retro Consoles You Can Buy From GameStop - BGR",
-        "description": "Not interested or able in buying the latest gaming console or a new gaming PC? You can still find some pretty stellar deals on retro consoles.",
-        "source_link": "https://www.bgr.com/2306012/affordable-retro-consoles-buy-from-gamestop/"
-      },
-      {
-        "rank": 10,
-        "image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-08-at-17.31.26.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Ocarina of Time's tougher Master Quest might be coming back, if this datamine is right - Eurogamer.net",
-        "description": "Dataminers have found references to Master Quest in the Ocarina of Time remake's files, suggesting the tougher, mirrored mode could arrive as DLC.",
-        "source_link": "https://www.eurogamer.net/zelda-ocarina-of-time-remake-master-quest-dlc-datamine"
       }
     ],
     "trending_movies": [
@@ -97,52 +97,52 @@
       },
       {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+        "title": "Other Mommy",
+        "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increas...",
+        "source_link": "https://www.themoviedb.org/movie/1400837"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
         "title": "Heart of the Beast",
         "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness....",
         "source_link": "https://www.themoviedb.org/movie/1263337"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
         "title": "Resident Evil",
         "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
         "source_link": "https://www.themoviedb.org/movie/1423191"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
         "title": "Godzilla Minus Zero",
         "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achi...",
         "source_link": "https://www.themoviedb.org/movie/1381071"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "image": "https://image.tmdb.org/t/p/w200/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
         "title": "Ebenezer",
         "description": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Prese...",
         "source_link": "https://www.themoviedb.org/movie/1567605"
       },
       {
-        "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-        "title": "Primetime",
-        "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered drea...",
-        "source_link": "https://www.themoviedb.org/movie/1375441"
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/dPrtk4iNf6T5w8fWfg4uxDDbJSW.jpg",
+        "title": "Ramayana: Rise of a Legend",
+        "description": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love...",
+        "source_link": "https://www.themoviedb.org/movie/656908"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
         "title": "Possible Love",
         "description": "Working-class An Mi Ok and Choi Ho Seok, who have been together since middle school and are the parents of a taciturn 10-year-old, are still reckoning...",
         "source_link": "https://www.themoviedb.org/movie/1483525"
-      },
-      {
-        "rank": 10,
-        "image": "https://image.tmdb.org/t/p/w200/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
-        "title": "The Hunger Games: Sunrise on the Reaping",
-        "description": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also kno...",
-        "source_link": "https://www.themoviedb.org/movie/1300968"
       }
     ]
   }
