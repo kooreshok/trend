@@ -1,127 +1,134 @@
 {
-  "last_updated": "November 12, 2026, 17:52 UTC",
+  "last_updated": "November 12, 2026, 23:07 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://insider-gaming.com/wp-content/uploads/2026/10/goldenjoystick.jpg",
+        "title": "Golden Joystick Awards 2026 \u2013 All Award Winners - Insider Gaming",
+        "description": "The Golden Joystick Awards for 2026 were held on November 11, and Insider Gaming has the complete list of award winners.",
+        "source_link": "https://insider-gaming.com/golden-joystick-awards-2026-all-award-winners/"
+      },
+      {
+        "rank": 2,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "iCloud+ has new perk in iOS 27 if you pay for more storage - 9to5Mac",
+        "description": "In iOS 27, iCloud+ has a new benefit for its highest storage tiers: Apple Intelligence features for HomeKit cameras.",
+        "source_link": "https://9to5mac.com/2026/11/11/icloud-has-new-perk-in-ios-27-if-you-pay-for-more-storage/"
+      },
+      {
+        "rank": 3,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-voice-1.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Google Voice appears to finally be working on RCS support - 9to5Google",
+        "description": "It might finally be happening. A new Google Voice update plants seeds of RCS support, though the exact details remain...",
+        "source_link": "http://9to5google.com/2026/11/11/google-voice-rcs-support-teardown/"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost.s3.amazonaws.com%2Fpublic%2FXDVB6GBF3H4IGJHGB3AVDEL7VI_size-normalized.jpg&w=1200",
+        "title": "\u2018Grand Theft Auto VI\u2032 reportedly passes $1B in sales a week before release - The Washington Post",
+        "description": "Sensor Tower\u2019s sales tracker estimates more than 10 million copies of the game are preordered across PlayStation 5 and Xbox platforms, putting revenue above $1 billion net of returns.",
+        "source_link": "https://www.washingtonpost.com/entertainment/video-games/2026/11/11/grand-theft-auto-vi-reportedly-passes-1b-sales-week-before-release/"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Conan-Black-Pyramid-Ann_11-11-26.jpg",
+        "title": "Roguelite action RPG Conan: The Black Pyramid announced for PC - Gematsu",
+        "description": "Publisher Grindstone and developer Games Farm have announced Conan: The Black Pyramid, a roguelite action RPG \u201cwhere sword and sworcery meets cosmic horror.\u201d It supports two-player onli\u2026",
+        "source_link": "https://www.gematsu.com/2026/11/roguelite-action-rpg-conan-the-black-pyramid-announced-for-pc"
+      },
+      {
+        "rank": 6,
+        "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-tag-1_232188.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Google Pixel Tag is only available in 8 countries, and excludes Europe - 9to5Google",
+        "description": "With Google\u2019s Pixel Tag now offiically available, Google has also confirmed where the Android Find Hub tracker will be on...",
+        "source_link": "http://9to5google.com/2026/11/11/google-pixel-tag-launch-countries/"
+      },
+      {
+        "rank": 7,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png",
         "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning. - Ars Technica",
         "description": "Any amount of AI coding is too much for many Indie Game Festival judges.",
         "source_link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/"
       },
       {
-        "rank": 2,
+        "rank": 8,
+        "image": "https://www.zdnet.com/wp-content/uploads/sites/3/38545acc-df59-4d4a-b19d-d4057d0b306e.jpg",
+        "title": "Pixel users are getting a major Android Auto update \u2013 and it rivals Siri AI - ZDNET",
+        "description": "More phones are getting Gemini Intelligence, but only Pixel users can access it in a new way.",
+        "source_link": "https://www.zdnet.com/tech/android-auto-gemini-intelligence-update/"
+      },
+      {
+        "rank": 9,
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1560398364-966x648.jpg",
         "title": "Apple is shuttering its 28-year-old online community forum - Ars Technica",
         "description": "Apple has already made the forum read-only.",
         "source_link": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/"
       },
       {
-        "rank": 3,
-        "image": "https://assetsio.gnwcdn.com/hunger-early-access-screen-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "Hell Let Loose's original developers' Napoleonic-era extraction game, Hunger, gets December early access release, and an open beta this month - Eurogamer.net",
-        "description": "Hunger, the ambitious, alternate history Napoleonic-era extraction shooter-melee hybrid, enters Steam early access this December.",
-        "source_link": "https://www.eurogamer.net/hunger-extraction-napoleonic-era-early-access-date"
-      },
-      {
-        "rank": 4,
-        "image": null,
-        "title": "Windows 11 KB5132061 KB5131087 November 2026 Patch Tuesday direct download links here - Neowin",
-        "description": null,
-        "source_link": "https://www.neowin.net/news/windows-11-kb5132061-kb5131087-november-2026-patch-tuesday-direct-download-links-here/"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/20rep_opener_gta.jpg?w=1440&h=810&crop=1",
-        "title": "\u2018GTA 6\u2019 vs. Hollywood: Industry Braces for Biggest Entertainment Launch in History - The Hollywood Reporter",
-        "description": "\u2018Hunger Games,\u2019 \u2018Rings of Power' and Johnny Depp will need to weather the equivalent of an all-time box office champ bowing \u2014 which may send all movies and TV running for cover.",
-        "source_link": "http://www.hollywoodreporter.com/business/digital/gta-6-hollywood-biggest-entertainment-launch-1236752195/"
-      },
-      {
-        "rank": 6,
-        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-one-handed-front-display.jpg?quality=82&strip=all&resize=1200,628",
-        "title": "If you bought an iPhone Duo, have you kept or returned it? [Poll] - 9to5Mac",
-        "description": "When Apple announced the iPhone Duo back in September, the company called it \u201cthe most transformational change to iPhone since...",
-        "source_link": "https://9to5mac.com/2026/11/11/if-you-bought-an-iphone-duo-have-you-kept-or-returned-it-poll/"
-      },
-      {
-        "rank": 7,
-        "image": "https://assetsio.gnwcdn.com/Harada-Series-S.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-        "title": "\"I wish hardware like the Xbox Series S wouldn't be released\" - former Tekken director Katsuhiro Harada trashes Microsoft's console in front of senior Xbox staff - Eurogamer.net",
-        "description": "In a developer panel at the console game developer conference in South Korea, Harada shared his raw thoughts on the challenges on the Xbox Series S.",
-        "source_link": "https://www.eurogamer.net/katsuhiro-harada-xbox-series-s-wish-it-wouldnt-release"
-      },
-      {
-        "rank": 8,
-        "image": "https://helios-i.mashable.com/imagery/articles/02qbXqgm6gaJN8ChWS6XSyy/hero-image.fill.size_1200x675.v1794347995.jpg",
-        "title": "Samsung Galaxy S27 and S27 Ultra camera specs reportedly leaked - Mashable",
-        "description": "Samsung Galaxy fans may not be happy about all the changes, or lack thereof.",
-        "source_link": "https://mashable.com/tech/samsung-galaxy-s27-camera-specs-leak"
-      },
-      {
-        "rank": 9,
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "title": "Are your TVs spying on you? We asked their makers - The Verge",
-        "description": "After LG was accused of spying through its TVs, I wanted to see how other TV companies were collecting and protecting our data.\ufeff",
-        "source_link": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions"
+        "rank": 10,
+        "image": "https://assets-prd.ignimgs.com/2026/11/03/mxr-wowforever-promofi-1793722551273.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Blizzard Has Changed the Way Gold is Earned in WoW Forever and Players Are Loving It (So Far) - IGN",
+        "description": "For the longest time in World of Warcraft, when you finished a quest at max level, the experience you would earn would get converted to gold. But in WoW Forever, Blizzard killed off that conversion, and has now added a fix.",
+        "source_link": "https://www.ign.com/articles/blizzard-changes-gold-rewards-for-high-level-quests-and-players-are-celebrating"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
-        "title": "Model Citizen",
-        "description": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met wit...",
-        "source_link": "https://www.themoviedb.org/movie/1792170"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
         "title": "The Odyssey",
         "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
         "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
-        "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/kNxRgcTeqeU5jauBackTERoO2De.jpg",
-        "title": "Other Mommy",
-        "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increas...",
-        "source_link": "https://www.themoviedb.org/movie/1400837"
-      },
-      {
-        "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-        "title": "Never Surrender",
-        "description": "An ex-soldier and his grandchildren battle against ruthless criminals in a remote village. To survive, they must also confront their fears and regrets...",
-        "source_link": "https://www.themoviedb.org/movie/1616687"
-      },
-      {
-        "rank": 5,
+        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/tTMmREfhVd51CCg7GN73wL8cIoT.jpg",
         "title": "Avengers: Doomsday",
         "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
         "source_link": "https://www.themoviedb.org/movie/1003596"
       },
       {
-        "rank": 6,
+        "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+        "title": "Never Surrender",
+        "description": "An ex-soldier and his grandchildren battle against ruthless criminals in a remote village. To survive, they must also confront their fears and regrets...",
+        "source_link": "https://www.themoviedb.org/movie/1616687"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/kNxRgcTeqeU5jauBackTERoO2De.jpg",
+        "title": "Other Mommy",
+        "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increas...",
+        "source_link": "https://www.themoviedb.org/movie/1400837"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
         "title": "Ebenezer",
         "description": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Prese...",
         "source_link": "https://www.themoviedb.org/movie/1567605"
       },
       {
-        "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
-        "title": "The Gospel of Christmas",
-        "description": "A struggling pastor moves his family to a troubled New York neighborhood, where they must save a neglected church from foreclosure before Christmas....",
-        "source_link": "https://www.themoviedb.org/movie/1559980"
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
+        "title": "Model Citizen",
+        "description": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met wit...",
+        "source_link": "https://www.themoviedb.org/movie/1792170"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
         "title": "Resident Evil",
         "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
         "source_link": "https://www.themoviedb.org/movie/1423191"
+      },
+      {
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
+        "title": "The Gospel of Christmas",
+        "description": "A struggling pastor moves his family to a troubled New York neighborhood, where they must save a neglected church from foreclosure before Christmas....",
+        "source_link": "https://www.themoviedb.org/movie/1559980"
       },
       {
         "rank": 9,
