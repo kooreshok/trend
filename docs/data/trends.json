@@ -1,134 +1,134 @@
 {
-  "last_updated": "November 13, 2026, 04:49 UTC",
+  "last_updated": "November 13, 2026, 12:48 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.bleepstatic.com/content/hl-images/2026/11/12/Windows-11.jpg",
+        "title": "Microsoft confirms Windows security updates installation issues - BleepingComputer",
+        "description": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update.",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/"
+      },
+      {
+        "rank": 2,
+        "image": "https://helios-i.mashable.com/imagery/articles/04ksT9yZqVyXuoXxUeAUrsO/hero-image.fill.size_1200x675.v1794432763.jpg",
+        "title": "GTA 6 preorders top $1 billion as Hollywood eyes record launch weekend - Mashable",
+        "description": "Sony and Microsoft say it's already the most preordered game in the history of their digital stores.",
+        "source_link": "https://mashable.com/tech/gta-6-preorders-1-billion-hollywood"
+      },
+      {
+        "rank": 3,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6aea856746bd6f7f3553987e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "title": "The \u2018Zelda: Ocarina Of Time\u2019 Remake Sold Over 5 Million Copies In 4 Days - Forbes",
+        "description": "The recently released and thoroughly excellent remake of 'Zelda: Ocarina of Time' has managed to sell over 5 million units in its first 4 days on sale.",
+        "source_link": "https://www.forbes.com/sites/olliebarder/2026/11/11/the-zelda-ocarina-of-time-remake-sold-over-5-million-copies-in-4-days/"
+      },
+      {
+        "rank": 4,
         "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/09/19/thumb/rh2EuAs1r.jpg?crop=1250:654;0,41%26downsize=1250:*",
         "title": "45 \"Boomer\" Life Hacks That Every Young Person Should Keep In Their Notes App - BuzzFeed",
         "description": "\"I keep one in the closet and soccer it around the main level as needed.\"",
         "source_link": "https://www.buzzfeed.com/kristenharris1/boomer-life-hacks"
       },
       {
-        "rank": 2,
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/8c24/live/cdba35d0-ddc3-11f1-a50f-85eebf9e50e5.jpg",
-        "title": "Trying Tourette's device was the best day of my life - BBC",
-        "description": "Katie is one of many that say a device developed by researchers in Nottingham helped calm her symptoms.",
-        "source_link": "https://www.bbc.com/news/articles/cmp3g3e5q4zxo"
+        "rank": 5,
+        "image": "https://www.bgr.com/img/gallery/5-cool-new-features-your-google-pixel-is-getting-in-november-2026/l-intro-1794436050.jpg",
+        "title": "5 Cool New Features Your Google Pixel Is Getting In November 2026 - BGR",
+        "description": "Google Pixel owners have multiple new features to look forward to this month, as the company rolls out its latest Google Pixel Drop software update.",
+        "source_link": "https://www.bgr.com/2314333/google-pixel-cool-new-features-november-2026/"
       },
       {
-        "rank": 3,
-        "image": "https://kotaku.com/app/uploads/2026/11/honeyanddarling.jpg",
-        "title": "Hey, Nintendo, What\u2019s Going On With Zelda: Ocarina Of Time\u2019 s Most Insufferable Couple? - Kotaku",
-        "description": "We'll create...a constellation...of our very own...",
-        "source_link": "https://kotaku.com/hey-nintendo-whats-going-on-with-zelda-ocarina-of-times-most-insufferable-couple-2000755954"
+        "rank": 6,
+        "image": "https://assets-prd.ignimgs.com/2026/06/04/marvel-1780614544087.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Marvel 1943: Rise of Hydra Is Reportedly 'Close to Done,' Though at the Cost of Cutting Back on Content and Length - IGN",
+        "description": "Marvel 1943: Rise of Hydra, Amy Hennig's Captain America/Black Panther game, is reportedly close to being finished, but it sounds like it may be extremely compromised.",
+        "source_link": "https://www.ign.com/articles/marvel-1943-rise-of-hydra-is-reportedly-close-to-done-though-at-the-cost-of-cutting-back-on-content-and-length"
       },
       {
-        "rank": 4,
+        "rank": 7,
         "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_lucia_rooftop_landscape.jpg?w=1600&h=900&fit=crop",
         "title": "New GTA 6 gameplay video is leaving fans stunned - Polygon.com",
         "description": "GTA 6 fans are doing a double-take on a new gameplay clip shared by Rockstar that almost looks too good to be true",
         "source_link": "https://www.polygon.com/gta-6-new-gameplay-onlyindade-ai-real-fake-rockstar-instagram/"
       },
       {
-        "rank": 5,
-        "image": "https://kotaku.com/app/uploads/2024/03/8e222a1ffe01d783603d3ca4a3c0b240.jpg",
-        "title": "Marvel 1943 'Has Not Been Canceled,' Says Skydance Leadership, Despite Development Struggles - Kotaku",
-        "description": "Skydance producers are reassuring the team that all is well, despite rumors to the contrary",
-        "source_link": "https://kotaku.com/marvel-1943-has-not-been-canceled-despite-development-struggles-2000756025"
-      },
-      {
-        "rank": 6,
+        "rank": 8,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&strip=all&crop=0%2C10.738824991648%2C100%2C78.522350016704&w=1200",
         "title": "Hands on with Home Assistant\u2019s new \u2018smart home multi-tool\u2019 - The Verge",
         "description": "The Home Assistant Connect Aux-2 helped me track my fridge temperature and finally set up my in-wall speakers.\ufeff",
         "source_link": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on"
       },
       {
-        "rank": 7,
-        "image": "https://kotaku.com/app/uploads/2026/10/gta-burning.jpg",
-        "title": "One Company Is Giving All Of Its 7,000 Employees The Day Off To Play GTA 6 - Kotaku",
-        "description": "Everybody will get to clock-out on November 19th",
-        "source_link": "https://kotaku.com/logitech-gta-6-release-day-off-logi-game-day-2000755995"
-      },
-      {
-        "rank": 8,
-        "image": "https://assets-prd.ignimgs.com/2026/11/11/tanuki-pons-summer-blogroll-02-1794428582840.jpg?width=1280&format=jpg&auto=webp&quality=80",
-        "title": "Tanuki: Pon's Summer Review - IGN",
-        "description": "While some parts of Tanuki: Pon's Summer don't live up to what makes it special, it still captures the vibe of summer wrapped in a fun BMX delivery service.",
-        "source_link": "https://www.ign.com/articles/tanuki-pons-summer-review"
-      },
-      {
         "rank": 9,
-        "image": "https://cdn.mos.cms.futurecdn.net/ZB9C6R9UGBnJmJaF72xjE4-1920-80.jpg",
-        "title": "Resident Evil Requiem wins Ultimate Game of the Year at the Golden Joystick Awards 2026 - GamesRadar+",
-        "description": "Raccoon City supremacy",
-        "source_link": "https://www.gamesradar.com/games/resident-evil/resident-evil-requiem-wins-ultimate-game-of-the-year-at-the-golden-joystick-awards-2026/"
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-apple-developing-bigger-wide-foldables-rumor/-952x498w6/gsmarena_000.jpg",
+        "title": "Samsung and Apple are both working on bigger wide foldables, new rumor claims - GSMArena.com news - GSMArena.com",
+        "description": "Samsung Galaxy Z Fold9 Plus, meet the iPhone Duo 2 Plus. Samsung and Apple both already have wide foldables on the market in the Galaxy Z Fold8 and the...",
+        "source_link": "https://www.gsmarena.com/samsung_and_apple_are_both_working_on_bigger_wide_foldables_new_rumor_claims-news-75446.php"
       }
     ],
     "trending_movies": [
       {
         "rank": 1,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
-      },
-      {
-        "rank": 2,
         "image": "https://image.tmdb.org/t/p/w200/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
         "title": "Never Surrender",
         "description": "An ex-soldier and his grandchildren battle against ruthless criminals in a remote village. To survive, they must also confront their fears and regrets...",
         "source_link": "https://www.themoviedb.org/movie/1616687"
       },
       {
+        "rank": 2,
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
+      },
+      {
         "rank": 3,
+        "image": "https://image.tmdb.org/t/p/w200/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+        "title": "Allen",
+        "description": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated \u2014 and unexpected....",
+        "source_link": "https://www.themoviedb.org/movie/1518204"
+      },
+      {
+        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/tTMmREfhVd51CCg7GN73wL8cIoT.jpg",
         "title": "Avengers: Doomsday",
         "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
         "source_link": "https://www.themoviedb.org/movie/1003596"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/kNxRgcTeqeU5jauBackTERoO2De.jpg",
         "title": "Other Mommy",
         "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increas...",
         "source_link": "https://www.themoviedb.org/movie/1400837"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
         "title": "Ebenezer",
         "description": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Prese...",
         "source_link": "https://www.themoviedb.org/movie/1567605"
       },
       {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
-        "title": "Model Citizen",
-        "description": "With his memories gone and his past a blur, ex-cop Steven Bay seeks treatment for his amnesia while working on an isolated farm. Instead, he's met wit...",
-        "source_link": "https://www.themoviedb.org/movie/1792170"
-      },
-      {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
-        "title": "The Hunger Games: Sunrise on the Reaping",
-        "description": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also kno...",
-        "source_link": "https://www.themoviedb.org/movie/1300968"
+        "image": "https://image.tmdb.org/t/p/w200/9kHrUoPF2rl5Hj0QMquAy3xznXT.jpg",
+        "title": "The Christmas Switch",
+        "description": "Craving a change of pace, work-hard-play-hard city girl Freddie swaps lives with her homebody sister Mattie at Christmas time, only to unwrap a whole ...",
+        "source_link": "https://www.themoviedb.org/movie/1757174"
       },
       {
         "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/Ai0cPxFka7bBOF7mPrLxQThPyS0.jpg",
+        "title": "Being Heumann",
+        "description": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability ri...",
+        "source_link": "https://www.themoviedb.org/movie/1050981"
+      },
+      {
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
         "title": "Resident Evil",
         "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
         "source_link": "https://www.themoviedb.org/movie/1423191"
-      },
-      {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/ihbN6lNDXKe6w9xE6IBFMVF2Rkr.jpg",
-        "title": "The Gospel of Christmas",
-        "description": "A struggling pastor moves his family to a troubled New York neighborhood, where they must save a neglected church from foreclosure before Christmas....",
-        "source_link": "https://www.themoviedb.org/movie/1559980"
       },
       {
         "rank": 10,
