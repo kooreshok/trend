@@ -1,76 +1,55 @@
 {
-  "last_updated": "November 14, 2026, 15:29 UTC",
+  "last_updated": "November 14, 2026, 20:20 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
+        "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights - Ars Technica",
+        "description": "SignDrop\" exploit lets local users gain all-powerful System rights.",
+        "source_link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.digitalfoundry.net/73fc718c1695d/1280x720.jpg",
+        "title": "QSSR Upgrades Revealed For Six PS5 Games, Live Now in Marvel's Spider-Man 2 - Digital Foundry",
+        "description": "Plus: a new PlayStation blog explains why developers are adding the AI upscaling tech.",
+        "source_link": "https://www.digitalfoundry.net/news/2026/11/qssr-upgrades-revealed-for-six-ps5-games-live-now-in-marvels-spider-man-2"
+      },
+      {
+        "rank": 3,
         "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4UYCAEIQAQKJVU52LUFO4B3DBE.jpg&w=1440",
         "title": "The not-so-mysterious disappearance of the lunch break - The Washington Post",
         "description": "Even as some companies offer the occasional free lunch to help revive office culture, workday meals remain a solitary activity.",
         "source_link": "https://www.washingtonpost.com/business/2026/11/13/not-so-mysterious-disappearance-lunch-break/"
       },
       {
-        "rank": 2,
-        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-mbuux6cr1-1793990376243.jpg?quality=75&strip=all&1793972397&w=1200",
-        "title": "Exclusive | People are \u2018carrotmaxxing\u2019 and \u2018shrimpmaxxing\u2019 for tanner skin \u2014 no sun (or food) required - New York Post",
-        "description": "For those who don\u2019t want to go through the trouble of \u201ccarrotmaxxing,\u201d so-called tanning pills offer a convenient alternative \u2014 but dietitians warn it\u2019s even riskier than do\u2026",
-        "source_link": "https://nypost.com/2026/11/13/health/people-are-carrotmaxxing-and-shrimpmaxxing-for-tanner-skin/"
-      },
-      {
-        "rank": 3,
-        "image": "https://images.macrumors.com/t/wPYeHY6-2xS0BMyi62C601kOVDs=/1600x/article-new/2026/10/apple-pro-tell-logo.jpg",
-        "title": "Apple Launches Two Products Today - MacRumors",
-        "description": "Apple is releasing two new products today, Friday, November 13: the all-new Apple HomeView and the fourth-generation Apple TV 4K, both of which have...",
-        "source_link": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/"
-      },
-      {
         "rank": 4,
-        "image": "https://www.bleepstatic.com/content/hl-images/2026/11/12/0_Windows.jpg",
-        "title": "Microsoft confirms Windows activation failures after November updates - BleepingComputer",
-        "description": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes.",
-        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/"
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Guild-Saga-Vanished-Worlds_11-13-26.jpg",
+        "title": "Strategy RPG Guild Saga: Vanished Worlds coming to PS5 in May 2027 - Gematsu",
+        "description": "Ontario-based developer Ocelot Technologies will release strategy RPG Guild Saga: Vanished Worlds for PlayStation 5 alongside its full release for PC via Steam in May 2027, the developer announced.",
+        "source_link": "https://www.gematsu.com/2026/11/strategy-rpg-guild-saga-vanished-worlds-coming-to-ps5-in-may-2027"
       },
       {
         "rank": 5,
-        "image": "https://images.nintendolife.com/ef2581fe276ed/1280x720.jpg",
-        "title": "Zelda Ocarina's ReDead Were Set To Be \"Very, Very Scary\" In The Remake, But Nintendo Decided To \"Dial It Back\" - Nintendo Life",
-        "description": "The team maybe went \"a step too far\", according to the producer",
-        "source_link": "https://www.nintendolife.com/news/2026/11/zelda-ocarinas-redead-were-set-to-be-very-very-scary-in-the-remake-but-nintendo-decided-to-dial-it-back"
+        "image": "https://www.bleepstatic.com/content/hl-images/2026/10/28/Microsoft.jpg",
+        "title": "Microsoft says November security updates cause printing issues - BleepingComputer",
+        "description": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting.",
+        "source_link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/"
       },
       {
         "rank": 6,
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/11/google_calculator_2.jpg",
+        "title": "Here\u2019s a demo of Google Calculator\u2019s new Unit Conversion feature and a preview of Pixel Solver - Android Authority",
+        "description": "We got Google Calculator 10.0\u2019s new Unit Conversion feature working, along with the UI for the Gemini-powered Pixel Solver. Take a look!",
+        "source_link": "https://www.androidauthority.com/google-calculator-unit-conversion-demo-3734899/"
+      },
+      {
+        "rank": 7,
         "image": "https://www.techpowerup.com/img/TuL11dwliNqllxF2.jpg",
         "title": "Xbox Confirms Wolfenstein 3 Coming Soon and Id Software Teases Next Doom Game - TechPowerUp",
         "description": "It's been a busy week at Xbox Game Studios, with the gaming giant celebrating its 25th anniversary with a slew of new additions to its Xbox Backwards Compatibility on PC program, but it seems as though Xbox CEO, Asha Sharma, had one more trick up her sleeve, \u2026",
         "source_link": "https://www.techpowerup.com/354770/xbox-confirms-wolfenstein-3-coming-soon-and-id-software-teases-next-doom-game"
-      },
-      {
-        "rank": 7,
-        "image": "https://helios-i.mashable.com/imagery/articles/05XVX6vPIR8mgHHxh9VKyt2/hero-image.fill.size_1200x675.v1794408558.jpg",
-        "title": "NYT Strands hints, answers for November 12, 2026 - Mashable",
-        "description": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle.",
-        "source_link": "https://mashable.com/entertainment/strands-nyt-hint-november-12-2026"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.nintendolife.com/7bb185c8284db/1280x720.jpg",
-        "title": "Round Up: The Reviews Are In For Metaphor: ReFantazio's Switch 2 Port - Nintendo Life",
-        "description": "Here's what the critics think",
-        "source_link": "https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-metaphor-refantazios-switch-2-port"
-      },
-      {
-        "rank": 9,
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GTA6PS5ProBannerNewest.jpg",
-        "title": "Rockstar says GTA 6 PS5 Pro build ran at 60 fps with major performance compromises - Notebookcheck",
-        "description": "Rockstar may have experimented with a higher framerate mode on the PS5 Pro. In a leaked interview, the studio explained that Leonida traffic and realistic NPCs proved obstacles. As with the Xbox Series X and base PS5, GTA 6 won\u2019t exceed 30 fps on the enhanced\u2026",
-        "source_link": "https://www.notebookcheck.net/Rockstar-says-GTA-6-PS5-Pro-build-ran-at-60-fps-with-major-performance-compromises.1449081.0.html"
-      },
-      {
-        "rank": 10,
-        "image": "https://images.macrumors.com/t/Klp9x3R0niKAd-wJW65m-OsfTJk=/2500x/article-new/2026/11/Apple-TV-4K-Thumb-2.jpg",
-        "title": "Hands-On With the New Apple TV 4K and Siri AI - MacRumors",
-        "description": "The 4th-generation Apple TV 4K with an A19 chip and Siri AI support is available starting on November 13, and we were able to spend some time with it...",
-        "source_link": "https://www.macrumors.com/2026/11/12/apple-tv-4k-siri-hands-on/"
       }
     ],
     "trending_movies": [
@@ -90,17 +69,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
-        "title": "Allen",
-        "description": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated \u2014 and unexpected....",
-        "source_link": "https://www.themoviedb.org/movie/1518204"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
         "title": "The Beast",
         "description": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified...",
         "source_link": "https://www.themoviedb.org/movie/1185344"
+      },
+      {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+        "title": "Allen",
+        "description": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated \u2014 and unexpected....",
+        "source_link": "https://www.themoviedb.org/movie/1518204"
       },
       {
         "rank": 5,
