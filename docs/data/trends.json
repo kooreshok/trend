@@ -1,62 +1,69 @@
 {
-  "last_updated": "November 15, 2026, 00:40 UTC",
+  "last_updated": "November 15, 2026, 07:28 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.techpowerup.com/img/nDobEMfsaP1UYPq3.jpg",
+        "title": "AMD Loses Desktop CPU Share for the First Time in Months, Intel Regains Ground - TechPowerUp",
+        "description": "AMD's share of desktop CPU shipments fell to 29.9% in the third quarter of 2026, according to new Mercury Research data, shared by PC Gamer. That's a five-point drop from the 34.9% AMD held in Q2, with Intel climbing back to 70.1%. It's also AMD's lowest desk\u2026",
+        "source_link": "https://www.techpowerup.com/354824/amd-loses-desktop-cpu-share-for-the-first-time-in-months-intel-regains-ground"
+      },
+      {
+        "rank": 2,
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/05c7/live/ef232fd0-df7e-11f1-a701-fddedf244c16.jpg",
+        "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6 - BBC",
+        "description": "The next title in the series is expected to be the biggest video game release ever.",
+        "source_link": "https://www.bbc.com/news/articles/c6jd7k5ryl1mo"
+      },
+      {
+        "rank": 3,
+        "image": "https://images.nintendolife.com/a5aa76dae99c3/1280x720.jpg",
+        "title": "Metaphor: ReFantazio Switch 2 Patch To Resolve Colour Glitch - Nintendo Life",
+        "description": "Have you encountered it?",
+        "source_link": "https://www.nintendolife.com/news/2026/11/metaphor-refantazio-switch-2-patch-to-resolve-colour-glitch"
+      },
+      {
+        "rank": 4,
+        "image": "https://www.sciencealert.com/images/2026/11/melty-watches-1200x675.png",
+        "title": "Physicists Find a Mathematical Limit to Making Time Run Backward - ScienceAlert",
+        "description": "Our experience of time seems uniform and unidirectional, but relativity allows it to be a bit more loosey-goosey than you might expect.",
+        "source_link": "https://www.sciencealert.com/physicists-find-a-mathematical-limit-to-making-time-run-backward"
+      },
+      {
+        "rank": 5,
+        "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3403.jpg?resize=1200,925",
+        "title": "Amazon\u2019s new Kindle Colorsoft is a premium e-reader with a premium price - TechCrunch",
+        "description": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there\u2019s little reason to upgrade.",
+        "source_link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/"
+      },
+      {
+        "rank": 6,
+        "image": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg",
+        "title": "Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs - MacRumors",
+        "description": "Apple today released tvOS 27.2.1, an update to the tvOS 27 operating system that launched in September. tvOS 27.2.1 comes nearly three weeks after...",
+        "source_link": "https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1/"
+      },
+      {
+        "rank": 7,
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-4.13.31-PM.png?quality=90&strip=all&crop=0%2C3.3036486111791%2C100%2C93.392702777642&w=1200",
         "title": "Here\u2019s how you can save on your GTA VI preorder ahead of launch - The Verge",
         "description": "Multiple retailers have gift cards for both the Sony PlayStation and Microsoft Xbox stores, so you can still save on your last-minute GTA VI preorder.",
         "source_link": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale"
       },
       {
-        "rank": 2,
-        "image": "https://images.macrumors.com/t/mRLYQmlqjqp5-ckpOs7_Jo4B0js=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View3.jpg",
-        "title": "Apple TV 4K Launch Day Deal Arrives at Amazon - MacRumors",
-        "description": "Amazon today is back with a discount on the brand new A19 Apple TV 4K for launch day, available for $289.99, down from $299.00. This is a...",
-        "source_link": "https://www.macrumors.com/2026/11/13/apple-tv-4k-launch-day-deal/"
+        "rank": 8,
+        "image": "https://assets-prd.ignimgs.com/2026/09/19/forever-1789805930640.png?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "WoW Forever Has a Weekly Quest That Can Reward Up to 100 Gold, and Players Don't Love It - IGN",
+        "description": "Just a couple days after Blizzard changed the way gold was earned in max-level quests WoW Forever, the company has implemented a weekly quest with loot-box-style gold reward. And players don't love it.",
+        "source_link": "https://www.ign.com/articles/wow-forever-has-a-weekly-quest-that-can-reward-up-to-100-gold-and-players-dont-love-it"
       },
       {
-        "rank": 3,
+        "rank": 9,
         "image": "https://www.cnet.com/wp-content/uploads/sites/2/2192.jpeg",
         "title": "After 3 Weeks and More Than 400,000 Folds, the iPhone Duo's Hinge Is Finally Starting to Fail - CNET",
         "description": "We built a machine to fold the iPhone Duo until it breaks. Twenty days of 24/7 folding later, Apple's phone shows the first major sign of wear.",
         "source_link": "https://www.cnet.com/tech/mobile/iphone-duo-fold-test-3-weeks-starting-fail/"
-      },
-      {
-        "rank": 4,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
-        "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights - Ars Technica",
-        "description": "SignDrop\" exploit lets local users gain all-powerful System rights.",
-        "source_link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
-      },
-      {
-        "rank": 5,
-        "image": "https://media.dcrainmaker.com/images/2026/11/GarminDeals-1.jpg",
-        "title": "Garmin Sales Begin: Huge deals on Garmin Fenix, Edge, Forerunner Series and more! - DC Rainmaker",
-        "description": "Every Garmin Black Friday 2026 deal in one big list, with which ones to buy, and which ones to skip!",
-        "source_link": "https://www.dcrainmaker.com/2026/11/garmin-sales-begin-huge-deals-on-garmin-fenix-edge-forerunner-series-and-more.html"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.digitalfoundry.net/73fc718c1695d/1280x720.jpg",
-        "title": "QSSR Upgrades Revealed For Six PS5 Games, Live Now in Marvel's Spider-Man 2 - Digital Foundry",
-        "description": "Plus: a new PlayStation blog explains why developers are adding the AI upscaling tech.",
-        "source_link": "https://www.digitalfoundry.net/news/2026/11/qssr-upgrades-revealed-for-six-ps5-games-live-now-in-marvels-spider-man-2"
-      },
-      {
-        "rank": 7,
-        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/GTA-6-Official_Cover_Art_landscape-c3e36df9ed6c80b13d50.jpg",
-        "title": "Next Week on XBOX: New Games for November 16 to 20 - XBOX Wire",
-        "description": "Next Week on XBOX: Grand Theft Auto VI, Unicorn Academy: Island of Magic, Dark Rail, and more coming soon!",
-        "source_link": "https://news.xbox.com/en-us/2026/11/13/next-week-on-xbox-new-games-for-november-16-to-20/"
-      },
-      {
-        "rank": 8,
-        "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4UYCAEIQAQKJVU52LUFO4B3DBE.jpg&w=1440",
-        "title": "The not-so-mysterious disappearance of the lunch break - The Washington Post",
-        "description": "Even as some companies offer the occasional free lunch to help revive office culture, workday meals remain a solitary activity.",
-        "source_link": "https://www.washingtonpost.com/business/2026/11/13/not-so-mysterious-disappearance-lunch-break/"
       }
     ],
     "trending_movies": [
@@ -76,17 +83,17 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/tTMmREfhVd51CCg7GN73wL8cIoT.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
         "title": "Avengers: Doomsday",
         "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
         "source_link": "https://www.themoviedb.org/movie/1003596"
       },
       {
         "rank": 4,
-        "image": "https://image.tmdb.org/t/p/w200/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-        "title": "Other Mommy",
-        "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increas...",
-        "source_link": "https://www.themoviedb.org/movie/1400837"
+        "image": "https://image.tmdb.org/t/p/w200/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+        "title": "Heartland",
+        "description": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance....",
+        "source_link": "https://www.themoviedb.org/movie/1543469"
       },
       {
         "rank": 5,
@@ -97,31 +104,31 @@
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-        "title": "Heartland",
-        "description": "A former country star, Misty Jones, comes out of seclusion to investigate the disappearance of her missing niece, a rising country musician and must g...",
-        "source_link": "https://www.themoviedb.org/movie/1543469"
+        "image": "https://image.tmdb.org/t/p/w200/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+        "title": "Other Mommy",
+        "description": "7-year-old Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and in...",
+        "source_link": "https://www.themoviedb.org/movie/1400837"
       },
       {
         "rank": 7,
-        "image": "https://image.tmdb.org/t/p/w200/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg",
-        "title": "Being Heumann",
-        "description": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability ri...",
-        "source_link": "https://www.themoviedb.org/movie/1050981"
+        "image": "https://image.tmdb.org/t/p/w200/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+        "title": "Heart of the Beast",
+        "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness....",
+        "source_link": "https://www.themoviedb.org/movie/1263337"
       },
       {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
-        "title": "The Hunger Games: Sunrise on the Reaping",
-        "description": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also kno...",
-        "source_link": "https://www.themoviedb.org/movie/1300968"
-      },
-      {
-        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
         "title": "Resident Evil",
         "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
         "source_link": "https://www.themoviedb.org/movie/1423191"
+      },
+      {
+        "rank": 9,
+        "image": "https://image.tmdb.org/t/p/w200/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+        "title": "Godzilla Minus Zero",
+        "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achi...",
+        "source_link": "https://www.themoviedb.org/movie/1381071"
       },
       {
         "rank": 10,
