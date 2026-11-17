@@ -1,76 +1,55 @@
 {
-  "last_updated": "November 17, 2026, 01:29 UTC",
+  "last_updated": "November 17, 2026, 10:03 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://www.bgr.com/img/gallery/4-belkin-accessories-to-keep-in-your-car/l-intro-1794519097.jpg",
+        "title": "4 Belkin Accessories To Keep In Your Car - BGR",
+        "description": "There are many accessories that can elevate your driving experience, and these Belkin offerings are among them.",
+        "source_link": "https://www.bgr.com/2315483/best-belkin-accessories-for-car/"
+      },
+      {
+        "rank": 2,
+        "image": null,
+        "title": "The iPhone 20 Pro might be Apple\u2019s least interesting release for the 20th anniversary of the iPhone - PhoneArena",
+        "description": null,
+        "source_link": "https://www.phonearena.com/news/iphone-20-pro-might-be-apples-least-interesting-release-for-20th-anniversary-of-iphone_id184846"
+      },
+      {
+        "rank": 3,
+        "image": "https://www.windowslatest.com/wp-content/uploads/2026/11/Windows-11-Remote-Lock-with-the-Device-Locked-screen-on-a-work-laptop-locked-by-IT-through-Microsoft-Intune.jpg",
+        "title": "Your Windows 11 work laptop can now be locked remotely, and no password, PIN or admin account can get you back in, only IT can - Windows Latest",
+        "description": "Microsoft is testing Remote Lock for Windows 11, letting IT block sign-in on a lost or stolen work laptop via Intune without wiping files.",
+        "source_link": "https://www.windowslatest.com/2026/11/16/your-windows-11-work-laptop-can-now-be-locked-remotely-and-no-password-pin-or-admin-account-can-get-you-back-in-only-it-can/"
+      },
+      {
+        "rank": 4,
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/09/samsung-galaxy-phone-running-the-gallery-app-with-samsung-gallery-and-google-photos-icons.jpg?w=1600&h=900&fit=crop",
+        "title": "I've been using Google Photos for years, but Samsung Gallery's new sync finally won me back - Android Police",
+        "description": "Google storage is the simple upgrade that brings me back to Samsung Gallery",
+        "source_link": "https://www.androidpolice.com/i-use-google-photos-for-years-but-samsung-new-gallery-sync-won-me-back/"
+      },
+      {
+        "rank": 5,
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628",
+        "title": "Apple\u2019s Messages app keeps getting better; here are my favorite updates - 9to5Mac",
+        "description": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down...",
+        "source_link": "https://9to5mac.com/2026/11/15/apples-messages-app-keeps-getting-better-here-are-my-favorite-updates/"
+      },
+      {
+        "rank": 6,
+        "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Netcode-Warriors-PS5_11-15-26.jpg",
+        "title": "Netcode Warriors adds PS5 version, launches in 2027 - Gematsu",
+        "description": "Anime-inspired arena fighting game Netcode Warriors will launch for PlayStation 5 and PC via Steam in 2027, developer Son Studios announced. The PlayStation 5 version is newly announced.",
+        "source_link": "https://www.gematsu.com/2026/11/netcode-warriors-adds-ps5-version-launches-in-2027"
+      },
+      {
+        "rank": 7,
         "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Lenovo-Googlebook-Duet-13-3.webp?resize=1200,628",
         "title": "\u2018Lenovo Googlebook Duet 13\u2019 leak points to January launch [Gallery] - 9to5Google",
         "description": "Google teased that detachable Googlebooks are coming, and a leak today provides the best look at the \u201cLenovo Googlebook Duet 13\u201d yet.",
         "source_link": "http://9to5google.com/2026/11/15/lenovo-googlebook-duet-13-leak/"
-      },
-      {
-        "rank": 2,
-        "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Mega-Man-Dual-Override_2026_11-15-26_002.jpg",
-        "title": "Mega Man: Dual Override Boss Design Contest winner Cleanser Man revealed - Gematsu",
-        "description": "Capcom has revealed Mega Man: Dual Override Boss Design Contest winner Cleanser Man, who will appear in the game as one of its Robot Master bosses.",
-        "source_link": "https://www.gematsu.com/2026/11/mega-man-dual-override-boss-design-contest-winner-cleanser-man-revealed"
-      },
-      {
-        "rank": 3,
-        "image": null,
-        "title": "\"Real\" Galaxy S27 Ultra design suggests aesthetics are low on the list - PhoneArena",
-        "description": null,
-        "source_link": "https://www.phonearena.com/news/galaxy-s27-ultra-s27-pro-design_id184842"
-      },
-      {
-        "rank": 4,
-        "image": "https://cdn.videocardz.com/1/2026/11/INTEL-CORE-RAZOR-LAKE-.webp",
-        "title": "Intel Razor Lake reportedly gets 12 P-core-only die with bLLC on Intel 18A-P - VideoCardz.com",
-        "description": "A new Razor Lake leak reveals a 12+0+4 processor built on Intel 18A-P. The unlocked configuration replaces a previously rumored eight P-core model with bLLC.",
-        "source_link": "https://videocardz.com/newz/intel-razor-lake-reportedly-gets-12-p-core-only-die-with-bllc-on-intel-18a-p"
-      },
-      {
-        "rank": 5,
-        "image": "https://www.techspot.com/images2/news/bigimage/2026/11/2026-11-15-image-11.jpg",
-        "title": "Windows now runs on the iPhone Duo without a jailbreak - TechSpot",
-        "description": "The project, called WindowsiOS, comes from Ammaar Reshi, who leads product and design at Google AI Studio. He posted a demo on X this week and shared...",
-        "source_link": "https://www.techspot.com/news/114561-windows-now-runs-iphone-duo-without-jailbreak.html"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.purexbox.com/f34292f1d2c8d/1280x720.jpg",
-        "title": "'The Ultimate Gaming Machine' - Xbox Reveals Tons Of New Project Helix Information - Pure Xbox",
-        "description": "Also clarifying that it's definitely a console and not a PC",
-        "source_link": "https://www.purexbox.com/news/2026/11/the-ultimate-gaming-machine-xbox-reveals-tons-of-new-project-helix-information"
-      },
-      {
-        "rank": 7,
-        "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800",
-        "title": "Flaming Hydra\u2019s new Kickstarter campaign rethinks e-book ownership and digital lending - TechCrunch",
-        "description": "A new Kickstarter campaign aims to usher in the \u201creturn of the human internet.\u201d",
-        "source_link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/"
-      },
-      {
-        "rank": 8,
-        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22138241/Immortals_Fenyx_Rising_beginners_guide.png?w=1600&h=900&fit=crop",
-        "title": "8 Must-Play Open-World RPGs for People With Real-Life Schedules - Polygon.com",
-        "description": "Busy schedule with no time to game?\u00a0 These eight open-world RPGs fit into short sessions, one quest or shrine at a time.",
-        "source_link": "https://www.polygon.com/open-world-rpgs-real-life-schedules/"
-      },
-      {
-        "rank": 9,
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-42.jpg",
-        "title": "Windows 11 \u201cSignDrop\u201d Zero-Day Exploit Turns Microsoft\u2019s Own Security Fix Against Itself, Grants SYSTEM Privileges - Wccftech",
-        "description": "A new Windows 11 zero-day called SignDrop exploits Microsoft's CLFS security mitigation to gain SYSTEM privileges. Microsoft is investigating.",
-        "source_link": "https://wccftech.com/windows-11-signdrop-zero-day-exploit-turns-microsofts-own-security-fix-against-itself-grants-system-privileges/"
-      },
-      {
-        "rank": 10,
-        "image": "https://cdn.videocardz.com/1/2026/11/GTA6-NO-DISC-NO-CODE.webp",
-        "title": "GTA 6 physical copies have no discs, and some apparently have no download codes either - VideoCardz.com",
-        "description": "Some GTA 6 buyers are opening their physical copies only to find no game disc or download code. Reports suggest a packaging error affecting certain copies.",
-        "source_link": "https://videocardz.com/newz/gta-6-physical-copies-have-no-discs-and-some-apparently-have-no-download-codes-either"
       }
     ],
     "trending_movies": [
@@ -83,66 +62,66 @@
       },
       {
         "rank": 2,
-        "image": "https://image.tmdb.org/t/p/w200/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
+        "image": "https://image.tmdb.org/t/p/w200/kONfwpf0AZzvL1zqjZV9C89g1PY.jpg",
         "title": "The Hunger Games: Sunrise on the Reaping",
         "description": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also kno...",
         "source_link": "https://www.themoviedb.org/movie/1300968"
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
-        "title": "The Beast",
-        "description": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified...",
-        "source_link": "https://www.themoviedb.org/movie/1185344"
-      },
-      {
-        "rank": 4,
         "image": "https://image.tmdb.org/t/p/w200/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
         "title": "Avengers: Doomsday",
         "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
         "source_link": "https://www.themoviedb.org/movie/1003596"
       },
       {
+        "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+        "title": "The Beast",
+        "description": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified...",
+        "source_link": "https://www.themoviedb.org/movie/1185344"
+      },
+      {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-        "title": "Godzilla Minus Zero",
-        "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achi...",
-        "source_link": "https://www.themoviedb.org/movie/1381071"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-        "title": "Other Mommy",
-        "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increas...",
-        "source_link": "https://www.themoviedb.org/movie/1400837"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
         "title": "Ebenezer",
         "description": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Prese...",
         "source_link": "https://www.themoviedb.org/movie/1567605"
       },
       {
+        "rank": 6,
+        "image": "https://image.tmdb.org/t/p/w200/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+        "title": "Godzilla Minus Zero",
+        "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achi...",
+        "source_link": "https://www.themoviedb.org/movie/1381071"
+      },
+      {
+        "rank": 7,
+        "image": "https://image.tmdb.org/t/p/w200/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+        "title": "Other Mommy",
+        "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increas...",
+        "source_link": "https://www.themoviedb.org/movie/1400837"
+      },
+      {
         "rank": 8,
-        "image": "https://image.tmdb.org/t/p/w200/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-        "title": "Heartland",
-        "description": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance....",
-        "source_link": "https://www.themoviedb.org/movie/1543469"
+        "image": "https://image.tmdb.org/t/p/w200/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
+        "title": "Dune: Part Three",
+        "description": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as ol...",
+        "source_link": "https://www.themoviedb.org/movie/1170608"
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
-        "title": "Allen",
-        "description": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated \u2014 and unexpected....",
-        "source_link": "https://www.themoviedb.org/movie/1518204"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
         "title": "Resident Evil",
         "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos....",
         "source_link": "https://www.themoviedb.org/movie/1423191"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+        "title": "Heartland",
+        "description": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance....",
+        "source_link": "https://www.themoviedb.org/movie/1543469"
       }
     ]
   }
