@@ -1,69 +1,76 @@
 {
-  "last_updated": "November 22, 2026, 07:42 UTC",
+  "last_updated": "November 22, 2026, 15:52 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://s.yimg.com/lo/mysterio/api/cb465dbd9e555e26264ab0e0e7c850b4a8776245cf5ed282157575ccaefdaf4e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F05c81689-1b9a-4fe3-aa29-5bb098715078",
+        "title": "\u2018GTA 6\u2019 live updates: Record $3.8 billion launch, viral clips and the secrets players are finding in Leonida - Yahoo Tech",
+        "description": "GTA 6 had a record $3.79 billion launch day. Players are now finding Easter eggs, celebrity cameos and hidden tributes across Leonida.",
+        "source_link": "https://tech.yahoo.com/gaming/breaking-news/live/gta-6-live-updates-record-38-billion-launch-viral-clips-and-the-secrets-players-are-finding-in-leonida-163038757.html"
+      },
+      {
+        "rank": 2,
+        "image": "https://images.pushsquare.com/ed14528064898/1280x720.jpg",
+        "title": "GTA 6 PS5 Review Bombing Out of Control as Zelda Receives Revenge Ratings - Push Square",
+        "description": "Counter-attack",
+        "source_link": "https://www.pushsquare.com/news/2026/11/gta-6-ps5-review-bombing-out-of-control-as-zelda-receives-revenge-ratings"
+      },
+      {
+        "rank": 3,
+        "image": null,
+        "title": "How To Execute A Perfect \u2018GTA 6\u2019 Robbery For Maximum Money - Forbes",
+        "description": null,
+        "source_link": "https://www.forbes.com/sites/paultassi/2026/11/21/how-to-execute-a-perfect-gta-6-robbery-for-maximum-money/"
+      },
+      {
+        "rank": 4,
+        "image": "https://compote.slate.com/images/7386b0d7-dd27-4290-a635-8ab5931f8464.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+        "title": "My Mother-in-Law Only Wants to Talk About One Creepy Thing at Family Gatherings. I Can\u2019t Take Another Minute. - Slate",
+        "description": "I swear if she gets going at Thanksgiving, I\u2019m out.",
+        "source_link": "https://slate.com/advice/2026/11/dear-prudence-mil-creepy-conversation.html"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/20/USAT/92883812007-getty-images-2304096611.jpg?crop=8184,4603,x0,y341&width=3200&height=1800&format=pjpg&auto=webp",
+        "title": "The best GTA 6 jokes are funny even if you haven't played it - USA Today",
+        "description": "Here are all the best jokes about Grand Theft Auto VI, which is generating a lot of memes and commentary online.",
+        "source_link": "https://www.usatoday.com/story/entertainment/internet-culture/2026/11/21/gta-6-jokes-memes-grand-theft-auto-vi-video-games-internet-boyfriend/92882440007/"
+      },
+      {
+        "rank": 6,
+        "image": "https://helios-i.mashable.com/imagery/articles/026tKA0eDnzhKEdGpBFauYL/hero-image.fill.size_1200x675.v1795199756.jpg",
+        "title": "Can teens play 'GTA 6'? What parents need to know. - Mashable",
+        "description": "A guide for parents who worry about saying yes or no.",
+        "source_link": "https://mashable.com/entertainment/gta-6-what-parents-need-to-know"
+      },
+      {
+        "rank": 7,
         "image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display-20.jpg?quality=82&strip=all&resize=1200,628",
         "title": "Samsung might copy the iPhone\u2019s Dynamic Island soon, but it actually looks good [Video] - 9to5Google",
         "description": "A new leak suggests that Samsung is preparing to copy the iPhone\u2019s Dynamic Island feature in the not-too-distant future, to...",
         "source_link": "http://9to5google.com/2026/11/20/samsung-iphone-dynamic-island-feature-leak/"
       },
       {
-        "rank": 2,
-        "image": "https://kotaku.com/app/uploads/2026/02/Xbox-gta.jpg",
-        "title": "Here Are Some Super Useful Control Shortcuts GTA 6 Doesn\u2019t Tell You About - Kotaku",
-        "description": "Did you know you can turn your radio on and off without using a submenu?",
-        "source_link": "https://kotaku.com/here-are-some-super-useful-control-shortcuts-gta-6-doesnt-tell-you-about-2000759100"
+        "rank": 8,
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/16/22/thumb/phbRwTaW9.jpg?crop=2999:1570;0,2%26downsize=1250:*",
+        "title": "\"I Was Surrounded By A Herd Of Escaped Emus\": People Are Sharing The Wildest \u201cSorry I Was Late\u201d Stories That Ended Up Being Completely True, And My Gobs Are Sufficiently Smacked - BuzzFeed",
+        "description": "\"My manager definitely suspected I was lying and told me so the next day. Luckily, it made the local news, and I was able to show him the clip.\"",
+        "source_link": "https://www.buzzfeed.com/jake_farrington/unbelieveable-reason-to-be-late-stories-reddit"
       },
       {
-        "rank": 3,
+        "rank": 9,
         "image": "https://www.techpowerup.com/img/1Se6PYMg42pnjKvV.jpg",
         "title": "NVIDIA's SSD Write Bug Gets Patched in GeForce Hotfix 621.35 Driver - TechPowerUp",
         "description": "NVIDIA today has released the GeForce Hotfix 621.35 driver to fix the bug that was hammering SSDs while idle. There is only one fix in the release: \"Excessive writes to file nvlog.nvlgstg may occur in the background,\" and that was all that was needed on an ur\u2026",
         "source_link": "https://www.techpowerup.com/355072/nvidias-ssd-write-bug-gets-patched-in-geforce-hotfix-621-35-driver"
       },
       {
-        "rank": 4,
-        "image": "https://news.tfw2005.com/wp-content/uploads/sites/10/2026/11/BlokeesYearly1.jpg",
-        "title": "Transformers Blokees Yearly Edition 2027 Revealed - TFW2005",
-        "description": "Thanks to Dinobot Scorn\u00a0and TFW User John Blokees we have our first look at the Blokees Yearly Edition for 2027. They are all clear plastic repaints of the Optimus Prime from Galaxy Wave 8: One Shall Fall. No official word yet on when they'll be out but that \u2026",
-        "source_link": "https://news.tfw2005.com/2026/11/20/blokees-yearly-edition-2027-revealed-579004"
-      },
-      {
-        "rank": 5,
-        "image": "https://media.wired.com/photos/6b008734209518b1b255d3f5/191:100/w_1280,c_limit/Law-Enforcement-GTA-Recruitment-Culture-Lucia_Caminos_05.jpg",
-        "title": "Cops Are Pushing Extremely Corny \u2018GTA VI\u2019 Slop - WIRED",
-        "description": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn\u2019t get the memo.",
-        "source_link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/"
-      },
-      {
-        "rank": 6,
-        "image": "https://media.audubon.org/2026-11/gta-still.jpg?width=1200&height=630&auto=webp&quality=90&fit=crop&enable=upscale",
-        "title": "I Tracked Down All 60 Birds in GTA 6: A Birder\u2019s Guide to Vice City\u2019s Wildlife - National Audubon Society",
-        "description": "From Roseate Spoonbills in the Grassrivers to gulls over Vice Beach, here is what it takes to find Leonida\u2019s birds, how the spotting mechanics play, and what Rockstar\u2019s artists got right.",
-        "source_link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife"
-      },
-      {
-        "rank": 7,
-        "image": "https://www.cnet.com/wp-content/uploads/sites/2/aafd7716-1c2d-4e97-8b9e-1e5f6e0bc1e3.jpg",
-        "title": "Google Is Killing the Nest App. Here\u2019s What Comes Next - CNET",
-        "description": "Don't panic: All your devices should transfer over to Google Home fairly seamlessly.",
-        "source_link": "https://www.cnet.com/home/smart-home/nest-app-google-assistant-sunset/"
-      },
-      {
-        "rank": 8,
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
-        "title": "Google's latest search page redesign drops the search button, adds AI sidebar - Ars Technica",
-        "description": "Google search is making it even easier to access AI tools on the search page.",
-        "source_link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
-      },
-      {
-        "rank": 9,
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261116-best-wired-headphones-lf-main-84ce4e.jpg",
-        "title": "Wired headphones are making a major comeback \u2014 here are the best pairs to shop now - NBC News",
-        "description": "Wired headphones are making a comeback. Here are the top-rated wired earbuds and headphones, including Bose\u2019s new release and Apple\u2019s original earbuds.",
-        "source_link": "https://www.nbcnews.com/select/shopping/best-wired-headphones-rcna610454"
+        "rank": 10,
+        "image": "https://assets-prd.ignimgs.com/2026/11/20/mandy-actress-speaks-out-gta6-1795216516675.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "'Let Me Know If You Find Me' \u2014 Mandy's Actor Speaks Out As GTA 6 Releases Worldwide - IGN",
+        "description": "Lexie Shoaibi, the actor who plays Mandy in GTA 6, is speaking out now that the game has been officially released worldwide.",
+        "source_link": "https://www.ign.com/articles/actor-who-plays-mandy-in-gta-6-excitedly-speaks-out-after-character-goes-viral"
       }
     ],
     "trending_movies": [
@@ -90,24 +97,24 @@
       },
       {
         "rank": 4,
+        "image": "https://image.tmdb.org/t/p/w200/kQA44KCjcI284f3uxCRAdiS9blt.jpg",
+        "title": "Battle Through the Heavens Movie\uff1aDuel of the Two Dou Emperors",
+        "description": "...",
+        "source_link": "https://www.themoviedb.org/movie/1599184"
+      },
+      {
+        "rank": 5,
         "image": "https://image.tmdb.org/t/p/w200/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
         "title": "Avengers: Doomsday",
         "description": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encounte...",
         "source_link": "https://www.themoviedb.org/movie/1003596"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "image": "https://image.tmdb.org/t/p/w200/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg",
         "title": "Perfect Liars",
         "description": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about ...",
         "source_link": "https://www.themoviedb.org/movie/1568060"
-      },
-      {
-        "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/kQA44KCjcI284f3uxCRAdiS9blt.jpg",
-        "title": "Battle Through the Heavens Movie\uff1aDuel of the Two Dou Emperors",
-        "description": "...",
-        "source_link": "https://www.themoviedb.org/movie/1599184"
       },
       {
         "rank": 7,
@@ -125,17 +132,17 @@
       },
       {
         "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
-        "title": "Godzilla Minus Zero",
-        "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achi...",
-        "source_link": "https://www.themoviedb.org/movie/1381071"
-      },
-      {
-        "rank": 10,
         "image": "https://image.tmdb.org/t/p/w200/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
         "title": "The Beast",
         "description": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified...",
         "source_link": "https://www.themoviedb.org/movie/1185344"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+        "title": "Godzilla Minus Zero",
+        "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achi...",
+        "source_link": "https://www.themoviedb.org/movie/1381071"
       }
     ]
   }
