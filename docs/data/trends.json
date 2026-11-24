@@ -1,62 +1,76 @@
 {
-  "last_updated": "November 23, 2026, 23:17 UTC",
+  "last_updated": "November 24, 2026, 08:06 UTC",
   "categories": {
     "tech_news": [
       {
         "rank": 1,
+        "image": "https://img.ksl.com/slc/3209/320927/32092728.jpg?filter=kslv2/responsive_story_lg",
+        "title": "'Grand Theft Auto VI' sets record with $3.79B in first-day retail sales, Rockstar Games reports - KSL News",
+        "description": "Rockstar Games announces that \"Grand Theft Auto VI\" has generated a record $3.79 billion in first-day retail sales. The game launched Thursday, marking the first new installment in the series in 13 years.",
+        "source_link": "https://www.ksl.com/article/51647136/grand-theft-auto-vi-sets-record-with-379b-in-first-day-retail-sales-rockstar-games-reports"
+      },
+      {
+        "rank": 2,
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kodak1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+        "title": "Kodak\u2019s next collectible is a tiny digital photo frame that doubles as a tracker - The Verge",
+        "description": "The Kodak SlideTag is a keychain-sized digital photo frame featuring a low-power color E Ink screen and tracking capabilities using Google\u2019s and Apple\u2019s networks.",
+        "source_link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink"
+      },
+      {
+        "rank": 3,
+        "image": "https://cdn.mos.cms.futurecdn.net/czoRHbvWfHJbL85heMhBaV-2560-80.jpg",
+        "title": "I\u2019m tracking the best Black Friday streaming deals LIVE: Apple TV, Paramount+, Disney Plus + Hulu and more - Tom's Guide",
+        "description": "Catch all your favorite shows and movies for less",
+        "source_link": "https://www.tomsguide.com/live/news/black-friday-streaming-deals-sunday-november-22-2026"
+      },
+      {
+        "rank": 4,
+        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_07.jpg?w=1600&h=900&fit=crop",
+        "title": "GTA 6 Is Getting Review Bombed in Zelda vs. GTA Troll War - Polygon.com",
+        "description": "Grand Theft Auto 6 and The Legend of Zelda: Ocarina of Time fans are fighting over Metacritic scores as part of a larger anti-woke culture war.",
+        "source_link": "https://www.polygon.com/gta-6-review-bombed-legend-of-zelda/"
+      },
+      {
+        "rank": 5,
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GTA-6-Steam-listing.jpg",
+        "title": "GTA 6 has appeared on Steam, but it's not the PC port fans are waiting for - Notebookcheck",
+        "description": "GTA 6 is finally out now on PS5 and Xbox Series X/S, but PC gamers are still waiting for Rockstar to announce a release date for their platform. In the meantime, a fake listing for the game has appeared on Steam.",
+        "source_link": "https://www.notebookcheck.net/GTA-6-has-appeared-on-Steam-but-it-s-not-the-PC-port-fans-are-waiting-for.1456857.0.html"
+      },
+      {
+        "rank": 6,
+        "image": null,
+        "title": "Microsoft released Windows 11 KB5135000 OOBE (initial OS setup) update for 26H2, 25H2 - Neowin",
+        "description": null,
+        "source_link": "https://www.neowin.net/news/microsoft-released-windows-11-kb5135000-oobe-initial-os-setup-update-for-26h2-25h2/"
+      },
+      {
+        "rank": 7,
         "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-vice-city-skyline-1.jpg?w=1600&h=900&fit=crop",
         "title": "Sorry, Vice City, but You\u2019re the Most Boring Part of GTA 6 - Polygon.com",
         "description": "Grand Theft Auto 6's map is so well-designed that Vice City just might be the least exciting thing about Leonida.",
         "source_link": "https://www.polygon.com/gta-6-vice-city-boring/"
       },
       {
-        "rank": 2,
-        "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-and-lucia-motorcycles.jpg?w=1600&h=900&fit=crop",
-        "title": "'GTA 6' Bombshell: Husband Melts Down After Wife Hid Her Role In Game For Years - Polygon.com",
-        "description": "A long-kept GTA 6 secret low-key almost destroyed comedian Amber Wallin's marriage.",
-        "source_link": "https://www.polygon.com/gta-6-amber-wallin-comedian-instagram-npc-voice-actor-husband-secret/"
+        "rank": 8,
+        "image": "https://assets-prd.ignimgs.com/2026/11/20/ultimate-edition-wyman-car-collection-01-1795168394633.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "title": "Rockstar Says Darts Were Cut From GTA 6 Because It Didn't Have 'Unlimited Money or Time' to Make It 'Feel Proper' - IGN",
+        "description": "Rockstar Games crammed a lot of content into GTA 6, but fan-favorite mini-games like darts and bowling didn't make the cut because the team didn't have \"unlimited money or unlimited time\" to do those activities justice.",
+        "source_link": "https://www.ign.com/articles/rockstar-says-darts-were-cut-from-gta-6-because-it-didnt-have-unlimited-money-or-time-to-make-it-feel-proper"
       },
       {
-        "rank": 3,
+        "rank": 9,
+        "image": "https://gamegpu.com/images/1_2026/NEWS/Q4/nov/22/2435632_gpu.webp#joomlaImage://local-images/1_2026/NEWS/Q4/nov/22/2435632_gpu.webp?width=1600&height=900",
+        "title": "Grand Theft Auto VI will require a minimum of a Ryzen 5 5600 or Core i5 12400F to run at 30 FPS on PC. - GameGPU",
+        "description": "The modern PlayStation 5, PlayStation 5 Pro, and Xbox Series X consoles are built on eight-core AMD Zen 2 processors with 16...",
+        "source_link": "https://en.gamegpu.com/news/igry/dlya-grand-theft-auto-vi-dlya-30-fps-na-pk-potrebuetsya-minimum-ryzen-5-5600-ili-core-i5-12400f"
+      },
+      {
+        "rank": 10,
         "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/11/galaxy-s26-in-hand-running-one-ui-9-5.jpg?w=1600&h=900&fit=crop",
         "title": "One UI 9.5 brings these X new features to Samsung phones - Android Police",
         "description": "My S26 feels new again",
         "source_link": "https://www.androidpolice.com/one-ui-9-5-features-you-should-try/"
-      },
-      {
-        "rank": 4,
-        "image": "https://gizmodo.com/app/uploads/2026/09/Samsung-Galaxy-Z-Fold8-1200x675.jpg",
-        "title": "The Galaxy Z Fold8 Is Basically the iPhone Duo for Android Fans, Only Lighter and Now Cheaper Than Ever - Gizmodo",
-        "description": "Samsung's eighth foldable opens to a 4:3 screen made for movies and slips into a jeans pocket when closed.",
-        "source_link": "https://gizmodo.com/the-galaxy-z-fold8-is-basically-the-iphone-duo-for-android-fans-only-lighter-and-now-cheaper-than-ever-2000843646"
-      },
-      {
-        "rank": 5,
-        "image": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GTA-6.jpg",
-        "title": "Oh No, I Can\u2019t Stop Watching People Play \u2018GTA VI\u2019 - Defector",
-        "description": "I did not imagine that the release of Grand Theft Auto VI would have any meaningful impact on my life, for the simple reason that I am not a gamer. I know and even respect a few people for whom video games are important, but I mainly regard this in the same w\u2026",
-        "source_link": "https://defector.com/oh-no-i-cant-stop-watching-people-play-gta-vi"
-      },
-      {
-        "rank": 6,
-        "image": "https://images.purexbox.com/c9eab93692d07/1280x720.jpg",
-        "title": "140+ Games Are Reduced By 90-95% In The Xbox Black Friday Sale 2026 - Pure Xbox",
-        "description": "HUGE discounts for great games!",
-        "source_link": "https://www.purexbox.com/news/2026/11/140plus-games-are-reduced-by-90-95percent-in-the-xbox-black-friday-sale-2026"
-      },
-      {
-        "rank": 7,
-        "image": "https://images.macrumors.com/t/Y92nV1dJpm0_r95dbcPiqR_gEMc=/2497x/article-new/2026/10/MacBook-Neo-2-on-Yellow-Feature.jpg",
-        "title": "Apple Reportedly Plans to Release These Products in February or March - MacRumors",
-        "description": "Apple plans to unveil an iPhone 18e, iPhone 18, updated entry-level iPad, and new MacBook Neo and MacBook Air models around February or March next...",
-        "source_link": "https://www.macrumors.com/2026/11/22/new-apple-products-february-or-march/"
-      },
-      {
-        "rank": 8,
-        "image": "https://images.macrumors.com/t/y1HuPRSv1e6To4GeIAoCGSn6QrU=/2500x/article-new/2026/11/Black-Friday-Deals-26-4.jpg",
-        "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More - MacRumors",
-        "description": "Black Friday is getting closer and closer, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for...",
-        "source_link": "https://www.macrumors.com/2026/11/21/apple-black-friday-deals-available-now-2026/"
       }
     ],
     "trending_movies": [
@@ -76,10 +90,10 @@
       },
       {
         "rank": 3,
-        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-        "title": "The Odyssey",
-        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
-        "source_link": "https://www.themoviedb.org/movie/1368337"
+        "image": "https://image.tmdb.org/t/p/w200/vWbEuI3LuFOGYZIxESLAmwFwtvr.jpg",
+        "title": "The Social Reckoning",
+        "description": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up...",
+        "source_link": "https://www.themoviedb.org/movie/1281331"
       },
       {
         "rank": 4,
@@ -90,45 +104,45 @@
       },
       {
         "rank": 5,
-        "image": "https://image.tmdb.org/t/p/w200/vWbEuI3LuFOGYZIxESLAmwFwtvr.jpg",
-        "title": "The Social Reckoning",
-        "description": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up...",
-        "source_link": "https://www.themoviedb.org/movie/1281331"
+        "image": "https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+        "title": "The Odyssey",
+        "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to c...",
+        "source_link": "https://www.themoviedb.org/movie/1368337"
       },
       {
         "rank": 6,
-        "image": "https://image.tmdb.org/t/p/w200/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
-        "title": "Steps",
-        "description": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and mu...",
-        "source_link": "https://www.themoviedb.org/movie/1595124"
-      },
-      {
-        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
         "title": "Hexed",
         "description": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled...",
         "source_link": "https://www.themoviedb.org/movie/1538497"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "image": "https://image.tmdb.org/t/p/w200/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
         "title": "Spider-Man: Brand New Day",
         "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a ch...",
         "source_link": "https://www.themoviedb.org/movie/969681"
       },
       {
-        "rank": 9,
-        "image": "https://image.tmdb.org/t/p/w200/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
-        "title": "Focker In-Law",
-        "description": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's ...",
-        "source_link": "https://www.themoviedb.org/movie/1400336"
+        "rank": 8,
+        "image": "https://image.tmdb.org/t/p/w200/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
+        "title": "Steps",
+        "description": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and mu...",
+        "source_link": "https://www.themoviedb.org/movie/1595124"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "image": "https://image.tmdb.org/t/p/w200/gknAq4pAuToh1Aq5CJfVkGQkExT.jpg",
         "title": "Dune: Part Three",
         "description": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as ol...",
         "source_link": "https://www.themoviedb.org/movie/1170608"
+      },
+      {
+        "rank": 10,
+        "image": "https://image.tmdb.org/t/p/w200/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
+        "title": "Focker In-Law",
+        "description": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's ...",
+        "source_link": "https://www.themoviedb.org/movie/1400336"
       }
     ]
   }
